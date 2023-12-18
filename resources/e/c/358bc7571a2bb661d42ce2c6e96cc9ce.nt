@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#name> "BESCHILDERDE VAAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#description> "Painted jar with a polychrome design with feathers, rain, two sided patterns and drum design, black and polychrome on white.\r\nThis jar represents the Pueblo pottery tradition as practiced by members of Ysleta del Sur Pueblo. The design seem to be applied with acrylic paint, a more modern version of traditional techniques." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#identifier> "7278-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#material> "aardewerk ; acrylverf ; bakken ; schilderen op aarde- en glaswerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#creator> "Gloria Holguin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7278-2> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .

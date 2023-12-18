@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#name> "MUTS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#description> "Deze wintermuts voor mannen is van dikke gewatteerde blauwe Chinese katoen gemaakt. Het is van buiten donker en van binnen licht van kleur. \r\nOok vrouwen droegen dergelijke gewone (door-de-weekse) mutsen (zie 1202-282).\r\nAndere soorten mutsen, bijvoorbeeld van linxbont of Chinese zijde, werden gedragen bij speciale gebeurtenissen, zoals bij berenfeesten, en waren een kostbaar bezit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#identifier> "RV-1202-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

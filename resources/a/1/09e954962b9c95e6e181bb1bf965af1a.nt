@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#name> "KINDERJURK VOOR EEN JONGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#description> "Kinderjurk (\"chucht\") door jongens gedragen. Ongedecoreerde kinderjurk van zwart katoen. \r\nSluiting van links naar rechts.\r\nSoms droegen kinderen net als de volwassenen meerdere jurken over elkaar heen, vooral in de winter. Deze kleding raakte in de helft van de 20ste eeuw in ontbruik. Dergelijke mooi gedecoreerde en geborduurde hemden of jurken worden eind 20ste eeuw - begin 21ste eeuw door folkloristische dans, muziek en theatergroepen nog wel gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#identifier> "RV-1202-271" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-271> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

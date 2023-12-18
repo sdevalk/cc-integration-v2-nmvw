@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHouten antropomorf vrouwelijk beeld. Het beeld bestaat uit twee delen. Het onderste gedeelte wordt gevormd door heupen en benen en is bewerkt met geometrische motieven. Het bovenste gedeelte wordt gevormd door romp en hoofd. De armen ontbreken en rond de hals zijn meerdere kralenkettingen aangebracht. De ogen worden gevormd door witte kraaltje en in de oren zijn gaatjes aangebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#identifier> "AM-17-422" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#material> "Hout; kralen; textiel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-422> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

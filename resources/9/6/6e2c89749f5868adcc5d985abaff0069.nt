@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#name> "NEGEN DRAKEN WATERVAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#description> "Deze 74 meter hoge waterval was de allerhoogste van alle watervallen in de Diamanten Bergen. De waterval ontleent zijn naam aan een legende over negen draken die leefden in de twee poelen van de waterval. Deze draken hadden eerst hun thuis bij de Yujeomsa tempel, maar werden verjaagd door de 54 Boeddhabeelden van de tempel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#identifier> "7178-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7178-17> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

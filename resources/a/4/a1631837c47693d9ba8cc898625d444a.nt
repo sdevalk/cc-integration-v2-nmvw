@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#name> "TEGEL MET LIEFDESTAFEREEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#description> "This tile is a 19th century copy of a tile panel made to decorate a garden pavilion on the garden avenue of Chahar Bagh in Isfahan, built in the time of Shah Abbas (1583-1627)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#identifier> "RV-1378-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1378-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

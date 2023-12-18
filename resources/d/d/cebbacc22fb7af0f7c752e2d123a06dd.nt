@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#name> "AMULET IN DE VORM VAN EEN MENS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#description> "Amulet in de vorm van een mens (\"tschnai\"). Mensachtig figuur van hout zonder armen, met aanduiding van het gezicht. Dergelijke poppen in een veel groter formaat stelden huisgeesten voor. Zulke poppen werden soms in huis opgesteld en er werd voedsel aan geofferd. Poppen kunnen ook in het bos onder een boom worden geplaatst om er offers te brengen aan de geesten en meesters die in de natuur leven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#identifier> "RV-1202-380" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-380> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

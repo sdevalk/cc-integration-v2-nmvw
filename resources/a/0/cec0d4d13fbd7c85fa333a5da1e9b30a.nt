@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#name> "Kaftan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#description> "Vrouwenkledingstuk dat typerend is voor de kustplaats Sur. Het wordt ghabah genoemd. De vrouw kan de stof van de wijde mouwen bij elkaar pakken, een halve slag draaien en op haar hoofd vastmaken als hoofdbedekking. De ghabah uit Sur is befaamd om zijn met zilverkleurig metaaldraad geborduurde voorpand (khidma)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#identifier> "7013-140" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#material> "katoen, lurex\r\ngeweven: slingerdraadweefsel, kaartweefsel (?) , machinegenaaid, machinegeborduurd, handgeborduurd\r\n[VO] gemaakt door een Indiër" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#locationCreated> "Sur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#countryCreated> "Oman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#alternateName> "Sur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#alternateName> "Sur"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#alternateName> "As Sūr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7013-140> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

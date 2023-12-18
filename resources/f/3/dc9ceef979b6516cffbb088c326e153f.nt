@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#name> "Paneel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#description> "Rechthoekige plank met omgekrulde versieringen aan weerskanten en in het midden masker met krulversieringen. langwerpige plank, met 3 losse opzet stukken;  blad- en rankmotieven; op de grote plank 2 paar zich spiegelende motieven; aan de onder- en bovenkant een parelrand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#identifier> "7082-S-1804-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#material> "hout, verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1804-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .

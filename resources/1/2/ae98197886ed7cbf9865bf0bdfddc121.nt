@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#name> "SCHILD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#description> "Een schild gemaakt van lichtbruin hout. Het schild is lang en smal. Een uiteinde is recht afgesneden, het andere uiteinde loopt rond. De randen zijn bedekt met rotanrepen. In het midden zijn twee ogen van doorgestoken rotanrepen te zien. De voorkant van het schild is ongekleurd. Langs de randen en in het midden zijn bosjes donker geitenhaar vastgemaakt. Het schild is daarnaast versierd met ronde ingelegde stukjes porselein. In de beide uiteinden zijn grotere stukken porselein ingelegd. Deze stukken worden omringd door kleine stukjes porselein. De achterkant is niet versierd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#identifier> "RV-1249-25" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#material> "hout ; rotan ; porselein ; gesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1249-25> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

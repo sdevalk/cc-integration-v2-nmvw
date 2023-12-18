@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#name> "Godenbeeld: Kuwera" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#description> "Kuwera, zittend op een ovaal kussen, dat op een vierhoekig voetstuk ligt;  met rugleuning, ronde aureool met opengewerkte vlammenrand en parasol. Het linkerbeen voor het lichaam, het rechter opgetrokken en op een omgevallen pot rustend. De naarvoren gestrekte handen op de knieen, de linker omvat het slangachtige snoer van een buidel. Voor het voetstuk zeven potten met geld of goud, evenals op de vier hoeken hiervan. In de rechterhand een vrucht. Haardracht met vierhoekige uitsteeksels langs de rand. De buik zeer dik.\r\n(Vlg. Juynboll)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#identifier> "RV-1403-2466" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#yearCreatedEnd> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2466> <https://colonialcollections.nl/schema#yearCreatedStart> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#name> "HANDTAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#description> "Anatol Donkan, Nanai kunstenaar die gespecialiseerd is in visleerbewerking, maakte voor Museum Volkenkunde tas. De tas is gemaakt van zalmhuid in een geometrisch patroon, dat optimaal gebruik maakt van de vorm van de vissenhuiden. De lichte stroken is de buikzijde van de vissen, de donkere stroken de rugzijde. Het werk is geïnspireerd door de spirituele cultuur van de Nanai." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#identifier> "7143-9" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#material> "vissenhuid ; leer ; messing ; looien en aan looien verwante procedés ; naaien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#creator> "Anatol Donkan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7143-9> <https://colonialcollections.nl/schema#yearCreatedStart> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .

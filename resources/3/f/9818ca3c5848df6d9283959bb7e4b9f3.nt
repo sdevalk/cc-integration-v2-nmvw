@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#name> "BEELD: GANESHA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#description> "Zittend, met voetzolen tegen elkaar. Met smal hoofd, links beschadigd, rechteroog en rechtertand zichtbaar, slurf naar rechts, oren naar achteren geklapt. Dikke buik, vierarmig, met voorhanden naast zij, rechterhand met bakje en slurf, linkerhand met tand in vuist; achterarmen tegen achterstuk, rechter hand met steel verweerd voorwerp (strijdbijl of olifantshaak ?). Hoekige hoge kroon met lotussen, linten tegen nimbus omhoog, kralenhalsketting, kastekoord over linker schouder, lotusbuikband, antefix bovenarmbanden. Heupkleed om benen met slippen over benen en lus en slip aan zijkant. Recht achterstuk, puntig toelopend, met sralenkrans em hele beeld, nimbus met punt boven.\r\nDe grijs-witte andesiet vertoont zwarte vlekken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#identifier> "RV-1403-1844" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#material> "steen (andesiet)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#yearCreatedEnd> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1844> <https://colonialcollections.nl/schema#yearCreatedStart> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .

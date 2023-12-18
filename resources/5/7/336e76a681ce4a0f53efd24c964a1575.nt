@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#description> "Drie dames ten voeten uit, van links bezien. De voorste dame draagt een roze-rode furisode (kimono met lange mouwen, bestemd voor ongetrouwde vrouwen) en een ronde reishoed. Ze heeft een uitgevouwen waaier in haar linkerhand en ziet om naar twee jongedames die achter haar lopen, elk met een zwart obi (ceintuur). Een van de twee draagt een parasol voor hen twee. Serie 'Fûzoku azuma no nishiki', 'Modieus brokaat uit de hoofdstad'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#identifier> "RV-1353-1808" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#creator> "Torii Kiyonaga" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#yearCreatedEnd> "1811"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1808> <https://colonialcollections.nl/schema#yearCreatedStart> "1769"^^<http://www.w3.org/2001/XMLSchema#integer> .

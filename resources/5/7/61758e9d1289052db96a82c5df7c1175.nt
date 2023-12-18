@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#name> "BLAUW GEBLOEMD KATOENEN VROUWEN JAKJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#description> "Het jakje heeft een donkere basiskleur met gekleurde ‘bloem’ motieven; de stof is recent gekocht op de markt in Ternate. Rechte inzet van de smalle mouwen, rechte onderzijde. Het jakje of baadje wordt gedragen door gehuwde vrouwen in combinatie met de blauwe ikat sarong)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#identifier> "7038-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#material> "fabriekskatoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7038-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

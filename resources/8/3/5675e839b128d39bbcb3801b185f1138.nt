@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#name> "PRENT MET DUBBELPORTRET VAN MOHAMMAD REZA EN ZIJN ZUS ASHRAF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#description> "Prent met dubbelportret van Mohammad Reza, shah van Iran, en zijn tweelingzus Ashraf. De foto is een geschenk voor de lezers van het weekblad Tarraghi (ontwikkeling) ter gelegenheid van de 34e verjaardag van de shah en zijn zus.\r\n\r\nAshraf had grote invloed op haar broer, zij wordt gezien als de machtige vrouw achter de schermen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#identifier> "7158-60" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-60> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

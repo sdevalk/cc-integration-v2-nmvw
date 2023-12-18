@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#name> "Veger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nVeger vervaardigd uit vezels met een met kralen versierd handvat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#identifier> "AM-498-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#material> "Vezels; kralen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-498-18> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#name> "INKTVISTUIG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#description> "Inktvistuig vervaardigd uit twee Cypraeaschelpen en lavasteen en een houten stok, bij elkaar gebonden met kokostouw.\r\n\r\nHet inktvistuig wordt door een visser over de kant van een boot gehangen. De inktvis zuigt zich op het tuig vast omdat hij denkt dat het een prooi is en wordt vervolgens in de boot getrokken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#identifier> "RV-1291-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#material> "lavasteen ; touw ; schelp (Cypraea tigris) ; hout ; bladreep ; snoer (Europese makelij)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1291-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .

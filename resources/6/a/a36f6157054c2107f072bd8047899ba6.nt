@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#name> "Godenbeeld: Aksobhya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#description> "Aksobhya\r\nZittend in diamanten houding op een rond lotuskussen met een eenvoudig voetstuk. De rugleuning loopt puntig op, in de vorm van een saraceense boog met vlammenrand. Op de spits is de parasol bevestigd. De rechterhand, in bhumisparsamudra, rust met de palm op de rechterknie; de linker, met de palm naar boven gekeerd, op de schoot. Op het voorhoofd de urna. Het kapsel loopt spits op.\r\n(Vlg. Juynboll)\r\n\r\nInformatie (vlg. Juynboll)\r\nColl. Bagman, 1842-1843.\r\nLeemans, no. M, 69: Buddha." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#identifier> "RV-1403-1709+1710" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1709+1710> <https://colonialcollections.nl/schema#yearCreatedStart> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .

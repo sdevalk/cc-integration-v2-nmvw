@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-38-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-38-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-38-21> <https://colonialcollections.nl/schema#description> "Dansrokje voor vrouwen.\r\n\r\nBeschrijving\r\nRok vervaardigd uit plantaardige donkere vezels." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-38-21> <https://colonialcollections.nl/schema#identifier> "AM-38-21" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-38-21> <https://colonialcollections.nl/schema#material> "Plantaardige vezels" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-38-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

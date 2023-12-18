@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#name> "NAIRATMYA DAKINI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#description> "Densatil klooster" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#identifier> "WM-V-384" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#material> "vuurverguld brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#yearCreatedEnd> "1499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-384> <https://colonialcollections.nl/schema#yearCreatedStart> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .

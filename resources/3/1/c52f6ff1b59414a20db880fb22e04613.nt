@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <https://colonialcollections.nl/schema#description> "Qua vorm en type is dit een typisch Kuba-mes.\r\n\r\nBeschrijving\r\nMes voorzien van een ivoren heft en een ijzeren lemmet dat is bewerkt met een eenvoudig lijnenmotief." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <https://colonialcollections.nl/schema#identifier> "AM-412-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <https://colonialcollections.nl/schema#material> "Metaal; ivoor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-412-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

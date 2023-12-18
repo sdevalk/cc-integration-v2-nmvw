@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <https://colonialcollections.nl/schema#description> "Cupronickel British East Africa 5 cent coin.\r\n\r\nObverse: GEORGIVS V REX ET :IND: Five Cents\r\nReverse: East Africa & Uganda Protectorates 1914\r\nMintmark: K (King's Norton)\r\nThis coin has a round hole in the middle.\r\n\r\nThe British East African Rupee was the currency used in British East Africa between 1906 and 1920. 1 Rupee was worth 100 cents.\r\n\r\nBoth the German East African Rupie and the British East African Rupee were named after the Indian Rupee which was a common trade coin circulating in East Africa." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <https://colonialcollections.nl/schema#identifier> "AM-17-610" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <https://colonialcollections.nl/schema#material> "IJzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-610> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

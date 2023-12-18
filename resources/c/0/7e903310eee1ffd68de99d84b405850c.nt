@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#name> "Jak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#description> "jak met mouwen; blauw gevefd katoen met witte voering; witte kraag en zijstukken van de borstspleet met rode driehoekjes waarop drie witte naden; opgelegde rode arabesken ter weerszijden en onder de bortspleet, met kleine spiegeltjes in de ronde openingen; halve mouwen.\r\nHerkomst: vermoedelijk Borneo." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#identifier> "7082-S-166-101" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#material> "katoen, spiegelglas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-166-101> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

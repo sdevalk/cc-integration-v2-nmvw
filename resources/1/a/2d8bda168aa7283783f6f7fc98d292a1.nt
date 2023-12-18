@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#name> "DOEK OF PANDJE VOOR MANNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#description> "'Pandje' voor mannen; vervaardigd door Saamaka vrouw Helena, te Ganzee, aan de Boven-Suriname rivier. De doek is vermoedelijk een kamisa, een lendendoek die tussen de benen door wordt geslagen, en om een koordje (kamitété) rond het middel geslagen. \r\nOp de doek staan allerlei figuren, o.a. een vrouw op hakken in een rok en een vogel. Als tekst staat er: Maosoema (?) klosi vo tapo, en de naam van de maakster: Helena uit Ganzee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#identifier> "RV-1194-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#material> "Katoen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1194-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

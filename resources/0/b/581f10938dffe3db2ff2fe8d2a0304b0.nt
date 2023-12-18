@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#name> "AMULET" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#description> "Een amulet (?) gemaakt van een steensoort, wellicht lava. De steen ziet eruit  als eenoverdwars afgeslagen brok of schijf van geheel of gedeeltelijk over de lengte doorboorde pijp, naderhand glad geslepen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#identifier> "RV-1403-2007" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#material> "steen, lava" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2007> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

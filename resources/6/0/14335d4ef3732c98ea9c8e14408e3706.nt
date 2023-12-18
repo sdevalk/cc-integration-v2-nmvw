@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <https://colonialcollections.nl/schema#name> "Strijdbijl" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <https://colonialcollections.nl/schema#description> "Inv.kaart: Cat.Bom no.7, vergelijk Ethnogr.Album Congo 1916 plaat 72 fig.1-4, voor de vorm van lemmet vooral fig.3 en 4." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <https://colonialcollections.nl/schema#identifier> "RV-1337-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1337-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

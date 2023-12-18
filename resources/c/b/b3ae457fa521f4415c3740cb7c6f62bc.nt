@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#name> "TEMPELVERSIERING (LAMAK)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#description> "De voorstelling  op deze lamak is een hoofdpersonen uit het Mahabharata, nl. Subadra, de gemalin van Arjuna. Ook de namen van de godenzetels in de familietempel, waar deze lamak aan werd opgehangen zijn vermeld: Taksu (de goddelijke inspirator) en P(= Pelinggih, zetel) Majapahit (voor de voorouders die afkomstig zijn uit dit beroemde Javaanse rijk)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#identifier> "7047-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#material> "textielmaterialen ; borduren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#locationCreated> "Jembrana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#alternateName> "Djembrana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#alternateName> "Jembrana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7047-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#name> "AFFICHE 'FASHION CITIES AFRICA' IN HET TROPENMUSEUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#description> "Affiche voor de tentoonstelling 'Fashion Cities Africa' in het Tropenmuseum van 5 oktober 2017 t/m januari 2019" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#identifier> "7036-14e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#material> "papier; offset druk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#yearCreatedEnd> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7036-14e> <https://colonialcollections.nl/schema#yearCreatedStart> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .

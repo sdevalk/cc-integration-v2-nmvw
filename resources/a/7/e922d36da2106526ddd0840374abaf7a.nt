@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#name> "TROUWFOTO VAN FRITS SLIJTERS EN ESTER MUNGROO MET FAMILIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#description> "Trouwfoto in Suriname met ouders en zussen(?). Foto ter gelegenheid van het huwelijk van Ester Mungroo en Frits Slijters, 29 september 1956." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#identifier> "7242-24" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#inscription> "In inkt geschreven op achterzijde: Frits & Esther." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#material> "fotopapier ; zwartwitfotografie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7242-24> <https://colonialcollections.nl/schema#yearCreatedStart> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

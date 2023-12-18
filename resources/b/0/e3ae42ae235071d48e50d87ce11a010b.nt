@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#name> "zonder titel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#identifier> "7106-697" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#material> "Speerwerper. Taps toelopende, platte houten speerwerper, met aan de smalle kant een haak en aan de op ongeveer 15 cm. brede onderkant twee inkepingen zodat het een handvat vormt. Op de platte zijde en de haak sporen van gele oker, verder onbewerkt.\r\nVervaardigd door Hector ('Old Hector') van Gunwingju taalgroep (Kakadu groep in ongeveer 1970 in het gebied rondom Pine Creek (in het kamp aan de Mary River)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-697> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

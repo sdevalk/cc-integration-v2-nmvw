@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#name> "Prent" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#description> "Ryogokubashi, Ryogoku uit het kyoka boekje Kyoka - Santo meisho zue\r\nEen koppel  en hun drie zonen geniet van de koelte van de avond en kijken naar het vuurwerk bij de Ryogokubashi. Er staan vijf kyoka gedichten bij de tekening." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#identifier> "RV-1353-664d" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#material> "Houtblok ; papier ; inkt ; pigmenten ; drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#creator> "Totoya Hokkei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-664d> <https://colonialcollections.nl/schema#yearCreatedStart> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .

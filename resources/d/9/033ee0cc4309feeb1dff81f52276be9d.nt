@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <https://colonialcollections.nl/schema#name> "POT MET BOLGEWAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <https://colonialcollections.nl/schema#description> "Glazen pot met bruinkleurig en peervormig bolgewas, malgoo, gebruikt als voedsel waar het gehele jaar naar gezocht werd.\r\nDit bolgewas werd verzameld door E. Clement tijdens zijn verblijf in West-Australië (gebied tussen de Fortescue River en de Fitzroy River) in 1896-1898. \r\nDS, september 2006." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <https://colonialcollections.nl/schema#identifier> "RV-1207-94" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <https://colonialcollections.nl/schema#material> "bolgewas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-94> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#name> "PRENT MET DE DARGAH VAN NAGORE SHAHUL HAMID" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#description> "Prent met een afbeelding van de dargah van de moslimheilige Nagore Shahul Hamid (1490-1579). Bovenaan een tekst uit de Koran (10:62): 'Zeker, Gods helpers hebben niets te vrezen, noch zullen zij bedroefd zijn'. In de islamitische theologie wordt veelal aangenomen dat met de term 'Gods helpers' heiligen worden bedoeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#identifier> "7158-548" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#creator> "Picture Publishing Corporation (PPC)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#creator> "L.N. (Lakshminarayan Khubira) Sharma" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-548> <https://colonialcollections.nl/schema#yearCreatedStart> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

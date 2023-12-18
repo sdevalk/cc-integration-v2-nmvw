@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#name> "Rouwstrik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#description> "Zwarte strik, aan de voorkant  2 lussen, achter 2 uiteinden, stiksel aan achterkant op knoop. Is koloniaal, begrafenis; gebruikt door dhr H.C.W. Mattern (1860-1947) als schrijver 4e reg.infant." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#identifier> "7082-S-1782-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-1782-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

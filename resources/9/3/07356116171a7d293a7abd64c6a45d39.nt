@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#name> "Boeddhabeeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#description> "Boeddhabeeld met hoge ushnisha, uitstulping op het hoofd, en wijd uitstaand monnikskleed. Het monnikskleed is over beide schouders geslagen, iets wat vrij zeldzaam is voor beeldjes van Java. Er zijn echter veel verschillende stijlen in de boeddhistische bronzen van Java te zien. Ze wijzen erop dat Java in contact stond met verschillende andere boeddhistische gebieden, zoals Sri Lanka, India, Sumatra en Thailand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#identifier> "RV-1403-2464" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-2464> <https://colonialcollections.nl/schema#yearCreatedStart> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .

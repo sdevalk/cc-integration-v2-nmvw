@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#name> "Schildering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#description> "Rolschildering voorstellende een lopend skelet, een vrouw op de rug dragend. Geschilderd door Kawanabe Kyôsai, 20 Maart 1886." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#identifier> "RV-1332-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#inscription> "Notitie op achterzijde montering:\r\nHet einde van een publieke vrouw door Kiosai.\r\nDen 20sten Maart 1886 door Kiosai in mijne tegenwoordigheid geschilderd. \r\nTen 3 uur nm. kreeg hij een rol wit papier en ten 5 uur 40 min. nm. was de tekening voltooid.\r\nP.S." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#material> "papier ; sumi inkt ; pigment ; schildering gemonteerd als hangrol (kakejiku)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#creator> "Kawanabe Kyosai 河鍋暁斎" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1332-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

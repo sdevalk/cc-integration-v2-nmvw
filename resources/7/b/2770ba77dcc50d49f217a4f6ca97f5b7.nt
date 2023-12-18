@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <https://colonialcollections.nl/schema#name> "MUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <https://colonialcollections.nl/schema#description> "Een Chinese munt gemaakt van koper. De ronde munt heeft in het midden een vierkant gat. Naast de vier kanten van het gat zijn Chinese karakters te zien. De munt heeft een waarde van een 1/2 stuiver." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <https://colonialcollections.nl/schema#identifier> "RV-122-71" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <https://colonialcollections.nl/schema#material> "koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-122-71> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

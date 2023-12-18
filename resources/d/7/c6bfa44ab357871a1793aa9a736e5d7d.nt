@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#name> "DRAADTAS / DRAAGTAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#description> "van touwdraad gevlochten met aan een zijde versierd met vruchtenkralen (pitten van de Coix Lacryma-Jobi?), welke in de helft zijn gedeeld en zodoende een conisch beeld vertonen. Beschadigd.\r\nVolgens stamboek \"dood\".\r\nHerkomst:  Australisch Nieuw Guinea." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#identifier> "7082-S-177-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#material> "pit, touwvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-177-18> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

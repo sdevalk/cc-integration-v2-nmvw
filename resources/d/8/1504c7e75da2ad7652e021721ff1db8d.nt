@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#name> "Boeddhabeeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#description> "De Boeddha zit hier op een rots. Voor hem knielen een olifant en een aap. Zij verwijzen naar een verhaal. Toen de Boeddha in Kaushambi was, ontstond er ruzie tussen de monniken in die stad. De Boeddha realiseert zich dat de monniken ook maar mensen zijn. Hij besluit om zich in het bos terug te trekken, totdat de monniken zelf hun lessen hebben getrokken. In het bos voorziet een olifant hem van water en geeft een aap hem een honingraat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#identifier> "RV-1344-135" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#material> "metaal ; klei ; verguld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1344-135> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

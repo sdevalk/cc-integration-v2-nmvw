@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#name> "BEELD: WAJRAPANI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#description> "Wajrapani, staande op rond lotuskussen, zonder voetstuk, rugleuning en aureool. De rechterhand voor het lichaam gestrekt in predikend gebaar; in de linker een lotusstengel, die vanaf het lotuskussen zich langs zijn linkerzijde en linkerarm tot op de linkerschouder slingert en van wiens bloemkelk zich de vajra verheft. Hoog opgemaakt kapsel met driehoekige sierstukken; halsketting, versierde bovenarmbanden, polsbanden, upavita, gordel en onderkleed.\r\n(Vlg. Juynboll)\r\n\r\nInfo. (vlg. Juynboll): Coll. Domis, 1844.\r\n\r\nLit. (vlg. Juynboll): Leemans, no. M, 76: Buddha. \r\nGrunwedel, B.K. 159: \"De Bodhisatwa's worden in koninklijke dracht en sieraden voorgesteld\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#identifier> "RV-1403-1775" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#yearCreatedEnd> "850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1775> <https://colonialcollections.nl/schema#yearCreatedStart> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .

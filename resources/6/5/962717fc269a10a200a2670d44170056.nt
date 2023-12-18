@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#name> "Doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nKatoenen witte doek met daarop in het zwart, rood en groen een vijftal zich herhalende knopen. De knoop in het midden is een slag gedraaid ten opzichte van de overige vier en omgeven door een vijftal dunne cirkels." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#identifier> "AM-17-75" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#material> "Katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-75> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

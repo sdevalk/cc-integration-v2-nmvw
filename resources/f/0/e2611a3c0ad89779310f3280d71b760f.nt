@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#name> "ZEGEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#description> "筆桿强於槍桿 (Pens will prove stronger than guns.)\r\n哀悼巴黎一七枉魂；甲午冬月龍樂恒刊。\r\nSide inscription : Mourning the souls of those unjustly killed on January 7th (Western calendar). Carved by Laurent Long in the winter of year jiawu (2015).\r\nCarved in response to the terrorist attacks on Charlie Hebdo in 2015. \r\n\r\n筆桿强於槍桿。\r\nLe crayon sera plus fort que le fusil.\r\n哀悼巴黎一七枉魂；甲午冬月龍樂恒刊。\r\nPens will prove stronger than guns.\r\nThe pen is mightier than the gun. Carved in response to the terrorist attacks on Charlie Hebdo in 2015." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#identifier> "7239-2a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#material> "gesteente ; inkt ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#creator> "L.P. (Laurent) Long" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2a> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .

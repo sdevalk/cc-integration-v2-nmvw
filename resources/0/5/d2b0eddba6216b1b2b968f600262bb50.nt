@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#name> "SIRIHMANDJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#description> "inventariskaart ontbreekt ; Op Damar zijn veel gebruiksvoorwerpen gemaakt van vlechtwerk. Tot de meest voorkomende behoren manden, dozen en zakken in allerlei soorten en maten. Dit mandje fungeerde als opbergplaats van de benodigdheden voor het kauwen van sirih.\r\nGezien de gebruikte materiaalsoort - palmblad - was de producent vermoedelijk een vrouw; in Maluku Tenggaral vlechten mannen gewoonlijk met harde materialen als rotan en bamboe.\r\nDergelijke sirihmandjes werden gewoonlijk beschouwd als onderdeel van de persoonlijkheid van de eigenaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#identifier> "RV-1241-209" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#locationCreated> "Pulau Damar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#alternateName> "Salomakie Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#alternateName> "Poelau Damar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#alternateName> "Damar Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#alternateName> "Poelau Makië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#alternateName> "Pulau Damar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1241-209> <https://colonialcollections.nl/schema#yearCreatedStart> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .

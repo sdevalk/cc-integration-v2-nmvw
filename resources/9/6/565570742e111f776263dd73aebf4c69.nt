@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#description> "Een pijl met een rieten schacht en een peesinkeping. De punt is van bamboe en bladvormig op een ovalen steel. Het boveneinde van de schacht is horizontaal omvlochten met fijne vezels en met hars vastgezet." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#identifier> "RV-131-19a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#material> "riet ; bamboe ; vezelmateriaal ; hars" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1871"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-131-19a> <https://colonialcollections.nl/schema#yearCreatedStart> "1871"^^<http://www.w3.org/2001/XMLSchema#integer> .

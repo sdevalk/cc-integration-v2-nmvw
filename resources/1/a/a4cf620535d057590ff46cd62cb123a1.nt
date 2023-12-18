@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#name> "HALSBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#description> "Halsband voor een hond. Bestaande uit een van touw gevlochten band, verbonden aan een ijzeren ring die draaibaar is om een ijzeren pin. Hieraan is een leren riem bevestigd. Honden werden wellicht aan een dergelijke riem in de nederzetting vastgelegd.\r\n\r\nDe slee, een belangrijke transportmiddel werd getrokken door een span honden varrierend van vijf tot dertien honden. De honden werden ingespannen aan één hoofdlijn waaraan de halsbanden van de honden afgewisseld links en rechts bevestigd zijn. De leider van het span werd direkt aan de hoofdlijn vastgemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#identifier> "RV-1202-171" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#material> "leer ; ijzer ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-171> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

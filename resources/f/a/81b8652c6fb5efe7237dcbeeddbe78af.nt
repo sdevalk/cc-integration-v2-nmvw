@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#name> "TALISMANGORDEL VOOR KINDEREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#description> "Deze talismangordel voor kinderen bestaat uit een katoenen gordel waaraan drie kaken, twee knokkels, een botje, twee snavels, een houten tasje (model) en een benen kokertje met een knoop hangen.\r\nDeze werden meestal aan de wieg gehangen om zieke kinderen te beschermen tegen boze geesten. Deze was vermoedelijk gemaakt voor een ziek meisje omdat de kralen heel fraai zijn. Voor jongens werden veelal houten messen aan de gordel gehangen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#identifier> "RV-1202-71" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#material> "been (rendierbot) ; hoorn ; hout ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-71> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

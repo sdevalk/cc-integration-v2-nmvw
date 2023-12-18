@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#name> "EEN PAAR MOUWBINDERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#description> "Een paar mouwbinders van zwart en blauw katoen met rode rand en met blauwe randen. De achter kant is ongekleurd.\r\nDe mouwbinders zijn gemaakt van dubbel, langgerekt katoen.\r\nHet uiteinde loopt spits toe en mondt uit in een lint. \r\nHet midden is door een smalle band gescheiden van de bredere zijstroken met rand.\r\nMouwbinders dienden om het inwaaien van de koude wind en van sneeuw tegen te gaan.\r\nZe werden om de mouw gewikkeld en vervolgens dichtgebonden met de lintjes.\r\nDeze kledingstukken raakten gedurende de twintigste eeuw in onbruik." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#identifier> "RV-1202-75" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#locationCreated> "Amur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#alternateName> "Amur River"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#alternateName> "Heilong Jiang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1202-75> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

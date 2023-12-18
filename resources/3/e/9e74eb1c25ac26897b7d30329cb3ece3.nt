@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#name> "BUNDEL VAN TIEN BUNDELTJES OFFERPAPIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#description> "Bundel van tien bundeltjes van vijf, dubbelgevouwen, offerpapiertjes, die bij elkaar worden gehouden door een opgeplakt bandje rood papier. De volledige bundel wordt bij elkaar gehouden door een kunstof touwtje. Op de voorkant van het opgevouwen papier is een afbeelding gedrukt.\r\nDit papiergeld werd door verbranding geofferd aan voorouders. Het is bedoeld om over te steken tussen de wereld van de levenden en de doden. Het karakter 'shou' word meerdere keren herhaald op dit papiergeld en drukt de wens uit voor een lang leven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#identifier> "7160-59a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#inscription> "陽間過運錢" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#material> "papier ; pigment" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#locationCreated> "Shantou" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#alternateName> "Swatow" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#alternateName> "Shantow" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#alternateName> "汕头" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#alternateName> "Shan-t’ou-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#alternateName> "Shantou" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#alternateName> "Shantou"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7160-59a> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

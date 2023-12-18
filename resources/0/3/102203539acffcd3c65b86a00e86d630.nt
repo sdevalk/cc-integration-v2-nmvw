@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <https://colonialcollections.nl/schema#name> "SABEL ; SCHEDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <https://colonialcollections.nl/schema#description> "Een korte sabel gemaakt van gesmeed ijzer. Het lemmet is recht en tweesnijdend en een middenrug aan beide zijden. De ovale stootplaat is van rood koper gemaakt. Het ene uiteinde wijst naar boven, andere naar beneden. De greep is recht en zeskantig van donkerbruin hout met een zilveren steelring en een brede zilveren band om de bovenkant. De draagband is van bruin leer gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <https://colonialcollections.nl/schema#identifier> "RV-1250-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <https://colonialcollections.nl/schema#material> "metaal ; hout ; koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1250-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#name> "DOOS MET MONSTER VAN [NI]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#identifier> "7161-54" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#inscription> "Opschrift: boven: Koloniaal Museum te Haarlem. (gedrukt).\r\nEtiket: boven: Schoolverzameling. (gedrukt) & midden: Witte Peper. (gedrukt)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#material> "plantaardig materiaal ; karton ; papier maken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#creator> "Koloniaal Museum Haarlem" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7161-54> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .

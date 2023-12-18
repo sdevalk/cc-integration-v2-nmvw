@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#name> "Pinkalarta" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#description> "Alma Webou paints Pinkalarta, the home where both she and her mother grew up. It is located in the Great Sandy Desert near Joanna Springs on the Anna Plains station. This is where she lost her mother and sister. This where she lost her mother and her sister. Her work gives an serial view of the landscape, showing the mayi (bush food) and the jila (living water). Alma is a part of the Yulparija people who were forced to leave her home when the water began to dry up. She found her new home in the coastal town of Bidyadanga, and as a result, her desert imagery is expressed with the vibrant contrasts of the saltwater landscape." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#identifier> "7106-530" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#material> "doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-530> <https://colonialcollections.nl/schema#yearCreatedStart> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

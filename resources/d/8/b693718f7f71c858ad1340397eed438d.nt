@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#name> "96. TATAUIERTER JÜNGLING." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#description> "Studioportret, rugaanzicht van man met tatoeages vanaf zijn middel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#identifier> "WM-940175-96" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#material> "offsetdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#creator> "Scheurmann, E." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#creator> "Im See Verlag" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940175-96> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
