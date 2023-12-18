@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#name> "KATOENEN WIKKELROK MET KLEURIG STREEPPATROON IN ONDER ANDERE INSLAGIKAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#description> "Het geheel is hoofdzakelijk in linnenbinding geweven.\r\nDe banen met ingeweven patroon wijzen uit dat de schering is opgespannen in rozengang. Dit weefsel is dus geweven op een   weefstoel met vier schachten. Aan de zelfkanten is te zien dat men een breedhouder heeft gebruikt. Delen van het patroon bevatten inslagikat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#identifier> "TM-2344-294" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-294> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

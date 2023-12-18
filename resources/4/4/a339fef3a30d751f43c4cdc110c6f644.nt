@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#name> "GEGLAZUURDE AARDEWERKEN HERDENKINGSKRUIK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#description> "Op het kruikje staat een deel van de wereldkaart geschilderd, met Nederland duidelijk aangegeven en op de lokatie van de Antillen de jaartallen \"1634-1934\". Op zee vaart een koopvaardijschip uit de 17de eeuw. \r\nHet kruikje werd vervaardigd door de Kennemer Pottenbakkerij Velsen ter gelegenheid van de herdenking van de driehonderdjarige band tussen Nederland en de Antillen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#identifier> "TM-1295-80" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-80> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

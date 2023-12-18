@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#name> "MET SNIJWERK VERSIERDE LANGWERPIGE BAK VAN HOUT, GEBRUIKT BIJ DANSEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#description> "Asmatters gebruiken van oudsher houten bakken (lokale naam 'jifoi') voor het bewaren en opdienen van voedsel en het mengen van verf. De bakken zijn over het algemeen ovaal of kanovormig. De uiteinden van de bakken zijn vaak voorzien van een uitgesneden mens- of dierfiguur. Deze figuren zijn veelal vernoemd naar voorouders. Ook zijn er bakken in de vorm van een mensfiguur waarbij de romp fungeert als bak. Bakken van hout komen alleen in Centraal en Noordwest Asmat voor.\r\n\r\nAsmatters maken ook bakken van sagoblad in de vorm van een trog of schuit. Deze komen in het gehele Asmat-gebied voor en worden alleen gebruikt voor het mengen en opdienen van voedsel zoals sago en larven van de sago boktor." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#identifier> "TM-2357-27" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#locationCreated> "Sungai Eilanden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#alternateName> "Sungai Pulau" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#alternateName> "Sungai Pulau-pulau" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#alternateName> "Sungai Eilanden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#alternateName> "Bets" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#alternateName> "Sungei Pulau" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#alternateName> "Eilanden-rivier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2357-27> <https://colonialcollections.nl/schema#yearCreatedStart> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .

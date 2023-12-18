@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#name> "GADO HOSO  TE FISITI (GODOHOLO), OMGEVEN MET KIFOENGA-TIKI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#description> "Gadu osu is de Marron-omschrijving van Godshuis of tempel (Gadu=God;osu=huis). In elk dorp staan één of meerdere huisjes die als tempels dienen.\r\nDeze gadu osu is omringd met jonge takken van de Maripapalm. Dat is bedoeld om kwade geesten af te weren.  Het dorp Godo olo waar dit tempeltje staat, ligt aan de Tapanahonyrivier." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#identifier> "TM-10018991" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018991> <https://colonialcollections.nl/schema#yearCreatedStart> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

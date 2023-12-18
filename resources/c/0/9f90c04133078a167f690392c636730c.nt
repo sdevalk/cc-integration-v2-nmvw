@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#name> "EEN SAWALANDSCHAP MET PALMEN EN EEN VISSER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#description> "Opschrift aan de achterkant: Gusti Agung Purga (de schilder), Ubud." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#identifier> "TM-2177-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#creator> "G. (Gusti) Agung Purga" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2177-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

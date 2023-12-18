@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#name> "KRALEN SCHAAMSCHORT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#description> "Driehoekig kralen schaamschortje waarvan de vorm zeer ongebruikelijk is. De bovenkant is vervaardigd van verschillende in elkaar gedraaide en vastgenaaide kralensnoeren. Aan beide zijkanten is een kegelvormig koperen knoopje bevestigd, hieraan dient een band vastgemaakt te worden om het schortje te kunnen dragen.\r\nGlaskralen zijn in een driehoekig patroon geregen en aan de bovenzijde bevestigd aan een gele kralenband van in elkaar gedraaide snoeren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#identifier> "TM-2231-26" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#material> "glas ; koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

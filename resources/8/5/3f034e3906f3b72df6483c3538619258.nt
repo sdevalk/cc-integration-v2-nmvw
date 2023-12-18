@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#name> "BEELD VOORSTELLENDE JAN VAN RIEBEECK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#description> "Beeld voorstellende Jan van Riebeeck (1618-1677) ten voeten uit op voetstuk. Van gips gegoten, afgedekt met bronskleurige verf.\r\n\r\nThis plaster cast of a statue of Van Riebeeck was made for the Tropenmuseum's 1952 exhibition on the 300th anniversary of the landing of Van Riebeeck at the Cape of Good Hope in 1652." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#identifier> "TM-0-718" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#inscription> "Jan van Riebeeck 1618-1677 Herbert H. Cawood fc 1937" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#material> "gips ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#creator> "H. H. (Herbert Harry) Cawood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-718> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

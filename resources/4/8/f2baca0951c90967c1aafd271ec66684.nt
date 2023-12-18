@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#name> "EEN DRIETAL INDIAANSE VROUWEN, WAARVAN ÉÉN MET EEN BABY EN ÉÉN IN DE ROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#description> "Het meisje rechts, met het kaalgeschoren hoofd, is in de rouw na de dood van haar vader" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#identifier> "TM-10019428" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019428> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

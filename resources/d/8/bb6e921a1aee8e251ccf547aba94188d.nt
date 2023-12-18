@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#name> "BEDRUKTE KATOEN HOOFDDOEK ALS ONDERDEEL VAN EEN KOTOMISI ENSEMBLE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#description> "Deze hoofddoek in oranje gemarmerde blokprint  is in eigen atelier vervaardigd ter gelegenheid van het bloemencorso te Aalsmeer, alwaar het gedragen werd door een Surinaams meisje op de praalwagen met de naam \"Plantage Tamarinde\" (5 september 1959). laatstgenoemde is een toneelstuk van Hans Keuls.\r\n\r\nHet patroon van de stof is mogelijk Anansi, te zien aan het spinnenweb. Deze spin speelt een belangrijke rol in de verhalen uit Suriname en het Caraibisch gebied." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#identifier> "TM-2403-8c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-8c> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

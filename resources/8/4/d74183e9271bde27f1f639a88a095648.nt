@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#name> "BLAUW GESTREEPT KATOENEN VEST, ONDERDEEL BEDOEÏNENKOSTUUM VOOR MANNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#identifier> "TM-2248-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#locationCreated> "Algiers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#alternateName> "Algeri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#alternateName> "Algiers"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#alternateName> "Al-jezair" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#alternateName> "Al Jazair" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2248-1c> <https://colonialcollections.nl/schema#alternateName> "Algier" .

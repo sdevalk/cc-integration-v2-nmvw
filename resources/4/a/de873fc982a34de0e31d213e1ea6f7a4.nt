@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#name> "EEN PAAR BROEKSPIJPEN (A-B) VAN ONGEBLEEKT KATOEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#description> "Dit kledingstuk is gemaakt door Rita Bolland ten behoeve van aankleding van een pop op de tentoonstelling van top tot teen gehouden van maart 1967 to april 1968 in het Tropenmuseum. Vervaardigd naar voorbeeld authentieke broekspijp die geleend was van het Musée de l'Homme. De stof is van ongebleekte katoen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#identifier> "TM-2403-68a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#creator> "Maria Adriana (Rita) Bolland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2403-68a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

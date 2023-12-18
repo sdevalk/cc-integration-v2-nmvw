@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#name> "HALS- OF HOOFDBAND VAN BONT EN GEBORDUURD WOLLEN KOORD, GRAFVONDST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#description> "Het bont is gewikkeld om een kern van stevig materiaal, waarschijnlijk een soort biezen. De koorden zijn met borduurwerk omkleed. Het ornament is waarschijnlijk een gestileerde slang." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#identifier> "TM-2382-11b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1450"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2382-11b> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

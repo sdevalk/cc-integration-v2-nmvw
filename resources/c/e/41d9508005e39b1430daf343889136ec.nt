@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#name> "ROODKOPEREN ONE CENT, C.BROOKE, 1885." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#identifier> "TM-1144-804" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#locationCreated> "Sarawak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#alternateName> "Sarawak Negeri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#alternateName> "Serawak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-804> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

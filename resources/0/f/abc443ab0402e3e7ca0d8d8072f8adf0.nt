@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#name> "ZWAARD MET SCHEDE EN KOGATANA (B)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#description> "De katana werd volgens bijgeleverde informatie door samurai gedragen bij de burgerkleding in combinatie met een wakizashi (het Japanse kort zwaard)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#identifier> "TM-2322-4a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#material> "Staal ; ijzer ; lood ; hout ; roggehuid ; katoen ; smeden ; omwinden ; huidbewerking ; vlechten ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-4a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
