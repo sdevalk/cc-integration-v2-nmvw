@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <https://colonialcollections.nl/schema#name> "METALEN RINKELPLAAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <https://colonialcollections.nl/schema#description> "In een langwerpig ijzeren plaatje zijn langs de rand gaatjes geboord, waarin ijzeren ringetjes zijn bevestigd. Het plaatje wordt op de hals van een tokkelluit ('guembri') bevestigd, zodat de ringen tijdens het spelen ritmisch rinkelen; het is dus een 'geraasmaker'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <https://colonialcollections.nl/schema#identifier> "TM-2439-29" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#name> "STAARTVEREN VAN CARNAVAL MANNEN KOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#identifier> "TM-5809-6g" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#locationCreated> "Rio de Janeiro" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#alternateName> "State of Rio de Janeiro"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5809-6g> <https://colonialcollections.nl/schema#alternateName> "Estado do Rio de Janeiro"@en .

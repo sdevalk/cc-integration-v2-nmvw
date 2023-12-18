@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <https://colonialcollections.nl/schema#name> "KAPMES MET HOUTEN HANDVAT DAT BEVESTIGD IS MET KOPERDRAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <https://colonialcollections.nl/schema#description> "Op het handvat is een etiketje geplakt met de tekst \"Tramontina\" en een afbeelding van een bulldog. In het lemmet is \"Tramontina Brazil\" gestempeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <https://colonialcollections.nl/schema#identifier> "TM-4956-122" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-122> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

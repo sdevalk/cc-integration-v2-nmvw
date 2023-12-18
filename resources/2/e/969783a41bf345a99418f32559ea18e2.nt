@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#name> "PALMBLAD UIT EEN RAMAYANA MANUSCRIPT IN HET ORIGINEEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#description> "OP dit blad staan verschillende fugiren uit het Ramayana. Zo zijn er Rama en zijn broer Lakshmana, en vermoedelijk Sugriva met aan weerszijden een vrouw. Bahi ligt op de grond met een pijl in de borst.\r\n\r\nDe meeste manuscripten worden vervaardigd voor rijke opdrachtgevers zoals vorsten, en voor tempels. Ze worden in een bibliotheek bewaard. De bladen worden door een gaatje in het midden aan een koord geregen en vervolgens beschermd met een houten deksel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#identifier> "TM-4730-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#locationCreated> "Odisha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#alternateName> "State of Odisha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4730-1c> <https://colonialcollections.nl/schema#alternateName> "State of Orissa" .

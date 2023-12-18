@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#name> "HOUTEN ZETEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#description> "Het bezit van een zetel is alleen voorbehouden aan de hogere sociale klasse en fungeert zo als statussymbool." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#identifier> "TM-2525-59" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-59> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .

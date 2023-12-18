@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <https://colonialcollections.nl/schema#name> "SCHERPE NAALD VAN BEEN, BEHORENDE BIJ EEN GEVLOCHTEN TASJE VOOR HET BEWAREN VAN SCHELPENGELD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <https://colonialcollections.nl/schema#description> "Deze benen naald wordt volgens de paters die het object hebben verzameld, bewaard in het bamboe kokertje, dat bij het tasje voor het schelpengeld behoort  (inventarisnummer 2957-150 a & b). De naald is een beentje van de vleugel van de vliegende honden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <https://colonialcollections.nl/schema#identifier> "TM-2957-150c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-150c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

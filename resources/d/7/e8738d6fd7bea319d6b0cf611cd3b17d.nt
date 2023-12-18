@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER VAN EEN BLAZENDE CHERUBIJN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <https://colonialcollections.nl/schema#description> "Masker van een fluitende engel, een chiflador, die wordt gebruikt in Xalitla, Guerrero aldus vanRoon en Saman.\r\nEen associatie met de windgod Ehecatl is ook een mogelijkheid\r\n\r\nVervaardiging\r\nHoutsnijwerk, waarschijnlijk ooit polychroom beschilderd maar de verf is weggekrabt en het geheel is bruin geverfd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <https://colonialcollections.nl/schema#identifier> "TM-5730-53" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

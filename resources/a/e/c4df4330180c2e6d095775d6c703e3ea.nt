@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <https://colonialcollections.nl/schema#name> "PLAT MENSFIGUUR VAN HOUT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <https://colonialcollections.nl/schema#description> "Platte figuur die het mythische wezen Irivake ('mens van hout' ) voorstelt. Hij is de uitvinder van de koppensnellerij en veroorzaakt de bliksem. De Irivake is een vast attribuut van het cultushuis.\r\nElk mannenhuis is verdeeld in een voor- en achterdeel. Het voorste deel wordt tawa genoemd en is het meest belangrijk met betrekking tot riten en ceremoniën. De Irivake heeft zijn plaats op een horizontale balk of stang, waaraan een gordijn van gespleten palmbladeren is bevestigd welke de voorruimte van de eigenlijke middenhal scheidt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <https://colonialcollections.nl/schema#identifier> "TM-2670-282" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-282> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#name> "PORTRET VAN J.B. HEIJLIGERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#description> "Josephus Balthazar Heijligers (geboren te Amsterdam 6-8-1796) werd bij besluit op 2-12-1835 met de titulaire rang van luitenant kolonel gepensioneerd onderscheiden met de achtkantige bronzen medaille voor de oorlog op Jawa 1825-1930. Ridder van de orde van de Nederlandse leeuw (26-8-1833)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#identifier> "TM-4942-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#creator> "A.F. (Antoine, Francois) Heiligers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4942-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <https://colonialcollections.nl/schema#name> "GIPSEN SIERVENSTER VOOR EEN HUIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <https://colonialcollections.nl/schema#description> "De open vlakken worden opgevuld met gekleurd glas. Dergelijke vensters worden over het algemeen gebruikt als decoratie van de mafraj van een huis. De mafraj is de bovenverdieping van een Jemenitisch huis en wordt gebruikt als zitkamer en als gastenverblijf. De bewoners roken er waterpijp, kauwen qat of drinken er thee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <https://colonialcollections.nl/schema#identifier> "TM-4991-307" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4991-307> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

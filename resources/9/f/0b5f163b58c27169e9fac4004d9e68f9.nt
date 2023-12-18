@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#name> "JUBILEUMPOSTZEGELS 100 JAAR KONINKLIJK INSTITUUT VOOR DE TROPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#description> "De postzegels zijn ontworpen door design- en communicatiebureau Smidswater" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#identifier> "TM-5877-205" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#material> "diepdrukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#yearCreatedEnd> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5877-205> <https://colonialcollections.nl/schema#yearCreatedStart> "23"^^<http://www.w3.org/2001/XMLSchema#integer> .

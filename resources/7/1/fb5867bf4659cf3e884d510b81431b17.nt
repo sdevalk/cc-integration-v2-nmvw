@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#name> "GEGLAZUURD DUBBELPOTJE VAN AARDEWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#description> "De binnenzijde van de ronde potjes is gebroken wit. De rand is turqoise blauw. De buitenkant is beschilderd met zwart en donkerblauwe florale motieven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#identifier> "TM-4956-298" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur ; draaien ; glazuren ; beschilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-298> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

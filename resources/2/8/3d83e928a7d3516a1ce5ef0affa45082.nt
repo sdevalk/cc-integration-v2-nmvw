@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#name> "HERTENBEEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#description> "Een driehoekig been, het schouderblad ?, van een hert. Het been is beschilderd met zwarte figuren, S-vormen in het midden en daarnaast aan beide kanten zwarte boogvormen.  Aan het smalle uiteinde van het been zijn repen katoen vastgebonden in de kleuren blauw, rood, geel, oranje en wit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#identifier> "TM-47-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#material> "been (hert) ; katoen ; verf ; gesneden ; geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-47-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

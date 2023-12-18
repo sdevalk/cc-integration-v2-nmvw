@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#name> "HOUTEN NEKSTEUN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#description> "De neksteun is waarschijnlijk vervaardigd voor de toeristenmarkt. Uit één stuk hout gesneden. De randen van het middenstuk en een deel van de bovenzijde zijn beschilderd met een donkerbruine verfstof." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#identifier> "TM-2742-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#material> "hout ; kleurmiddel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2742-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

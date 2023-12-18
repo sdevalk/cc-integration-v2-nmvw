@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#name> "BAMBOE SPEER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#description> "In de bamboe schacht steekt een punt van hout. De verbinding is verstevigd met een omwindsel van riet. De schacht is versierd met zwart gekleurde motieven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#identifier> "TM-2416-581" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; riet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#locationCreated> "Trobriand Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#alternateName> "Kiriwina Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-581> <https://colonialcollections.nl/schema#alternateName> "Trobriand Islands" .

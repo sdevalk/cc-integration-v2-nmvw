@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#name> "ENGELENGROEP MET KANDELAAR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#description> "Engelengroep met kandelaar.\r\nDe kandelaars met engelen en andere figuren worden voor Allerzielen gebruikt op de altaren voor de kleintjes. Een ander gebruikvan deze kandelaren ligt buiten het eigen dorp en wordt toegepast door een soort 'sjamanen'  granizeros of aureros genoemd)  uit de dorpen rond de Sierra Nevada, wiens specifieke taak het om is om de neerslag af te smeken bij de bovennatuurlijke machten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#identifier> "TM-5730-248o" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#material> "aardewerk ; verf ; bakken ; polychromie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-248o> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

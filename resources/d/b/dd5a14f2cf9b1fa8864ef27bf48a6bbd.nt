@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#name> "KATOENEN AFDEKDOEK MET FLORALE MOTIEVEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#description> "Het kleedje is met de naaimachine in elkaar gezet. Het borduurwerk is uitgevoerd in visgraatsteken en kettingsteken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#identifier> "TM-4580-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#material> "katoen ; zijde ; mica ; borduren ; naaien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4580-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

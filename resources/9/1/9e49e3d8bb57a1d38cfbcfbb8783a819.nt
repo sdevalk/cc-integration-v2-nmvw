@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#name> "TATOEËERSTIFT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#description> "Een tatoeëerstift gemaakt van messing en hout. De platte licht gebogen stift eindigt in een ronde schijf. Op enige afstand daarvan is een scherpe messing pin vast geklemd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#identifier> "TM-272-33a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#material> "hout ; messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-33a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

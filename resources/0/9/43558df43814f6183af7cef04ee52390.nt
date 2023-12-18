@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#name> "LITHO MET KRISHNA EN DE HERDERINNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#description> "In een arcadische omgeving staat de fluitspelende Krishna onder een boom, omringd door hem adorerende gopi's (herderinnen)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#identifier> "TM-4846-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#material> "Kleurenlithografie op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4846-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#name> "WRIJFTAFEL IN DE VORM VAN JAGUARS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#description> "Wrijfsteen of metate op vier poten met aan iedere korte zijde een jaguarkop. De poten van de metate hebben de vorm van jaguarpoten. De rand is versierd met een zigzaglijn. De metates werden ook als zetels gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#identifier> "TM-2727-232" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-232> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

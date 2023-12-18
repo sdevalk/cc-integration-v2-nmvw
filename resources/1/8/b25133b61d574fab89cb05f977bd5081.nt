@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#name> "MASKER VAN FIERABRAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#description> "Masker van Fierabras, de Moorse reus die een rol speelt in de Dans van Moren en de christenen. Karel de Grote trok in 778 met zijn edelen Spanje binnen in een poging de Spanjaarden te helpen in hun gevecht tegen de Moren. Olivier, ridder uit het gevolg van Karel de Grote, levert strijd met de Moorse Reus Fierabras. Olivier verslaat hem, waarna Fierabras tot het Christendom wordt bekeerd.\r\n\r\nDe mening dat het Fierebras is komt van Meza Saman, van Roon betitelde het masker als een Moor in zijn algemeenheid. Moren was de benaming voor de islamitische bevolking van het middeleeuwse Spanje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#identifier> "TM-5730-90" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#material> "hout ; verf ; snijden ; polychromie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

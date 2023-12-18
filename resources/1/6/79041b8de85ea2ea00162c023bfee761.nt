@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN WERKHOED VOOR MANNEN EN VROUWEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#description> "De helft van de hoed wordt naar buiten omgeslagen gedragen, zodat paars raffia zichtbaar is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#identifier> "TM-2739-45" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#material> "Bies ; raffia ; vlechten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-45> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

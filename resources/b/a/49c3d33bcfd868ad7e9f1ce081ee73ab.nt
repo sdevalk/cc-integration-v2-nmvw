@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <https://colonialcollections.nl/schema#name> "BUNDEL VAN VIER PIJLEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <https://colonialcollections.nl/schema#description> "Drie pijlen zijn van riet en één van hout. De rieten pijlen hebben ijzeren punten. De houten pijl bestaat uit één stuk en de punt is eraan geslepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <https://colonialcollections.nl/schema#identifier> "TM-2416-45b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-45b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

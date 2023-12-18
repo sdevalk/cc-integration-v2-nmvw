@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <https://colonialcollections.nl/schema#name> "BEDRUKTE KATOENEN SURINAAMS-CREOOLSE HOOFDDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <https://colonialcollections.nl/schema#description> "Bedrukte hoofddoek met sterren en ruiten, die gevuld zijn met verschillende motieven: bloemen, cupido's, vogels, kroontjes etc.\r\nAngisa's vormen onderdeel van de dracht van een kotomisi." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <https://colonialcollections.nl/schema#identifier> "TM-2937-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2937-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

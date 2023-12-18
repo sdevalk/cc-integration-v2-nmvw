@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <https://colonialcollections.nl/schema#name> "KNOTS MET EEN STERVORMIGE STENEN KOP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <https://colonialcollections.nl/schema#description> "Strijdknots met een houten steel en een stervormige, zespuntige stenen kop. Een der punten is afgebroken.\r\nVolgens missionaris P. Coenen die hem in 1957 heeft verworven in de kampong Naltiripi werd de knots een 'verchtsteen' of een 'etersteen' genoemd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <https://colonialcollections.nl/schema#identifier> "TM-2957-22" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2957-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

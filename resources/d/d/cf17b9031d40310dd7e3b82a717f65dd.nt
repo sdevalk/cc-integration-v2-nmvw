@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#name> "MANTEL, ONDERDEEL VAN EEN ZOGENAAMD 'MANNENKOSTUUM' BESTAANDE UIT EEN BOUBOU, BROEK (B) EN HOED (C), SPECIAAL VERVAARDIGD VOOR EEN EUROPESE VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#description> "Onderhavig kostuum is speciaal vervaardigd voor een tante van de schenker. Oom en tante hebben jarenlang gewoond en gewerkt bij de Yoruba in een Nigeriaans dorp. Als dank kreeg de oom de eretitel van 'chief' met bijbehorend kostuum voor hemzelf en zijn vrouw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#identifier> "TM-5744-2a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#material> "Katoen ; zijdegaren ; gouddraad ; weven ; naaien ; voeren ; borduren ; van gouddraad voorzien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5744-2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

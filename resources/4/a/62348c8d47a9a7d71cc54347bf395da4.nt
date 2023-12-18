@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#name> "INDIGO LENDENDOEK, HOOFDZAKELIJK DOOR VROUWEN GEDRAGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#description> "De figuren zijn opgebracht met behulp van veren en pennen van palmblad. Volgens de aantekeningen van Rita Bolland (voormalig conservator Textiel van het Tropenmuseum) is deze doek afkomstig uit Oshogbo en gekocht op het terrein van het Nationaal Museum te Lagos, waar ambachten gedemonstreerd werden en producten te koop aangeboden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#identifier> "TM-4624-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#material> "Katoen ; indigo ; weven ; plangi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4624-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

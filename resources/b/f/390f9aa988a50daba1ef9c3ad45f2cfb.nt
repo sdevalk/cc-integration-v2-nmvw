@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <https://colonialcollections.nl/schema#name> "ZIJDEN SCHOUDER- OF BORSTDOEK MET ORNAMENT IN GOUD- EN ZIJDENBORDUURSEL, EEN WEDUWEDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <https://colonialcollections.nl/schema#description> "Schering en inslag van het weefsel zijn van zijde. De te borduren vormen zijn er met een stempel opgedrukt. Het borduurwerk is uitgevoerd in zijde, de gouddraad en gouden pailletjes zijn opgenaaid. De doek is in linnenbinding geweven. De groene kleur van het middenvlak is aangebracht m.b.v. plangi-techniek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <https://colonialcollections.nl/schema#identifier> "TM-2706-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2706-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

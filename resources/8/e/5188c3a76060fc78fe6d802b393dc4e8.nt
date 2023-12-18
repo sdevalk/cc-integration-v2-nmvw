@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#name> "INHEEMSE GOMLAK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#description> "Het is niet bekend of deze gomlak van dierlijke of plantaardige oorsprong is, beide worden in bijgeleverde informatie genoemd. Verder zou deze gomlak vooral gebruikt worden als kleefmiddel om heften aan messen en wapens te bevestigen, om er amuletten in te wikkelen of om er holle armbanden en andere sieraden mee op te vullen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#identifier> "TM-45-101" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#material> "Gomlak ; onbewerkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-101> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#name> "GIPSEN BEELD, DAT EEN \"PRETO VELHO\" (OUDE ZWARTE) VOORSTELT, EEN BESCHERMGEEST IN DE AFRO-BRAZILIAANSE RELIGIE UMBANDA." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#description> "Beeldje van een \"Preto Velho\" (oude zwarte), één der beschermgeesten in de Afro-Braziliaanse religie umbanda, dat op een altaar wordt geplaatst in een tempel of huis ter verering. \r\nDe gelovigen schenken hem offergaven, zoals jurema (een gewas met een bewustzijnsverruimende werking) maar vooral alcohol en tabak. Fabrieksproduct." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#identifier> "TM-4537-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#material> "gips ; verf ; machinaal vervaardigen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#locationCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Brasíle" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "United States of Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "República dos Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Federative Republic of Brazil"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Brésil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4537-5> <https://colonialcollections.nl/schema#alternateName> "Brasilien" .

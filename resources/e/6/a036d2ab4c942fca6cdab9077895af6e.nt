@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <https://colonialcollections.nl/schema#name> "BEKERTROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <https://colonialcollections.nl/schema#description> "Houten bekertrom, enkelvellig. Het vel is met houten pennen aan het tromlichaam bevestigd. Volgens Kirby (1965: 29-30) wordt het door de Venda gebruikt. De vorm is die van een melk-kan ('khamelo'): beide hebben een handvat en worden op eenzelfde manier tussen de benen vastgehouden. De trom is echter open aan de onderkant. Deze trom wordt met de handen bespeeld, uitsluitend door vrouwen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <https://colonialcollections.nl/schema#identifier> "TM-2672-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

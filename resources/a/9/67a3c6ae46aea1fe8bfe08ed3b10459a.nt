@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#name> "AARDEWERKEN SIERBEKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#description> "Vervaardigd in het atelier van pottenbakker Mehmet Gürsoy te Kütahya. Gürsoy maakt met zijn bedrijf, Iznik Çini, keramiek voor de top van de markt. De meeste stukken worden onder zijn leiding door medewerkers in het atelier vervaardigd. Objecten voor musea en andere belangrijke klanten maakt en signeert Gürsoy zelf (zie 6122-1 in de collectie van het Tropenmuseum)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#identifier> "TM-5710-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur ; bakken ; glazuren ; schilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#creator> "Mehmet  Gürsoy" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5710-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

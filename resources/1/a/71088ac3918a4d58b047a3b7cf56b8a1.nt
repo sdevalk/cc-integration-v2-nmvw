@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#name> "ZILVEREN RING MET TUGHRA-INSCRIPTIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#description> "Ring met inscriptie gelijkend op een tughra, het monogram van een Ottomaanse sultan, mogelijk die van Mehmed V (1909-1918). De rand is versierd met het motief van de halve maan met ster. In de collectie bevindt zich tevens een afdruk van de zegel (TM-4554-1b). De vorm van de ring komt overeen met Ottomaanse vrouwenringen. Vermoedelijk heeft de schenker de ring verworven in Botswana." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#identifier> "TM-4554-1a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#material> "zilverlegering ; glas ; inleggen ; graveren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#locationCreated> "Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#countryCreated> "Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Britse Protektoraat van Betsjoeanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Northern Bechuanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Betsjoeanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Betsjoeanaland Protektoraat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Betschuanaland Protektorat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Bechuanaland Protectorate" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "Republic of Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4554-1a> <https://colonialcollections.nl/schema#alternateName> "British Protectorate of Bechuanaland" .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <https://colonialcollections.nl/schema#name> "TROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <https://colonialcollections.nl/schema#description> "In India zijn talloze soorten dubbelvellige trommen te vinden waarvan de meeste van hout gemaakt worden. In het westen heeft de khol trom van aardewerk zijn populariteit aan de Hare Krishna beweging te danken. De trommen als onderhavig exemplaar zijn vaak van aardewerk; deze is echter van hout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <https://colonialcollections.nl/schema#identifier> "TM-5860-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5860-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

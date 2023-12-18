@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <https://colonialcollections.nl/schema#name> "HOUTEN MODEL VAN EEN ZENDINGSPOST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <https://colonialcollections.nl/schema#description> "Het model stelt een zendingspost voor, gebouwd op palen en omgeven door een overdekte galerij, die via een trap bereikbaar is. In het dak, dat met zinken golfplaten bedekt is, zitten twee dakkapellen. Het huis is grijs, met de ramen en deuren in groen en wit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <https://colonialcollections.nl/schema#identifier> "TM-2511-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2511-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .

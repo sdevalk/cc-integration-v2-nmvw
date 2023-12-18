@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#name> "PIJP MET CLANVERSIERING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#description> "Aan één uiteinde van de pijp is een opening aangebracht die dient als pijpenkop. Aan het andere uiteinde is het bamboetussenschot doorboord. Deze opening dient als mondstuk, of zuiggat. Aan de buitenzijde van de pijp is de tao, het clanwapen, ingekrast." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#identifier> "TM-2670-417" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-417> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
