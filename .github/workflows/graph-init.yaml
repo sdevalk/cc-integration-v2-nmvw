@@ -29,6 +29,7 @@ jobs:
       - name: Collect and queue IRIs from a SPARQL endpoint
         run: |
           cd ./data
+          mkdir -p "$RUNNER_TEMP"
           test -f ./queue/data.tar.gz && tar -xzf ./queue/data.tar.gz -C "$RUNNER_TEMP"
           ../code/apps/graph-init/dist/cli.js run \
             --endpoint-url "https://api.colonial-heritage.triply.cc/datasets/data-hub/knowledge-graph/services/kg/sparql" \
@@ -41,7 +42,7 @@ jobs:
         run: |
           cd ./data
           mkdir -p ./queue
-          tar -czf ./queue/data.tar.gz "$RUNNER_TEMP/data.sqlite" || true
+          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./queue/data.tar.gz "$RUNNER_TEMP/data.sqlite"
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
