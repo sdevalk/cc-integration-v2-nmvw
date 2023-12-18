@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#name> "DE RIVIER DE TJILIWONG BIJ 'S LANDS PLANTENTUIN TE BUITENZORG OP WEST-JAVA GEZIEN VANAF DE NIEUWE BRUG MET LINKS METROXYLONS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#identifier> "RV-A143-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: op karton geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#locationCreated> "Kota Bogor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Bogor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Bogor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#alternateName> "Bogor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A143-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .

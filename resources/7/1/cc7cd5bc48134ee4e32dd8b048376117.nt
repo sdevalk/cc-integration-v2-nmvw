@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#name> "\"SULAWESI. RIJSTBOUW IN DE BADA-VALLEI; PLOEGEN OP DE TRADITIONELE MANIER, NIET EEN PLOEG VAN HOUT OF METAAL, MAAR HET GEWICHT VAN DE KARBOUWEN VEROORZAAKT HET PLOEGEFFECT.\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#identifier> "TM-20023319" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#creator> "Drs. F.A.M. (Frans) Welman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023319> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

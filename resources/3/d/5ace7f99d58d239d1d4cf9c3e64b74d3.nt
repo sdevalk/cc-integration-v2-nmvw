@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#name> "VERDRONKEN DORP GANSEE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#description> "Het Marrondorp Gansee werd t.b.v. de Afobaka-dam tot stuwmeer Brokopondo verzonken. de bewoners werden op stel en sprong gemigreerd naar droog gebied (Nieuw-Gansee). Om het in de jaren 1950 ontdekte bauxiet van Suriname te verwerken tot aluminium was een enorme hoeveelheid aan electriciteit nodig. \r\nTegenwoordig bevinden de resten van het dorp zich op de bodem van het meer. In 2010 ging een team m.m.v. Tropenmuseum er duiken om te kijken of er nog objecten te vinden waren. Dit bleek niet zo te zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#identifier> "TM-20007374" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#creator> "Boy Lawson" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20007374> <https://colonialcollections.nl/schema#yearCreatedStart> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

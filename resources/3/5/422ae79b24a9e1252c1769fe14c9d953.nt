@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#name> "JAVANEN BEZIG MET HET WASSEN VAN KLEREN OP TRAPPEN AAN EEN KANAAL IN BATAVIA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#identifier> "RV-A107-1-50" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: daglicht gelatine zilverdruk\r\nMontage: in album geschoven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#creator> "Mr. C.G.J.B. Henny" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A107-1-50> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

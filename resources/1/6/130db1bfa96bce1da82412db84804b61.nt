@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#name> "INGANG RECHTENFACULTEIT GADJAH MADA UNIVERSITEIT BIJ PAGELARAN VAN DE KRATON VAN DE SULTAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#description> "Sinds 18 maart 1946 was de rechtenfaculteit van de Gadjah Mada Universiteit in Pagelaran van de kraton van de Sultan van Yogyakarta. De faculteit is er tot 1973 gebleven. https://law.ugm.ac.id/profil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#identifier> "TM-20025548" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20025548> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#name> "EEN FOTO VAN EEN GROEP MANNEN, VROUWEN EN KINDEREN VOOR EEN HUT IN DE FILIPIJNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#description> "Een zwartwitfoto van een groep mannen, vrouwen en kinderen voor een ronde hut in de Filipijnen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#identifier> "RV-A122-2-52" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: in album geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A122-2-52> <https://colonialcollections.nl/schema#yearCreatedStart> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
