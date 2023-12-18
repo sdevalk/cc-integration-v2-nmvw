@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#description> "Sang Garuda sedang memegang ekor gajah dan kura-kura yang sedang berkelahi .\r\n\r\nDi kiri bagian atas ada api dan dikanannya ada burung garuda yang sedang memegang ekor gajah. Di kiri bagian bawah ada kura-kura. Di kanan sebelah atas ada api dan dikanan bagian bawah ada seekor gajah.\r\n\r\nThe Garuda Bird (Eagle)\r\nThe Garuda is holding an elephant's tail and turtles are fighting. \r\nOn the upper left is a fire and the eagle holding the elephant's tail. At the bottom left is a turtle. On the right side above is a fire." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#identifier> "PL-063-L" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#material> "Kertas & Tinta China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#creator> "I Made Geriya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-063-L> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

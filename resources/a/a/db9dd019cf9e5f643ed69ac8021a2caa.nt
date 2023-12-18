@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#description> "Seekor ikan yang berwujud seorang wanita cantik yang bertubuh ikan.\r\n\r\nDikiri bagian atas ada rumput laut, ikan-ikan bertaring dan dikiri bawah ada juga rumput laut, ikan membawa bunga dan dibagian kanan seorang wanita cantik yang berbadan ikan sambil membawa payung. Dikanan atas ada gunung, ikan yang bertaring membawa gada serta di bagian kanan bawah ada ikan yang membawa bunga." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#identifier> "PL-102-L" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#material> "Kertas & Tinta China & Warna Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#creator> "I Dewa Ketut Rungun" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-102-L> <https://colonialcollections.nl/schema#yearCreatedStart> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
