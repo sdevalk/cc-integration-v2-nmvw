@@ -1,8 +1,8 @@
 name: Query
 
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "*/30 * * * *"
 
 jobs:
   process-changes:
@@ -37,8 +37,8 @@ jobs:
             --endpoint-url "https://api.colonial-heritage.triply.cc/datasets/data-hub/knowledge-graph/services/kg/sparql" \
             --query-file ./queries/generate.rq \
             --number-of-concurrent-requests 20 \
-            --wait-between-requests 110 \
-            --batch-size 10000
+            --wait-between-requests 100 \
+            --batch-size 50000
       - name: Save changes
         run: |
           cd ./data
