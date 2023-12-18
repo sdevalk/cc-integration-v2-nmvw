@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#name> "Gebedenboek Poestaha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#description> "Gebedenboek Poestaha." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#identifier> "RV-B1-48" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#material> "schors, boomschors" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1854"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B1-48> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

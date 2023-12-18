@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <https://colonialcollections.nl/schema#name> "TAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <https://colonialcollections.nl/schema#description> "Tasje gemaakt van dwarsliggende baststrepen, waardoorheen fijnere baststrepen zijn gevlochten en geknoopt.\r\nHet hengsel is van een gedraaid vezeltouw welke dubbel is genomen en geknoopt.\r\n\r\nThis bag is probably from Ramahyuck Mission, Victoria. It was acquired by the Royal Museum of Ethnology, Leiden, in 1882. It is made from fibres from the inner bark of a tree." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <https://colonialcollections.nl/schema#identifier> "RV-295-64" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <https://colonialcollections.nl/schema#material> "bastreep ; vezeltouw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-295-64> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

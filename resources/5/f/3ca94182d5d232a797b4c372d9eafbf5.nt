@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, opgeplakt.\r\n\r\nOp de foto is mee afgedrukt in wit, (heel) moeilijk leesbaar, het volgende: 'Zangaki    No 196  Retour du Tapis de la Megue(?)' \r\n\r\nOpname van een houten brug/ aanlegsteiger(?), met daarop een stoet mensen en dieren. Lijkt wel op een karavaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#identifier> "7082-nf-895-73" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#creator> "Zangaki" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-895-73> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

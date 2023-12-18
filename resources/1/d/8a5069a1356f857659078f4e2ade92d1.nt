@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#name> "DERRIS-AANPLANT, 9 MAANDEN OUD, VARIËTEIT TOEBA WOELOENG, JAVA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#description> "Derris-aanplant op Java. 9 mnd. oud, variëteit toeba woeloeng. Geplant als mandjesplant, de inboeting beschermd met alang alang plantmusten, rechts v.d. weg een plantverband v. 60 x 60 cm. Links van de weg 1 x 1 m. ,beide vakken op den voorgrond." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#identifier> "TM-10011014" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10011014> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

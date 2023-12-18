@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een lemmet met zeven bochten. Aan één kant van het lemmet is een krul (telale gajah) te zien. De steelring (mendak) is van messing gemaakt en versierd met een rij driehoeken. De omgebogen greep is van geelbruin hout gemaakt en aan de holle kant op twee plaatsen versierd met snijwerk. De schede (gandar) heeft aan één kant als versiering ingebrande vlekken. De opening van de schede (wrangka) is van gevlamd hout gemaakt en heeft de vorm van een nier." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#identifier> "RV-302-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; hout ; messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-302-4> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .

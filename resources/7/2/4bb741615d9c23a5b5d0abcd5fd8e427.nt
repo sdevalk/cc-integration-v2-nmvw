@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#name> "SWATOW SCHAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#description> "Grote diepe schotel mt schuinoplopende smalle rand. Rand gerepareerd. Glazuur vettig, helder glas, groenachtig. Klei wit, tamelijk grof van grein en onzuiver. Bodem verglaasd, voetring onverglaasd.\r\nGeen oranje verkleuring dus geen ijzer in de klei en andere klei dus vermoedelijk andere oven dan serienr.: 3155-311. Blauw helder, hard van kleur. Versiering rand geometrisch patroon van schuine strepen om gelobde figuren, aan opstaande rand chrysanten motief.\r\nIn het midden wilde tekening van vliegende  fêng dennetak, paddestoel en wat lijkt op vehaspeld Arabisch schrift. Aan de buitenkant chrysan- tenranken.\r\nHet algemene aspect en de kleur van het blauw in het bijzonder doen het 16e eeuwse stuk plaatsen in de Chia Ching periode, 1522-1566.\r\nHet behoort tot de \"grove porseleinen\" z.g. Swatow ware. Uit Indonesië." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#identifier> "RV-3155-312" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#material> "Porselein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#yearCreatedEnd> "1644"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3155-312> <https://colonialcollections.nl/schema#yearCreatedStart> "1368"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#name> "KRAAL IN DE VORM VAN EEN VOGELKOP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#description> "Kraal in de vorm van een vogelkop met lange snavel. / Bead in the shape of a bird's head with a long straight beak." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#identifier> "RV-3470-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#material> "jade" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#yearCreatedEnd> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-19> <https://colonialcollections.nl/schema#yearCreatedStart> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .

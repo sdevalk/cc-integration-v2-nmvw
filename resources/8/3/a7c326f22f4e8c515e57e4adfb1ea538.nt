@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#name> "OVERJAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#description> "Groene overjas met rode voering. De mouwen zijn opgebouwd uit repen zijde van verschillende kleuren. Volgens de documentatie is dit misschien de jas van een dansmeisje(?), maar het ontwerp suggereert dat het gewaad voor feestelijkheden (zoals een verjaardag) is bedoeld.\r\n\r\nGreen overcoat with red lining. The sleeves consist of strips of multi-colored cloth. The original documentation states that this may be the coat of a sing-song girl(?), but the design suggests it was used for festive occasions such as birthdays or holidays." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#identifier> "RV-3098-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3098-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

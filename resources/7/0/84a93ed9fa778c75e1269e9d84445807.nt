@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN TAS VERSIERD MET EEN KLEURENPATROON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#description> "Nagenoeg rechthoekig. Hoeken van onderen afgerond. Van gevlochten vezelrepen. Eén versierde en één onversierde zijde. De versiering bestaat uit een in de lengterichting verlopende baan, door een ribbe van vezelreep afgegrensd en door dezelfde ribben verdeeld in 3 horizontale rijen van telkens 2 rode driehoeken op een wit fond. Op de onversierde kant is het gevlochten hengsel vastgemaakt.\r\nVoorwerp ter plaatse verzameld door C.C. Verhey van Wijk in 1953. Geen nadere herkomstopgave." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#identifier> "RV-3070-335" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#material> "plantenvezel ; kleurmiddel\r\nGevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3070-335> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

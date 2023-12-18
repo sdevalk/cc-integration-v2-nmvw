@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#name> "GROEP BEWONERS VAN TAIWAN EN JAPANSE MILITAIREN, WAARSCHIJNLIJK TER GELEGENHEID VAN HET VOORLEZEN VAN EEN PROCLAMATIE KORT NA DE ANNEXATIE VAN HET EILAND DOOR JAPAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#identifier> "RV-A71-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op karton geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#creator> "Umemura Kin'ichirô 梅村欽一郎" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A71-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

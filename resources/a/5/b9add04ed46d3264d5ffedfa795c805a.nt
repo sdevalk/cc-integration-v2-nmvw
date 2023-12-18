@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#name> "JAS VAN EEN KOTOMISI ENSEMBLE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#description> "Werkkleding in heristel: zowel de koto, als yaki en angisa zijn van dezelfde stof. Aangezien de koto is verworven op de Wereldtentoonstelling in Parijs van 1878, kan dit exemplaar gezien worden als een vroege koto. De koto in de vorm zoals we haar nu nog zien, stamt uit de tijd na de Emancipatie in 1863." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#identifier> "RV-300-1247b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#material> "Katoen. Naaien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1247b> <https://colonialcollections.nl/schema#yearCreatedStart> "1873"^^<http://www.w3.org/2001/XMLSchema#integer> .

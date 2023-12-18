@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, rechthoekig, opgeborgen in zuurvrije envelop.\r\n\r\nOpname toont twee personen onder iets dat op een paraplu lijkt. Er is schaduw te zien, dus zal het wel niet regenen.Wellicht is de paraplu een heel grote mand. \r\nAchter de mensen een eenvoudig opgetrokken 'huis' op palen in het water staand en verbonden met het land door een loopbrug.\r\n\r\nVoor mogelijke gegevens over verwerving zie 'opmerkingen'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#identifier> "7082-nf-907-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#material> "negatief (zwart/wit)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

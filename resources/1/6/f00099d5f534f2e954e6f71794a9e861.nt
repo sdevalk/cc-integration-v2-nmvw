@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <https://colonialcollections.nl/schema#name> "ZEEF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <https://colonialcollections.nl/schema#description> "Een zeef gemaakt van een halve kokosnoot. Op een plaats is in de bovenrand een klein gat gemaakt. In de bodem zijn zeven grotere gaten gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <https://colonialcollections.nl/schema#identifier> "RV-300-1653" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <https://colonialcollections.nl/schema#material> "noot (kokos) ; gesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1653> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

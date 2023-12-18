@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#name> "MODDERBRON IN HET BONGGOGEBERGTE AAN DE NOORDWESTKUST VAN NIEUW-GUINEA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#description> "Militaire Exploratie van Nederlands Nieuw-Guinea 1907-1915" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#identifier> "TM-10004380" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10004380> <https://colonialcollections.nl/schema#yearCreatedStart> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .

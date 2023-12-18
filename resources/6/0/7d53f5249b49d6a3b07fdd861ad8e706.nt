@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#name> "DE GEVANGENGENOMEN RAJA VAN BONE, WORDT EEN KAMPONGWONING UITGEDRAGEN, CELEBES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#description> "De gevangengenomen vorst van Bone, La Pawawoi Karaéng Sigéri, wordt uit zijn tijdelijke woning in Rappang gedragen naar een draagstoel waarmee hij naar Paré Paré wordt vervoerd. Uiterst links 1e luitenant Carel Hendrik Eilers (1870-1959), naast de draagstoel zeer waarschijnlijk sergeant Marks." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#identifier> "TM-10003346" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#creator> "Jhr. Carel Frederik Goldman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10003346> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

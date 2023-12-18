@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#name> "Wichelboek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#description> "Wichelboekje (pustaha), sterk beschadigd en niet meer compleet. Vervaardigd van een smalle boombastreep, harmonicavormig op- gevouwen. De gevouwen bladen zijn aan beide kanten beschreven met een tekst in Batakse lettertekens. Geen schutbladen meer aan- wezig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#identifier> "RV-3057-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#material> "boombast" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

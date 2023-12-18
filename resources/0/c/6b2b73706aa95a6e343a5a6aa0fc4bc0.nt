@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <https://colonialcollections.nl/schema#description> "Een lange pijl gemaakt van een lengte bamboe. De langwerpige ruitvormige punt met een platte steel is van messing gemaakt. Het uiteinde van de schacht heeft een messing ring, die met hars is ingesmeerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <https://colonialcollections.nl/schema#identifier> "RV-300-1506" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <https://colonialcollections.nl/schema#material> "bamboe ; messing ; hars" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1506> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#name> "SERIE JOEST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#description> "Twee Ainu mannen. Niet ingekleurde zwart/wit afrduk van foto RV-A47-9, kleiner formaat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#identifier> "RV-A47-9a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk (ingekleurd)\r\nMontage: op karton geplakt ; met inkt beschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#creator> "prof. dr. W. (Wilhelm) Joest" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A47-9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

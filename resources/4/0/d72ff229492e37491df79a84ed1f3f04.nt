@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN GESLUIERDE PERZISCHE VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#description> "Dikke, doorlopende wenkbrauwen en snorren hoorden tot het schoonheidsideaal van Iraanse vrouwen in de Qajar-periode (1799-1925). Wat de natuur niet gaf, werd zo nodig bijgetekend met mascara. Het ideaal voor mannen was een zo slank mogelijke taille." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#identifier> "RV-A6-107_REPRO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#material> "glas (materiaal) ; fotografische procedés" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#creator> "Antoin Sevruguin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#creator> "Museum Volkenkunde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A6-107_REPRO> <https://colonialcollections.nl/schema#yearCreatedStart> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#name> "SERVETRING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#description> "Servetring met aan de randen een parelband-decor in reliëf. In het midden is met zwarte verf een opschrift 'Manoel Andre' en een bloempatroon aangebracht. In een brief van J.W. Regeer daterend uit februari 1883 schrijft hij dat de naam van de maker Manoel André op de serverring is geschreven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#identifier> "RV-339-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#inscription> "Manoel Andre" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#material> "Ivoor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#creator> "Manoel André" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#locationCreated> "Loango" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-339-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

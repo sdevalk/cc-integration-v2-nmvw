@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#name> "38 WEG NAAR SIDI-OKBA. WOESTIJN BIJ BISKRA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#description> "(afb: rijtuig met twee eur. dames onder parasol. drie paarden ervoor. bij paarden staat koetsier? bij rijtuig staat man met paal of balk met handvat.)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#identifier> "RV-A54-2-38" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A54-2-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

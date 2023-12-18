@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#name> "DE KAMPONG BAHIOE MET WONINGEN IN VERVALLEN TOESTAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#description> "Met opdruk: Photo-Atelier Helios. Kampong Bahioe. Oppervlak (4+3)x40 = 280 m².  Aantal menschen: 60. Wordt alzoo per H.A.: ±2140. Door het Woningtoezicht werden al eenige krotten links opgeruimd. \nEénverdieping woningen!" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#identifier> "RV-A440-x-133" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#material> "Materiaal: papier \r\nTechniek: ontwikkel gelatine zilverdruk\r\nMontage: in album geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#creator> "Helios, Photo-Atelier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-133> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .

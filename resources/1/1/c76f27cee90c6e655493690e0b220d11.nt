@@ -1,0 +1,5 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2854-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2854-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2854-30> <https://colonialcollections.nl/schema#description> "van toespraken van de Jap. gezant bij koning Willem 3 op 01-07-1862" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2854-30> <https://colonialcollections.nl/schema#identifier> "RV-2854-30" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2854-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

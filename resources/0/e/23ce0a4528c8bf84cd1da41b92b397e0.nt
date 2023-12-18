@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#description> "foto, zwart/wit, rechthoekig, gedeeltelijk opgeplakt, zonder bijschrift.\r\n\r\nOpname van straatbeeld. Gebouwen/huizen aan beide kanten. Centraal een onduidelijk opgetrokken gebouw. Veel volk op de been.\r\nStraatlantaarn rechts." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#identifier> "7082-nf-930-23-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-930-23-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

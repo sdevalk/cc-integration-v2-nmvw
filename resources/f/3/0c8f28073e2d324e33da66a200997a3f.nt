@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#name> "KOKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#description> "Een koker gemaakt van een lengte bamboe. De koker is aan beide uiteinden afgerond. De koker heeft een laag uitgesneden voet. Het deksel is ook afgerond met een vlakke bovenrand. Het deksel is gesloten met een rond houten plaatje. In de rand van het deksel en in de bovenrand van de koker zijn gaten gemaakt voor het ontbrekende touw waarmee deksel en koker aan elkaar vast zitten. De wand van de koker is versierd met uitgesneden figuren; hagedissen en andere onduidelijke dierfiguren en ruiten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#identifier> "RV-B133-46" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#material> "bamboe ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B133-46> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
