@@ -1,5 +1,5 @@
 ###############################
-# Query for generating a search graph from object descriptions in dataset in dataset 'Collection Archives'
+# Query for generating a search graph from dataset 'Collection Archives'
 ###############################
 
 PREFIX cc: <https://colonialcollections.nl/schema#> # Internal ontology
@@ -31,8 +31,6 @@ CONSTRUCT {
 }
 WHERE {
   BIND(?_iri AS ?this)
-
-  ?this a crm:E22_Human-Made_Object .
 
   ####################
   # Identifier
@@ -106,21 +104,15 @@ WHERE {
 
   OPTIONAL {
     ?this crm:P108i_was_produced_by/crm:P4_has_time-span/crm:P82a_begin_of_the_begin ?beginOfTheBegin .
-    FILTER(DATATYPE(?beginOfTheBegin) = xsd:date || DATATYPE(?beginOfTheBegin) = xsd:gYear || DATATYPE(?beginOfTheBegin) = xsd:gYearMonth)
-    # Values can have an xsd date type but not be a valid date (!) - ignore these
-    FILTER(COALESCE(xsd:date(STR(?beginOfTheBegin)), '!') != '!')
-
-    BIND(YEAR(?beginOfTheBegin) AS ?beginOfTheBeginYear)
   }
+
+  BIND(IF(BOUND(?beginOfTheBegin), YEAR(?beginOfTheBegin), ?null) AS ?beginOfTheBeginYear)
 
   OPTIONAL {
     ?this crm:P108i_was_produced_by/crm:P4_has_time-span/crm:P82b_end_of_the_end ?endOfTheEnd .
-    FILTER(DATATYPE(?endOfTheEnd) = xsd:date || DATATYPE(?endOfTheEnd) = xsd:gYear || DATATYPE(?endOfTheEnd) = xsd:gYearMonth)
-    # Values can have an xsd date type but not be a valid date (!) - ignore these
-    FILTER(COALESCE(xsd:date(STR(?endOfTheEnd)), '!') != '!')
-
-    BIND(YEAR(?endOfTheEnd) AS ?endOfTheEndYear)
   }
+
+  BIND(IF(BOUND(?endOfTheEnd), YEAR(?endOfTheEnd), ?null) AS ?endOfTheEndYear)
 
   ####################
   # Location of creation
