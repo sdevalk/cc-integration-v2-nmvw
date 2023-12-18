@@ -37,7 +37,7 @@ jobs:
             --endpoint-url "https://api.colonial-heritage.triply.cc/datasets/data-hub/knowledge-graph/services/kg/sparql" \
             --query-file ./queries/generate.rq \
             --number-of-concurrent-requests 20 \
-            --wait-between-requests 100 \
+            --wait-between-requests 110 \
             --batch-size 10000
       - name: Save changes
         run: |
