@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#name> "HARPOENHOOFD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#description> "Het harpoenhoofd is rechthoekig van vorm en gemaakt van been. Het heeft aan de boven- en onderzijde een gat. Het gat aan de onderzijde past in de houten harpoenschacht. Het gat aan de bovenzijde past op de benen voorschacht met punt. Voor lansen bestaat er ook een dergelijk kapje. Dat is echter rond van vorm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#identifier> "RV-2085-49" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#material> "been" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-49> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

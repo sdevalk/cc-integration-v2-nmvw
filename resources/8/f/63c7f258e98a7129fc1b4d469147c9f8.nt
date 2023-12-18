@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61335> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61335> <https://colonialcollections.nl/schema#description> "[KL] zwart (lint) paars & groen (beschildering);\r\n[VO] krom getrokken, lint om op te hangen. Vel: met spijkers\r\n        op de rand bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61335> <https://colonialcollections.nl/schema#identifier> "WM-61335" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61335> <https://colonialcollections.nl/schema#material> "hout, huid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61335> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

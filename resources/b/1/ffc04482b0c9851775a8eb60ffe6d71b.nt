@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50951> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50951> <https://colonialcollections.nl/schema#description> "[ST] greep : snijwerk\r\n[VO] greep : mensengezicht met ingeplant haar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50951> <https://colonialcollections.nl/schema#identifier> "WM-50951" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50951> <https://colonialcollections.nl/schema#material> "hout, ijzer, mensenhaar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50951> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

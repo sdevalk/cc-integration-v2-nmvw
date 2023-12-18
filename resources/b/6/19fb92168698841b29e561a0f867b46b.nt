@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <https://colonialcollections.nl/schema#description> "[ST] 1 = amuletdoos (ketting & hanger (3) & scharnierdeksel) & \r\n        2 = document\r\n[DE] deksel : hellebaard (2) & bidsnoer & bedelnap & bel (2) & kraal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <https://colonialcollections.nl/schema#identifier> "WM-60562" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <https://colonialcollections.nl/schema#inscription> "[B] Hasan (bedelnap) in Arabisch schrift" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <https://colonialcollections.nl/schema#material> "zilver, niello (deksel), koper (oogjes), glas (kraal)\r\ngesmeed & gegraveerd deksel (niello)\r\nDocument is aan beide zijden beschreven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60562> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

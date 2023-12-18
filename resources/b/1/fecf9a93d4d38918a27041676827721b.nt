@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#name> "Beteltas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#description> "Sirihtas, als serienr.: 2299-85, doch kleiner, en veel eenvoudiger van bewerking. De houten voet en de bovenlat zwart en niet met snijwerk versierd. Van binnen slechts één supplementaire tas." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#identifier> "RV-2299-86" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; metaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2299-86> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

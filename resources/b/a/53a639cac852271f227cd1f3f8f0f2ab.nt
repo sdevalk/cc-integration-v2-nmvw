@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52365> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52365> <https://colonialcollections.nl/schema#description> "[VO] riet dat aan één kant over lengte van 20 cm. is uitgehold\r\n        en uitgerafeld; verder gespleten, stokje dwars door spleet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52365> <https://colonialcollections.nl/schema#identifier> "WM-52365" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52365> <https://colonialcollections.nl/schema#material> "riet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52365> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

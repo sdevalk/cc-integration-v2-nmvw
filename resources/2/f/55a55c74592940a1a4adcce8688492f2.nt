@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#description> "Afbeelding op de achterste pagina.\r\n[AF] lopende zwarte mensen over een brug steunend op giraffen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#identifier> "WM-602883-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#material> "papier\r\ngedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602883-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

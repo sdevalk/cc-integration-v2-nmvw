@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#name> "LANDBOUW; BOSVRUCHTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#description> "Durian oogst op de tuin van het dorpshoofd van Loce (Sahu). Het dorpshoofd heeft buitengewoon veel (ca. 100) vruchtdragende bomen; de stekeige  vruchten worden met de ossekar met een busje door een handelaar  naar Jailolo gebracht  vanwaar ze per boot naar Ternate worden vervoerd voor de markt, of zelfs per vliegtuig naar Menado. Durianbomen zijn individueel eigendom van degeen die de boom in het bos heeft gevonden dan wel zelf heeft geplant in het bosgebied dat toebehoort aan zijn verwantengroep. Er is een grote en een kleinere oogst per jaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#identifier> "RV-6234-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

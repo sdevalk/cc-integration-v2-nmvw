@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De lange kris, keris panjang, heeft een recht lemmet, een brede middenrug (dada) en het ingegrifte wapen van de Verenigde Oostindische Compagnie. Aan één kant van het opzetstuk (ganja) van het lemmet zijn scherpe punten (greneng) gemaakt. Het gepolijste gebogen ronde heft is van bruin hout gesneden en aan het boveneinde versierd met een rond ivoren knopje. De steelring (mendak) is van messing gemaakt. De schede (gandar) is van bruin hout gemaakt. De bootvormige gepolijste schedeopening (wrangka) is van licht bruin hout gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#identifier> "RV-2442-335" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; ivoor ; messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-335> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

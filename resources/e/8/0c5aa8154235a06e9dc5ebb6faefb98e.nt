@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#description> "[KL] grijs & zwart & naturel & rood\r\n[VO] grote vis met aan zijkant vis & \"onderstel\" waarop 3 vissen waarvan 1 met Jonas in bek\r\n[ST] 1 = \"onderstel\" 2 = grote vis   3 = stok" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#identifier> "WM-72372" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72372> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71998> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71998> <https://colonialcollections.nl/schema#description> "[KL] naturel & bruin\r\n[ST] 1a-2a = koker  1b-2b = schuifdeksel\r\n[DE] mensenhoofden (rijen gehurkte figuren)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71998> <https://colonialcollections.nl/schema#identifier> "WM-71998" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71998> <https://colonialcollections.nl/schema#material> "bamboe, rotan\r\ngesneden & ingesneden\r\nKokers aan elkaar verbonden met rotan vlechtwerk, hieraan een insteekbeugel (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71998> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#name> "OMGEVING 'KASTEEL' (12 APRIL 1934)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#description> "Winterlandschap. Besneeuwde berghellingen rond Tasiilaq. In de omgeving van 'het kasteel', zoals de Nederlanders één van de huizen die hen ter beschikking stonden voor hun werk en verblijf noemden.\r\nTasiilaq 12 April 1934.\r\nJaap van Zuylen's eigen beschrijving:\r\nOmgeving kasteel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#identifier> "RV-6222-117" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#material> "glas (materiaal) ; fotografische procedés" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#creator> "J. (Jacob) van Zuijlen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-117> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

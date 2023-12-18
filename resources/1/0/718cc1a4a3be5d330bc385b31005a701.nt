@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <https://colonialcollections.nl/schema#description> "Wordt gebruikt voor kleine hapjes (snacks), maar ook bij voorbereiding van eten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <https://colonialcollections.nl/schema#identifier> "WM-66561" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <https://colonialcollections.nl/schema#inscription> "[T] Eastern... Rolling Mills, Bombay" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <https://colonialcollections.nl/schema#material> "aluminium" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66561> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

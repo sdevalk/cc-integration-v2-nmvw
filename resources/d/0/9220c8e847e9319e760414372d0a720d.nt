@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50325> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50325> <https://colonialcollections.nl/schema#description> "[KL] blauwgroen & wit (kraal)\r\n[VO] als 50324 - kleiner; \r\n        kraalwerk wit met twee banen blauwgroen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50325> <https://colonialcollections.nl/schema#identifier> "WM-50325" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50325> <https://colonialcollections.nl/schema#material> "leer, glaskralen\r\nkraalwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50325> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

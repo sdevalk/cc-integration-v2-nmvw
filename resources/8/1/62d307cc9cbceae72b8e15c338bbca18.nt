@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70077> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70077> <https://colonialcollections.nl/schema#description> "[ST] 4 cm brede lengtebanen, ovale hals\r\n[DE] haarstreep & spiraal & ruit & driehoek & geometrische motieven\r\n[KL] blauw & wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70077> <https://colonialcollections.nl/schema#identifier> "WM-70077" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70077> <https://colonialcollections.nl/schema#material> "katoen, zijde, DMC-garen\r\ngeweven (kettingrips) & geborduurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70077> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

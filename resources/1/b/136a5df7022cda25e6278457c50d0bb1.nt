@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#description> "[ST] schelp (1) & bosje vogelveer & bosje paardenhaar & pluim\r\n        (2) van katoengaren & handgreep & draagband" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#identifier> "WM-57981" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#material> "karbouwenhuid, rotan, verf, schelp, vogelveer ;\r\npaardenhaar,  katoengaren, katoen\r\ngesneden, geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-57981> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

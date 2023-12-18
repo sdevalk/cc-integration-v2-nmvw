@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55697> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55697> <https://colonialcollections.nl/schema#description> "[KL] zwart & rood;\r\n[VO] twee tonvormige pijpekoppen naast elkaar met brede \r\n        opstaande rand met dunne ingegrifte vertikale lijntjes.\r\n        De verbinding met de ruwe, roodgekleurde steel door een\r\n        bekleding van leder." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55697> <https://colonialcollections.nl/schema#identifier> "WM-55697" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55697> <https://colonialcollections.nl/schema#material> "aardewerk, leder" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55697> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

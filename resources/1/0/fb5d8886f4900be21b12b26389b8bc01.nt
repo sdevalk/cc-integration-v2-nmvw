@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#description> "1 = zwaard\r\n       ([ST] bladtin (?)bekleding (greep)\r\n        [DE] snijwerk (greep))\r\n2 = schede\r\n       ([ST] gaten voor draagkoord & bladtin (?)bekleding &\r\n                vlechtwerkband (5)\r\n        [DE] snijwerk))" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#identifier> "WM-5065" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#inscription> "[T] Poso No. 33 koppensnellerszwaard" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#material> "staal, hout, bladtin (?), rotan (vlechtwerkband)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5065> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

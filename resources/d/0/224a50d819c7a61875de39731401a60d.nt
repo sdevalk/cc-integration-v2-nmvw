@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#name> "Slaghout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#description> "Slaghout (espada) gemaakt van de  pupunha palmboom (Latijnse naam: bactris gaspaes). Dit soort slaghout wordt gebruikt om te vechten bij feesten. Anisio Aruá zei hierover tijdens zijn bezoek aan Leiden toen hij deze objecten aan ons kwam verkopen: “Vroeger ging het zo: wanneer je klaar bent om te vechten neem je er gewoon een, dan zeg je ‘jij hebt dit of dat over mij gezegd’, en dan zeg je: ‘dat kan niet, ik ga je slagen’, en dan snijdt het in je armen, je brengt er lelijke wonden mee aan.” Tegenwoordig worden dit soort slaghouten vooral gebruikt om te feesten en om te spelen met elkaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#identifier> "RV-6097-15" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#material> "hout (bactris gaspaes)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-15> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <https://colonialcollections.nl/schema#name> "DOLK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <https://colonialcollections.nl/schema#description> "Lemmet : van ijzer, niet gedamasceerd, licht gebogen, met strakke, vooral aan de basis dikke rug; het scherp met flauwe boog naar de punt overgaand.\r\nHeft : van ivoor, in doorsnee ovaal, zonder steelring, enigszins herten- pootvormig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <https://colonialcollections.nl/schema#identifier> "RV-2456-43" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <https://colonialcollections.nl/schema#material> "ijzer ; ivoor ; hout ; hoorn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-43> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

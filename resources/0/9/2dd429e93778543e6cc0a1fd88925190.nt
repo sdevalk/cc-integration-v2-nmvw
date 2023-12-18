@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#name> "FOTO'S UIT HET PRIVÉ-BEZIT VAN VAN ZUYLEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#description> "In de zomer biedt een omgekeerde umiak beschutting voor huisraad, gereedschap, kleding en soms ook mensen.\r\nOp de plaats waar nu de Strandvej ligt, was vroeger water. Aan deze kust kampeerde vaak Groenlandse gezinnen die naar Tasiilaq kwamen in de zomer met hun umiaks en kajaks.\r\nTasiilaq, 13 juli 1934.\r\n\r\nJaap van Zuylen's eigen beschrijving:\r\nUmiaks" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#identifier> "RV-6222-184" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#material> "glas (materiaal) ; fotografische procedés" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#creator> "J. (Jacob) van Zuijlen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-184> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

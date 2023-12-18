@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <https://colonialcollections.nl/schema#description> "[VO] Nenek Tau Ali.\r\n        Oude wijze man met haji kapje. Beweegbare onderkaak, \r\n        sik. Eén arm beweegbaar. Stok in de hand en bidsnoer;\r\n[KL] fel gekleurd: groen & geel & zwasrt & blauw & zilver." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <https://colonialcollections.nl/schema#identifier> "WM-64923" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <https://colonialcollections.nl/schema#material> "leer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <https://colonialcollections.nl/schema#creator> "Sulaiman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64923> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

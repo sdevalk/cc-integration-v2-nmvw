@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een lemmet met negen bochten. Er is geen opzetstuk (ganja). Het sterk gebogen heft is van bruin hout gemaakt in de vorm van een gestileerde vogelfiguur (garuda). De gladde komvormige steelring (mendak) is van messing gemaakt. De schede (gandar) en de schedeopening (wrangka) zijn van één stuk bruin hout gemaakt. De schede heeft een duidelijke schoen met daarboven een omwikkeling van rotan. Onder de schedeopening is een draagsnoer van rood katoen vastgemaakt met een omwikkeling van een katoenen band." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#identifier> "RV-730-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; messing ; rotan ; katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#locationCreated> "Makassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Makassar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Makasser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Ujungpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Udjung Pandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Djumpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-730-6> <https://colonialcollections.nl/schema#alternateName> "Makasar" .

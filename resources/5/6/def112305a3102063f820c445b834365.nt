@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#name> "Strijdbijl" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#description> "De metalen vier-puntige bijl (kakar tangi) heeft een ronde ring waarmee de bijl op de houten stok is geplaatst. Dit type bijl was oorspronkelijk een strijdbijl, maar werd rond 1964 gebruikt bij de berenjacht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#identifier> "RV-6230-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#material> "ijzer, hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#locationCreated> "Odisha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#alternateName> "State of Odisha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#alternateName> "State of Orissa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6230-17> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

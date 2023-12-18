@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#description> "[KL] geel (katoengaren & streep) & goud (lurexdraad & streep);\r\n[VO] de schering heeft katoengaren en lurexdraad.\r\n         De inslag is geel katoendraad met bovendien een \r\n         supplementair gebruikte lurex gouddraad. De versiering\r\n         wordt gevormd door parallel lopende zigzag lopende lijnen\r\n         in de breedte. Aan de uiteinden 2x vier dwarse gouden\r\n         en gele strepen. \r\n         Franje aan beide korte zijden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#identifier> "WM-65602" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#material> "katoengaren, lurexdraad, gouddraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65602> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

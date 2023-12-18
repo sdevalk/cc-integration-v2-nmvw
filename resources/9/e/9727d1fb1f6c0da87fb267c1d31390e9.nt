@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <https://colonialcollections.nl/schema#name> "WEEGSCHAAL IN FOEDRAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <https://colonialcollections.nl/schema#description> "[KL] rood & zwart 1 = foudraal (l 18.5 x br 9 x dikte 3.6 cm / hout) 2 = weegschaal (h 42 x br 14 x diam 6.5 cm / koper & ijzer)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <https://colonialcollections.nl/schema#identifier> "WM-65804" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <https://colonialcollections.nl/schema#material> "koper, ijzer, teakhout\r\ngesmeed (ajour)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65804> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

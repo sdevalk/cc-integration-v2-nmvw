@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61115> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61115> <https://colonialcollections.nl/schema#description> "[KL] zwart & wit & roodpaars & blauw & geeloranje & groen\r\n[VO] brede rand van geometrische patronen rond om een effen \r\n        middenveld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61115> <https://colonialcollections.nl/schema#identifier> "WM-61115" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61115> <https://colonialcollections.nl/schema#material> "surfa wol\r\nkelim-techniek = galim baf." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61115> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

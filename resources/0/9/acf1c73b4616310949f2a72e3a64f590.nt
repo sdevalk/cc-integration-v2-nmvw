@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#description> "De hoofden (bobato akhirat en bobato dunia) in een volgboot tijdens de upacara kololi kie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#identifier> "RV-6234-333" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-333> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

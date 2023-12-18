@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47377> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47377> <https://colonialcollections.nl/schema#description> "[VO] speerpuntjes, waarvan de vorm het beste vergeleken kan\r\n        worden met die van een geplette dolfijn met vinvormig \r\n        uitsteeksel aan iedere zijde, terwijl de bek overgaat in een\r\n        zeer lange, naaldvormige punt. \r\n        De speerpunten eindigen in en holle schacht. \r\n        Bij de nrs.: 1,2,7,8,9 eindigt deze punt in een knopvormige \r\n        verdikking.\r\n        Bij no. 10 is de naaldvormige punt afgebroken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47377> <https://colonialcollections.nl/schema#identifier> "WM-47377" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47377> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47377> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

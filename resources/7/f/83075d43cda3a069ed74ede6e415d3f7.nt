@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#description> "1 = ketel\r\n      ([ST] steunsel (2) & draaibaar hengsel met oog voor\r\n               ketting & tuit & verbindingsstuk & reliefribbe (horizontaal)\r\n               & voet\r\n       [VO] dier : gekroonde naga-kop (einde verbindingsstuk)\r\n2 = deksel\r\n      ([ST] knop met oog voor ketting)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#identifier> "WM-64739" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#material> "brons\r\ngegoten, opengewerkt (voet)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64739> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

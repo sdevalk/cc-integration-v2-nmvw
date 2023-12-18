@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <https://colonialcollections.nl/schema#description> "Straatnaambord zoals ze voorkomen in hoofdstraten van grote steden. Tegenwoordig ook met Latijns onderschrift zoals deze, echter met fictieve naam (Vriendschapstraat). Dit bord is nagemaakt (in opdracht van het Tropenmuseum) door de gemeente van Shanghai." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <https://colonialcollections.nl/schema#identifier> "WM-70856" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <https://colonialcollections.nl/schema#inscription> "你好路\r\n南 ni hao lu 北\r\n\r\nVertaling:\r\n'Hallo' straat\r\nzuid [transcriptie karakters 'hallo' straat] noord" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <https://colonialcollections.nl/schema#material> "kunststof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70856> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

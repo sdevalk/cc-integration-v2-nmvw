@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#name> "TEMPELHANGER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#description> "Een vrouwelijke tempelhanger gemaakt van rotan en kralen. De hanger bestaat uit een met rood garen omwonden rotan ring, opgehangen aan kettinkjes vanuit metaaldraad gebogen schakels en een geelkoperen haak. Onder de rotan ring een rand met gekleurde kralen aan metaaldraad en rondom daarvan afhangend een groot aantal snoeren met gekleurde kralen. In het midden tussen deze snoeren vier cirkels van kralen, die samen met enige andere snoeren kralen twee kegels vormen, die met de toppen tegen elkaar rusten. Aan het einde van deze snoeren balletjes van garen en bosjes lapjes gekleurd katoen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#identifier> "RV-2407-469" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#material> "rotan ; metaaldraad ; messing ; kraal ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-469> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

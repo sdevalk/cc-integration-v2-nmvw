@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <https://colonialcollections.nl/schema#name> "NEKSTEUN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <https://colonialcollections.nl/schema#description> "Verschillende soorten neksteunen werden gebruikt, sommigen zijn versierd met uitsnijdingen, anderen zijn ongedecoreerd en bestaan volledig uit het natuurlijke hout. Soms werden de neksteunen onder de slaapmat geplaatst om de steun wat zachter te maken voor de nek. Een enkele keer werd ook de schedel van een verslagen vijand als neksteun gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <https://colonialcollections.nl/schema#identifier> "RV-2403-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <https://colonialcollections.nl/schema#material> "hout ; kleurstof ; jobstranen (Coix lacryma-jobi)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2403-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

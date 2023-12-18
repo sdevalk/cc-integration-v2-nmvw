@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62767> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62767> <https://colonialcollections.nl/schema#description> "[VO] man : danser\r\n[KL] rood & groen & goud\r\n\r\nBehoord bij \"spirit-house\" gewijd aan Phra Phum." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62767> <https://colonialcollections.nl/schema#identifier> "WM-62767" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62767> <https://colonialcollections.nl/schema#material> "plastic, verf\r\nbeschilerd (polychroom)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62767> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

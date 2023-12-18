@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62959> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62959> <https://colonialcollections.nl/schema#description> "[ST] bovenstuk (opgebouwd uit kepeng-munten) met spiegel (2)\r\n        in midden & snoer (met kepeng-munten, kralen en versiering)\r\n[VO] zandloper (bovenstuk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62959> <https://colonialcollections.nl/schema#identifier> "WM-62959" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62959> <https://colonialcollections.nl/schema#material> "brons, katoen, blik, rotan, spiegel, plastic, glas, verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62959> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <https://colonialcollections.nl/schema#name> "MET FANTASIE-FIGUREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & motief : fantasiefiguur (horizontaal\r\n        en ook verticaal georganiseerd)\r\n        seret & hoofdpatroon & motief : effen\r\n[KL] badan & ondergrond : zwart\r\n        badan & motief : naturel & bruin & blauw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <https://colonialcollections.nl/schema#identifier> "WM-56443" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, batik, cap, machinaal gezoomd (korte kanten)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56443> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

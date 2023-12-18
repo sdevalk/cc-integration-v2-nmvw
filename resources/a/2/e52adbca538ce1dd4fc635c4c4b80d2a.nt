@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#description> "[KL] zwart & wit\r\n[VO] rechthoekig lapje van zwarte zijde waarop een versiering is aangebracht in zilver- en gouddraad [PA] voorstellende een kleine witte reiger (egret) die naar een schijf vliegt temidden van gestyleerde bergen en wolken. Op de rand: meandermotief, bloemen en een vleermuis. Werd gemaakt op de rug van een Chinese mantel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#identifier> "WM-62509" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#material> "zijde, zilverdraad, gouddraad\r\ngeborduurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62509> <https://colonialcollections.nl/schema#yearCreatedStart> "1644"^^<http://www.w3.org/2001/XMLSchema#integer> .

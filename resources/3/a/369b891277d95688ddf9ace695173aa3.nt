@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66151> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66151> <https://colonialcollections.nl/schema#description> "[KL] rose-beige (achtergrond) & rossig donkerblauw (tumpal) & helder- & donkerblauw & roodbruin & rossig bruin (ceplokmotief)\r\n[VO] doek, dichtgenaaid op midden badan\r\n[PA] kepala: panelen en tumpalrijen klassiek gevuld met vogels en bloemen, achtergrond rose-beige met stipjes, tussen ruimte tumpal effen rossig donkerblauw. Badan: klein ceplokmotief: diagonaal ruit met sterre-bloempjes in de ruiten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66151> <https://colonialcollections.nl/schema#identifier> "WM-66151" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66151> <https://colonialcollections.nl/schema#material> "katoen\r\ngebatikt.\r\nVolgens registerboek: Surabaya of Lasem? Of toch Sumatra?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66151> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

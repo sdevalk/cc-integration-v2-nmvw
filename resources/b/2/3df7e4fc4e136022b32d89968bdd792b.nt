@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59561> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59561> <https://colonialcollections.nl/schema#description> "[KL] bruin (hout);\r\n[VO] langwerpige, wat hollopend zitvlak; aan één uiteinde lang\r\n        uitsteeksel (\"kop\") aan andere, korter uitsteeksel (\"staart\"); \r\n        vier korte, dikke poten - verweerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59561> <https://colonialcollections.nl/schema#identifier> "WM-59561" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59561> <https://colonialcollections.nl/schema#material> "hout\r\ngepolijst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59561> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

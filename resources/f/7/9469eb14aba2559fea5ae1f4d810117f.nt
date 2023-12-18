@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73800> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73800> <https://colonialcollections.nl/schema#description> "[KL] oudroze & groen (textiel) & rood & groen & oranje & blauw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73800> <https://colonialcollections.nl/schema#identifier> "WM-73800" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73800> <https://colonialcollections.nl/schema#material> "zijde (bies), nylon\r\ngeborduurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73800> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

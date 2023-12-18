@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52231> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52231> <https://colonialcollections.nl/schema#description> "[VO] dierenfiguur (bakje);\r\n        de romp van het dier is een, aan de zijkanten enigszins \r\n        afgeplatte bijna cylindrische blok waarin een rechthoekige \r\n        kom is uitgesneden. Poten ontbreken. De staart is plat en\r\n        rechthoekig. De hals lang en cylindrisch. Van de kop zijn \r\n        alleen de omhoogstaande oren aangegeven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52231> <https://colonialcollections.nl/schema#identifier> "WM-52231" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52231> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52231> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

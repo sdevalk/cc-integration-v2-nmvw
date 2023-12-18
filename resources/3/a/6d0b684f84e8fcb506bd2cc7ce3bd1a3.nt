@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#name> "JERSEY-STOF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#description> "[PA] bedrukt met pilaster of minaretachtige torens;\r\n[KL] lila (fond)  & rood & lichtgrijs & licht- & donker blauw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#identifier> "WM-66814" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#material> "nylon jersey\r\nbedrukt & inslag tricot." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#locationCreated> "Boğazlıyan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66814> <https://colonialcollections.nl/schema#alternateName> "Boğazlıyan" .

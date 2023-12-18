@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#description> "[ST] voetstuk\r\n[VO] klok & skelet & schedel\r\n[KL] paars & goud & rose & wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#identifier> "WM-67751" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#material> "klei (gedroogd), ijzerdraad, verf\r\ngemodelleerd;beschilderd\r\nVoorbeeld van Mexicaanse volkskunst; vormgeving toont vermenging van christelijke en indiaans-sjamanistische denkbeelden. Kenmerkend voor produkten uit Metepec: veelkleurigheid, matte beschildering, compactheid van de figuren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#locationCreated> "Metepec" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#alternateName> "Metepec" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67751> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

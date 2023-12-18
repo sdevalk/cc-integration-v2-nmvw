@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#description> "[KL] rose & bruinzwart & bruinrood\r\n[ST] oor (2)\r\n[DE] lijn & ruit\r\n\r\nIn de herfst ook gebruikt voor opslag olijfolie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#identifier> "WM-48285" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & beschilderd\r\nDit aardewerk wordt door vrouwen gemaakt zonder een draaischijf, maar op een platte schijf van aardewerk die meedraait bij het vormen. Ongeglazuurd. De vormen en motieven gaan terug tot de voor-Carthaagse periode. De verf wordt van een donkere steen gemaakt (hoghra). De daarin aanwezige kleurstof is mangaanoxide of goethit. Uit Bel blijkt dat men in de tijd dat men nog met teer decoreerde, de teer soms mengde met mangaanoxide. [p. 112]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#creator> "Tamou" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48285> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#name> "PRENT; \"KAJUTALJUUK AND CHILD\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#description> "Het rechterhoofd is getatoeëerd en heeft een mannelijk kapsel. Het middelste hoofd is ook getatoeëerd, maar heeft een vrouwelijk kapsel met staarten. Het linkerhoofd, en profil getekend, is niet getatoeëerd, dus vermoedelijk het kind. Alledrie de hoofden hebben borsten in plaats van wangen. Het rechterhoofd heeft een mannelijk geslachtsdeel onder de kin, het middelste hoofd lijkt van het vrouwelijk geslacht te zijn. Links onder in het blok is de naam van de kunstenaar afgebeeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#identifier> "RV-6094-227" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#material> "papier ; inkt ; steensnede" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-227> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

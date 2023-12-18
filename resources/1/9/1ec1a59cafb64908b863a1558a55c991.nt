@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#name> "STRIJKSTOK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#description> "Strijkstok gemaakt van bruin hout. Het ene eind is naar onderen gebogen en met snijwerk versierd. Het andere einde is naar boven gebogen en is spiraalvormig versierd. De zwarte haren zijn door middel van witte en blauwe lapjes katoen bespannen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#identifier> "RV-2231-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#material> "hout ; haar ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2231-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

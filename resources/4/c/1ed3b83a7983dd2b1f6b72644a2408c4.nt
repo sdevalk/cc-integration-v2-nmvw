@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48828> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48828> <https://colonialcollections.nl/schema#description> "1 = bord (diam 27 x h 5.5 x dikte 1.2 cm / [KL] bruin & blauw & creme) 2 = doos (l 29 x br 29 x h 8 cm / band zit vast aan de doos) 3 = deksel (l 29 x br 29 x dikte 2.1 cm)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48828> <https://colonialcollections.nl/schema#identifier> "WM-48828" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48828> <https://colonialcollections.nl/schema#material> "aardewerk, hout, glazuur\r\ngebakken & geglazuurd (craquele)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-48828> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

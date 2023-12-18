@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#description> "[KL] lichtbruin\r\n[VO] plat 1 = binnentas (bamboe) 2 = buitentas (hout (onderzijde)) 3 = deksel ([ST] bevestiging deksel met hengsel en muntstuk (1) / hout (bovenzijde))" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#identifier> "WM-7403" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#material> "hout, plantenvezel (hengsel), metaal, koperdraad\r\ngesneden & gevlochten & geslagen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7403> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

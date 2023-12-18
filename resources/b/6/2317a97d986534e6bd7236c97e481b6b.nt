@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#name> "Miniatuurbuidel ('Parfleche')" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#description> "Indianen op de Plains gebruikten veel verschillende soorten tassen en andersoortige houders. Eén van de meest karakteristieke tassen was de parfleche. Deze was gemaakt van gehard ongelooid leer en beschilderd met allerlei patronen. De parfleche werd gebruikt om gedroogd vlees en “pemmican” in te bewaren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#identifier> "RV-6141-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#material> "rawhide ; acrylverf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6141-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

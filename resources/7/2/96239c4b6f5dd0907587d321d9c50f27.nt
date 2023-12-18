@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#name> "MET PARADIJSVOGEL-BOEKET" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#description> "[PA] hoofdpatroon & motief : paradijsvogel- boeket\r\n        hoofdpatroon & design-element : cecek & sawut\r\n        achtergrondpatroon & design-element : cecek & ganggeng\r\n        (= waterplant)\r\n[KL] ondergrond : zeeblauw\r\n        motief : naturel & okerbruin & rood & blauw (fel) & groen\r\n[ST] kraag & lange mouw & verdekte sluiting" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#identifier> "WM-71489" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#inscription> "[T] exclusive\r\n      tailor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, batik, tulis, genaaid en gevoerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71489> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

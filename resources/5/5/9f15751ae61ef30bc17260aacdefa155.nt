@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#name> "BROEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#description> "Een korte broek gemaakt van geweven katoen. De randen van de broekspijpen zijn omboord met goudgalon, waarin een patroon van, door elkaar kruisende zigzagstrepen gevormde ruitfiguren en kleine Andreaskruizen. In de rechterpijp is een zak gemaakt, die omringd is met een rand van zilveren biezen in de vorm van een vierkant, waarvan het midden der beide uiteinden in een drieledige bladkrul overgaat. De openingen van de band voor het trekkoord zijn met dezelfde bies omboord. Dit type wordt door Buginezen gemaakt en gedragen. Afkomstig uit Samarinda." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#identifier> "RV-614-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#material> "katoen ; gouddraad ; zilverdraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#locationCreated> "Kota Samarinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Samarinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Samarinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

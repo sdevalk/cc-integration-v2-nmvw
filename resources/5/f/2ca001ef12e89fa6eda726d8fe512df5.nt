@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600256> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600256> <https://colonialcollections.nl/schema#description> "Rood doosje met opdruk van een blanke vrouw en een zwarte man die wild kwartetten in bed. In het doosje een kwartetspel over de stripfiguren van \"De Familie Doorzon\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600256> <https://colonialcollections.nl/schema#identifier> "WM-600256" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600256> <https://colonialcollections.nl/schema#material> "papier, gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600256> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

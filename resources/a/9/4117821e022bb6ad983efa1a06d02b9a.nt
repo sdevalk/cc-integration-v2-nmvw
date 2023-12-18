@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#description> "1 = kan (h 26.5 x diam 17.5 cm / [ST] tuit & hals & rand\r\n[DE] bloem & blad & abstracte figuren\r\n[KL] steenrood & goud & zwart\r\n[VO] dubbel konisch) 2 = deksel (h 57 x diam 12.5 cm / [ST] standaard & deksel\r\n[DE] spiralen waarop blad & bloem\r\n[KL] goud (bloem) & zilver (bloemhart) & deksel: goud & rood & zwart)\r\n\r\nVoor tempelgebruik." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#identifier> "WM-6826" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#material> "klei, hout, verf, ijzer, blik\r\ngebakken & beschilderd & gesneden & geslagen & geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6826> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

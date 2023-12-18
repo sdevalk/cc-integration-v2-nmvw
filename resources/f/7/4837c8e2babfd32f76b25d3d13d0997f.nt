@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#description> "De middagmaaltijd op de tuin is bijna op: wat kleine visjes (ngawi’i; ikan ngafi) en gerookte tonijn met een laatste beetje rijst in bananenblad gestoomd (e’a sasalanga)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#identifier> "RV-6234-784" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-784> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#description> "Oranje tabaksblik met aan boven- en binnenzijde Orientaals geïnspireerde decoratiepatronen in Art Deco stijl. \r\n\r\nOpschriften: Turmac Ramadan; Turmac;Ramadan;\"Turmac\" Turkish-Macedonian Tobacco Company; All our cigarettes are guaranteed to be made from pure Oriental Tobaccos; \"Turmac\"; Turkish- Macedonian Tobacco Company; Bruxelles, Arnhem, Zurich; 20 ramadan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#identifier> "WM-600107" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#material> "blik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600107> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

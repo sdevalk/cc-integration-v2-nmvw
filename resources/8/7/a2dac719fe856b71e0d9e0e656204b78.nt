@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#name> "SUTASOMA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#description> "Koning Kétu vraagt aan Sutasoma of hij zijn opvolger wil worden; Sutasoma neemt het aanbod niet aan. Opschriften in balies: Sang Sutasoma; bhatara Kétu. Afgebeeld v.l.n.r.: Sutasoma, Wana (dienaar van Kétu), Kétu." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#identifier> "WM-65405" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#material> "glas, muurverf\r\nbeschilderd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#creator> "Jero Dalang Diah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65405> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

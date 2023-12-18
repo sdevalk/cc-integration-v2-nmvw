@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#description> "[AF] Mandala met in het centrum de boeddha Sakyamuni. Aan de randen van de rolschildering een van de vijf dhyani-boeddhas van Vajrapani." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#identifier> "WM-58617" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#material> "linnen, verf, coromandelhout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58617> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

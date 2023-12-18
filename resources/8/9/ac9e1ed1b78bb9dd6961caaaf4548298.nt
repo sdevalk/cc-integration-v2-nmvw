@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#description> "1 = binnentas (bamboe) 2 = buitentas ([ST] 4 uitsteeksels (onderzijde in de hoeken)\r\n[DE] kruisende banden & vierkant & banden\r\n[KL] geel & rood & zwart)\r\n3 = deksel ([ST] 2 randen (onderzijde) & 2 randen (bovenzijde) & klein uitsteeksel met draagkoord\r\n[DE] band & vierkant\r\n[KL] geel & rood & zwart)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#identifier> "WM-6834" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#material> "bamboe, rotan, hout\r\ngevlochten (diagonaal) & gesneden & geverfd;[PL] Kota-Raja (Oost-Lombok)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6834> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

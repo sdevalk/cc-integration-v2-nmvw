@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60705> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60705> <https://colonialcollections.nl/schema#description> "[KL] rood (aardewerk);\r\n[VO] halve cilinder-vormig;\r\n[DE] op een priesterfiguurtje in pudja houding, een potje in de \r\n        handen geklemd. Aan de beide uiteinden een slangenkop,\r\n        vogelkop? achtig plat uitsteeksel, ingegrifte sierlijnen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60705> <https://colonialcollections.nl/schema#identifier> "WM-60705" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60705> <https://colonialcollections.nl/schema#material> "aardewerk\r\ningegrift." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60705> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

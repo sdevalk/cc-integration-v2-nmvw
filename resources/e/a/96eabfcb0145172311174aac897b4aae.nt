@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#name> "STOP VAN BLAASPIJPJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#description> "Het voorwerp is gemaakt van been, waarin een dwarsgeboord gat zit.\r\nHet heeft een tapse vorm, met een steel waar een stuk van is afgebroken.\r\nIn doorsnede is het voorwerp rechthoekig. De functie is onbekend.\r\nMogelijk is het een stop voor een blaaspijpje (zie RMV-690-37m).\r\nEen blaaspijpje wordt gebruikt om de vangblaas vol lucht te blazen.\r\nHet wordt na het opblazen gesloten met een stop." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#identifier> "RV-690-37k" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#material> "been" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-37k> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

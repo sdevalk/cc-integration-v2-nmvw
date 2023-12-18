@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63158> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63158> <https://colonialcollections.nl/schema#description> "[ST] kraal & kwast (1)\r\n[KL] kraal : zwart & geel & roze (kwast) & groen (koord)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63158> <https://colonialcollections.nl/schema#identifier> "WM-63158" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63158> <https://colonialcollections.nl/schema#material> "glas (?), textiel\r\ngeregen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63158> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

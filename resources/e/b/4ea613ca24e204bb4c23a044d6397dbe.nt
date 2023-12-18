@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <https://colonialcollections.nl/schema#description> "Pijl met bamboe schacht, stalen punt en fazantenveren. Behoort bij pijlenkoker 666-128b1.\r\n\r\nArrow with bamboo shaft, steel arrowhead and pheasant feathers. Belongs to quiver 666-128b1." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <https://colonialcollections.nl/schema#identifier> "RV-666-128e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <https://colonialcollections.nl/schema#material> "bamboe ; staal ; veren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-128e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

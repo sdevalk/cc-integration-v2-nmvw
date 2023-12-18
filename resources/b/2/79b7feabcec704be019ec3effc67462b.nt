@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70080> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70080> <https://colonialcollections.nl/schema#description> "[DE] 'afrikaanse knoop' & streep (aso oke)\r\n[KL] rood & zwart & groen & beige" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70080> <https://colonialcollections.nl/schema#identifier> "WM-70080" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70080> <https://colonialcollections.nl/schema#material> "katoen\r\ngestikt & beweven & geborduurd [hand]\r\nKettingrips, kettingsteek en schuine platsteek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70080> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

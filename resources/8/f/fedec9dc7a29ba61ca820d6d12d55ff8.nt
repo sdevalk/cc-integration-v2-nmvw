@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-587> <https://colonialcollections.nl/schema#name> "ZEMI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-587> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-587> <https://colonialcollections.nl/schema#identifier> "RV-2049-587" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-587> <https://colonialcollections.nl/schema#material> "Koraal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-587> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58786> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58786> <https://colonialcollections.nl/schema#description> "1  = hoed,  \r\n2  = hemd, \r\n3  = waterzak,  \r\n4  = vel & band,  \r\n5  = geldtas & draagriem \r\n6 = ketting & schakels, \r\n7  = kom & ketting, \r\n8  = kom & ring \r\n9  = kom & ring,  \r\n10 = kom, \r\n11 = beker met oor (diam 10 cm) \r\n12 = beker met oor (diam 8 cm)\r\n1 kom heeft een iets afwijkend model en een ingeponste rozet op de\r\nbodem." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58786> <https://colonialcollections.nl/schema#identifier> "WM-58786" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58786> <https://colonialcollections.nl/schema#material> "messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58786> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

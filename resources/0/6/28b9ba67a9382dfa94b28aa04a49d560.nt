@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#name> "MEDAILLE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#description> "Medaille ter herinnering van het honderdste geboortejaar van de poolreiziger Knud Rasmussen, 1879-1979." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#identifier> "RV-6094-398" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#creator> "Anders Nyborg" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#creator> "Harald Salomon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-398> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

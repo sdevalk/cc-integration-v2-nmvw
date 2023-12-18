@@ -1,0 +1,22 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#name> "PRENT; HOND OP SLEE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#description> "Afbeelding van een rendierkudde. Op de voorgrond een slede met daarop een hond die half onder een huid ligt. De kunstenaar heeft deze tekening nagetekend van een foto uit 1970 ‘Pastering reindeer on the tundra’ o.a. afgebeeld in de publicatie 'Journey to other worlds (1997) op pag. 33.\r\nOnderaan de prent staat behalve de naam van de vervaardiger ook het woord Ergyron Holland. Dit verwijst naar een optreden van het Chukotko Yuit ensemble Ergyron uit Siberië dat in 1999 in Nederland heeft opgetreden. De kunstenaar Vassyly Kevkei is leider van de groep." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#identifier> "RV-6094-243" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#creator> "Vassyly P. Kevkey" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#locationCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Rossiya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Federation"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Federatsiya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-243> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

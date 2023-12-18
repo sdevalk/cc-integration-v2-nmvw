@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58884> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58884> <https://colonialcollections.nl/schema#description> "[VO] Vorst linkerpartij ; Prabu Bomanarakasura ook te \r\n         gebruiken voor zoon van Dasamuka mits niet Indradjit;\r\n         dus b.v als Trikaja, Triwenah, Trisirah." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58884> <https://colonialcollections.nl/schema#identifier> "WM-58884" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58884> <https://colonialcollections.nl/schema#material> "leer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58884> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

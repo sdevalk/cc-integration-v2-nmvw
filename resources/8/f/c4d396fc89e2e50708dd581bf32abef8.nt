@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#name> "ETS: STADSGEZICHT IN EDO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#description> "Een ets uit een reeks gezichten in Edo met als voorstelling een gezicht op de Sumida rivier, getiteld Edo Sumidagawa tsukimi no kei. In de rechtermarge [Popular name Moon at Sumida River]. In de linkermarge [datering Jaar van de Aap (Saru); nummer 287; zegel van Kichi, Kichi no in; letter Ro (van het alphabet)]." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#identifier> "RV-6155-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#material> "papier en inkt ; ets ; drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#creator> "Shunsentei Chogetsu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6155-19> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

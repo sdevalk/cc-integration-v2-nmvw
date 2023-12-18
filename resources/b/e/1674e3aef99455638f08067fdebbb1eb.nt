@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60051> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60051> <https://colonialcollections.nl/schema#description> "[KL] geelgroen (palmblad);\r\n[VO] cylindervormige mand, vierkante bodem met puntig \r\n        uitgestulpte hoeken - de vorm bepaald door de vlechtwijze :\r\n        diagonale eenslag (= linnenbinding).\r\n[DE] gevlochten van palmbladrepen, dubbel of driedubbel gelegd.\r\n        Breedte vlechtstreek ongeveer 2,5 cm.\r\n        Een grote \"siggin\"(vgl. 60048/50)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60051> <https://colonialcollections.nl/schema#identifier> "WM-60051" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60051> <https://colonialcollections.nl/schema#material> "palmblad\r\ngevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60051> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

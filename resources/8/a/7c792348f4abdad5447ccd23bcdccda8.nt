@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#name> "STRAATBEELD IN EDO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#description> "Een straatbeeld, mogelijk in Kasumigaseki, Edo, met grote mansions van daimyo of samurai aan beide zijden van een oplopende straat. De mensen in de voorgrond slechts schematisch weergegeven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#identifier> "RV-693-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#material> "zijde ; Sumi inkt ; pigment ; schildering gemonteerd als hangrol (kakejiku)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-693-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1780"^^<http://www.w3.org/2001/XMLSchema#integer> .

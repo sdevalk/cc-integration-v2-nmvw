@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55694> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55694> <https://colonialcollections.nl/schema#description> "[Kl] rood & zwart (aardewerk);\r\n[VO] de pijp peervormig van aardewerk, met uitstaande dikke rand.\r\n        Aan de roodgekleurde houten ruw steel vastgemaakt met een\r\n        bekleding van de leder;  \r\n[DE]  twee rondgaande lijnen gegrift." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55694> <https://colonialcollections.nl/schema#identifier> "WM-55694" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55694> <https://colonialcollections.nl/schema#material> "hout, aardewerk, leder" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55694> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

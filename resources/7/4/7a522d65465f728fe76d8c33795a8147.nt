@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59445> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59445> <https://colonialcollections.nl/schema#description> "[VO] klein mandje met vierkante bodem - ongeveer ronde opening\r\n        (omwonden met vezels); op het mandje zijn kauri-schelpen\r\n        genaaid." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59445> <https://colonialcollections.nl/schema#identifier> "WM-59445" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59445> <https://colonialcollections.nl/schema#material> "riet, kaurieschelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59445> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

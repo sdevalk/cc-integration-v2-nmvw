@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6801> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6801> <https://colonialcollections.nl/schema#description> "[ST] rand & hoofdring (2-delig) & ophanglus\r\n[MO] rand & ophanglus : bloem\r\n[KL] vlechtwerk : naturel & wijnrood & zwart\r\n        textiel : naturel & rood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6801> <https://colonialcollections.nl/schema#identifier> "WM-6801" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6801> <https://colonialcollections.nl/schema#material> "pandanpalmblad, katoen (rand en ophanglus), plantenvezel (garen), katoengaren, verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6801> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

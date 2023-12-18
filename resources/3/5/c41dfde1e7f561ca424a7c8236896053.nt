@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50252> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50252> <https://colonialcollections.nl/schema#description> "[ST] doos en deksel vebonden d.m.v. textiel-band (2) & voering\r\n        & omboordsel\r\n[PA] geometrische figuren : ruiten\r\n[KL] kraalwerk : rood & zwart & wit & geel & groen (2 tinten) &\r\n                          rose & blauw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50252> <https://colonialcollections.nl/schema#identifier> "WM-50252" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50252> <https://colonialcollections.nl/schema#material> "glas, katoen, plantaardig materiaal, mica" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50252> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

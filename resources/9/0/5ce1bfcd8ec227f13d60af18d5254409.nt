@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5086> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5086> <https://colonialcollections.nl/schema#description> "[ST] 2-delig (gelaagd) & hengsel & borduurwerk & applicatie\r\n[DE] oiale-figuur (6 x 4 fregatvogels rond zon)\r\n[KL] naturel (ondergrond) & zwart & rood & bruin & geel & oranjegeel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5086> <https://colonialcollections.nl/schema#identifier> "WM-5086" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5086> <https://colonialcollections.nl/schema#material> "pandanpalmblad, katoen, katoengaren, metaal, plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5086> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

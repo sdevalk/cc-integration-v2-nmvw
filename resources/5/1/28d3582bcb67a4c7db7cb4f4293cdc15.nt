@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71128> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71128> <https://colonialcollections.nl/schema#description> "[DE] geometrische figuren\r\n[KL] wit (ondergrond) & groen & rood & zwart; achterzijde: rood & zwart & blauw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71128> <https://colonialcollections.nl/schema#identifier> "WM-71128" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71128> <https://colonialcollections.nl/schema#material> "plexiglas, hout\r\ningelegd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71128> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

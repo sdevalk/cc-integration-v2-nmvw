@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#name> "Mes met schede" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#description> "Lijkt op 2211-156. Het verschil is dat de greep wordt bekroond met een kapvormige knop. De versiering bestaat uit uitgeholde driehoekjes, met de tophoeken naar elkaar toe. Het achterstuk van de greep is van hout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#identifier> "RV-2211-195" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#material> "ijzer; hout ; ivoor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2211-195> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

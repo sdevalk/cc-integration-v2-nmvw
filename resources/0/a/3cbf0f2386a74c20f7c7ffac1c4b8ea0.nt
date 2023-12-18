@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63400> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63400> <https://colonialcollections.nl/schema#description> "[VO] kort, breed en licht tweesnijdend zwaard, met recht, op het \r\n        einde uitwaaierend lemmet en houten gevest van eenvoudig\r\n        model. De doorn van het lemmet steekt door het gevest heen\r\n        en is omgeslagen. Het lemmet is onversierd maar voorzien \r\n        van een verhoogde middenrib (op beiden zijden zichtbaar)\r\n        welke bij de lemmetpunt gevorkt is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63400> <https://colonialcollections.nl/schema#identifier> "WM-63400" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63400> <https://colonialcollections.nl/schema#material> "ijzer, hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63400> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

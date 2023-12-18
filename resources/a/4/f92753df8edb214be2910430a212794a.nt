@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#description> "[KL] rood (buitenste baan & fond) & donkerblauw (zig-zag) &\r\n        wit (zig-zag);\r\n[VO] uit 3 banen; de twee buitenste zijn zeer smal, elk 7,5 cm.; \r\n        de middenbaan is 90 cm.\r\n[PA]  Deze middenbaan, van evenzeer rood fond, is versierd met hele \r\n         reeksen daarop ingeweven scherpe zig-zag-reeksjes, die \r\n         gedeeltelijk in elkaar grijpen, alle inslagdraden, en die bij stroken \r\n         van 1,2,3 maal 5 cm., elkander in de richting van de ketting weer, \r\n         zonder vaste regelmaat, opvolgen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#identifier> "WM-51" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven & ingeweven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

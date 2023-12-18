@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#description> "Driedelig, de spits van bamboe, bladvormig, het korte middenstuk van hout met de spits en de schacht verbonden door een touw- omwinding (beschadigd). De schacht van dunne bamboe, is zeer lang en onversierd.\r\n\r\nZie serienr.: 2442-160." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#identifier> "RV-2442-175" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-175> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

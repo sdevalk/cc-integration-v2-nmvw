@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#name> "SIRIHTAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#description> "Een rechthoekige sirihtas gemaakt van geweven katoen. De tas is rood van kleur en wordt door evenwijdige horizontale strepen in acht banden verdeeld, waarvan de vierde het breedst is. De versiering bestaat uit zandlopers, omgekeerde S-figuren, ruiten, driehoeken, krullen etc. De gebruikte kleuren zijn wit, zwart, oranje, groen, geel en paars. De tas heeft een draagband in wit, zwart, groen en oranje. Aan de bovenrand zijn vele lange kralensnoeren opgehangen met kralen in de kleuren groen, wit, rood en zwart. De kralensnoeren zijn even lang als de tas." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#identifier> "RV-2255-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#material> "katoen ; verf ; kralen ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2255-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .

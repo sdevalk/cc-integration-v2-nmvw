@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#name> "LANDSCHAPSPRENT; REPRODUCTIE VOOR TENTOONSTELLING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#description> "Waka no ura in de provincie Kii. Boven de baai, waar de ietwat ruige zee aangeeft dat het flink waait, vliegen vijf kraanvogels. Ze hebben duidelijk moeite met de wind. Midden in het water een eilandje ('De berg Imose') met een driedubbele boogbrug ernaartoe. Op het eilandje staat een tempel, waarbij ook een pagode.\r\nUit de zeventig ontwerpen tellende serie 'Rokujûyoshû meisho zue', 'Afbeeldingen van beroemde plaatsen in de ruim zestig provincies', ontworpen door Utagawa Hiroshige en uitgebracht door Koshimuraya Heisuke tussen 1853 en 1856." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#identifier> "RV-2494-54_REPRO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#creator> "Koshimuraya Heisuke" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#creator> "Utagawa Hiroshige" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#yearCreatedEnd> "1855"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2494-54_REPRO> <https://colonialcollections.nl/schema#yearCreatedStart> "1855"^^<http://www.w3.org/2001/XMLSchema#integer> .

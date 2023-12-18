@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49551> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49551> <https://colonialcollections.nl/schema#description> "[KL] groen (zijde) & rood (rand);\r\n[VO] zware zijde met 15 cm. brede randen. De groene schering\r\n        van de doek overlapt de rode schering van de rode kop,\r\n        bijeengehouden door de inslag. \r\n        Rijk versierd met ingeweven motieven welke de inslag\r\n        onderbreken, daarmee door lusjes verbonden, hetgeen \r\n        merkbaar door plaatselijke oneffenheden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49551> <https://colonialcollections.nl/schema#identifier> "WM-49551" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49551> <https://colonialcollections.nl/schema#material> "zijde\r\ningeweven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49551> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

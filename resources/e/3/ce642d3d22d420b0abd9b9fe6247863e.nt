@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <https://colonialcollections.nl/schema#name> "KEBAYA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <https://colonialcollections.nl/schema#description> "[PA] bloem\r\n[KL] blad-groen\r\n[ST] verdekte sluiting d.m.v. drukkers (voorzijde)\r\n[TY] Kartini (= West-Javaans)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <https://colonialcollections.nl/schema#identifier> "WM-71562" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <https://colonialcollections.nl/schema#material> "katoen\r\ngenaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71562> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

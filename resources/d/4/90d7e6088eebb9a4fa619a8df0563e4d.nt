@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#name> "Bovenarmband" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#description> "Armband voor bovenarm, gemaakt met katoen en arara veren en een stukje van een langwerpige zaad van een struik. Het object is niet door Anisio gemaakt maar door zijn dochter. Het wordt gemaakt door vrouwen maar gewoonlijk alleen voor haar man en voor haar kinderen. De dochter van Anisio maakt nog veel van dit soort dingen, hoewel het eigenlijk niet meer verkocht mag worden gezien de verboden op de verkoop van dit soort veren door de CITES-beperkingen. Toch maakt de dochter van Anisio ze nog wel, en worden ze ook nog veel verkocht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#identifier> "RV-6097-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#material> "katoen, araraveren, plantenzaad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-20> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

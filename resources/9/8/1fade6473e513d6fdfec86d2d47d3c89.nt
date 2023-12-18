@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62133> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62133> <https://colonialcollections.nl/schema#description> "[VO] oorloze aardewerk pot, met afstaande rand, ronde bodem;\r\n        buitenkant bodem vlekken, rood-bruin, verder voornamelijk\r\n        zwart verkoold\r\n[DE] eenvoudige versieringsrand van ingedrukte putjes (geen\r\n        duidelijk patroon overgekomen)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62133> <https://colonialcollections.nl/schema#identifier> "WM-62133" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62133> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62133> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62674> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62674> <https://colonialcollections.nl/schema#description> "[VO] kop van een fabeldier, dat een kind verslindt, uitgevoerd in\r\n        ebbenhout. De kop heeft grote bolle ogen, hoorntje op het \r\n        voorhoofd, kleine oortjes als van een nijlpaard. De achterkant\r\n        van de kop is onbewerkt (ruwe bast zichtbaar)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62674> <https://colonialcollections.nl/schema#identifier> "WM-62674" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62674> <https://colonialcollections.nl/schema#material> "ebbenhout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62674> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

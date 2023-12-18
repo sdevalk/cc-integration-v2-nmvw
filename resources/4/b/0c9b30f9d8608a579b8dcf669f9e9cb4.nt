@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#name> "BOUWKUNDIGE TEKENING VAN CANDI SINGOSARI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#description> "Een van de kleine zijnissen aan de voorzijde van de Singosari tempel (Candi Singosari, 13e eeuw): lengtedoorsnede, dwarsdoorsnede en aanzicht van het gewelf. Getekend door Joedotaroeno. Ondertekend door H.L. Leydie Melville (\"Het Lid der commissie in Ned. Indië voor Oudheidkundig onderzoek op Java en Madoera\"), Weltevreden, 30 juli 1905. Dit is blad 10 van een serie bouwkundige tekeningen van Candi Singosari, die gebruikt werden voor het boek 'Beschrijving van Tjandi Singasari; De wolkentooneelen van Panataran' (Brandes 1909)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#identifier> "RV-6196-4j" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#material> "karton ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#yearCreatedEnd> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6196-4j> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

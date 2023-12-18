@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#name> "HARNAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#description> "Een harnas gemaakt van dik leer. Het harnas is samengesteld uit vier stukken leer. Eén deel heeft een bladvormig gedeelte om het achterhoofd te beschermen. Er zijn twee zijstukken, die gedeeltelijk de rug een de armen bedekken. Het laatste is het grote borstgedeelte. Het rugstuk is met lontarbladrepen versierd, het borststuk met een reep leer met schelpen. De delen zijn met rotanrepen aan elkaar vastgemaakt. Eén van de schouderstukken is met rood, blauw en wit gestreept katoen omwikkeld. Het harnas werd met twee leren riemen over de schouders gedragen. Het harnas is versierd met zwart en rood gekleurde ruitvormen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#identifier> "RV-70-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#material> "leer ; rotan ; blad (lontar) ; katoen ; verf ; schelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-70-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .

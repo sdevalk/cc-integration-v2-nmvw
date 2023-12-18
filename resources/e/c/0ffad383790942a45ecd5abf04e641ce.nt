@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <https://colonialcollections.nl/schema#name> "Dolkmes" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <https://colonialcollections.nl/schema#description> "Lemmet : van ijzer, niet gedemasceerd, sikkelvormig, aan beide kanten scherp, behalve het deel aan de rugzijde bij de basis.\r\nPunt afgevijld.\r\nHeft : van bruin hout, licht gebogen, ovaal in doorsnede, kunstig besneden, met b;ad- en kelkmotieven (van de broodboom?)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <https://colonialcollections.nl/schema#identifier> "RV-2456-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2456-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

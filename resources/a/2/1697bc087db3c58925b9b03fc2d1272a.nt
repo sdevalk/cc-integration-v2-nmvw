@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#name> "PRENT; \"FALCON HUNTING FOR FOOD\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#description> "Een valk (rechts) heeft een een ijsduiker (links) in de lucht aangevallenen en hem mogelijk gedood. Acht veertjes van de prooi dwarrrelen naar beneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#identifier> "RV-6094-230" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#material> "Papier (Goyu), zwarte en bruine inkt, steendruk (steensnede)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-230> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

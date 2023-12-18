@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64770> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64770> <https://colonialcollections.nl/schema#description> "[VO] de plaats waar de twee tanggedeelten samenkomen is \r\n        de vorm gesneden (en met drijfwerk versierd) van een\r\n        dikke man, soort semar?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64770> <https://colonialcollections.nl/schema#identifier> "WM-64770" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64770> <https://colonialcollections.nl/schema#material> "blik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64770> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

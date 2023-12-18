@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#description> "[ST] 6-delig\r\n[DE] minaret (4), vaandel (2) & bloem & cirkel & vogel;\r\n[KL] kobaltblauw & groen & oker & zwart & wit (fond)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#identifier> "WM-63513" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & geglazuurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63513> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

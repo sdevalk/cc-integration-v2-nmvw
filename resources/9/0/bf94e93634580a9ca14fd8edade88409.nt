@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60706> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60706> <https://colonialcollections.nl/schema#description> "Dakbedekking als no. 60705, doch veel eenvoudiger en meer \r\ngestyleerd.\r\n[KL] rood (aardewerk);\r\n[VO] halve cilinder-vormig, op het midden een Tjili-figuur. Aan \r\n        beide uiteinden een teruggeslagen lip, met elk een rond \r\n        gaatje ervoor." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60706> <https://colonialcollections.nl/schema#identifier> "WM-60706" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60706> <https://colonialcollections.nl/schema#material> "aardewerk\r\ningegrift." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-60706> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

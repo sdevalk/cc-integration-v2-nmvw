@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#description> "[KL] bleekgroen\r\n[VO] Naludu met apengezicht in profiel met rode muil. Plat hoofddeksel, randversiering van krullen. Slagtanden en grote zwarte snor. Oorrozet. Halsketting met peervormige hanger. Lichaam, boven- en onderarmen met rode, langgerekte druppelvormige versiering, die bloeddruppels suggereren. Rode broek, versierde gordel met afhangende versiering. Sierbanden om bovenarmen en polsen. Ringen om duim, pink en grote teen. Handen en voeten met klauwen. Draagstok over hoofd en gehele lichaam." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#identifier> "WM-58844" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#inscription> "[T] Naludu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#material> "perkament (geitenhuid), verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#locationCreated> "Chennai" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#alternateName> "Tamulinadu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#alternateName> "Madras"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58844> <https://colonialcollections.nl/schema#alternateName> "Tamizhagam" .

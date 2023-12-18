@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63942> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63942> <https://colonialcollections.nl/schema#description> "[KL] zwart (fond) & rood & groen & geel & blauw & paars;\r\n[PA] combinatie & ruit (hoek) & streepdessin (lengte richting);\r\n[VO] schering draden monden uit in samengevoegde gedraaide \r\n        met kleine kwastjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63942> <https://colonialcollections.nl/schema#identifier> "WM-63942" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63942> <https://colonialcollections.nl/schema#material> "kunstzijde\r\nkeperbinding, plaatselijk een extra schering voor het patroon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63942> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

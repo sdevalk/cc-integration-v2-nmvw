@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <https://colonialcollections.nl/schema#description> "[ST] doosje en zeep\r\n[DE] Voorzijde: karikaturale zwarte man getooid met sieraden, stapels geld en goud. Achterzijde: geld en hoefijzer. Rondom: klavertjes, ogen, hoefijzer, sterren en sleutel\r\n[KL] zwart & geel & wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <https://colonialcollections.nl/schema#identifier> "WM-600182" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <https://colonialcollections.nl/schema#inscription> "[T] Changó Machó (1) & [T] jabon Changó Machó (2) & [T] Fragancia - Ligereza;Fe y Constancia; Distribuidora Zodiaco;Apartado 19132 - Caracas; Hecho en Venezuela (3) & [T] jabon chango (4)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <https://colonialcollections.nl/schema#material> "karton, papier, zeep\r\n[NA] Zodiaco (distibuteur en vervaardiger?); [PL] Caracas, Venezuela" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600182> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
