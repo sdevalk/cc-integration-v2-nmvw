@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#name> "DE ACTEUR SUKETAKAYA TATASUKE." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#description> "[AF] man & acteur : Suketakaya Tatasuke in de rol van de daimyo Hatake yame Shigetada." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#identifier> "WM-31510" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#inscription> "Toyokuni gwa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#material> "papier\r\nUitgegeven door Yamadaya Sanshiro." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#creator> "Utagawa Toyokuni" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#creator> "Yamadaya Sanshiro" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31510> <https://colonialcollections.nl/schema#yearCreatedStart> "1775"^^<http://www.w3.org/2001/XMLSchema#integer> .

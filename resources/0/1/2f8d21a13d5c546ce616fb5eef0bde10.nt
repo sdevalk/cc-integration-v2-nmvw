@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#name> "EPACU" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#description> "Hoedje gedecoreerd met veren en een figuur die waarschijnlijk een kikker moet uitbeelden, symbool voor vruchtbaarheid en vrouwelijkheid, net als de kronkelende slang op de borst en rug." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#identifier> "WM-3534" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#material> "hout, vogelveer, bladtin, plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3534> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

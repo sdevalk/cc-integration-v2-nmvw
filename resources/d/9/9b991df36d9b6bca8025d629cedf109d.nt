@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <https://colonialcollections.nl/schema#description> "1 = schaal (diam 10.7 x h 2.5) 2 = deksel (diam 10.7 x h 1.5)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <https://colonialcollections.nl/schema#identifier> "WM-34096" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <https://colonialcollections.nl/schema#inscription> "[T] Sukeyama" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <https://colonialcollections.nl/schema#material> "satsuma-porselein\r\ngebakken & beschilderd (polychroom);[NA] Sukeyama\r\nGemaakt voor Europese markt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34096> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

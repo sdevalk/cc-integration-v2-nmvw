@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39877> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39877> <https://colonialcollections.nl/schema#description> "[ST] schakelketting\r\namuletkoker [2]\r\nbol [4]\r\nkonische hanger [DE] email, filigrain" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39877> <https://colonialcollections.nl/schema#identifier> "WM-39877" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39877> <https://colonialcollections.nl/schema#material> "zilver,  email,  verguldsel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39877> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#name> "WEST NIEUW GUINEA. XXX! HUIS DOOR EEN KERA-KERA BESCHERMD EN, LINKS, DIT BEVEILIGINGSMIDDEL AFZONDERLIJK." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#identifier> "WM-908193" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#inscription> "titel met inkt op voorzijde karton geschreven,\r\nnummer ingekrast op foto (m.o.),\r\n'J.v. Dissel. T.A.G. XXI, 478.' met inkt op achterzijde karton geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#material> "daglichtcollodiumzilverdruk, mat, getoond" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#creator> "Dissel, J. van" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908193> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

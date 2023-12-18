@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#name> "258 PERSEPOLIS. INSCRIPTION OF TRAVELLERS NAMES ON THE PORCH OF XERXES : A. BACKER 1704, C. DE BRUYN 1704, C. NIBUHR 1765, W. FRANCKLIN 1787." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#description> "Amateurfotografie, reisfotografie. Het ruinecomplex van Persepolis met de overblijfselen van het paleis van de legendarische Perzische koning Xerxes (486-464 v. Chr.). Inscripties van o.a. Europese reizigers op de poort van Xerxes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#identifier> "WM-940049-1-98" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#material> "karton, papier, platinadruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-98> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .

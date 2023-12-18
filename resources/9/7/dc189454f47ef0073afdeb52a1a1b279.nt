@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, geheel opgeplakt.\r\n\r\nOpname van een landschap. Zo te zien een kloof met hoekige scherpe rotsen. Er is water, misschien een verzonken rivier. In de kloof een paar mensen. Op de achtergrond is vegetatie te zien op alweer hoekige rotsen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#identifier> "7082-nf-1078-29-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#material> "papier; afgedrukt, ontwikkeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-29-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

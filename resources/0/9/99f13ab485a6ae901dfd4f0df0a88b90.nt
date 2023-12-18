@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, los aangetroffen met vele anderen.\r\n\r\nOp achterkant in inkt: 'een \"groep\" ???? militairen op marsch - genomen door lt Kunst'.\r\n\r\nOpname toont een heuvelachtig landschap, vrij kaal, met hier en daar wat bomen. Over een heuvelkam, achter elkaar aan gaand, een militaire patrouille te paard.\r\n\r\nDeze foto is identiek aan nf 1078-30-3. De daar aangetroffen data zijn hier overgenomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#identifier> "7082-nf-1615-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#creator> "Luitenant Kunst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1615-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

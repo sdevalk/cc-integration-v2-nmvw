@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#name> "Continental, a Steve Matson exclusive" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#description> "Enkelvoudige strakke ronde boord (merk Continental, Steve Matson) met aan de voorkant twee naar beneden omgevouwen punten en een knoopsgat met losse knoop.\r\n\r\nAan de binnenkant een stempel bestaande uit twee cirkels, met in binnenste cirkel een onduidelijke monogram, tussen de binnenste en buitenste cirkel de tekst 'made in Czechoslovakia' en om de buitenste cirkel de tekst 'imported by Steve Matson'. Daarnaast geschreven 'R 885' en gestempeld de tekst '45 Continental a Steve Matson exclusive 15' . Aan de achterkant een knoopsgat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#identifier> "7082-S-4490" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#material> "textielmaterialen, gesteven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4490> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

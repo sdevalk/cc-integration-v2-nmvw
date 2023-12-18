@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#name> "SAWAMURA DANOSUKI IN EEN VROUWENROL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#description> "[AF] man & acteur : Sawamura Danosuki in een vrouwenrol, voorgesteld ten halve lijve." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#identifier> "WM-31524" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#inscription> "datumstempel voor de 2e maand van 1861." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#creator> "Utagawa Kunisada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#creator> "Kagaya Kichibei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31524> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

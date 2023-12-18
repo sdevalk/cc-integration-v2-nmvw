@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#description> "Gezicht op een schip. Het schip vaart op zee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#identifier> "WM-940031-1-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#material> "papier, daglichtcollodiumzilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940031-1-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .

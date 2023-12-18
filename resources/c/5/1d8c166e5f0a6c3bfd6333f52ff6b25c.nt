@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33000> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33000> <https://colonialcollections.nl/schema#description> "[ST] uiteinde : dichtgeknoopte lus\r\n[DE] kraal & kaurieschelp\r\n[KL] glaskraal : blauw & wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33000> <https://colonialcollections.nl/schema#identifier> "WM-33000" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33000> <https://colonialcollections.nl/schema#material> "ijzer (kraal), leer (ondergrond), leer (lus), glas (kraal), kaurischelp, plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33000> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

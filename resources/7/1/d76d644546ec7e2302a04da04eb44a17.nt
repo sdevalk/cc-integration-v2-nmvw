@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#description> "[ST] bloedgleuf (3) in lemmet\r\n[DE] snijwerk (greep) & geometrische figuren (gegraveerd op\r\n        bovenzijde lemmet)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#identifier> "WM-34304" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#inscription> "1 = [T] patent solingen &\r\n2 = [T] BR 58 &\r\n3 = [T] B-72-151 2/2 &\r\n4 = [T] B-72-151 1/2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#material> "staal, hout, hoorn, ivoor (handbeschermer), goud" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#locationCreated> "North Aceh Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#alternateName> "North Aceh Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Atjeh Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Aceh Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34304> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Atjeh Utara" .

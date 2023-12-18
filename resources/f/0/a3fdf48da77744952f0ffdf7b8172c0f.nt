@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#description> "Wrijfsteen of metate in de vorm van een staande jaguar. De wrijfsteen heeft twee jaguarkoppen: een grote en een kleine kop (staart). De poten zijn met een ruitmotief in laag reliëf gedecoreerd. Het feit dat er twee koppen (één voor de staart) zijn geeft een mythologisch aspect aan de metate. Bovendien worden deze metates in graven gevonden zonder maalstenen. \r\nZie hierover opmerkingen conservator." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#identifier> "WM-33420" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#material> "steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#yearCreatedEnd> "1499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33420> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

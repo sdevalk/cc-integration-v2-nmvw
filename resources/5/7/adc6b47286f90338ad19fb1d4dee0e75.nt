@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#name> "MARRIAGE CUSTOM., \"GIRLS WAILING BECAUSE SOME ARE TO MARRY.\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#description> "Meisjes, zittend in een circel. Een rituele betekenis voor de meisjes onder hen die gaan trouwen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#identifier> "WM-906091" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#inscription> "titel geschreven in negatief, voorzijde, middenonder, 'februari 1911.' geschreven op karton in pen in zwart, achterzijde, linksboven, 'Dear Sir, During my residence of ten years at Wanigera in, Collingwood Bay, Papua, Brit. New Guinea, I photographed many things, of scientific interest. I purpose selling series of these photo-, graphs privately to institutions such as yours to be kept as records' getypt op etiket geplakt op karton, achterzijde, midden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906091> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

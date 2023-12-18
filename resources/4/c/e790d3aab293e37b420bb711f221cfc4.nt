@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#name> "Inrô met netsuke en ojime" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#description> "1 = inro (l 8.8 x br 4.8 x dikte 2.9 cm / hout & goudlak / 5-delig) 2 = netsuke (l 3.8 x br 3 x h 2 cm / [VO] dier : bruine hond / hout) 3 = ojime (diam 0.9 cm / porselein)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#identifier> "WM-34127" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#inscription> "[T] Shokwasai, 1e helft 19e eeuw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#material> "hout, goudlak, porselein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34127> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#name> "Sarung" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#description> "Kokerdoek, sarung, met blauw-witte motieven van bloemtoefjes en losse kleine bloemen. Het ontwerp met de slingerende blad- en bloemranken is geheel naar de Jugendstil traditie.\r\n\r\nbadan (motief), takken, bladeren, bloemen, bloemfiguren; (fondkleur), naturel; (motiefkleur), blauwgroen, blauw, grijs; kepala (pola), buketan; (motief), bloemen, vogels, bloemfiguren, vlinders; kepala, randen (fondkleur), blauwgroen; (motiefkleur), naturel, blauw, grijs;\r\nHerkomst:  Java." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#identifier> "7082-S-451-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#material> "batik tulis, katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#creator> "batikkerij Van Zuylen, Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

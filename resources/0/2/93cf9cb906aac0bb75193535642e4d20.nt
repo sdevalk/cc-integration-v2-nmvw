@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39895> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39895> <https://colonialcollections.nl/schema#description> "[ST] doos en deksel d.m.v. snoer en touw verbonden &\r\n        rozet (deksel)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39895> <https://colonialcollections.nl/schema#identifier> "WM-39895" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39895> <https://colonialcollections.nl/schema#material> "kruidnagel, plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39895> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

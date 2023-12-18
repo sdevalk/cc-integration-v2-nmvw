@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39769> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39769> <https://colonialcollections.nl/schema#description> "[KL] donkerblauw & rose & wit & groen & lichtblauw (kraal)\r\n[VO] klein, rechthoekig enveloppetasje: bouwsteenverband;\r\n[DE] zigzagband.\r\n        Sluiting: rij van zes witte knoopjes waaromheen aan de\r\n        klep bevestigde kralensnoerlusjes worden geslagen.\r\n        Dubbel draagkoord van wit/rood kralensnoer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39769> <https://colonialcollections.nl/schema#identifier> "WM-39769" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39769> <https://colonialcollections.nl/schema#material> "glas (kralen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-39769> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

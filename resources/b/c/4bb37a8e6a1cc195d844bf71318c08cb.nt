@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#description> "[ST] hoorn en stop bevestigd d.m.v. pin\r\n[DE] snijwerk w.o. mensengezicht (op stop en aan onderzijde)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#identifier> "WM-34223" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#inscription> "1 = [T] 213 Br &\r\n2 = [T] B-72-17 1/2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#material> "hoorn, hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34223> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

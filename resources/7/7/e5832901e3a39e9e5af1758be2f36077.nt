@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3618> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3618> <https://colonialcollections.nl/schema#description> "[ST] dak met middenstuk & paal (14) & open ingang\r\n[VO] etagere & 4 punten (voor- en achtergevel en middenstuk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3618> <https://colonialcollections.nl/schema#identifier> "WM-3618" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3618> <https://colonialcollections.nl/schema#material> "hout, arenpalmvezel, bamboe, tin (dakpunt en kram)\r\ngesneden & gevlochten & gegoten & gekramd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3618> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

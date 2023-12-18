@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#description> "Ongelopen briefkaart met gedeelde achterkant. Met gekartelde rand links.\r\nRechtsboven gedrukte tekst: 'BRIEFKAART - Carte Postale - Postkarte - Post Card - Wereldpostvereeniging - Union postale Universelle'\r\nLinksonder gedrukte tekst: 'Uitgave Mij. Vorkink, Bandoeng'\r\n\r\nOnder de afbeelding, in zwart gedrukt, links 'Bandoeng' en rechts 'School voor M.U.L.O.'\r\n\r\nOpname toont een gebouw met centraal (op de hoek) een ingang en met aan weerszijden een torentje.\r\nBoven de ingang op de gevel de naam 'School voor M.U.L.O.'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#identifier> "7082-nf-1315-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#material> "papier; gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#creator> "N.V. Mij. Vorkink, Bandoeng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1315-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

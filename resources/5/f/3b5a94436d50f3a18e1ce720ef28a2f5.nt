@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#description> "Schelp, oorspronkelijk hoorn vormig, waarin een maasker gemaakt is door twee grote ronde ogen erin te boren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#identifier> "WM-33522" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#material> "schelp\r\ngeslepen & gepolijst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#yearCreatedEnd> "1520"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33522> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

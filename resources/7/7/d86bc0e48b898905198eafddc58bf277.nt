@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#name> "UITNODIGING NAMENS DE SOESOEHOENAN VOOR HET BIJWONEN VAN DE PARADE VAN DE PRADJOERITS T.G.V. ZIJN 72STE VERJAARDAG." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#description> "Op pagina 47 van album S 4334 zijn een 2-tal dokumenten opgeplakt.\r\nLos is nog een klein fototje van Ratoe Pembajoen aangetroffen\r\n\r\n\r\nDokument nf 684-47-1 betreft een uitnodiging namens de Soesoehoenan voor het bijwonen van de Parade van de Pradjoerits t.g.v. zijn 72ste verjaardag. Getekend door Poerbanagoro\r\n\r\nHet is officieel papier met watermerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#identifier> "7082-nf-684-47-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#material> "papier; gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-684-47-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

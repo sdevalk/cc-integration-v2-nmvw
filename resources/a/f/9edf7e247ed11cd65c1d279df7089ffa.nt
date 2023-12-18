@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#name> "Tekening" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#description> "Zelfportret van Rudolf Bonnet, volgens schenker 'gemaakt in Laren in 1912 als bewijs aan zijn ouders dat hij kon tekenen en naar de academie wilde'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#identifier> "7082-S-524-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#creator> "J.R. (Johan Rudolf) Bonnet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-524-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#description> "[ST] scharnierdeksel & voet\r\n[DE] bloem (in midden) & bloemrank" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#identifier> "WM-34337" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#inscription> "1 = [T] BR 120 & 2 = [T] B-72-187" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#material> "zilverlegering\r\ngedreven, gelast, [RO] zilversmid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34337> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

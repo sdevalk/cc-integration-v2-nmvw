@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#name> "493 ON THE ROAD FROM TABREEZ TO TIFLIS. EREVAN (CAUCASUS). THE  PRINCIPAL STREET." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#description> "Amateurfotografie, reisfotografie, straatbeeld, de hoofdstraat van Yerevan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#identifier> "WM-940049-2-73" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#material> "karton, papier, platinadruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#locationCreated> "Yerevan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Erewan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Yervandavan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Iravan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Ereun" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Revan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Ayrivan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Yerevan"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Erevan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#alternateName> "Erivan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-2-73> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .

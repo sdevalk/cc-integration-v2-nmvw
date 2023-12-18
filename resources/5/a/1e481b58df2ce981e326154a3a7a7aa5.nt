@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#description> "\"Missigit (mahomedaansche tempel) (moskee in Turkije).\" \r\n[bron: lijst bij fotoalbum]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#identifier> "WM-940008-30" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#material> "papier, getoonde daglichtgelatinezilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#creator> "Salzwedel, H." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940008-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

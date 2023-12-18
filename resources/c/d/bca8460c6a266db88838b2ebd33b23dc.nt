@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33506> <https://colonialcollections.nl/schema#description> "Z.g. octopus \"lure\". Instrument, bestaande uit 6 stukken van Cypraea tigris, benevens een fragment van Cypraea caput serpenti en een complete schelp van deze soort, door middel van koorden aan elkander en aan een stokje van ongeveer 34 cm. lengte (puntig toelopend) bevestigd. Dit instrument is bedoeld om de octopus te misleiden, wanneer het over de zeebodem wordt getrokken en de indruk wekt van een dier met een lange staart. Zodra de octopus er zich om heen geklemd heeft wordt het voorwerp, benevens octopus, opgehaald." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33506> <https://colonialcollections.nl/schema#identifier> "WM-33506" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33506> <https://colonialcollections.nl/schema#material> "schelp (Cypraea tigris), hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33506> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

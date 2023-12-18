@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#description> "Fraai oud huis aan de Waterkant. De minder geslaagde etalage en balkon zijn verbouwingen van recente tijd. Met weinig moeite zou het gebouw weer in zijn oude staat terug gebracht kunnen worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#identifier> "WM-940082-11-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#material> "ontwikkel gelatine zilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940082-11-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

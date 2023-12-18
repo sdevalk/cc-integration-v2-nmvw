@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#description> "HM:[PE] man (2) & kapper & klant;[AK] haar knippen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#identifier> "WM-907368-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#material> "[SD] contactafdruk;\r\n[TK] ontwikkel gelatine zilverdruk & acetaat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907368-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34342> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34342> <https://colonialcollections.nl/schema#identifier> "WM-34342" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34342> <https://colonialcollections.nl/schema#inscription> "[T] Br 203 &\r\n[T] B 72-182" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34342> <https://colonialcollections.nl/schema#material> "zilver, chrysopaas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34342> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

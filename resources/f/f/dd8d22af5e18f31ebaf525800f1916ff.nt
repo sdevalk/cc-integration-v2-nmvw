@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#description> "Zwart/wit foto, ongekarteld, opgeplakt met fotohoekjes.\r\n\r\nOpname toont een groepje mensen staand bij een auto die duidelijk pech heeft\r\n\r\nBijschrift onder de foto 'Autopech tusschen Belawan en Medan 10-V-1933'\r\nOp de achterkant van de foto staat geschreven: '42 Autopech tusschen Belawan en Medan. Fam. Hoolboom en Hr. Stumphuis. 10-IV-'33" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#identifier> "7082-nf-685-2-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#material> "fotopapier, ontwikkeld, ontwikkel gelatine-zilverdruk?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#creator> "Jan Herman Beltman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-685-2-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .

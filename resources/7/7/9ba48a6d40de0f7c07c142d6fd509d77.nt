@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#description> "man & vrouw (mv)\r\nhandel\r\nstad & winkelstraat & winkel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#identifier> "WM-906632" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#inscription> "titel;voorzijde & middenonder;geschreven op karton [inkt]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] albuminedruk\r\n[VO] witrand om foto\r\n[OM] karton & passepartout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#creator> "C.M.[Cavilla & Molinari]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#locationCreated> "Tangier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#alternateName> "Tingis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#alternateName> "Tanger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#alternateName> "Tangiers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#alternateName> "Tangeri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906632> <https://colonialcollections.nl/schema#alternateName> "Tangier"@en .

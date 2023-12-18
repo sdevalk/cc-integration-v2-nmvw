@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#name> "HUIS IN DE PADANGSCHE / BOVENLANDEN., SUMATRA-EXPEDITIE 1878. FOTOGR. ALBUM D.D. VETH." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#description> "Huis." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#identifier> "WM-906274-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#inscription> "'4' met potlood geschreven op foto, l.b.,\r\n'INDONESIË' geschreven op karton in potlood, voorzijde, r.o. ,\r\ntitel met inkt geschreven op achterzijde karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#creator> "D. D. (Daniël David) Veth" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906274-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#description> "Ansichtkaart, in kleur, met gescheiden belijning, los aangetroffen.\r\n\r\nOp achterkant gedrukt de titel in drie talen. \r\n+ Driekleur Serie III. Kleurfoto L. Blok.Druk \"Imperator\" Lisse, Clichés \"Polygraph\" Haarlem\r\n\r\nDe afbeelding toont twee danseressen.\r\n\r\nN.B.: Andere identieke kaarten vindt men onder de inventarisnummers:\r\nnf 419-60 t/m nf 419-62, nf 709-1 t/m nf 709-8 en nf 1003, nf 1005 t/m nf 1008" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#identifier> "7082-nf-1870" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#material> "papier; gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#creator> "Polygraph, Haarlem" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#creator> "Drukkerij Imperator, Lisse" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#creator> "L. Blok" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1870> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

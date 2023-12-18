@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#name> "RUINE DE L'EGLISE DES JÉSUITS À JESUS, PARAGUAY, JANVIER 1897" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#description> "Expeditiefotografie, overwoekerde ruine, een expeditielid, H.F.C. ten Kate vermodelijk,  poseert links." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#identifier> "WM-909163" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#inscription> "titel achterop karton geschreven [handschrift Ten Kate]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk, boudoirkaart" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#creator> "Hitte, C. de la" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909163> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .

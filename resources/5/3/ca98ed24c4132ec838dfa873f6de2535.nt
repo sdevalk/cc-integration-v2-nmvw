@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#name> "VIELIÑO, MESCALERO APACHE? NEW MEXICO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#description> "Victorio, opperhoofd van de Mimbreño Chiricahua Apaches uit het San Carlos Reservaat van New Mexico. Victorio leidde vanaf 1877 verschillende ontsnappingen en werd gevreesd omdat hij aanvallen op blanke nederzettingen en op militairen organiseerde. Hij werd in 1880 vermoord door het Mexicaanse leger. De legendarische Geronimo volgde hem op. Hij vluchtte enkele jaren later met de hoofdmannen Nané (Nana), Loco en Benito naar Mexico en wist te ontkomen aan Generaal Crook." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#identifier> "WM-909041" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op voorzijde karton & met inkt geschreven op achterzijde karton [handschrift H.F.C. ten Kate]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#material> "albuminedruk, boudoirkaart, roze karton met goudrand, karton vierzijdig gewelfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#creator> "A.F. (Alfred Frank) Randall" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909041> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

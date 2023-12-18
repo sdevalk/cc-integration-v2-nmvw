@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#description> "Miniatuur kruik met rondom de opening meanders in reliëf. Aan de buitenkant staan een mensenhoofd omringd met veren en twee vleugels.\r\n\r\nhoort bij 32588" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#identifier> "WM-32589" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#yearCreatedEnd> "1520"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-32589> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

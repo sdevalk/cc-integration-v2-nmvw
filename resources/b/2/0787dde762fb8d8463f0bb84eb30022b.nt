@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#name> "LOSSE FOTOGRAVURES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#description> "Landschappen, vulkanen, spoorwegen, volkstypen. Ca. 1925.\r\nGeografische herkomst/voorstelling geografie: Java, Bali.\r\n\r\nVervaardiging\r\nModern album met 21 ingestoken fotogravures uitgegeven  door Kurkdjian, Soerabaia, naar opnamen van  Geo. P. Lewis  en Studio “Lux”, Garoet (Thilly Weissenborn).\r\nModerne map met doorzichtige insteekhoezen, waar fotografures met onderschriften in zijn gestoken. Omslag van zwart kunstleer. Schutbladen zijn van dun wit plastic.\r\n* Fotografures zijn uitgegeven door Kurkdjian (Soerabaja) en gemaakt naar opnames van Geo P. Lewis en Studio \"Lux\" (Garout (Thilly Weissenborn?)).\r\n* Toegevoegd dd. 1-12-2015: 20 fotogravures (TM-0-788a t/m t) aangetroffen zonder informatie in het depot. Afbeeldingen zijn voor het grootste deel overlappend met de fotogravures in alb-2264. (IE)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#identifier> "TM-ALB-2264" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#creator> "Lux Fotostudio" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#creator> "George P. Lewis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#creator> "Ohannes Kurkdjian" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#creator> "Thilly Weissenborn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2264> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

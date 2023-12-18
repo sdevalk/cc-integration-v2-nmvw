@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#description> "[VO] lengtebaan\r\n[PA] Chrysanten en ranken (kiku-karakusa) in wit uitgespaard op indigoblauwe grond d.m.v schablonen (kata-gami). Het patroon is enkelzijdig uitgespaard, doch is aan de achterzijde van het weefsel eveneens duide-lijk zichtbaar geworden. De afmetingen van de gebruikte schabloon (kata-gami) valt af te leiden van de twee witte stippen die zich steeds herhalen ter weerszijde van de z.g. donkere (schaduw) bloem in het midden van het weefsel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#identifier> "WM-40446" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#material> "katoen (momen), indigo\r\ngeweven (linnenbinding), gesjabloneerd (kata-gami-zome)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40446> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

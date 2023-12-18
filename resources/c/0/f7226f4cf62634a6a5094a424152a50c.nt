@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#name> "ONBEKEND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#description> "Basreliëf in de Amontempel te Karnak. Het tempelcomplex werd door diverse farao's gebouwd tussen 1525 en circa 1151 v. Chr. en was gewijd aan godheid Amon, die tesamen met zijn echtgenote Mut en zijn zoon maangod Khons een triade of drieëenheid vormde. Voor ieder van hen was een aparte tempel gebouwd. Amon was in het Oude Rijk de god van de wind, die werd aanbeden door schippers die op de Nijl voeren. Vanaf het Middenrijk (ongeveer 2100 - 1700 v. Chr.) werd Amon steeds belangrijker en gelijkgesteld met zonnegod Ra." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#identifier> "WM-412846" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#inscription> "titel ; geschreven op karton [potlood]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#material> "papier & karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412846> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

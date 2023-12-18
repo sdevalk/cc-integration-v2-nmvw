@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#description> "Zakenlieden en ambtenaren op bezoek bij een feestelijke gelegenheid in een z.g. basaran, dat is een huis van een ondernemer.\r\n2 foto's." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#identifier> "WM-910969" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#creator> "Salzwedel, H." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-910969> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

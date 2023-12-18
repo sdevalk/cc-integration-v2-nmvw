@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#name> "BY THE ARROW I HAVE SAID IT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, enscenering van en profil naar rechts ten voeten uit staande man op de punt van een rots, met een pijl in de hand omhoog gericht naar de hemel. De foto is een uitbeelding van een ritueel gebruik." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#identifier> "WM-920279" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#inscription> "titel gedrukt op Japans papier, onder foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#material> "papier, Japans papier, heliogravure" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-920279> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
