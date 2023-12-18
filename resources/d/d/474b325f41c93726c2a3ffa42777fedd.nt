@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#name> "BRIEF VAN G.A. KRAUSE AAN DIT MUSEUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#description> "Handgeschreven brief van G.A. Krause over de collectie Krause (RMV-serie 739)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#identifier> "RV-D6-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#locationCreated> "Western Africa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-D6-1c> <https://colonialcollections.nl/schema#yearCreatedStart> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

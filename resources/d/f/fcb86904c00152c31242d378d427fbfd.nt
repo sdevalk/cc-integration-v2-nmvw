@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#name> "`TRADING VIEWS #1 & #2'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#description> "Minder goed gelukte proefafdrukken van houtblokken 7217-1a (1x) en -1b (2x).\r\nHenrietta Lidchi heeft contact opgenomen met Jacob Meders om te vragen of hij ze terug wil.\r\nUpdate 22-jul-2022:\r\nDe kunstenaar wil ze niet terug. Henrietta heeft met Jacob Meders afgesproken dat ze (op persoonlijke titel) een donatie doet aan een goed doel voor deze drie prenten. De twee kleinste prenten heeft ze meegenomen en de grootste prent mag het museum/depotbeheer als als decoratie aan de muur hangen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#identifier> "T-1301" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#material> "papier ; drukinkt ; houtsnede" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#creator> "Jacob Meders" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#yearCreatedEnd> "2020"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1301> <https://colonialcollections.nl/schema#yearCreatedStart> "2020"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#name> "KNOP VAN EEN WANDELSTOK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#description> "Gouden knop, oorspronkelijk deel van een houten wandelstok, met de initialen 'PBX'. Dit staat voor Pakubuwana X. Hij was de tiende 'Susuhunan' (vorst) van de kraton van Surakarta en regeerde van 1866 tot en met 1939." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#identifier> "RV-Liefkes-372" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#material> "gesmeed ; geciseleerd ; goud ; (edel)stenen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-372> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

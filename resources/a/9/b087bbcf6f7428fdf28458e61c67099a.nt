@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#name> "VROUW DIE POMPOENEN SCHILT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#description> "Verf op doek. Het schilderij is op een houten raam gespijkerd. Hierover zijn weer vier ruwe planken getimmerd. Dit geheel is in een houten lijst gezet. Deze lijst is groenachtig bruin." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#identifier> "TM-0-447" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#creator> "dhr. H. C. (Henry) Balink" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-447> <https://colonialcollections.nl/schema#locationCreated> "South America" .
