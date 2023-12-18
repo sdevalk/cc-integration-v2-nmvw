@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#name> "AARDEWERKEN RUBBERTAPBAKJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#description> "Wit geglazuurd aardewerken bakje voor het opvangen van de vloeibare latex uit de bomen. Wit van kleur. Aan de onderzijde van de buitenkant ontbreekt het glazuur. Aan de bovenrand staan blauwe letters HAPM." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#identifier> "TM-5972-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur ; glazuren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#creator> "N.V. Hollandsch-Amerikaansche Plantage Maatschappij" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5972-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

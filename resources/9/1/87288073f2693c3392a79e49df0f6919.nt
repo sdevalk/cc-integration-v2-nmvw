@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#description> "Foto van een foto met een religieus beeldhouwwerk er op. De foto is bevestigd op een houten achterwand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#identifier> "WM-434178" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#inscription> "'150' geschreven in negatief, nummer met potlood geschreven op achterzijde foto maar papier afgebroken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#material> "albuminedruk, reproductie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434178> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

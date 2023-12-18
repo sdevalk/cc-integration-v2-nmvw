@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#description> "Gezicht op de bergkloof, bergweg met haarspeldbochten en een brug.\r\nBijschrift op de achterzijde: \"Constantine. De rotskloof van Philippeville en de hangende brug Sidi-M'Cid over de Rummelkloof Deze kloof heeft een diepte van 100 tot 300 M. Deze kloof is iets zeldzaams en men kan hier uren en uren doorbrengen zoo mooi is die.\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#identifier> "WM-432665" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#inscription> "nummer & titel ; voorzijde ; gedrukt / bijschrift ; achterzijde ; handgeschreven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#material> "papier, lichtdruk, bruin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#creator> "ND Phot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#creator> "Lévy et Neurdein Réunis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-432665> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

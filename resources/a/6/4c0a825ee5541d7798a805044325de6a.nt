@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#description> "Een vrouw (Vera) en twee mannen (Burk en Willinck) zitten op een stoel onder een parasol in een tuin. Ze dragen allen badkleding. Voor hen staat een tafel met drank. Op de achtergrond staat een parasol met daaronder een stoel en een tafel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#identifier> "WM-430385" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430385> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

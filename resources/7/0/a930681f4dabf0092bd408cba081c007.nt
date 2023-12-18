@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#name> "MAN VAN DJAMNA, NED. NIEUW GUINEA, IN KRIJGSGEWAAD." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#description> "Gewapende krijger staat met pijl en boog in de aanslag, tussen de bomen en de varens." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#identifier> "WM-430631" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#inscription> "8-xi-12 met inkt op achterzijde geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#material> "papier, lichtdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#creator> "Utrechtse Zendingsvereeniging (UZV)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430631> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

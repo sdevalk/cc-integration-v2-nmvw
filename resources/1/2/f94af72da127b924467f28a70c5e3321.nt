@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#name> "'STORE IN FISHTOWN OF LOWER BUCHAVIAN. DEZE IS WAAR VROEGER BOTERVIS IS GEWEEST NU DE LAATSTE TIJD G. EVERTS.'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#description> "Amateurfotografie. Een 'store'(winkel en pakhuis) van de Rotterdamse firma/rederij Hendrik Muller & Co. Dit is een filiaal van de hoofdvestiging in Monrovia." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#identifier> "WM-434205" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#inscription> "titel met inkt op achterzijde foto en achterzijde karton geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#material> "papier, albuminedruk van glasplaatnegatief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-434205> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

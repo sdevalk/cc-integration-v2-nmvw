@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#name> "TOEGANGSBEWIJS VOOR TJANDI MENDOET, JAVA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#description> "Toegangsbewijs Europeanen (volwassenen) f 0,50 voor Tjandi Mendoet. Dit is de Mendut tempel op Midden-Java, niet ver van de Borobudur. Deels afgescheurd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#identifier> "TM-5985-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

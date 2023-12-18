@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#name> "LITHO MET EEN WACHTHUIS DAT WERD GEBOUWD IN OPDRACHT VAN DE TURKSE GOUVERNEUR OTHMAN NURI PASJA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#description> "Het wachtgebouw dat door de Turkse gouverneur Othman Nuri Pasja is gebouwd. De gouverneur zelf zit op een stoel onder de poort van het wachtgebouw. Linksachter de poort van Safa." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#identifier> "TM-60057043" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#creator> "al-Sayyid ‘Abd al-Ghaffār" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057043> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#name> "THEEKETELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#description> "Aluminum theeketels worden gebruikt voor het koken van water voor grote potten thee. Ze zijn in iedere keuken te vinden maar ook in de bazaar. Daar lopen jongens met de theeketel langs de winkeliers om hen thee te brengen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#identifier> "TM-5979-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-39> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .

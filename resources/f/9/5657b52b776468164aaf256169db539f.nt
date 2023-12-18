@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#name> "WATERVERFSCHILDERING VAN EEN SAWAH" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#description> "Waterverfschildering. Gesigneerd rechtsonder A. Widjaja. Voorstelling van een weggetje door de sawah met links enkele huizen en bergen op de achtergrond.\r\nDe tekening is gelijmd op bruin papier." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#identifier> "TM-5985-25" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#material> "Aquarel op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#creator> "A. (Anton Huang) Widjaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5985-25> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .

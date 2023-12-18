@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#description> "Hanger in de vorm van een bijl mnet de afbeelding van de vogelgod of sjamaan. Zijn gezicht is aangeduid met een ruitvorm waarbinnen mond en ogen zijn weergegevn. Onder het gezicht rusten de armen, linker boven de rechter." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#identifier> "WM-45112" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#material> "jadeiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#yearCreatedEnd> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-45112> <https://colonialcollections.nl/schema#yearCreatedStart> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .

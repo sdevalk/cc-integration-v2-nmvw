@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#name> "BOODSCHAP VAN SURINAAMS INHEEMSE BEVOLKING AAN WILLEM PFEIFFER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#description> "Op de kaart staat geschreven \"De indianen aan de Rio Saramacca zenden hun heil groet voor 2 juli 1897 aan hun broeder Willem Pfeiffer in het Land der Blanken\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#identifier> "TM-5896-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5896-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .

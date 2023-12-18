@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#name> "KUST MET STAD OP DE ACHTERGROND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#description> "Deze opname is gemaakt tijdens de Hadhramout expeditie van H. von Wissmann, H. von Wasielewsky en D. van der Meulen in 1939" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#identifier> "TM-60029256" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#creator> "Dr H. (Hans) von Wasielewsky" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#yearCreatedEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029256> <https://colonialcollections.nl/schema#yearCreatedStart> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .

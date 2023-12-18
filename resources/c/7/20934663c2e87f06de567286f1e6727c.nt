@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#name> "DE TENTOONSTELLING \"GRENZELOOS WERKELOOS\" MET TEKENINGEN VAN PETER VAN STRAATEN EN WALDEMAR POST IN HET TROPENMUSEUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#identifier> "TM-60058669" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#creator> "Kho Liang Ie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#creator> "Will van Sambeek Design Associates" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60058669> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

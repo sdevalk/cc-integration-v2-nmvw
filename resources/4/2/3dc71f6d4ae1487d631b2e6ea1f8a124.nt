@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#name> "EEN MEERTJE WAAR GOUDVISSEN EN KARPER GEKWEEKT WORDEN EN WAAR MET TEVENS KAN ZWEMMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#description> "Een meer met goudvissen en karper kwekerij. Klaarblijkelijk zwemden de kinderen ook in het meer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#identifier> "TM-60050327" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050327> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

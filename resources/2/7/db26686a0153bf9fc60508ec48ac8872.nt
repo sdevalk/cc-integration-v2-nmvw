@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#name> "ZITTING VAN DE LANDRAAD TE PATI IN HET DISTRICT JAPARA, VOORGEZETEN DOOR RESIDENT P.W.A. VAN SPALL, PRESIDENT VAN HET HOF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#description> "Zittend op stoelen van links naar rechts: Chinese kapitein Oei Hotam; niet nader genoemd lid van het hof; lid van het hof Raden Adipati Ario Tjondro Adhi Negoro, bupati (regent) van Pati; president van het hof P.W.A. van Spall; secretaris (griffier) H.D. Wiggers; niet nader genoemd lid van het hof; penghulu (islamitisch adviseur) hadji Minhat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0236-76" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0236-76> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

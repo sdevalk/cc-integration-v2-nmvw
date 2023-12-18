@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN GROEP MARRONS OP HET GOUVERNEMENTSPLEIN TIJDENS EEN FEESTELIJKE AANGELEGENHEID" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#description> "Groepsportret in Paramaribo waarschijnlijk etr gelegenheid van emancipatiedag og koninginnedag." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#identifier> "TM-60006217" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#creator> "Augusta Curiel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#creator> "Fotostudio 'Augusta Curiel'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006217> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#description> "Hanger in de vorm van een gestileerde man. Op het bovenste derde deel zijn met enkele inkervingen het hoofd en de handen weergegeven.  De mond staat op de smalle zijkant, met twee ogen aan de beide flankerende kanten en daarboven een doorlopende band (gleuf). Aan beide zijden staan twee diagonaal omhoog gerichte armen en handen.\r\nDe doorboring zit op de hoogte van de mond." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#identifier> "WM-44826" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#material> "jadeiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44826> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

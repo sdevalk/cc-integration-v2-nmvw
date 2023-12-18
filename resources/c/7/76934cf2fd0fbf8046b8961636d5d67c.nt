@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#description> "Hanger in de vorm van een sjamaan als vogel. Hij heeft een langwerpige kop waarvan de puntige snavel op de borst rust. Op de snavel lopen twee incisielijnen. De ogen zijn ondiep. Bovenop de schedel zit een kleine verhoging als aanduiding van haar waarschijnlijk.\r\nTwee verticale lijnen op het lichaam geven de armen en/of vleugels weer.\r\nDe doorboring zit ten hoogte van de snavel.\r\nOp de ongepolijste achterkant lopen twee vertciale gleuven, als gevolg van het snijden van de steen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#identifier> "WM-44792" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#material> "jadeiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44792> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

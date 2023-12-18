@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#name> "THE GOLDEN EAST ARABIAN COFFEE-HOUSE AND MOSQUE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#description> "Personen zitten rond een tafel op een plein. Achtergrond; moskee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#identifier> "WM-431137" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#material> "papier; ingekleurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#creator> "Tuck & Sons, R." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431137> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

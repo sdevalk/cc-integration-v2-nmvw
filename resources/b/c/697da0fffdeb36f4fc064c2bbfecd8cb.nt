@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#description> "Een marktkoopman heeft geld in zijn hand. Een jongen zit naast deze man. Voor hun ligt fruit op een hok. Op de achtergrond staat een kar die wordt getrokken door een ezel. Op deze kar zit een jongen en kippen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#identifier> "WM-429558" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#material> "dia : zwart/wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#creator> "Kleeff, H. van & Houwen, P. van der" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-429558> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

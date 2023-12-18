@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S VAN ATJEH TIJDENS DE ATJEH-OORLOG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#description> "Album met foto's van Atjeh tijdens de Atjeh-oorlog. Dit fotoalbum bevat een incomplete serie van de in 1874 door H.M. van Dorp & Co. (Batavia) uitgegeven \"Vierendertig gezigten op Atjeh\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0301" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#creator> "H.M. van Dorp & Co." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#creator> "Topografische Opname te Atjeh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0301> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .

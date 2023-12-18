@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#name> "DE BOEREN KOLONISTEN FAMILIE VAN BRUSSEL GEFOTOGRAFEERD VOOR HUN BOERDERIJ TER GELEGENHEID VAN DE 50 JARIGE AANWEZIGHEID VAN DE BOERENKOLONISTEN IN SURINAME" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#description> "[v.l.n.r.] Frederika 8j. Gerrit 11j. Cornelis 5j. Willem 20j. Elisabeth 33j. Johan 3j. Frederik 28j. Wilhelmina 46j. Karel 13j. Alida 3j. Johannis 19j. Elisabeth 4j. Laurens 45j. Johanna 29j. Cornelis 60j. Jacob 4j. Johanna 14. Louisa 1j. Bart 6j. Willem 23. Margaretha 20j. Corns. 40j." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#identifier> "TM-60006593" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#creator> "J.E. (Julius Eduard) Muller" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60006593> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

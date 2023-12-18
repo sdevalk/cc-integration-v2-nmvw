@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#name> "FAMILIEALBUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#description> "Bij dit album zijn via de project-website www.fotozoektfamilie.nl de volgende opmerkingen en trefwoorden verzameld: \r\nPage 1: kl: Foto album gemaakt door Engelse (Engelstalige) mevrouw, met kiekjes gemaakt in Italie. Page 19: kl: Alta prada Italie. Page 20: kl: Album gemaakt door engels sprekende dame (Luisa, Me).. Page 23: kl: Enicocci\r\n\r\nTrefwoorden: \r\nPage 19:alta prada italie. Page 20:Engels familie album" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0854" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0854> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

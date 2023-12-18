@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#name> "PORTRET VAN WAJAPI, EEN MARIND JONGELING UIT DE LEEFTIJDSKLASSE WOKRAVID" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#description> "Ingelijste olieverfschildering door Pater P. Vertenten, een portret en face van Wajapi, een jonge Marind man uit de leeftijdklasse Wokravid. De man is met zwarte olie ingesmeerd en draagt strengen met zwarte kralen. Blauwe achtergrond. Rechtsonder de initialen P.V. Linksonder staat \"Wajapi\", gedateerd Okaba 1-2-'13.\r\n\r\nWokravid is de leeftijdklasse voor jongens die aan de klasse der Ewati, de huwbare jonge krijgers voorafgaat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#identifier> "TM-5969-77" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-77> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

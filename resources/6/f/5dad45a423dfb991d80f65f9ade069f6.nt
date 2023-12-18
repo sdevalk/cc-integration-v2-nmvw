@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#name> "REPRODUCTIE VAN EEN TEKENING DOOR PATER P. VERTENTEN VAN WILA, EEN MARIND MAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#description> "Reproductie van een tekening door Pater P. Vertenten van een Marind man genaamd Wila, blijkens de tekst rechts op de tekening. Het is een portrettekening en face. De man draagt een neusversiering van varkenstanden en bosjes oorringen. Rechtsonder de initialen PV. \r\n\r\nIn een knipsel uit een tijdschrift (waarvan de naam en het jaartal niet worden vermeld) , wordt deze Marind door Vertenten als volgt beschreven:\r\n\r\n\"Wila. Een rakkerd! Gewezen koppensneller en nog koppensneller in zijn hart. Hij is vreeselijk ziek geweest\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#identifier> "TM-5969-15" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-15> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

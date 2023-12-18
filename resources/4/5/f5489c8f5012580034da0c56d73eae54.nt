@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#name> "SPINSTENEN EN BEELDFRAGMENTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#description> "Een verzameling allerlei: Drie spinstenen met geometrische decoratie, de kop van een godenbeeld, een aardewerken kraal in de vorm van een kruik, een paar stenen kralen (mogelijk modern) en een beeldje in de vorm van een vogel (mogelijk modern)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#identifier> "TM-5888-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#material> "Aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5888-20> <https://colonialcollections.nl/schema#yearCreatedStart> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .

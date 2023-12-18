@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#name> "CASTAGNETTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#description> "Deze castagnetten worden in Arabische landen en in Iran gebruikt tijdens het dansen. Aan iedere hand wordt aan de duim en de middelvinger een castagnet bevestigd. Met opgeheven handen worden de castagnetten bespeeld terwij men danst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#identifier> "TM-5979-71" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-71> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

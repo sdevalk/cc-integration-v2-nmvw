@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#name> "DE HUWELIJKSGESCHENKEN VOOR HET BRUIDSPAAR KITTY EN M.C. WESTERMAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#description> "Maurits Constant Westerman trad op 12 juni 1912 in het huwelijk met Catharina Henriette Netscher te Batavia (tegenwoordig: Jakarta). De cadeaus die zij ter gelegenheid van hun huwelijk hebben ontvangen zijn uitgestald, vermoedelijk in hun woning. De foto is in opdracht gemaakt door fotostudio Charls & Van Es & Co. Deze studio had vestigingen in Batavia (Rijkswijkstaat) en Surabaya (Passer Besar en later aan de Simpang)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#identifier> "TM-60026640" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#creator> "Charls & Van Es & Co. NV" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026640> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#name> "KAPMES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#description> "Kapmes met ijzeren kling in leren schede. Brede puntige voorkant. Met de volgende inscriptie: J.J.B. 1944. Het versmalde uiteinde van het mes is ingeklemd tussen twee ijzeren plakken die met elkaar de greep vormen. Vijf bevestigingspunten. \r\nHet kapmes is door Nederlandse soldaten gebruikt om zich een weg in de jungle te banen. Het komt uit de nalatenschap van de vader van de heer Piederiet. Hoogstwaarschijnlijk heeft hij het in Indonesië verzameld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#identifier> "TM-5986-1a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#inscription> "J.J.B. 1944" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5986-1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
