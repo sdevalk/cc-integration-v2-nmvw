@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#name> "EEN ZEEHOND GEVANGEN (1970)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#description> "Aaron Cristiansen heeft een zeehond gevangen.Twee van zijn kinderen dragen de zeehond op een geïmproviseerde draagbaar naar zijn huis. In de moderne tijd zijn de afstanden tussen de huizen, waarin de Groenlanders wonen, en het water groter geworden. Het slepen van een zeehond naar het huis toe zou een ernstige beschadiging van de huid veroorzaken, vandaar deze draagbaren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#identifier> "RV-10237-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10237-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

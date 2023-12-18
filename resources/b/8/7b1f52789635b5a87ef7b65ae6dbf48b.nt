@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#name> "PIJLPUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#description> "Pijlpunt met drie weerhaken. Pijlen met grotere pijlpunten werden gebruikt voor de jacht op rendieren. Kleinere pijlpunten werden voor otter, sabelmarter en vos bestemd. In de tweede helft van de 19e eeuw en in het begin van de 20e eeuw, in sommige gebieden in Siberië al eerder, werden Russische geweren geïntroduceerd. Deze vervingen gaandeweg de oude jachtwapens." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#identifier> "RV-1-4564" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#material> "steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4564> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

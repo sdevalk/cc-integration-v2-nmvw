@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#description> "Er is nog een kajak in de maak in Tiniteqilâq in mei 1968. Dat is de kajak van Billiam Jonathansen. Op deze foto zijn de beide zijboorden te zien. De dwarsverbindingen zijn aangebracht, de gebogen dwarsverbindingen voor het mangat eveneens. Op de kajak liggen de latjes die als ribben gebruikt zullen worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#identifier> "RV-10232-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10232-36> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

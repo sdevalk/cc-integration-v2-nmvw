@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#name> "Deel van een serie handboeken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#description> "Deel 19, 20 en 21 (in één band), deel 22 en 23 (in één band), deel 24 en 25 (in één band), deel 26 en deel 27 en 28 (in één band)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#identifier> "RV-1-4307e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#material> "papier ; inkt ; drukwerk (sumizuri)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#creator> "Kaibara Takunobu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4307e> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .

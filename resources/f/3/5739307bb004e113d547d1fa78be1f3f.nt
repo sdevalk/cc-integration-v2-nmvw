@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <https://colonialcollections.nl/schema#name> "Monsters papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <https://colonialcollections.nl/schema#description> "3 vellen ; bedrukt in 5 kleuren; opschrift: san ban (nr. 6); papier voor albumblaadjes\r\n1 vel: 150 mu; gewicht: 17.6 gram; basisgewicht: 101.4 g/m2, basisgewicht : 151.8 g.m-2: dichtheid 0.68 g/cm3; gemaakt met een katoenen schepraam van 24 laid lines op een chain line afstand van 22mm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <https://colonialcollections.nl/schema#identifier> "RV-1-4621" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4621> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

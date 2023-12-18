@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#name> "SCHILDERING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#description> "De Genbuku ceremonie waarbij jongens bij het bereiken van de volwassen leeftijd, ongeveer 15 jaar, de volwassen haardracht aangemeten krijgen. Daarbij wordt het voorste deel van het hoofd kaalgeschoren, het haar wordt dan samengebundeld in een staart en bovenop het geschoren gedeelte vastgemaakt. Deze schildering maakt deel uit van de serie Hito no Issho, De levensloop van de mens (zie onder Verwante objecten)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#identifier> "RV-1-4481-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#material> "Sumi inkt ; pigmenten ; schildering op zijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .

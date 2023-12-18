@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <https://colonialcollections.nl/schema#name> "ERETEKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <https://colonialcollections.nl/schema#description> "Ereteken voor krijgers. Veren waren oorspronkelijk aan een stok bevestigd, maar de stok is vergaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <https://colonialcollections.nl/schema#identifier> "RV-1-97" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <https://colonialcollections.nl/schema#material> "veren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-97> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

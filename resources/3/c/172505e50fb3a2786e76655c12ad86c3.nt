@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#name> "KOFFIEPAUZE (1973)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#description> "Albert Tarkissimat en Knud Kajagmat in de boot van Knud. Zij hebben een koffiestop tijdens het vissen naar kabeljauw. Albert is bezig met een vishaak. De koffiepot staat op de primus op de bodem van de boot." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#identifier> "RV-10240-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10240-18> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

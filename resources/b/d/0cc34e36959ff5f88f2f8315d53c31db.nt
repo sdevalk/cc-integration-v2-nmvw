@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#name> "SCHILDERING VAN GARNALEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#description> "Mori Shunkei 森春渓., gouache (gashu) op zijde van garnalen, ingelijmd in leporelloboek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#identifier> "RV-1-4493-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#material> "zijde ; pigment ; sumi-e ; gouache" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#creator> "Mori Shunkei 森春渓" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4493-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .

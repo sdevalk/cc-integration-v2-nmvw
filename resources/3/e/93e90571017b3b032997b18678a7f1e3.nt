@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#name> "LEREN LAARZEN, ONDERDEEL VAN EEN THEATERKOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#description> "Een paar laarzen, maakt deel uit van het kostuum van koning Kais uit de Arabische Sirat Antar-roman (geldt voor de nummers 1 tot en met 7 uit deze serie). Onder de hak is bij beide laarzen een hoefijzer aangebracht. Het kostuum is gedragen tijdens een theatervoorstelling op de Wereldtentoonstelling te Antwerpen in 1894 getiteld 'Le drame d'Anthar. Le Fameux Héros Arabe.' Het stuk werd verdeeld over 3 aktes opgevoerd in het 'théatre Oriental au quartier Syrien.'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#identifier> "RV-1025-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#material> "Leer ; ijzer ; wol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

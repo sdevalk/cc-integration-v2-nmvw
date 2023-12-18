@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#name> "DOOS, STAPELDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#description> "Stapeldoos van twee lagen met deksel, gelakt hout. De set heeft de vorm en decoraties in lak die een stapel Japanse albums voorstelt. De onder- en bovenzijde hebben bol aflopende randen. De binnenzijde is zwart gelakt, de zijvlakken zijn groen gelakt. Aan bovenzijde decoratie van bladeren in water in goudlak. \"Titelslip\" in meerkleurige lakwerk met in het zwart het opschrift \"Kokin meishû\" (Oude en hedendaagse beroemde verzameling). Voor het serveren van hapjes en dergelijke." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#identifier> "RV-1-440" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#inscription> "Kokin meishû" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#material> "hout ; lakwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-440> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

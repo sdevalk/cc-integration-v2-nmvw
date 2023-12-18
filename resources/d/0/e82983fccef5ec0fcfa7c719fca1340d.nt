@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#name> "HEUPDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#description> "De heupdoek heeft een donkerblauw hoofd, de kepala (een brede band die het hoofdpatroon van het doek onderbreekt) gevuld met witte driehoeken. Deze driehoeken zijn op hun beurt gevuld met bruinblauwe bloem- en bladmotieven. De twee rechthoeken naast de kepala zijn wit met bruine bladranken. Het grote veld van de doek, de badan, heeft een blauwe ondergrond. Het patroon bestaat uit bruine en witte figuren, bladeren, bergen, vleugels en gestileerde dieren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#identifier> "RV-101-24" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#material> "katoen ; verf ; batik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-101-24> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

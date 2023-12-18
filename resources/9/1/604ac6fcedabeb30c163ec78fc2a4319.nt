@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#name> "BILLIAM JONATHANSEN VERVAARDIGT VROUWENMES (1968)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#description> "Het vrouwenmesje nadert zijn voltooiing. De poten zijn aan het lemmet bevestigd, en nu moet het handgreepje erop gemaakt worden. Het handgreepje is nu nog een rechthoekig blokje hout maar de lijnen, waarlangs de poten zulllen lopen, zijn er al met een potlood op aangegeven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#identifier> "RV-10221-46" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10221-46> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

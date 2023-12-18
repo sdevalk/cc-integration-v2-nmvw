@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#name> "SABEL MET GOUD INGELEGD, ONDERDEEL VAN EEN THEATERKOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#description> "Maakt deel uit van het kostuum van Antar, de nationale held in Syrië in de Antar-roman, in het Syrische theater  (geldt voor de nummers 62 tot en met 68 uit deze serie). Het kostuum is gedragen tijdens een theatervoorstelling op de Wereldtentoonstelling te Antwerpen in 1894 getiteld 'Le drame d'Anthar. Le Fameux Héros Arabe.' Het stuk werd verdeeld over 3 aktes opgevoerd in het 'théatre Oriental au quartier Syrien.' De schede is onder meer versierd met Arabische lettertekens." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#identifier> "RV-1025-67" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#material> "Metaal ; goud ; hout ; fluweel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1025-67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

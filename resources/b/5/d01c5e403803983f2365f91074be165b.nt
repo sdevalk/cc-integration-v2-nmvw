@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#name> "Album met tekeningen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#description> "FUKEI GASO \r\nIllustrator: Cho Gessho Yukisada ????? (1772-1832) Place of publication: Nagoya Publisher: Matsuya Zenbei ????? Date of publication: Bunka 14 (1817) Collation: 1 vol.; complete; 191×287; 34 sheets, numb.; 1-2, preface, dated: Bunka 14 (1817); signed: Hata Kanae ?? (Hata Soro ??) (1759/61-1831); 1 sheet calligraphy; 1-31a, illustr.; 31b, colophon and advert. for books by Gessho. Title page: illustrator: Gessho sensei; title: Fukei gaso; publisher: Nagoya, Shokado ???. Hashira-title: Fukei gaso. Colophon: date: Bunka 14 (1817); publisher: Nagoya, Matsuya Zenbei and Nagoya, Eirakuya Toshiro ??????." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#identifier> "RV-1-4412" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#material> "papier ; inkt ; drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#creator> "Chō Gesshō" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#creator> "Matsuya Zenbei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#yearCreatedEnd> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4412> <https://colonialcollections.nl/schema#yearCreatedStart> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#name> "Prent" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#description> "Shinpan kakuryoku tokkumi. Speelgoedprent met afbeeldingen van in die tijd populaire sumo-worstelaars van voren en achteren gezien. Ontworpen door Keisai Eisen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#identifier> "RV-1-4507b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#material> "papier ; drukwerk ; inkt ; pigmenten ; kleurenhoutsnede" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#creator> "Keisai Eisen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4507b> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .

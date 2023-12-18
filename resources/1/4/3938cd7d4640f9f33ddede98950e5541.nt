@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#name> "GROENLANDSE KINDEREN BIJ KAJAK (1967)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#description> "Soms mogen Groenlandse kinderen, als ze nog erg klein zijn, op het land de kajak van hun vader proberen, d.w.z. erin zitten. Dat doen ze bijzonder graag. Hier in de boot Hinnnge; achter de boot met zijn handen in zijn zakken kijkt zijn broertje Efraim toe. Rechts in het beeld Aartjan Nooter; het meisje links is een andere dochter van Gaba en Elisa." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#identifier> "RV-10223-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10223-16> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
