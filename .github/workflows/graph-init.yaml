@@ -29,16 +29,18 @@ jobs:
       - name: Collect and queue IRIs from a SPARQL endpoint
         run: |
           cd ./data
+          test -f ./queue/data.tar.gz && tar -xzf ./queue/data.tar.gz -C "$RUNNER_TEMP"
           ../code/apps/graph-init/dist/cli.js run \
             --endpoint-url "https://api.colonial-heritage.triply.cc/datasets/data-hub/knowledge-graph/services/kg/sparql" \
             --query-file ./queries/iterate.rq \
             --number-of-iris-per-request 10000 \
-            --wait-between-requests 550 \
+            --wait-between-requests 500 \
             --resource-dir ./resources \
-            --queue-file ./queue/data.sqlite
+            --queue-file "$RUNNER_TEMP/data.sqlite"
       - name: Save changes
         run: |
           cd ./data
+          tar -czf ./queue/data.tar.gz "$RUNNER_TEMP/data.sqlite" || true
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
