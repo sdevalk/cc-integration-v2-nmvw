@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25760> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25760> <https://colonialcollections.nl/schema#description> "Bestaat uit 1) mik die in de grond wordt gestoken, 2) stok waarover de voorhuid wordt gehaald, 3) klemmetje voor de nabehandeling, 4) mes dat op de voorhuid wordt geplaatst, 5) klopper waarmee het mes wordt neergeslagen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25760> <https://colonialcollections.nl/schema#identifier> "WM-25760" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25760> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25760> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

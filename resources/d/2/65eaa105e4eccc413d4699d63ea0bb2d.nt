@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#name> "SPEER VAN EEN CHIEF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#identifier> "TM-A-10335" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#material> "De houten schacht is geheel omhuld met dierenhuid waaromheen op vier plaatsen een bandje geschoven is van gevlochten leren reepjes. Aan het ene einde bevindt zich de scherpe punt, aan het uiteinde is een lange ijzeren bus geschoven als puntbeschermer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10335> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .

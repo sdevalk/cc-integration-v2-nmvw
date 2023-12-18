@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <https://colonialcollections.nl/schema#name> "VIER AMULETTEN AAN EEN SNOER, OM HET MIDDEL GEDRAGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <https://colonialcollections.nl/schema#description> "Vier op papier geschreven formules opgerold in gomlak. Men gelooft dat de gomlak geleidelijk in ijzer verandert door de kracht van de formules. De amuletten zouden de drager onkwetsbaar maken. De Acehse naam van dit amulet is baronabeuet (van het Arabisch 'bahr an-nubuwa', de zee van het profeetschap)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <https://colonialcollections.nl/schema#identifier> "TM-674-785" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-785> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

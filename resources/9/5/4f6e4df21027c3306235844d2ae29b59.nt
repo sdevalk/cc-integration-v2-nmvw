@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1710> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1710> <https://colonialcollections.nl/schema#description> "1 = kris      ([ST] steelring met decoratie & korte bloedgleuf &\r\n                           lemmet : recht (1 luk) met pamor kulit\r\n                           semangka\r\n                   [DE] greep : snijwerk)\r\n2 = schede ([ST] pendok (= metalen overschede) met drijf- en\r\n                           graveerwerk\r\n                   [DE] pendok : florale figuren & vogels & pauwen &\r\n                           slangen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1710> <https://colonialcollections.nl/schema#identifier> "WM-1710" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1710> <https://colonialcollections.nl/schema#material> "pamor-ijzer, hout, messing (steelring), metaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1710> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

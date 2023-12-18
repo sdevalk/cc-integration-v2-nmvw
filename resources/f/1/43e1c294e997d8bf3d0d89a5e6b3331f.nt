@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#description> "[VO] mensfiguur met handen op horens van dier : karbouw &\r\n        vrouwenfiguur (op karbouw) & mannenfiguur (op karbouw) &\r\n        mensfiguur (2, op hoofd van vrouwenfiguur)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#identifier> "WM-28671" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#material> "porselein, celadon-glazuur, hout (stop), vezel, pit\r\ngebakken, geglazuurd, gesneden (stop), omvlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28671> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

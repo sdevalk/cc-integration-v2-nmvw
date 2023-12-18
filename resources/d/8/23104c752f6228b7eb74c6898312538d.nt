@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#description> "[ST] 2-delig (gelaagd) & overslaande klep\r\n[KL] vlechtwerk : naturel\r\n        ondergrond van open vlechtwerk : rood & goud & groen &\r\n        geel & zwart & zilver\r\n        afbiezing : rood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#identifier> "WM-24040" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#inscription> "[T] JOH. F. SNELLEMAN ROTTERDAM Karo Batak Gajoesch vlechtwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#material> "pandanpalmblad, katoen, flanel, klatergoud, mica\r\ngevlochten (ajour), genaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24040> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .

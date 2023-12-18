@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#description> "[ST] 1 pit & 2 hoorvormige bakken (tevens steunbeer verbonden\r\n        met deksel d.m.v. ketting) & 1 hoornvormige steunbeer aan\r\n        voorzijde\r\n[DE] snijwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#identifier> "WM-23987" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#material> "hout, metaal (ketting), vruchtenpit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23987> <https://colonialcollections.nl/schema#alternateName> "Liberia" .

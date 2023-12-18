@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#description> "[ST] voetstuk\r\n[VO] kruk & zittend mensfiguur : man met opengewerkte\r\n        palmtakvormige kroon met uitsteeksel (2), hoofdband,\r\n        uitgerekt rechteroor, oorsieraad (aan rechteroor),\r\n        halssieraad : nifato-fato, sik, band (om middel),\r\n        polssieraad (om rechterpols), bekervormige kom (in\r\n        beide handen), tepels, mannelijk geslachtsorgaan,\r\n        vlakke knieschijven, handen met vingers en voeten met\r\n        tenen\r\n[KL] ogen & snor & sik & band : zwart" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#identifier> "WM-29385" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#inscription> "[T] 6." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#material> "hout, verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Nias Selatan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29385> <https://colonialcollections.nl/schema#alternateName> "Nias Regency" .

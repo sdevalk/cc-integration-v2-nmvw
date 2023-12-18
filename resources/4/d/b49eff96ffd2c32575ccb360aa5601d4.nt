@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#name> "GRAFSTEEN VOOR EEN JOODSE VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#description> "Grijze steen met inscriptie in het Hebreeuws. De vertaling van de tekst luidt: \"grafmonument voor de eerbare en bescheiden Nega, dochter van de edele en uitstekende Daya (rechter), Rabbi Masoud zoon van de wijze Rabbi Menachem H. Mazal. Moge haar ziel eeuwige rust hebben.\" Dan volgt de datum volgens de joodse kalender: 5 Elul 5648, dit komt overeen met 1888." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#identifier> "WM-200028" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#material> "steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200028> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

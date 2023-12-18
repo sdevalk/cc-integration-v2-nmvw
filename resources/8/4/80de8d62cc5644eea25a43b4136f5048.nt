@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <https://colonialcollections.nl/schema#description> "[PA] De beide buitenbanen gedeeltelijk in duidelijk \"djelamprang\" patroon, door ingesneden rode en witte toempals begrensd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <https://colonialcollections.nl/schema#identifier> "WM-26961" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <https://colonialcollections.nl/schema#material> "katoen\r\nuit drie banen. Het patroon geïkat op de schering. De smalle middenbaan in afwisselend donkerblauwe en geïkatte strepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26961> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

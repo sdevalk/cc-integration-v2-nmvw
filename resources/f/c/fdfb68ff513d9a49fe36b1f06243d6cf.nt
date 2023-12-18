@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER VOORSTELLENDE RADEN WANGSENGAARI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <https://colonialcollections.nl/schema#description> "Raden Wangsengaari komt uit de Raden Pandji." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <https://colonialcollections.nl/schema#identifier> "TM-A-1571l" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1571l> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

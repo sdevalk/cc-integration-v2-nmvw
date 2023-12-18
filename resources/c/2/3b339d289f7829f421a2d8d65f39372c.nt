@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#description> "1 = zwaard ([ST] bladtin-bekleding (greep) & vlechtwerk (greep)\r\n                   [DE] greep : snijwerk\r\n                   [VO] opengesperde muil)\r\n2 = schede ([ST] gaten voor draagkoord & vlechtwerkband (2)\r\n                   [DE] snijwerk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#identifier> "WM-26225" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#material> "pamor-ijzer, hout, hoorn, bladtin, rotan (vlechtwerkband) ;\r\norchidee-stengel (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#locationCreated> "Borneo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#alternateName> "Borneo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#alternateName> "Kalimanten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26225> <https://colonialcollections.nl/schema#alternateName> "Kalimantan" .

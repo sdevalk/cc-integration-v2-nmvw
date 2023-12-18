@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26579> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26579> <https://colonialcollections.nl/schema#description> "[VO] dik napvormig, de voorkant bewerkt in de vorm van een \r\n        gezicht, aan beide zijden een verdikking waardoor opening\r\n        voor kinband van touw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26579> <https://colonialcollections.nl/schema#identifier> "WM-26579" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26579> <https://colonialcollections.nl/schema#material> "hout, touw\r\nuitgehold" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26579> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

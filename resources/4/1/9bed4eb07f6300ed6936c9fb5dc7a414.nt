@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25929> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25929> <https://colonialcollections.nl/schema#description> "[ST] achterzijde van zool : oor (2 gebogen en onbewerkt)\r\n        onderzijde van zool : verstek (voor bevestiging in bovenzijde\r\n        van voorsteven)\r\n[DE] zijde van zool : snijwerk (vervaagd) : tumpalrand & schubrand\r\n        paneel : snijwerk : rank / spiraal (hoofdrank doorloopt het\r\n        paneel in een forse zigzagbeweging. Tussenruimten zijn\r\n        opgevuld met recalcitrante spiraalmotieven)\r\n[VO] voorzijde van rand : glad\r\n        achterzijde van rand : vlammenvormige rand" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25929> <https://colonialcollections.nl/schema#identifier> "WM-25929" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25929> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25929> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

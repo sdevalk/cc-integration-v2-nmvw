@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#description> "GE: documentaire\r\nHM: [PE] groep mannnen & 2 vrouwen; [PT] aan dek van schip; [AK] lopen; [VS] gala-uniform, feestkleding, loper, burgemeestersketen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#identifier> "WM-940117-1-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#creator> "Everts, J.W.B." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940117-1-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

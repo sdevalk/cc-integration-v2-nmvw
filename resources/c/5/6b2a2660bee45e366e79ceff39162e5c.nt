@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MUTS MET AFHANGENDE VEZELBUNDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#description> "De muts is gevlochten van plantenvezels (mogelijk raffia) volgens de één op, één neer methode. Het vlechtsel is dubbelgeslagen en langs de smalle opening bevindt zich een rand van grover vlechtwerk met dikkere vezelbundels. Uit deze smalle opening komt een dikke vezelbundel en deze is van boven afgesloten met een dikke ring gedraaid van plantenvezel, waaraan een touwtje is bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#identifier> "TM-A-11096" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11096> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .

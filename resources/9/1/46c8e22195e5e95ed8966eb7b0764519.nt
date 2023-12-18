@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24565> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24565> <https://colonialcollections.nl/schema#description> "[KL] rood (einde);\r\n[VO] punt met vierkante stift, aan het vooreinde uitgesmeed tot een aan \r\n        één zijde snijdende punt eindigende in een gevederde weerhaak, \r\n        aan de niet snijdende zijde twee gevederde weerhaken. \r\n        Rietschacht als no. 24562." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24565> <https://colonialcollections.nl/schema#identifier> "WM-24565" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24565> <https://colonialcollections.nl/schema#material> "ijzer (punt)\r\nuitgesmeed" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24565> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

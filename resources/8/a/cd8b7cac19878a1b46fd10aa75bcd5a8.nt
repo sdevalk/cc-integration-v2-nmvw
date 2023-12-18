@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#name> "STUK VAN EEN ONDERARMBEEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#description> "Een verzameling mensenbeenderen afkomstig uit een grafurn uit Midden-Sulawesi (de eerste vondst van dien aard in Midden-Sulawesi) en bestaande uit fragmenten dijbeen, onderarmbeen, schedeldak, onderkaak en kiezen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#identifier> "TM-817-17g" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#locationCreated> "Central Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Tengah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-817-17g> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Tengah" .

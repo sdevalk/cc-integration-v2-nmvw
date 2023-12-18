@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <https://colonialcollections.nl/schema#name> "HALSSIERAAD VAN GEEL GEKLEURDE VEZELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <https://colonialcollections.nl/schema#description> "De vorm van dit halssieraad lijkt op de veren halssieraden (lei) uit Hawaii. Halssieraden worden in Polynesië voor allerlei gelegenheden gebruikt zoals het verwelkomen van mensen, bij dansen en bij feesten. Maar of dit voorwerp werkelijk uit Tubuai, een van de eilanden van de Austral archipel komt, is niet duidelijk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <https://colonialcollections.nl/schema#identifier> "TM-A-2017" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2017> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

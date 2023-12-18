@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#name> "BRIEF IN ARABISCH SCHRIFT MET STEMPELAFDRUK MET INSCRIPTIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#description> "Brief met zegel met de tekst \"Teuku Johan Pahlawan/ Panglima Perang Besar ubernamin\". Dit zegel is afgedrukt op een ambtsbrief van Teuku Umar aan de Controleur te Poelo Raja met mededeling dat alle peper van Kroeeng Sabe verkocht is aan T. Ali en T. Gendong. De brief is gedateerd 3 jumada achir 1312, dit komt overeen met 2 december 1894." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#identifier> "TM-687-69b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#creator> "Teuku  Umar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-69b> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

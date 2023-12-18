@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <https://colonialcollections.nl/schema#description> "[KL] paars (rand)& geel (fond);\r\n[VO] het paars op de randen en in de kepala met de hand bijgekleurd. \r\n        Tumpal kepala: de helft aan ieder eind.\r\n        Fijn en met zorg één zijdig bewerkt,, het fond van de badan \r\n        geel (was-breuk)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <https://colonialcollections.nl/schema#identifier> "WM-26997" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, gebatikt (was)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26997> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

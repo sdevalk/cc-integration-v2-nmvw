@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25872> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25872> <https://colonialcollections.nl/schema#description> "[ST] voetstuk & spijker (uit buik) & oorgaten\r\n[VO] zittend mensfiguur : voorouder van smid met opgetrokken\r\n        knieën, handen om knieen, vingers, neus, ogen, iets\r\n        geopende mond, oren en kleine knop op hoofd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25872> <https://colonialcollections.nl/schema#identifier> "WM-25872" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25872> <https://colonialcollections.nl/schema#material> "hout, ijzer (spijker)\r\ngesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25872> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

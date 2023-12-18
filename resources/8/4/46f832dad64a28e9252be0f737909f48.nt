@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <https://colonialcollections.nl/schema#description> "[ST] kijkgaten (ogen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <https://colonialcollections.nl/schema#identifier> "WM-18954" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <https://colonialcollections.nl/schema#inscription> "[T] R (in wit)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <https://colonialcollections.nl/schema#material> "hout, koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-18954> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

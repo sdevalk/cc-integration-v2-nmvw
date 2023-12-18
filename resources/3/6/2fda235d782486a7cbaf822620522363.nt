@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <https://colonialcollections.nl/schema#name> "LEREN KRUITDOOSJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <https://colonialcollections.nl/schema#description> "Het kruitdoosje heeft een deksel waarvan het bovengedeelte is voorzien van een conische benedenrand, waarop een rondgaande rij van bruin gekleurde driehoeken. De ronde bovenzijde van het deksel is voorzien van drie concentrische cirkelbaantjes waarop een rondgaande zigzaglijn is ingegrift. Het doosgedeelte heeft aan de onderrand eenzelfde driehoekenpatroon als het deksel. De vlakke bodem is eveneens versierd met een bruin patroon, waaronder een vierarmig kruis met tussen de armen booglijnen. In de bodem bevindt zich echter een groot gat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <https://colonialcollections.nl/schema#identifier> "TM-A-10940" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10940> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#name> "MEXICO DISTRICT. CLOSE-UP VAN ALFALFA-PLANTEN OP EEN WEI VAN EEN MELKVEE-BEDRIJF NABIJ MEXICO CITY." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#identifier> "TM-20037572" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20037572> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

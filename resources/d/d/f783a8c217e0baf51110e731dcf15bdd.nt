@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#description> "[PA] ikat : smalle baan (1) : dieren & boshanen & slangen &\r\n                                            sterren & bollen\r\n                 brede baan (1) :  meisjes (met geheven handen\r\n                                            waaruit rondjes (= leven?) komen) &\r\n                                            schedelbomen & bollen & vogels\r\n[KL] naturel & zwart & morinda-rood & blauw & geel (bijgekleurd)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#identifier> "WM-25295" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#material> "katoen (handgesponnen en geïmporteerd garen)\r\ngeweven, ikat : scheringikat, bijgekleurd (geel), dichtgenaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25295> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

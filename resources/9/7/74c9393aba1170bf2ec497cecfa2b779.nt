@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#name> "LANDKAART VOORSTELLENDE HET OORLOGSTERREIN IN ACEH IN 1874" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#description> "Rechtsonder: Kaart van onze tegenwoordige positie op Atjèh, uitgegeven ten voordeele van den blinden flankeur J.P.C. Roghair door Chs. Kocken, Soerabaya. Februarij 1875." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#identifier> "TM-713-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#material> "Lithografie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#creator> "Chs. Kocken & Co." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#creator> "C.A. Neukirchen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-713-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

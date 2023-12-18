@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#name> "KOPEREN TWEE-CENTESIMISTUK VAN ITALIË" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#description> "Roodkoperen twee-centesimistuk van Italië met op de voorzijde de beeltenis van het hoofd van Victor Emanuele II, naar links gewend. Omschrift: \"Vittorio Emanuele II Re d'Italia\". De keerzijde heeft de waarde van de munt, 2 centesimi en het jaartal binnen een laurierkrans." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#identifier> "TM-908-34" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-34> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

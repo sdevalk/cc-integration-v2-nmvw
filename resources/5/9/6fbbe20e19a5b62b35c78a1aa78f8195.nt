@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14790> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14790> <https://colonialcollections.nl/schema#description> "[DE] steelring : 1 puco (= krans van driehoeken) &\r\n        1 glupa (= bloemkelk) [*1]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14790> <https://colonialcollections.nl/schema#identifier> "WM-14790" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14790> <https://colonialcollections.nl/schema#material> "staal (pamorachtig), hout, goud, zilverlegering, email" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14790> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

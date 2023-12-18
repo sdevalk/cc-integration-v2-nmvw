@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#description> "[KL] roodbruin & groen & wit & goud (lijn) ;\r\n[VO] dwars, smal gestreept patroon. 105 cm. van het ene einde een 20 \r\n        cm. brede strook met geweven patroon in gouddraad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#identifier> "WM-25989" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25989> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .

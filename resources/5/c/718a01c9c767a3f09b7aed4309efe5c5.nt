@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <https://colonialcollections.nl/schema#name> "HOOFDSIERAAD VAN LEER MET KRALEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <https://colonialcollections.nl/schema#description> "Het sieraad bestaat uit een ronde leren schijf waarvan aan de onderzijde talloze leren koordjes, in twee bossen van verschillende lengte, neerhangen. Het ondereinde van de koordjes is door twee ronde witte glaskraaltjes gestoken en daaronder geknoopt. In het midden aan de bovenzijde van de leren schijf is een lang reepje leer bevestigd, hieraan kan het sieraad op het hoofd bevestigd worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <https://colonialcollections.nl/schema#identifier> "TM-A-10223" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10223> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

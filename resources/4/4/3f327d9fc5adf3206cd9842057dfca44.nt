@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17679> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17679> <https://colonialcollections.nl/schema#description> "[ST] inlegwerk (verticale zwarte banden)\r\n[DE] koker : 13 brede banden met geometrische figuren (w.o.\r\n        gespiegelde tumpal & schuin schaakbordmotief) & 16 banden\r\n        met slingerlijn (als begrenzing van brede banden) &\r\n        2 banden met aan elkaar sluitende ruiten (1 boven en 1 onder)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17679> <https://colonialcollections.nl/schema#identifier> "WM-17679" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17679> <https://colonialcollections.nl/schema#material> "bamboe, arenhout (inlegwerk [*3]), zwartsel (kemirinoot [*2])" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17679> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

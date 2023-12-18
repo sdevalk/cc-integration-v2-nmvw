@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#name> "KHANDAWADAHANA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#description> "inhoud : oud-Javaansch gedicht : Khandawadahana\r\n               (vert. brand van het Khandawa woud)\r\n[ST] blad (107: aan beide zijden beschreven) & 2-delig (gelaagd)\r\n        blad (2: aan 1 zijde beschreven) & sluiting (plaatje & koord)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#identifier> "WM-17544" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#material> "lontarpalmblad, roet, hout, katoengaren, schildpad, (goud)verf ;\r\nmetaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17544> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

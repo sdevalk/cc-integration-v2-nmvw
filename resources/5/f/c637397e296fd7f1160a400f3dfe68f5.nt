@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27618> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27618> <https://colonialcollections.nl/schema#description> "[VO] de kling nagenoeg haaks op de steel en breed vlamvormig.\r\n        Fraaie steel met middenstuk van wit hout uitgesneden in \r\n        fraaie rondgaande patroonbanden, het fond met hars (gâlå),\r\n        opgevuld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27618> <https://colonialcollections.nl/schema#identifier> "WM-27618" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27618> <https://colonialcollections.nl/schema#material> "hoorn (steel), hout (middenstuk), hars (fond)\r\nuitgesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27618> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

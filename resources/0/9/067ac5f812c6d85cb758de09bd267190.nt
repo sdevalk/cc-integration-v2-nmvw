@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#name> "IJZEREN GRANAAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#description> "Verschoten en niet ontploft. Gebruikt door de marine tegen de troepen van Teuku Umar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#identifier> "TM-687-24" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#locationCreated> "Lhoknga" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#alternateName> "Lho'nga" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#alternateName> "Lho’gna" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-687-24> <https://colonialcollections.nl/schema#alternateName> "Lho’nga" .

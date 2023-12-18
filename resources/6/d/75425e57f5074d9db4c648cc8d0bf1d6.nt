@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17552> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17552> <https://colonialcollections.nl/schema#description> "[KL] roodblauw (geruit)\r\n[VO] aan de uiteinden stroken van veelkleurige figuren door de geikatte inslagdraden verkregen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17552> <https://colonialcollections.nl/schema#identifier> "WM-17552" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17552> <https://colonialcollections.nl/schema#material> "tjinde-zijde\r\ngeweven & ikat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-17552> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

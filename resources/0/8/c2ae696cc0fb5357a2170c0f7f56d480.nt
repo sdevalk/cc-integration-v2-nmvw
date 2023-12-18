@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#name> "HOUTEN WAARDIGHEIDSTEKEN VAN EEN CHIEF VERSIERD MET SNIJWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#description> "Het object is vermoedelijk een waardigheidsteken van een chief. Het heeft de vorm van een ovale schijf met lange cylindrische steel. Het object is afkomstig van Portugees Congo." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#identifier> "TM-A-10419" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#material> "Het object is uit één stuk hout gesneden in de vorm van een waaier. Eén van de zijden is versierd met snijwerk: vier evenwijdige rijen van zigzaglijnen waartussen drie rijen met ruitvormige figuren. Ter weerszijden van deze figuren twee sterk gestyleerde dieren, met twee koppen, twee poten en een gestippeld lichaam. De uitgespaarde gedeelten zijn zwart gekleurd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10419> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-15106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-15106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-15106> <https://colonialcollections.nl/schema#description> "bedoeld als kinderspeelgoed.\r\n[VO] vervaardigd van enkele op elkaar geplakte papierlagen.\r\nTekening aan weerszijden aangebracht en gekleurd.\r\nVoorgestelde figuur: geestelijke van het Bisma-type;\r\n[KL] wit (overheerst) & geel & rood & groen.\r\nPopje van sterk inferieure kwaliteit. Vervuild en beschadigd. \r\nLijm heeft op enkele plaatsen losgelaten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-15106> <https://colonialcollections.nl/schema#identifier> "WM-15106" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-15106> <https://colonialcollections.nl/schema#material> "papier\r\ngeplakt & aangebracht & gekleurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-15106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

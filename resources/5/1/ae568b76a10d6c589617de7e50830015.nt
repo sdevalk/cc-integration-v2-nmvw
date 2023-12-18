@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN ROTAN PIJLKOKER MET DRAAGKOORD EN 53 PIJLEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <https://colonialcollections.nl/schema#description> "De koker is gevuld met 53 pijlen met ijzeren punt (van verschillende vormen, met en zonder weerhaken) en houten schacht. Drie pijlen hebben een rieten schacht. In sommige schachten zijn aan het uiteinde nog gedroogde bladeren ingestoken. Enkele schachten zijn voorzien van spiraalvormige omslingeringen met een dunne reep ijzer bij anderen is deze versiering in het hout gebrand. \r\nDe pijlkoker is afkomstig van de Akka of Batwa ten westen van het Victoria meer en ten Noorden van het Tanganyika meer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <https://colonialcollections.nl/schema#identifier> "TM-A-10101" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10101> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25080> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25080> <https://colonialcollections.nl/schema#description> "[KL] bruin & goud\r\n[VO] donker- en lichtbruin gestreept met passement van gouddraad in het lage kruis en onderaan de korte pijpen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25080> <https://colonialcollections.nl/schema#identifier> "WM-25080" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25080> <https://colonialcollections.nl/schema#material> "zijde, gouddraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25080> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

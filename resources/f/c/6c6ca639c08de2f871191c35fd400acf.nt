@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#name> "DOLK MET SCHEDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#description> "Een dolk gemaakt van gesmeed ijzer. Het rechte lemmet met middenrug loopt uit in een scherpe punt. De gebogen ronde greep is van bruin hout gesneden. Het uiteinde van de greep is versmald uitlopend in een recht afgesneden punt. De schede met een middenrug is van bruin hout gemaakt. De opening van de schede is bedekt met blauw katoen en gevlochten touw. De schede loopt uit in een ronde punt. De benen ring aan het uiteinde ontbreekt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#identifier> "TM-A-3425" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; touw ; katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3425> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

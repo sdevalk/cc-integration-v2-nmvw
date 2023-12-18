@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#name> "KELKVORMIGE SCHAAL MET VOETSTUK VAN GEVLOCHTEN BIEZEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#description> "De schaal staat op een hol conisch voetstuk en is vermoedelijk afkomstig van de Ovaherero en Ovambo." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#identifier> "TM-A-10495" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#material> "De schaal is gevlochten van bruine biezen volgens de eenvoudige omslingeringsmethode. De spiralende schering (waarvan de opzet in het midden van de bodem begint en eindigt in de bovenrand) bestaat uit een bundel biezen, terwijl de aan elkaar bevestiging van de spiraal gebeurt door ijle omslingering met een smal reepje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10495> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

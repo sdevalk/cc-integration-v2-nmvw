@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#name> "HOUTSNIJWERK, VERMOEDELIJK HET TOPSTUK VAN EEN KAST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#description> "Vermoedelijk is dit ajour snijwerk een bovenstuk van een kast. Tussen de bamboe is een staande reiger met uitgespreide vleugels afgebeeld, aan wiens weerszijden een vierpotig dier met vogelsnavel, uitgespreide vleugels en lange krulstaart is weergegeven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#identifier> "TM-903-24" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#material> "teakhout (djati) ; gepolitoerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-903-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

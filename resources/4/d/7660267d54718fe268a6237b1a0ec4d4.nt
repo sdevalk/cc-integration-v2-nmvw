@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#name> "BAMBOEKOKER MET IDENTITEITSBEWIJS VAN DAOED EN ZIJN WAPENPAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#description> "In de koker zitten twee documenten. \r\n1) een kampongpas dd. 24 juni 1908, van Daoed, ongeveer 35 jaar, hij is kentjhi (dorpshoofd) van beroep en is afkomstig van de gampong Janthoë, XXII Mukim. \r\n2) zijn wapenpas, een vergunning die aangeeft dat hij een rencong mag dragen, dateert van 4 augustus 1909 en is uitgegeven in Seulimeum. Afgestempeld door civiel gezaghebber W. Muurling.\r\n\r\nHet Nederlandse koloniale bewind verplichtte elke mannelijke inwoner van Aceh een identiteitsbewijs bij zich te dragen, een zogeheten 'kampongpas'. Op die manier kon men de inwoners makkelijker in de gaten houden en het verzet tegengaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#identifier> "TM-674-340a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Seulimeum" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-340a> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
