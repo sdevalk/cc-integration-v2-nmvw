@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#name> "MODEL VAN EETKOM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#description> "Modellen van kommen van verschillende soort voor het serveren van rijst, soep en andere spijzen, naar gelang het gebruik voorzien van een deksel. Gelakt hout. Decoraties van klimoptakken in goudlak." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#identifier> "RV-2269-1-28aII" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#material> "hout ; lakwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2269-1-28aII> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

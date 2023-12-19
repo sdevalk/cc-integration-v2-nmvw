@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#name> "LENDENDOEK VOOR MANNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#description> "De kamisa is een langwerpige doek die tussen de benen wordt doorgehaald en om een koordje, kamisatété, wordt geslagen. De katoenen doek bevat marineblauwe applicatie, rood borduurwerk en rode kantstroken. De eenvoudige kleding van Marrons volgde de dan gangbare mode." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#identifier> "RV-2452-456" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2452-456> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

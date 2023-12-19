@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#name> "PRENT; \"POLAR BEAR ATTACK\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#description> "Beide mannen dragen wanten en in hun rechterhand een speer. Beide gaan gekleed in een parka, (korte?) broek en kamiks. De parka is versierd met een gekleurde bies met franje. De broeken en kamiks hebben ook een gekleurde bies.\r\nDe mannen jagen op, of verjagen, twee ijsberen. De achterste beer heeft geen tanden. Beide beren zijn zonder staart getekend. Let op de details van de poten: de zwarte voetzool bij de achterste beer en bij beide beren de scheiding tussen de tenen.\r\nDe tekening is met voorgrondperspectief. De mannen zijn groter getekend dan de eerste beer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#identifier> "RV-6094-175" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#material> "papier ; potlood ; vetkrijt)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#creator> "Victoria Mamnguqsualuk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#locationCreated> "Canada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#countryCreated> "Canada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-175> <https://colonialcollections.nl/schema#yearCreatedStart> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#name> "1/2 CHEROKEE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#description> "Zittende jongeman in westerse kleding." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#identifier> "WM-911113" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#inscription> "titels met potlood op achterzijde fotohoesje geschreven door H.F.C. ten Kate" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#material> "ferrotypie in hoesje met ovaal venster" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#creator> "Fowler, J.M.B." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911113> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

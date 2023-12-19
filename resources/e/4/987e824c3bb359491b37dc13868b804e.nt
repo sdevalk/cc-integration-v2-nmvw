@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#description> "Ansichtkaart, zwart/wit, los aangetroffen.\r\n\r\nOp achterkant gescheiden belijning en de naam van de fabrikant.\r\n\r\nOpname toont de top van vermoedelijk een afgehakte boom. Links ziet men een eenvoudige trap die van de grond naar boven loopt. rechts ziet men een deel van een hangbrug\r\nOp de trap een blanke man, gekleed in khakikleurige kleding." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#identifier> "7082-nf-1821-30" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#material> "papier; afgedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#creator> "Agfa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1821-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

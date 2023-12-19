@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#description> "Interieur van een Europese woning" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#identifier> "WM-907641" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#material> "albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#creator> "Ernst & Co., H." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#locationCreated> "Kota Medan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Medan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Medan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-907641> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

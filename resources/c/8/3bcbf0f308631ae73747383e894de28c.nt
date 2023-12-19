@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#name> "SPEER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#description> "Speer de punt is van ijzer, rietbladvormig, tamelijk breed, met flauwe middenrug, met korte rechte steel, geheel in de schacht verborgen en vastgehecht door een touwomwinding.\r\nUit deze omwinging komt een ijzeren staafje te voorschijn welke dient om de speer op te hangen. De schacht van zwart hout in doorsnede rond, en naar onderen dunner toelopend." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#identifier> "RV-2442-340" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-340> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

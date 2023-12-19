@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71113> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71113> <https://colonialcollections.nl/schema#description> "[KL] oranje\r\n[DE] band (5) & streng \r\n[VO] rond & plat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71113> <https://colonialcollections.nl/schema#identifier> "WM-71113" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71113> <https://colonialcollections.nl/schema#material> "katoen, verf, plastic\r\nOpgevuld met stukken textiel ; gevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71113> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

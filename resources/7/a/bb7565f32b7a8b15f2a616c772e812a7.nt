@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#name> "JURK MET FLORALE FIGUREN EN VLINDERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#description> "[PA] hoofdpatroon & motief : bloem & blad & stengel & vlinder\r\n[KL] ondergrond : naturel\r\n        motief : donkerblauw & donkerbruin\r\n[ST] nauwe rok & aangeknipte mouw & blousend bovenlijf &\r\n        rits-sluiting (achterzijde) & knoop-sluiting & bind-ceintuur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#identifier> "WM-71552" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#material> "katoen, synthetische verf (?)\r\ngeweven, batik, tulis, genaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#creator> "N. Tirtaamidjaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71552> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

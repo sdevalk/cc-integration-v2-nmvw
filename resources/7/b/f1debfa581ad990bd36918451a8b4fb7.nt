@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61845> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61845> <https://colonialcollections.nl/schema#description> "[KL] groen (patina)\r\n[VO] open type, ronde doorsnede\r\n[DE] dier : hagedis (3)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61845> <https://colonialcollections.nl/schema#identifier> "WM-61845" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61845> <https://colonialcollections.nl/schema#material> "koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61845> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#name> "STRAAT MET EUROPEAAN IN DE KAMPONG DOSO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#description> "Straat in kampong Doso. Gerepr in KrBl I no16.  H.F.Tillema. Opdruk: Photo-Atelier Helios ; zelfde Europeaan als x-145?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#identifier> "RV-A440-x-134" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#material> "Materiaal: papier \r\nTechniek: ontwikkel gelatine zilverdruk\r\nMontage: in album geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#creator> "Helios, Photo-Atelier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-x-134> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .

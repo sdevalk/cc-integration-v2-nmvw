@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#name> "ARMBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#description> "Armband gemaakt door Karina Boasen uit Kulusuk. De basis is van grijs zeehondenbont (puilip uliivia). De armband is bezet met botjes afkomstig uit de kop van kabeljauw (aalisakkap tidiat). Deze worden naar oud gebruik als decoratie gebruikt. Door de regelmatigheid vormen de botjes als het ware een repeterend cheometrisch motief." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#identifier> "RV-6110-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#material> "zeehondenbont, been" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#creator> "Karina Boasen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6110-16> <https://colonialcollections.nl/schema#yearCreatedStart> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .

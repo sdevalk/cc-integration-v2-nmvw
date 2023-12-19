@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#name> "LENDENDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#description> "Een lendendoek gemaakt van geweven katoen. De doek bestaat uit drie banen, die in de lengte aan elkaar zijn genaaid. De inslag is blauw van kleur. De schering bestaat uit vele smalle strepen in donkerblauw, roodbruin, geel en wit verdeeld over vier banden. Daarnaast twee geïkatte, smallere en één brede baan in het midden in donkerblauw en wit. Deze banden hebben een ornament van ruiten met krulfiguren in wit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#identifier> "RV-2380-249" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#yearCreatedEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2380-249> <https://colonialcollections.nl/schema#yearCreatedStart> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .

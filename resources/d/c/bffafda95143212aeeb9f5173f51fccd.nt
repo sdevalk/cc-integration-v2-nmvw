@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#identifier> "WM-73851" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#inscription> "Big Boss Hat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#material> "linnen, acryl\r\ngeschilderd (dot-painting)\r\nGat rechts in doek. Trevor Nickolls was de eerste aboriginal kunstenaar die Europese realisme koppelde met het tradionele aboriginal beeldverhaal en beinvloedde op sterke wijze veel aboriginal kunstenaars. De concentrische cirkels en de dotpainting zijn typisch voor kunst uit Centraal- Australie en worden gecombineerd met een realistische stijl uit de Westerse kunstgeschiedenis." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#creator> "Trevor Nickolls" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73851> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

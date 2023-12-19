@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64760> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64760> <https://colonialcollections.nl/schema#description> "[VO]onderdeel van een groter stuk;\r\n[DE] wayangkop van het type alus, met bewerkelijke kroon met veel\r\n        bloemversieringen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64760> <https://colonialcollections.nl/schema#identifier> "WM-64760" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64760> <https://colonialcollections.nl/schema#material> "hout, polychroom\r\nhoutsnijwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64760> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

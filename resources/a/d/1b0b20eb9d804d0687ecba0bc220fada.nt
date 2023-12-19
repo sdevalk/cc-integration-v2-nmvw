@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#name> "SPEER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#description> "Een speer gemaakt van gesmeed ijzer. De speer heeft een zeer lange naaldvormige punt. De punt is met hars en een spiraalvormige strook dun ijzer aan de schacht bevestigd. Over de strook ijzer zijn enige van rotanrepen gemaakte ringen geplaatst. De schacht is van een lengte bamboe gemaakt. De speer wordt voor de jacht gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#identifier> "RV-614-52" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#material> "ijzer ; bamboe ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#locationCreated> "Kutai Kartanegara Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#alternateName> "Kutai Kartanegara Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-614-52> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

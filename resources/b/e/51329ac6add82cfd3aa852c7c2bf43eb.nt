@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#name> "BRONZEN LEGPENNING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#description> "Legpenning geslagen ter gelegenheid van de wederzijdse instelling van gezantschappen in Nederland en in de Unie van Zuid Afrika in 1929.\r\nOp de voorzijde zijn de ongekroonde wapens van Nederland (links) en Zuid-Afrika (rechts) omgeven door tulpen en maiskolven en gescheiden door zeeplanten afgebeeld. Op de keerzijde staat het opschrift: \"wederzijdsche instelling van gezantschappen in Nederland en in de Unie van Zuid-Afrika 1929\", opgevuld met geometrische balken. Gladde rand. De penning is geslagen bij de firma Koninklijke Begeer in 1930 naar een modellé van A. Buttler." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#identifier> "TM-1810-48" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#creator> "Koninklijke Begeer N.V." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1810-48> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

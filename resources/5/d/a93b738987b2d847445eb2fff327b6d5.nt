@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <https://colonialcollections.nl/schema#name> "PAGINA UIT EEN KORANHANDSCHRIFT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <https://colonialcollections.nl/schema#description> "Tekening in inkt op geschept papier. Zo'n motief met concentrische cirkels en bloemmotieven wordt shamsa genoemd. Dit is een pagina uit een handgeschreven koran (waarschijnlijk hetzelfde handschrift als pagina's TM-674-835a/b). Het medaillon in het midden vermeldt als eigenaar van het koranhandschrift Tuan Abdul Rahman uit Lam Badar en als schrijver ervan Tuan Lebai Jamaluddin uit Lam Badar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <https://colonialcollections.nl/schema#identifier> "TM-674-755" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-674-755> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

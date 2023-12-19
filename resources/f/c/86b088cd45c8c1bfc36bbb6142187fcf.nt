@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72176> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72176> <https://colonialcollections.nl/schema#description> "[KL] oranjerood (fond, voering) & goud (borduurdraad) & roze & geel & donkerroze & wit & zwart\r\n[PA] bloem\r\n[VO] 1 = broek & gevoerd & rimpelelastiek & 2 = tuniek & gevoerd & ritssluiting (achter) & schoudervulling & rond (hals) & zijsplit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72176> <https://colonialcollections.nl/schema#identifier> "WM-72176" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72176> <https://colonialcollections.nl/schema#material> "polyester (?) voile), zijde (?)\r\ngenaaid\r\nMouwen zijn niet gevoerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72176> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

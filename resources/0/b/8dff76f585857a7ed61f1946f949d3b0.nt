@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <https://colonialcollections.nl/schema#name> "LANS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <https://colonialcollections.nl/schema#description> "Een lans, een werplans, gemaakt van hout. De lans heeft een punt van bamboe met een schuin afgesneden uiteinde. De punt staat op een lange ronde lichthouten steel. De punt is met een rotanreep aan de schacht vastgemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <https://colonialcollections.nl/schema#identifier> "RV-300-465" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <https://colonialcollections.nl/schema#material> "hout ; bamboe ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-465> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, geheel opgeplakt.\r\n\r\nOnder de foto is in potlood tekst geschreven: Septr 1913 - Nieuwe brug bij Laub\r\n\r\nOpname toont een aantal mannen, blank en inheems, militair en burger en ook een paard, poserend voor de foto op een brug. \r\nZo te zien is het een glooiend landschap." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#identifier> "7082-nf-1078-45-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#material> "papier; afgedrukt, ontwikkeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-45-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

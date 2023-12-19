@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#name> "PAALWONINGEN IN DE KINDERZEE AAN JAVA'S ZUIDKUST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#identifier> "RV-A108-1-96" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op albumblad geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#creator> "jhr. mr. Govert J. van Tets" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A108-1-96> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .

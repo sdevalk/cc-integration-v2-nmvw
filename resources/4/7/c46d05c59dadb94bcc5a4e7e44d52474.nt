@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, rechthoekig, opgeborgen in zuurvrije envelop.\r\n\r\nOpname toont een aantal Indonesische personen, vermoedelijk bedienden in een 'europese' huishouding. Twee vrouwen en een jonge man zittenm op ee bankje, terwijl rechts nog net een hurkende man zichtbaar is. Tussen de vrouwen in en op de grond is koperwerk te zien. \r\n\r\nVoor mogelijke gegevens over verwerving zie 'opmerkingen'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#identifier> "7082-nf-907-103" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#material> "negatief (zwart/wit)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-103> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

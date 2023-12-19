@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#name> "NIBOENGPALMEN EN PANDANUS OP STELTWORTELS VOOR DE KAMPPLAATS AAN DE VAN DE VAN GELDERRIVIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#description> "Van 26 mei t/m 1 juni maakt Dr. W. Docters van Leeuwen een botaniseertocht aan de westkant van de Mamberamorivier achter Albatros-bivak. Onderweg kamperen ze aan de oever van de Van Gelderrivier waar ze een paar dagen blijven. Vlak bij de tent staat een hoge pandanusboom op steltwortels en Niboenpalmen. De foto is gemaakt tijdens de Amerikaans-Nederlandse Centraal Nieuw-Guinea Expeditie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#identifier> "TM-10009883" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#creator> "W.M. (Willem Marius) Docters van Leeuwen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009883> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

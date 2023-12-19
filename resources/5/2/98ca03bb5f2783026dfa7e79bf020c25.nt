@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <https://colonialcollections.nl/schema#description> "[ST] scharnier (2) & koord (2) & oog ter bevestiging koord (2)\r\n[DE] arabesk & ruit & cartouche (2)\r\n[VO] vierkant (middenstuk) & driehoek (zijkanten)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <https://colonialcollections.nl/schema#identifier> "WM-63150" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <https://colonialcollections.nl/schema#inscription> "[B] Arabisch schrift" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <https://colonialcollections.nl/schema#material> "zilver, zijde, gouddraad, katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63150> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

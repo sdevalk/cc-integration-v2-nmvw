@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, geheel opgeplakt\r\n\r\nOnder en naast de foto is in inkt en potlood de volgende tekst bijgeschreven: Lt Stein van Hensbroek - Mrt 1911\r\n.\r\nOpname toont een man in uniform te paard. Het is een 1ste Luitenant met twee sterren op de kraag." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#identifier> "7082-nf-1078-37-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#material> "papier; afgedrukt, ontwikkeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-37-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

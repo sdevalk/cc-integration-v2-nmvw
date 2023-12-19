@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#name> "STRAND MET VUURTOREN EN ACHTERLIGGENDE BEBOUWING TE MAKASSAR OP ZUID-CELEBES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#identifier> "RV-A130-2-172" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#locationCreated> "Makassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Udjung Pandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Makassar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Ujungpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Djumpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Makasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#alternateName> "Makasser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A130-2-172> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

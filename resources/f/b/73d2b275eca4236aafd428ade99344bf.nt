@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#description> "[ST] hol\r\n[DE] oorring\r\n[KL] paars & rose & oranje & groen & wit\r\n[VO] vrouw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#identifier> "WM-67748" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#inscription> "Luisa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#material> "papier-mache, verf, kunststof, koper\r\ngekneed;gelijmd;beschilderd\r\nVoorbeeld van volkskunst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-67748> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

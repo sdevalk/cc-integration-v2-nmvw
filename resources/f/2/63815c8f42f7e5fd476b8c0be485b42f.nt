@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#description> "Mensfiguurtje in hurkende houding, gesneden uit een stukje donker hout met min of meer vierkante doorsnede. In het duidelijk herkenbare gelaat zijn ogen, neus, mond, kin en oren aangegeven; de armen zijn nauwelijks zichtbaar, in tegenstelling tot de handen die voor de buik zijn gevouwen; van de onderste ledematen zijn alleen de tenen vaag aangegeven. De onderkant eindigt in een  kegelvorm met stompe punt; aan de eveneens cilindrische bovenzijde, bevindt zich een diepe boring die verbinding heeft met een driehoekig gaatje op borsthoogte." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#identifier> "RV-3057-9" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3057-9> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

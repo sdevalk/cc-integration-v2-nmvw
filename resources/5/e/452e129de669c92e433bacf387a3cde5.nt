@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#name> "OLIEVERFSCHILDERIJ GETITELD \"GEZICHT OP DE LAWOE\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#description> "De vulkaan de Lawoe ligt op de grens van Solo en Madioen en is 3265 meter hoog. De berg heeft zich naar bijna alle zijden vrij kunnen ontwikkelen en heeft dan ook aan de voet een diameter van minstens 35 kilometer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#identifier> "TM-712-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#material> "Het schilderij zit in een brede donkerbruine houten lijst.\r\nIn het midden van de onderzijde van de lijst is een rechthoekig zwart plaatje gespijkerd, waarop vermeld in gouden letters: gezicht op de Lawoe uit s.f. Poerwadadi." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#creator> "H.A.L. (Hendrik Arend Ludolf) Wichers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-712-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68913> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68913> <https://colonialcollections.nl/schema#description> "[KL] bruin\r\n[ST] vakverdeling\r\n\r\nDeel van gezondheidskabinet met 68911 en 68912. T.b.v. opbergen medicinale kruiden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68913> <https://colonialcollections.nl/schema#identifier> "WM-68913" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68913> <https://colonialcollections.nl/schema#material> "hout\r\ngesneden\r\nOud en gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68913> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

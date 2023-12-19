@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <https://colonialcollections.nl/schema#name> "Boek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <https://colonialcollections.nl/schema#description> "EHON IMAYO SUGATA  \r\nPlace of publication: Edo\r\nPublisher: Kansendo ??? (Izumiya Ichibei ??????)\r\nCollation: 1 vol.; 152×213; 24 sheets, not numb.: 3 sheets preface, not dated; signed: Shikitei no okina ????? (Shikitei Sanba ????) (1776-1822); 13 sheets illustr.; 9 sheets text, kan jo.\r\nTitle page, inside front cover: author: Shikitei Sanba; illustrator: Utagawa Toyokuni [I] ???? (1769-1825); title: Ehon imayo sugata; publisher: Kansendo.\r\nNo hashira-title. No colophon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <https://colonialcollections.nl/schema#identifier> "RV-3340-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3340-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

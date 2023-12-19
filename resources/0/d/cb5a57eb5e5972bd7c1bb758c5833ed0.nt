@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#name> "KOKERDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#description> "Een kokerdoek gemaakt van boombast. De doek bestaat uit één baan, die aan elkaar is geklopt. De basiskleur van de doek is wit. De doek is aan de randen versierd met aan één kant twee banen rode rechthoekjes en aan de andere kant één baan rode rechthoekjes. Op één plaats is in de breedte een baan haakvormige figuren te zien. Daarnaast zijn vele grote cirkels gemaakt, die gevuld zijn met dunne paarse en gele lijnen, die uit het midden komen. Tussen de cirkels zijn telkens twee rode rechthoekjes gemaakt. De doek is alleen aan de buitenzijde gekleurd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#identifier> "RV-6112-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#material> "boombast ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#locationCreated> "Maleilage" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#alternateName> "Malai" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#alternateName> "Malei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6112-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

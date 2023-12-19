@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#name> "HET OFFER VAN ABRAHAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#description> "'Het offer van Abraham' : terwijl volgens de islam deze profeet, het mes op de keel van zijn zoon wil zetten, wordt hem iets toegefluisterd door een derwisj, die hem een blik van verstandhouding toewerpt.\r\n\r\nOnafgemaakte miniatuurschildering. Signatuur rechtsonder met penseel: Muhammad Yusuf." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#identifier> "WM-71717" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#material> "papier, roet, Arabische gom, goudverf, dekkende verf,  waterverf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#creator> "Muhammed Yusuf al-Husayni" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#yearCreatedEnd> "1625"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71717> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

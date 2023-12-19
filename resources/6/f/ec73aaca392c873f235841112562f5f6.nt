@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#name> "236 SHIRAZ. ANOTHER AND CLEARER VIEW OF HAFIZ TOMBSTONE, BUT PARTLY SPOILT BY DOUBLE NEGATIVE." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#description> "Amateurfotografie, reisfotografie, tombe Hafizieh, van de Perzische dichter Hafiz (ca.1320-1390), op de begraafplaats in Musalla Gardens, op de oever van de rivier Ruknabad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#identifier> "WM-940049-1-86" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#material> "karton, papier, platinadruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940049-1-86> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .

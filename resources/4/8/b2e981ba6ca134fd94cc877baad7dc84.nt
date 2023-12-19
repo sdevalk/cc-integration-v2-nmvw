@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#name> "BATAVIA 1923" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#description> "Fotoalbum met 50 ingeplakte foto's, het voorplat is gedecoreerd met 3 foto's van munten. De binnenzijde van het achterplat bevat een uitgesneden en ingekleurde foto van een stenen leeuw met wapenschild: het  \"placaat vanJan Pietersz. Coen\", met bijschrift." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#identifier> "WM-940012" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#inscription> "bijschriften bij foto's gedrukt op papieren strook, op kartons geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#material> "met koord samengebonden album, papier met titel, naam van de maker en munt decoraties (3) middenvoor met zilververf, opgebracht, oblong, papier, daglichtcollodiumzilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#creator> "Bley, G.F.J." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940012> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

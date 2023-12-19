@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#name> "HBS eindexamen 'Mondeling'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#description> "mondeling eindexamen hbs Bandoeng 1926; indeling van de 4 ploegen voor het mondelinge examen. Deze examens duurden 2 dagen. De lijst bestaat uit 2 vellen, waarbij nr. 7 steeds rood omlijnd is of met blauw is doorgestreept. Met potlood zijn niet duidelijk gedrukte delen overgeschreven en de namen Elly en Thilly erbij geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#identifier> "7082-S-542-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-542-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

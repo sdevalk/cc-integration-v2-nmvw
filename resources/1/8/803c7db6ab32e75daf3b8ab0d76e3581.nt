@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <https://colonialcollections.nl/schema#name> "GEKLEURD HOUTEN VOORWERP MET ORNAMENT VAN GESTILEERDE VISFIGUREN." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <https://colonialcollections.nl/schema#description> "Een langwerpig houten voorwerp, dat over de breedte licht gebogen en aan één zijde voorzien is van een ingesneden ornament, dat voor het grootste deel is opgebouwd uit gestileerde visfiguren, die met rode en zwarte kleurstof zijn beschilderd. Het voorwerp is gebarsten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <https://colonialcollections.nl/schema#identifier> "TM-2003-151" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2003-151> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

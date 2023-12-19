@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#name> "LOODSACHTIGE GEBOUWEN GESITUEERD AAN DE VOET VAN EN TEGEN BEBOSTE HELLINGEN BIJ CHRISTOFORO COLOMBO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#identifier> "RV-A11-145" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#material> "glas (materiaal) ; fotografische procedés" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#locationCreated> "South America" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A11-145> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .

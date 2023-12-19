@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#description> "[ST] standaard : voet & schacht (?)\r\n[VO] rond & achthoek (voet) & omgekeerd balustervormig (schacht)\r\n[DE] zespuntige ster & zeshoek & driehoek & cirkel & bloem (gestileerd)\r\n[KL] goud & zwart & oker & rood & groen & bruin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#identifier> "WM-63320" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#material> "hout, ivoor, glas, lak (transparant), messing\r\nintarsia (houten inlegwerk)\r\nDe spiegel is d.m.v. marqueterie (oplegwerk) versierd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63320> <https://colonialcollections.nl/schema#yearCreatedStart> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .

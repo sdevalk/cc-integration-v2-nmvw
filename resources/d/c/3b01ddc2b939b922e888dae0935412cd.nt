@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#name> "Schenkkan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#description> "eind 17e eeuw ; Sino-Japans neigend naar Imari\r\nVorm geinspireerd op die van de Zuidoost-Aziatische drinkwaterkan die algemeen bekend staat onder de naam kendi." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#identifier> "RV-3211-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#material> "porselein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3211-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1680"^^<http://www.w3.org/2001/XMLSchema#integer> .

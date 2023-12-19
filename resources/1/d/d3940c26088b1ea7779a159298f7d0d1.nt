@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#name> "HET VERWOESTE HUIS VAN GENERAAL TSJANG SJUUN, NA DE SLAG OM PEKING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#identifier> "RV-A166-81" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#material> "Materiaal: papier \r\nTechniek: ontwikkel gelatine zilverdruk\r\nMontage: op registratiekaart geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#creator> "prof. dr. J.J.L. Duyvendak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-81> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

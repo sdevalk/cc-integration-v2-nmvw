@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#name> "AMULET IN DE VORM VAN EEN SCHOEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#description> "Amulet in de vorm van een badschoen. De schoen dient bij dit amulet in de eerste plaats als afweermiddel tegen het kwaad. De schoen fungeert als een (symbolisch) wapen waarmee het kwaad weggeschopt of vertrapt kan worden.\r\nrozet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#identifier> "WM-66077" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#material> "hout, zilver & bladzilver\r\ngesneden;gedreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66077> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

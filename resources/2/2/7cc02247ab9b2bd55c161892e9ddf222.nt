@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#name> "652. EINGEBORENER RULUANU, NEW BRITTANIEN." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#description> "No.652. Aelterer Mann von Ruluanu im Norden Neu-Brittanniens (Blanche-Bay), »Talawa« genannt, mit Halskragen, »Ammidi«, aus aufgereihten weissen Muscheln (Nassa) und Randverzierung aus bunten Muscheln. Brustbild. C.\r\nBron: Friederichsen, L, 1883, Verzeichnis der Kleinschmidt'schen Original-Photographien von Neu-Brittannien.\r\n \r\nInwoner van Ruluanu met halssieraad uitziend als een platte kraag, waarschijnlijk een hoogwaardigheidsteken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#identifier> "WM-908220" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk, reproduktie 1913" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908220> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

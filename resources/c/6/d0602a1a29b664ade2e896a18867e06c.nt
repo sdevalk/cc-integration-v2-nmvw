@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#description> "[VO] stok (3) : toren & touwladder & tongtong : sirene (in top)\r\n\r\nDeze sirenes waren veel in gebruik tijdens onafhankelijkheidsstrijd in de jaren 1948-'49 in Jawa-Timur. In werkelijkheid waren ze uit bamboe opgebouwd. Wanneer er gevaar dreigde van een overval door Nederlandse soldaten werd direct de tongtong geslagen en de boodschap werd meteen overgenomen door kampongsirenes in andere dorpen.\r\n\r\nVervaardiging:\r\nRotan stokken samengebonden met touw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#identifier> "WM-73121" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#material> "rotan, lucifer, plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-73121> <https://colonialcollections.nl/schema#yearCreatedStart> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .

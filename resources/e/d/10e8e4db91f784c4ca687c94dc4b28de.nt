@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is een wit etiket geplakt met een geschreven tekst 'Brug over de Ombilin rivier aan het meer van Singkarak (zie Kistjes nr.12  nrs.'36-37.' en de getallen 17 en 44.\r\nOp binnenkant deksel staat voor deze opname geschreven: 'Brug over de Ombilin rivier bij Singkarak meer'\r\n\r\nDe opname toont een brug met op de voorgrond wat vegetatie en 3 kokospalmen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#identifier> "7082-nf-705-44" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#material> "glas, papier, inkt, gelatine glasplaatdiapositief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-705-44> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

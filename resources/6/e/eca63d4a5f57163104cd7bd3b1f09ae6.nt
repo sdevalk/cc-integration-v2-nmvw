@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#description> "Foto, kleinbeeld, zwart/wit, rechthoekig, in schrift opgeplakt.\r\n\r\nAls informatie staat in potlood naast de foto '37A'.\r\n\r\nOpname toont een grote groep mensen, staand in de open lucht op een veld. Vooraan en meer naar links zijn de personen in het wit gekleed, de mannen met hun topi op. Meer naar achter is het wit in de kleding verdwenen.\r\nHet zijn waarschijnlijk allemaal Indonesiers. \r\nOp de achtergrond bebouwing.\r\n\r\nAl is het niet aangegeven, aangenomen is dat de foto van Java komt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#identifier> "7082-nf-1373-19-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1373-19-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

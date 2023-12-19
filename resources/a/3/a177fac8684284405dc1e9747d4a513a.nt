@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#description> "[ST] tuit met verbreed middenstuk & hals met verbreed bovenstuk\r\n        & reliefribbe (horizontaal)\r\n[DE] banden & geometrisch figuren & garis miring & rank & gleuf\r\n        (4 x 10 verticaal) & 2 paar concentrische cirkels (bovenstuk)\r\n[VO] geschulpt (rand van bovenstuk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#identifier> "WM-34408" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#inscription> "[T] B 72 349\r\n[T] Br 261" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#material> "messing, gala (gleuf)\r\ngegoten, geciseleerd (decoratie), ingegrift (cirkels), belegd\r\n(gala), [RO] geelgieter" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34408> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

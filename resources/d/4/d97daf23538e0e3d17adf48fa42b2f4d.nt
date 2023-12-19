@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#name> "DOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#description> "Een ronde doos gemaakt van diagonaal gevlochten, ongekleurde pandanbladrepen. De doos is hoog en heeft een bijna geheel overschuivend deksel. Op de bovenkant van het deksel is een parasolvormige versiering gemaakt. Aan dit deel hangt een lange diagonaal gevlochten katoen band in wit en zwart. Aan de band een aantal koorden in wit, zwart en rood. De wand van de doos is versierd met slingerlijnen, krullijnen en geometrische ornamenten in rood en zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#identifier> "RV-300-210" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#material> "blad (pandan) ; verf ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-210> <https://colonialcollections.nl/schema#yearCreatedStart> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .

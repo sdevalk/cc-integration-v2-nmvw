@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#name> "SPATEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#description> "Sagoschepper van roodbruin hout vervaardigd. Aan beide uiteinden een schep, de kleinste licht beschadigd. Het middenstuk als handvat is gedeeltelijk achtkantig en bestaat verder uit een hurkend beeldje met uitpuilende ogen en grote pijlvormige neus, mond onduidelijk, evenals armen en benen. Aan de voorzijde een schild met symetrische versiering.\r\n\r\nDe sago is een in het wild groeiende plant en één van de belangrijkste voedselbronnen in Melanesië. Voordat de plant bloeit slaat hij een grote hoeveelheid aan zetmeel op in zijn kern. Kort voor de bloei wordt hij omgehakt en een deel van de buitenbast verwijderd. Vervolgens wordt de zetmeelrijke kern uit de stam gehakt. De kern wordt hard geklopt en continu gespoeld met water waardoor de oneetbare harde vezels uit het zetmeel gewassen worden. Van sago worden een soort cakes gemaakt die maandenlang goed blijven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#identifier> "RV-2060-14" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#locationCreated> "Pulau-pulau Moor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#alternateName> "Kepulauan Moor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2060-14> <https://colonialcollections.nl/schema#alternateName> "Moor-eilanden" .

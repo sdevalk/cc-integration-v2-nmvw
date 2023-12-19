@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#description> "[KL] oranje & rose & groen & blauwpaars\r\n[PA] cirkel (4x) & mens & paard & haan & boom (in bakken, ‚‚n met Nederlandse vlag) & insekt : vlinder & ster & karbouw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#identifier> "WM-71593" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#inscription> "[B] MADAJOENI HARAGA [= harga = prijs?] HAGA 10 f [= f 10?] H.AGA a MAjilia Pe Rigi [= plaatsnaam?] Ru Pia (= rupia =gulden?) 10 f" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#material> "geklopte boombast (fuya), kleurstof\r\ngeklopt, beschilderd, getekend\r\nGeklopt tot een naadloze kokerdoek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#locationCreated> "Central Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Tengah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71593> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Tengah" .

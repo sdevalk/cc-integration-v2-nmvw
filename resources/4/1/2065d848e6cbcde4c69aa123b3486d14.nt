@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-36661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-36661> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-36661> <https://colonialcollections.nl/schema#description> "[VO] gebogen, vlekkerige, bruine hoorn;\r\n        aan brede uiteinde afgedekt met kogelvormige houten\r\n        bodem;\r\n        ongeveer halverwege een leren riempje om de hoorn \r\n        geknoopt - scheidt rond stuk ('t breedste) van een kantig\r\n        gesneden deel;\r\n        punt afgezaagd - ronde opening, waaromheen ijzeren\r\n        ring. Geen deksel aanwezig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-36661> <https://colonialcollections.nl/schema#identifier> "WM-36661" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-36661> <https://colonialcollections.nl/schema#material> "hoorn, hout, leer, ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-36661> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

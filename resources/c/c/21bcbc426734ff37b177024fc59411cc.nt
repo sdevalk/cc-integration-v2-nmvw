@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#name> "HANDTROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#description> "Een muziekinstrument, een handtrom, gemaakt van donkerbruin hout. De trom is rond, lang en smal en staat op een voet. De trom wordt vanaf de bovenzijde geleidelijk smaller en eindigt in de breder uitlopende voet. De rand van de voet is versierd met ingelegde stukken Nassaschelp. Op één plaats is aan de voet een nok gesneden met een rond gat. De bovenkant is bespannen met een vel van slangenleer, dat op zijn plaats wordt gehouden met stroken vezeltouw, die aan een met katoen overtrokken rotanring zijn vastgemaakt. De rotanring wordt gespannen met V-vormige houten pennen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#identifier> "RV-61-21" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#material> "hout ; schelp (nassa) ; leer (slang) ; rotan; vezels" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-21> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

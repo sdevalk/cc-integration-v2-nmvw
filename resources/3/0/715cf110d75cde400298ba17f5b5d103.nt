@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#name> "Oorlogspijl" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#description> "Wapen/pijl, gemaakt om mee te vechten, maar wordt niet meer gebruikt, normaal gezien wordt hij gemaakt van zwaardvis maar de maker heeft nu gebruik gemaakt van bot van een varken. Deze pijlen worden vandaag de dag bijna niet meer gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#identifier> "RV-6097-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#material> "been (varken)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-6> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

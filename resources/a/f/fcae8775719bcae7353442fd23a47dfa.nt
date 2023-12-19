@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#name> "Signaalhoorn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#description> "Een hoorn die wordt gebruikt om mensen te roepen wanneer er dorpsvergaderingen gehouden dienen te worden. Afhankelijk van de gelegenheid wordt een andere klank voortgebracht Het kan ook gebruikt worden om voor de aardigheid te spelen, maar vooral om mensen op te roepen om naar bv het feest te komen, of om samen oorlog te voeren. Anisio kan de verschillende soorten klanken en muziek-tonen spelen die oorlog en feest aankondigen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#identifier> "RV-6097-25" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6097-25> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

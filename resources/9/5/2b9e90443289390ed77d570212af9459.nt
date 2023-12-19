@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70126> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70126> <https://colonialcollections.nl/schema#description> "[KL] bruin & groen & geel & paars\r\n[DE] streep & spoel & dwarsbalk\r\n[ST] 3 banen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70126> <https://colonialcollections.nl/schema#identifier> "WM-70126" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70126> <https://colonialcollections.nl/schema#material> "synsthetische vezel\r\ngestikt & geweven & gebrocheerd\r\nkettingrips ;  supplementaire inslag." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70126> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

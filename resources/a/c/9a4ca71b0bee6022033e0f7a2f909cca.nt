@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#name> "VALUABLES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#description> "Etnografische expeditiefotografie. Robert Mond Expedition to New Guinea. Armbanden en kettingen gebruikt als betaalmiddel bij ruilhandel. De kralen zijn van schelpen gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#identifier> "WM-909265" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#inscription> "titel (1) met potlood op achterzijde foto geschreven /\r\n'XIX 33/722' met potlood op achterzijde foto geschreven /\r\n'IV (b)' met potlood op achterzijde foto geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#creator> "Malinowski, B." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#locationCreated> "Trobriand Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#alternateName> "Trobriand Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#alternateName> "Kiriwina Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-909265> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

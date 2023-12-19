@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#name> "KELENGAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#description> "[PA] hoofdpatroon & motief : semen & paradijsvogel\r\n        achtergrondpatroon & pola : kawung\r\n[KL] ondergrond : naturel\r\n        motief : donkerblauw\r\n[ST] kraag & lange mouw & borstzak (links) & split (2)\r\n[TY] kelengan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#identifier> "WM-71501" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#inscription> "1 = [T] batik\r\n           Danar Hadi\r\n           solo-indonesia &\r\n2 = [T] medium" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, print en genaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#creator> "Danar Hadi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71501> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

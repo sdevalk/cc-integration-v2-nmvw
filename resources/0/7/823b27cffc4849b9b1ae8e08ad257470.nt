@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#name> "EÉN PAAR ZWARTE, LAGE SCHOENEN, ONDERDEEL VROUWENKOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#description> "Op de neus van de schoenen is een meisjeshoofd ingeperst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#identifier> "TM-1835-1h" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#inscription> "Made in Canada, Bata (rond het maple-leaf embleem)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1835-1h> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .

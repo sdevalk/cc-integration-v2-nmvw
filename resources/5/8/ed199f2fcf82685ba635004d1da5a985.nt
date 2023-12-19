@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-936> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-936> <https://colonialcollections.nl/schema#description> "[KL] goudkleurig (lichaam & gezicht) & rood (dodot);\r\n[VO] haartooi gelung supit urang en sumping waderan. \r\n        Rode dodot met ronde, gekartelde bokongan en manggaran.\r\n        Handvat en armstokjes van bamboe : Parikesit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-936> <https://colonialcollections.nl/schema#identifier> "WM-936" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-936> <https://colonialcollections.nl/schema#material> "buffelleer, bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-936> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

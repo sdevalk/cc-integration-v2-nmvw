@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#description> "Reisgezelschap loopt langs een grote pijnboom. Afgebeeld is een scene uit de 8e acte van het toneelstuk Chûshingura ('Pakhuis van trouwe vazallen'), te weten de bruidsreis van Tonase en Konami. Zelfde ontwerp: inv. nrs. 2194-2, 3930-8.\r\n\r\nUit de serie Chûshingura, uitgegeven door Izumiya Ichibei (afgekort tot Sen'ichi), studionaam Kansendô, in 1836." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#identifier> "RV-2194-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#creator> "Utagawa Hiroshige" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1858"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2194-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1818"^^<http://www.w3.org/2001/XMLSchema#integer> .

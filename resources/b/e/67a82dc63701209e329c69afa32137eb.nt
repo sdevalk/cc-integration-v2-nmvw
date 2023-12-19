@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <https://colonialcollections.nl/schema#name> "ZEVEN PATROONBANEN MET PAARDEN, VOGELS, ZEILSCHEPEN MET VLAGGEN,\r\nVOGELS, KREEFTEN EN INGESLOTEN MOTIEVEN MET GESTIPPELDE RUITEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <https://colonialcollections.nl/schema#description> "[ST] patroonbaan (7)\r\n[PA] eerste & derde baan : paarden & vogels\r\n        tweede baan : zeilschepen met vlaggen & vogels & kreeften\r\n        vierde (tevens midden) baan : ingesloten motieven met\r\n        gestippelde ruiten\r\n[KL] ikat : naturel & zwart & rood & blauw\r\n        weefband : naturel & rood & grijs" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <https://colonialcollections.nl/schema#identifier> "WM-35670" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, ikat : scheringikat, gerold (franje)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-35670> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

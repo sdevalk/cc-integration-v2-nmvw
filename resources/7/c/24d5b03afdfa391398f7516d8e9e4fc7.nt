@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40824> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40824> <https://colonialcollections.nl/schema#description> "1 = afbindraam[kasuri] (l 45 x br 34 x h 7.5 cm / hout & ijzer & linnen) 2 = kasuri-schabloon (l 35.5 x br 10 cm / papier)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40824> <https://colonialcollections.nl/schema#identifier> "WM-40824" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40824> <https://colonialcollections.nl/schema#material> "hout, ijzer, papier, linnen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-40824> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-370> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-370> <https://colonialcollections.nl/schema#description> "[ST] tak met schors die aan de ene zijde eindigt in vezel en\r\n        aan de andere in touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-370> <https://colonialcollections.nl/schema#identifier> "WM-370" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-370> <https://colonialcollections.nl/schema#material> "tak, boombast, vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-370> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

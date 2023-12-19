@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <https://colonialcollections.nl/schema#name> "BYUR (IKET ZONDER TENGAHAN (= MIDDENVLAK))" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & pola : semen (op sits geïnspireerd)\r\n        korte en lange kanten & motief : kemada & poncot\r\n[KL] ondergrond : naturel\r\n        motief : bruin & zwartbruin\r\n[TY] byur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <https://colonialcollections.nl/schema#identifier> "WM-922" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, batik, tulis, craquele" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-922> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

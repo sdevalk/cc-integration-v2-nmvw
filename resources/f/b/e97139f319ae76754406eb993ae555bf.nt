@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#name> "HOOFDDOEK VAN IHRAM-VROUWENKLEDING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#description> "Deze hoofddoek of korte sluier, jilbab of hijab, behoort bij de Ihram-vrouwenkleding die Dedah Rufaedah Sri Handari droeg toen zij met haar man en dochters in 2010 de Umrah naar Mekka maakte. Het volledige kostuum van haarzelf en van haar man heeft zij in 2012 als teken van vriendschap geschonken aan Museum Volkenkunde, om te worden gebruikt in de tentoonstelling \"Verlangen naar Mekka\". Ibu Dedah werkte destijds in het Museum Nasional Indonesia in Jakarta, waarmee Museum Volkenkunde tussen 2004 en 2014 in drie grote Shared Cultural Heritage projecten nauw samenwerkte.\r\nHoewel dit niet verplicht is, dragen de meeste Indonesische vrouwen in Mekka uitsluitend witte kleding, die verstrekt wordt door het reisbureau dat haar bedevaart organiseert. Het volledige kostuum bestaat uit een sluier, jak, broek en bedekking van de bovenzijde van de handen. De handpalmen blijven onbedekt, om tijdens het gebed de aarde te kunnen aanraken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#identifier> "RV-6202-31a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#material> "Katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6202-31a> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

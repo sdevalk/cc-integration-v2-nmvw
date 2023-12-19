@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#name> "Manuscript" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#description> "Oefenboekje om te leren schrijven. De inhoud bestaat uit een kopie van de sura's 36, 37 en 78 (op het laatste vers na). Datering: midden van de 19e eeuw. De voorwerpen zijn zonder nummer in het museum aangetroffen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#identifier> "RV-3393-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#material> "paier, gegommeerd papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3393-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .

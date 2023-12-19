@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#name> "Jak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#description> "Jak, karai, voor vrouwen, geweven van gekauwde bamboerepen (wase); lichtbruin; achterpand twee maal zo lang als voorpand; van voren gesloten (zonder knopen); lange mouwen; kraagopening en mouwen met katoenen opslagen en omboording;\r\n\r\nIn het Tontem-boansch (vroeger Tompakewa genoemd) heet de bamboesoort tambèlang. Men neemt daarvoor een spruit dat nog niet meer dan 3 à 4 bladeren aan de top heeft.\r\nHerkomst: Minahassa; res. Menado" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#identifier> "7082-S-46-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#material> "bamboevezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#locationCreated> "Kota Manado" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Manado" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-46-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

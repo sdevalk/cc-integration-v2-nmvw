@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65025> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65025> <https://colonialcollections.nl/schema#description> "[KL] wit;\r\n[VO] model op standaardje. Met zeil- en roeispaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65025> <https://colonialcollections.nl/schema#identifier> "WM-65025" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65025> <https://colonialcollections.nl/schema#material> "lichtgewicht hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65025> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

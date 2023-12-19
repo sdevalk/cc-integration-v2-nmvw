@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#name> "HUISJE TE BATAVIA-BIVAK ONDER CAULIFLORE FICUS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#description> "De tent van de botanicus Dr. Docters van Leeuwen onder een Cauliflora Ficus boom in Bataviabivak aan de Mamberamorivier tijdens de Amerikaans-Nederlandse Centraal Nieuw-Guinea Expeditie in 1926.\r\nFotograaf: Dr. W.M. Docters van Leeuwen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#identifier> "TM-10009228" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#creator> "W.M. (Willem Marius) Docters van Leeuwen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009228> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

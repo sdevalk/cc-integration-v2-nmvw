@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#name> "KAJAKGERAAMTE (12 MEI 1934)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#description> "Het bouwen van een nieuwe kajak. Hier is de bovenkant van het kajakgeraamte inclusief het mangat te zien. \r\nTiniteqilaaq, Sermilik fjord, 12 mei 1934.\r\n\r\nJaap van Zuylen's eigen beschrijving:\r\nIdem van onderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#identifier> "RV-6222-136" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#material> "glas (materiaal) ; fotografische procedés" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#creator> "J. (Jacob) van Zuijlen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6222-136> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

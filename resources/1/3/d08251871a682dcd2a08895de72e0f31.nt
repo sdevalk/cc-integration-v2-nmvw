@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61179> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61179> <https://colonialcollections.nl/schema#description> "[KL] wit (katoen) & groen & rose & blauw & citroengeel & \r\n        eigeel & oranje & aubergine (motief);\r\n[VO] twee aaneengenaaide stukken, beide rondom met een \r\n        plissérand. Boven en onder open, aan de onderkant heeft\r\n        het stiksel los gelaten;\r\n[PA] borduursel aan beide zijden: een bloem en rankenrand\r\n        rondom een boeket en een paar onherkenbaar motieven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61179> <https://colonialcollections.nl/schema#identifier> "WM-61179" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61179> <https://colonialcollections.nl/schema#material> "katoen\r\ngeborduurd & aaneengenaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61179> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

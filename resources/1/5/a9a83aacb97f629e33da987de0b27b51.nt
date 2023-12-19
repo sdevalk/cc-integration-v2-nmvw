@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33841> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33841> <https://colonialcollections.nl/schema#description> "1 = mes      ([ST] steelring\r\n                   [DE] snijwerk (handgreep))\r\n2 = schede ([ST] vlechtwerkband (1)\r\n                   [DE] snijwerk : tumpalrand)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33841> <https://colonialcollections.nl/schema#identifier> "WM-33841" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33841> <https://colonialcollections.nl/schema#material> "hout, ijzer, hoorn, rotan (vlechtwerkbanden)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-33841> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

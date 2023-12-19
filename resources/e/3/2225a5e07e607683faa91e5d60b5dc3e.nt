@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#name> "Waterkruik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#description> "smalle hals , bol lichaam , versierd met parelrand" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#identifier> "7082-S-549-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1599"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-549-1> <https://colonialcollections.nl/schema#yearCreatedStart> "950"^^<http://www.w3.org/2001/XMLSchema#integer> .

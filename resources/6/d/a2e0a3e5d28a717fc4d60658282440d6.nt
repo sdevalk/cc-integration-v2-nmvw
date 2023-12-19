@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#name> "HOOFDDEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#description> "Een hoofddeksel gemaakt van lontarbladrepen. De bladrepen zijn straalsgewijs aan elkaar genaaid. De top van de hoed is bolvormig en zwart gekleurd. Vervolgens twee rode banden met zigzaglijnen en daartussen een smalle zwarte band. Vanuit de onderste rode band lopen rode repen stervormig naar de onderrand. Tussen de rode repen zijn langwerpige groene en ongekleurde repen te zien, waarvan de toppen naar de top wijzen. De ongekleurde repen zijn versierd met vier uit zwarte punten bestaande cirkelvormen. De rand van de hoed is van twee halve brede rotanrepen gemaakt. De rotans zijn met omwikkelingen van smalle dunne rotanrepen aan de hoed vastgemaakt. De binnenkant is ongekleurd en heeft een hoofdring van rechthoekig gevlochten bladrepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#identifier> "RV-300-184" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#material> "blad (lontar) ; rotan ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#locationCreated> "Kota Banjarmasin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Bandjarmasin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Bandjarmasin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-184> <https://colonialcollections.nl/schema#yearCreatedStart> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .

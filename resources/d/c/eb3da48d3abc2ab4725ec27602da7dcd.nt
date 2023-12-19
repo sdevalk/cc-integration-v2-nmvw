@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, geheel opgeplakt\r\n.\r\nOnder de foto rechts staat in potlood een datum en een naam geschreven: Dec. '10  - Fatoe Kappa\r\n\r\nOpname toont een groep inheemse vrouwen, naast elkaar staand, buiten, met bij zich kinderen. Op de voorgrond een paar vrouwen die op de grond zitten bij een mat met voorwerpen erop.\r\nAchter deze mensen ziet men de daken van hun behuizing.\r\nDaar weer achter het bergachtige landschap.\r\n\r\nN.B.: Bij identieke foto nf 276-11 staat vermeld dat de foto met een begrafenis te maken heeft." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#identifier> "7082-nf-1078-33-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#material> "papier; afgedrukt, ontwikkeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-33-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

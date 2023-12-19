@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#name> "HALSSNOER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#description> "Halssnoer van 25 kralen en 15 dier- en mensfiguurtjes. Gemaakt voor toeristen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#identifier> "RV-6094-292" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#material> "ivoor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#creator> "Sekusunna Mitek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#locationCreated> "North Greenland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#alternateName> "North Greenland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#alternateName> "Avannaa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#alternateName> "Avanersuaq" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-292> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

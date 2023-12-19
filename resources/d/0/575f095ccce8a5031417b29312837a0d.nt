@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61147> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61147> <https://colonialcollections.nl/schema#description> "[KL] zwart (onder- & bovenzijde rand) & twee tinten rood & wit\r\n        blauw & groen & bruin;\r\n[VO] middenstuk bestaat uit 4 banen;\r\n[PA] strepen met geometrische motieven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61147> <https://colonialcollections.nl/schema#identifier> "WM-61147" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61147> <https://colonialcollections.nl/schema#material> "wol, katoen\r\ngewatteerd & geweven (Gowgin)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61147> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

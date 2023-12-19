@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#name> "BEHENDIGHEIDSSPEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#description> "Bestaande uit een houten plankje met drie gaten en een riempje met twee beweegbare kralen.\r\nBij dit spel kan één van de kralen door middel van de touwtjes zo worden gemanoevreerd, dat beide kralen samen in één lus komen, hetzij links, hetzij rechts van het midden.\r\nTerwijl andere spelletjes ook bij Inuit elders voorkomen, is dit spel uniek voor Oost-Groenland." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#identifier> "RV-2085-35" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2085-35> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

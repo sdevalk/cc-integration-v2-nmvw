@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#description> "[DE] blad & bloem\r\n[KL] rood & goud & zwart\r\n[VO] vis (beslag)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#identifier> "WM-3552" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#inscription> "[B] schrift in Latijnse en Arabische letters\r\n[T] yaiboel jang (= die) poenja (= bezit) ini (= deze)\r\n     rabana (tamboerijn) akan adanja (= zal het zijn)\r\n     (in latijnse letters)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#material> "hout, verf, lak, metaal, perkament, rotan\r\ngesneden, geverfd, gelakt, beslagen, [PL] Palembang[gebied]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#locationCreated> "Bengkulu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#alternateName> "tengah padang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3552> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Bengkulu" .

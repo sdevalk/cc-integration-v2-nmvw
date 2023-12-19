@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <https://colonialcollections.nl/schema#name> "LONDEN, CAMBRIDGE, EDINBURGH, MALVERN WELLS, 1956,\r\nGÖTTINGEN 1958\r\nFAM KOOIJMAN LEIDEN 1952, 1956, 1958" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <https://colonialcollections.nl/schema#description> "album ALB 299 (dorood): alb nr5; 2; donkerrood kunststof bekleding" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <https://colonialcollections.nl/schema#identifier> "RV-A455-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <https://colonialcollections.nl/schema#creator> "dr Simon Kooijman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A455-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

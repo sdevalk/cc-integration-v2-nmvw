@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#description> "Opname toont een Indonesische vrouw, zittend in een fauteuil, die staat op een donker vloerkleed. De gordijnen zijn dicht, op de achtergrond is een radiator van de centrale verwarming te zien.\r\n\r\nN.B.: Deze foto is in Nederland genomen. De vrouw is te herkennen als Ibu Lam, in dienst van de familie Poser en met hen mee naar Nederland gekomen tijdens een verlof." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#identifier> "7082-nf-171" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#material> "acetaatnegatief (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-171> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

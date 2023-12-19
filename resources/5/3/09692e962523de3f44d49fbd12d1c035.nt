@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65084> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65084> <https://colonialcollections.nl/schema#description> "[KL] crepe (kunstvezel) & geel & blauw & oker (motief) & wit\r\n        (fond);\r\n[VO] hals van het jak met smal blauw koordborduursel afgewerkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65084> <https://colonialcollections.nl/schema#identifier> "WM-65084" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65084> <https://colonialcollections.nl/schema#material> "kunstvezel\r\ngeborduurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65084> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

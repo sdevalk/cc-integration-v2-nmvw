@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#name> "SPEELKAARTEN IN DOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#description> "Twaalf aan beide kanten polychroom geschilderde houten platen in een doos met schuifdeksel. Zowel de platen als de doos bevatten godenfiguren en mythologische voorstellingen.\r\n\r\nMogelijk toeristenplaten. Educatieve platen?\r\nGebruik onduidelijk, ze hebben haakjes waaraan ze opgehangen kunnen worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#identifier> "RV-3433-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#material> "hout ; kleurstof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#locationCreated> "Odisha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#alternateName> "State of Orissa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#alternateName> "State of Odisha" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3433-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

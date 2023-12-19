@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63171> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63171> <https://colonialcollections.nl/schema#description> "[VO] paard & militair\r\n[ST] wapen & vlag & patronen\r\n[KL] roze & paars & goud & groen & zwart & wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63171> <https://colonialcollections.nl/schema#identifier> "WM-63171" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63171> <https://colonialcollections.nl/schema#material> "papier, papier-mache, paardenhaar (?)\r\nbeschilderd & geplakt (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63171> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61958> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61958> <https://colonialcollections.nl/schema#description> "[KL] naturel & zwart & bruinrood\r\n[VO] plat langwerpig vierhoekig tasje voor tabak en strootjes. Schuin gevlochten, een slaglontar, gevoerd met grover vlechtwerk. Pakje strootjes erin. Bovenrand afgewerkt met bruinrode lontar. [DE] ruitpatroon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61958> <https://colonialcollections.nl/schema#identifier> "WM-61958" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61958> <https://colonialcollections.nl/schema#material> "lontar\r\ngevlochten & gevoerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61958> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

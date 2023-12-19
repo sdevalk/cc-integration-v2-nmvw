@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#name> "VERSIERING VAN BOUWWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#description> "Façade van een bouwwerk, in de vorm van twee boven op elkaar staande bogen, die vier scenes insluiten. Bovenaan zien wij de Boeddha, mogelijk lopend, vergezeld door Vajrapani, die vereerd wordt door twee personages (of een persoon twee maal afbebeeld); een bedelnap die op een zetel staat, bekroont de omlijsting van deze scene. Onderaan in het middel, wordt de Boeddha bezocht door Indra en zijn volgelingen  in de Indrasalaguha-grot. Onderaan links is de gebeurtenis van het temmen van de dolle olifant Nalagiri afgebeeld, tegenover de scene van de aanbieding van een handvol stof van de aarde als aalmoes aan de Boeddha." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#identifier> "RV-2240-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#material> "Leisteen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "399"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2240-3> <https://colonialcollections.nl/schema#yearCreatedStart> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <https://colonialcollections.nl/schema#name> "E-GASURI (= BEELD-KASURI)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <https://colonialcollections.nl/schema#description> "[PA] balspel (kemari) & waaier (ogi) & kersenbloesem (matsu) &\r\n       pijnboom (kiku-no-mizu) & chrysant & water & vlinder (cho) &\r\n       wilde ganzen ? (kari-gane), alle symbolen van geluk &\r\n       geometrisch figuratie ?\r\n[KL] itajime: donkerblauw & wit (naturel, fond)\r\n       kasuri : wit (naturel) & indigoblauw (fond)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <https://colonialcollections.nl/schema#identifier> "WM-58767" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <https://colonialcollections.nl/schema#material> "hennep (asa), indigo\r\nitajime : inslagitajime, kasuri : scheringkasuri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58767> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

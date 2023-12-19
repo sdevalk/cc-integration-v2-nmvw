@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#description> "[KL] garen: rood & roze & turkoois & goud & kobaltblauw & \r\n        paars & textiel voorhang: roze & turkoois & creme & rood\r\n        & textiel gordijnen: ivoor & roze\r\n[PA] borduursel voorhang: bloem & blad & dierfiguur &\r\n        borduursel gordijnen: vogel & bloemrank & vlinder\r\n[DE] borduursel & spiegeltjes & goudzilverband & haakwerk &\r\n        kwasten\r\n[ST] voorhang & gordijn (2)\r\n\r\nKleed werd door Chinezen in Indonesie gebruikt voor voorouderverering en werd als voorhang aan bovenrand van ingang bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#identifier> "WM-71924" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#material> "zijde, zijdegaren, gouddraad, mica, zilvergoudband, linnen\r\ngenaaid & geborduurd & gehaakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71924> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .

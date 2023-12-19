@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62132> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62132> <https://colonialcollections.nl/schema#description> "[VO] 1) antiloopmasker met voetlang vezelkostuum bedekt alleen\r\n            schedel, is nieuw, van blank hout, ten dele \r\n            gepolychromeerd (driehoekpatroon in rood & zwart). \r\n            Vezelkostuum: donkergrijze laag over naturelkleurige.\r\n         2) oud, lang, plat bromhout.\r\n         3) dansstaf, bruine stok met antilopekop; rood met \r\n             ingekerfde lijnen in driehoekpatroon; dik ingesmeerd met\r\n             zwarte verf." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62132> <https://colonialcollections.nl/schema#identifier> "WM-62132" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62132> <https://colonialcollections.nl/schema#material> "hout (gepigmenteerd), plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62132> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

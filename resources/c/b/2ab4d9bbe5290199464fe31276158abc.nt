@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <https://colonialcollections.nl/schema#description> "[ST] band & uitsnijwerk (doos en deksel)\r\n[DE] uitsnijwerk : florale figuren\r\n[MO] band (doos en deksel) : streep\r\n         band (inzetbak) : ruit\r\n[KL] wijnrood & zwart & geel (glanzend) & naturel & rood & blauw &\r\n        wijnrood-naturel (uitsparingstechniek) & grijs\r\n        1 = doos\r\n        2 = inzetbak\r\n        3 = deksel (overschuivend)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <https://colonialcollections.nl/schema#identifier> "WM-6631" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <https://colonialcollections.nl/schema#inscription> "[T] 15" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <https://colonialcollections.nl/schema#material> "pandanpalmblad, orchidee-stengel, papier, katoen, mica, plantenvezel (garen), katoengaren, verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-6631> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#name> "NO.658. MANN VON DER ZUR DUKE OF YORK GROUP GEHÖRIGEN UTNAU-INSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#description> "No.658. Mann von der zur Duke of York Group gehörigen Utnau-Insel, ca. 28 Jahre alt, mit Pfeil und Bogen, marschbereit. Brustbild. C.\r\nBron: Friederichsen, L, 1883, Verzeichnis der Kleinschmidt'schen Original-Photographien von Neu-Brittannien.\r\n\r\nAntropologische fotografie, portretfotografie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#identifier> "WM-908218" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#material> "papier, karton (oranje), albuminedruk, kabinetfoto, in kader en boven gewelfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#creator> "Kleinschmidt, Th." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#creator> "Friederichsen, L." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908218> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <https://colonialcollections.nl/schema#description> "Blad van de eerste helft van het Iroha (alfabet)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <https://colonialcollections.nl/schema#identifier> "WM-31512" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <https://colonialcollections.nl/schema#inscription> "cenzorzegel paard 8=1858" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31512> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

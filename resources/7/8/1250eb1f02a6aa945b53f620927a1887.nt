@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#name> "PORTRET VAN DE OUDE MEESTER KUNISADA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#description> "De ontwerper van prenten Utagawa Kunisada op 77-jarige leeftijd geconterfeit door zijn leerling Utagawa Kunisada II. Inmiddels kaal zit hij nog fier rechtop, een waaier en een penseel in de hand, een steen waarop inkt is aangemaakt voor hem op de grond." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#identifier> "RV-2928-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#creator> "Utagawa Kunisada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2928-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <https://colonialcollections.nl/schema#name> "Boek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <https://colonialcollections.nl/schema#description> "HANABUSA ITCHO GAFU  \r\nIllustrator: Hanabusa Itcho ??? (1652-1724) Copyist: Suzuki Rinsho ???? (-1802) Place of publication: Edo Publisher: Nishimura Soshichi ???? Date of publication: Meiwa 7 (1770) Collation: 3 vol. bound as 1; complete: 3 vol.; 176×251; 55 sheets, numb.: 3-23, kan jo; 1-17, kan chu; 1-17, kan ge. Illustrations. Title page, inside front cover: title: Giga bassui ???? Itcho gafu; publisher: Sosando ??? (Nishimura Soshichi). Hashira-title: Hanabusa Itcho gafu shohen ??. Colophon, inside back cover: advert. for books by Suzuki Rinsho; dated: Meiwa 7 (1770); publisher: Edo, Nishimura Soshichi." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <https://colonialcollections.nl/schema#identifier> "RV-3357-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3357-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

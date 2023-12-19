@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-455c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-455c> <https://colonialcollections.nl/schema#name> "Stapeldoos" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-455c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-455c> <https://colonialcollections.nl/schema#identifier> "RV-B226-455c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-455c> <https://colonialcollections.nl/schema#material> "hout ; lakwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-455c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#name> "EEN WOONHUIS VAN EEN BELANGRIJKE FAMILIE MET EEN DAK VAN GESPLETEN BAMBOE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#description> "Gespleten bamboe is de traditionele dakbedekking in Tana Toraja." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#identifier> "TM-20000735" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#creator> "J.I.  (Jowa Imre) Kis-Jovak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20000735> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

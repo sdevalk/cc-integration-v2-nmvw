@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#name> "PAGI-SORE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#description> "[PA] hoofdpatroon & pola : jumputan bakal (= plangi in opkomst)\r\n        badan1 & hoofdpatroon & motief : verticale baan\r\n        badan2 & hoofdpatroon & motief : cirkel\r\n[KL] badan1 : naturel & rose & donkerbruin\r\n        badan2 : naturel & rose & rood & geel & groen & zwart &\r\n        donkerbruin\r\n[TY] pagi-sore" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#identifier> "WM-71457" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#inscription> "[T] sabena fashion\r\n      solo - indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#material> "katoen, synthetische verf\r\ngeweven, plangi, colet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71457> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

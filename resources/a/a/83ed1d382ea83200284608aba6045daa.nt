@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#description> "Tentoonstelling  \"China, leven en werken\" 06-06-1981 t/m\r\n22-081082.\r\nDe beschilderde wand met de uitbeelding van vrouwen die \r\nin de haven het werk net zo goed doen doen als hier de mannen.\r\nGeëmancipeerde vrouwen. Voor de muurschildering kinderen\r\nzittend op de grond gebogen over een vragenlijst aangaande \r\nde tentoonstelling." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#identifier> "WM-911359" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#material> "polaroid, kleur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911359> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

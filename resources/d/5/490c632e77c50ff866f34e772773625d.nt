@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65007> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65007> <https://colonialcollections.nl/schema#description> "[VO] pot en deksel van hout, elk met brede handvaten die op\r\n        elkaar passen. Onderkant van de pot heeft een metalen plaat\r\n        met gaatjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65007> <https://colonialcollections.nl/schema#identifier> "WM-65007" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65007> <https://colonialcollections.nl/schema#material> "hout, metaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65007> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

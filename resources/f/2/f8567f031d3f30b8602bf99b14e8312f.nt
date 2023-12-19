@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#name> "BORSTSTUK / KRAAG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#description> "Het borststuk is hoofdzakelijk gemaakt van donkerblauwe wol. De kraag is versiert met tindraad in een typisch zuid-Samisch motief.  Kraag en schouders zijn afgezet met een witte zoom. Zo'n borststuk, of losse kraag, was onderdeel van en paste in de ruime V-hals van het Zuid-Samische (feest-)kostuum.\r\nZie ook het bruidskostuum van de Zuid-Sami in de collectie, nl. RMV 1020-30 (bruidsmuts), 1020-31 (borstlap), 1020-32 (bruidsjurk), 1020-32a (zilverkraag), 1020-33 (leren gordel) en 1020-37 (schoenbanden)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#identifier> "RV-6072-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#material> "wol; textiel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#creator> "mw Anne Winken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6072-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

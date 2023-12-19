@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#name> "AFFICHE 'WAAR TWEE OLIFANTEN VECHTEN' IN HET RIJKSMUSEUM VOOR VOLKENKUNDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#description> "Affiche voor de tentoonstelling 'Waar twee olifanten vechten - Mozambique in oorlog' in het Rijksmuseum voor Volkenkunde van 6 augustus t/m 4 oktober 1992." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#identifier> "RV-6235-163" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-163> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

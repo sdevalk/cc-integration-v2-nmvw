@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <https://colonialcollections.nl/schema#name> "OORLOGSPIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <https://colonialcollections.nl/schema#identifier> "RV-2120-139" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <https://colonialcollections.nl/schema#material> "hout (palm) ; rotan ; riet ; kleefstof ; kalk ; bast (orchideestengel)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-139> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

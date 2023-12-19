@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61720> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61720> <https://colonialcollections.nl/schema#description> "[ST] kraal (14)\r\n[VO] zeer oude kralen van een groot type, bol of cylindervormig" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61720> <https://colonialcollections.nl/schema#identifier> "WM-61720" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61720> <https://colonialcollections.nl/schema#material> "glas\r\nzowel gewonden als geslepen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61720> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

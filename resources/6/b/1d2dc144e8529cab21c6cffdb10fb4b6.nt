@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#name> "JONGE KRIJGER UIT TANIMBAR MET PIJL EN BOOG EN EEN HARNAS VAN KARBOUWENHUID, DE TATANDI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#identifier> "RV-A97-1-38" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#material> "Materiaal: karton ; papier\r\nTechniek: ontwikkel gelatine zilverdruk \r\nMontage: in fotohoekjes in album" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#creator> "P. (Petrus) Drabbe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A97-1-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

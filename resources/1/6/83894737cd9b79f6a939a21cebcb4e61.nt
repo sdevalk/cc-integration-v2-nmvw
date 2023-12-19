@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#name> "VROUWENMES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#description> "Vrouwenmes of ulu, met benen greep en ijzeren blad. Met deze mesjes flensen de vrouwen de zeehonden, schrapen het vet van de huid en doen allerlei huishoudelijk werk. Zo worden de messen ook gebruikt bij het naaien van kleding uit rendier- en zeehondenbont. Iedere vrouw bezit één of meer vrouwenmesjes.  Deze mesjes worden door de mannen gemaakt. Vrouwenmessen zijn nog steeds in gebruik, zij het dan in moderne vorm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#identifier> "RV-6094-296" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#material> "been ; metaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#locationCreated> "North Greenland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#alternateName> "Avanersuaq" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#alternateName> "North Greenland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#alternateName> "Avannaa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-296> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

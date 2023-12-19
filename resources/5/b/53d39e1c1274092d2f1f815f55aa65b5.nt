@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#name> "ROOKKOMBUIS VOOR NOOTMUSKAAT OP EEN ONDERNEMING OP HET EILAND BANDA BESAR, MOLUKKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#description> "Rookkombuis voor nootmuskaat op een onderneming op het eiland Banda Besar, Molukken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#identifier> "TM-10012339" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#material> "fotografische procedés" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012339> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

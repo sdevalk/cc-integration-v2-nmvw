@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#name> "LEPEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#description> "Een lepel gemaakt van brons. De lepel heeft een rond blad. De platte steel is halverwege een slag gedraaid, uitlopend in een punt. Het blad en de steel zijn versierd met graveerwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#identifier> "RV-B163-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B163-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

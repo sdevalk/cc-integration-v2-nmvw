@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#description> "[KL] beige (fond) & blauw & groen;\r\n[PA] dwarsbalken en lengtestreep;\r\n[VO] rondom franje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#identifier> "WM-66825" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#material> "wol (schering & inslag)\r\nspitskeper." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#locationCreated> "Boğazlıyan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-66825> <https://colonialcollections.nl/schema#alternateName> "Boğazlıyan" .

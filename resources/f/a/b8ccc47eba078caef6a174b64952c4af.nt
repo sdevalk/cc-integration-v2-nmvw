@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#name> "GENRESCHILDERING: VEEMARKT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#description> "Twee mannen en twee runderen op een veemarkt. Aan de kleding van de mannen is te zien dat het tafereel zich in de winter afspeelt: beiden hebben gevoerde manchetten om hun armen en een bedekkende muts onder de paardenharen hoed.\r\n\r\nTwo men and two cows at a cattle market. Judging by the costume of the two men, this scene is set in the winter season: both men have fur-lined cuffs and a cap under the horsehair hat that covers the ears." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#identifier> "RV-679-9" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#material> "papier ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-9> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#name> "4.000-TONS DRIJVEND DOK, TANDJONG PRIOK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#description> "In de tijd van de grote houten VOC-zeilschepen was de centrale reparatiewerf van Indië op het eiland Onrust, voor de kust bij Batavia gevestigd. Scheepsbouw vond daar niet plaats. De grotere schepen werden in Nederland gebouwd, de kleinere vooral te Rembang. Met de komst van de stoomschepen, ongeveer vanaf 1860, waren de voorzieningen op Onrust niet langer adequaat. De toen moderne haven van Tandjong Priok kreeg ook geavanceerde faciliteiten voor de reparatie van grote metalen stoomschepen. (P. Boomgaard, 2001)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#identifier> "TM-10010526" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010526> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

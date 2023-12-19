@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#name> "POP VAN EEN MAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#description> "De pop is gemaakt van hout.  Hij wordt gekenmerkt door een gestileerde vormgeving, zonder armen en voeten. Dit vergemakkelijkt wellicht het aankleden van de poppen. Het gaat om een grafvondst.\r\nMeisjes hebben eigen poppen als speelgoed. Ze hebben ze soms namen van voorouders gegeven. De poppen lijken een rol te spelen in het aanleren en onthouden van de ingewikkelde familierelaties. In het begin van de twintigste eeuw verdwijnen dergelijke poppen gaandeweg uit het dagelijks leven, maar worden nog wel vervaardigd ter verkoop aan onderzoekers, handelaren, Denen werkzaam in Groenland en toeristen.\r\nDe moderne houten poppen uit Groenland zijn tegenwoordig sterk gestileerd. Ze zijn te koop bij winkels, hotels, musea, vliegvelden e.d." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#identifier> "RV-690-64a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-690-64a> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

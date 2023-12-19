@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#name> "CLARKS (BIG TREES STATION) CALIFORNIË" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#description> "Clark's Station, het hotel en woonhuis van parkopzichter en gids Galen Clark (1814-1910), de ontdekker van de sequoais (kustmammoetbomen) in 1857 en ijveraar voor bestemming als nationaal park, wat het in 1864 werd. Gerrit Verschuur overnachtte bij Clark, die links bij een groep Indianen staat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#identifier> "WM-911458" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op karton rechtsonder aan voorzijde [handschrift G. Verschuur]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#material> "albuminedruk, mammoetfoto, contactafdruk van glasnegatief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#creator> "Watkins, C.E." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#yearCreatedEnd> "1873"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911458> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

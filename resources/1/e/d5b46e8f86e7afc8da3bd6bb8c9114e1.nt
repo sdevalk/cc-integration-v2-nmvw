@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#name> "MET TWEE BOEKETTEN, VLINDERS EN KAWUNG ALS ACHTERGRONDPATROON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & motief : boeket (2) & vlinder\r\n        badan & achtergrondpatroon & pola : kawung\r\n        pinggir & hoofdpatroon & motief : rank (stengel & bloem &\r\n        blad)\r\n        lange kanten & hoofdpatroon & motief : kemada\r\n        korte kanten & hoofdpatroon & motief : kemada & rand\r\n[KL] badan & ondergrond : okerbruin\r\n        badan & motief : wit & rood & oranje & paars & blauw (fel) &\r\n        donkerblauw & groen (2 tinten)\r\n        pinggir & ondergrond : donkergroen\r\n        pinggir & motief : wit & rood & oranje & paars &\r\n        donkerblauw & blauw (fel) & groen & okerbruin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#identifier> "WM-71423" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#inscription> "1 = [T] TS.S IN KUDUS &\r\n2 = [T] MRK &\r\n3 = [T] No. slendang\r\n           Rp. tss sogan &\r\n4 = [T] Rp. 15.000" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#material> "katoen, synthetische verf\r\ngeweven, batik, cap" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71423> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .

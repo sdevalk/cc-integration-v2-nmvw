@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <https://colonialcollections.nl/schema#description> "Sultan met gevolg." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <https://colonialcollections.nl/schema#identifier> "WM-911016" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <https://colonialcollections.nl/schema#material> "[TK] albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-911016> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

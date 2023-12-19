@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#name> "Muziekinstrument" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#description> "Saron kedemoeng met acht toetsen van zwaar geelkoper, van boven en van onderen plat, met houten pennen bevestigd ; bak van donkerbruin verlakt hout met vergulde randen, het bovenstuk op zijde met vergulde bloemen en bladeren op blauwe grond ; boven de toetsen een horizontaal latje met omhoog gekrulde uiteinden en oplopend middenstuk, versierd met hetzelfde vergulde snijwerk op blauwe grond, met rood gekleurde bovenrand, rustend op zeven rood gekleurde verticale latjes tussen de toetsen ; hamer met slageinde van donkerbruin hout, steel van rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#identifier> "RV-300-553" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#material> "hout ; koper, geelkoper ; rotan ; zijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-553> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .

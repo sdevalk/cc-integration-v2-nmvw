@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#name> "KALLIGRAFIE OP PAPIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#description> "[KL] blauw\r\n[AF] tekst : Zij is naar het oosten gegaan, hij de dichter naar het westen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#identifier> "WM-70973" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#material> "papier, dekkende verf\r\ngekalligrafeerd & gewassen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#creator> "Ghani Alani" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70973> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#name> "OEFENSTOK VOOR KENDO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#description> "Een oefenstok voor het stokvechten, kendo, gemaakt van vier brede platte stukken bamboe, het uiteinde en handvat omwikkeld met zacht leer en voorzien van een kunststof stootplaat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#identifier> "RV-3437-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#material> "Bamboe ; zeemleer ; katoen ; been ; kunststof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#creator> "Yoshitsugu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

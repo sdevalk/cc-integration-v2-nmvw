@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#description> "[KL] turkooiskleurig (doek)  & goud (draad).\r\n[VO] bijbehorende doek met franje aan een kant met gouddraad \r\n        versierd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#identifier> "WM-65595" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#material> "zijde; gouddraad\r\nhandgeweven & decoratie met de supplementaire inslagmethode spaarzamer versierd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65595> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#name> "JLAMPRANG  (= ACHTVOUDIGE STER OF ACHTSPAKIG GELOOFSRAD)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & pola : cakar of jlamprang\r\n        korte en lange kanten & hoofdpatroon & motief :\r\n        geometrisch figuur\r\n[KL] badan & ondergrond : zwart\r\n        badan & motief : bruin & geel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#identifier> "WM-71427" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#inscription> "1 = [T] lumut mas (= goudmos) SWL &\r\n2 = [T] potong\r\n           pandjang istimewa (= extra lang stuk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#material> "katoen, synthetische verf\r\ngeweven, batik, cap, nitik, craquele, machinaal gezoomd (korte kanten)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71427> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

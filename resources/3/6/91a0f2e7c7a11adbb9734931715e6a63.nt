@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#description> "[KL] rood & geel & oranje & wit & rose & groen & roodbruin & cremewit\r\n[VO] mens (1 staand en 1 zittend) (gestileerd)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#identifier> "WM-72166" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#inscription> "[T] ER12816 \"Meeting with the Chieftan\" 54 x90 [2]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#material> "hout, acrylverf (?)\r\ngesneden & gekleurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#creator> "Lucky Sibiya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-72166> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

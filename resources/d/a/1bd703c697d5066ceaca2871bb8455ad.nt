@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN MAN BEHOREND TOT DE STAM DER AQUI-INDIANEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#identifier> "RV-A50-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk \r\nMontage: op karton geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#creator> "John K. Hillers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#creator> "G.V. Barker" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#creator> "Duhem" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#creator> "Alfredo Laurent" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#creator> "Dr. H.F.C. (Herman Frederik Carel) ten Kate jr." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#creator> "W.H. Jackson" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A50-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

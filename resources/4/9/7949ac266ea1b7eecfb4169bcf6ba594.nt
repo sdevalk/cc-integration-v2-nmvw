@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet met een patroon (pamor). Aan één kant van het lemmet is een krul gemaakt (telale gajah). De messing steelring (mendak) bestaat uit een rij kogeltjes die door driehoeken worden begrensd en een parelrand. Het omgebogen heft is van donkerbruin hout gemaakt en op twee plaatsen met snijwerk versierd. De schede (gandar) is rood geverfd en de bootvormige opening (wrangka) met puntige uiteinden is van lichtbruin hout gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#identifier> "RV-300-1429" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; hout ; messing ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-300-1429> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .

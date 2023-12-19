@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59412> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59412> <https://colonialcollections.nl/schema#description> "[VO] kromme steel, ijzeren blad - door kop gedreven - (punt\r\n        steekt door steel, niet geheel plat geslagen)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59412> <https://colonialcollections.nl/schema#identifier> "WM-59412" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59412> <https://colonialcollections.nl/schema#material> "ijzer, hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59412> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

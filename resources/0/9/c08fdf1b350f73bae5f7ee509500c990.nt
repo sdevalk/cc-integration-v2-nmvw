@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#name> "2558 LEVUKA-FIJI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#description> "landschapsfotografie, Levuka Fiji, het centrum voor de europese planters uit het binnenland, van 1875 tot 1882 vestigingsplaats van het Engelse gouvernement, 1884" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#identifier> "WM-412950" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#inscription> "titel & nummer geschreven in negatief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-412950> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

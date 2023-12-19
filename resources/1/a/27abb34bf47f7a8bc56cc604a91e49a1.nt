@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64980> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64980> <https://colonialcollections.nl/schema#description> "[KL] rood;\r\n[VO] knotsvormig. Hout mager lijf met dikke kop erop waarover\r\n        het spanvel met nylondraad is bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64980> <https://colonialcollections.nl/schema#identifier> "WM-64980" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64980> <https://colonialcollections.nl/schema#material> "hout, nylon\r\ngeverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-64980> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

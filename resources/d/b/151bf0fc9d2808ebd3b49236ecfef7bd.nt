@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#description> "1a = buitenetui     ([DE] zigzaglijn\r\n                             [KL] naturel & paars)\r\n1b = binnenetui    ([KL] naturel)\r\n1c = schuifdeksel ([DE] geometrische figuren\r\n                             [KL] naturel & paars & geel)\r\n2a = buitenetui     ([DE] zigzaglijn\r\n                             [KL] naturel & paars)\r\n2b = binnenetui    ([KL] naturel)\r\n2c = schuifdeksel ([DE] geometrische figuren\r\n                             [KL] naturel & paars & groen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#identifier> "WM-71590" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#material> "riet of palmblad (?), verf\r\ngevlochten (diagonale dichte éénslag), ingevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#locationCreated> "Tondano" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71590> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

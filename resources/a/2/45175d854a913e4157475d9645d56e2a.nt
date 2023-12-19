@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#name> "VERSIERINGSGORDEL VOOR MANNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#description> "Mannengordel, versierd met zwarte pitten en geslepen nassaschelpjes.\r\nTypische gordel voor de noordkust van Papua. Deze gordels werden vooral in Tarfia gemaakt en verhandeld over een groter gebied (Van der Sande).\r\n\r\nVervaardiging\r\nVlecht-en rijgwerk. Van de nassaschelpjes (of fuikhoorntjes) is de punt afgeslepen zodat alleen de vlakke mond is overgebleven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#identifier> "TM-666-236" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#locationCreated> "Distrik Kemtuk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-666-236> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

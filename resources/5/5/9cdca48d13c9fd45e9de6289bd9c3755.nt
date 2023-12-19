@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#description> "Ansichtkaart met een afbeelding van het Residentiehuis te Magelang.\r\n\r\nmiddenonder op de voorkant staat vermeld: 'Residentiehuis te Magelang.'\r\nlinks overdwars staat vermeld: 'Uitg. H.W Maresch, Magelang. Phototype P.A. Geerts, Nijmegen'\r\n\r\nOngedeelde achterkant met bovenaan vermeld 'BRIEFKAART'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#identifier> "7082-nf-787" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#material> "papier, autotypie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#creator> "P.A. Geurts, Nijmegen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#creator> "H.V. Maresch, Boekhandel, Drukkerij en Binderij" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-787> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

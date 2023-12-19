@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#name> "WATERKETEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#description> "Zilveren waterketel met deksel. Het oppervlak van de buik van de ketek is in het midden en aan de bovenzijde met uitstekende punten beslagen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#identifier> "RV-B226-386" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#material> "zilver ; smeedwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B226-386> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

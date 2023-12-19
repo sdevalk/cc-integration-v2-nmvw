@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#name> "DE BOROBUDUR ALS BEDEVAARTSOORD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#description> "De Borobudur in 'vroeger tijden', als bedevaartsoord. De twee figuren in witte gewaden rechts stellen de grootvader van de schilder voor (met baard) Dr. D.A. Hooijer en zijn oom Gijs Hooijer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#identifier> "TM-75-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#material> "Tempera op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#creator> "G.B. (Gijsbert Brand) Hooijer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-75-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

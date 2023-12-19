@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61677> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61677> <https://colonialcollections.nl/schema#description> "[KL] rose & geel & groen\r\n[ST] kraal (inheems)\r\n[VO] onregelmatige cylindrische vorm" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61677> <https://colonialcollections.nl/schema#identifier> "WM-61677" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61677> <https://colonialcollections.nl/schema#material> "glas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-61677> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

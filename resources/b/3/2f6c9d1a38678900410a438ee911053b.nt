@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zonder bijschrift \r\n\r\nOpname toont een groep mensen, duidelijk poserend voor de foto. Het zijn voor het merendeel blanken, mannen vrouwen en kinderen, aangevuld met enkele inheemse mannen. De mannen zijn zowel in militair uniform als witte dienstkleding. Dames en kinderen in dagelijkse kledij.\r\nOp de achterkant van de foto staat geschreven 'familie Knaap' (of Knapp)\r\nDe vrouw en het meisje linksvoor zijn gemerkt met een rode pen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#identifier> "7082-nf-700-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#material> "papier, ontwikkeld, afgedrukt, daglicht-collodium-zilverdruk?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-700-18> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

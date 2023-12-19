@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#name> "AMULETRING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#description> "Lang dubbel koord van touw omnaaid met leer met daaraan bevestigd negen flapjes, met raffia dichtgenaaid. Er hangt ook een dubbele ijzeren ring aan, op drie plaatsen omnaaid met leer waar iets onder zit. De pakje bevatten waarschijnlijk een plantaardig medicijn in poedervorm, of geknoopte touwtjes waar spreuken over uitgesproken zijn. Ter genezing, bescherming of om iets te verkrijgen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#identifier> "RV-739-1266" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#material> "leer ; ijzer ; vezel, raffia ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-1266> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

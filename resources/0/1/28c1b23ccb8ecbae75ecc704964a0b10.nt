@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#name> "ARJUNA-WIWAHA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#description> "De verleiding van Arjuna is hier op de achterkant van glas geschilderd. Achterglasschilderingen werden soms gebruikt als versiering van huistempels.\r\nDe oppergod Shiva bezoekt Arjuna in de gedaante van een rsi, een heilige (links afgebeeld). Volgens het oorspronkelijke verhaal is het de god Indra die hem bezoekt in deze gedaante, om achter de beweegredenen van Arjuna (rechts afgebeeld) voor zijn meditatie te komen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#identifier> "WM-65407" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#inscription> "Inscriptie in Balinees: \"Bhatara Siwa; Sang Rsi, Arjuna." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#material> "glas, muurverf\r\nbeschilderd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#creator> "Jero Dalang Diah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-65407> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

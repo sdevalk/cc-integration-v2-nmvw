@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#name> "Tempelhanger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#description> "Een platte, gedraaide, met bladfiguren beschilderde houten schijf, waarop een hoge gedraaide knop, die aan de onderkant een rotanring draagt, waaraan rondom snoeren chineese munten zijn opgehangen en waaraan van dergelijke snoeren twee met de toppen tegen elkaar rus- tende kegels (tjili-figuur) hangen, die een tweede rotan ring dragen; ook aan deze tweede rotan ring een groot aantal snoeren munten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#identifier> "RV-2407-198" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#material> "hout ; rotan ; metaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2407-198> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

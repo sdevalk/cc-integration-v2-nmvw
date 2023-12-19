@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#name> "KRUIK IN DE VORM VAN EEN HOOFD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#description> "Kruik in de vorm van een horizontaal liggend hoofd met de hals op het voorhoofd. In de oren lijkt hij oorstaven te dragen. Hij heeft een puntige kin.\r\n\r\n11-10-2005: Ruw zanderig aardewerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#identifier> "RV-2971-119" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#locationCreated> "Nicaragua" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#countryCreated> "Nicaragua" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#alternateName> "Republic of Nicaragua"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2971-119> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

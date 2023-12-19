@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#name> "WANDELSTOK VAN PAKU BUWONO X  & HOES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#description> "1 = wandelstok ([ST] knop & band & punt\r\n[DE] diamant (knop)\r\n[VO] conisch\r\n[KL] bruin (gevlamd)\r\n2 = hoes met franje\r\n\r\nDe heer Van Blommestein Sr. was arts in Sukabumi." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#identifier> "WM-62531" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#inscription> "[T] PBX;[B] P = 3 diamanten & B = 3 diamanten & X = 4 diamanten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#material> "hout, goud, diamant, koper, katoen\r\ngegoten & verguld & gesneden & gepolijst & gedraaid & gegoten & geweven (machinaal)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-62531> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59750> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59750> <https://colonialcollections.nl/schema#description> "[VO] grote hanger - kalao-vogel, bedekt met bruine stoflaag.\r\n[DE] kop-groot: halve cirkel - snavel en twee lellen; vleugels\r\n        gebogen cirkel; driehoekige staart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59750> <https://colonialcollections.nl/schema#identifier> "WM-59750" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59750> <https://colonialcollections.nl/schema#material> "messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59750> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

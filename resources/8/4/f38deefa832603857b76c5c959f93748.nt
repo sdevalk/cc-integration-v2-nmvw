@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#name> "STADSGEZICHT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#description> "Aan de linker en rechter zijde van een plein staan lage barakken waarheen mensen lopen, In het midden op de achtergrond een gebouw met een torentje in het midden waarvoor een wit bouwsel met drie hoge doorgangen met puntbogen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#identifier> "RV-A440-aa-290" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#material> "Materiaal: papier \r\nTechniek: ontwikkel gelatine zilverdruk\r\nMontage: in album geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A440-aa-290> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
