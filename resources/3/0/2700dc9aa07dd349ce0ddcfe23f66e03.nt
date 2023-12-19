@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#name> "MASKER VAN GEZICHT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#description> "Zou een Oudje, een Viejito kunnen zijn uit de Danza de los Viejito. Zie o.a. La Tierra y el Paraiso blz. 222 afb. 376.\r\nEen carnavalsmasker kan uiteraard ook mogelijk zijn evenals een rastrero." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#identifier> "TM-5730-160" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#material> "hout ; verf ; snijden ; polychromie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-160> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

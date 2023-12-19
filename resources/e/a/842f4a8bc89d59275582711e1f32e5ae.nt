@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#name> "WIKKELDOEK VOOR VROUWEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#description> "Gemaakt volgens de adire oleko, een afbindtechniek, of uitsparingstechniek van cassavepap en indigo, een techniek die alleen door vrouwen werd uitgevoerd. De doek werd en wordt soms nog om het lichaam gewikkeld. De motieven hebben oude betekenissen. De indigo wordt lokaal gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#identifier> "TM-5024-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#inscription> "R N\r\nR A" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#material> "Katoen ; indigo ; uitsparingstechniek ; afbindtechniek ; naaien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5024-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

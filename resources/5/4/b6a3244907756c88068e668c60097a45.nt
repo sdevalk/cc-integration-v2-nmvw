@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#name> "ONTWERPTEKENING VAN TAPIJT 'ZONNEVROUW'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#description> "Ontwerptekening behorende bij het tapijt 'zonnevrouw' van de Iraanse tapijtontwerper Rassam Arabzadeh (5979-151a).\r\n\r\nVervaardiging\r\nDe ontwerptekening is met de hand ingetekend en ingekleurd. Het papier is bevestigd op board." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#identifier> "TM-5979-151b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#creator> "Rassam Arabzadeh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-151b> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .

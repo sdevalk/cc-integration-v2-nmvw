@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#name> "DE GROTE HOLLANDSE KERK OF KRUISKERK LANGS DE KALI BESAR OOST IN JAKARTA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#description> "Gravure naar een oorspronkelijke tekening van Johannes Rach, aanwezig in het Rijksmuseum, afdeling Nederlandse geschiedenis. Op de achtergrond de Hollandse Kerk of Kruiskerk. Het water moet dan de Kali Besar Oost zijn. Langs de kade loopt een vrouw met achter haar een tot slaaf gemaat iemand de een parasol boven haar hoofd houdt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#identifier> "TM-2989-7b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1781"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2989-7b> <https://colonialcollections.nl/schema#yearCreatedStart> "1781"^^<http://www.w3.org/2001/XMLSchema#integer> .

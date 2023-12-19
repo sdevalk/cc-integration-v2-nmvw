@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#name> "EEN PALIKAT-DOEK, ALS KLEDINGSTUK GEDRAGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#description> "De doek is afkomstig van Palikat (zuidoostkust van India) en werd, volgens de bijgeleverde informatie, ten tijde van verzamelen graag door de Acehers gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#identifier> "TM-45-86b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#material> "Katoen ; weven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-45-86b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

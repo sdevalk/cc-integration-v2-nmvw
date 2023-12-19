@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#name> "HOUTEN PORTRETMASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#description> "Over het gebruik van de Bassa maskers is weinig bekend. Dit masker behoort tot de categorie 'portretten', dat wil zeggen dat hij terug wijst naar de voorouders en vooral bij dansfeesten gebruikt wordt (Meneghini 1972: 47)\r\nDe geopende mond gaf aan dat de voorouder hierdoor sprak.\r\nHet masker werd niet direct voor het gezicht gedragen, maar schuin op een rieten (of van dierenhuid) hoofdkap bevestigd, het geheel op het hoofd. Door de oogspleten werd dus niet gekeken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#identifier> "TM-4918-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4918-20> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .

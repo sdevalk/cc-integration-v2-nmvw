@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#name> "PRENT MET VOORSTELLING VAN DURGA OP EEN TIJGER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#description> "De hindoegodin Durga, rijdend op haar tijger. De zwaarbewapende Durga keert terug van een gevecht. In een van haar acht handen houdt zij het afgeslagen hoofd van een demonische tegenstander." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#identifier> "TM-5752-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#material> "Kleurenlithografie op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

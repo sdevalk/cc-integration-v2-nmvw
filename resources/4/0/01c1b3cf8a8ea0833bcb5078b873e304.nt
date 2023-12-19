@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#name> "WATERPIJP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#description> "De waterpijp is via de Arabische landen in Iran geintroduceerd. In het theehuis en thuis wordt de waterpijp gerookt, meestal met meerdere mensen. Ook vrouwen roken de waterpijp, sommigen doen dit alleen thuis. Er zijn in Teheran speciale winkels voor waterpijptabak waar je kunt kiezen uit allerlei soorten: honing, appel, peer, aardbei etc. \r\n\r\nIn verschillende steden in Iran worden verschillende typen waterpijpen gemaakt, van hout, keramiek, metaal of glas." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#identifier> "TM-5979-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-20> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .

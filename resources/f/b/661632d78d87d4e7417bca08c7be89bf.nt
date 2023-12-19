@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49472> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49472> <https://colonialcollections.nl/schema#description> "1 = kris       ([ST] steelring met inten\r\n                    [VO] geslangeld met 9 luk (lemmet) &\r\n                            wayangfiguur met slang op rug (greep)\r\n                    [DE] snijwerk (greep))\r\n2 = schede  ([ST] zilveren overschede met drijfwerk &\r\n                            wrangka (= schip) met snijwerk\r\n                    [DE] drijfwerk : florale figuren & slangen & vogels\r\n                            snijwerk : florale figuren)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49472> <https://colonialcollections.nl/schema#identifier> "WM-49472" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49472> <https://colonialcollections.nl/schema#material> "pamor-ijzer, hout, zilverlegering (overschede), goudverf, steen (inten)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49472> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

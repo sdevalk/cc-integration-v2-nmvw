@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#name> "MONDHARP VAN BAMBOE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#description> "Mondharpje, gesneden uit de epidermis van een dunne bamboestengel. De benen lopen dun toe. Aan de brede kant is een koordje bevestigd. Bij de bergpapoea's een typisch manneninstrument." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#identifier> "TM-5921-147" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#locationCreated> "Baliem valley" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#alternateName> "Baliem river valley" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#alternateName> "Balim valley" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5921-147> <https://colonialcollections.nl/schema#alternateName> "Balim-Wamena valley" .

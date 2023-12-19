@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#name> "RUBBEREN EMMER OM WATER UIT TE PUTTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#description> "De emmer is vervaardigd van stukken gebruikte autoband. De onderdelen zijn samengevoegd met ijzeren krammen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#identifier> "TM-4956-216" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#material> "rubber ; ijzerlegering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-216> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#name> "KAREL RIJNEN, KAPITEIN DER INFANTERIE, NA DE UITREIKING VAN DE ERESABEL IN SOERABAJA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#description> "Karel Rijnen, Kapitein der Infanterie, na de uitreiking van de eresabel in Soerabaja. De eresabel is een van de hoogste Nederlandse onderscheidingen voor dapperheid. Alleen de Ridders van de Militaire Willems-Orde (MWO) komen hiervoor in aanmerking. De koning(in) kent een versierde sabel toe aan een officier en deze draagt dit opvallende wapen bij zijn uniform. In Nederlands-Indië zijn 106 eresabels verleend." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#identifier> "TM-60030001" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60030001> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .

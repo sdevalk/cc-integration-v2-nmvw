@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#description> "Een gebouw. Voor het gebouw staan personenauto's. Voor het gebouw ligt een grasveld.\r\nAchterzijde Prentbriefkaart:\r\nGewestelijk bureau: dus hier is de zetel van het bestuur van het gewest of Residentie Manado. Met de kantoren van den Controleur van A.R.  en van den gewestelijken secretaris ligt aan Resident .... Hier vlak achter de zee met de altijd onder storm liggen de gouverments.  Storme: \"Deneb\"- Rechts hier te ... de gevangenis of \"Petoet\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#identifier> "WM-431588" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#inscription> "correspondentie; achterzijde; geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#creator> "Que, Gebroeders" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#locationCreated> "Kota Manado" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Manado" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-431588> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

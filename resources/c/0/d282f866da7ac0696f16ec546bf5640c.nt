@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#name> "EEN MILITAIR MET DE NEDERLANDSE VLAG IN DE OPTOCHT DOOR DE STRATEN VAN PALEMBANG TIJDENS DE VIERING VAN HET REGERINGSJUBILEUM VAN KONINGIN WILHELMINA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#identifier> "TM-60051094" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#creator> "C.H. (Christoffel Hendrik) Japing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#creator> "Koningin Wilhelmina" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60051094> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .

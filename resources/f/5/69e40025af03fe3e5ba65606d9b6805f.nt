@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <https://colonialcollections.nl/schema#name> "BEENRAMMELAAR VAN LEER EN VRUCHTSCHALEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <https://colonialcollections.nl/schema#description> "De rammelaars worden bij diverse dansen door de dansers om de benen gedragen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <https://colonialcollections.nl/schema#identifier> "TM-5730-226b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-226b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

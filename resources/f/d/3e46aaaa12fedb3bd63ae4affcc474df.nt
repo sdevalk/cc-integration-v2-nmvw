@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#name> "PORTRET VAN WAMI, EEN TOLK VAN DE MARIND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#description> "Tekening door Pater P. Vertenten van een man, de tolk Wami. De portrettekening is en profil. Hij is afgebeeld op een boot op de Merauke rivier naast en tussen blikken Autoline en scheepstouw. Blauwe achtergrond. Linksboven de naam \"WAMI\", rechtsboven \"onze tolk\". \r\n\r\nDe tolk Wami is hier misschien afgebeeeld tijdens een transport van geneesmiddelen (Mal. obat) over de Merauke-rivier.\r\nEen andere mogelijkheid, misschien meer voor de hand liggend, is dat de tekening gemaakt is op de zijrivier Obat van de grotere rivier de Maro, beide verlengingen van de Merauke-rivier." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#identifier> "TM-5969-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#material> "Potlood en inkt op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .

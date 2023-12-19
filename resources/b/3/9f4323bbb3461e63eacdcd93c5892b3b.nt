@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#name> "KATOENEN DEURHANGER MET GEBORDUURDE BLOEMMOTIEVEN EN PAPEGAAIEN EN VERSIERD MET SPIEGELTJES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#description> "Het borduurwerk is voornamelijk uitgevoerd in een soort kettingsteek, visgraat en festonsteek. Dit laatste om de spiegeltjes vast te houden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#identifier> "TM-5119-45" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#material> "katoen ; mica ; zijde ; naaien ; borduren ; met spiegeltjes versierd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#locationCreated> "Kutch" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#alternateName> "Kutch district"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#alternateName> "Kachchh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-45> <https://colonialcollections.nl/schema#alternateName> "Kachchh"@en .

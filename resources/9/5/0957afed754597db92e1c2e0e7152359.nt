@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5124> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5124> <https://colonialcollections.nl/schema#description> "[ST] rand & segment (8) & vlechtwerkbanden (2 aan\r\n        buitenzijde en 1 aan binnenzijde) & uitsnijwerk &\r\n        kwast met pluimen & ophanglus (2)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5124> <https://colonialcollections.nl/schema#identifier> "WM-5124" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5124> <https://colonialcollections.nl/schema#material> "silar (?)palmblad, hout, katoen, papier (?), mica, verf ;\r\nplantenvezel (naaigaren)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5124> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

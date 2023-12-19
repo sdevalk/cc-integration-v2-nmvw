@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#name> "KLEURENLITHO VAN SHIVAJI EN ZIJN GURU RAMDAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#description> "Shivaji Bholse (1627-1680) was de oprichter van het Mahratta rijk (beginnend in het huidige Maharashtra) dat hij ontworstelde aan het Mughal gezag. Hij werd 1674 gekroond.\r\nZijn geestelijke steun en toeverlaat was zijn guru Ramdas (1608-1681).\r\nOp deze prent is Shivaji rechts afgebeeld, geknield voor Ramdas die respectvol onder een banier zit, een voorrecht voor vorsten en grote religieuze leiders." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#identifier> "TM-5752-66" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#material> "Kleurenlithografie op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#creator> "Ravi Varma Press" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5752-66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

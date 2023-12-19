@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#name> "REPRODUCTIE VAN EEN SCHILDERIJ GETITELD BALISCHE EDELMAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#description> "Ingelijste zwart-wit foto achter glas, een reproductie van een schilderij door Sayers. Afgebeeld is een zittende Balische edelman met zijn kris achter in de kleding gestoken. Gesigneerd rechtsonder: Ch. Sayers." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#identifier> "TM-5977-13" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#creator> "Charles Sayers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5977-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

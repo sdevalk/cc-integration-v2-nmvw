@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <https://colonialcollections.nl/schema#name> "SPIEGEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <https://colonialcollections.nl/schema#description> "Spiegel in brede houten marquetterie lijst bestaand uit 6 banen waarvan de middelste 4 de vorm van kleine driehoekjes hebben. Deze zijn ingelegd met witte stukjes steen (parelmoerimitatie) waarvan inmiddels het gros is verdwenen. De banen 1 en 6 hebben benen versieringen. Langs de opstaande zijden nog enkele brokstukjes van een extra sierlijst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <https://colonialcollections.nl/schema#identifier> "TM-4849-315" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-315> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

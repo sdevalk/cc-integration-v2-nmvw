@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#name> "IDENTITEITSBEWIJS UIT DE JAPANSE BEZETTINGSTIJD TEN NAME VAN M.M.H. AMENT UIT BANDUNG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#description> "Met een pasfoto, vingerafdruk en een aangehecht bewijs van inenting tegen de pokken. Jaar: 1943, afgestempeld door de Japanse autoriteiten in Soekabumi (Java)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#identifier> "TM-5767-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5767-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .

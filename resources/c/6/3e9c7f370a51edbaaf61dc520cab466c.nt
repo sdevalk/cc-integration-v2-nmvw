@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#name> "RATEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#description> "Ratelaar in de vorm van een grote cilindervormige rood en zilverkleurig geverfde, houten batterij \"Sony Super\" met lichtbruine houten, eivormige greep met profielrandjes en een rood met wit gestreepte nylon draagband.\r\n\r\nVervaardiging\r\nHolle houten cilinder met dichtgemaakte zijkanten rondom een kern van 2 latjes, waarvan de losse uiteinden passen in het houten tandrad van de greep." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#identifier> "TM-5891-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#locationCreated> "La Paz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#alternateName> "Ciudad La Paz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#alternateName> "Nuestra Señora de La Paz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5891-1> <https://colonialcollections.nl/schema#alternateName> "La Paz" .

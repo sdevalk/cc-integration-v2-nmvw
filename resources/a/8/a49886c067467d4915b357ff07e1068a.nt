@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#name> "BAMBOE TABAKS- EN WICHELKOKER MET BATAKS SCHRIFT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#description> "Koker voor tabak van bamboe met houten stop. Door de Batakse tekst vermoedelijk ook de functie van wichelinstrument.\r\n\r\n Het gebruik van sirih was en is wijd verbreid in heel Indonesie. Het is een roesmiddel (drugs) dat op een ingewikkelde manier klaar wordt gemaakt voor gebruik. Daarom tref je op een kompleet sirihstel  5 onderdelen aan.  Eén voor de betel-bladeren, één voor de kalk (zit er vaak nog in) ,één voor de betelnoot, enz. Het gebruik van sirh had een centrale plaats in het sociale gebeuren. Vaak werden zelfs betalingen gedaan in betelnoten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#identifier> "TM-512-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-4> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

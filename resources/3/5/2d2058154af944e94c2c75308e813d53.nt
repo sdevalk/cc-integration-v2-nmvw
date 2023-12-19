@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#description> "Een portret van een indiaan. Het jongetje heeft een tas in zijn jongetje staat op een kleed.\r\n\r\ntekst achterzijde prentbriefkaart: Little Cheyenne Bearing Pipe is the title of this fine photographic study of a shy little Cheyenne boy made in frontier photographer L.A. Huffman's old studio in Miles City Territory.\r\nThe handcoloured photograph from wich this picture was made is on display at Coffrin's Old West Gallery in Miles City, Montana." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#identifier> "WM-430548" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#material> "[MT] papier;" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#creator> "Huffman, L.A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#creator> "Curteichcolor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-430548> <https://colonialcollections.nl/schema#yearCreatedStart> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .

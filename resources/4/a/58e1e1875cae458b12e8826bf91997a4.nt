@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#name> "MUTS GEREGEN UIT KRALEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#description> "De muts is vervaardigd uit aan snoeren geregen kralen. Als rijgdraad is vezeltouw gebruikt. De snoeren worden tot één geheel bij elkaar gevoegd door een dubbele getwijnde vezeldraad die loopt van het middelpunt van de muts naar de onderrand, dwars op de richting van de kralensnoeren. Deze getwijnde vezeldraden verdelen de ronde kralenmuts in partjes die elk hun eigen kleur hebben. Twee van de afhangende snoeren hebben aan het uiteinde een omwinding van dun ijzerdraad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#identifier> "TM-2807-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#material> "glas ; ijzer ; plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2807-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50460> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50460> <https://colonialcollections.nl/schema#description> "[KL] zwart (hout)\r\n[VO] de schijfvormige knoppen worden bekroond door een \r\n        kegelvormig topstuk met uitstekende rand; dat glanzend \r\n        gepolijst is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50460> <https://colonialcollections.nl/schema#identifier> "WM-50460" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50460> <https://colonialcollections.nl/schema#material> "hout\r\ngepolijst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50460> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

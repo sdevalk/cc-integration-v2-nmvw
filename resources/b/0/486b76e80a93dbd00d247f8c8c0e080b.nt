@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52050> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52050> <https://colonialcollections.nl/schema#description> "[KL] donkerbruin;\r\n[VO] min- of meer peervormig kokertje met hoog halsje en \r\n        aangesneden oor.\r\n[DE] snijwerkversiering: vier banden met vertikale groefjes \r\n        tussen drie gladde banden.\r\n        In opening houten stopje: lange pin met knopje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52050> <https://colonialcollections.nl/schema#identifier> "WM-52050" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52050> <https://colonialcollections.nl/schema#material> "hard hout\r\nsnijwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52050> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

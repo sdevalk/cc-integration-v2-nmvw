@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#description> "[ST] gevlochten band (bij rand) & gevlochten koord" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#identifier> "WM-5036" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#inscription> "[T] Poso No. 8 hoofddeksel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#material> "kalebas, plantaardig materiaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5036> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

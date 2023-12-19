@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#description> "Afbeelding in blauw / wit van een straat met woonhuizen waar de tram doorheen rijdt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#identifier> "WM-433481" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#inscription> "titel ; voorzijde ; gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#material> "papier\r\ngedrukt met blauwe inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#creator> "Casa Azul, J. la & Gomez, H.D.C." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#locationCreated> "Maracaibo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#alternateName> "Maracaibo"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-433481> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

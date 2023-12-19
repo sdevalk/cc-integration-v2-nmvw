@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <https://colonialcollections.nl/schema#name> "OORHANGER, ONDERDEEL VAN EEN VIERDELIGE SIERADENSET" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <https://colonialcollections.nl/schema#description> "De sieradenset is bestemd voor een vrouw en afkomstig van de Samburu.\r\n\r\nVervaardiging\r\nDe verschillende rijen kralen worden geregen en aan elkaar vastgemaakt door rubberen slangetjes en ijzerdraad. De schijven van metaal zijn aan de kettingen vastgemaakt met behulp van ijzerdraad. \r\nHet vervaardigen van kralensieraden wordt door vrouwen gedaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <https://colonialcollections.nl/schema#identifier> "TM-5104-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5104-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

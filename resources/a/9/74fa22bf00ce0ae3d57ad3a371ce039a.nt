@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <https://colonialcollections.nl/schema#name> "ZILVEREN POT IN DE VORM VAN EEN MANGISTANVRUCHT EN MET BIJBEHOREND KLEIN BORD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <https://colonialcollections.nl/schema#description> "Volgens de schenkster gemaakt van de zilveren tressen van het uniform van Generaal Jacobus Vetter (2 december 1837 - 2 december 1907)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <https://colonialcollections.nl/schema#identifier> "TM-2783-1a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2783-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

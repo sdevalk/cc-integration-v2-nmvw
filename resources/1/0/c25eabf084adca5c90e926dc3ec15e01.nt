@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <https://colonialcollections.nl/schema#name> "ROLLER OPHALERGETOUW MET KATOENEN IKATWEEFSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <https://colonialcollections.nl/schema#description> "Op het weeftoestel bevindt zich een gedeeltelijk afgewerkt weefsel. Aanwezig zijn: wit houten borstboom: 4x1,5 cm doorsnee, 58 cm lang, sabel: 61 cm lang, ophalersstaaf: 50 cm lang, 1,25 cm dik, 2 kruisingstaafjes: 40 cm lang, 1 cm breed, kettingboom: 48 cm lang, 2,5 cm dik.\r\nDe lendengordel, roller, tempel en de twee linialen ontbreken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <https://colonialcollections.nl/schema#identifier> "TM-48-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-48-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#description> "Een grote, uit vele stukken samengevoegde lap rood zijden satinet 4 : 1;schering 60, inslag 19 draden per cm.\r\nHet gehele veld met bloem- en bladranken, die een lijstwerk vormen, dat puntige ovalen omsluit. In deze ovalen een grote chrysant(?) met bladeren. Dit ornament geheel uitgevoerd in gele en zilverwitte gebrocheerde draden, met contouren van groen.\r\nHet ornament is hier en daar zeer beschadigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#identifier> "WM-47110" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#material> "zijde\r\ngeweven, gebrocheerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#yearCreatedEnd> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47110> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

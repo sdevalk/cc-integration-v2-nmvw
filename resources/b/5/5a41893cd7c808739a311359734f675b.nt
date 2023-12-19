@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#name> "DECORATIE VAN KORENAREN EN ROZET VAN MAISBLAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#description> "Lijkt op een decoratie voor religieuze doeleinden zoals processie of altaarversiering; afsmeken van vruchtbaarheid of dank voor goede oogst.\r\nHet object bestaat uit samengebundelde gedroogde aren en een van plantaardige vezels (maisblad?) gevlochten rozet." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#identifier> "TM-5730-227" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#material> "plantaardig materiaal ; vlechten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-227> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#name> "LOKCAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & pola : semen condro\r\n        pinggir & hoofdpatroon & motief : meander\r\n        korte kanten & hoofdpatroon & motief : kemada\r\n        seret & hoofdpatroon & motief : craquele\r\n        badan & achtergrondpatroon & design-element : cocohan\r\n[KL] ondergrond : naturel\r\n        motief : donkerbruin\r\n[TY] lokcan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#identifier> "WM-53662" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#material> "zijde, natuurlijke verf\r\ngeweven, batik, tulis, cocohan, craquele, handgedraaid (franje)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#locationCreated> "Rembang Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#alternateName> "Rembang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#alternateName> "Rembang Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Rembang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-53662> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Rembang" .

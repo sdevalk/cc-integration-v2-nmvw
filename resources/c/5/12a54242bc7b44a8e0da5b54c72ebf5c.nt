@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50469> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50469> <https://colonialcollections.nl/schema#description> "[VO] ronde servetring. Het buitenoppervlak is hol en aan de \r\n        randen versierd met ingesneden ringbanden, die met \r\n        zwartsel opgevuld zijn.\r\n[DE]  de middenband is versierd met ingesneden cirkeltjes,\r\n         telkens afwisselend in groepjes van vijf en drie. In ieder \r\n         cirkeltje is het middelpuntje aangegeven.\r\n         Cirkels en middelpuntjes eveneens met zwartsel opgevuld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50469> <https://colonialcollections.nl/schema#identifier> "WM-50469" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50469> <https://colonialcollections.nl/schema#material> "ivoor (?)\r\ngedraaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-50469> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

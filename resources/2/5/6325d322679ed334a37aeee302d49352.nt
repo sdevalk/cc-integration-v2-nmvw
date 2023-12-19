@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#name> "MANNEN TIJDENS HET DOEN VAN DE WAS EN HET BADEN IN DE MOLENVLIET, BATAVIA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#description> "Mannen tijdens het doen van de was en het baden in de Molenvliet, Batavia. Links op de foto is een deel van het pand van Tek Sun Ho (\"Eerste Weltevredensche Koffiebranderij\") te zien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#identifier> "TM-60026243" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026243> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

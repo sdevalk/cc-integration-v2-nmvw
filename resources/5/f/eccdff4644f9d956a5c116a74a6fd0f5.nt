@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#name> "TEKENING VAN DE WATERVAL VAN DE TSHOPO DOOR PATER P. VERTENTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#description> "Tekening in inkt en potlood door Pater P. Vertenten. Afgebeeld is, in getekende lijst, de 'waterval v.d. Tshopo', aldus de tekst rechtsboven. Gesigneerd rechtsboven P. Vert. 10-8-28." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#identifier> "TM-5969-178" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5969-178> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

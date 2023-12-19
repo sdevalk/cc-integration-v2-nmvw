@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#name> "LOKCAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & pola : lokcan\r\n        badan & hoofdpatroon & motief : stengel & bloem & blad &\r\n        mythologische vogel : feniks\r\n        pinggir & hoofdpatroon & motief : rank (stengel & bloem &\r\n        blad)\r\n        pinggirrand & hoofdpatroon & motief : meander\r\n        korte en lange kanten & hoofdpatroon & motief : kemada\r\n        seret (lange kanten) & hoofdpatroon & motief : craquele\r\n[KL] ondergrond : lichtblauw\r\n        motief : bruin & zwart" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#identifier> "WM-51314" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#material> "viscose\r\ngeweven, batik, cap, craquele, handgedraaid (franje)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51314> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .

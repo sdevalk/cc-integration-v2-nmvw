@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#description> "Kom met aan de zijkanten vier lange opgevouwen ledematen, een korte staart en een kop die niet origineel is. Het gaat hier mogelijk om een vleermuis (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#identifier> "WM-55944" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#yearCreatedEnd> "1499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55944> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

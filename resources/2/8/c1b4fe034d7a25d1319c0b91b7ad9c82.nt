@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52281> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52281> <https://colonialcollections.nl/schema#description> "[DE] vogel\r\n        Houten slot komt sterk overeen met 52280, hier echter één\r\n        vogel op het huis, hout niet geverfd; op huis en grendel\r\n        eenvoudige geometrische motieven ingekrast;\r\n[VO] ijzeren beschermingsplaatje op grendel, waarin een \r\n        langwerpig gat en één rond gaatje. \r\n        Krammen voor bevestiging huis aanwezig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52281> <https://colonialcollections.nl/schema#identifier> "WM-52281" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52281> <https://colonialcollections.nl/schema#material> "hout, ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-52281> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

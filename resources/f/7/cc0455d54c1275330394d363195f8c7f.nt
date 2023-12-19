@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN BAND VAN EEN PLANK VOOR DE AFWERKING VAN HET LEMMET VAN EEN DOLK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#description> "De plank wordt gebruikt voor het polijsten en/of schoonmaken van het lemmet van een Jemenitische dolk (jambiya). Het stukje rubber wordt onder het lemmet gelegd om beschadiging te voorkomen. Het lemmet wordt met leren riempjes op de plank bevestigd. De gevlochten band wordt om het handvat en de steel van de plank gewikkeld om deze stevig te vast te zetten. De band is geïmpregneerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#identifier> "TM-4923-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#material> "vezel ; vlechten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4923-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

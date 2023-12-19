@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#name> "GROTE HERDENKINGSCHAAL VAN ZILVER MET ZES BIJBEHORENDE KLEINE SCHAALTJES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#description> "Grote ovale schaal van Yogya-zilver; in de achterkant is gegraveerd \"EEN HERINNERING VAN UWE AANPLANTMEDEWERKERS  S.F.BANDJARATMA 1954\"; De schaal is onderdeel van een set van een grote en zes kleine schalen.\r\n\r\nVervaardiging\r\nYogya zilver. De zilveren schaal is in vorm gedreven; de decoratie is door ponsen aangebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#identifier> "TM-5948-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#inscription> "In de achterkant staat gegraveerd: \"EEN HERINNERING VAN UWE AANPLANTMEDEWERKERS S.F.BANDJARATMA 1954'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5948-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

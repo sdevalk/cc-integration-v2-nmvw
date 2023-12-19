@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#name> "BRONZEN CONTRACT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#description> "Bronzen plaat voorzien van ingekerfde tekst. Het betreft een betalingsopdracht van een maharaja om 500 rupees te voldoen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#identifier> "TM-5119-33" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#yearCreatedEnd> "1778"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5119-33> <https://colonialcollections.nl/schema#yearCreatedStart> "1778"^^<http://www.w3.org/2001/XMLSchema#integer> .

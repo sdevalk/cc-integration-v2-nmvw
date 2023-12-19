@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#name> "STENEN MASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#description> "Stenen masker, of toevallig gevormde steen.\r\nVolgens verwerver Van Roon zou het een heel oud stenen masker zijn. Dhr. Barbosa, maskerkenner uit Mexico, acht dit niet onmogelijk, hij vindt het een intrigerend voorwerp'. Er lijken witte verfresten op te zitten. Het kan echter ook een gewoon merkwaardig gevormd stuk vulkanisch gesteente zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#identifier> "TM-5730-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#material> "steen ; verf ; beitelen ; houwen ; beschilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

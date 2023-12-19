@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#description> "Beeld van een man of vrouw zittend op de knieën. De handen staan in de zij. Rond het hoofd zijn als haaraanduiding vier halfrond verticale elementen geplastst. Achterin het hoofd zit een bakgat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#identifier> "WM-55863" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#yearCreatedEnd> "1499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#locationCreated> "Nicaragua" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#countryCreated> "Nicaragua" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#alternateName> "Republic of Nicaragua"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55863> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

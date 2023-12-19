@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#name> "NACHTELIJK GROEPSPORTRET IN LEBONG DONOK TER GELEGENHEID VAN DE EERSTE DAG VAN DE ISLAMITISCHE MAAND SYAWAL (SHAWWAL), HET BEGIN VAN HET SUIKERFEEST NA DE VASTENMAAND RAMADAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#description> "Deze foto is genomen ter gelegenheid van de eerste dag van de Islamitische maand syawal (shawwal), het begin van het suikerfeest (Idul Fitri oftewel Lebaran) na de vastenmaand ramadan. De groep staat vóór de telefooncentrale en de sociëteit voor het inheemse personeel van de Mijnbouw Maatschappij Redjang Lebong in Lebong Donok. (R. Jongmans 2007)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#identifier> "TM-60035493" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035493> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

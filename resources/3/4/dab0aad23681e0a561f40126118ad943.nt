@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#name> "BOOMBASTSCHILDERING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#description> "De voorstelling verwijst naar de dood; de kraai staat hier symbool voor. De holle boomstam ('dupun'), die wordt gebruikt bij herbegravingsceremonieën, wordt in de gaten gehouden door de kraai (Badurru) tot hun ziel verder reist naar de waterpoel met het ongeboren leven. De waterpoel is afgebeeld als zwarte cirkel op de boomstam." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#identifier> "TM-5738-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#material> "De boombast wordt afgepeld van de stammen van de Eucalyptusboom, gedurende het regenseizoen, wanneer het sap omhoogkomt en de bast gemakkelijk af te halen is. De gebogen stukken worden buigbaar gemaakt en plat gemaakt onder gewichten en gedroogd. De ruwe bovenlaag wordt verwijderd en het binnenste oppervlak wordt gladgewreven om het klaar te maken voor het beschilderen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#creator> "Ray Munyal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5738-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

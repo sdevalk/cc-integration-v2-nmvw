@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#name> "BUNDELTJE GEDROOGDE TABAKSBLADEREN IN CELLOFAAN VERPAKT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#description> "Bundeltje tabaksbladeren, verpakt in cellofaan met onder andere een gedrukte afbeelding van een weegschaaltje en de merknaam 'pachalao'.\r\nVolgens toenmalig conservator Latijns Amerika, dhr.de Marez Oyens, wordt de tabak gebruikt tijdens ceremoniën of als offergave. In de Afro-Braziliaanse umbanda religie wordt tabak geofferd aan de orixá Ogum (god van de oorlog en het ijzer), de \"Pretos Velhos\" (Oude Zwarten, vooroudergeesten) en de \"Exus\" (middelaars tussen goden en mensen). In een tabaksfabriek gerold en verpakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#identifier> "TM-4649-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#inscription> "Pachalao" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#material> "tabak ; celofaan ; machinaal vervaardigen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#locationCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "United States of Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Brasilien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Brasíle" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "República dos Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Federative Republic of Brazil"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4649-8> <https://colonialcollections.nl/schema#alternateName> "Brésil" .

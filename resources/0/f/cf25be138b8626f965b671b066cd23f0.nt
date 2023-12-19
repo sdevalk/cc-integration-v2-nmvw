@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-54979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-54979> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-54979> <https://colonialcollections.nl/schema#description> "[ST] 2 masten met zeilen & boegspriet & steven &\r\n        kajuit (achter) & plat buitendek & losse onderdelen\r\n[DE] schilderwerk : naam van vaartuig : Dolf\r\n[KL] schilderwerk : rood & groen & wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-54979> <https://colonialcollections.nl/schema#identifier> "WM-54979" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-54979> <https://colonialcollections.nl/schema#material> "hout, katoen, verf, plantenvezel (touwen), metaal (spijkers en draad)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-54979> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

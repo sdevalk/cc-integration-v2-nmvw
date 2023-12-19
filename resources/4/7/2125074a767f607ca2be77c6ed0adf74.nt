@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#name> "BUNDEL CASUARISVEREN (VAN HOOFD- EN AANGEZICHTSVERSIERING) EN ZWARTE KLEINE LICHAAMSVEREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#description> "De bundel heeft de vorm van een grote kwast met de langste veren in het midden en de korte veren aan de zijkanten. De uiteinden van de veren zijn vervlochten in een cirkelvormige basis van vezelkoorden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#identifier> "TM-4666-1b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#material> "veer ; vezel ; knopen ; vlechten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4666-1b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#description> "Hanger in de vorm van een dubbelkoppige alligator. Aan beide uiteinden is de bek van de alligator met een dubbele rij vierkantejes voor de tanden weergegeven. Daarboven zijn een oog en de neus uitgebeeld. Achter de koppen zit een verticale band die met een net-patroon zijn versierd.\r\nTwee gaatjes voor een snoer zitten bovenaan het vlakke middendeel van de hanger. de achterkant is onbewerkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#identifier> "WM-44860" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#material> "jadeiet (gevlekt)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44860> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

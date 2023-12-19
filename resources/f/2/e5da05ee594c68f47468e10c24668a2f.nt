@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#description> "Schaal waar bovenop een dier staat in hoogreliëf, met de vier poten op de rand rustend. Waarschijnlijk is het een jaguar. Een staart is naar voren gebogen tegen de achterkant van de kop die afgebroken is (los toegvoegd). Rode en gele vlekken bedekken het lichaam en de poot- en staart-uiteinden zijn met rode en gele banden in reliëf versierd. De tenen zijn wit. De rand van de schaal is eveneens rood, geel en wit beschilderd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#identifier> "WM-49232" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#material> "aardewer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#yearCreatedEnd> "1499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-49232> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

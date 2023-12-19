@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#name> "MASKER VAN GEZICHT MET HANGER( APENKOPJE)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#description> "Het masker met het apenkopje als belletje aan de kin is onbekend. Meza Saman noemt een dans van de Apen in Chiapas. Daarvan is in de literatuur tot nu toe niets gevonden. Volgens van Roon is het een zeldzaam en kostbaar stuk.\r\nHet apenbelletje is wel terug te vinden in de literatuur. Een serie ervan circuleerde rond 1976 in Xochipila in Guerrero.\r\n\r\nPolychroom beschilderd (geweest?) houtsnijwerk met een koperen belletje aan de kin bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#identifier> "TM-5730-116" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#material> "hout ; verf ; koper ; snijden ; polychromie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-116> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

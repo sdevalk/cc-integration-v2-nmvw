@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#name> "HOUTEN BEELD VOORSTELLEND EEN DEMON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#description> "Buta Nawa Sari is de demoon met de negen bloemen. In zijn rechterhand heeft hij op zijn rug een bloemenknop. Deze figuur is een zeer populair als krisgreep." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#identifier> "TM-512-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-512-16> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

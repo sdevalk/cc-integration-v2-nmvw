@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#name> "KWASTJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#description> "Kwastje aan gevlochten koordje.\r\nHet gevlochten koordje is gemaakt van gedraaide strengetjes woldraad, in de kleuren donkerrood, groen, en bruin.\r\nDe samengevlochten 'gedraaide' strengetjes, lopen aan de onderkant uit in afzonderlijk hangende gedraaide strengen, aan het uiteinde van elke streng een bolletje uitgeplozen woldraad. Waarvan in totaal zes donkerrode, twee groene en een bruin bolletje, samen een kwastje vormend." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#identifier> "TM-3082-87" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3082-87> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

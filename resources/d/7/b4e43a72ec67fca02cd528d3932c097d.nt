@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#description> "[ST] oorgaatjes\r\n[VO] staand mensfiguur : vorst(?) met smal gezicht, hoekige\r\n         kin, licht geopende mond met tanden, dunne gegolfde snor,\r\n         licht gebogen knieen, linkerarm naar achteren gebogen,\r\n         linkerhand op heup, uiteinde van doek in linkerhand,\r\n         rechterhand met voorwerp links voor borst, hoge kroon\r\n         met knop, achterhoofdsieraad (garuda mungkur), bladvormige\r\n         oorsieraden, halssieraad, polsarmbanden, enkelbanden en\r\n         lendendoek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#identifier> "WM-56683" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#material> "ivoor, parelmoer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-56683> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

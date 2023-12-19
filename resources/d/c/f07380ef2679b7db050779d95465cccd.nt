@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <https://colonialcollections.nl/schema#name> "GROEPSPORTRET MET DE FAMILIE JONCKHEER, DE BIJ HUN LOGERENDE FAMILIE D.A.P. KONING, EN HET HUISPERSONEEL VOOR HUN HUIS IN SOEKABOEMI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <https://colonialcollections.nl/schema#identifier> "TM-60026742" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60026742> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

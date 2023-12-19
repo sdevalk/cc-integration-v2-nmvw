@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#name> "SPIJTOPTANT VERLAAT DE BOOT IN AMSTERDAM WAARMEE HIJ UIT INDONESIË IS GEKOMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#description> "Dit is de heer Jules Schmidt Weymans (16 mei 1892 Surabaya - 4 september 1962 Renkum). Hij behoort tot de groep spijtoptanten, die in 1960 naar Nederland kwam. Aanvankelijk was hij warga negara (Indonesisch staatsburger) geworden, maar kwam uiteindelijk naar Nederland." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#identifier> "TM-60059559" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#creator> "L. (Leonard) Freed" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059559> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

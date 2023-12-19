@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#name> "MASKER VAN HAAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#description> "Onduidelijk is of het gezichtsmakser een kip/haan of soort adelaar voorstelt. Volgesn van Roon een masker uit de Dans van de Adelaar.\r\nHoort waarschijnlijk bij het kostuum 5730-207.\r\nPolychroom beschilderd houtsnijwerk met leren kam en uitstekels." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#identifier> "TM-5730-157" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#material> "hout ; verf ; leer ; snijden ; polychromie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-157> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

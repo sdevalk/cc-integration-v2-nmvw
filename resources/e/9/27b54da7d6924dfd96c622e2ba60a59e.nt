@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#name> "ZWAARD, BIJHORENDE BIJ DE DRAADPOP VAN EEN DEMON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#description> "Zwaard van Belu (demon)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#identifier> "TM-4781-8c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#locationCreated> "Yangon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#alternateName> "Rangoon"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4781-8c> <https://colonialcollections.nl/schema#alternateName> "Dagon" .

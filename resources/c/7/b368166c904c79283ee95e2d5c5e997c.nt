@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#description> "[ST] greep & inlegwerk (van nassaschelpen en stukken\r\n        been) & 25 horizontale rijen haarpluimen & omboordsel\r\n        (rand)\r\n[DE] inlegwerk : geometrische figuren\r\n[KL] zwart (ondergrond voorzijde) & wit (inlegwerk voorzijde)\r\n        & grijs (haar in verschillende tinten) & bruin (haar in\r\n        verschillende tinten)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#identifier> "WM-5067" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#material> "hout, haar (bok [*2]), nassaschelp, been, rotan, houtskool (van\r\nwentonu [*2])" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-5067> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

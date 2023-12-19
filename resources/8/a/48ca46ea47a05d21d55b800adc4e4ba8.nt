@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#name> "DE BRUID, MEVROUW VAN LITH, IN HAAR TROUWJURK MET BLOEMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#description> "Mevrouw Maria Antoinette van Lith zittend op een stoel in haar trouwjurk met bloemen op de voor en achtergrond. Op de grond staat een foto van haar echtgenoot, vermoedelijk is hij een tijdje afwezig (omdat hij in het leger of bij de marine zit, gezien zijn uniform)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#identifier> "TM-60050380" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60050380> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
