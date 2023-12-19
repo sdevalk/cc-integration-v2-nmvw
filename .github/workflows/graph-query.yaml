@@ -41,7 +41,7 @@ jobs:
             --endpoint-url "https://api.colonial-heritage.triply.cc/datasets/data-hub/knowledge-graph/services/kg/sparql" \
             --query-file ./queries/generate.rq \
             --number-of-concurrent-requests 20 \
-            --wait-between-requests 110 \
+            --wait-between-requests 100 \
             --batch-size 100000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
