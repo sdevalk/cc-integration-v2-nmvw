@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#description> "Brief van de hr. Tromp¹ aan de hr. Serrurier over de verzending van voorwerpen, via Batavia aangekomen in Amsterdam.\r\n\r\n¹  (?) S.W. Tromp, resident van de Westerafdeling van Borneo (van 1 sep 1890 tot 24 oct 1897?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-17-385/386" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#creator> "S.W. (Solko Walle) Tromp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-17-385/386> <https://colonialcollections.nl/schema#yearCreatedStart> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

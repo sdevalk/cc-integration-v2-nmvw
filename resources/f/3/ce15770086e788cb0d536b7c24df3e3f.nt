@@ -1,0 +1,27 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#name> "PORSELEINEN BORD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#description> "In het middendeel van het bord – de donkere cirkel die op verschillende manieren doorsneden wordt - is het shou-teken, symbool van een lang leven en geluk aangebracht. Eromheen gestileerde vleermuizen, eveneens een geluksteken omdat het een homoniem ( fu) betreft." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#identifier> "TM-2141-77" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2141-77> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .

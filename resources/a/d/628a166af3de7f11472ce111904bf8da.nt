@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <https://colonialcollections.nl/schema#name> "Geweer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <https://colonialcollections.nl/schema#description> "Vroeger gebruikt als oorlogs- en jachtwapen, tegenwoordig gebruikt bij feestelijkheden.\r\n\r\nBeschrijving\r\nGeweer met houten kolf en lange ijzeren loop." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <https://colonialcollections.nl/schema#identifier> "AM-674-40" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <https://colonialcollections.nl/schema#material> "Hout; ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-674-40> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

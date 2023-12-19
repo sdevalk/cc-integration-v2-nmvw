@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#description> "Van: J.B.P. Mol, luitenant ....\r\nAan: -\r\nPlaats: Amsterdam\r\nTaal: Nederlands\r\n\r\nDe brief bevat omschrijvingen van voorwerpen die het museum al eerder van de schrijver heeft ontvangen. Het gaat om voorwerpen uit Nederlandsch-Indië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-11-346/348" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#creator> "B.P.J.C. Mol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-346/348> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

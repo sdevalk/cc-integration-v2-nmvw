@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#name> "BESCHILDERD HOUTEN MASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#identifier> "TM-2525-15" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#material> "Het masker is vermoedelijk vervaardigd via een mengstijl van Wee (Guéré) en Dan (Gio) invloeden. Verschillende gezichtsdelen zijn aangezet met blauwe, rode (aarde) en witte (kalk) kleurstof. In de mond is een stukje textiel geklemd tegengehouden door één benen tand. Rond het voorhoofd is een vezelrol omkleed met textiel aangebracht. Tussen deze rol en het voorhoofd zijn vijf, vermoedelijke, medicijnzakjes aangebracht. Hiertussen steekt één veer. \r\nRondom de onderste gelaatshelft zijn rode glazen kralen op stokjes in het masker gestoken. Een vezelvlecht loopt hierlangs. Er zijn gaten geboord in de zijkant ter bevestiging van een vezelkostuum." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-15> <https://colonialcollections.nl/schema#alternateName> "Liberia" .

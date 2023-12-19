@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#name> "TANDENSTOKERFOEDRAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#description> "Tandenstokerfoedraal met handgeschreven opschrift in inkt ÿôjisashi. Geen beschrijving in Nippon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#identifier> "RV-1-455" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#inscription> "yôjisashi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#material> "zijde ; papier ; inkt ; drukwerk ; pigmenten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-455> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

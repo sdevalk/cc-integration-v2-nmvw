@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#description> "Brief van de hr. L. Frobenius te Dresden aan Schmeltz. Frobenius die bezig is met een studie van ornamentiek vraagt of hij foto’s van Afrikaanse schilden en Oceanische maskers mag komen maken. Frobenius schrijft een stuk voor het Internationale ..... en hij vraagt Schmeltz of deze - in het geval hij akkoord gaat - zodanige voorbereidingen wil treffen dat de werkzaamheden van Frobenius geen verstoringen zullen opleveren. ........" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-22-76" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#creator> "Leo Frobenius" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-22-76> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

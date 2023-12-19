@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <https://colonialcollections.nl/schema#name> "Handschrift" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <https://colonialcollections.nl/schema#description> "Vermoedelijk handgeschreven kopie van handschrift B79-69 die zich in instituut Kern bevindt (Reg/SdR, 2002)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <https://colonialcollections.nl/schema#identifier> "RV-B79-M69a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B79-M69a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

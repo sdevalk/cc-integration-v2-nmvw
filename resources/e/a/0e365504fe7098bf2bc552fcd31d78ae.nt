@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#name> "BAND VAN DONKER KRALENWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#description> "Lange kralenband die uitgelegd in de vorm van een C komt te liggen.  Opgemeten in gestrekte lengte. De rand is afgezet met rode kralen;  aan de binnenkant van de C-vorm met een in een vlak liggende dubbele rij, aan de buitenkant in een rij van vier dik. Over de lengte van de band liggen tussen deze twee kralenrijen in een zigzagpatroon driehoekige vlakken in de kleuren zwart afgewisseld met steeds twee driehoeken wit, vervolgens met twee driehoeken blauw. Aan een uiteinde zit een metalen knoop met daaraan een lus die bezet is met gele kralen. Langs de rode kralenrij aan de binnenkant is een dikke textielen draad meegeregen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#identifier> "AM-709-32" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#material> "kralen, metaal, textiel geregen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-709-32> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

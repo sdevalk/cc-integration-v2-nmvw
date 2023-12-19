@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <https://colonialcollections.nl/schema#name> "HOUTEN MODEL VAN EEN KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <https://colonialcollections.nl/schema#description> "De kris maakt momenteel deel uit van een houten beeld van een bonang speler (invnr. 0-359a). Dit beeld heeft lange tijd op een podium op de vaste afdeling Java gestaan en illustreerde het thema ‘toneel en muziek'. Het is niet bekend wanneer de kris is samengevoegd met het beeld en of deze samenvoeging voortkomt uit een verdwijning van het oorspronkelijke exemplaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <https://colonialcollections.nl/schema#identifier> "TM-23-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-23-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

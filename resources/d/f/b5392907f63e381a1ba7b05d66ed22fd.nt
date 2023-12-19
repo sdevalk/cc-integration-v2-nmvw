@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <https://colonialcollections.nl/schema#name> "DUBBELRIET VAN HOUT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <https://colonialcollections.nl/schema#description> "Deze houten schalmei (dubbelriet) heeft 7 vingergaten in het rechte gedeelte, een duimgat, en 7 klankgaten (3+2+2) in het trechtervormige gedeelte. Volgens de literatuur zitten er bij dit soort instrumenten in het trechtervormige gedeelte 3 + 2 = 5 klankgaten. De lipschijf -de pirouette- en het riet ontbreken.\r\n\r\nBehalve de religieuze associaties van het instrument, wordt het ook gebruikt bij volksfeesten en andere ceremoniën." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <https://colonialcollections.nl/schema#identifier> "TM-2439-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2439-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

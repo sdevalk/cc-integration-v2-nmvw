@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <https://colonialcollections.nl/schema#name> "Pot met een monster" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <https://colonialcollections.nl/schema#description> "Glazen pot, afgedekt met papier, bevattend: Makuri, Digenea simplex Agardh. opschrift fles: Makuri, ziyako sai nangin, een soort van alga, gelijkende op Sphaerococcus Helminthochortos Ag., een wormdodend middel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <https://colonialcollections.nl/schema#identifier> "RV-1-925" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <https://colonialcollections.nl/schema#material> "Glazen pot met inhoud: monster of grondstof voor divers gebruik (zie onder Beschrijving)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-925> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

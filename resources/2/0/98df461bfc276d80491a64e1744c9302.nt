@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#name> "DOEK VAN GEKLOPT EN BESCHILDERD BOOMBAST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#description> "De versiering symboliseert de eeuwige afwisseling van leven en dood. De doeken worden door vrouwen als heupbedekking gedragen. Na hun dood worden de doeken als vaandels op het graf geplaatst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#identifier> "TM-2167-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#material> "De heupdoek is aan één zijde zwart en oranjerood beschilderd. De versiering bestaat uit een langwerpige rechthoek opgevuld met maskerachtige figuren. In het midden zijn twee dierfiguren (vissen?) aangebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2167-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

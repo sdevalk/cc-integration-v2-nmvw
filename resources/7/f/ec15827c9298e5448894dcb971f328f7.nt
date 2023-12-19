@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#name> "STOP BEHOREND BIJ KALEBAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#description> "De kalebas wordt omhult met een kralenvlechtwerk in kleurrijke geometrische patronen. Aan de bovenzijde wordt de kalebas afgesloten met een houten stop. Een dubbel kralensnoertje, bevestigd aan de stop, dient als handvat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#identifier> "TM-2672-8b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#material> "hout ; glas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2672-8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

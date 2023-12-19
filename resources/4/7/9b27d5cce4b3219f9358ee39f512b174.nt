@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#description> "Karena kebodohan sang Raja maka ditipu oleh monyet dan di tertawakan oleh orang-orang di sekitarnya.\r\n\r\nDi bagian kiri ada tiga orang wanita seorang berdiri dengan rambut terurai sambil memegang pundak wanita yang sedang duduk tersimpuh, yang memakai pakaian tradisional dan seorang wanita yang duduk kakinya terlentang dan kepiting di pahanya dan di bagian kananyan seorang lelaki yang duduk bersila sambil bertawa." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#identifier> "PL-120-L" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#material> "Kertas & Tinta China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#creator> "I Gusti Nyoman Lempad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/PL-120-L> <https://colonialcollections.nl/schema#yearCreatedStart> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

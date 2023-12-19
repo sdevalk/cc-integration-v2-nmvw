@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#name> "ZIEKEN, WACHTEND OP BEHANDELING VAN BROEDER LEERDAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#description> "Een polikliniek in de binnenlanden waar marrons zitten te wachten op behandeling. Gezondheidszorg werd in de binnenlanden vooral opgezet door missie en zending." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#identifier> "TM-10019071" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#yearCreatedEnd> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10019071> <https://colonialcollections.nl/schema#yearCreatedStart> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .

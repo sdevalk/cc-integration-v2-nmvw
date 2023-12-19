@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#name> "BUSTE VAN GENERAAL DAENDELS, OVERGEDRAGEN AAN HET  FOTO-ARCHIEF ANTROPOLOGIE, NUMMER ONBEKEND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#description> "De gravure is gevat in een houten gepolitoerde lijst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#identifier> "TM-2381-191" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#yearCreatedEnd> "1790"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-191> <https://colonialcollections.nl/schema#yearCreatedStart> "1790"^^<http://www.w3.org/2001/XMLSchema#integer> .

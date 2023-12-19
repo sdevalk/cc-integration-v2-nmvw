@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#name> "DE FAMILIE VAN ARON CHRISTIANSEN (1973)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#description> "De familie van Aron Christiansen is een paar dagen op vangstreis geweest en keren terug. Alle gezinsleden dragen iets mee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#identifier> "RV-10238-47" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10238-47> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#name> "KABINETSTANDAARD VAN EBBENHOUT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#description> "Deze tafel was oorspronkelijk een kabinetstandaard, een lage tafel dus, die een kast, kist of ander meubelstuk horen te ondersteunen. Als zodanig werd het tegen de wand gesteld en daarom is een kant niet voorzien van snijwerk. Het meubel is tussen 1675-1700 van hart ebbenhout gesneden. Het snijwerk vertoont een bloemenmotief. De benen zijn spiraalvormig gesneden en volgen de toenmalige mode in Nederland. \r\n\r\nLater, eind 19de of begin 20ste eeuw, is het meubel verbouwd tot een wat kleine koffietafel. Er werd een tafelblad opgezet, dat niet is bewaard en er werd een lade ingezet. Dit is een mooi voorbeeld dat meubels diverse veranderingen kunnen ondergaan gedurende hun bestaanstijd. De voeten zijn in 2009 bijgezet in het kader van restauratiewerkzaamheden. Grotendeels echter, is de kabinetstandaard niet veranderd. \r\n\r\n(Gompel 2013, 40, 106-107).\r\n\r\n\r\nSnijwerk uit de school van Coromandel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#identifier> "TM-1295-23" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1295-23> <https://colonialcollections.nl/schema#yearCreatedStart> "1650"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <https://colonialcollections.nl/schema#name> "KRALEN OORKNOP, ONDERDEEL VAN EEN SET" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <https://colonialcollections.nl/schema#description> "De oorknop wordt middels het U-vormige staafje om de oorlel geklemd.\r\n\r\nVervaardiging\r\nEen metalen staafje is in een U-vorm gebogen. Aan het ene uiteinde is een schroefje in een schroefdraad bevestigd, aan het andere een cirkelvormig plaatje. Een koord waaraan afwisselend blauwe en witte kralen zijn geregen is in lussen tegen het plaatje gelijmd, zodat het geheel bloemvormig wordt. Een grote witte kraal is in het midden gelijmd en vormt zo het hart van de bloem." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <https://colonialcollections.nl/schema#identifier> "TM-2444-2b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2444-2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

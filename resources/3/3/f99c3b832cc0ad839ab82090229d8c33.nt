@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#name> "KABRA BLAUW DEKSELVAAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#description> "Kabra Blauw Dekselvaas \r\nTweedelig (1. deksel; 2. vaas)\r\nOplage gelimiteerd: 100 plus artist-proof 2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#identifier> "IB2022-46-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#material> "Gietklei, handgeschilderd kobalt onderglazuur\r\nop engobe met goud luster ( rest toevoegen uit pdf)\r\nGemaakt in Heinen delftsblauw Delft en Putten en in het EKWC den Bosch" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#creator> "Boris van Berkum" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2022"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-46-1> <https://colonialcollections.nl/schema#yearCreatedStart> "2022"^^<http://www.w3.org/2001/XMLSchema#integer> .

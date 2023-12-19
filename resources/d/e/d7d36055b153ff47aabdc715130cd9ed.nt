@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#name> "DOOS VOOR VOEDSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#description> "Doos met deksel voor het presenteren van voedsel. Dit type cylindrische dozen op drie poten worden hokai genoemd. Aan buitenzijde decoraties in goudlak voorstellende pioenrozen en bladeren. Over het cylindrisch deel van de doos parallelle banden in reliëf. Koperbeslag aan de onderzijde van de poten. De binnenzijde is zwart gelakt met goudlak op de rand van de doos. De doos is afgesloten door middel van een zijden koord met kwasten. Geen beschrijving in Nippon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#identifier> "RV-1-546" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#material> "lakwerk ; hout ; zijde ; koper ; makie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-546> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

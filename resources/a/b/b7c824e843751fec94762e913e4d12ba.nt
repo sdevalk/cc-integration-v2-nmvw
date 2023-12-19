@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#name> "KATINKA TARKISSIMAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#description> "Katinka, zus van Elias Tarkissimat, bezig met op de bekende Groenlandse wijze een gezicht te trekken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#identifier> "RV-10242-30" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10242-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

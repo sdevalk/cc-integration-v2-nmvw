@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#name> "STAPELDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#description> "Stapeldoos, bestaande uit vijf bakken op elkaar met een deksel, bijeengehouden door een zijden koord. Het koord loopt door vier uitgespaarde rechthoekige gaten onder aan de lange zijden van de onderste bak. De omtrek van de set is mokkô-vormig. Decoratie aan buitenzijde in goudlak voorstellende pioenrozen in laagreliëf, hiramakie. Het binnenwerk is rood gelakt met goudlak op de randen van de bakken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#identifier> "RV-1-446" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#material> "lakwerk ; hout ; zijde ; makie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-446> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

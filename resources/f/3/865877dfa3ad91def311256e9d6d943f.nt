@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#name> "MESSINGEN DOOS MET DEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#description> "Dit soort dozen werd door Javaanse vrouwen gebruikt voor het versturen van delicatessen, zoals gebak en vruchten, naar familie en vrienden. Deze doos heeft de vorm van een grote ronde pompoen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#identifier> "TM-1225-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1225-7> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .

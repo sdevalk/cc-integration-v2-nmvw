@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#description> "Het masker is afkomstig uit de omgeving van Tchien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#identifier> "TM-2525-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#material> "Het houten masker is gesneden in de expressionistische Guéré (Kran) stijl. Om het voorhoofd is een katoenen rol gevuld met vezels vastgespijkerd. Aan weerszijde van de neus is een patroonhuls als pseudo-oog vastgespijkerd. Het gezicht is met witte kalk en rood-bruine aarde beschilderd. Onder de neus is een snor van boombastvezels bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2525-5> <https://colonialcollections.nl/schema#alternateName> "Liberia" .

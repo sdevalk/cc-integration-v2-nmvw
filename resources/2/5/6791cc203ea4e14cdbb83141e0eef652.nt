@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#name> "BOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#description> "Nôka eki, zenpen, Osaka 1802\r\nAuteur: Ôkura Nagatsune (1786-ca. 1850). Uitgegeven door Nakagawa Gohei.\r\nDriedelige geïllustreerde gids voor het vergroten van landbouwopbrengst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#identifier> "RV-1-4391" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#material> "papier ; drukwerk ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#creator> "Okura Nagatsune" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#yearCreatedEnd> "1802"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4391> <https://colonialcollections.nl/schema#yearCreatedStart> "1802"^^<http://www.w3.org/2001/XMLSchema#integer> .

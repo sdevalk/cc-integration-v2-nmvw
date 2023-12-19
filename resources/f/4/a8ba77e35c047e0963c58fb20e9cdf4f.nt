@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <https://colonialcollections.nl/schema#name> "SNUIFDOOS IN DE VORM VAN EEN KRALEN KOKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <https://colonialcollections.nl/schema#description> "Het snuifdoosje is van bamboe vervaardigd en ter versiering omwonden met een kralensnoer. De bodem en deksel worden gevormd door een kurkachtig stukje hout. Het dekseltje is met een kettinkje van witte kraaltjes aan het omwonden kralensnoer bevestigd. De koker wordt aan een blauw kralensnoer gedragen.\r\n\r\nVervaardiging\r\nGlaskralen zijn in een wit/zwart patroon aan een snoer geregen waarna deze om een bamboe kokertje is gewonden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <https://colonialcollections.nl/schema#identifier> "TM-2231-25" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#description> "Brief van de hr. A. van Eysden jr. met bericht dat hij enkele exemplaren van de Staatscourant had gezien met daarin vermeld de schenkingen door diverse mensen aan het museum, echter mededelingen over de door hem toegezonden curiositeiten mocht hij tot dan toe niet vernemen.\r\nHij verzoekt alsnog deze vermeldingen hem toe te sturen.\r\n\r\n\r\nNAHV" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-10-449" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#creator> "A. van Eijsden jr." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-10-449> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

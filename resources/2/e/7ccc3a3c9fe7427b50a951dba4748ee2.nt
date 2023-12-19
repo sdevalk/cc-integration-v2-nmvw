@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <https://colonialcollections.nl/schema#name> "NIEUW INVENTARISNUMMER: 4847-22" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <https://colonialcollections.nl/schema#description> "Het houtsnijwerk van deze prauwversiering bestaat uit vogels, een buideldier en dolfijnen (Schmeltz, 1892:36)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <https://colonialcollections.nl/schema#identifier> "TM-1322-228" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-228> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

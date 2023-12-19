@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#name> "OMSLAGDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#description> "Een lange rechthoekige omslagdoek gemaakt van geweven katoen. De doek is in het midden versierd met grote vierkanten, die gevuld zijn met abstracte hoekige motieven. Daanaast is een band te zien met zigzaglijnen. Aan weerszijden van dit vlak is de doek eenvoudiger versierd met paarse rechthoeken en banden met strpen in groen, paars en wit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#identifier> "RV-Liefkes-952" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#material> "geweven ; geverfd ; katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-952> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

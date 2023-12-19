@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <https://colonialcollections.nl/schema#name> "HOUTEN BOOG MET ROTAN PEES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <https://colonialcollections.nl/schema#description> "Jacht- en oorlogswapen.\r\n\r\nVervaardiging\r\nLange boog van het hout van de nibungpalm, onversierd. De rotan boogpees is door middel van omwindingen bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <https://colonialcollections.nl/schema#identifier> "TM-0-294a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-294a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

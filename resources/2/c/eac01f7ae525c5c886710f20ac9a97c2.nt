@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#name> "KRALEN HALSSIERAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#description> "Het halssieraad bestaat uit afwisselend twee zwarte en twee witte rijen vertikale kralensnoeren. De bovenrand wordt gevormd door een koordje met blauwe kralen en de onderzijde is afgezet met rode kraaltjes. De ketting wordt gesloten door een lusje van gele en zwarte kraaltjes en een kegelvormig koperen knoopje. De gebruikte kralen zijn allemaal glaskralen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#identifier> "TM-2231-22" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#material> "glas ; plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

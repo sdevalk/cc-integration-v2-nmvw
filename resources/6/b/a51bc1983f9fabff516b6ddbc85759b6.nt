@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#name> "RONGGENG (DANSERES) ENO, KOLONIALE TENTOONSTELLING AMSTERDAM (1883)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#description> "RONGGEN (DANSERES) ENO MET WAAIER IN LINKERHAND, KOLONIALE TENTOONSTELLING AMSTERDAM (1883)\r\n; [inscripties] 'Kol. Tent. Amst. 1883. Gr. I, Kl. 7, Cat. bl. 154/55, lett.' gedrukt op etiket geplakt op karton, voorzijde, 'Eno, r, danseres', geschreven op het karton in potlood, achterzijde, 'JOH. F. SNELLEMAN.' gedrukt op etiket geplakt op karton, achterzijde\r\nAntropologische fotografie, portret van Javaanse vrouw, kniestuk, zittend, het hoofd en trois quart naar links gedraaid." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#identifier> "M-3299" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#material> "Reproductie Nederlands Fotomuseum Rotterdam Inventarisnummer\r\nWMR-906398\r\nNummer afbeelding\r\nc1f84de3-6824-b191-71b6-f30f09151d61" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#creator> "F.D. van Rosmalen Jr." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/M-3299> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

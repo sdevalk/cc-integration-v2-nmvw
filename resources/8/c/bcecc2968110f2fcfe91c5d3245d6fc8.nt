@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <https://colonialcollections.nl/schema#name> "Miniatuur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <https://colonialcollections.nl/schema#description> "\"De godin Durga\" , met godin en twee dienaressen in 3-luik verdeling." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <https://colonialcollections.nl/schema#identifier> "RV-B8-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <https://colonialcollections.nl/schema#material> "papier ; verf, waterverf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B8-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

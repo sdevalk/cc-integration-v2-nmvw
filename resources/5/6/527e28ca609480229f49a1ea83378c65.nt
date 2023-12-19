@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#name> "TANTRI SCHILDERING MET DIVERSE MYTHISCHE VERHALEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#description> "Deze versieringsrand werd bij geestelijke gelegenheden in een open loods langs de rand van het dak te opgehangen. Het is niet bekend welk verhaal er wordt afgebeeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#identifier> "TM-118-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#material> "verf op doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-118-18> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#name> "KINDEREN OP IJSSCHOTS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#description> "In de Tiniteqilaq de naam van het water tussen het eiland Sarfaq en de nederzetting Tiniteqilaq zien we een ijsschots met daarop een paar kinderen. Dergelijke levensgevaarlijke spelletjes worden ook hier gedaan. Het veroorzaakt een ontzettende opwinding bij de volwassenen die ze met schreeuwen en eventueel met behulp van een boot dwingen dit gevaarlijke spel te staken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#identifier> "RV-10226-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10226-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

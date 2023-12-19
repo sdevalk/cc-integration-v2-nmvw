@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#name> "DOÑA MARGARITA CARRILLO, LAKWERK POLIJSTEND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#description> "Lakwerkatelier van Doña Margarita Carrillo." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#identifier> "RV-10305-2-05-30" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#locationCreated> "Olinalá" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#alternateName> "Olinalá" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10305-2-05-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

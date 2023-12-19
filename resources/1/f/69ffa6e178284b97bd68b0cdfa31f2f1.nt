@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN HOED VERSIERD MET REEPJES LEER, BOVENOP VEREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <https://colonialcollections.nl/schema#description> "De hoed is gevlochten van zwarte vezelrepen en versiert met banden van rode en lichtbruine reepjes leer. Op de top van de bolling is een halfronde lap leer bevestigd met een bundel veren erop. De veren zijn overlangs de schacht gespleten. Drie leren banden onderaan de hoed dienen als kinbanden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <https://colonialcollections.nl/schema#identifier> "TM-2285-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2285-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#name> "AARDEWERKEN HOOFD VAN XIPE TOTEC" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#description> "Hoofd van een Xipe Totec beeld. Over het hoofd is de gevilde huid van een mensenoffer getrokken. Het gaat hier om een priester in de rol van de god Xipe Totec, de god van het voorjaar. Zoals het uitlopen van een jonge plant, zal de jonge priester verschijnen uit de wegrottende huid." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#identifier> "TM-2344-29" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2344-29> <https://colonialcollections.nl/schema#yearCreatedStart> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .

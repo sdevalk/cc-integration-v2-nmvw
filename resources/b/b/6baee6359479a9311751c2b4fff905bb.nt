@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#name> "HEDEN VAN HET SLAVERNIJVERLEDEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#description> "Campagnebeeld voor Heden van het Slavernijverleden. In opdracht van het museum heeft Marc Sylla een prachtig kleurrijk en krachtig schilderij gemaakt. Daarvoor heeft de kunstenaar zich laten inspireren door de tentoonstelling en zijn Guinese roots.\r\n “De eerste keer dat ik het bezocht vroeg ik me eigenlijk gelijk af: waarom krijgen we dit niet op school?”" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#identifier> "IB2021-37-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#material> "canvas, schilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2021"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2021-37-1> <https://colonialcollections.nl/schema#yearCreatedStart> "2021"^^<http://www.w3.org/2001/XMLSchema#integer> .

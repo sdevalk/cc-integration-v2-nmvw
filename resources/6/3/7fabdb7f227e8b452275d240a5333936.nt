@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#name> "CRÈME LINNEN DAMESKORSET MET VOORZIJDE VAN RIBSZIJDE, UITLOPEND IN EEN PUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#identifier> "IB2022-21-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#creator> "Daria Biryukova" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1770"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-21-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .

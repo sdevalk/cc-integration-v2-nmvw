@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#name> "GABA KRISTIANSEN VANGT ZALM." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#description> "Gaba Kristiansen probeert met een zakdoek tussen de stenen de zalmen te vangen. Het is moeilijk op de gladde zalmen greep te krijgen vandaar de zakdoek.\r\nFoto tweemaal aanwezig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#identifier> "RV-10222-50" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#material> "Materiaal: papier \r\nTechniek: zwart-wit foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10222-50> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

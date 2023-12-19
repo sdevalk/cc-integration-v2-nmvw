@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#description> "Brief aan de hr. mr Victor de Stuers, ref. VI afd. bij het Ministerie van Binnenlandse Zaken te 's-Gravenhage, over een paar punten betrekkelijk de koopakte van het huis op de Hooge Woerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-3-99/100" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#creator> "Victor de Stuers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#yearCreatedEnd> "1877"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-99/100> <https://colonialcollections.nl/schema#yearCreatedStart> "1877"^^<http://www.w3.org/2001/XMLSchema#integer> .

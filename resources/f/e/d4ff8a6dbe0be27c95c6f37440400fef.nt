@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#name> "Heupdoek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#description> "Een gebatikte heupdoek gemaakt van geweven katoen. De traditionele kleuren rood, blauw en groen van de noordkust van Java zijn gebruikt. De twee rijen langwerpige driehoeken hebben een opvallend ruitpatroon, wat kenmerkend voor heupdoeken in Peranakan stijl is. De afgebeelde hanen beelden moed, betrouwbaarheid en bescherming tegen het kwade uit. Het hert staat voor onsterfelijkheid, lang leven en respect voor de ouders." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#identifier> "RV-Liefkes-606" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#material> "geweven ; geverfd ; katoen, verf ; batik tulis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-606> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

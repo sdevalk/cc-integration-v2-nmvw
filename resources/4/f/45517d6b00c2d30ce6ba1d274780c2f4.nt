@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <https://colonialcollections.nl/schema#name> "Medicijnpot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <https://colonialcollections.nl/schema#description> "Gebruikt als medicijnpot.\r\n\r\nBeschrijving\r\nEen pot gemaakt uit een kleine kalebas voorzien van houten stop." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <https://colonialcollections.nl/schema#identifier> "AM-62-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <https://colonialcollections.nl/schema#material> "Kalebas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-62-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

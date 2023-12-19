@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#name> "BAMBOE PIJL MET HOUTEN TUSSENSTUK EN BAMBOE PUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#description> "Het houten tussenstuk is in de bamboeschacht gestoken. De verbinding is verstevigd met een vlechtwerk van rotan. Ook de punt is met een vlechtwerk van rotan vastgezet aan het houten tussenstuk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#identifier> "TM-2670-666" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-666> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

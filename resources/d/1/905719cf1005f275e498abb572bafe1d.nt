@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <https://colonialcollections.nl/schema#name> "Schaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nPlatte, ondiepe houten schaal, met aan beide zijden een handvat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <https://colonialcollections.nl/schema#identifier> "AM-570-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-570-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

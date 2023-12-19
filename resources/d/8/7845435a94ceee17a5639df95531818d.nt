@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#name> "ZILVEREN MARIA THERESIA RIJKSDAALDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#description> "Met het wapen van Habsburg." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#identifier> "R-2618a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#material> "zilver ; slaan (metaalvormingsprocedés)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/R-2618a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

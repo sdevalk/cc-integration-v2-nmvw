@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#description> "Brief van de hr. L.M. van der Most¹, waarin hij aangeeft dat hij weer vertrekt naar Afrika. Hij kan niet meer op bezoek komen maar zegt zijn blijvende steun voor het museum toe.\r\n\r\n¹  L.M. van der Most, agent en hoofd van de Nieuwe Afrikaansche Handels-Vennootschap (NAHV) te Banana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-27-241/242" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#creator> "L.M. van der Most" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-27-241/242> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

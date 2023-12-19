@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#name> "GODENEMBLEEM VOORSTELLENDE MAHADEWA, EEN VAN DE 'NEGEN BEHOEDERS VAN HET HEELAL'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#description> "Het embleem stelt een pijl voor, die door een gekroonde slang is omslingerd. Het maakt deel uit van een reeks van negen godenemblemen, die bij elkaar een Nawa Sanga vormen. De emblemen staan voor de 'Negen Behoeders van het Heelal', zijnde de goden van de acht kardinaalrichtingen met het embleem voor Shiwa in het midden als zenit. Mahadewa is de god van het westen, kauh, en wordt geassocieerd met de kleur geel. \r\nUrs Ramseyer, The Art and Culture of Bali, Oxford University Press, 1977" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#identifier> "TM-261-20e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-261-20e> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

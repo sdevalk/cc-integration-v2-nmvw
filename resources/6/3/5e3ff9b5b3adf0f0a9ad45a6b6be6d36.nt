@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#name> "KETTING VAN TABAKSHOORN VOOR OUDE MANNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#description> "De hoorn is vervaardigd uit een runderhoorn. De punt is verwijderd en deze kan afgesloten worden met een dopje van leer en hout. De brede opening aan de bovenzijde wordt afgesloten met een leren deksel. Een dubbele koperen ketting verbindt de beide afsluitingen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#identifier> "TM-2638-28b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#material> "koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-28b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

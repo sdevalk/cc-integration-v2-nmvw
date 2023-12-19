@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#name> "OFFISPHERE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#description> "Adviesnr.\t909\r\nInitiatief\tSJ\r\nBetreft\tAankoop Zenger plastic stoel en bureau\r\nDatum\t4-11-2022\r\nStatus\tFase 4: Ontvangen COL\r\nVolgende stap\tFase 5: Inschrijven REG\r\nTransport was gepland voor novemberrondje maar dit is geannuleerd. Komt nu met decemberronde mee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#identifier> "T-1343a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#material> "Plastic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2018"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/T-1343a> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

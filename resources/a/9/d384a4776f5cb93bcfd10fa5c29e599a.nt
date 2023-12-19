@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <https://colonialcollections.nl/schema#name> "SCHOUDERDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <https://colonialcollections.nl/schema#description> "Een lange rechthoekige schouderdoek gemaakt van geweven katoen. Het middenvlak van de doek is rood en versierd met strepen in de breedte en ruitfiguren van gouddraad ? De beide uiteinden zijn zwart en versierd met dezelfde motieven. Aan één kant heeft de doek een smalle rode rand versierd met ruitfiguren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <https://colonialcollections.nl/schema#identifier> "RV-Liefkes-802" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <https://colonialcollections.nl/schema#material> "geweven ; geverfd ; katoen ; verf ; gouddraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-802> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nMes met lemmet van ivoor. Het lemmet bestaat uit een antropomorf hoofd, met scarificaties op de wangen en een kapsel bestaande uit een drietal puntvormen. Het lemmet is vervaardigd uit ijzer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <https://colonialcollections.nl/schema#identifier> "AM-89-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <https://colonialcollections.nl/schema#material> "Ivoor; ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-89-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

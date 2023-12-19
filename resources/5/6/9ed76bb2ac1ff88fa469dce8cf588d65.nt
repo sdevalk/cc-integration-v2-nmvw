@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#description> "Brief van de hr. Greshoff¹ uit Kinshasa aan Serrurier waarin hij melding maakt van zijn reis naar de Mobangi en Lulango. Door tussenkomst van een vriend heeft hij een \"veerenkleed zoals bij feestelijke gelegenheden door dokters in die streken gedragen wordt\" gekocht in Massabe (in Cabinda, Portugees gebied). Het kleed is \"duur maar mooi en zeldzaam\".\r\n\r\n¹  A. Greshoff, agent voor Nieuwe Afrikaansche Handels-Vennootschap (NAHV) in Kinshasa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-12-297" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#creator> "A. (Anton) Greshoff" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-12-297> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

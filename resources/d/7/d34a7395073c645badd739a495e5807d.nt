@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#name> "HALSSIERAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#description> "Een halssieraad gemaakt van vier lange rotanrepen. De repen zijn U-vormig gebogen en rood geverfd. De uiteinden zijn met een gevlochten touw aan elkaar gebonden. Aan de vier repen hangen kralensnoertjes van rode, witte en zwarte kralen. Aan enkele kralensnoeren hangen langwerpige driehoekige bruine hoornen plaatjes. Dit type sieraad wordt door mannen gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#identifier> "TM-272-27" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#material> "rotan ; verf ; touw ; kralen ; hoorn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-27> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
