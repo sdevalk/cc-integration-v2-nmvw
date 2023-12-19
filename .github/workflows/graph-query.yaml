@@ -2,7 +2,11 @@ name: Query
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 * * * *"
+
+# Run a single workflow at a time
+concurrency:
+  group: ${{ github.workflow }}
 
 jobs:
   process-changes:
@@ -38,7 +42,15 @@ jobs:
             --query-file ./queries/generate.rq \
             --number-of-concurrent-requests 20 \
             --wait-between-requests 100 \
-            --batch-size 50000
+            --batch-size 100000 \
+            --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
+            --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
+            --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
+            --triplydb-service-name "search" \
+            --triplydb-service-type "elasticsearch" \
+            --graph-name "https://data.colonialcollections.nl/nmvw-collection-archives" \
+            --dir-temp "$RUNNER_TEMP"
       - name: Save changes
         run: |
           cd ./data
