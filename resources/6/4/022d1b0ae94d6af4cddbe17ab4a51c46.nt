@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#name> "BESCHILDERD HOUTEN MASKER VAN EEN HERT OF GEIT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#description> "Houten masker dat een geit lijkt voor te stellen; er bestaat in Guerrero de Dans van de Geit." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#identifier> "TM-5730-25" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#material> "hout ; verf ; leer ; snijden ; polychromie" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

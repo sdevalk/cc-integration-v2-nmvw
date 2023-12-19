@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#name> "OPSTELBARE PLAAT VAN BEWONERS VAN POSSO DIE ETEN BEREIDEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#description> "Uitgave van het zendingsbureau in  Oegstgeest. Het betreft een 'opstelbare'  plaat  waartegen losse onderdelen opgesteld  worden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#identifier> "TM-4629-1a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4629-1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

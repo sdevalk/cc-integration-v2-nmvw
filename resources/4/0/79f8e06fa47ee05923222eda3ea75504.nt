@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#name> "FLENZEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#description> "Sophia (of Sopia) is in een tent bezig met het schoonschrapen van een huid op een flensplank met een vrouwenmesje. opm: Sophia behoort tot een familie die van de overkant van de fjord uit Umiqtuartvit komt en 's zomers in een witte tent in Tiderida woont. (zie ook beschr bij 65-10-1). huisraad te zien: oa olielamp, bord zeehondenvlees, pak havermout 'Solgryn', rechts op achtergrond pakje sigaretten 'Sesil'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#identifier> "RV-13161-65-10-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-65-10-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

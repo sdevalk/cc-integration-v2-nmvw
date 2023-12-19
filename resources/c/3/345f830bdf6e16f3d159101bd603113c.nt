@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#name> "EEN TRADITIONEEL KAPSEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#description> "Sigrid Jonathansen, een van onze beste vrienden uit Diilerilaaq is bezig het haar van mijn vrouw Noortje Nooter op de traditionele Groenlandse wijze op te maken. Daartoe wordt het haar naar boven gekamd in een knoet gestopt en vervolgens met een met kralen versierde band vastgezet. (1968)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#identifier> "RV-10233-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10233-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

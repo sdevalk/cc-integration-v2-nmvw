@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#name> "PEN CASE (QALAMDAN)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#description> "Bovenzijde: rivierlandschap met een onderwijzende soefi aan yogi met volgelingen en twee soefi's in gesprek met op de achtergrond derwisjen. Voorzijde: boer (3) & monnik : bedelmonnik (2) & dier : ezel. Achterzijde: rivierlandschap waarin 2 soefi's in gesprek en 2 pijprokende soefi's. Links een mediterende volgeling onder een boom. Onderzijde: berglandschap met jachtscene." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#identifier> "WM-68237" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#material> "papier-mache, verf, goudverf, lak\r\nbeschilderd & gelakt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68237> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#name> "POLOSPEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#description> "De boekschildering op de foto bevindt zich in de collectie van het Golestan museum in Teheran. Boekschildering waarin een polospel is uitgebeeld. Het polospel is een van de populaire sporten in hogere kringen, zoals het hof. De ruiters dragen rode polosticks en de bal bevindt zich in het centrum van de afbeelding." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#identifier> "TM-5979-222" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#yearCreatedEnd> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-222> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

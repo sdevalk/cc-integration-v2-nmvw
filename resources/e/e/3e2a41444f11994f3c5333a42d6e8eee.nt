@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#description> "[ST] voet & bovenrand & reliefribbe (horizontaal)\r\n[DE] rank & koord & verticale baan met geometrische figuren\r\n        (o.a. tumpal) & reliefband" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#identifier> "WM-34536" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#inscription> "[T] Br 485" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#material> "messing, gala\r\ngegoten (a-cire-perdue), gelast, gedreven, [RO] geelgieter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-34536> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

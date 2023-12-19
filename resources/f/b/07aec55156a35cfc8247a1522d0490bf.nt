@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <https://colonialcollections.nl/schema#name> "WITTE KATOENEN BROEK ALS ONDERDEEL VAN TROUWKLEDING VOOR EEN MAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <https://colonialcollections.nl/schema#description> "Witte, katoenen broek. Hij vormt onderdeel van de huwelijkskleding van een man uit Puebla (misschien Nahua?) en is in een winkel gekocht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <https://colonialcollections.nl/schema#identifier> "TM-2696-66c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2696-66c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#description> "[ST] gevlekt\r\n\r\nVoor het reinigen van katoenpluis van pitten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#identifier> "WM-68935" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#material> "bamboe, darm\r\ngesneden\r\nMagisch kwaadwerend gevlekt bamboe." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68935> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

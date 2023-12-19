@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#name> "EEN GADO HOSO" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#description> "Gado hoso of gadu osu is de Marron-omschrijving van Godshuis of tempel (Gadu=God;osu=huis). In elk dorp staan één of meerdere huisjes die als tempels dienen.\r\n\r\nIn een gadu osu staat een altaar waar voornamelijk plengoffers worden gebracht.  In het midden staat een paal in de grond, ponsu genoemd. Om de paal heen liggen allerlei attributen op de grond.  \r\nHet dorp Poeloegoedoe is het eerste drop aan de Tapanahonyrivier van Ndyuka Marrons. Het dorp ligt dichtbij de samenvloeiing van de Tapanahony en de Lawa op de Marowijnerivier." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#identifier> "TM-10018974" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018974> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

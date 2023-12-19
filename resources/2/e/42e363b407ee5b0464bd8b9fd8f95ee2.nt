@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#name> "BEELD VAN STAANDE MAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#description> "Beeld van een staande man met als hoofdtooi een schijf waarop een sierelement staat, mogelijk een dierenkop. Hij draagt een soort lendendoek: een heupband met een verticale doek. De rechterarm is afgebroken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#identifier> "TM-2908-241" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#yearCreatedEnd> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2908-241> <https://colonialcollections.nl/schema#yearCreatedStart> "-300"^^<http://www.w3.org/2001/XMLSchema#integer> .

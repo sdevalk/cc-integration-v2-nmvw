@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#name> "ETUI VOOR SIGARETTENPAKJE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#description> "Pijptabak en pruimtabak zijn door westerlingen geïmporteerd. Tabak en tabakswaren werden ook door de Inuit onderling verhandeld. Al snel werd roken erg populair en het is dat tot op de dag van vandaag gebleven. Inuit roken naar verhouding meer dan blanken, en hebben intussen ook kennis gemaakt met drugs (zie ook 6094-5 en 6094-414)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#identifier> "RV-6102-12" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#material> "leer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6102-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .

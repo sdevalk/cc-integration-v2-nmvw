@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#name> "RELIGIEUZE PRENT MET MOSKEE IN MEDINA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#description> "Prent met Arabische kalligrafie, Engelse tekst en een afbeelding van de moskee van de Profeet in Medina. De Arabische kalligrafie is de islamitische geloofsbelijdenis (shahada), gewoon geschreven en in spiegelbeeld. De Engelse tekst is de transcriptie en de vertaling van de Arabische kalligrafische tekst. De prent wordt als wandversiering gebruikt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#identifier> "TM-5757-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#material> "meerkleurendruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5757-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .

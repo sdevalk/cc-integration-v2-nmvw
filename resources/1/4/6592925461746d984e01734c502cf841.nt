@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#name> "KRISTIAN JONATHANSEN IN ZIJN KAJAK." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#description> "Kristian Jonathansen in zijn kajak. Alle bewapening is van de kajak \r\nverwijderd. Hier werd de kajak gebruikt als een boot van waaruit wier\r\ngeplukt werd en vervolgens naar huis gevaren. Groenlanders plukken\r\nwier als er erg weinig meer te eten is. Hoewel het hartje winter is, zoals\r\nop de foto duidelijk te zien is, is in Sarfaq het water naast Tiniteqilaq de stroom zo sterk dat we daar het hele jaar door water hielden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#identifier> "RV-10230-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10230-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#name> "POP DIE EEN JAVAANSE BATIKSTER VOORSTELT MET IN DE ACHTERGROND EEN WEEFSTER ACHTER EEN MODERN WEEFTOESTEL IN HET MUSEUM VAN DE AFDELING TROPISCHE PRODUCTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#description> "Zicht op een deel van de Nijverheidsafdeling op de derde omgang van het museum. De opstelling daterend uit 1939 was in 1948 opnieuw ingericht door de afdeling Tropische Producten. Onveranderd bleef de aandacht voor batik en weven, beiden geïllustreerd door poppen die de wijze van vervaardigen uitbeelden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#identifier> "TM-60059452" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60059452> <https://colonialcollections.nl/schema#yearCreatedStart> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#name> "DORPSTAFEREEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#description> "Een dorpstafereel uit Noord Indie, mogelijk gemaakt tijdens 16e - 17e eeuw. \r\nOp de achtergrand zitten een aardewerk-verkoper en en oude wijze in een kraampje. De koopman zit zijn vingers (en tenen ?) na te tellen. De grijsaard zit in diep gepeins verzonken op een wit kleed, in de rechterhand een rozenkrans, in de linker een boek. Naast hem ligt een pauwenveren waaier. \r\nEen aantal vrouwen zijn op de voorgrond uit gebeeld, die druk met elkaar praten. Een daarvan voedt de die op haar schoot ligt.  Een andere houdt een jongetje aan zijn hand. De rode stippen op hun voorhoofd duiden aan dat de dames Hindoe zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#identifier> "RV-722-21a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#material> "papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1699"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-722-21a> <https://colonialcollections.nl/schema#yearCreatedStart> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .

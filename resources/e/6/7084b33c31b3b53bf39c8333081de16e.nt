@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#name> "HAARKAM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#description> "Kam vervaardigd uit de middelste nerf van de bladeren van de kokospalm, bij elkaar gevlochten en gebonden met kokosvezel. \r\n\r\nTongaanse kammen zoals deze - \"helu\" - werden door vrouwen gemaakt en door mannen en vrouwen gedragen als versiering in het haar. De kammen dienden ook als indicatie van sociale rang: de gedetailleerder kammen werden gedragen door mensen van een hogere rang. Het zijn belangrijke voorwerpen doordat zij geassocieerd zijn met het hoofd, welke het meest sacrale deel van het lichaam is in Polynesië." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#identifier> "RV-74-23" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#material> "bladnerf (kokospalm) ; vezel (kokos)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-74-23> <https://colonialcollections.nl/schema#yearCreatedStart> "1770"^^<http://www.w3.org/2001/XMLSchema#integer> .

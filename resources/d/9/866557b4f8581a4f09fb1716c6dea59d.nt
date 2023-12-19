@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#name> "GROEPSPORTRET LEDEN VAN HET OOSTKUST VAN SUMATRA-INSTITUUT IN DE COMPAGNIESKAMER VAN HET MUSEUM VAN HET KOLONIAAL INSTITUUT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#description> "Op deze foto zijn leden van het Oostkust van Sumatra-Instituut te zien in de Compagnieskamer, ook bekend als de \"Van Gybland Oosterhoff-kamer\", in het museum van het Koloniaal Instituut." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#identifier> "TM-60024808" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024808> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

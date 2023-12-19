@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <https://colonialcollections.nl/schema#name> "HUISPANEEL MET HOUTSNIJWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <https://colonialcollections.nl/schema#description> "Het paneel is gebruikt ter decoratie van een huis en ter afwering van kwade invloeden. Het reliëf op het paneel laat in het midden twee om elkaar gekronkelde slangen zien. Verder zijn er monster-achtige figuren, twee jagende mannen, een tijger-achtig dier en een gedeelte van een mythische hond (asu) afgebeeld." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <https://colonialcollections.nl/schema#identifier> "TM-955-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-955-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

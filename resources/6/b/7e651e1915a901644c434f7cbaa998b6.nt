@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#name> "IJZEREN RINGBEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#description> "Deze bel wordt aan de middelvinger gedragen en aangeslagen met een duimring aan dezelfde hand." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#identifier> "RV-739-123" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#material> "ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-123> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

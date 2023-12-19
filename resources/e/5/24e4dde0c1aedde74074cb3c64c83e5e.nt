@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#description> "Glaspositief, dubbelglasplaatje, met rand van zwart papier\r\n\r\nOp de rand is 1etiket geplakt met geschreven tekst 'employé der Koninklijke Sumatra' en de getallen 22 en 36\r\n\r\nOp lijst aan binnenkant van deksel van doos waarin deze dia opgeborgen is staat voor foto 36 vermeld: 'employé der \"Koninklijke\" met eigen gedresseerde tijgers ten Sumatra's Oostkust 1903'\r\n\r\nOpname toont in een kooi een man met 3 tijgers" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#identifier> "7082-nf-718-36" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#material> "glas, papier, inkt, gelatine glasplaatdiapositief" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-718-36> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

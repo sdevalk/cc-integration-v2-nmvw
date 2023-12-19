@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#name> "KOKERDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#description> "Een kokerdoek gemaakt van geweven katoen. De doek bestaat uit twee identieke banen die in spiegelbeeld in de lengte aan elkaar zijn genaaid. Vervolgens zijn ze in de breedte vastgenaaid. De doek is rijk versierd in de kleuren donkerblauw, lichtblauw, rood en wit. Het middenvlak bestaat uit vele smalle lichtblauwe banen, die afgewisseld worden door banen in rood en wit. Naast deze middenbaan een baan met krullende kruisen opgesloten tussen smalle rode banen waarna een donkerblauwe baan volgt. Vervolgens twee rode banen, die een donkerblauw baan opsluit met versieringen in wit.\r\nDe doek is voor vrouwen bestemd.\r\nAfkomstig uit Talag op Roti." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#identifier> "RV-61-11" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

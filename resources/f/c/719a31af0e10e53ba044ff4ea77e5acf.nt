@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#name> "NARRATIVE OF A FIVE YEARS EXPEDITION AGAINST THE REVOLTED NEGROES OF SURINAM IN GUIANA ON THE WILD COAST OF SOUTH AMERICA FROM THE YEAR 1772 TO 1777" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#description> "Met 80 platen (verdeeld over beide delen)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#identifier> "WM-602769" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#material> "papier\r\ngedrukt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#yearCreatedEnd> "1796"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-602769> <https://colonialcollections.nl/schema#yearCreatedStart> "1796"^^<http://www.w3.org/2001/XMLSchema#integer> .

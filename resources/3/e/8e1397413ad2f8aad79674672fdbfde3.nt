@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#name> "PASTELTEKENING DOOR MEJ. TH. VAN BOSSE, JONGEN MET BEZEM, 1894." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#description> "Pasteltekening van een inheemse jongen, waarschijnlijk een bediende. De jongen heeft een bezem in de linkerhand en kijkt, staande in een deuropening, naar buiten. De tekening is te Laingsburg gemaakt en in de linker benedenhoek is met zwart potlood geschreven: Afrikani. \r\n\r\nVolgens het dagboek van Weber bevond de expeditie zich op 12 en 13 augustus 1894 te Laingsburg." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#identifier> "TM-2231-51" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#creator> "T.J. (Theodora Jacoba) Sleeswijk-Van Bosse" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2231-51> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#name> "Blouse" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#description> "Bruidskabaja voor de Akad nikah, de wettelijke islamitische huwelijksvoltrekking. Kabaja is van beige kant met brokaat inzetten en geborduurd met kraaltjes, pareltjes en paletten. De kabaja is gevoerd met zijden georgette en sluit met gevoerde drukknopen en haken en ogen op een belegstuk.\t\t\r\n \r\nkleur: beige, goud\r\nMotief: gestileerde motieven en 'strepen'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#identifier> "7082-S-4023-13" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#material> "Gouddraad is machinaal gecoucht op synthetische stof in kant met brokaat, zijde georgette. Kralen, pailetten met de hand erop geborduurd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-4023-13> <https://colonialcollections.nl/schema#yearCreatedStart> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

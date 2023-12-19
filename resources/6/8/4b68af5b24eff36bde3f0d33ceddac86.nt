@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-658> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-658> <https://colonialcollections.nl/schema#description> "1 = ketel met tuit in de vorm van slang\r\n      ([ST] steunsel (2) & draaibaar hengsel & tuit)\r\n2 = deksel\r\n      ([ST] knop\r\n       [DE] 2 paar concentrische cirkels)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-658> <https://colonialcollections.nl/schema#identifier> "WM-658" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-658> <https://colonialcollections.nl/schema#material> "messing\r\ngegoten, ingegrift (cirkels), [RO] geelgieter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-658> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

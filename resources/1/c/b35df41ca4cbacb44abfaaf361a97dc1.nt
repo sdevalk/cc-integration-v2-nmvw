@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#description> "ansichtkaart met een afbeelding van een gebouw\r\n\r\nmet gedeelde achterkant\r\nK Ltd\r\n\r\nOpname toont ene enorme open vlakte, grasveld, met op de achtergrond een indrukwekkend groot gebouw. \r\nAangenomen is dat het op Java staat en vermoedelijk een gebouw van het gouvernement is." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#identifier> "7082-nf-310" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#material> "papier, foto (ontwikkel gelatine-zilverdruk)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-310> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

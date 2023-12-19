@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#name> "KOKERS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#description> "Een tweetal kokers gemaakt van een lengte bamboe. De kokers hebben inschuivende houten deksels en bodems. In het midden van de deksels zijn gaten gemaakt waarin een gedraaid touw waarmee de kokers aan elkaar zitten. De kokers zijn versierd met ingesneden figuren, een ruit met lange uitstekende krullijnen. Hiertussen zijn sterren en stippen te zien. De randen hebben banden met driehoeken en zigzaglijnen. De figuren zijn zwartgekleurd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#identifier> "RV-2976-69" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; verf ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2976-69> <https://colonialcollections.nl/schema#yearCreatedStart> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#name> "MINIATUUR VAN RONDTREKKENDE SOEFI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#description> "Rondtrekkende soefi van onbepaalde orde, met alle attributen behorend bij een zwervend bestaan: mantel, bedelnap (kashkul), staf en een amfoor voor drinkwater. De amfoor is gedecoreerd met twee vogels, waarvan een vliegend, symbool voor de menselijke ziel op weg naar het paradijs. De stijl van schilderen verraadt duidelijk Chinese invloeden, vooral de wolken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#identifier> "WM-29001" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#material> "inkt & dekkende verf op papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#yearCreatedEnd> "1599"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29001> <https://colonialcollections.nl/schema#yearCreatedStart> "1575"^^<http://www.w3.org/2001/XMLSchema#integer> .

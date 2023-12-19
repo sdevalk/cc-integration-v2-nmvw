@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#name> "FAMILIEALBUM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#description> "Bij dit album zijn via de project-website www.fotozoektfamilie.nl de volgende opmerkingen en trefwoorden verzameld: \r\nPage 3:Fam.Mulder;Tjiboerial;zwembad Tjiboerial Buitenzorg. Page 4:Fam. Jansen;Fam. Mulder;Tjiboerial. Page 5:.v. Hengst;van Hengst. Page 8:Muloschool. Page 14:Johny Lem . Page 15:Depok. Page 16:Bennie en zus  Uhl;Ziekenhuis Buitenzorg. Page 18:Afscheidsfeest mej. Boers. Page 19:Buitenzorg;Tjilibong. Page 29:Muloschool. Page 32:klassenfoto. Page 34:Schip" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0841" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0841> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

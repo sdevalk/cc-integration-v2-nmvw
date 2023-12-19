@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#description> "[KL] zwart (fond) & geel & groen & rood & oranje & wit;\r\n[PA] banen borduurwerk van ca. 4,5 cm. breed;\r\n[VO] voile weefsel, beurtelings geweven in panama en satijn,\r\n        waardoor een streepeffect wordt verkregen. Hoofddoek is\r\n        om de ca. 4,5 cm. met een rij borduurwerk opgesierd en aan\r\n        drie zijden afgezet met kleine kleurige kwastjes." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#identifier> "WM-63938" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#material> "viscose, floszijde\r\ngeweven, geborduurd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-63938> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

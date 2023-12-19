@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#name> "SCHILDERING VAN ONSTERFELIJKEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#description> "Schildering in waterverf en inkt op papier. Religieuze volksschildering voorstellend een onsterfelijke met drie dienaren die een bak vasthouden. In de bak een boom met granaatappels in de vorm van het karakter 'hyo' (kinderlijke piëteit).\r\n\r\nFolk painting in water color and ink on paper. Religious scene depicting an immortal and three servants holding a container. In the container is a pomegranate tree shaped like the character 'hyo' (filial piety)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#identifier> "RV-666-154A" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-666-154A> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

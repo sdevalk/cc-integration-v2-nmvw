@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#name> "HOUTEN SCHEDE VAN KORT ZWAARD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#description> "Om de punt van de saya zit een koperen topstuk versierd met een zelfde bloemmotief als op de kashira (topstuk) en de band voor de tsuba van het zwaard zelf. De uitsparing voor de kogatana is aanwezig maar de kogatana zelf ontbreekt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#identifier> "TM-2322-6b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#material> "Hout ; lakverf ; koper ; snijden ; lakken ; houtbewerken ; metaalbewerken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2322-6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

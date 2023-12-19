@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#name> "MONUMENT 004" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#description> "Fonction du bâtiment:\r\nmaison\r\n Functie van het gebouw: huis\r\nType de façade: marocain \r\n Geveltype: Marokkaans\r\nDescription des parties classées: -" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#identifier> "RV-G6-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#material> "leem ; hout\r\nMethode de construction: brique rectangulaire\r\nConstructie-methode: rechthoekige leemsteen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-G6-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-428825-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-428825-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-428825-1> <https://colonialcollections.nl/schema#identifier> "WM-428825-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-428825-1> <https://colonialcollections.nl/schema#material> "[MT] glas\r\n[OP] stereonegatief" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-428825-1> <https://colonialcollections.nl/schema#creator> "dr. Gregor Krause" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-428825-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

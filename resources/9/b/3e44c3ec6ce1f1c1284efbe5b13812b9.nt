@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#name> "METALEN ARMBAND-AMULET" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#description> "De platte armband van witmetaal is aan de buitenzijde voorzien van twee tekstbanden in Arabisch schrift boven elkaar met o.a. de eerste soera en de basmala. Dergelijke armbanden worden gedragen als amulet, voor verzoeken om hulp bijvoorbeeld voor gezondheid, werk, welvaart, kinderen. Gekocht bij het mausoleum van de soefiheilige Bari Imam te Nurpur waar ambulante verkopers souvenirs aan de pelgrims verkopen. Industrieel vervaardigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#identifier> "TM-5685-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#material> "metaal ; metaalbewerken ; machinaal vervaardigen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5685-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

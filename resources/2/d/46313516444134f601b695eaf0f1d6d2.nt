@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#description> "[ST] opgeklonken losse rand & voet met ring en verbreed\r\n        benedenstuk (bevestiging voet met blad d.m.v. klinknagel) &\r\n        blad (plat)\r\n[DE] tumpal (voet)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#identifier> "WM-3554" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#inscription> "[B] Chinese letterteken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#material> "messing, roodkoper\r\ngegoten (a-cire-perdue), geklonken, [RO] geelgieter ;\r\n[PL] Padang" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3554> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

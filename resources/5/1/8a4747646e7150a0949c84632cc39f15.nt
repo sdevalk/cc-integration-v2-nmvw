@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#name> "TABAKSTAS (TABAKOIRE) (DORAN)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#description> "Etuivormig tabakstas van met zijde gestikt leer. De bovenzijde van de sluitplaat wordt gevormd door een bol geslagen VOC-munt ('Zeelandia 1724') gevat in een ring van shakudô. Aan de bovenzijde metalen uitsparingen voor hangwerk." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#identifier> "RV-1-595" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#material> "leer ; hout ; zijde" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-595> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

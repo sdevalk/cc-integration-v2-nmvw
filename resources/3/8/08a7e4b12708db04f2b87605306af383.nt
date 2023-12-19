@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#name> "JONGE VROUW MET MATROELI IN HAREN EN RINGETJES IN OOR." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, missiefotografie, portret en profil van een vrouw met diverse oorversieringen, zoals kleine zilveren ringetjes in de oorrand en dun zilveren plaatje, de 'slingeraar' dat met een kort kralensnoertje aan de oorrand is bevestigd. Matroeli (nassa-schelpjes, kleine witte katjesschelpen) in de haren." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#identifier> "WM-940039-12-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk, Gevaert" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940039-12-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

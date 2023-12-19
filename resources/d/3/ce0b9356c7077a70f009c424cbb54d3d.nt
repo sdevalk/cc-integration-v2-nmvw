@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#name> "BEDRUKTE KATOENEN PROEFLAP IMITATIEBATIK MET RUITFIGUUR MET FAZANTEN, BESTEMD VOOR DE UITVOER NAAR WEST-AFRIKA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#description> "Proeflap van de Vlisco-fabriek met patroon dat is afgeleid van de doek onder nummer 814-1, een gebatikte selendang van Jambi.\r\nIn het midden is een langwerpige ruit afgebeeld, een modang, met daarop twee naar elkaar gewende fazanten. Het overige veld van de doek is geheel gevuld met kronkelende bloem- en bladranken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#identifier> "TM-1008-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#creator> "Vlisco B.V." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1008-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

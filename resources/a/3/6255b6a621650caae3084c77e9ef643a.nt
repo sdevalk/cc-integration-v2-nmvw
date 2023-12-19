@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <https://colonialcollections.nl/schema#name> "REPLICA VAN EEN INDO-JAVAANS BEELD, VOORSTELLENDE EEN BODHISATTVA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <https://colonialcollections.nl/schema#description> "De Bodhisattva is afgebeeld in de bhumisparshamudra houding. Bij deze houding  wijst de rechterhand omlaag met vingers naar beneden en de handpalm naar het lichaam gekeerd. Deze houding symboliseert de 'aanraking van de aarde'.\r\n(bhumisparshamudra): deze houding symboliseert de 'aanraking van de aarde'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <https://colonialcollections.nl/schema#identifier> "TM-A-1461" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-1461> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

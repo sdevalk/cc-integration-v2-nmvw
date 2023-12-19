@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#description> "Sinta door Rahwana ontvoerd.\r\nDe demonenvorst Rahwana heeft prinses Sinta geroofd. Op zijn\r\nterugtocht naar Ngalengka raakt hij slaags met de reuzenvogel\r\nDjataj, die aan de kant van Sinta's echtgenoot, Rama staat." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#identifier> "WM-59174" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#material> "olieverf op board (drager) & geschilderd (polychroom)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#creator> "Sukasman" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-59174> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

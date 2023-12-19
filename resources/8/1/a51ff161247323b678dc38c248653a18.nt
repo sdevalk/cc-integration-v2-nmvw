@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#description> "Film op spoel in metalen doos. Op de spoel staat, nauwelijks leesbaar, geschreven in potlood 'suikerriet'.\r\nDe doos hoort oorspronkelijk niet bij de spoel.\r\n\r\nDe film toont een grote groep menners met karbouwen die voorbij lopen; Nederlandse en inlandse ambtenaren; karbauwen voor een stal met voorbijlopende menners met karbouwen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#identifier> "7082-nf-735" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#material> "metaal, karton, acetaatcellulose?, 16-mm film, gedigitaliseerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#creator> "Dr. Jacobus Wilhelm (Wil) Poser" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-735> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

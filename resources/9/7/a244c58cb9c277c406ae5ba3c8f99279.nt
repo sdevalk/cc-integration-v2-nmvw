@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#name> "KINDEREN TIJDENS KONINGINNEDAG OP DE PASAR GAMBIR IN BATAVIA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#description> "Deze foto is genomen vanuit de lichttoren (met reclame voor Ferrowatt gloeilampen) op het terrein van de Pasar Gambir. Volgens het bijschrift was de Pasar Gambir op Koninginnedag voor de kinderen. Rechts is een replica op schaal van het kantoor van persbureau Aneta aan de Postweg Noord in Batavia te zien (later kantoor van Antara News, Jakarta)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#identifier> "TM-60029699" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#creator> "Fotografisch Atelier \"van Felde\" / Fotopersbureau Ter Laag" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029699> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

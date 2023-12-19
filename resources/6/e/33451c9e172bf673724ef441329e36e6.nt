@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#name> "GEZICHT OP NOORDWIJK LANGS DE MOLENVLIET IN BATAVIA, MET ONDER MEER RESTAURANT MAISON VERSTEEG, DE VAKSCHOOL \"MATER DEI\" VAN DE ZUSTERS URSULINEN EN HET KANTOOR VAN DE NILLMIJ" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#identifier> "TM-60001124" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#creator> "dr. A.N.J. Thomassen à Thuessink van der Hoop" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#creator> "M. (Mohamed) Ali" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60001124> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#name> "KOP VAN BOEDDHABEELD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#description> "Met  rond hoofd, fijn geelaboreerde, geloken ogen, neus, mond; volle zacht glimlachende lippen. Op het voorhoofd een urna. Lang uitgerekte oorlellen. Hoofd bedekt met naar rechts draaiende krulletjes, en de uitwas (usnisa) draagt nu twee rijen krulletjes. Rechter oor en rechterzijde van het gezicht afgebroken.\r\nVertoont kenmerken van de stijl van Borobudur in Midden-Java. Het hoofd is kennelijk afkomstig van Boeddhabeelden op de terrassen van dit monument. Grotendeels van deze beelden stellen Dhyaniboeddha's (Jina's) voor." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#identifier> "RV-1403-1608" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#material> "grijs andesiet" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1608> <https://colonialcollections.nl/schema#yearCreatedStart> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <https://colonialcollections.nl/schema#name> "MEXICAANSE KEUKEN IN MINIATUUR IN EEN HOUTEN KAST MET GLAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <https://colonialcollections.nl/schema#description> "Beschilderd houten kastje met glazen voorwand. In het kastje is in miniatuur een Mexicaanse keuken nagemaakt. De muren hangen vol met allerlei gebruiksvoorwerpen, op de vloer staan van links naar rechts een mannetje met schenkkan, een hondje, een houtoven, een vrouwtje dat deeg rolt, een poes en een ander vrouwtje dat een kip bereidt aan de keukentafel.\r\nDergelijke kastjes zijn uitingen van Mexicaans volkskunst die louter ter decoratie dienen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <https://colonialcollections.nl/schema#identifier> "TM-4667-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4667-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#name> "KRUISBEELD EN GEVLOCHTEN MATTEN IN EEN ROOMS-KATHOLIEKE KERK IN DE OMGEVING VAN SAWA-ERMA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#description> "Kruisbeeld in een rooms-katholieke kerk in de omgeving van Sawa-Erma. Aan weerszijden zijn gevlochten matten te zien. Deze kerk die een Amerikaanse missionaris als pastoor heeft, Vince Cole, ligt op de grens van de dorpen Sawa en Er.\r\nThe crucifx was carved by the Asmat artist Anaklitus Yiwirjak and is in the Church of Kristus Amor in Sawa, Asmat." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#identifier> "TM-20041258" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#creator> "W.T. (Willem Theodoor) van Oijen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20041258> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

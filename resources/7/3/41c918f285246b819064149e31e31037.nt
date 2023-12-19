@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <https://colonialcollections.nl/schema#name> "PLUIM VAN CASUARISVEREN ALS HOOFDSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <https://colonialcollections.nl/schema#description> "Deze pluim wordt bij feestelijke gelegenheden in het haar of op het achterhoofd gestoken.\r\n\r\nVervaardiging\r\nDe veren zijn door een omwinding van plantenvezels aan een rotan staaf bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <https://colonialcollections.nl/schema#identifier> "TM-A-2378c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2378c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#name> "DE OVERKAPPING VAN HET STATION TE MAOS WORDT AFGEBROKEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#description> "Vermoedelijk is het afbreken van de overkapping gebeurd na de aardbeving in 1923. In Het nieuws van den dag voor Nederlandsch-Indië van 18-06-1923 staat gemeld dat het station zal worden opgebouwd van lichter materiaal en zonder overkapping." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#identifier> "TM-30007240" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30007240> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

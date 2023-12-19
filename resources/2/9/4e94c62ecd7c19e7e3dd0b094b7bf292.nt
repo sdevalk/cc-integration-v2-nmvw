@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#description> "Tentoonstelling \"Thuis is ver weg\"\r\n23 september t/m half november 1977.\r\nDe drie fotografen Maya Pejic, Thijs Koobs en Almar Tjepkema \r\nfotograafden resp. in Marokko, Turkije en Kaap Verdië.\r\nZe deden in opdracht van de Voorlichtingsdienst Ontwikkelings-\r\nsamenwerking van het Ministerie van Buitenlandse Zaken.\r\nFoto: 2 vrouwen voor hun turkse huis." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#identifier> "WM-908766" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#material> "ontwikkel gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#creator> "Thijs Koobs" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908766> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

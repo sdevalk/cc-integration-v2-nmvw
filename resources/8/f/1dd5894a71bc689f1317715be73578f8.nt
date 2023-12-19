@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <https://colonialcollections.nl/schema#name> "ARMBAND VAN SCHILDPAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <https://colonialcollections.nl/schema#description> "Armband, gedragen door vrouwen (De Clercq en Schmeltz, p. 38, no. 199, en PL. IX, nr. 3).\r\n\r\nVervaardiging\r\nBrede manchetvormige armband van schildpad die zodanig is bewerkt dat de uiteinden van de brede strook over elkaar vallen. In de armband zijn versierende lijnfiguren gekerfd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <https://colonialcollections.nl/schema#identifier> "TM-A-30h" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-30h> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KRUIK MET DE AFBEELDING VAN EEN HOOFD OP DE HALS VAN DE KRUIK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#description> "Kruik met op de hals de afbeelding in reliëf van een hoofd van een mens. Zowel in de neus als in de oren draagt hij sieraden. Een band loopt rondom het hoofd. Datering en herkomst onbekend." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#identifier> "TM-2995-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2995-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

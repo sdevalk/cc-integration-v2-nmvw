@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <https://colonialcollections.nl/schema#name> "AARDEWERKEN POT, BESCHILDERD MET DIERFIGUREN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <https://colonialcollections.nl/schema#description> "Pot voor sagopap, rood geschilderd. Op de buitenzijde van de pot in zwart met wit een afbeelding van een vogel, een vis en een kwal (?). \r\nDeze potten spelen een rol bij het initiatieritueel van de jongens in het mannenhuis. Voor het ritueel brengen de vrouwen de potten met sagopap naar het mannenhuis.\r\n\r\nVervaardiging\r\nDe vrouwen maken de potten, in het mannenhuis worden ze door de mannen beschilderd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <https://colonialcollections.nl/schema#identifier> "TM-2135-52" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2135-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

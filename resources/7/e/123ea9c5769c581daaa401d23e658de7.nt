@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#name> "ROODKOPEREN ÉÉN-CENTSTUK VAN NEDERLANDS-INDIË" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#description> "Roodkoperen centstuk van Nederlands-Indië met aan de voorzijde het gekroonde Nederlands wapenschild, tussen de cijfers van het jaartal in. De keerzijde bevat Indische termen in het Arabisch geschreven: saperratoes roepiah, wat éénhonderdste van een gulden betekent. Het omschrift van deze zijde bevat Javaanse lettertekens, weer met voorgaande tekst van saperratoes roepiah." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#identifier> "TM-908-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#inscription> "Zie beschrijving" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#name> "GELAKTE SAKE-FLES GEMAAKT VAN KALEBAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#description> "Een gedroogde en gelakte kalebas met decoratie in goudlak hiramakie van pioen, bamboe, gras en karakusa. De fles hoort tot de set RV-1-1929.\r\nDe stop ontbreekt. \r\n\r\nKalebassen worden in Japan al millenia gebruikt als natuurlijke waterfles. De lagen lakwerk aan de buitenzijde helpen om de fles waterdicht te maken en dienen ter decoratie. \r\n\r\nGereproduceerd in Nippon, II-11 (f) 13 [160]" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#identifier> "RV-1-434" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#material> "kalebas ; lak ; lakwerk ; makie" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-434> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#name> "\"IRIAN JAYA, BALIEM VALLEI  WAMENA; TWEE VROUWEN OP WEG NAAR DE MARKT HEBBEN EVEN EEN TUSSENSTOP GEMAAKT BIJ HET VLIEGVELD OM TE KIJKEN NAAR AANKOMST EN VERTREKT VAN KLEINE VLIEGTUIGJES. WAMENA IS IN 1993 NOG NIET OVER LAND TE BEREIKEN. ALLES WORDT DOOR D" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#identifier> "TM-20024200" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#creator> "Jaap de Jonge" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20024200> <https://colonialcollections.nl/schema#yearCreatedStart> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .

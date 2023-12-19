@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#description> "Chinees bruidspaar, gekleed in Chinese peranakanstijl (gemengd Chinees, Oost-Sumatraans en Javaans). De bruidegom verkocht het kostuum (plus deze foto waarschijnlijk) aan de broer van dr. T.Y. Tjan, die zijn werkgever was." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#identifier> "WM-58523" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#material> "ontwikkelgelatinezilverdruk, reproduktie vermoedelijk in 1965 gemaakt en vermoedelijk een verkleining van het origineel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-58523> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

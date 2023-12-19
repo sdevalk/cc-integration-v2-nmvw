@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#name> "LUCHTFOTO VAN EEN MARRONDORP GELEGEN AAN DE COTTICA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#description> "Een Marrondorp aan de Cotticarivier dichtbij Moengo. Marrondorpen zoals op de foto hierboven lagen om de bauxietplaats Moengo heen. De plaats Moengo werd aan het begin van de 20e eeuw gesticht en was aanvankelijk alleen via de Cotticarivier te bereiken. Sinds 1964 is Moengo ook vanuit Paramaribo te bereiken via de Oost-West verbinding. Via de Cotticarivier voer men langs de dorpen zoals hier op de foto te zien is." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#identifier> "TM-10020745" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10020745> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

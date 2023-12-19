@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#name> "PICKNICKSET" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#description> "Picknickset van gelakt hout met oppervlaktedecoratie van bamboevlechtwerk. Het hengsel is van bamboe. De voorzijde van het kastje is naar boven uitschuifbaar. Daarachter drie laden met dezelfde decoratie aan de voorzijde als de buitenzijde. Geen beschrijving in Nippon." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#identifier> "RV-1-438" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#material> "hout ; bamboe ; lak ; lakwerk ; vlechtwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-438> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

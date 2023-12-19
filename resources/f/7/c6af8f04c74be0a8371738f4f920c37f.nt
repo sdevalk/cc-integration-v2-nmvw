@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <https://colonialcollections.nl/schema#name> "BOVENARMVERSIERING VAN VARKENSTESTIKELS MET ZAADSTRENGEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <https://colonialcollections.nl/schema#description> "Worden als versiering aan de bovenarm gedragen, ook als teken van dapperheid. Het wilde varken is toch het enige niet weerloze dier in deze streken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <https://colonialcollections.nl/schema#identifier> "TM-H-1020a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1020a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#description> "Mannen uit Ngaon dansen (salai), terwijl er een op de mondharmonica het walen-ritme spelt. Op de achtergrond Seba Besi uit Awer die de jiawa of legu dans weer doet (nadat de adat uitvoering al is geweest)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#identifier> "RV-6234-979" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-979> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

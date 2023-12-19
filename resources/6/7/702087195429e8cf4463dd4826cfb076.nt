@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#description> "In het midden een langwerpige ruit, hier versierd met cemukiran, een vlammotief, als randdecoratie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#identifier> "WM-24859" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#material> "katoen\r\nbatik & tritik" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24859> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

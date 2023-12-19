@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#name> "MET RANKEN EN VOGELS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#description> "[PA] hoofdpatroon & motief : rank (stengel & bloem & blad) &\r\n        vogel\r\n[KL] ondergrond : grijsblauw (licht)\r\n        motief : naturel & grijsblauw (donker) & donkerblauw\r\n[ST] kraag & lange mouw & borstzak (links) & split (2) & verdekte\r\n        boordsluiting" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#identifier> "WM-71725" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#inscription> "1 = [T] ready to wear\r\n           Danar Hadi &\r\n2 = [T] Medium &\r\n3 = [T] US" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, batik, tulis, craquele en genaaid" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#creator> "Danar Hadi" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71725> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

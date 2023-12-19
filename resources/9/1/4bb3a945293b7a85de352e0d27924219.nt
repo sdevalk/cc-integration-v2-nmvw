@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#name> "EXPEDITIELEDEN MET HUN KANO'S AAN DE OEVER VAN DE OTAKWARIVIER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#description> "Deze foto is gemaakt tijdens de 2e Wetenschappelijke Engelse Expeditie in Zuid Nieuw Guinea, van 1912 tot 1913." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#identifier> "TM-10010242" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010242> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

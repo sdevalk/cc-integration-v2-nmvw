@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#name> "AFFICHE 'CONTINUITEIT EN DISCONTINUITEIT IN CULTUUR' IN HET RIJKSMUSEUM VOOR VOLKENKUNDE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#description> "Affiche voor het symposium 'Continuiteit en Discontinuiteit in Cultuur - Veranderingen in samenlevingen in Arctische en Tropische gebieden' in het Rijksmuseum voor Volkenkunde van 14 december 1990. Het symposium wordt gehouden naar aanleiding van het afscheid van drs. Gerti Nooter. Conservator van de afdeling Noord-Amerika en Arctische Culturen van het Rijksmuseum voor Volkenkunde." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#identifier> "RV-6235-183" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-183> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

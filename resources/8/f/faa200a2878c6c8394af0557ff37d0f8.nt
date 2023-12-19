@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#description> "1 = tabakszak (l 13 x br 7 x dikte 1.5 cm / zwart / knoop in de vorm\r\n      van een vogel : duif / leer & ivoor) \r\n2 = foedraal (l 24.5 x br 4 cm / zwart met koord en gordelknoop \r\n      (netsuke) / leer & ijzer)\r\n3 = pijp (l 26 x dikte 1 cm / decoratie \r\n      van golf en visgraat / bamboe & messing & wit metaal) \r\n4 = knoop (diam 4 x dikte 2 cm / hout)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#identifier> "WM-4121" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#material> "hout, bamboe, messing, leer, ijzer, ivoor" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4121> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

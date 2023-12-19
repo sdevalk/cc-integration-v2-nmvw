@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#name> "Foedraal voor een geweer?" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#description> "Waarschijnlijk foedraal voor een geweer.\r\n\r\nBeschrijving\r\nSmal toelopende leren zak, waaraan gedeeltelijk tot koordjes gedraaide leren franje. De boven- en onderkant zijn beiden voorzien van een brede strook kralenversiering. Kleur van de kralen: geel, rose, groen en blauw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#identifier> "AM-1-609" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#material> "Leer; kralen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-609> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

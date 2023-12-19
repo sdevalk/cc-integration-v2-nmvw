@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#description> "Kom met geometrische schildering aan de binnen en buitenzijde. Aan de buitenzijde zijn in een soort schaakbord patroon twee motieven geplaatst bestaande uit een 1. Andreas kruis met een cirkel in het midden en 2. twee in elkaar geplaatste vierkantjes Deze twee motieben worden van elkaar gescheiden door verticale en horizontale lijnen.\r\nAan de binnenzijde zijn twee meanders geschilderd die telekens aan één uiteinde rond is en aan de andere kant hoekig.  In het centrum is een 'zandloper' -motief geschilderd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#identifier> "WM-44883" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#material> "aardewerk\r\nbeschilderd\r\nNicoya polychroom-stijl." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44883> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

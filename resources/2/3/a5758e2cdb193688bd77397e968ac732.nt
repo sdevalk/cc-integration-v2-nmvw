@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#name> "TABAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#description> "Tabak wordt in vele delen van Nieuw Guinea verbouwd. Tabak wordt gewoonlijk door de mannen met een bamboepijp of in de vorm van een sigaret gerookt. Vaak roken ook de vrouwen en de jongens. De rook van de tabak en andere bladeren worden vaak bij genezing gebruikt. Tegenwoordig wordt ook veel westers tabak gerookt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#identifier> "RV-2120-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#material> "tabaksbladeren" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2120-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

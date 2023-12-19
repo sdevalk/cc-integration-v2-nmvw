@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#name> "Ploertendoder" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#description> "IJzeren stang, achthoekig in doorsnede. Beide einden dunner wordend. In het midden is een ijzeren pin gestoken, die aan een kant een oog vormt. In dat oog een ijzeren ring (stomp wapen voor verdediging).\r\nHerkomst: Westerafdeling van Borneo." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#identifier> "7082-S-13-131" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#material> "ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-13-131> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

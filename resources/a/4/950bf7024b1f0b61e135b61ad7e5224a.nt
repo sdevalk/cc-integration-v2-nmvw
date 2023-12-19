@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#name> "HAARVERSIERING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#description> "Azuwa (hair ornaments) are used for decoration by the Ọba’s wives (Oloi) in their Okuku (wig). They may also be used to scratch the scalp.\r\n\r\nEen dunne pin van messing met een dunnere punt die loodrecht eruit steekt. De beschrijving op de oude inventariskaart geeft aan dat er eerst kralen met hars vastgemaakt zaten aan de onderkant. Het is waarschijnlijk een haarversiering." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#identifier> "RV-1295-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#material> "messing" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1295-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S VAN DE AANLEG VAN DE KOLENHAVEN KERTAPATI BIJ PALEMBANG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#description> "Album met foto's van de aanleg van de kolenhaven Kertapati bij Palembang, het eindpunt van de Staatsspoorwegen in Zuid-Sumatra (ZSS). Op de eerste pagina bevindt zich een overzichtskaart met het ontwerpplan. Tevens is er een kaart aanwezig getiteld \"Tochten naar Mendis\". Daar, aan de rivier Lalang, vond houtaankap plaats. Volgens het bijschrift lag het op een afstand van 280 kilometer varen van Palembang." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#identifier> "TM-ALB-1349" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1349> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .

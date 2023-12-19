@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <https://colonialcollections.nl/schema#identifier> "WM-3891" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <https://colonialcollections.nl/schema#material> "riet\r\ngevlochten\r\nVoordat het riet bewerkt wordt, zetten de Indianen het in water om te weken, om het daarna in fijne repen te kunnen snijden. Worden meestal in \"nesten\" gemaakt. Ze zijn zeer zeldzaam en duur en worden tegenwoordig zo goed als niet meer gemaakt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3891> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

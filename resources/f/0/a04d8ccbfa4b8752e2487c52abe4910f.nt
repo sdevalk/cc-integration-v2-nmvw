@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#name> "[NI]" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#description> "Adviesnr.\t888a\t\r\nInitiatief\tFB\t\r\nBetreft\tSchenking Galestin Indonesische en Europese schilderingen\r\nDatum\t27-10-2022\t\r\nStatus\tFase 4: Ontvangen COL\r\nVolgende stap\tFase 5: Inschrijven REG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#identifier> "T-1345" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#material> "Title" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#material> "[NI]" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1345> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

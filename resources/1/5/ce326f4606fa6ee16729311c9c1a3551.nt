@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#description> "Foto van een spreker en zijn gehoor, waaronder president Sukarno.\r\n\r\nbijschrift; 'Dalam ruangan pertemuan maha-siswa di Istana, J.M.Menteri P.P.K. RIS Dr. Abu Hanifah membentangkan rentjana pembangunan dalam lapangan pendidikan.\r\nStudents assembled in the large Palace Hall spoken to by Dr. Abu Hanifah, the first Minister of Education and Culture of the Republic of the United States of Indonesia, on the reconstruction of the new educational system'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#identifier> "7082-nf-865-4-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#material> "papier, ontwikkel-gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-865-4-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

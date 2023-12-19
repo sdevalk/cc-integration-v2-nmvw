@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S VAN SALATIGA AANGEBODEN DOOR DE GEMEENTEAMBTENAREN VAN DIE PLAATS AAN ASSISTENT-RESIDENT A.H. NEIJS, TER GELEGENHEID VAN ZIJN AFTREDEN ALS VOORZITTER VAN DE GEMEENTERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#description> "De opdracht voorin het album luidt alsvolgt: \"Aangeboden aan den Aftredende Voorzitter van den Gemeenteraad van Salatiga den Heer A.H. Neijs door de Gemeenteambtenaren. Salatiga, 22 Mei 1925.\" Neijs was vanaf 1923 assistent-resident in Salatiga." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0184" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0184> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

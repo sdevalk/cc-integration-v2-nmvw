@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#description> "Gezicht op Kobe vanaf de berg Suwa gezien. \r\n\r\nIn het veld links van de grote weg net voorbij de weg naar links is in 1882 een parlementsgebouw gebouwd. De (originele) opname is dus gemaakt voor 1882. Deze afdruk is zeer vermoedelijk, gezien de andere foto's in het album en het album zelf, van latere datum." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#identifier> "7082-nf-582-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#material> "papier, albuminedruk, gekleurd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-582-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

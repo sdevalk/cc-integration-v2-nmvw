@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#name> "FORT PRINS FREDERIK IN HET WILHELMINAPARK, WELTEVREDEN (BATAVIA)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#identifier> "TM-10015199" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10015199> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

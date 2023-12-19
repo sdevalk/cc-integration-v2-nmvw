@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#name> "RIJGDRADEN VOOR SIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#description> "Setje onderdelen voor 'kundan on demand'. Zilverschakels (met emaille) als basis. Zakje losse kraaltjes en koperen rijgdraadjes. In de winkel kun je zelf aan de hand van dit soort onderdelen je sieraad laten samenstellen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#identifier> "RV-6078-31c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#material> "koper" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-31c> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

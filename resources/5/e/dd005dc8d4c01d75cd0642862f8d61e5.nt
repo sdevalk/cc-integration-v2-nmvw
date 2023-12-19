@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#description> "Fotonegatief, zwart/wit, rechthoekig, opgeborgen in zuurvrije envelop.\r\n\r\nTwee negatieven aan elkaar, twee opnames dus van hetzelfde onderwerp.\r\nOp het negatief, tussen beide in is in inkt het cijfer '2' aangebracht.\r\nOpgenomen in TMS is degeene zonder schade aan het negatief.\r\n\r\nHet is een fraaie opname van een rivier met aan de oever gemeerd liggende prauwen en grotere boten, mogelijk vissers- of vrachtschepen van de lokale bevolking. \r\nOpvallend is ook de vegetatie.\r\n\r\nVoor mogelijke gegevens over verwerving zie 'opmerkingen'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#identifier> "7082-nf-907-65" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#material> "negatief (zwart/wit)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-907-65> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

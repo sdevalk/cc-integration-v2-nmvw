@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#name> "PENNING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#description> "Eén penning van een set van twee, in jubileumcassette. Op de voorzijde de ontdekkingsreiziger Knud Rasmussen met de jaartallen 1879/1933/1979. Op de achterzijde trommendanser en hond." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#identifier> "RV-6094-392a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#material> "brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6094-392a> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#name> "KATOENEN OMSLAGDOEK OF DEEL VAN EEN PONCHO" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#description> "Er zijn twee typen versiering in de Shipibo cultuur: fijne, gebogen en rechte lijnen, of dikke blokpatronen. Elke pot is uniek doordat de range aan motieven onbegrensd is. De motieven die ook gebruikt worden op het lichaam, verbeelden rivieren, sterrenconstellaties, plattegronden, visioenen en grote boa's (slangen).\r\nOok wordt gesteld dat de patronen afgeleid zijn van het gezang van sjamanen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#identifier> "TM-5074-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#material> "katoen ; kleurstof ; weven ; beschilderen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5074-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

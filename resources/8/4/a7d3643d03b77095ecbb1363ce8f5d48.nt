@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#description> "Penning met op de voorzijde borstbeeld van luitenant generaal Karel van der Heijden in uniform met decoraties. Randschrift 'Luit. Generaal Karel van der Heijden Adj. D.K. Gouv. Mil. Bevelh. van Atjeh 1871-1881'.\r\nOp de keerzijde de generaal te paard bij de slag in Samalangan waarbij hij zijn oog verloor. Met randschrift:'Hulde aan de Dapperen en Beleidvollen Veldheer' en onderschrift 'Samalangan 26 augustus 1877'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#identifier> "7082-S-3890" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#material> "brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3890> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

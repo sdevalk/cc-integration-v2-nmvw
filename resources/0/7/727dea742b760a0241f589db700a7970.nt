@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <https://colonialcollections.nl/schema#name> "HOUTEN BALK, ONDERDEEL VAN EEN KEPERWEEFGETOUW" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <https://colonialcollections.nl/schema#description> "Bij de uiteinden van deze twee zijbalken zijn rechthoekige openingen waar de hoekpalen doorheen gestoken worden. De ene zijbalk is aan de linkerzijde van de weefstoel bevestigd, de andere aan de rechterzijde." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <https://colonialcollections.nl/schema#identifier> "TM-2440-13m-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2440-13m-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

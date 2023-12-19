@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#name> "PRINSENMUTS VAN GEVLOCHTEN, GETWIJNDE RAFFIA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#description> "De muts is vermoedelijk afkomstig uit de omgeving van Banana in het Neder-Kongo gebied." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#identifier> "TM-A-10956" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10956> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

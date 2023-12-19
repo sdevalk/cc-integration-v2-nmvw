@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <https://colonialcollections.nl/schema#identifier> "WM-68024" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <https://colonialcollections.nl/schema#material> "linnen, wol\r\nLinnenbinding.\r\nUit de pre-islamitische tijd (5e-7e eeuw) stammen weefsels van ragfijne linnen garens met wol. De Kopten, een christelijke samenleving in Egypte, weefden vooral kleding - tunieken en mantels - voor mannen,\r\nvrouwen en kinderen. Kenmerkend voor koptisch textiel zijn de decoraties aangebracht met een apart spoeltje, de z.g. 'vliegende spoel', waarop linnen garen is gewikkeld, waarmee de contouren van een decoratie geaccentueerd werden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <https://colonialcollections.nl/schema#yearCreatedEnd> "699"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-68024> <https://colonialcollections.nl/schema#yearCreatedStart> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <https://colonialcollections.nl/schema#name> "HOUTEN KNOTS MET STENEN KOP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <https://colonialcollections.nl/schema#description> "Lange knots met houten steel en een bolronde stenen kop. De steel eindigt in een punt.\r\n\r\nVervaardiging\r\nIn de stenen bolvormige kop is een rond gat geboord. Door dit gat steekt een houten steel. Onder de kop is de steel met vezel omwonden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <https://colonialcollections.nl/schema#identifier> "TM-2416-266" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-266> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

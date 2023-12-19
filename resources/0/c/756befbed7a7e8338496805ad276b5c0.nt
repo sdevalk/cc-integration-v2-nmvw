@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#name> "BEELD: BEER, MET IN PETROGLYPH-STIJL AANGEBRACHTE MOTIEVEN: RUITER MET BOOG, KOKOPELLIS, HERTEN, MAÏS, MAN-IN-THE-MAZE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#description> "Beer, in abstract gistileerde vorm van aardewerk, met in petroglief-stijl aangebrachte motieven o.a. ontleend aan culturen van buurvolken: de fluitspelende Kokopelli (Anasazi en hun Puebloan nazaten), de Mens in het Labyrint (Man in the Maze; Pima/Papago), de berenpoot en een maïsplant.\r\nDe makers, Curtis Yanito en Julia Blackhorse, signeren hun aanrderk met de naam van hun dochtertje: Binísh táa." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#identifier> "RV-6134-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#material> "aardewerk, pigment" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6134-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

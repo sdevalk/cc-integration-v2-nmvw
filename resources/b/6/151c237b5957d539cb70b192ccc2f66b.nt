@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#name> "SABU SEBA, CLAN SUKU NATAGA. HEILIGE PLAATS. HET VERHAAL GAAT DAT DEZE BELANGRIJKE STENEN VROEGER BESCHERMD WERDEN DOOR ZEER STEKELIGE STRUIKEN. ALS DEZE 'S OCHTENDS GEKAPT WERDEN, WAREN ZE 'S AVONDS WEER AANGEGROEID." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#identifier> "TM-20023129" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#creator> "M. (Michael) Barak" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023129> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

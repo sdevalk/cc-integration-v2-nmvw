@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <https://colonialcollections.nl/schema#name> "DOPJE (B) VAN HOUTEN DOOSJE (A)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <https://colonialcollections.nl/schema#description> "Stop van donker hout, behorend bij een klein rond doosje van mooi gevlamd hout (rhododendron of walnoot) met een ivoren tuitje.\r\nWaarschijnlijk bedoeld voor enigerlei soort van snuif, bijvoorbeeld in de vorm van poedertabak (gebruikt als opwekkend middel maar ook bij verkoudheid)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <https://colonialcollections.nl/schema#identifier> "TM-3092-11b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3092-11b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

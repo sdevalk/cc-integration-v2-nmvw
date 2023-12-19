@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <https://colonialcollections.nl/schema#name> "BESCHILDERD AARDEWERKEN POT MET INGEKRASTE VERSIERING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <https://colonialcollections.nl/schema#description> "De pot is versierd met drie horizontale rondom lopende banen opgevuld met kleine ruitjes (ingekraste lijnen), terwijl de middelste baan een driehoeksversiering heeft, zwart-wit gekleurd. De bodem en de bovenste baan zijn gedeeltelijk rood gekleurd. In de rand bevinden zich twee paar kleine gaatjes, waardoor een handvat van dun koord is aangebracht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <https://colonialcollections.nl/schema#identifier> "TM-2223-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2223-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

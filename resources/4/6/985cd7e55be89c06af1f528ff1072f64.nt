@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#name> "\"TWEE JONGELINGEN, YULE-ISLAND.\", (BR. NIEUW GUINEA)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#description> "Twee jongens van Yule - eiland." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#identifier> "WM-906083" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#inscription> "titel + 'Reproductie van foto Missiehuis Tilburg., September 1910' geschreven op het karton in pen in zwart, achterzijde midden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906083> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

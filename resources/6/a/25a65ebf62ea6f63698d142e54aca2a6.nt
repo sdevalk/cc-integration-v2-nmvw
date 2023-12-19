@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#description> "[ST] baan (veel)\r\n[KL] rood & geel & oranje & zwart & rood-wit (combinatie) &\r\n        zwart-wit (combinatie) & geel-zwart  (combinatie) &\r\n        rood-zwart (combinatie) & oranje-zwart (combinatie)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#identifier> "WM-19791" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#material> "katoen (met gekleurd geïmporteerd garen)\r\ngeweven, dichtgenaaid" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19791> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

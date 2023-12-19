@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4986-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4986-22> <https://colonialcollections.nl/schema#name> "ROND MESSING KALKDOOSJE BESTAANDE UIT TWEE HELFTEN VERBONDEN DOOR EEN SCHAKELKETTING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4986-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4986-22> <https://colonialcollections.nl/schema#identifier> "TM-4986-22" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4986-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4986-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

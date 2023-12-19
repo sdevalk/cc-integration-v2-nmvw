@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#description> "‘Banya Bassay is voor de tweede avond van het oogstfeest verhuisd van de hoge bank (dederu) van de ‘ouderen’ van zijn erfgroep Walangatom aan de leiderstafel (taba ngimon), naar de lage bank ertegenover. Hij is nu een genalogisch ‘jongere’ (tubaie), omdat een oudere (bibiri’i) vertegenwoordiger van de groep uit een ander dorp te gast is." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#identifier> "RV-6234-262" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-262> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

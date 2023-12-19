@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#name> "TEKST VAN HET NIEUWJAARSLIED VAN DE STRAATZANGER CESAARI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#description> "Dit nieuwsjaarslied van de straatzanger Cesaari uit 1837 is geschreven in het Neger-Engels.\r\nBovenaan de pagina staat een voorstelling van een struik met daarvoor een bijenkorf op een bankje. Als opschrift staat geschreven \"Njoe-jaari-singé, voe Cesaari 1937\"\r\nDan volgen het motto, de wijs van het lied, en de tekst, verdeeld over zeven coupletten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#identifier> "TM-0-311" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-311> <https://colonialcollections.nl/schema#yearCreatedStart> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .

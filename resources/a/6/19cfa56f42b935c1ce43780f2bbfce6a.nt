@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#name> "MASKER #3 (TONEELMASKER)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#description> "Krijttekening naar  toneelmasker RV-1152-26 uit de verzameling van H. Paechter in de collectie van het NMvW, getekend tussen 1909 en 1914 in de Afdeling Japan van het toenmalige Rijks Ethnographisch Museum op Rapenburg 67-69. Hetzelfde masker als afgebeeld op krijttekening 7226-45." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#identifier> "7226-41" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#material> "krijt (conté) ; papier ; met krijt tekenen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7226-41> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

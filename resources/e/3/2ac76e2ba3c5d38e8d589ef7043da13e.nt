@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#name> "OM EEN ROTS GEGROEIDE BOOM OP HET TRACÉ NAAR DE COTTICA-BERG  TER HOOGTE VAN KAMP III VAN DE GONINI-EXPEDITIE IN 1903" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#identifier> "RV-A116-248" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: daglicht gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A116-248> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

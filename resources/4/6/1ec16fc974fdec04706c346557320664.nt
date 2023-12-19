@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#name> "HOUTEN BEELD VAN EEN VROUW MET JANUSHOOFD, VOOROUDERBEELD OF VRUCHTBAARHEIDSSYMBOOL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#description> "In de opening in de schedel heeft waarschijnlijk een hoorntje gezeten met magische stoffen gevuld.\r\nHet onderlijf vertoont kleurresten van rood houtpoeder, een veel gebruikte verfstof in Zuid Kongo. Deze verfstof wordt vaak met een magische bedoeling aangebracht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#identifier> "TM-2978-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#material> "hout ; kleurmiddel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2978-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

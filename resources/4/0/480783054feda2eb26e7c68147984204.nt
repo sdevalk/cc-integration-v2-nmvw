@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1656> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1656> <https://colonialcollections.nl/schema#description> "1 = zwaard\r\n      ([ST] zilveren steelring met decoratie)\r\n2 = schede\r\n      ([ST] 2 messing ogen voor draagkoord)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1656> <https://colonialcollections.nl/schema#identifier> "WM-1656" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1656> <https://colonialcollections.nl/schema#material> "pamor-ijzer, hout, zilverlegering, messing, hoorn (karbouw)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-1656> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

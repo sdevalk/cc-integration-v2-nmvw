@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#name> "PORTRET VAN PROF. DR. C. SNOUCK HURGRONJE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#description> "Portret van Prof. Dr. C. Snouck Hurgronje. De foto is gereproduceerd vanaf een officieel groepsportret met kroonprins Emir Faisal, diens gevolg en Nederlandse functionarissen tijdens een aangeboden lunch bij diens bezoek aan Den Haag. De kroonprins, zoon van Koning Ibn Sa'ud van Saudi-Arabië, bezocht in oktober 1926 Nederland om de dank van zijn vader over te brengen aan Koningin Wilhelmina voor de Nederlandse erkenning van het koningschap van het Sa'udische huis in Saudi-Arabië." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#identifier> "TM-10018791" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10018791> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

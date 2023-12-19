@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#name> "Dekselpot" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#description> "Een pot met een deksel bekkeng mpulaweng. De pot werd gebruikt om olie, gezichtspoeder of wierook in te bewaren. Op de bodem van de pot staat een inscriptie in Buginees schrift. Hieruit kan worden afgeleid dat deze bijzondere pot een rol speelde als bruidsprijs." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#identifier> "RV-Liefkes-407" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#material> "gesmeed ; goud ; filigrain ; (edel)steen ; smaragd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-Liefkes-407> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#name> "BOL MET POLIJSTPOEDER, GEBRUIKT VOOR HET ONDERHOUD VAN EEN JAPANS ZWAARD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#description> "Het bolletje bevat het gelijknamige uchiko, dit is het gedroogde slijpstof van de laatste polijsting van een zwaard. Het bolletje wordt met kloppende bewegingen langs het lemmet gehaald waardoor het polijstpoeder op het zwaardoppervlak achterblijft. Vervolgens wordt het poeder uitgewreven met het schoonmaakdoekje (TM-3080-5). Deze uchiko behoort bij zwaard TM-3080-3 en zat opgeborgen in de bijbehorende kist." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#identifier> "TM-3080-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#material> "Zijde ; metaalpoeder ; blad ; omwinden ; met de hand vervaardigd ; drogen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3080-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

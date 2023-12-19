@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <https://colonialcollections.nl/schema#name> "BOOG MET PIJLEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <https://colonialcollections.nl/schema#description> "De boog en pijlen zijn, gezien de slijtage, duidelijk gebruikt geweest.\r\n\r\nVervaardiging\r\nDe boog is van glad, roodbruin hout vervaardigd. De pees is uit een dunne reep dierenhuid gesneden waarna deze aan de bovenzijde via een gaatje in de boog is bevestigd en daar een tiental malen rondom het hout is gewonden. Aan de onderzijde is de pees met één winding vastgeknoopt. \r\nHandwerk." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <https://colonialcollections.nl/schema#identifier> "TM-4909-4a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4909-4a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

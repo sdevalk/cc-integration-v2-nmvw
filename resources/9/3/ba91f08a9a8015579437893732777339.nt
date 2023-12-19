@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#name> "SUMBA, DESA ANAKALUNG, KAMPUNG PASUNGGA. DE GRAFSTEEN (4883 3N 4884) STAAND NAAST EEN TAFELGRAF WAARVAN DE RAND OOK ZEER DRUK VERSIERD IS MET RELIF. OP DE ACHTERGROND HET GOLFPLATEN DAK VAN EEN NIEUW HUIS." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#identifier> "TM-20023220" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#creator> "M. (Michael) Barak" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20023220> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#name> "DE KA'ABA IN MEKKA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#description> "Voordat de originele afdrukken zijn gereproduceerd voor de platenatlas Bilder aus Mekka heeft Snouck Hurgronje alle oorspronkelijke Arabische signaturen zorgvuldig laten weg retoucheren. Het origineel van deze afdruk bevindt zich in de UB Leiden en bevat in gekalligrafeerd Arabisch schrift aan de bovenzijde van de foto de plaatsbepaling en aan de onderzijde (rechts) de volgende signatuur: 'Futugrafiyyat al-Sayyid Abd al-Ghaffar, tabib bi Makka' = Fotografie van de Sayyid Abd al-Ghaffar, arts te Mekka. Vaak zijn zelfs op de reproducties de oude signaturen met name aan de bovenzijde nog eenvoudig te herkennen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#identifier> "TM-60025224" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#creator> "al-Sayyid ‘Abd al-Ghaffār" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60025224> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

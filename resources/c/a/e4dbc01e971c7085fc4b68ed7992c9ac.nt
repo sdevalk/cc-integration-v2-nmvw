@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <https://colonialcollections.nl/schema#name> "AFSCHRIFT VAN EEN OORKONDE BETREFFENDE DE SCHENKING VAN GROND AAN EEN WAQF" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <https://colonialcollections.nl/schema#description> "Afschrift van een oorkonde, verleend wegens de schenking van grond aan een waqf (Indonesisch: wakap), een religieuze stichting volgens het islamitisch recht, sinds 1671. Een tweede inventariskaart met hetzelfde nummer vermeldt tevens een kaart van de Dajalandschappen, gemaakt op basis van inlichtingen door Acehers verstrekt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <https://colonialcollections.nl/schema#identifier> "TM-1016-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1016-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

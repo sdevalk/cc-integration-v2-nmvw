@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#name> "SCHENKING LICHTBEELDEN EN STEREONEGATIEVEN UIT DE NALATENSCHAP VAN G.A. BROUWER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#description> "Schenking lichtbeelden en stereonegatieven uit de nalatenschap van G.A. Brouwer, met onder meer een reis door Tunesië (1924) en een reis dwars door Abessinië naar Kenia met B.Ph. van Harinxma thoe Slooten (1930-1931)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#identifier> "TM-FC-2004-24" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#creator> "G.A. (Gerrit Anton) Brouwer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2004-24> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

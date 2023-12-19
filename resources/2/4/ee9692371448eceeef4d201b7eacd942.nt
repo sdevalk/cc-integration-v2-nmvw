@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#name> "TAKAGAMINE NO MICHI (DE WEG NAAR DE VALKENTOP IN KYOTO)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#description> "Stijgende weg met boerenwoningen ter linkerzijde, een os met een rood dekje is ergens vastgemaakt. Forse lijnen en mooie vloeiende compositie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#identifier> "WM-51295" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#material> "papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#creator> "Eéichi Kotozuka" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-51295> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

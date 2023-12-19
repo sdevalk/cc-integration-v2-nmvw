@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <https://colonialcollections.nl/schema#name> "HOUTEN POP DANSERES-ZANGERES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <https://colonialcollections.nl/schema#description> "Pop van danseres-zangeres, ofwel ronggeng. Zie voor beschrijving (in TMS) beeld serie 8-33. De armen van het beeld zijn bij de schouders beweegbaar. De pop behoort tot een groep van 10 figuren, met instrumenten (8-46 t/m 55), samen een groep Sundanezen, angklungspelers, dansers en danseressen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <https://colonialcollections.nl/schema#identifier> "TM-8-48" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

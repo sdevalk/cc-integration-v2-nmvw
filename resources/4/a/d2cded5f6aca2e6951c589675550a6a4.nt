@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <https://colonialcollections.nl/schema#name> "KOPRAFABRIEK OP JAVA MET OP DE ACHTERGROND GLAZEN RAMEN WAAROP DE KOKOSNOTEN 'S NACHTS IN DE FABRIEK TE DROGEN WORDEN GELEGD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <https://colonialcollections.nl/schema#identifier> "TM-10012506" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10012506> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

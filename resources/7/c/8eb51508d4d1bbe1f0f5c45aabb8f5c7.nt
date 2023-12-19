@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#name> "PIJLPUNT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#description> "Dit object is bewerkt in de vorm van een pijl of speerpunt. De randen en de punt van dit werktuig zijn nauwkeurig geslagen zodat een scherpe punt onstaat. De achterzijde heeft twee uitstekende punten aan een ronde boog. Dergelijke punten werden bevestigd aan een lange stok voor een speer of een kortere dunne tak voor een pijl. Op deze manier werden ze gebruikt voor de jacht op vogels en wild." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#identifier> "RV-2356-30" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#material> "kalksteen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2356-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

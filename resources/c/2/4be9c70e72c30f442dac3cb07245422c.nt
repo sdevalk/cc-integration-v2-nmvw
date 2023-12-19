@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#name> "MARMEREN GRAFSTEEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#description> "Grafsteen uit de Ottomaanse periode met meerdere tekstbanden. In de bovenste band staat in het  Arabisch 'Huwa al-baqi' (Hij is de Eeuwige), deze tekst refereert aan de eeuwigheid van God. De tekstbanden daaronder bevatten een tekst in vermoedelijk Ottomaans Turks. De datum onderaan de steen vermeldt het jaar (sana) 1305, dit zou overeenkomen met het jaar 1886-87 van de christelijke jaartelling. De datum is echter niet heel goed te lezen, het jaartal 1205 is ook mogelijk, dit zou betekenen dat de grafsteen uit 1790-91 stamt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#identifier> "TM-4849-124" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-124> <https://colonialcollections.nl/schema#yearCreatedStart> "1790"^^<http://www.w3.org/2001/XMLSchema#integer> .

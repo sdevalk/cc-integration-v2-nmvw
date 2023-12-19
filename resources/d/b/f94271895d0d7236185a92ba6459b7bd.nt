@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#name> "ZILVEREN DRAAGMEDAILLE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#description> "Zilveren medaille, met aan de bovenzijde een ringetje, waardoor weer een groter ringetje. Aan de voorzijde de beeltenis van Prinses Wilhelmina met loshangend haar, met het aangezicht naar links gewend. Het omschrift zegt: \"Onderofficiers Vereeniging der Zeemacht. AdR. Op de keerzijde een krans van eikenloof, de takken onderaan met elkaar verbonden door een strik." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#identifier> "TM-908-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#inscription> "Zie beschrijving" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

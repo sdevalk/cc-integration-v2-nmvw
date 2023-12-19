@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#name> "BEELD: VISHNU EN LAKSHMI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#description> "Vishnu zit in lalitasana op een lotustroon, met Lakshmi op zijn linker dij. Hij maakt het gebaar van abhayamudra met zijn eerste rechterhand, en houdt het zonnerad en de schelp in zijn bovenhanden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#identifier> "RV-3318-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#material> "brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3318-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

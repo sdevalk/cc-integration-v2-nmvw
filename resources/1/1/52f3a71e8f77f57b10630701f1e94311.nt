@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <https://colonialcollections.nl/schema#name> "AFBEELDING VAN BATIKPATROON" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <https://colonialcollections.nl/schema#description> "Voorbeeld op papier van een batikpatroon; de sawat. Sawat (grote vleugels met staart in het midden), is een motief dat de garuda representeert. Garuda is een half-vogel, half-mensachtig wezen. Volgens de indo-Javaanse mythologie droeg Garuda Vishnu door de hemel. De Garuda is een oud koninklijk symbool (McCabe Elliot, 1984:68; van Roojen, 1998:79-83; Heringa, 1996:171)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <https://colonialcollections.nl/schema#identifier> "TM-5851-4h" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5851-4h> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .

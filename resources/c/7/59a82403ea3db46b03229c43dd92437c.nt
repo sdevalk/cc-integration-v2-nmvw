@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#name> "Schouderdoek" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#description> "Rechthoekig schouderdoek; kleuren: rood, groen, geel, violet, blauw en goudkleurig; patroon badan: groene rechthoek; motief kepala: met twee songket randen met bloemmotieven; ikat puncak rebung; lange zijkanten met ikat boog- en bloemmotieven" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#identifier> "7082-S-451-3639" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#material> "gouddraad, linnen, songket, zijde" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3639> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

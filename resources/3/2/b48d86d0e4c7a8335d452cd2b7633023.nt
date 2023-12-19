@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#description> "Foto, ongekarteld, zwart/wit, vastgezet met fotohoekjes.\r\n\r\nMet bijschrift in witte inkt: 'In Nangkodjadjar boven Malang 1937'\r\n\r\nOp achterkant foto de volgende tekst: 'Moes, Mevr.Seth en ik op Nongkodjadjar'.\r\n\r\nOpname toont drie vrouwen, 2 zittend en 1 staand, poserend voor de foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#identifier> "7082-nf-835-12-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#material> "papier, ontwikkel gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-835-12-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#description> "Kom op drie holle poten waarin rammelsteentjes zitten. Op de schouders, gescheiden door twee oortjes, is met incisietechniek een schaakbordpatroon aangebracht waarvan alternerend de vakjes gearceerd zijn (netmotief) en vlak (onopgevuld) (2x24)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#identifier> "WM-55864" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55864> <https://colonialcollections.nl/schema#yearCreatedStart> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .

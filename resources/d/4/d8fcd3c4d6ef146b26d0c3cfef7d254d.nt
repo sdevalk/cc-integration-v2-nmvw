@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#name> "AFFICHE 'DE ETNOGRAFISCHE FILM' IN HET RIJKSMUSEUM VOOR VOLKENKUNDE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#description> "Affiche voor het evenement 'De Etnografische Film' in het Rijksmuseum voor Volkenkunde van 20 maart t/m 8 mei 1991. In dit programma kwamen gedurende een reeks woensdag-avonden een aantal aspecten van de etnografische film aan de orde." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#identifier> "RV-6235-176" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6235-176> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#name> "OOG VAN EEN HENGSEL IN DE VORM VAN EEN PARKIET." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#description> "Bronzen parkiet, gezeten op een zesbladige bloem. Op de rug van de parkiet zit een oog dat bedoeld was voor een hengsel. Van dergelijke ogen zaten er meerdere op de rand van een metalen pot." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#identifier> "TM-1322-59" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1322-59> <https://colonialcollections.nl/schema#yearCreatedStart> "750"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#name> "TAILLESIERAAD, KANDORA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#description> "Kandora, taillesieraad. Verguld zilver met zirkoon en minakari. \r\n\r\nDe kandora is een taillesieraad wat, met uitzondering voor personen van Koninklijke en aristocratische afstamming, meestal van zilver is vervaardigd. Qua vorm bestaat de kandora vaak uit een aan elkaar geregen geheel van filigree, een delikaat en ingewikkeld ornament van in elkaar verweven draden metaal, en kettinkjes die samen een decoratief geheel vormen zoals dit sieraad\r\n\r\nLit. Saskia Konniger, De Verborgen Tuin, Goudsmeden in Noord-India, KIT Publishers, 2011, p." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#identifier> "RV-6078-36" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#material> "zilver (verguld) ; email ; cubic zirconia" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6078-36> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

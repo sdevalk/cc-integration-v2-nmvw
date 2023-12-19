@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#name> "SCHOENEN MET KRALENWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#description> "These shoes are especially significant as they represent the artform for which Jamie Okuma is best known. Okuma typically uses designer shoes in this case by, Giuseppe Zanotti, and beads directly onto the shoes, in this case onto the mesh. Okuma considers beaded shoes to be the form in which her artistry is especially well expressed.\r\nThis pair of shoes is beaded with miniature antique beads (size 15) and adorned with hummingbirds and butterflies, in the floral and ornate style of plateau beadwork.\r\nDesigned to be worn together with the Plateau bomber jacket (7207-1), joggers (7207-2), scarf (7207-3) and hat (7207-4)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#identifier> "7207-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#material> "kunststof ; draad ; leer ; metaal ; schelp (?) ; rijgen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-5> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .

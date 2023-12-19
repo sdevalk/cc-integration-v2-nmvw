@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <https://colonialcollections.nl/schema#description> "Deze folio's zijn zwart-witte laser kopieen van gekleurde werken.\r\n[ST] a - c = triptiek(?), folio's op kunststof ondergrond \r\nd = folio op kunststof ondergrond \r\ne - g = triptiek(?), folio's op kunststof ondergrond \r\nh = folio op kunststof ondergrond \r\ni - k = triptiek(?), folio's op kunststof ondergrond \r\nl, m, n, o, p, = folio op kunststof ondergrond \r\n[VO] zelfportretten" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <https://colonialcollections.nl/schema#identifier> "WM-CIC-1998-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <https://colonialcollections.nl/schema#material> "papier, kunststof\r\nlaser-color-copy" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <https://colonialcollections.nl/schema#creator> "Ipek Duben" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-CIC-1998-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

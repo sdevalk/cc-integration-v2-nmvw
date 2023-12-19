@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#name> "MESSINGEN SCHILD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#description> "De schilden van Aceh zijn rond en zijn gemaakt van hout, rotan of zoals in dit geval messing. De koperen schilden waren voorbehouden aan de mannen aan het hof van de sultan. De rotan schilden zouden het voorrecht zijn geweest van de Panglima prang, mannen van de hogere klasse. \r\nDe schilden hebben meerdere stervormige versieringen, die  'dek' of 'te' worden genoemd, hetgeen borsten betekent. In dit geval zijn het er vijf. \r\nAan de binnenkant is zijn vier messing ringen die met rotan verbindingen met katoenen windsels als handvat. Dit handvat wordt amat amaton genoemd. \r\nHet schild werd op de rug gedragen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#identifier> "TM-272-8" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#material> "messing ; rotan" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-272-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

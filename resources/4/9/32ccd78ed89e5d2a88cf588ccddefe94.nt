@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#name> "\"HET LADEN DER CORJALEN TE ALBINA\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#identifier> "RV-A102-1-9" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: daglichtgelatinezilverdruk\r\nMontage: in album" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A102-1-9> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

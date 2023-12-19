@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#name> "KATOENEN JAS, ONDERDEEL VAN KOTOMISI ENSEMBLE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#description> "Wit met rode koto met open blaadjes met siermotief als opdruk, onderdeel van een (h)eristel, waarbij zowel jasje (yaki), koto (rok) en hoofddoek (angisa) van dezelfde stof gemaakt zijn.\r\nDe vorige eigenaar vertelde dat het motief bittere amandelen moet voorstellen. in van Russel-Henar's boek staat een soortgelijke doek met de volgende odo (gezegde):\r\n\"Te yu abi pasensi fu piri bita amandra, dan yu sa dringi wan switi orgeade\"\r\nAls je het geduld hebt om bittere amandelen te pellen, dan zul je zoete amandeldrank drinken\r\n(2008:88)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#identifier> "TM-2920-1b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#material> "Bedrukt katoen. Genaaid en gesteven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2920-1b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

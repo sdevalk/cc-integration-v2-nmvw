@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#name> "KRUIK MET GEOMETRISCHE DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#description> "Kruik of urpu met verticale banden van geometrische motieven. Tweemaal staat het Inca varenmotief op de urpu met in het centrum twee banden met zwarte kruisen (dubbele lijnen) die van elkaar gescheiden worden door telkens vier rode horizontale lijntjes. De knobbel op de schouder voor het draagtouw is waarschijnlijk een gestileerde poemakop.\r\nHet draagtouw ging door de twee oren en haakte bovenlangs de knop." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#identifier> "TM-2632-10" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1532"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2632-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1250"^^<http://www.w3.org/2001/XMLSchema#integer> .

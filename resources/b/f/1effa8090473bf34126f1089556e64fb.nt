@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#description> "Boekomslag, aan de leren rug losgemaakt.\r\nBinnenzijde effen bruinrood met gouden rankmotief. Buitenzijde jachtscène, een shah jaagt op een leeuw. Verschillende zadeldekken zijn met bladgoud opgehoogd, het geheel is gelakt. Rand van regelmatige rankmotieven in goud op donkerrood." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#identifier> "WM-47133" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#material> "papier-maché, verf, lak, leer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47133> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#name> "Gezin met hun op Kerstmis geboren kind, Bilogai (Wisselmeren Paniai)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#description> "Gezin, met hun op Kerstmis geboren kind.\r\nBilogai, (Wisselmeren Paniai). Schilderij van een familie te Bilogai die toevallig met Kerstmis hun eerste kind kregen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#identifier> "7082-S-3832-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#material> "olieverf op doek" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3832-2> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#description> "[ST] oor met mensenhoofd\r\n[DE] snijwerk\r\n[VO] mensenhoofd met in elkaar overlopende wenkbrauwbogen,\r\n        kleine neus, uitpuilende koffieboonachtige ogen, ruitvormige\r\n        mond (concentrische lijnen om elkaar heen), diagonale\r\n        tatoeage-lijnen op wangen. Weinig profiel. Om nek aantal\r\n        ribbels (vetplooien). Ruitjeshaar." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#identifier> "WM-20205" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#locationCreated> "Kasai" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#alternateName> "Kasaï Province"@en .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20205> <https://colonialcollections.nl/schema#alternateName> "Sous-Région du Kasai" .

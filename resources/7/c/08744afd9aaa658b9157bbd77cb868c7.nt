@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <https://colonialcollections.nl/schema#name> "WRIJFSTEEN VOOR HET PLETTEN EN FIJNWRIJVEN VAN GRAAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <https://colonialcollections.nl/schema#description> "De steen is aangekocht door de heren J.H. Jager Gerlings en D.G. Jongmans tijdens hun verblijf in Libië in 1956." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <https://colonialcollections.nl/schema#identifier> "TM-2760-199" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-199> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

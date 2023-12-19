@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#name> "MYTHISCHE DIERFIGUUR (SARIMANOK)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#description> "Deze dierfiguur stelt de sarimanok voor. Dit is een soort haan, in de literatuur beschreven als ‘one of the most iconic images of the Maranao of Muslim Mindanao […]. The sarimanok is a symbol of wealth and honour, and of good fortune. It is linked to one of the earliest preachers of Islam in Southeast Asia.’ Ook is aan dit dier een mythe verbonden waarin de profeet Mohammed een rol speelt. Het is  niet bekend of deze koperen sarimanok een religieuze functie heeft gehad." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#identifier> "7138-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#material> "koper ; smeden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7138-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .

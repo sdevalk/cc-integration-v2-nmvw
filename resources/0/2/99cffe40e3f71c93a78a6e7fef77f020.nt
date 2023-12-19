@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#name> "NKISI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#description> "[ST] voetstuk & krachtkast & met plantenvezel omwoelde spijkers & holte in lichaam & attributen (o.a. lap om hals, schaamdoek met bellen, spiegel, hangslot, zakje van touw en stukjes leer)\r\n[KL] rood & wit (o.a. ogen en strepen op gezicht en schouders) & zwart (pupillen)\r\n[VO] staand mensfiguur met open mond met rode lippen, snorharen en baard, ogen van spiegelglas, zijwaarts uitstekende oren, armen los van lichaam en handen in de zij" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#identifier> "WM-28500" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#material> "hout, spiegelglas, ijzer, kleurstof, katoen , plantenvezel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28500> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

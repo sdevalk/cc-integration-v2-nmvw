@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#name> "TRANSPORTMIDDELEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#description> "De wandplaat is aan boven - en onderzijde vastgeplakt aan houten latjes met aan de bovenzijde een lus van katoendraad." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#identifier> "TM-4816-425" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#material> "drukwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#creator> "Indian Book Depot (map house)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-425> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

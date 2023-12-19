@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#name> "HOOFDDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#description> "Een hoofddoek gemaakt van geweven katoen. De doek is versierd met brokaatwerk van zilverdraad. De doek heeft als motief vele zigzaglijnen en enkele rechte strepen. De doek is niet gebruikt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#identifier> "RV-B154-28" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#material> "katoen ; verf ; zilverdraad" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B154-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

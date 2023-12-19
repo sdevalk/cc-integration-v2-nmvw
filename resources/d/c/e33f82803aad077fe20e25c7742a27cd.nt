@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-11a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-11a> <https://colonialcollections.nl/schema#name> "MAND VAN PALMBLAD MET DEKSEL GEBRUIKT ALS BEWAAROPSLAG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-11a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-11a> <https://colonialcollections.nl/schema#identifier> "TM-2760-11a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-11a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2760-11a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
