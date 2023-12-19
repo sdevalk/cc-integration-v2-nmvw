@@ -42,7 +42,7 @@ jobs:
             --query-file ./queries/generate.rq \
             --number-of-concurrent-requests 20 \
             --wait-between-requests 100 \
-            --batch-size 100000 \
+            --batch-size 200000 \
             --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
             --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
             --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
