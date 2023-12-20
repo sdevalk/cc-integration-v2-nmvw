@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <https://colonialcollections.nl/schema#description> "Schelpen worden in allerlei objecten verwerkt en worden ook als snijwerktuig gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <https://colonialcollections.nl/schema#identifier> "RV-941-72" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <https://colonialcollections.nl/schema#material> "schelp, zoetwaterschelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-941-72> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

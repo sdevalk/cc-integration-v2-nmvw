@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#name> "SCHOUDERDEKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#description> "Wollen schouderdeken, samengesteld uit twee banen. Ketting: handgesponnen bruine en witte wol. Schering: handgesponnen bruine wol. Weefsel vormt alternerende bruine en witte strepen. Aan de zijkanten bevindt zich een patroon van smalle witte vierkantjes op een bruine ondergrond. De franjes bestaan uit getwijnde kettingdraden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#identifier> "RV-5946-37" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#material> "wol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-37> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

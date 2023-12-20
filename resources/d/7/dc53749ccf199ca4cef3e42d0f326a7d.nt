@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#name> "KAJAKTAFEL MET SCHERM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#description> "Deze geimproviseerde kajaktafel dient om de meterslange harpoenlijn in opgerolde staat te ondersteunen.\r\nDe lijn ligt niet los op de kajaktafel, maar wordt vastgezet met een klemmetje, of haak.\r\nVoordat de jager zijn harpoen werpt, maakt hij het klemmetje los.\r\nAls de harpoen wordt geworpen rolt de lijn vanaf de kajaktafel af.\r\nDe harpoenlijn verbindt de met de harpoen geschoten zeehond aan de vangblaas, zodat het dier niet kan duiken en ontsnappen.\r\nKajaktafels konden tot voor kort worden aangetroffen op alle kajaks, waarvan de eigenaars een harpoen bezaten.\r\nMet het in onbruik raken van de kajak in de tachtiger jaren is ook de kajaktafel gaan verdwijnen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#identifier> "RV-4850-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#material> "hout ; touw ; katoen ; koper ; rendiergewei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4850-18> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

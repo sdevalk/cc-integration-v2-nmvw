@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#name> "DEKSCHAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#description> "Houten dekschaal naar Europees model, met in reliëf gesneden sierranden en ingekerfd decor." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#identifier> "RV-497-171" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#material> "hout ; gesneden ; gekerfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-171> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .

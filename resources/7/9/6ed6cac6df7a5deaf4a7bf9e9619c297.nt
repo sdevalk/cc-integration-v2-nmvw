@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#name> "BAAN VAN EEN HUIPIL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#description> "Geweven baan bestemd voor huipil, bestaande uit witte katoen en coyuchi. De coyuchi komt uit de tuin van Bodil Christensen, maar werd gesponnen (en geweven) door een Amusgo. Het weefsel is versierd met zeven ca. 13 cm brede banen bestaande uit ingeweven geometrische motieven en gestileerde bloemenranken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#identifier> "RV-5946-1045" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1045> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

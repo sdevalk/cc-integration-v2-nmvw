@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#name> "EEN MONSTER VAN BOOMBAST" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#description> "Een monster van boombast van de Galamboom. Het monster bestaat uit een tak met bast en vruchten. De bast wordt gebruikt om de naden boten te breeuwen. De stam wordt gebruikt om de nok van een huis te bedekken. De vruchten worden gedroogd en gebruikt als geneesmiddel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#identifier> "RV-89-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#material> "boombast (galamboom) ; hout (galamboom)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

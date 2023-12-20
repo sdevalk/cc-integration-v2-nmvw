@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#name> "DE GEKLEURDE KRATERMEREN (HET GROENE, BLAUWE EN RODE) OP DE VULKAAN KELI MUTU" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#description> "Deze panoramafoto is samengesteld uit 11 over elkaar geplakte losse foto's. Te zien zijn de gekleurde kratermeren op de vulkaan Keli Mutu: het groene, blauwe en rode." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#identifier> "RV-A177-2-136" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#creator> "V.H. (Victor Hugo) baron van Lawick" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A177-2-136> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

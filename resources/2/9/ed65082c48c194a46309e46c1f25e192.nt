@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#name> "OVERHOOFDDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#description> "Driehoekige, meerlagige overhoofddoek, met aan weerskanten ombind-sjaals en afgezet met kant, van lila kunstvezel of synthetische textiel; door vrouwen buitenshuis gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#identifier> "RV-5825-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#material> "kunstvezel of synthetische vezel ; machinaal geweven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#locationCreated> "Cairo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "El Kahira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "Al Qāhirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "Misr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "Le Caire" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "El-Qâhira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "El Kahirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5825-17> <https://colonialcollections.nl/schema#alternateName> "Masr" .

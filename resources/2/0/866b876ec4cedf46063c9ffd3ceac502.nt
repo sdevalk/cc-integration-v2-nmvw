@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#name> "KOM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#description> "Kom met langs de bovenrand een band met een zestal keer zich herhalende hierogliefen. De lange, slingerende neus in elk van deze portrethierogliefen zou kunnen aangeven dat het hier om de regengod Chaak gaat. Chaak kan gevonden worden in vier verschijningsvormen, de Rode, Gele, Witte en Zwarte Chaak ieder geassocieerd met een windrichting. Ter ere van de Chaakob (de vier Chaaks) wordt er door de Maya een ritueel uitgevoerd dat bedoeld is om de regen te roepen. Bij dit ritueel zitten onder het altaar vier kinderen, die kwakend als kikkers de vier Chaaks symboliseren. Na dit ritueel gaat het meestal regenen na een lange periode van droogte." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#identifier> "RV-5058-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#material> "Aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5058-11> <https://colonialcollections.nl/schema#yearCreatedStart> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .

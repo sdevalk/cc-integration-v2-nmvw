@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#name> "PATROONGORDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#description> "Een patroongordel gemaakt van een reep leer. Over bijna de gehele lengte is tegen die reep, horizontaal, een reep leer bevestigd met een opstaande rand en vormt op die wijze een lange smalle bak. In de bak zijn met leer halfcirkelvormige bakjes gevormd, die bestemd zijn voor de kruitkokers. De kruitkokers zijn gemaakt van bamboe met een deksel en een bodem van kalebas. Daaroverheen valt een brede leren, halvemaanvormige deksel. De rand hiervan is omwikkeld met brede stroken katoen en dun vezelgaren. Bij de beide einden zijn rechthoekige bakjes gemaakt met deksels van hoorn met ernaast een zakje van stijfgevlochten vezels. De zakjes en doosjes dienen voor het bewaren van kogels en hagel. De gordel heeft een sluiting, die bestaat uit een oog en een stukje messingdraad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#identifier> "RV-804-146" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#material> "leer ; katoen ; hoorn ; messing ; vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#locationCreated> "Sikka Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#alternateName> "Sikka Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-146> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

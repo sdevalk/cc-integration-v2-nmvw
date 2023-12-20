@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#name> "MESHEFT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#description> "Van donkerbruin hout gesneden, bij het onbewerkte gedeelte geheel opengespleten, het boven eind besneden met een hurkend mensfiguurtje met hoog hoofddeksel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#identifier> "RV-929-338" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-338> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#name> "LEPEL VOOR STOFGOUD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#description> "Van plaatmessing gedreven lepel voor stofgoud ('saawa').  Dit is gerei van de goudsmid en wordt gebruikt bij de handel.  Aan de ronde lepelkom is een lang, plat versierd handvat bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#identifier> "RV-360-5313" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#material> "Messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5313> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

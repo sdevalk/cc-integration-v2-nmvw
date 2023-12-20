@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#name> "KINDERTEKENING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#description> "Tekening van Joel Reyes López, 17 jaar, uit Chicahuaxtla.  De tekening is een voorstelling van het dorp waar Joel vandaan komt, en toont de wegen en plaatsen die hij van belang acht voor zijn dorp en zijn eigen geschiedenis." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#identifier> "RV-6055-94" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#creator> "Joel Reyes López" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#locationCreated> "San Andrés Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla San Andres" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#alternateName> "San Andres" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#alternateName> "San Andrés Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-94> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

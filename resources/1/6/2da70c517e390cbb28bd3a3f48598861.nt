@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#name> "SIRIHDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#description> "Een sirihdoos voor vrouwen (kepepe kenane), een over een, diagonaal gevlochten van ongekleurde lontarbladrepen. De doos is rechthoekig en heeft een half overschuivend deksel. De onder- en de bovenrand zijn door een visgraatvormig gevlochten rand omgeven. In de doos een rechthoekige, diagonaal gevlochten, bak, die staat op een rand. Deze rand is in de wand van de doos is gemaakt. De doos is voor vrouwen bestemd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#identifier> "RV-1647-1164" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#material> "lontarpalmblad (Borassus flabeliformis)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1164> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

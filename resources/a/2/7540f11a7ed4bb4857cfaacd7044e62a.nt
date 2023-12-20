@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#name> "KOPEREN KOM GEVULD MET PEK EN VERSIERD MET EEN VOGELFIGUUR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#description> "This bowl was collected to show the process of repousse" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#identifier> "RV-998-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#material> "Koper ; pek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-998-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

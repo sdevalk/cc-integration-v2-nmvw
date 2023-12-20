@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#name> "LEPEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#description> "Een lepel gemaakt van buffelhoorn. De lepel is gebogen van vorm en heeft een hol rond lepelblad. Aan de bovenkant heeft het blad twee uitsteeksels. Boven het blad aan weerszijden van de steel zijn puntige uitsteeksels gesneden. Het handvat is rond van vorm en versierd met snijwerk, een bloemornament in het midden en daaromheen zijn uitwaaierende lijnen te zien met streepjes daartussen. Het einde heeft een klein maanvormig gedeelte." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#identifier> "RV-16-184" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#material> "hoorn (buffel)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-184> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

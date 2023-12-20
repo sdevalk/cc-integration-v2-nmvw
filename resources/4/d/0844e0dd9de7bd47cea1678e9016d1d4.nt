@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#name> "SIRIHKOKERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#description> "Een stel van twee sirihkokers gemaakt van een lengte bamboe, die met een gevlochten touw aan elkaar vastgemaakt zijn. Het touw is vastgemaakt in gaten in het midden van de rode houten deksels. De kokers zijn van gelijke grootte. Eén koker is versierd met een middenband met hoeklijnen die zespuntige sterren omsluiten. De boven- en benedenband zijn opgebouwd uit in elkaar grijpende T-figuren. De andere koker is versierd met vijf banden met cirkels, die gevuld zijn met kruisen. Tussen de cirkels zijn kleine kruisen te zien. De cirkels van de boven- en benedenband zijn recht afgesneden. Alles in zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#identifier> "RV-52-44" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; verf ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-44> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

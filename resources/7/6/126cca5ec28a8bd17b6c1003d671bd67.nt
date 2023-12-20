@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <https://colonialcollections.nl/schema#name> "LAKDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <https://colonialcollections.nl/schema#description> "De fabricage van aardewerk is de meest belangrijke eigenschap van Tonalá. Het is dan ook de enige reden waarom de stad befaamd is. Ongeveer de helft van de huishoudens houdt zich bezig met het maken van kannen, kookpotten en waterflessen. Deze producten worden over heel Mexico verspreid en sommigen ervan bereiken zelfs de souvenirwinkels in New York en San Fransisco.\r\nNaast het aardewerk zijn er echter ook andere materialen waar huishoudens in gespecialiseerd zijn, zoals brons, papier-maché en houten meubels." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <https://colonialcollections.nl/schema#identifier> "RV-5715-756" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <https://colonialcollections.nl/schema#material> "papier-maché ; lak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-756> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

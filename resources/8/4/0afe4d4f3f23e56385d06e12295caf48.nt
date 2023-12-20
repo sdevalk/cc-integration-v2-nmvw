@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#name> "POLSSNOER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#description> "10 oude (o.m. Venetiaanse) glaskralen en 24 gouden kralen, resp. hangers, strak aan snoer geregen (polsformaat). Een Asante vorst - Asantehene - en belangrijke hofdignitarissen uit Ghana droegen dergelijke sieraden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#identifier> "RV-5899-363" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#material> "Goud ; glas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-363> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

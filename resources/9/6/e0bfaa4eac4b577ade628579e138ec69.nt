@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#name> "Waterkruik en draagmand" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#description> "Waterkruik in gevlochten mand, met gouden tuit, Caratan\r\nKarangasem, Bali\r\nGeschonken in 1889 aan Gouverneur Generaal Pijnacker Hordijk, door de vorst van Karangasem\r\nOnderdeel van een groter geschenk, waar ook gevlochten sirih-dozen deel van uitmaakten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#identifier> "RV-770-2_REPRO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#material> "aardewerk ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-770-2_REPRO> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

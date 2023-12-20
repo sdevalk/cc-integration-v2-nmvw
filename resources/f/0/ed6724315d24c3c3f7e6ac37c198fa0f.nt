@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#name> "Miniatuur borstel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#description> "Klein vegertje gemaakt van bij elkaar gebonden riet. Het riet voor deze veger is in zeer smalle strookjes gesneden en gedroogd. Aan één kant is het riet omgevouwen, aan de andere kant zijn het losse uiteinden. Het riet wordt met een strookje riet bij elkaar gehouden 4 cm van het omgevouwen uiteinde af en zo wordt een miniatuur vegertje gevormd. Dit vergertje kan worden gebruikt voor het vegen van kleine oppervlakte, maar het is ook heel waarschijnlijk dat het als speelgoed voor kinderen dient. De Mixteekse naam voor de barre comal is tayicú." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#identifier> "RV-6055-84" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#material> "riet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#creator> "Catalina Feria Michel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-84> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

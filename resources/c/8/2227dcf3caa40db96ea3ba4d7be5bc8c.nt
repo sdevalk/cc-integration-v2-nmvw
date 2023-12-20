@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#name> "ARCHIEF J.A. SILLEM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#description> "Collectie foto's, films, brieven, knipsels, foto- en filmapparatuur en expeditie-attributen. Ook glaspositieven (reproducties van foto's) en 152 scans van foto's (originelen niet in bezit RMV?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#identifier> "RV-A175-1/641" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#creator> "J.A. (Jerôme Alexander) Sillem" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#creator> "P.C. Visser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A175-1/641> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

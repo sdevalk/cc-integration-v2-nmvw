@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#name> "HOOFDBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#description> "Een hoofdband gemaakt van geweven katoen. De band is wit van kleur, smal en eindigt aan beide uiteinden in franjes. De uiteinden zijn versierd met elk drie banden met figuren in rood en zwart, rechthoeken, ruiten, kruisen en andere geometrische figuren. Tussen de banden en naast de franjes kleine geometrische figuren in rood en zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#identifier> "RV-16-238" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-238> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

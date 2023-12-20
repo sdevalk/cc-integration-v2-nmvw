@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#name> "HILO PINTADO (HUE SUCHI)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#description> "Vier strengen geverfd katoen in de kleuren: rood, paars, groen en geel. De Mixteekse naam voor de hilo pintado is hue suchi. Dit draad kan gebruikt worden voor de vervaardiging van allerlei textiel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#identifier> "RV-6055-26" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#creator> "Martina López Ortega" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#locationCreated> "San Andrés Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla San Andres" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#alternateName> "San Andrés Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#alternateName> "San Andres" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-26> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

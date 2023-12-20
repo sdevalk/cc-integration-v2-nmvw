@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#name> "Brief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#description> "Brief van professor Shih Tzu-chen aan professor Erik Zürcher, waarin hij deze bedankt voor de \ntoezending van een boek over Rembrandt. Gesigneerd en gedateerd  \n25 Augustus 1976." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#identifier> "RV-4883-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#creator> "Shih Tzu-chen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4883-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

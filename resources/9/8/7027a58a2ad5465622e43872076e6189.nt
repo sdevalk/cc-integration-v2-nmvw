@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7195> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7195> <https://colonialcollections.nl/schema#description> "Halssieraad - of rozenkrans - van pareltjes en koperen schakeltjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7195> <https://colonialcollections.nl/schema#identifier> "RV-360-7195" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7195> <https://colonialcollections.nl/schema#material> "parels ; koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7195> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

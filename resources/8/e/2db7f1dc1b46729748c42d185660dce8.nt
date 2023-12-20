@@ -1,0 +1,23 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#name> "ZHIQIAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#description> "Offerpapier; vierkant vel, van nog grotere afmeting dan no. 9; op de ene zijde is voorgesteld, binnen een rand van meanders, het beeld van de hemelgod met twee trawanten in roodbruin en goud. [DGr]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#identifier> "RV-518-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#locationCreated> "Amoy" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Hsia-men-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Hsia-men" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Siamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Xiamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Amoy"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Xiamen Shi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Szeming-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Shamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "Xiamen"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#alternateName> "厦门" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .

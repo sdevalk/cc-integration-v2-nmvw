@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#name> "VOOROUDERMASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#description> "Een vooroudermasker, een Hudoq, gemaakt van hout. Het masker wordt gebruikt tijdens een dans. Het masker heeft zeer grote uitstaande oren, grote ovale ogen een een lange varkenssnuit. In de oren hangen oorhangers aan touw. Het masker wordt gebruikt door het Kayanvolk op Oost-Kalimantan. Het masker is beschilderd in de kleuren zwart, wit en bruin." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#identifier> "RV-4209-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#material> "hout, verf ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4209-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

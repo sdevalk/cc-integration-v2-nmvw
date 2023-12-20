@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#name> "KAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#description> "Een kam gemaakt van een lengte bamboe. De kam heeft tien lange wijd uitlopende ronde tanden. Naast het handvat zijn de tanden met een touw omwikkeld. Het kleine handvat is ruw gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#identifier> "RV-52-18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#material> "bamboe ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-18> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

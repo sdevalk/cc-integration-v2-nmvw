@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN BOOT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#description> "Een model van een boot gemaakt van lichtbruin hout. De boot is symmetrisch van vorm en loopt aan beide uiteinden uit in een schuine punt. Aan beide uiteinden zijn van donkerbruin hout naar binnen gebogen snavelvormige stevens gesneden. In de boot vier dwarsbalken. In een helft zijn drie paar spanten te zien waartegen een overlangse plank is bevestigd. In de boot twee bankjes, waarvan één met een rond gat voor een mast wellicht. Op één steven is een brede dwarsplank gelegd, de andere steven heeft een dicht dek. Bij de boot één roeispaan met een driehoekig blad, en één met een ruitvormig blad. Daarnaast twee driehoekige plankjes, een V-vormige losse spant?, een kleine peddel en twee plankjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#identifier> "RV-370-3601" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#locationCreated> "Sungaikakap" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#alternateName> "Soengaikakap" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#alternateName> "Sungeikakop" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3601> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

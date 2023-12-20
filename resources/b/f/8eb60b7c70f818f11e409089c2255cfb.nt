@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#name> "HOUTEN STRIJDKNOTS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#description> "Strijdknots met over de gehele lengte barsten en spleten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#identifier> "RV-16-470" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-470> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

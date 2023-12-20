@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#name> "KRUITHOORN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#description> "Een kruithoorn gemaakt van een buffelhoorn. In de brede opening van de hoorn een lichthouten inschuivend deksel. Het deksel heeft op een plek een uitstekend gesneden oog. De bovenkant is dakvormig gesneden. Op een plaats is in het smalle gedeelte van de hoorn een gat gemaakt waarin een stuk gerafeld draagtouw. Het dunne uiteinde is open." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#identifier> "RV-52-61" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#material> "hoorn (buffel) ; hout ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-61> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

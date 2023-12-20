@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#name> "HOOFDBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#description> "Een hoofdband gemaakt van een reep pandanblad.  De band is aan een kant op drie plaatsen in smalle reepjes uitgerafeld, die tot een bloemknop in elkaar zijn gevlochten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#identifier> "RV-804-139" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#material> "blad (pandan)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-139> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

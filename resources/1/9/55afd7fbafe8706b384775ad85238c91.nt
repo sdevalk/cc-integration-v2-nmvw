@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#name> "ANSICHTKAART: BEGRAAFPLAATS VAN DE DOGON IN DE FALAISE VAN DE BANDIAGARA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#description> "Nr. 346\r\nAfrique Occidentale - SOUDAN - MACINA\r\nSépultures de Habbès dans les excavations des Roches de la Falaise\r\nGénéralent à de très grandes hauteurs et accessibles à eux seuls" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#identifier> "RV-5955-9" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#material> "karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#creator> "Edmond Fortier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5955-9> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

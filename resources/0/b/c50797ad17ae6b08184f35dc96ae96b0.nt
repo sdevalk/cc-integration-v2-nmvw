@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#name> "ZWAARD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#description> "Ceremonieel zwaard van gesmeed ijzer.\r\n\r\nQua vorm lijkend op een Kora maar voor ceremoniële doeleinden. Een brede ingravering van florale motieven, figuren en de Hindoe godheid Hanuman op het breed uitlopende deel aan het uiteinde. De grip overeenkomstig een shamsheer grip. De kora is van oorsprong een wapen van de Gurkas gemiddeld ongeveer 60 centimeter lang. Het lemmet van de kora de typische bijl-achtige vorm en aan een kant geslepen.\r\n\r\nAangekocht tijdens de wereldtentoonstelling in Parijs in 1889." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#identifier> "RV-759-111" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#material> "IJzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-759-111> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

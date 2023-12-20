@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#name> "SIRIHTAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#description> "Een sirihtas gemaakt van diagonaal gevlochten lontarbladrepen. De tas is plat en rechthoekig van vorm en heeft een half overschuivend deksel. Langs de boven- en onderrand zijn op vier plaatsen zwartgeverfde, opstaande lontarbladnerven ingevlochten en vastgezet met een vlechtwerk van varenvezels. Langs de onderrand en over het midden van de tas en langs de bovenrand van het deksel is een doorgestoken reep vastgemaakt ter versterking. Op de smalle zijden van de tas en deksel is een oogje gemaakt waardoor een touwtje met een knoop loopt. In de tas een rechthoekig bakje dat diagonaal gevlochten is, maar van bredere repen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#identifier> "RV-1722-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#material> "blad (lontar) ; touw ; verf ; vezels (varen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#name> "Schildering op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#description> "De afbeelding toont een landelijke omgeving met bomen. Op de achtergrond zijn twee gebouwen te onderscheiden, waarvan één waarschijnlijk een open paviljoen (Javaans: pendapa) en verder een lage en een hoge poort (?). Niet duidelijk is of het hier gaat om de in de titel genoemde 'basar' (pasar, markt). Aan het begin van de expeditie in de Priangan (zie: RV-60-6) verbleef Payen vanaf 19 maart 1819 tot 6 april 1819 in Ciampea in het huis van Vincent van Riemsdijk (zie: RV-60-11). Hij maakte in die periode diverse tekeningen in de omgeving van de rivier Cisadane.  (Zie: Marie-Odette Scalliet, Antoine Payen: Peintre des Indes Orientales, Leyde, Pays-Bas, 1995)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#identifier> "RV-60-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#material> "olieverf ; papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .

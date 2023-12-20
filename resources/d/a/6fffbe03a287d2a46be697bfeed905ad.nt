@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#name> "SCHILDPADDEN HAARKAM VOOR VROUWEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#description> "Een kam gemaakt van schildpad. De kam heeft zeer veel tanden en het middenvlak is versierd met tweemaal vier ingegrifte banden. De bovenzijde is versierd met paarden waarop hanen staan. Naast de boom staan ook papegaaien of kaketoe's. Deze dieren zijn symbolen van de bovenwereld. In het midden is een andung, een schedelboom afgebeeld. Aan de zijkanten zijn mensfiguren afgebeeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#identifier> "RV-4841-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#material> "schildpad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4841-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

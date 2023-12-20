@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#name> "KAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#description> "Een kam gemaakt van hoorn. De kam is halvemaanvormig gebogen, het breedst in het midden en heeft een dikke bovenrand. De binnenkant is schuin naar onder aflopend. De bovenkant is met tin bekleed en versierd met ingesneden ornamenten, aan beide einden groepen van dwarsstrepen en in het midden twee golvende strepen tussen gebogen strepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#identifier> "RV-839-50" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#material> "hoorn ; tin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-50> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

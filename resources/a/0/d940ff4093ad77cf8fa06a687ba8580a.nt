@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#name> "LAP STOF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#description> "Door een barbier gebruikte handdoek.\r\n\r\nLap handgeweven katoen met ruiten in bruin, lichtblauw en naturelkleur. Volgens de oorspronkelijke registratiekaart werden dit soort katoenen handdoeken gebruikt door kappers. (GVE, 2002)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#identifier> "RV-503-213" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-213> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

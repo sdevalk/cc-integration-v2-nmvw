@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#name> "Tekening op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#description> "Op deze samengestelde tekening is links boven een 'arit' (sikkel) afgebeeld, op Java gebruikt voor het snijden van gras. Voorts twee apen, waarvan één voorzien van een tekst (lagi satu, Ind. voor 'nog één'), de kop van een ezel, een staande vrouw en, links onder, het portret van een man in officiële kleding (jasje met epauletten) met lange bakkebaarden en een markante neus, waarschijnlijk een Europeaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#identifier> "RV-60-79e46" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e46> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .

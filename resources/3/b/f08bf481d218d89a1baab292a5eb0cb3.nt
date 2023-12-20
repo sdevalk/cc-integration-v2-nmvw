@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#name> "SCHAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#description> "Deze schaal werd waarschijnlijk gebruikt om kava uit te schenken. Kava is de Polynesische benaming van de plant \"Piper methysticum\" en de drank die daarvan gemaakt wordt. De wortel wordt gekauwd en in een schaal met water uitgespuugd. Tegenwoordig wordt de wortel fijgemalen en vermengd met water. Kava heeft (licht) narcotische eigenschappen. De drank wordt gedronken om gasten te begroeten en om belangrijke overeenkomsten te bevestigen. Vroeger diende het ook als plengoffer aan de goden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#identifier> "RV-768-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-768-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

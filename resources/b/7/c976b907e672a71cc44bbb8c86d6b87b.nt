@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#name> "MANNENMUTSJE VOOR BINNENSHUIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#description> "Kalotje voor binnenshuis, gemaakt met een kleine kroon met wijde rand. Het kalotje is gemaakt van geglansde witte katoen. De binnenzijde is gevoerd met een machinaal bedrukte stof met een klein, gestileerd rood en zwart bloemmotief, met zwarte en groene bladeren. De onderste rand is afgewerkt met een smalle biezen bedrukte stof in kerman-stijl. De twee lagen zijn met kleine rijgsteekjes doorgestikt.  De geometrische patronen zijn benadrukt door rolletjes blauw geverfde ruwe katoen. (GVE, 2002)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#identifier> "RV-503-195a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#material> "ruwe katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-195a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

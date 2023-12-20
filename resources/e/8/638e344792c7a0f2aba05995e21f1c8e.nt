@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#name> "KALENDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#description> "Een kalender gemaakt van een wit benen plaat. De kalender is aan het ene einde dakvormig afgesneden. In de plaat zijn drie overlangse reeksen gaatjes geboord waardoor drie koordjes zijn geregen. Om het aantal verschenen dagen enz. te kunnen nagaan wordt voor iedere dag enz. het snoertje uit een gat verwijderd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#identifier> "RV-839-114" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#material> "been ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-114> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

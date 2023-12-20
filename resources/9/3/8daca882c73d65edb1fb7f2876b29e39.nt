@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#name> "MUTS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#description> "De muts is gemaakt van ringelrobbont, grijs met enige donkerbruine vlekken.\r\nDe rand is aan de muts genaaid.\r\nDeze is gemaakt van geelachtig en zwart hondenbont met langere haren.\r\nDe voering van de muts is van textiel.\r\nDergelijke 'moderne' 'westerse' producten van zeehondenbont worden gemaakt en verkocht in het naaiatelier in Ammassalik.\r\nZe vinden aftrek onder jonge of 'moderne' Groenlanders, Denen die in Groenland wonen en toeristen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#identifier> "RV-5905-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#material> "zeehondenbont ; textiel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .

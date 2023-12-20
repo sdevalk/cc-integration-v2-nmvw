@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#name> "BORDUURWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#description> "Rechthoekige doek met uitgebreid borduurwerk, vermoedelijk voor het aanbieden van geschenken (ter afdekking, al is dit dan een vrij groot exemplaar). De Japanse term voor zo'n doek is fukusa 袱紗.\r\n\r\nDecoratie voorstellende het oude echtpaar Jô en Uba, uit het stuk Takasago. Ze staan onder een oude pijnboom en Jô wijst naar twee overvliegende kraanvogels." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#identifier> "RV-1622-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#material> "Textiel ; borduren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1622-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

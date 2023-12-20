@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#name> "WATERSCHEP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#description> "Een waterschep gemaakt van een groot lontarblad. De schep is halfcirkelvormig en heeft een handvat in het midden gemaakt van hout en vastgebonden met smalle repen lontarblad. Aan de schep een touw van in elkaar gedraaide repen lontarblad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#identifier> "RV-52-52" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#material> "blad (lontar) ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-52> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

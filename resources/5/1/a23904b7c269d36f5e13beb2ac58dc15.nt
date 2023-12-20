@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <https://colonialcollections.nl/schema#name> "MENSELIJKE SKELETRESTEN VAN OPGRAVINGEN IN SOEDAN." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <https://colonialcollections.nl/schema#description> "Registration number of box: 2511\r\nSite (code): Attiri\r\nDate (excavation): …\r\nRegistration number of bones: 68-70\r\nAnatomical identification: Juveniles\r\nDescription: skeletons\r\nCountry: SUDAN\r\nRegion: Attiri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <https://colonialcollections.nl/schema#identifier> "RV-5675-K2511" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <https://colonialcollections.nl/schema#material> "been ; kaakbeen ; kies ; schedel ; tand ; wervel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5675-K2511> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

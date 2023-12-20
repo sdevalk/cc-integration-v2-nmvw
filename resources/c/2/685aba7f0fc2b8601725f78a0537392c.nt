@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#name> "Pet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#description> "text op pet: Silver Jubilee 1970-1995. Otumfuo Opoku Ware II, Asantehene" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#identifier> "RV-5899-277" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#material> "katoen & karton ? ; bedrukte stof & naaikunst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-277> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .

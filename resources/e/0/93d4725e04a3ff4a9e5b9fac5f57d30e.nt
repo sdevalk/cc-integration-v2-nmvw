@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#name> "WAAIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#description> "Waaier vervaardigd van gevlochten pandanus bladreepjes met een houten steel. \r\n\r\nDeze waaier heet een “ili fala”. Hij werd gebruikt om vliegen te verjagen tijdens het eten en ter verkoeling. Hij werd speciaal voor gasten gebruikt als een betoon van gastvrijheid.\r\n\r\nGevlochten waaiers werden door vrouwen vervaardigd door het vlechten van streepjes kokos- of pandanus bladeren. Houten waaiers werden door mannen gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#identifier> "RV-489-43" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#material> "pandanusblad ; vezel ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-43> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

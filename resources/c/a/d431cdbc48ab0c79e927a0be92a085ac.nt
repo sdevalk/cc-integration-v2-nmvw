@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#name> "Speelgoed: pop" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#description> "speelpop, ... ... ... ..., Tzang-tzoe nu-wa\r\nVoorstellend een tibetaans meisje, gekleed in groene jak met  \nlange mouwen en broek, karmijnrood overkleed, gestreepte schort.  \nwitte sokken en rode schoentjes. \nAfm.: H. 32 cm.\r\nLit.: zie brief Shanghai Toys Import & Export Corporation,  \nShanghai ag.no.3562, 13-12-'62\r\nZie ook ... ... ...: ... ... ... ... ... ... ... ... ..., \r\nYang Tsjuun-sjeng: Tsjoeng-kwo ke min-tzoe foe-nu foe-sje,\r\nKlederdracht van de vrouwen van al de volkeren in China,  \nSjanghai, 1958, bibliotheek R.v.V. 63:61 534 Kf.\r\nN.B.: aan ommezijde catalogus-kaart is het geleide-biljet  \nopgeplakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#identifier> "RV-3895-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3895-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .

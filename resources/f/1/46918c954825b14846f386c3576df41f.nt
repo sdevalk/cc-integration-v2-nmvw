@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#name> "RIJST-, EN MAISBORD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#description> "Een rijst-, en maisbord gevlochten volgens de drierichtingen of stermethode van berookte lontarbladrepen. De bodem is met een tot zeshoek gebogen,  ingevlochten lontarbladnerf versterkt. Langs de bovenrand is een rondgebogen lontarbladnerf ingevlochten. De bovenrand is iets uitstaand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#identifier> "RV-1647-1084j" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#material> "lontarpalmblad ; lontarbladnerf  (Borassus flabeliformis)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-1084j> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

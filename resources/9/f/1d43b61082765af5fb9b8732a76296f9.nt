@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#name> "Tekening" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#description> "Cidamar is de naam van een dorp ten zuiden van Bandung. Deze tekening van Gunung Malabar heeft Payen waarschijnlijk gemaakt tijdens zijn verblijf in de Preanger in 1819. Op 5 juli 1819 schrijft Payen in zijn dagboek dat hij een brief heeft ontvangen van Reinwardt \"qui me fait une si belle description du Malabar que je me suis décidé à partir demain pour Baguaran [Banjaran]\". Banjaran is de naam van een dorp, gelegen aan de voet van de Malabar, ten zuiden van Bandung." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#identifier> "RV-60-79d4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d4> <https://colonialcollections.nl/schema#yearCreatedStart> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .

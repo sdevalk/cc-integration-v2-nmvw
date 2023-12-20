@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#name> "KALKPOT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#description> "Een kalkpot gemaakt van een bolvormige klapperdop met een rond gat in het boveneinde. De pot is versierd met een vlechtwerk, volgens het vierrichtingensysteem, van rotanrepen, die de pot geheel omsluiten. De pot heeft een uitstaande voet, die visgraatvormig is gevlochten. Aan het lusvormig gevlochten boveneinde van het netwerk zijn twee ogen gemaakt met een draagkoord van bastrepen. De pot dient om binnenshuis kalk te bewaren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#identifier> "RV-804-104" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#material> "noot (klapper) ; rotan ; bast" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#locationCreated> "Sikka Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#alternateName> "Sikka Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-104> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

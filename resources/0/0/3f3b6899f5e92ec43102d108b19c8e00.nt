@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#name> "KISTJE MET DEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#description> "Blikken kistje met daaraan door messing scharnieren bevestigd een deksel met sluiting aan de voorzijde. Hier kan een slotje doorheen gestoken worden. Het sluitwerk is gedecoreerd met een opengewerkte swastika.\r\n\r\nTin plate box with a lid that is attached to the body with two brass hinges. The lid has a closing hinge at the front through which a lock can be stuck. This closing hinge is decorated with an openwork swastika." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#identifier> "RV-3910-33" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#material> "metaal(blik) ; messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3910-33> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

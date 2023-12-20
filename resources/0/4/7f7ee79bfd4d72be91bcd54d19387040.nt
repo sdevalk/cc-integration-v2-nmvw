@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#name> "SPIJSDEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#description> "Een spijsdeksel gemaakt van palmbladrepen. De bladrepen zijn straalsgewijs aan elkaar genaaid. De bladrepen zijn afwisselend effen rood van kleur met daartussen repen in de kleuren geel en wit, gevuld met negen rode en zwarte driehoeken waarvan de punten naar boven wijzen. De bovenkant is versierd met een ronde plaat groene mica. De randhoepel is van rotan gemaakt en rood geverfd. De binnenkant is ongekleurd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#identifier> "RV-370-3591" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#material> "blad (palm) ; verf ; mica ; garen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3591> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

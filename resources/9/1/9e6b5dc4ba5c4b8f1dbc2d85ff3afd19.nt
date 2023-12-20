@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#name> "SIGNAALFLUIT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#description> "Een signaalfluit gemaakt van geel hout. De fluit is trompetvormig en heeft een cilindrisch mondstuk. De fluit is versierd met snijwerk. De verdikking beneden de opening met de figuren van drie hagedissen, een vogel en twee zonnen. Beneden de verdikking met bloemvormige ornamenten en dwarse en overlangse zigzagstrepen, waardoor rechthoekige vlakken worden omsloten. Dit type fluit wordt gebruikt voor het hoeden van karbouwen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#identifier> "RV-839-103" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-103> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

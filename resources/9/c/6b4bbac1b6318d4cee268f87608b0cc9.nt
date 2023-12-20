@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet met een golfvormig patroon (pamor) en een opzetstuk (ganja) dat niet getand is. De messing steelring (mendak) heeft een parelrand. De omgebogen greep is van grijsbruin hout gesneden in de vorm van een gestileerde vogel (garuda) en met bloem- en bladmotieven versierd. De schede (gandar) is van geelgevlamd hout gemaakt en heeft een bootvormige opening (wrangka) met omgekrulde uiteinden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#identifier> "RV-88-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; messing ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-88-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

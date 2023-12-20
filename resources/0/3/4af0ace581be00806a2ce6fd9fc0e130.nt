@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#name> "ZITTENDE MAN MET SCHELP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#description> "Man die op zijn knieën zit, getooid met een neusring en oorringen. Tevens draagt hij een haarband met twee sierelementen aan de zijkanten. In zijn handen houdt hij een schelp die mogelijk als blaasinstrument dienst deed. / Man on his knees, wearing a nose ring and earrings. He also wears a headband with two decorative elements on the sides. In his hands, he holds a shell that may represent a wind instrument." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#identifier> "RV-4010-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#material> "aardewerk / ceramic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4010-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

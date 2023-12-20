@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#name> "DOOS MET DEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#description> "Houten bakken en vaten waren vermoedelijk geen veel voorkomende gebruiksvoorwerpen bij de Nguni. Sommige auteurs zoals Fritsch (1872) vermelden ondiepe schalen voor voedsel en grote vaten voor de opslag van droge voedselwaren. Volgens hem werden zij uit één stuk hout gesneden dat soms blank gelaten werd of soms werd versierd met ingebrande of ingekerfde patronen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#identifier> "RV-803-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-803-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#name> "FEESTBROEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#description> "Deze zwarte lange broek (behorende bij anorak 5961-2) is onderdeel van de feestdracht voor jongens en mannen. Deze wordt gecombineerd met een witte katoenen anorak en zwarte korte feestlaarzen van zeehondenleer. Tegenwoordig ziet men ook wel Europese gepoetste schoenen in de kleur zwart.\r\nJongens en mannen dragen dergelijke feestkleding tijdens hoogtijdagen, soms in de kerk, op verjaardagen en op Groenland's Nationale Feestdag, op 21 juni. Deze dracht wordt dan ook het nationale kostuum genoemd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#identifier> "RV-5961-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#creator> "Asta Jonathansen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5961-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#name> "CHAPAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#description> "Dit soort mantel wordt voornamelijk in Noord-Afghanistan gedragen, maar het type in het algemeen is bekend uit een veel breder gebied en is oorspronkelijk afkomstig uit Centraal-Azië, waarvandaan het sinds het begin van het eerste millennium voor Chr. naar het Iraans Plateau wordt meegenomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#identifier> "RV-4835-753" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#material> "textiel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4835-753> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

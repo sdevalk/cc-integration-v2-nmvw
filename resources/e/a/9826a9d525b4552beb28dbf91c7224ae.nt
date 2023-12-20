@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <https://colonialcollections.nl/schema#description> "Een lange pijl gemaakt van een lengte bamboe. In de schacht is een lange palmhouten punt gestoken. De punt is naast de schacht vierhoekig en loopt uit in een lange platte driehoekige punt vam bamboe. De driehoekige punt heeft aan beide zijden drie inkepingen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <https://colonialcollections.nl/schema#identifier> "RV-84-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <https://colonialcollections.nl/schema#material> "bamboe ; rotan ; palmhout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

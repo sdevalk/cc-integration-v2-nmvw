@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#name> "VROUWENFIGUUR: ZEEMEERMIN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#description> "Deze zeemeermin van aardewerk is afkomstig uit Metepec. De beschildering is na het bakken in waterverf met lijmstof opgebracht. De roze kleur is typisch vootr Metepec. Een vis, vlinder, vogels en rozetten versieren de sirene en haar (pijpachtige) hoofdtooi. Deze pijp is gerestaureerd. Dit object diende ter versiering van het huis(altaar) en kon eventueel een kaars in de pijp dragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#identifier> "RV-4187-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#locationCreated> "Metepec" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#alternateName> "Metepec" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4187-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

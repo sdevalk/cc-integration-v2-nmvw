@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#name> "VOORSTELLING VAN DE WONING VAN EEN ATJEES HOOFD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#description> "Een edelman en zijn gezin in hun woning. Op de voorgrond is de edelman te zien in een bale, een ceremonieel gebouw. De mensen brengen hem hier hulde en hebben suikerriet, kokosnoten en een geit meegebracht.\r\nAan beide kanten van de woning zijn bomen, vogels en andere dieren te zien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#identifier> "RV-1599-673" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#material> "papier ; potlood ; verf of gekleurd krijt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#creator> "Teuku Teungoh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1599-673> <https://colonialcollections.nl/schema#yearCreatedStart> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .

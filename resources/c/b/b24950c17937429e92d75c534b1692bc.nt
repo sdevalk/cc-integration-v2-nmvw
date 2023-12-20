@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#name> "DANSZWAARD." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#description> "Een zwaard, een danszwaard, gemaakt van hout. Het zwaard heeft de vorm van een kapmes. Het schuin afgesneden handvat loopt naar het uiteinde breder uit. Het lemmet met een convexe rug is naast de greep smal en loopt naar het uiteinde breder uit met een punt. Het lemmet is versierd met een rode zigzaggende figuur met tweebladige uitsteeksels. De randen zijn zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#identifier> "RV-84-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#material> "hout ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-84-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

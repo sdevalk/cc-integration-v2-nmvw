@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#name> "RITUEEL MASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#description> "Houten masker dat werd gebruikt bij dodenrituelen (tiwah). Dergelijke maskers stellen de geesten voor die de contacten met de voorouders onderhouden. Bij dodenrituelen vallen deze bukung maskers het dorp binnen en worden in een 'mock fight' door de dorpelingen tegengehouden. Uiteindelijk winnen de geesten het gevecht en bezetten zij het dorp. Daarna begeleiden zij de doden naar het dodenrijk en laten zij het dorp weer aan de dorpelingen.  Zie voor een analyse van dergelijke rituelen Schärer (1938) en voor een afbeelding van dit masker: W. H. Rassers (1928)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#identifier> "RV-789-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#material> "Hout ; veer ; gras" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-789-36> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

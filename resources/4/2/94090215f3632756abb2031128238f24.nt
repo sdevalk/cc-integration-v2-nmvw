@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#name> "JAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#description> "De inventariskaart vermeldt: \"Kleedingstuk als nummer 360-7332. Hier rand om hals blauw, rood en wit\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#identifier> "RV-360-7333" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#locationCreated> "Iceland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#countryCreated> "Iceland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#alternateName> "Iceland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#alternateName> "Ísland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#alternateName> "Islande" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#alternateName> "Republic of Iceland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7333> <https://colonialcollections.nl/schema#alternateName> "Islanda" .

@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#name> "PEDDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#description> "Een peddel gemaakt van bruin hout. De peddel heeft een lang, smal en ovaal blad met een middenrug en uitlopend in een ronde punt. De punt is van been gemaakt en met twee zwarthouten ringen versierd. Aan het blad een lange ronde steel, die eindigt in een dwars platrond handvat. De steel is aan het ondereinde versierd met een Tumpalmotief, in elkaar geschoven lange driehoeken met een cirkel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#identifier> "RV-405-52b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#material> "hout ; been" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#locationCreated> "Kutai Kartanegara Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#alternateName> "Kutai Kartanegara Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-405-52b> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

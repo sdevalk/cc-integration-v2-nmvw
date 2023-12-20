@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#name> "SCHEERRAAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#description> "Een scheerraam gemaakt van bamboe en hout. Het raam is rechthoekig, met twee langsstokken van bamboe, waartussen twee aan de binnenzijde getande houten latten met pennen zijn bevestigd. Op enige afstand hiervan overdwars ronde opspanstokken van bamboe, die met lontarbladrepen en een wurgsjorring aan de latten verbonden zijn. Op dit raam zijn gespannen bundels katoenen draden in een ruitpatroon geikat met bladrepen, die blauw geverfd en in draden gespleten zijn (hiervan monsters bijgevoegd). Dwars door de schering is een plat stokje gestoken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#identifier> "RV-1722-26" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#material> "bamboe ; hout ;  blad (lontar) ; katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-26> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

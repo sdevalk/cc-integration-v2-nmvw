@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#name> "HUIPIL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#description> "Huipil gemaakt van fijne fabriekskatoen (calico?). Op de schouderlijn dubbelgevouwen, de zijkanten aan elkaar genaaid met uitzondering van de armsgaten, de opening voor het hoofd uitgesneden. Aan de onderzijde en langs de hals versierd met borduurwerk (uitgevoerd op een naaimachine). Decoratie bestaat uit gestileerde blad- en bloemmotieven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#identifier> "RV-5946-300" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-300> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

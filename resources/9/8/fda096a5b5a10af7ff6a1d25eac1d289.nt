@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <https://colonialcollections.nl/schema#description> "1 munt (misslag), Indische duit,\r\nVz. 1 Cz, Wapen van Nederland, \r\nKz. NEDERL. INDIE, Mmt. ster, 1840" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <https://colonialcollections.nl/schema#identifier> "RV-1712-0-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <https://colonialcollections.nl/schema#material> "koper ; geslagen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1712-0-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

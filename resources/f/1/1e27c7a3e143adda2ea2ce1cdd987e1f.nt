@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#name> "DOLK MET SCHEDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#description> "De greep en de schede van dit traditionele zwaard, dohong, zijn versierd met mensenhaar. Verschillende Dayakgroepen in Kalimantan gebruikten een dohong als wapen voordat de meer bekende mandau in gebruik kwam.\r\nEen dohong had een rituele betekenis bij grote begrafenis- en voorouderrituelen.\r\nZij werden gedragen door vrouwen als mannen met gesnelde hoofden het dorp binnenkwamen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#identifier> "RV-952-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#material> "koper ; hout ; haar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#locationCreated> "Kutai Kartanegara Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-952-1> <https://colonialcollections.nl/schema#alternateName> "Kutai Kartanegara Regency"@en .

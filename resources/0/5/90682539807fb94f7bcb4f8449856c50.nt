@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#name> "STAATSIEKRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#description> "Een kris, een staatsiekris, gemaakt van gesmeed ijzer. De kris heeft een zeer smal recht lemmet met een golvenpatroon (pamor). De bovenhoeken van het lemmet zijn niet getand, maar wel met een groef in de buitenste bovenhoek van het lemmet. De gebogen greep is van lichtbruin hout gesneden en cilindervormig met een dik uiteinde. Het middendeel is versierd met geciseleerde rechthoeken van fijn gouddraad. Op het bolle bovenvlak is een Dalimabloem uitgesneden. De schede (gandar) en de bootvormige schedeopening (wrangka) hebben ronde einden van geel hout. De schede heeft een zilveren hoes (pendok), die aan de zijranden met geciseleerde bladfiguren is versierd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#identifier> "RV-1602-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#material> "ijzer ; goud ; zilver ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#locationCreated> "Kota Denpasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#alternateName> "Kota Administratip Denpasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-3> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Denpasar" .

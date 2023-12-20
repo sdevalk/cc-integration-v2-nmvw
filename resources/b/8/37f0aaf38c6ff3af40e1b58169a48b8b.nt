@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#name> "TEKENING: LANDKAART VAN DE KAWAH MANUK BIJ DE PAPANDAYAN VULKAAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#description> "In 1821 heeft Payen in gezelschap van M.P.J.J. Bocarmé (inspecteur der koffieculturen in het regentschap Bandung) de vulkaan Papandayan beklommen (zie: Marie-Odette Scalliet, Antoine Payen: Peintre des Indes Orientales, Leyde, Pays-Bas, 1995; aantt. 242 en 250). In een brief aan professor Reinwardt uit mei 1822 doet Payen uitgebreid verslag  van hetgeen hij te weten is gekomen over deze vulkaan. De tekening bevat een overzicht van de diverse bekkens (Bassins; A tm E en K), de rivier Cibodas (F), een waterstroom (Rigole; G) en de weg die Payen heeft afgelegd (I)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#identifier> "RV-60-79d56" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#material> "papier ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1821"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d56> <https://colonialcollections.nl/schema#yearCreatedStart> "1821"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#name> "OORHANGER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#description> "Een oorhanger gemaakt van schildpad. De hanger is plat en het bovendeel is gesneden in de vorm van een gespleten ring, het onderste gedeelte is bladvormig met uitgeschulpte randen en schuine of gekruiste ingesneden strepen aan beide zijden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#identifier> "RV-804-191" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#material> "schildpad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#locationCreated> "Sikka Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#alternateName> "Sikka Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-191> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

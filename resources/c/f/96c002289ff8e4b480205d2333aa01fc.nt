@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#name> "Tas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#description> "Rieten dicht gevlochten zakjes (Bataks).\r\nVoorzover ik weet gebruikt o.a.voor vervoeren (opdienen?) van kleine hoeveelheden rijst, gekookt (\"indahan\") of gestampt ('dahanon').\r\n\tdrs. H.J.A.Promés, Voorhout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#identifier> "RV-6027-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#material> "riet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6027-11> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

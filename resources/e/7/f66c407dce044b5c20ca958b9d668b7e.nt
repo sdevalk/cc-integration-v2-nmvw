@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#name> "LANGE JAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#description> "Dit soort mantel wordt voornamelijk in Noord-Afghanistan gedragen, maar het type in het algemeen is bekend uit een veel breder gebied en is oorspronkelijk afkomstig uit Centraal-Azië, waarvandaan het sinds het begin van het eerste millennium voor Chr. naar het Iraans Plateau wordt meegenomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#identifier> "RV-4955-140" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#material> "onbekend" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4955-140> <https://colonialcollections.nl/schema#yearCreatedStart> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

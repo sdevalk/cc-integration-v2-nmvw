@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#name> "KRISSCHEDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#description> "Een schede van een kris gemaakt van geel hout. De schede (gandar) heeft een hoes (pendok), die van goud is gemaakt. De hoes is aan de openingskant versierd met bloem- en bladornamenten in reliëf. Het uiteinde van de hoes is ook versierd met een bloem- en bladornament in reliëf. De bootvormige schedeopening (wrangka) is van ivoor gesneden.\r\nDe schede behoort w.s. bij 1602-15." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#identifier> "RV-1602-15a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#material> "hout ; goud ; ivoor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#locationCreated> "Kota Denpasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#alternateName> "Kota Administratip Denpasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1602-15a> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Denpasar" .

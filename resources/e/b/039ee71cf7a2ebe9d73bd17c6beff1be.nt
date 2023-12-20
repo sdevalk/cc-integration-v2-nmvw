@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#name> "TROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#description> "Het gaat hier om een zogenaamde koningstrom voorzien van diverse symbolische figuren en het teken van de koning, als leeuw uitgebeeld. De afbeeldingen op de trommen kunnen sterk wisselen; ze beelden spreekwoorden uit of gebeurtenissen. De betekenis van de op de trom aangebrachte borsten is niet geheel duidelijk.\r\nBij membranofonen wordt het geluid voortgebracht door een trillend vlies, al dan niet boven een opening gespannen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#identifier> "RV-360-5688" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#material> "hout ; leer ; vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5688> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet. Het gebogen heft is van bruin hout gesneden in de vorm van een gestileerde vogelfiguur (garuda). De bootvormige schedeopening (wrangka) is van lichtbruin hout gemaakt. De schede (gandar) is van donkerbruin hout gesneden met een aangezette ovale schoen van lichtbruin hout.\r\nDe kris is uit Zuid-Sulawesi ingevoerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#identifier> "RV-761-94" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#locationCreated> "East Kalimantan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#alternateName> "Propinsi Kalimantan Timur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#alternateName> "East Kalimantan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#alternateName> "East Kalimantan"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-94> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Kalimantan Timur" .

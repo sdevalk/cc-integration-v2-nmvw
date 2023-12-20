@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#name> "MASKERDANSER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#description> "Deze, van gebruikt blik gemaakte, dansfiguurtjes zijn speciaal voor de verkoop aan toeristen. Ze verbeelden de verschillende karakters die tijdens de maskerdansen optreden. Op deze manier kunnen de Dogon iets bijverdienen. Toerisme is een steeds belangrijkere bron van inkomsten.\r\n\r\nDe steltlopers zijn, door het enthousiasme van de toeristen, zeer populair geworden bij de maskerdansen voor buitenstaanders. Om die reden lijken de stelten ook steeds hoger te worden terwijl het origineel niet boven de een meter uitkwam." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#identifier> "RV-6028-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#material> "Blik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#creator> "Ladji Badiaga" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6028-2> <https://colonialcollections.nl/schema#yearCreatedStart> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

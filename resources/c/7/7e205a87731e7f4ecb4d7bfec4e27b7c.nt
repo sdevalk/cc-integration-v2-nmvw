@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#name> "江戸切絵図　EDO KIRIEZU" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#description> "EDO KIRIEZU  江戸切絵図\r\nPlace of publication: Edo\r\nPublisher: Owariya Seishichi ?????\r\nDate of publication: Kaei; Ansei and partly Bunkyu period\r\nCollation: set of 30 map of Edo; most sheets c. 500×550. Various mapmakers. Most maps with wrappers.\r\nColophon: publisher: Edo, Kinrindo ???, Owariya Seishichi." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#identifier> "RV-578-119" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#material> "houtsnede ; papier, inkt, pigment" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#yearCreatedEnd> "1871"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-119> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .

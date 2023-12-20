@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#name> "BEELD VAN EEN ZITTENDE NAAKTE VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#description> "Naakte vrouw die met de benen recht vooruit zit en de armen langs het lichaam heeft. Haar gezicht en lichaam zijn beschilderd met een geometrisch patroon in negatief schildertechniek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#identifier> "RV-5051-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#material> "aardewerk ; negatief schildering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#locationCreated> "Ecuador" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#countryCreated> "Ecuador" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#alternateName> "Republic of Ecuador"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5051-3> <https://colonialcollections.nl/schema#yearCreatedStart> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .

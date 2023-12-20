@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#name> "OMSLAGDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#description> "Een omslagdoek gemaakt van geweven katoen. De doek bestaat uit twee banen, die in de lengte aan elkaar zijn genaaid. De banen hebben ieder een eigen motief in rood, zwart en blauw met gedeelten, die geïkat zijn. Het patroon bestaat uit afwisselend zwarte en rode strepen en banen. De rode strepen hebben een blauwe lijn in het midden. De zwarte strepen hebben witte vlekken met een onduidelijk patroon van ruiten, krullen en kettingvormen. De uiteinden van de banen hebben lange franjes. De doek is rond geweven en bij de franjes losgesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#identifier> "RV-16-352" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-352> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

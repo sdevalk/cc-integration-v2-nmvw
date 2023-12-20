@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een lemmet met een gevlamd patroon (pamor). De schede (gandar) is van lichtbruin hout gemaakt. De bootvormige opening (wrangka) is van bruin hout gesneden. Om de schede aan de bovenkant een touw.\r\nDe kris ontbreekt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#identifier> "RV-360-5363" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; hout ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5363> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

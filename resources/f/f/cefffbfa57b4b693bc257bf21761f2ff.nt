@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#name> "GIETVORM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#description> "Een gietvorm, gemaakt van gebakken zwarte klei. De vorm is plat, ruitvormig met een afgesneden ondereinde. Het boveneinde is doorboord met een trechtervormige hals. Een helft is verwijderd zodat een in was gevormd oorsieraad zichtbaar is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#identifier> "RV-804-216" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#material> "klei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-216> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

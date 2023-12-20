@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#name> "DRAAGMAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#description> "Een draagmand gemaakt van bamboe. De mand bestaat uit vertikaal geplaatste bamboelatten, die op vele plaatsen met rotanrepen aan elkaar zijn gevlochten. De achterkant van de draagmand is van een geelhouten plank gemaakt. De plank is aan de bovenkant met snijwerk versierd in de vorm van krul- en spiraalornamenten en gedeeltelijk à jour versierd met driehoekige en klaverbladvormige gaten. Aan een kant twee uitstekende gedeelten, gevlochten van rotanrepen met zeskantige gaten. De mand heeft een draagstel van boombast." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#identifier> "RV-370-3643" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#material> "rotan ; hout ; bast (boom)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3643> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

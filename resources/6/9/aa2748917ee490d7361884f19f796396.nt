@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#name> "BUFANDA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#description> "Bufanda (sjaal??) geweven van zijde. Vrijwel de gehele bufanda is geweven van ongeverfd zijde. De bufanda is geweven in afwisselend dichte en meer open stijl. Met cafékleurig zijde zijn banden in de breedte van de bufanda geweven, de banden zijn steeds omlijnd met een donkerdere kleur. Eén bredere band bestaat uit twee smalle bandjes met daarin kruisjes, een smallere band met brede omlijningen met daarbinnen opnieuw een kruisjesmotief, twee maal een smalle band met ruitjes en opnieuw een dubbele band met ruitjes. De afstand tussen de banden is ongelijk en ook de afstand tot het uiteinde van de bufanda is niet gelijk aan beide zijden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#identifier> "RV-6055-22" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#creator> "Martina López Ortega" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#locationCreated> "San Andrés Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#alternateName> "San Andres" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#alternateName> "San Andrés Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla San Andres" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6055-22> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

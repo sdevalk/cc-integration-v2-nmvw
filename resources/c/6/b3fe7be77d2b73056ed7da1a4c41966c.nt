@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#name> "REFAJO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#description> "Refajo, rok, gestreept in de kleuren geel, groen, rose, lila. De rok bestaat uit twee op het heupgetouw geweven, katoenen banen, die in de lengte met de hand aan elkaar zijn genaaid het weefsel van de rok is kettingribs, alleen de scheringdraden zijn zichtbaar en worden dus in de kleuren van de strepen opgezet. Voor de inslag kan men dan ongekleurd materiaal, hier katoen, nemen. Hij is gemaakt en werd gedragen door Maria Seferían H. Zie ook nr. 4880-527." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#identifier> "RV-4880-528a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-528a> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

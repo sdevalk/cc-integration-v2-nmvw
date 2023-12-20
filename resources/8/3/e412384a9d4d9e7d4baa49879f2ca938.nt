@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#name> "SCHILD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#description> "Een schild gemaakt van hout. Het schild is lang en smal. De voorkant is versierd met vele witte schelpen. De randen zijn versierd met pluimen van haar. De randen van het schild zijn bedekt met een reep rotan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#identifier> "RV-798-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#material> "hout ; schelp ; haar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#locationCreated> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#alternateName> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#alternateName> "Solor Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-798-8> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

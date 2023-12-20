@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <https://colonialcollections.nl/schema#name> "ARMBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <https://colonialcollections.nl/schema#description> "Een armband gemaakt van messing. De armband heeft de vorm van gedraaid touw. De band heeft drie windingen. Dit type wordt door kinderen gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <https://colonialcollections.nl/schema#identifier> "RV-16-712" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <https://colonialcollections.nl/schema#material> "messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-712> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

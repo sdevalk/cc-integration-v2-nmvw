@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#name> "KRALEN-POLSSNOER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#description> "Polssnoer van achttien met behulp van een mal vervaardigde kralen. Ze hebben een blauwe achtergrond met elk acht gele horizontale streepjes. Aan weerszijden van de grote kraal (2 x 2 cm) bevindt zich een blauwe kraal met vier gele en vier oranje horizontale streepjes. De zijkanten van de kralen zijn geslepen zodat ze mooi aansluiten. De zeventien (kleine) kralen meten 1,5 x 1,3 cm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#identifier> "RV-5899-380" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#material> "poederglas ; vezelkoord ; gebakken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-380> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#description> "goudgewicht van messing, voorstellende een halfronde gordelriem ('ntoa'), waaraan een tas hangt met een bel en twee dolkmessen, daarnaast een kruithoorn gemaakt van een kalebas en drie kleine dolkmesjes.  De gordelriem is versierd met gestileerde schelpen.  Schelpen speelden een belangrijke rol bij de handel (persoonlijke communicatie met mevrouw Menzel, 1995).  Het messing is van een donkere kleur.  Hiermee wordt het spreekwoord: \"de patroongordel van Akowua (een beroemde krijger) bevatte altijd kogels\" geassocieerd.  Dit wil zeggen dat een rijke man soms problemen heeft, maar nooit hoeft te bedelen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#identifier> "RV-505-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#material> "Messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-505-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

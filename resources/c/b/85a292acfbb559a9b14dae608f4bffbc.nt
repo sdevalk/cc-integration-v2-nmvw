@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#name> "DOEK (SERVILLETA)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#description> "Doek geweven van witte katoen. Grondweefsel: linnenbinding. Dikke supplementaire inslagdraden vormen lussenweefsel (confite) met vijf rijen decoratieve motieven: vijf vrouwfiguren ; vier honden (?) ; zes vrouwfiguren ; vier honden (?) ; vijf kleine honden (?). Drie zelfkanten - één zijde met franjes (onbewerkte, losgesneden kettingdraden).\r\n\r\nAVH: Teacal es una comunidad en el municipio de Huejutla de Reyes, en la Huasteca hidalguense." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#identifier> "RV-5946-156" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#locationCreated> "Hidalgo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#alternateName> "Estado de Hidalgo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#alternateName> "Hidalgo"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-156> <https://colonialcollections.nl/schema#yearCreatedStart> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

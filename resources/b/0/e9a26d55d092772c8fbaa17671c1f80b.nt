@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#name> "KRACHTBUNDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#description> "De krachtbundel bestaat uit een uit touw gevlochten medicijnzakje, bevattende gedroogde kruiden, voorzien van een draagband uit touw waaraan verschillende voorwerpen zijn gebonden, drie glazen spiegeltjes, haarkam, drie klokjes, drie antiloophorens en messing buis, repen wol en een paar korte snoeren met rode kralen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#identifier> "RV-497-160" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#material> "Plantenvezel ; katoen ; metaal ; glas ; hars ; bamboe ; noot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-497-160> <https://colonialcollections.nl/schema#yearCreatedStart> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .

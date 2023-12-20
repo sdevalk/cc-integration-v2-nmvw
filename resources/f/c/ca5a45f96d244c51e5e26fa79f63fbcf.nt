@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#name> "HARS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#description> "Met dit soort hars werd zwarte kleurstof gemaakt. Hiervoor werd de hars in brand gestoken waarbij een zoete geur en veel zwarte rook vrijkomt. Het zwarte roet wordt opgevangen op een stuk hout en daar weer van af geschraapt en vermengd met water." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#identifier> "RV-5180-59" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#material> "hars" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-59> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

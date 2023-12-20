@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#name> "KALKDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#description> "Een houder voor sigaren gemaakt van een vrijwel ronde kalebas. In de bovenzijde zit een gat waarin een houten stop zit. Aan de stop zit een touw dat naar de onderzijde van de kalebas loopt. De bovenzijde en de onderzijde van de kalebas zijn gedeeltelijk versierd met ingesneden banen driehoeken en stippen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#identifier> "RV-49-29" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#material> "kalebas ; hout ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-49-29> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

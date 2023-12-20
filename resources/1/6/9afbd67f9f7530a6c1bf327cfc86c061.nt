@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#name> "TABAKSPIJP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#description> "Van bamboe. Aan het ene einde (waar een doorboorde geleding is) is een smaller, wat bijgeslepen stuk bamboe gestoken als mondstuk. Op een afstand van 8 cm vanaf die geleding is het bamboeoppervlak geheel weggesneden. De rest van de pijp is versierd door dat sterk golvende horizontaal lopende banden, aan elkaar bevestigd door verticaal lopende banden,zijn uitgespaard. De uitgespaarde delen zijn bedekt met uitgekraste strepen en lijnen. In de pijp zit een prop gras (filter?).\r\nDoor schenker verzameld in de jaren 1955-1958." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#identifier> "RV-3715-58" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3715-58> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

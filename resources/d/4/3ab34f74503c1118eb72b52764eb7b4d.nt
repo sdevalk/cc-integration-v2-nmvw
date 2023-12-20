@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet. De gladde steelring is van koper gemaakt . De rechte ivoren greep is rond en loopt in een punt uit. De greep is versierd in de vorm van een hurkende gestileerde vogelfiguur (garuda). De schede (gandar) en de bootvormige schedeopening (wrangka) zijn van roodbruin gevlamd hout gemaakt. Eén benedenhoek van de opening is versierd met blad- en krulvormig snijwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#identifier> "RV-370-849" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; hout ; ivoor ; koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-849> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

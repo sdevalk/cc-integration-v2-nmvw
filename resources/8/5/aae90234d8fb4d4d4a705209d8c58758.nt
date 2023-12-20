@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#name> "MAL VOOR HET VORMEN EN DECOREREN VAN INKTSTAVEN. HOUT." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#description> "Rechthoekige, zwarte staaf, met bovenaan net rechts en onderaan net links van het midden een gat. In het midden van de staaf is een uitgesneden, opstaande rechthoek aanwezig met arabesken, schubbenmotief en karakters. De bovenkant van de rechthoek bestaat uit vijf golfjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#identifier> "RV-3761-13-a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#inscription> "'Nanking-berg' (Nankyo sumiyama) (zz): Nanking is een plaats in China; 'Kuroyama' (zwarte berg)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#material> "hout ; snijwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3761-13-a> <https://colonialcollections.nl/schema#yearCreatedStart> "1775"^^<http://www.w3.org/2001/XMLSchema#integer> .

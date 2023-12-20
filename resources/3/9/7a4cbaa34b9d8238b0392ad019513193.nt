@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#name> "GORDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#description> "Vervaardigd van aan rotanvezels geregen gekleurde kralen in een ruitvormig patroon. De uiteinden lopen spits toe en de vezels zijn daar tot een kort bandje uitgevlochten.\r\nornamentatie: negen en een half groep van concentrische ruiten op een rij. Kleuren wit, rood, blauw en zwart.\r\nWordt bij het dansen gebruikt en gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#identifier> "RV-929-223" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#material> "vezels, rotanvezel ; kralen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-223> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

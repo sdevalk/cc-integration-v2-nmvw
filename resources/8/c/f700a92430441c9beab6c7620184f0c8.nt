@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#name> "MUIL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#description> "Een muiltje voor een kind gemaakt van leer en katoen. De zool, die op een houten basis ligt, is gemaakt van leer en aan de binnenkant rood geverfd. De tenen en de voorkant van de voet worden bedekt met een stuk flanel en aan de binnenkant afgezet met roze katoen. De bovenkant van het voorstuk is versierd met kleurige kraaltjes in bloemfiguren.\r\nVormt samen met 4925-1a een paar muiltjes voor een kind." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#identifier> "RV-4925-1b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#material> "leer ; katoen ; hout ; kraal ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4925-1b> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

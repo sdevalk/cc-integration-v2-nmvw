@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#name> "DRAAGMAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#description> "In deze mand wordt bewaard: de bamboe met tabak, geoliede kapok, ligmat, vuurslag, ingredienten voor het betelkauwen en andere kleinigheden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#identifier> "RV-929-392" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#material> "rotan ; boombast" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-392> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#description> "De kabuki-acteur Sawamura Tanosuke in vrouwenrol (Japans: onnagata). Hij draagt een kimono waarop een blauwgrijs patroon van (gestileerde) bamboe. Hij is bezig de rode obi (ceintuur) te strikken en heeft een pakketje tissues tussen de tanden geklemd. Tanosuke staat voor een groot kamerscherm met een gouden achtergrond waarop bloemen en planten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#identifier> "RV-1630-72" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#creator> "Utagawa Kunisada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1630-72> <https://colonialcollections.nl/schema#yearCreatedStart> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .

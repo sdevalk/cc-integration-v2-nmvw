@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#name> "OMSLAGDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#description> "Ketting: handgesponnen zwart wol, witte wol geverfd met rode verf (lichte variant), combinatie van witte en zwarte wol geverfd met rode verf (donkere variant). Inslag: lichte variant rood.\r\nTechniek: kettingpatroonweefsel. Weeftechniek, kleurstelling en strepenpatroon hetzelfde als in de oude-stijl wikkelrokken. De kettingdraden zijn losgesneden en in macramétechniek in geknoopte franjes verwerkt. Dit soort omslagdoeken is bestemd voor de toeristenmarkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#identifier> "RV-5946-241" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#material> "wol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-241> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

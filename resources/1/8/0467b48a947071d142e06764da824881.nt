@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#name> "HALSSNOER MET KLEIN KRUIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#description> "Halssnoer bestaande uit rode en zilverkleurige kralen die aan een roze katoenen draad zijn geregen; acht rode kralen worden afgewisseld door drie of vier zilverkleurige. Aan de onderzijde prijkt een klein kruis. Dit halssnoer is een goedkope imitatie van oude 'Yalalag Kruis' halssnoeren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#identifier> "RV-5946-251" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#material> "kralen ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-251> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#name> "BATIKPATROON: BLABAGAN GRINGSING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#description> "Dit gebatikte patroon heet Blabagan gringsing, een bord met een schubbenpatroon. Het is een patroon van diagonaal lopende banden. De dwarsbanden zijn afwisselend versierd met schubben met een blauw bladrankenmotief op een lichte achtergrond en witte ranken en bruine bladeren op een blauwe achtergrond. De rand heet Lunglungan en bestaat uit bruine ranken op een witte achtergrond." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#identifier> "RV-847-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#material> "katoen ; verf ; batik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-19> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

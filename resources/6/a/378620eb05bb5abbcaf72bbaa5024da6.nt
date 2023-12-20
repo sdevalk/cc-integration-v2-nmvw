@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#name> "SCHAAMSCHORT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#description> "Tegenwoordig dragen vrouwen en mannen in sommige delen van Micronesië gekleurde lendendoeken van textiel. Voorheen droeg men rokjes van plantenvezels. Op enkele eilanden dragen de vrouwen tegenwoordig nog een rok van plantenvezels van ongeveer veertig centimeter lang en zeventig tot negentig centimeter breed. Ze worden onder de navel en de buik en boven de heupen gedragen en aan de zijkant aan elkaar geknoopt. Vroeger waren deze rokjes veel korter, waarschijnlijk een derde van de lengte van nu. De vrouwen maken de rokjes waarbij ze plantenvezels aan een dubbel kokosvezelkoord knopen. Bredere stroken pandanusblad of stroken kokosbast kunnen als extra versiering aan het knoopwerk toegevoegd worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#identifier> "RV-489-72" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#material> "vezel (gras) ; blad (pandanus)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#locationCreated> "Gilbert Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-489-72> <https://colonialcollections.nl/schema#alternateName> "Gilbert Islands"@en .

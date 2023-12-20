@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#name> "BEITEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#description> "Naast bijlen en dissel waren beitels en gutsen andere belangrijke werktuigen in de Polynesische houtbewerking. Ze werden gemaakt van steen of schelp en recht op de steel gschacht, in plaats van in een hoek zoals dissels en bijlen. Ze werden alleen voor houtbewerking gebruikt en hadden waarschijnlijk geen ceremoniële functie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#identifier> "RV-947-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#material> "steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-947-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .

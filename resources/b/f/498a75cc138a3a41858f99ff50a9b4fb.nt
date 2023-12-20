@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <https://colonialcollections.nl/schema#name> "Boeken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <https://colonialcollections.nl/schema#description> "Het boek Shaka go ichidaiki zue ('Geillustreerde geschiedenis van de eerste Boeddha, Shakyamuni'), geschreven door Yamada Isai (Yamada no Kakashi/Yamatoya Keizô) en geillustreerd door Katsushika Hokusai. Eerste uitgave dateert van 1841 maar dit exemplaar betreft een latere uitgave. Het colofon geeft het jaar 1845 en de uitgever Kawachiya Mohei (te Osaka), ism diverse andere uitgevers uit verschillende steden. In vijf delen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <https://colonialcollections.nl/schema#identifier> "RV-578-72-TT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-578-72-TT> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

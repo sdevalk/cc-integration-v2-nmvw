@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#name> "Tekening op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#description> "Deze tekening heeft Payen gemaakt tijdens zijn verblijf in Brazilië (zie hiervoor: RV-60-79d82). De Jezuïten vormen een katholieke religieuze orde die in 1534 in Parijs werd opgericht door een groep studievrienden rond Iñigo López de Loyola, beter bekend als Ignatius van Loyola met verlatiniseerde voornaam. Het doel van de jezuïeten was en is hulp aan de naaste (\"het helpen van de zielen\")." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#identifier> "RV-60-79d85" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#yearCreatedEnd> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#locationCreated> "Rio de Janeiro" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#alternateName> "State of Rio de Janeiro"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#alternateName> "Estado do Rio de Janeiro"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79d85> <https://colonialcollections.nl/schema#yearCreatedStart> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .

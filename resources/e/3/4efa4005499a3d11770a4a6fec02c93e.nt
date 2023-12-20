@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. Het lemmet heeft negen bochten. Het lemmet heeft aan één kant één scherpe en twee flauwe tanden. Het opzetstuk van het lemmet (ganja) is aan de andere zijde flauw gekarteld (greneng). De  sterk gebogen greep is van bruin hout gemaakt en heeft een komvormige steelring (selut) van messing. De schede (gandar) is van bruin hout gemaakt en aan het ondereinde omwikkeld met rotan. De bovenzijde is omwikkeld met rood katoen waaronder een gordellus vastgemaakt is. De opening van de schede (wrangka) is bootvormig en van zwart hoorn gesneden met drie rondgaande banden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#identifier> "RV-16-79" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; hout ; rotan ; messing ; verf ; hoorn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#locationCreated> "Makassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Ujungpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Makasser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Makasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Udjung Pandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Makassar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#alternateName> "Djumpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-79> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

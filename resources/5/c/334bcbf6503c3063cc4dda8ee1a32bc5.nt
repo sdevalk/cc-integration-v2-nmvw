@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <https://colonialcollections.nl/schema#name> "Vuurtang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <https://colonialcollections.nl/schema#description> "Oorspronkelijk vijf paren vuurtangen op inv.kaart genoteerd, maar later gecorrigeerd; er zouden maar drie paren zijn geweest. Oorspronkelijk op kaart genoteerd: 3 stuks rood koper, 1 stuks geel koper, 1 stuks zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <https://colonialcollections.nl/schema#identifier> "RV-360-6796" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <https://colonialcollections.nl/schema#material> "koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-6796> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

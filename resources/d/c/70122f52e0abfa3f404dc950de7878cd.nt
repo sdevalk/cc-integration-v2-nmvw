@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#name> "KALKKOKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#description> "Een kalkkoker gemaakt van een lengte bamboe. De koker heeft een inschuivende bodem en deksel van bruin hout. Het deksel loopt naar boven smaller toe en eindigt in een rond plat vlak. In het midden van dit platte vlak is een rond, niet geheel doorgaand, gat gemaakt. De wand van de koker is versierd met ingekraste en ingesneden versieringen. Langs de onder- en de bovenrand een rij poortvormige lijnen, die gevolgd worden door rondgaande randen waarin kleine, staande of liggende ruiten te zien zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#identifier> "RV-804-54" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#material> "bamboe ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#locationCreated> "Maumere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#alternateName> "Maomere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#alternateName> "Mauniere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#alternateName> "Maoemere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#alternateName> "Maumere"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-54> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

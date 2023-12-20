@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#name> "Tas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#description> "Geschenk van Isabel Kelly. Oorspronkelijk in de collectie van Olivia Converse. Olivia Converse was een vriendin van Bodil Christensen met wie zij samen door Mexico reisde om het leven en de materiële cultuur in indiaanse dorpen fotografisch vast te leggen en te verzamelen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#identifier> "RV-5946-672" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#material> "katoen ; wol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#locationCreated> "Nayarit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#alternateName> "Nayarit"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#alternateName> "Tepic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#alternateName> "Estado de Nayarit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-672> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

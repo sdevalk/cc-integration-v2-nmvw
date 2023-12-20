@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#name> "Tekening op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#description> "Waarschijnlijk gaat het hier om een aboriginal uit Australië, in het bijzonder een inwoner van het noord-oostelijke deel van Arnhem Land. De oorspronkelijke bewoners van dit gebied zijn de inheemse Yolngu-stam, waarvan bekend is dat zij, al vóór de komst van de Europeanen,  handel dreven met Buginesen van Zuid-Sulawesi. Voor de komst van de Europeanen werden de Yolngu jaarlijks bezocht door inwoners van Makassar, die met prauwen de Arafurazee overstaken om 'trepang' (zeekomkommers) te vangen en werktuigen en sieraden tegen 'ralapiny' (parels) te ruilen. De trepangvissers noemden het noorden van Australië Marege. Hun contacten met de Yolngu waren van vriendschappelijke aard. Sommige Yolngu reisden mee naar Makassar en bleven daar tot het begin van het volgende trepangseizoen (https://nl.wikipedia.org/wiki/Yolngu). Payen moet deze man hebben ontmoet tijdens de expeditie in 1824 naar de Molukken en Celebes. In zijn dagboekaantekeningen is hierover niets terug te vinden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#identifier> "RV-60-79e28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e28> <https://colonialcollections.nl/schema#yearCreatedStart> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .

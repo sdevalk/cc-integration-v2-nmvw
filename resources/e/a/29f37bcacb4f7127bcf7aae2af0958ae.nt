@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#name> "PATROONGORDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#description> "Een patroongordel gemaakt van buffelleer. De gordel is rechthoekig van vorm en heeft een sluiting met een gesp van messing en een deel met gaatjes. Aan de voorkant hangen drie rechthoekige tassen, twee met inschuivende overslag en één volledig overslaand. De middelste tas is bestemd voor het vuurslag en de tondel. De andere twee voor stenen kogels en kruitkokers. De buitenkant en de bovenzijde van de tassen zijn overtrokken met rood katoen. Hierop zijn met tinnen spijkers rijen haakvormige figuren en ruiten gevormd. De figuren zijn uitgesneden uit leer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#identifier> "RV-1722-13" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#material> "leer (buffel) ; messing ; katoen ; tin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1722-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

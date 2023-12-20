@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#name> "PARASOL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#description> "Een parasol gemaakt van hout en geolied papier. De buitenkant is verguld, de binnenkant is geel gekleurd. De stok is van een lengte roodgeverfde bamboe gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#identifier> "RV-1689-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; verguldsel ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1689-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

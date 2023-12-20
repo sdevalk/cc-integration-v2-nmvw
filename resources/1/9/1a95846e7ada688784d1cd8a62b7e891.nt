@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#name> "WANDELSTOK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#description> "Een wandelstok gemaakt van een lengte rotan. De wandelstok loopt naar onderen smaller uit en heeft een ivoren voet. De bovenkant heeft een ronde zilveren knop, die naar boven breder uitloopt. In de bovenkant van de knop is het Nederlandse Staatswapen gegraveerd. De stok is een onderscheidingteken of waardigheidsteken, die door de Nederlandse regering werden toegekend aan erkende Raja's en Fetors, dit zijn handelsvertegenwoordigers." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#identifier> "RV-83-37" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#material> "rotan ; zilver ; ivoor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-83-37> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

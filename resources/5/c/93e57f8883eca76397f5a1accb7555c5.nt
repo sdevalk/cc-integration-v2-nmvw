@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#name> "HUIPIL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#description> "Handspun white cotton.\r\nPlain all-over gauze weave with weft brocading of floral designs in white and purple commercial cotton, and a wide cross band of geometrical designs below neck opening. Centre panel was cut short and has been lengthened in front and in back. Red warp stripes along side selvages, creating wide vertical stripes at seams. Neck opening finished with narrow blue zigzag ribbon with red stitching.\r\nAcquired 1958 in Xochistlahuaca, Gro.\r\n\r\nWorn with or without wrap-around skirt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#identifier> "RV-5075-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#material> "katoen ; handgesponnen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-16> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

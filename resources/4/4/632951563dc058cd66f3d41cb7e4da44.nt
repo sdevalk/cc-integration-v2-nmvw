@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#name> "WATERDRUPPELAAR IN DE VORM VAN EEN CICADE. AARDEWERK." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#description> "Een waterdruppelaar in de vorm van een cicade, wit, met groene ogen. De vleugels zijn blauw, net als het gedeelte net boven de ogen. Een gaatje bevindt zich tussen de ogen; de ander midden op de rug. Aan de onderkant van de waterdruppelaar is de onderkant van de cicade afgebeeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#identifier> "RV-3931-83" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#material> "aardewerk of steengoed ; geglazuurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3931-83> <https://colonialcollections.nl/schema#yearCreatedStart> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

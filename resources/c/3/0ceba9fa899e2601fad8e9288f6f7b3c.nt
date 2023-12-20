@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een lang recht lemmet met een vlammenpatroon (pamor) langs de middenrug. Het opzetstuk van het lemmet (ganja) heeft aan één kant een scherpe punt. De gebogen ronde greep is bekleed met een vergulde koperlaag. Het oppervlak hiervan is bedekt met imitatiediamanten van koper en filigraanwerk in een blad- en bloemornament. De schede (gandar) is van hout gemaakt en bedekt met een hoes (pendok) van suasa (goudkoperlegering). De hoes is aan beide kanten versierd met een bloem- en bladornament. De bootvormige schedeopening (wrangka) is van geelbruin hout gemaakt.\r\nDe schede ontbreekt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#identifier> "RV-761-80" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; koper ; goud ; hout ; suasa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#locationCreated> "Borneo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#alternateName> "Kalimantan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#alternateName> "Kalimanten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-761-80> <https://colonialcollections.nl/schema#alternateName> "Borneo" .

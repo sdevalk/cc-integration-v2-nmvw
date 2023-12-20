@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#name> "Tekening op papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#description> "Tijdens de expeditie door de Preanger bezocht Payen onder andere de streek rondom Cililin, waar zich in de vlakte rondom veel rijstvelden bevonden. Op 22 mei beschrijft Payen hoe hij die dag door (de botanist, William) Kent, die ook deel uitmaakte van de expeditie, attent werd gemaakt op een huisje in  een boom (\"une maisonnette bâtie sur un arbre\"), bedoeld om de rijst (\"le padi\") in te bewaren. In het geval dat er geen geschikte boom voorhanden is, volstaan vier bamboe palen, zo schrijft Payen. (Zie: Marie-Odette Scaliet, Antoine Payen: Peintre des Indes Orientales, Leyde, Pays-Bas, 1995)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#identifier> "RV-60-79e131" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#material> "papier ; potlood ; kleurstof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#yearCreatedEnd> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79e131> <https://colonialcollections.nl/schema#yearCreatedStart> "1819"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#name> "Tekening" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#description> "De eilanden Ternate rechts en Tidore links, met van rechts naar links het fort Tolukko, de woning van de sultan van Ternate, de stad en het fort Oranje. Payen spreekt zelf over \"Terloukou\", links de Gunung Kiemtabu op Tidore et andere bergen van dit eiland. Fort Tolukko is gelegen op het eiland Ternate (Banda-archipel). Het werd in 1512 gebouwd door de Portugezen. Tijdens de expeditie onder leiding van de Gouverneur-Generaal Van der Capellen (zie  hiervoor bij: RV-60-79a2) heeft Payen enige keren het fort Tolukko bezocht. Hij doet hiervan verslag in zijn dagboekaantekeningen (12 - 24 mei). Fort Oranje werd gebouwd in 1607 door de VOC." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#identifier> "RV-60-79b4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#material> "papier ; pastel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-60-79b4> <https://colonialcollections.nl/schema#yearCreatedStart> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .

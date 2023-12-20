@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#name> "BLOEM VAN PARELMOER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#description> "In Oceanië werden sieraden gemaakt van de materialen in de directe omgeving aanwezig waren. Schelp en vooral het parelmoer is in Polynesië en andere delen van Oceanië van oudsher een gewild materiaal voor sieraden en werd over grote afstanden verhandeld. De zeldzaamheid en glans van deze grondstof bepaalde de waarde die eraan gehecht werd. Met de komst van Europeanen en het Christendom in dit gebied veranderden traditionele sieraden en kledij in hoog tempo. Met hun uiterlijk toonde de inheemse bevolking aan de buitenwereld of ze de nieuwe levenswijze hadden overgenomen of de oude hadden gehouden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#identifier> "RV-5715-2398" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#material> "schelp (abalone)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2398> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

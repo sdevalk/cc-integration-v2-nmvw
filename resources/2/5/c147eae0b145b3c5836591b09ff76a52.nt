@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#name> "'WENXUAN WANG MIAO XINMEN JI' (OPTEKENING VAN DE NIEUWE POORT VAN DE WENXUAN WANG TEMPEL)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#description> "Wrijfafdruk van de stele \"Wen xuan wang miao xin men ji\". Opgericht door Pei Xiaozhi en geschreven door Pei Ping in 774. De stele staat in de Confuciustempel van Qufu. Wenxuan Wang (Koning van Wenxuan) is een alternatieve naam van Confucius. Keizer Tang Xuanzong gaf deze titel aan Confucius." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#identifier> "RV-762-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#material> "papier ; inkt ; wrijven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-762-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .

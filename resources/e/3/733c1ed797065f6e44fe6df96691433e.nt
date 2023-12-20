@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#name> "ZWAARD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#description> "Een zwaard gemaakt van ijzer, been en hoorn. Het lemmet is gedamaskeerd en heeft een brede dakvormige rug. Het lemmet loopt vanaf de greep breder uit en eindigt in een scherpe punt. De gebogen, richting snede, greep is van stukken hoorn en been gemaakt. Het ondereinde is zeskantig in doorsnede en met inlegwerk van tin versierd. De stootplaat is van tin gemaakt en heeft aan de snedezijde een uitsteeksel in de lengte. In het midden van de greep een uitsteeksel met een punt, dat naar het einde van de greep wijst. Het uitsteeksel is versierd met dwarse banden en snijwerk. De greep eindigt in een plat uitsteeksel waaraan rode, witte en zwarte paardenharen en een lange pluim van witte paardenharen zijn vastgemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#identifier> "RV-924-66" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#material> "ijzer ; tin ; been ; hoorn ; haar (paard)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#locationCreated> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#alternateName> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#alternateName> "Solor Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-924-66> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .

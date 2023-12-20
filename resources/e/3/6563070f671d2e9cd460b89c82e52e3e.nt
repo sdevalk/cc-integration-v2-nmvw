@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#name> "PENTEKENING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#description> "Schets van een Inuit jager op zee die vanuit zijn baidarka een ijsbeer harpoeneert. Op de achtergrond ijsbergen en meeuwen. Taferelen uit de dierenwereld en de jacht zijn geliefde thema's onder Inuit kunstenaars. Zij leven van oudsher van de jacht op zeehonden, narwallen, poolvossen en ijsberen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#identifier> "RV-5976-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#material> "papier ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#creator> "Robert Mayokol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#locationCreated> "Canada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#countryCreated> "Canada" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5976-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

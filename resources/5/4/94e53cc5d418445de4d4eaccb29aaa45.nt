@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#description> "Rieten schacht, waarvan de bovenste geledingen van ingekraste spiraalvormige lijnen zijn voorzien, bruin houten spits, het ondereind met twee ringvormige insnijdingen, boveneind tot een vierzijdige pyramide gefatsoeneerd, waaronder zich vier groepen kruisgewijs staande weerhaken bevinden. Aan het uiteinde is een lange 10,5 cm benen punt geplaatst die aan het boveneind van drie weerhaken is voorzien en aan het ondereind van twee naar beneden geplaatste driehoeken is voorzien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#identifier> "RV-602-88" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#material> "riet ; hout ; been" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-602-88> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

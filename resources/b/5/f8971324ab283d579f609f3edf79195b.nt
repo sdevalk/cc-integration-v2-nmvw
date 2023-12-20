@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#name> "BEELD: LIGGENDE MAN, OMRINGD DOOR KINDEREN [MILOFU]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#description> "Beeld van een liggende, dikbuikige man, omringd door een aantal op hem klauterende kinderen - volgens de oorsponkelijke beschrijving een \"bergheilige\"-  voorstellende Milofu. Uit  doorschijnende  witte  speksteen gesneden. Op een voetstuk van opengewerkt wortelhout.\r\nAls lachende Boeddha - Milofu (Sanskriet: Maitreya) - omringd door een aantal spelende kleine kinderen is hij de Boeddha van de toekomst. Hij is de opvolger van de historische Boeddha Sakyamuni. Volgens de boeddhisten is Milofu nu als 'bodhisattva' - Boeddha in wording - in de hemel. Ooit zal hij naar de aarde komen en dan breekt een tijdperk van grote vrede aan. In China wordt Milofu meestal afgebeeld als een lachende, bolle monnik." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#identifier> "RV-360-59" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#material> "speksteen,steatiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-59> <https://colonialcollections.nl/schema#yearCreatedStart> "1765"^^<http://www.w3.org/2001/XMLSchema#integer> .

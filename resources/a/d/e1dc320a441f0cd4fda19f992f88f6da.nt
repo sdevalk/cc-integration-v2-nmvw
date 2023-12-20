@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#name> "HOED" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#description> "Een hoed gemaakt van lontarbladen. De hoed heeft de vorm van een helm van het Nederlands Indisch leger. De hoed bestaat uit een dubbele laag lontarbladrepen, brede repen aan de binnenkant en smalle aan de buitenzijde. De repen zijn aan elkaar genaaid met rietrepen in de vorm van concentrische ringen. Langs de rand aan de binnen- en buitenkant een hoepel van een platte rotanreep. In de hoed een hoofdring van gevlochten lontarbladrepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#identifier> "RV-858-261" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#material> "blad (lontar) ; riet ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-261> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <https://colonialcollections.nl/schema#description> "ruw beeld\r\nvan een leeuw, van hout en vel vervaardigd, met beweegbare kop,  \nop wielen van gebakken klei." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <https://colonialcollections.nl/schema#identifier> "RV-504-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-504-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

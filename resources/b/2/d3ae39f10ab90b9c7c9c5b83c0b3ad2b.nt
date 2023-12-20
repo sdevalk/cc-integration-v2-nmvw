@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#name> "QUECHQUEMITL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#description> "Quechquemitl bestaande uit twee geweven 'panden'. Ketting: opnieuw gesponnen wijnrode en oranje fabriekswol, witte fabriekskatoen ; Inslag: witte katoen. Techniek: linnenbinding met kettingrips, de wijnrode baan gedeeltelijk rondgeweven. Elk geweven pand bestaat uit een wit katoenen deel en een gekleurd wollen deel. Op het bovenste katoenen deel zijn geborduurde decoraties aangebracht in zwarte en rode 'hilo vela' : arend, diverse vogels, aap, haan, paard, hond, dubbelkoppige adelaar en vrouwfiguren. Tegen de rode wollen baan bevinden zich strips met gestileerde bloemen en geometrische figuren. Borduurwerk uitgevoerd in diverse kruissteken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#identifier> "RV-5946-74" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#material> "wol ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-74> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

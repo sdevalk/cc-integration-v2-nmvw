@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#name> "OORSIERAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#description> "Een oorsieraad gemaakt van twee stukken rotan. Het sieraad is gemaakt door een dun stuk rotan kruiselings door een dikker stuk te steken. Het dikke deel is langer dan het dunne deel. Dit sieraad vereist een groot gat in de oorlel. De draagwijze is aan elke zijde van de oorlel twee delen rotanstaaf.\r\nDit type oorsieraad wordt door mannen gedragen.\r\nAfkomstig uit Mage op het eiland Paloe, Flores." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#identifier> "RV-1710-45b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#material> "rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1710-45b> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

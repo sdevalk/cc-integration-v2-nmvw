@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#name> "DOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#description> "Een rechthoekige doos gemaakt van geel hout. Het deksel is overschuivend. Het deksel en de doos zijn ieder uit één stuk hout gesneden. Alle randen zijn van kartels voorzien. Sommige zijden hebben ingesneden versieringen. Op de lange zijden van de doos en het deksel en op het bovenvlak van het deksel een rand met Y-vormige figuren. Daarbinnen op de zijkanten een hagedisvormige of krokodilvormige figuur met bloemfiguren. Op het bovenvlak van het deksel zijn diagonalen en een dwarsband te zien, ook met Y-vormige figuren en bloemmotieven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#identifier> "RV-804-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#locationCreated> "Sikka Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#alternateName> "Sikka Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Sika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

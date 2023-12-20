@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#description> "Houten beeldje van een zittende vrouwenfiguur, de handen om de knieën gevouwen. Hoekige gelaatstrekken met een dunne, brede mond, hoog voorhoofd en lijnen van driehoeken om de ogen, langs de wenkbrauwen en de haarpartij op het achterhoofd dat in een krul naar rechts eindigt. Armen en benen zijn summier aangeduid. Op de kruin getooid met een haardos en een katoenen hoofdband. Op de rug van de vrouw is een hagedisachtig dier gesneden dat de voorpoten op haar schouders heeft liggen. Aan de onderzijde bevindt zich een cirkelvormig uitsparing met een diepte van 3.5 cm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#identifier> "RV-4033-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#material> "hout ; katoen ; haar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4033-4> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

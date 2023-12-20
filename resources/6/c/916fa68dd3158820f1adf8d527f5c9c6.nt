@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#name> "BONTTAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#description> "De tas is gemaakt van gewoon ringelrobbont en zwart geverfd ringelrobbont.\r\nEen sluiting van been of ivoor is niet aangebracht door de maakster, omdat zij op dat moment niet over deze materialen beschikte.\r\nDergelijke schoudertassen worden wel door Groenlandse vrouwen gebruikt. \r\nMeestal echter worden ze gemaakt ter verkoop aan Denen die in Groenland wonen of aan toeristen. \r\nZe vormen zo een welkome, kleine aanvulling op het inkomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#identifier> "RV-5882-34" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#material> "bont , ringelrobbont" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5882-34> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

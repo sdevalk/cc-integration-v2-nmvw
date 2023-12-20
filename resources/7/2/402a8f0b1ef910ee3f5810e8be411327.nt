@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#name> "MESSCHEDE ONTSTAAN DOOR  OMWINDING VAN TWEE BREDE OMGEVOUWEN REPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#description> "Een messchede (tudik nuan) ontstaan door systematische omwinding van twee brede omgevouwen repen, die omvlochten zijn met brede ongekleurde repen lontarpalmblad. Hierdoor vormen deze repen een driehoekspatroon aan de buitenkant. In Belu, op het westelijk gedeelte van Timor werd dit vlechtmateriaal akadirun tahan of ook wel tuak genoemd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#identifier> "RV-1647-995" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#material> "lontarpalmblad (akadirun tahan of tuakblad) (Borassus flabeliformis)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1647-995> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

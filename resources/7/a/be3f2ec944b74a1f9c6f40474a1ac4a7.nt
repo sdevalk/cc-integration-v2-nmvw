@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#name> "STEEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#description> "Dit voorwerp behoort tot de Houtzager collectie. Mevrouw Houtzager verzamelde vooral  tussen 1951 en 1991 een enorme collectie 'exotische voorwerpen' die kunnen worden getypeerd als toeristenkunst. Een klein deel komt uit een (sub0)arctisch gebied, zoals dit voorwerp.\r\n\r\n\"Lichte steen van pad bij kerk van Kautokeino\" staat er in de bij de collectie horende documentatie. Dat maakt wel duidelijk dat de steen niet voor toeristen werd aangeboden, maar door mevrouw Houtzager als souvenir is meegenomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#identifier> "RV-5715-2774" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#material> "steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-2774> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

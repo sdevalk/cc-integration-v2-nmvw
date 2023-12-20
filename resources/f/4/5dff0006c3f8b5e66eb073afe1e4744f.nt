@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <https://colonialcollections.nl/schema#name> "Vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <https://colonialcollections.nl/schema#description> "Stuk van een pandanuswortel waar vezels van geslagen worden, zoals bij no 92." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <https://colonialcollections.nl/schema#identifier> "RV-175-91" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <https://colonialcollections.nl/schema#material> "pandanwortel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-175-91> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

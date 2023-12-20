@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#name> "WEERSVOORSPELLERS VAN VOGELMAGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#description> "Deze maagjes, met de overblijfselen van twijgjes en takjes erin, hangen in het huis. \r\nZe dienen als apparaatje om het begin van de lente te voorspellen.\r\nAan het eind van de vorstperiode zwellen ze op door het vocht. En aan het eind van de zomer verschrompelen ze weer. Registreert ook luchtdrukverschillen, en voorspelt zo goed en slecht weer." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#identifier> "RV-5796-121" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#material> "organisch" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-121> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

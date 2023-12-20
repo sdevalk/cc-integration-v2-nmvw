@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <https://colonialcollections.nl/schema#name> "Pot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <https://colonialcollections.nl/schema#description> "Een kleine kalebas waarvan de top is afgezaagd, kan door middel van een koordje opgehangen worden.\r\nDe buitenkant van het potje is versierd met oranje rode bloemen en geel-groene bladeren. De binnenzijde van het potje is onbeschilderd en ongelakt.\r\nGemaakt door:\r\nMateriaal: kalebas.\r\nTechniek: lakwerk/applicadatechniek.\r\nKleur: basislaag rood.\r\nHoofdmotief: bloemen en blad.\r\nPrijs: 5 pesos (1 peso = 10 cent).\r\nZie ook nr. 4880-58." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <https://colonialcollections.nl/schema#identifier> "RV-4984-89" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <https://colonialcollections.nl/schema#material> "kalebas ; lak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4984-89> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

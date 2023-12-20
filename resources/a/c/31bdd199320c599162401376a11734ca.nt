@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#name> "PAAR VROUWENSLIPPERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#description> "Paar platte slippers die aan de achterzijde open zijn. De spitse punt staat omhoog. De bovenzijde is versierd met kleine metalen ringetjes. (GVE, 2002)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#identifier> "RV-503-170" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#material> "leer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-170> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

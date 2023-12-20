@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3741-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3741-1> <https://colonialcollections.nl/schema#name> "Stadsplattegrond van de stad Edo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3741-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3741-1> <https://colonialcollections.nl/schema#description> "ENJU OEDO EZU \r\nPlace of publication: Edo Publisher: Izumoji Manjiro ?????? Date of publication: Ansei 5 (1858) Collation: 1 sheet; c. 690×940. Map of Edo. Colophon: date: Ansei 5 (1858); publishers: Edo, Izumoji Manjiro; Edo, Moriya Jihei ????? and Edo, Wakabayashi Kibei ?????." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3741-1> <https://colonialcollections.nl/schema#identifier> "RV-3741-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3741-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#name> "BEELD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#description> "Uit roodachtig hout, aanduiding van oren, ogen, neus met grote neusvleugels en van de borst, het gedeelte waardoor het lichaam wordt voorgesteld op doorsnede vierkant, de voet echter rond, de platte kruin zwart gekleurd met een voorstelling van een bakkebaard." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#identifier> "RV-929-686" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#locationCreated> "Pulau Waigeo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Waigeu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Waigiu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Pulau Waigeo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Waigeo Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Pulau Waigoe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Waigen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Waigeo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#alternateName> "Waigeoe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-686> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

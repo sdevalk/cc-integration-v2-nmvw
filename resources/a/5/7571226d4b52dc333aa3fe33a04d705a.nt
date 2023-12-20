@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#name> "VROUWENBLOUSE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#description> "Vrouwenblouse van witte katoen ; op de schouder en langs de rechte hals versierd met diverse in blauw geborduurde geometrische patronen die banen zijn geordend. Het model is van Europese origine." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#identifier> "RV-5946-55" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#locationCreated> "Ixmiquilpan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#alternateName> "Ixmiquilpan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#alternateName> "Iximiquilpan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-55> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

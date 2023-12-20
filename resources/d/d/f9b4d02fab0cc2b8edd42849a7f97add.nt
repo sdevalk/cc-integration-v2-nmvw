@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#name> "DOEK MET APPLICATIEWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#description> "Rood katoenen driehoek met appliqué banden en geometrisch motief in centrum. Appliqé in groen, wit, en indigo. Achterzijde witte voering. Klein rechthoekig motief in centrum van wit met blauw en rood." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#identifier> "RV-5899-358" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#material> "katoen ; geweven ; genaaid met applicatietechniek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-358> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

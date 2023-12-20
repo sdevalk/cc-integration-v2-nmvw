@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#name> "OORPINNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#description> "Een paar oorpinnen gemaakt van hout. Eén helft is vierkant en versierd met vele ingesneden bredere en smallere banden en uitlopend in een punt. Het andere gedeelte is rond en loopt ook uit in een punt. De andere pin is langer en met minder banden versierd. Om het ronde uiteinde is een soort langwerpige vrucht geschoven.\r\nDit type is voor mannen bestemd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#identifier> "RV-16-129" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#material> "hout ; vrucht" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-129> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

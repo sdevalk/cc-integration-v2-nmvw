@@ -1,0 +1,24 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#name> "INKSTEEN MET DEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#description> "Inktsteen met deksel, langwerpig vierkant, van wit marmer; op het deksel zijn in Chineesche schriftteekens geschreven de beide zinnen: « inderdaad zal men zich roem verwerven\" en « zegel van het sierlijk talent.\" [DGr]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#identifier> "RV-518-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#inscription> "果然奪得錦標\r\nVertaling: ”Inderdaad keerde hij met roem beladen terug” (een vergelijking met een gewonnen drakenbootwedstrijd) afkomstig uit een gedicht van Lu Zhao (818-882) 盧肇的《竞渡诗 / 及第后江宁观竞渡寄袁州剌史成应元》 \r\n\r\nMet dank aan Koos Kuiper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#material> "marmer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#locationCreated> "Amoy" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Siamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Xiamen"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Hsia-men-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Hsia-men" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Amoy"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Xiamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Shamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Xiamen Shi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "厦门" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Szeming-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-518-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .

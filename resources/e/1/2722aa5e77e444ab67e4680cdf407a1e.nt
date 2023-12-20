@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#name> "BORSTDOEK (QUECHQUEMITL)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#description> "Grondweefsel: linnenbinding met kettingeffect. Twee geweven banen, zodanig aan elkaar gezet dat een kledingstuk ontstaat dat schouders en bovenste deel van de borst bedekt. Elke baan is versierd met wollen borduurwerk in de kleuren rood, roze, groen en oranje. Decoratie bestaat uit twee grote bloemachtige motieven. Het borduurwerk is zodanig uitgevoerd dat er 1 cm hoge \"lussen\" ontstaan, mogelijk ter imitatie van een lussenweefsel.  Rondom de nekopening en aan de onderzijde is het kledingstuk afgezet met een 4 cm breed zijden lint." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#identifier> "RV-5946-163" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#material> "katoen ; wol ; zijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#locationCreated> "Hidalgo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#alternateName> "Estado de Hidalgo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#alternateName> "Hidalgo"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-163> <https://colonialcollections.nl/schema#yearCreatedStart> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

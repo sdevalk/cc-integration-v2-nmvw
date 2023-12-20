@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#name> "MINIATUUR WEEFSET" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#description> "Mand met een miniatuur weefset met artefacten die nu genummerd zijn 24, 33 t/m 43, 46, 58, 54, 59, 69.\r\n\r\nDe kleding van de Inca vorst werd speciaal voor hem geweven door de zogeheten mamacunas, vrouwen die zich uitsluitend bezig hielden met het weven van de kleding van de Inca. Hij droeg zijn kledingstukken slechts één keer en aangezien het voor elk ander verboden was de kledingstukken van de Inca vorst aan te raken, werd zijn kleding na gebruik dagelijks verbrand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#identifier> "RV-4857-32" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#material> "riet ; gevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4857-32> <https://colonialcollections.nl/schema#yearCreatedStart> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .

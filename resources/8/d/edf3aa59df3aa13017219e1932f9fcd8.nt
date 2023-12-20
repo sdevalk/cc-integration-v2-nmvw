@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#name> "METALEN PENSEELKOKER MET AFSLUITDEKSEL." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#description> "Een langwerpige, ovaalvormige penseelkoker, mer ronde boven- en onderkant. De kleur van de koker is zwart, met overwegend groene en paarse spikkeltjes. Om de koker een metalen ring met daaraan een blokje waarin een gaatje, om een koord doorheen te halen.\r\nBovenaan de koker een ovalen dekseltje met scharnier; onder dit dekseltje een metalen uitsteeksel van het sluitmechanisme." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#identifier> "RV-360-5008" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#material> "metaal ; lakwerk ; awabi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5008> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#name> "KOKERDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#description> "Een kokerdoek gemaakt van geweven katoen. De doek bestaat uit twee identieke banen, die in de lengte tegen elkaar zijn genaaid. De banen zijn nog niet losgesneden op de plaats waar de franjes zijn gemaakt. De banen zijn dus rondgeweven. Het patroon bestaat uit zeer vele smalle banen in de kleuren wit en zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#identifier> "RV-842-207" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-207> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
