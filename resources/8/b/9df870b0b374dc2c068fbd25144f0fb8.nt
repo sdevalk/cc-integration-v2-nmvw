@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#name> "SCHILD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#description> "Een schild gemaakt van buffelleer. Het schild heeft een mensachtige vorm met wijd uitstaande armen, een bol lichaam en een klein hoofd. In het midden, aan de achterkant, een smalle horizontale band van leer, die als handvat dient. Aan het schild is een gedraaid touw vastgemaakt dat onder de armen en om het hoofd is geslagen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#identifier> "RV-26-57" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#material> "leer (buffel) ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-57> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

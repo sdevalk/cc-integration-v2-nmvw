@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#name> "SCHILD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#description> "De schilden van de Zande waren lang en ovaal afgerond.\r\nZe werden van sterke vezels gevlochten.\r\nAan de buitenkant - en soms ook de binnenkant - bracht men vaak geometrische motieven aan.\r\nDe Zande stonden bekend als oorlogszuchtig.\r\nHet schild werd gebruikt in combinatie met meerdere werpsperen.\r\nNiet alle volken in Noordoost-Kongo gebruikten schild en speer.\r\nDe Meje en Mangbele bijvoorbeeld hanteerden slechts pijl en boog.\r\n\r\nSchuver 71, 4 oct.1888, Niam Niam\r\n\r\nO.no. A 10071, zie ook no. 2668-78, 79, 81" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#identifier> "RV-2668-80" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#material> "vlechtwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-80> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

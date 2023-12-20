@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#name> "TSUBA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#description> "IJzeren sukashi (open werk) tsuba in nademarugata (ovale vorm) met en reliëf decoratie van een kreeft, op enkele plaatsen met gouden lijnen in nunome-zôgan (damast). Hoogstwaarschijnlijk behoort deze tsuba tot de Hagi-school in Chôshû en is zij vervaardigd in de tweede helft van de zeventiende eeuw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#identifier> "RV-2602-788" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#material> "ijzer ; sukashi-bori" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#yearCreatedEnd> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-788> <https://colonialcollections.nl/schema#yearCreatedStart> "1650"^^<http://www.w3.org/2001/XMLSchema#integer> .

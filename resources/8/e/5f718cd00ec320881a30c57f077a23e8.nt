@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#name> "GEDROOGDE KOLANOTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#description> "In de gedroogde huls (ongeveer 8X5 cm), die opengebarsten is, zijn drie gedroogde noten zichtbaar. Van Kolanoten en water wordt een verfbad (zie M6-46) gemaakt; kolanoten geven een bruine kleur (Gerbrands,1987, p. 10, 11, 13,25). Omdat kolanoten zo aan bederf onderhevig zijn, moesten noten die al eerder uit Sierra Leone meegenomen waren weggegooid worden. Deze keer zijn er noten op sterk water gezet en een heel aantal door K.K.Gerbrands naar de Hortus Botanicus in Leiden gebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#identifier> "RV-5495-40" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#material> "cola acuminata\r\ngara (M6-46)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#alternateName> "Saint George" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-40> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-436> <https://colonialcollections.nl/schema#name> "Lans" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-436> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-436> <https://colonialcollections.nl/schema#identifier> "RV-1971-436" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-436> <https://colonialcollections.nl/schema#material> "hout, palmhout ; blad, pandanblad ; rotan ; veer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-436> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

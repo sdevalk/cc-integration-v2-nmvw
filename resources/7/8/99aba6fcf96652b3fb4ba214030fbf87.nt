@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#name> "BELLEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#description> "Twee onregelmatig zeshoekige geelkoperen bellen, verdikte onderranden, met gesmede ijzeren klepels, die met plantenvezels aan een lat van geel hout zijn bevestigd. Aan de lat is een tweede reep plantenvezel bevestigd. Wordt bij het \"main caci\"-ritueel om het middel van de speler bevestigd.\r\nAan de voorzijde rust de reep plantenvezel op een in een gordel gestoken dolk, zodanig dat de bellen aan de achterzijde tussen de benen hangen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#identifier> "RV-1833-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#material> "messing ; hout ; plantenvezel ; ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

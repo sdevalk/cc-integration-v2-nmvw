@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#name> "CEREMONIËLE HOOFDTOOI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#description> "Hoofdtooi voor het hoofd van de ceremonie, bestaande uit een vierkant van stof met glasvezel ybira. Bedekt met diverse veren, haren van miereneters, beren en wilde zwijnen. Amuletten van allerlei aard, cynische botten, knopen, kralen, stukjes huid van een slang." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#identifier> "RV-1853-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#material> "Veren (papegaai, Rhea, reiger)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

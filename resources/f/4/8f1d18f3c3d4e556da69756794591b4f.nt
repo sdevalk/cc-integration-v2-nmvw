@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#name> "GESTILEERD POPJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#description> "Bamboe-achtige staaf met ingebrand decor en minikralen-snoertjes, die zich als pop manifesteert door 2 bovenop bevestigde vlechten van bijna-zwarte, haarachtige vezels." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#identifier> "RV-5899-1295" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#material> "bamboe(?) ; vezel, raffia? ; glas ; gebrand ; geverfd(?) ; gewonden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1295> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

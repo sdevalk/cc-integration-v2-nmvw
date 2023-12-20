@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#name> "PIJLKOKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#description> "Een lange pijlkoker gemaakt van een lengte bamboe. Het deksel is opschuivend. De onderkant van de koker en de bovenkant van het deksel bestaan uit tussenschotten van de bamboe. Om het deksel een cilinder van bladschede van een Sagopalm. De draagband is van repen boombast gemaakt. In de koker drie pijlen (Silogui, Boboku of Tunung), die niet netjes zijn afgewerkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#identifier> "RV-1904-234" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#material> "bamboe ; rotan ; bladschede, sagopalmbladschede ; boombast" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-234> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

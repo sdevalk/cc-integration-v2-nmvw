@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#name> "SCHILDERING: STRIJD TUSSEN MAJAPAHIT EN CHINEZEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#description> "Schildering: Strijd tussen Majapahit en Chinezen\r\n\r\nStijl naar voorbeeld van foto's van Franse gobelins door de opdrachtgever ter beschikking gesteld aan de kunstenaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#identifier> "RV-2673-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#material> "tempera ; doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#creator> "Anak Agung Gede Sobrat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2673-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .

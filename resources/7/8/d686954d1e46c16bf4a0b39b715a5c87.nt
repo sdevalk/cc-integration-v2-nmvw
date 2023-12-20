@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#name> "REBAB" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#description> "Rebab, afkomstig uit Surakarta, Jawa Tengah.\r\nDe hartvormige resonator is van klapperdop gemaakt en met zwart fluweel overtrokken. De hals en het bovengedeelte zijn van zwart hoorn en gedraaid been. Twee geelkoperen snaren zijn bespannen door middel van stemsleutels van zwart been.\r\n\r\nDe Javaanse rebab wordt vaak gebruikt in een gamelan ensemble. Hierin heeft het instrument voornamelijk een melodische rol, alleen in luide muziekstukken blijft het stil. Bij zachte muziekstukken speelt de rebabspeler als introductie meestal een solo en leidt de hij daarna het ensemble." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#identifier> "RV-37-470" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#material> "kokosnoot ; hoorn ; been ; koper ; hout ; haar (paard)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-470> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .

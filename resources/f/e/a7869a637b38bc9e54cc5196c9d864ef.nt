@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#name> "SODA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#description> "Een ronde gele plastic container met soda. Een beetje soda moet gebruikt worden in een verfoplossing van vat-dyes (zie M6-46)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#identifier> "RV-5495-48" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#material> "sodium hydroxide" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#alternateName> "Saint George" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-48> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN TAS VERSIERD MET PATROON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#description> "Voor mannen, grotendeels in diagonale tweeslag gevlochten, van grijsbruine pandanvezel, in platgeslagen toestand rechthoekige zak met afgeronde hoeken. Op de voorkant door gewijzigde vlechting drie visgraatstrepen, links in het midden, de beide andere tegen de kant.\r\nOp de tas ingevlochten gele en zwarte pandanreepversiering in vierkanten, in de vierkanten een kleinere rood geverfde vierkant.\r\nAls draagband dient en van hetzelfde materiaal gevlochten smalle band." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#identifier> "RV-1971-836" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#material> "plantenvezel ; kleurstof\r\nGevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-836> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

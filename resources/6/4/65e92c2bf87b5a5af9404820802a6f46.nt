@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#name> "VIJZEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#description> "Bak van palo santohout, waarin gestampt wordt met een stamper (RV-5469-23b).\r\nDe bak is aan de buitenkant glad afgewerk (in vergelijking met bijvoorbeeld 5469-24). De bak is niet rond maar een beetje ovaal, de doorsnee is ongeveer 15 cm.\r\nDe vijzel wordt gebruikt om verschillende vruchten te stampen, o.a. algorrobo, mais of chanar.\r\nHet resultaat wordt gezeefd door een draagnet van caraguata. Daarna wordt het gemengd met water gegeten of in de vorm van koeken. Vaak wordt er bier van gemaakt.\r\nSoms wordt in plaats van de houten bak een kuil in de grond gebruikt om in te stampen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#identifier> "RV-5469-23a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#material> "hout (palo santo - Guayacum officinale)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5469-23a> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

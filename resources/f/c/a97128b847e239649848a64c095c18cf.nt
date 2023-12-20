@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#name> "SIRIHMAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#description> "Een vierkante sirihmand gemaakt van diagonaal gevlochten, ongekleurde en gekleurde bamboerepen. De mand heeft een overschuivend deksel. De mand heeft repen in de kleuren rood, geel en zwart. Brede banden, in de genoemde kleuren, lopen schuin over het gehele oppervlak van de mand. Aan de zijkanten van de mand zijn zwarte vertikale lijnen gemaakt. De bodem en het oppervlak van het deksel zijn versierd met concentrische vierkanten. Op het deksel zijn, binnen de grote vierkanten, vierkanten gemaakt die bestaan uit vele kleine vierkanten en op de hoeken driehoeksfiguren. In het midden een vierkant binnen driehoeken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#identifier> "RV-2584-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#material> "bamboe ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-19> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

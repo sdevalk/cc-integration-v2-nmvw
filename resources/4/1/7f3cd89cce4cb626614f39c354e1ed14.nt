@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#name> "GEDECOREERD VOORSTEVENBORD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#description> "Boomstamkano's, links en rechts voorzien van uitleggers, worden op Damar vooral gebruikt voor de kustvisserij. De mannen peddelen ermee naar de uitgezette fuiken en vissen in de kano's met lijn en haak.\r\nTraditioneel waren de voor- en achtersteven verlengd met schegborden, welke meestal gevorkt waren uitgevoerd en soms van prachtige (schelpen-)decoraties voorzien. De bedoeling hiervan was indruk te maken op anderen - de visser/kano-eigenaar toonde er zijn niet geringe kunnen op het gebied van de visvangst mee.\r\nBij dit stevenbord wordt vermoedelijk een op zijn prooi jagende waterslang uitgebeeld, een voorstelling welke een hoge status uitdraagt. De afgebeelde vissen verwijzen ongetwijfeld naar de reeds binnengehaalde vangsten. \r\nDe tegenwoordig gemaakte kano's zijn niet meer voorzien van dergelijke schegborden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#identifier> "RV-355-43" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#locationCreated> "Pulau Damar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#alternateName> "Damar Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#alternateName> "Pulau Damar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#alternateName> "Poelau Damar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#alternateName> "Salomakie Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#alternateName> "Poelau Makië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-355-43> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#name> "BLAASROER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#description> "Een blaasroer gemaakt van een donkerbruin hout. Het roer is zwart gekleurd. Aan één uiteinde is een speerpunt aan het roer vastgemaakt met een omwinding van rotanrepen. De punt is lang ruitvormig en staat op een ronde steel. Aan het uiteinde van het blaasroer is tegenover de steel van de punt een kromme reep ijzer vastgemaakt dat dient als vizier. Het blaasroer behoort bij de pijlkoker, 37-551." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#identifier> "RV-37-552" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#material> "hout ; verf ; ijzer ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-552> <https://colonialcollections.nl/schema#yearCreatedStart> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .

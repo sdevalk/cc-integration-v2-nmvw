@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#name> "Votieftablet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#description> "Een vrouw met baby aan de borst in een badkuip zittend. Een, zoals gebruikelijk bij votiefplankjes, ema, in een wat amateuristische stijl geschilderde voorstelling, mogelijk aan de tempel of schrijn geofferd als dank voor een gezond kind dat nu de leeftijd van een jaar heeft bereikt. De tekst luidt: Offergave - een dit jaar éénjarig kind (Hono - tonen issai [no] kodomo). Op de achterkant een variant op deze tekst, 'Honnen issai [no] kodomo' en de naam Nishikawa Eijiro, mogelijk van de schenker, mogelijk ook van het kind." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#identifier> "RV-3639-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#inscription> "zie beschrijving" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#material> "hout ; pigmenten ; schildering op paneel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3639-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .

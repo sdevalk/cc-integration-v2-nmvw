@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#name> "TONDELDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#description> "Een tondeldoos gemaakt van de schaal van een vrucht. De doos heeft een conisch houten dekseltje. Het deksel is aan de doos bevestigd met een gedraaid touwtje. Aan het touwtje hangt een koperen belletje en een sikkelvormig stukje metaal. In het doosje bevindt zich een vuursteen en een propje wollig materiaal." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#identifier> "RV-3600-1661" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; koper ; vuursteen ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1661> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

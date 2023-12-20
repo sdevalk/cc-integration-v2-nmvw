@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#name> "ZWART AARDEWERK KRUIK MET STOP (AAN LEREN BAND) EN HENGSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#description> "Zwart aardewerk kruik met stop (aan leren band) en hengsel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#identifier> "RV-5899-1407" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#material> "klei ; leer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1407> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

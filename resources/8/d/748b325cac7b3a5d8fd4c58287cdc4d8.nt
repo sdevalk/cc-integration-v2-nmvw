@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#name> "WAJANG GOLEK POP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#description> "Wajangpop in de vorm van een vrouw. Het gelaat is wit, de rest van het bovenlichaam is verguld. De ogen zijn spleetvormig, de donker gekleurde mond is iets geopend en laat vergulde tanden zien. In de oren draagt de figuur twee vergulde oorknoppen. Het haar is gebonden in een wrong. De borstdoek (kemben) die de figuur draagt is bruin. De gordel (sabuk) is van wit textiel. De schouderdoek (slendang) is wit en rood gekleurd. De rok (tapih) is groen van kleur waar witte bloemen op zijn aangebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#identifier> "RV-264-264" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#material> "hout ; katoen ; verf ; goud" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-264> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#name> "TWEE BANKBILJETTEN MET AFBEELDING VAN EEN KENTE-SMALBANDWEVER (20 CEDIS), RESP. MANDENVLECHTER (1 CEDI)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#description> "2 bankbiljetten met realistische (naar foto's vervaardigde) afbeeldingen van o.m. kente-smalbandwever (20 cedis), resp. mandenvlechter (1 cedi)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#identifier> "RV-5899-1285" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#material> "papier ; drukinkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5899-1285> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

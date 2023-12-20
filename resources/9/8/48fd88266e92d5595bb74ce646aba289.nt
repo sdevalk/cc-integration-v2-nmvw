@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#description> "Houten beeldje van een tronende mannenfiguur met hoekige trekken en grote, amandelvormige ogen, strak naar voren schouwend, de handen om de knieën geslagen. Hij draagt een katoenen hoofdband en een weelderige haardos, op borst en rug een V-vormige decoratie van tin - om de polsen ringen van hetzelfde materiaal. Aan de voet voorzien van een licht taps toelopende, losse ring met twee, aan de bovenzijde met een getande lijn verrijkte banden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#identifier> "RV-1975-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#material> "hout ; katoen ; haar ; tin ; plantenvezel ; hoorn (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1975-5> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .

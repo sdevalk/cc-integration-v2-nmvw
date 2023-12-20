@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#name> "Zwaardstootplaat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#description> "IJzeren tsuba van flauw ovale vorm ; Bewerking: katachi-nikubori-sukashi (perforatie, waarbij het uitgespaarde beeld positief is) ; Voorstelling: pruim- en kersebloesem en rozen ; Gesigneerd: vervaardigd door Kawaji, bewoner van Hagi in Nagato ; 19de eeuw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#identifier> "RV-2602-851" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#material> "ijzer ; katachi-nikubori-sukashi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#creator> "Kawaji" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-851> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

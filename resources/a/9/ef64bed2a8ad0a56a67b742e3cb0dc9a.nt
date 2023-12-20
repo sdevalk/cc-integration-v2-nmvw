@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#name> "KRUIK MET GEOMETRISCHE DECORATIE (GOLFMOTIEF)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#description> "Peervormige kruik op een standvoet met rondom de bovenrand een schildering van een doorlopend golfmotief. Tevens is een decoratieband onderaan rond de grootste diameter geschilderd en rond de voet. Alle schildering is beschadigd. / Pear shaped whiteware vessel on a pedestal base with black painting around the top edge in a continuous wave motif. There is a decorative raised band around the largest diameter of the vessel, and the foot of the vessel is also painted in black designs and red bands. All painting is damaged. Nicoya Polychrome. Pataky polychrome, Pataky variety." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#identifier> "RV-3498-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#material> "aardewerk / ceramic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3498-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

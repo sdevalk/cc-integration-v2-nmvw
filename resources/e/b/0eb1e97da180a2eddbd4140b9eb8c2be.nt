@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <https://colonialcollections.nl/schema#name> "Zilverdraad gebruikt bij borduurwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <https://colonialcollections.nl/schema#description> "Zilverdraad gebruikt bij borduurwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <https://colonialcollections.nl/schema#identifier> "RV-3600-6070" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <https://colonialcollections.nl/schema#material> "zilverdraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-6070> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

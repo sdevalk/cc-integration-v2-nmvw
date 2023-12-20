@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#name> "MAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#description> "Een ronde mand gemaakt van diagonaal gevlochten bamboerepen. Van de bamboerepen is de buitenste gladde laag gebruikt. De breedte van de repen is een halve centimeter. Sommige repen zijn gekleurd in rood en zwart. Hiervan zijn verschillende geometrische figuren gevlochten, kruisen en slingerfiguren. De bodem van de mand is vierkant, het overige is rond. De mand heeft een gevlochten hengsel, dat op twee plaatsen aan de bovenrand is vastgemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#identifier> "RV-3600-4076" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#material> "bamboe ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#locationCreated> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#alternateName> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#alternateName> "Solor Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4076> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

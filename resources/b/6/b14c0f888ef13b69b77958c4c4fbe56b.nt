@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#name> "DEEL VAN EEN BEELD: KOP VAN EEN BODDHISATTVA (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#description> "Vermoedelijk kop van Bodhisattva in stucco. Een mannenkop. De halfcircelvormige wenkbrauwbogen en de halfgesloten ogen zouden aanleiding kunnen zijn om van een Bodhisattva te spreken. Datering: 5e - 6e eeuw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#identifier> "RV-3509-29" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#material> "stuc" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3509-29> <https://colonialcollections.nl/schema#yearCreatedStart> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .

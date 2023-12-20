@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <https://colonialcollections.nl/schema#name> "LAMPION" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <https://colonialcollections.nl/schema#description> "Lampion van papier op een houten geraamte met opschrift in Chinese karakters.\r\n\r\nLantern made of paper on a wooden frame with Chinese characters written on all sides." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <https://colonialcollections.nl/schema#identifier> "RV-5380-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <https://colonialcollections.nl/schema#material> "papier ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5380-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

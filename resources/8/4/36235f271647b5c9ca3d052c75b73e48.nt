@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#name> "VIOOL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#description> "De Viola, ook wel Siola genoemd, is de inheemse viool afkomstig uit Buru, Maluku Tengah. Het instrument is vervaardigd uit zwart hout. De resonator is dik en rechthoekig met zes galmgaten. De kam is gemaakt van klapperdop en is door middel van vezeltouw aan het ondereinde van de hals verbonden. De hals is zevenkantig met een verdikking en ingesneden ruggen in het midden. Het boveneinde is schuitvormig uitgehold." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#identifier> "RV-1971-282" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#material> "hout ; kokosnoot ; vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-282> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

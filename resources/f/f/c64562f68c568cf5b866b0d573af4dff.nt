@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#name> "SIGNAALFLUIT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#description> "Een signaalfluit gemaakt van hout. Naast het blaasgat heeft de fluit een bolvormige verdikking. De fluit is bijna geheel versierd met bladtin. Op de verdikking in repen in de lengte en om het overige gedeelte met rondgaande banden. In de blaasopening een stop met lang wit haar. Aan de fluit een lang gedraaid koord. De fluit wordt om de hals gedragen en gebruikt om honden en paarden te roepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#identifier> "RV-26-51" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#material> "hout ; tin ; haar (paard) ; touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-51> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

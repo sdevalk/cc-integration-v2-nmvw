@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#name> "MAUSOLEUM VAN EEN LID VAN DE FAMILIE TOKUGAWA OP HET TERREIN VAN ZÔJÔJI IN SHIBA, TOKYO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#description> "Foto van in het tempelcomplex Zôjôji 増上寺, Tokyo, waar de graven en mausolea van veel leden van de familie van de Tokugawa 徳川 shoguns zijn. Dit gebied heeft ernstig te lijden gehad tijdens de tweede wereldoorlog." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#identifier> "RV-2732-16b-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton ; bladgoud\r\nMontage: op albumblad geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2732-16b-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

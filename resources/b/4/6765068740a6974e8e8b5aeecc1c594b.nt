@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#name> "Vaas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#description> "vaas  \r\nvan steengoed, met zeskantige doorsnede. Onderglazuur versiering  \nvan blauwe bladranken in banden en een berg-en-water-landschap  \nmet twee mensenfiguren onder een grote pijnboom. Op de hals  \neveneens een landschap met bootje op de voorgrond.\r\nDe tekst luidt: ... ... ... ... ... ... ... ... ..., guan chyuan  \nyn shy, jii-yeou Yihfarn shiee, \"naar de bron kijkend neurie ik  \neen lied, geschilderd door Yi-fan in 1969.\"\r\nGemaakt met geimporteerde kaolien.\r\nAfm.: H. 55 cm.  D.mond 13 cm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#identifier> "RV-4596-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#material> "steengoed" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4596-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

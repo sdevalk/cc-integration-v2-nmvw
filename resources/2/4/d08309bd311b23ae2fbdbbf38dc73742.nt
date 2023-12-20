@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#name> "Schildering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#description> "penseelschildering\r\nin inkt en rood,blauw en bruin, voorstellend de Onsterfelijke ...  \n... ..., Tsjoeng-Li Tsjwan die hier zijn ... ... ..., yu-mau-sjan  \nwaaier in de hoogte gooit.\r\nSignatuur ... ..., dit is de ... van ... ... Tsj'u Rwei,  \nafkomstig van Sjoen-te in de provincie Kwangtoeng. Hij schilderde  \nvooral mensenfiguren. Hij was van de ... ... ... ... (1736-1820) \r\nperiode. Met een calligrafie van ?\r\nGoede kwaliteit, echter slechte conditie. Provisorisch met Japans  \npapier verstevigd.\r\nAfm.: 28,5 x 85,5 cm.\r\nLit.: ... ... ... ... ... ... ... ... ... ... ... ... ...., ...  \n.... pag.262: ... ... ... ... ... ... ... ... ... ... ... ... ...  \n... ... ... ...." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#identifier> "RV-4352-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4352-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

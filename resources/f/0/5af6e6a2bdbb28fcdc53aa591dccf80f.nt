@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#name> "PORTRET VAN STAANDE INDONESISCHE VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#description> "Foto, zw/w. Studioportret van Indonesische vrouw in Amsterdam gemaakt. Zij was waarschijnlijk aanwezig t.g.v. de Wereldtentoonstelling die te Amsterdam gehouden werd van 1 mei tot 1 oktober 1883 op het braakligende veld achter het toen nog in aanbouw zijnde Rijksmuseum (thans Museumplein)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#identifier> "RV-A275-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: op fotograaf-karton geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#creator> "F.D. van Rosmalen Jr." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A275-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

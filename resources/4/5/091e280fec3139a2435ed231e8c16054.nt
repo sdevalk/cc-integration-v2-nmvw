@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#name> "BESCHILDERDE LAP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#description> "De grens tussen kleding en lichaamsversiering is niet duidelijk te trekken. Kinderen lopen geheel naakt en het eerste wat men ze aan doet is een halssnoer. Vanaf 8 à 10 jaar worden de schaamdelen bedekt. De jongens krijgen een kamisa, een lap die tussen de benen wordt gehaald en met een koordje of gordel om het middel wordt vastgehouden. De meisjes krijgen een schortje van katoen, zaden of kralen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#identifier> "RV-1817-91" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#material> "katoen ; beschilderd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-91> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

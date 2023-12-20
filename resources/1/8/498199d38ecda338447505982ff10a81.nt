@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#description> "Surimono voorstellende een stilleven met daarin een rookset, bestaande uit een pijp (Jp. kiseru 煙管 キセル) in een fraai verlakt etui, en tabakszak (Jp. tabakire 煙草入). Kennelijk liggen er in de voorgrond een netsuke, ojime en zijden koord klaar om gemonteerd te worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#identifier> "RV-2602-300" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#creator> "Ryūryūkyo Shinsai" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2602-300> <https://colonialcollections.nl/schema#yearCreatedStart> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .

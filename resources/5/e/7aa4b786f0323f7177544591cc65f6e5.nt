@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#name> "PELGRIMSTAF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#description> "Pelgrimsstaf van lichtbruin hout. Aan de bovenkant zit een cirkel bevestigd. Op enige afstand daaronder zijn twee horizontale, in doorsnede ovale uitsteeksels te vinden. Mogelijk gebruikt als wandelstok bij het gaan, misschien met ceremoniële functie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#identifier> "RV-357-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#locationCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Rossiya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Federatsiya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#alternateName> "Russian Federation"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-357-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

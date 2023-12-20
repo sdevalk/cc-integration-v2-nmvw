@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#name> "WATERKAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#description> "Dit object is gemaakt van een ronde kalebas. Aan de bovenkant is de kalebas voorzien van een rond gat. Deze kalebas werd gebruikt om water in te zetten. Van buiten is de kalebas bruin geverfd. Onder de verflaag bevinden zich echter ronde cirkels die ingekerfd zijn in het oppervlak." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#identifier> "RV-1817-192" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#material> "kalebas ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-192> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

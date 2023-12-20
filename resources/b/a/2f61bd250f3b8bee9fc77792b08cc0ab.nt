@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#name> "\"GEDEELTE VAN KONINKLIJK PALEIS TE SEOUL, HOOFDSTAD VAN COREA\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#identifier> "RV-A242-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#material> "materiaal: papier ; karton\r\ntechniek: albuminedruk\r\nmontage: op karton geplakt ; met plakband op registratiekaart geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#creator> "Higuchi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#locationCreated> "Seoul" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Syou-ouen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Seul" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Seoul-si"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Sŏul" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Sye-ul" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Hanyang"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Wō-jō" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#alternateName> "Wang-ching" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A242-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

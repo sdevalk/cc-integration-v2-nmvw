@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#name> "KRUIK MET AFBEELDING VAN EEN ZITTENDE MAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#description> "Kruik met aan één zijde de afbeelding van een zittende man, uitgevoerd in incisie-techniek, met het hoofd in hoogreliëf tegen de hals van de kruik. Het handvat is tevens een giettuit.\r\nGevonden bij Santiago Ahuizotla.\r\n\r\nLatere toevoeging op beschrijvingskaart: Th.J.J. Leyenaar identificeert de figuur als Huehueteotl." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#identifier> "RV-2034-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1520"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2034-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

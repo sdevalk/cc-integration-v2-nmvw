@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-753> <https://colonialcollections.nl/schema#name> "Priem" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-753> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-753> <https://colonialcollections.nl/schema#identifier> "RV-1904-753" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-753> <https://colonialcollections.nl/schema#material> "been, bot van kangoeroe x? ; been, bot van casuaris x?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-753> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

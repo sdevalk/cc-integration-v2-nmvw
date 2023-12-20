@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#name> "BEELD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#description> "Een spekstenen sculptuur die vermoedelijk een sjamaan (angakok) uitbeeldt. De man zit vastgebonden met handen en voeten in gebogen houding. Bij sjamanistische seances kwam het voor dat sjamanen hun bovennatuurlijke gaven benutten om uit vastgebonden toestand los te komen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#identifier> "RV-5393-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#material> "speksteen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#creator> "Anton Thorsen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5393-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

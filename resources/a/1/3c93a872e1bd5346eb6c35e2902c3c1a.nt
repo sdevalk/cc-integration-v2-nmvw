@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <https://colonialcollections.nl/schema#name> "STOK VAN EEN TREKZAAG." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <https://colonialcollections.nl/schema#description> "'Grote trekzaag, bestaande uit een bamboe middenpaal [-221a], waarop twee houten dwarsbalkjes, waartussen twee ijzeren staven zijn aangebracht. De ene hiervan is breder dan de andere en is voorzien van zaagtanden.\r\n\r\nWordt gebruikt door twee mannen tegelijk om dikkere stukken hout of stammen door te zagen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <https://colonialcollections.nl/schema#identifier> "RV-4626-221" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-221> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

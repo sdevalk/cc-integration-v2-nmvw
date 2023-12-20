@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#name> "BEELD IN INITIATIERUIMTE (GAMBAWUT) VAN MANNENHUIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#description> "De naam van de beeld is 'puti\".\r\nThis puti figure is the central figures for the puti maira display in the gambawut. The individual name of this maira is Tappoka. Tappoka is the ngwalndu of Gilakwara clan of Winnelmo amei.\r\nThe breast-like projections were identified by some informants as \"munya\" (breasts) but by Kipa as \"ina\" (bone daggers). During the initiation display a bird of paradise plumage was tied to the nail projecting from the top of the forehead, and an arc of white chicken feathers surrounded the head-dress element above the figure." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#identifier> "RV-5526-0-42" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#material> "hout ; pigment" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-42> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#description> "De courtisane Tamagiku van het huis Tamaya, zittend met pijp (Japans: kiseru). Op haar kimono een draak, brenger van regen. Verwijzing naar een van de zeven beroemde episoden uit het leven van de dichteres Ono no Komachi, te weten 'Amagoi komachi', 'Komachi die om regen bidt'. Rechtsbovenin een serietitelcartouche in de vorm van een uitgevouwen waaier (Japans: ôgi of sensu), waarin 'Bijin nanakomachi', 'De zeven [beroemde episoden uit het leven van Ono no] Komachi'. Linksbovenin bijschrift (gedicht)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#identifier> "RV-2525-308" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#creator> "Utagawa Toyokuni" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-308> <https://colonialcollections.nl/schema#yearCreatedStart> "1786"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#name> "MUZIEKBOOG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#description> "De hulepe, of sulèpé, is de inheemse muziekboog afkomstig uit Halmahera, Maluku.\r\nHet instrument is gemaakt van hout, koper, bamboe en kokosnoot. De klapperdop dient als resonator en wordt tijdens het spelen tegen de borstkast aangedrukt. Daaraan zit het bamboekokertje bevestigd wat over een trapeziumvormig uitsteeksel is geschoven. De stok is aan de onderzijde uitgestulpt en van boven bespannen met een geelkoperen snaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#identifier> "RV-1828-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#material> "hout ; koper ; bamboe ; kokosnoot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1828-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN ZEILVAARTUIG, EEN PIRATENSCHIP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#description> "Een model van een zeilschip, een piratenschip, gemaakt van hout. Het schip heeft twee masten, een kajuit op het achterdek en twee zeilen gemaakt van repen palmblad. De voorsteven is vogelkopvormig. Op het dek twee kanonnen. Het schip heeft twee ankers waarvan een is verzwaard met een steen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#identifier> "RV-351-21" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#material> "hout ; verf ; blad (palm) ; steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-351-21> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

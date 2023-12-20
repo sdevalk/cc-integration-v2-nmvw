@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#name> "DRAAGBARE METALEN INKT- EN PENSEELKOKER." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#description> "Een langwerpige, enigszins gebogen penseelkoker, met een gaatje in het midden, en over de gehele lengte een lijn die allerlei figuren vormt. Aan deze penseelkoker een ovalen inktkoker met een deksel dat in gesloten toestand ook de penseelkoker een stukje overlapt. Op dit deksel meerdere decoratieve lijnen van dezelfde soort als die op de penseelkoker. Door twee gaatjes onderaan de inktkoker is een bruin koord gehaald; zwarte inktresten in de inktkoker." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#identifier> "RV-2595-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#material> "metaal; brons (?) ; messing (?) ; zilver (?) ; ingeslagen (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2595-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

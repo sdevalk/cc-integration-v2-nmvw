@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#name> "OFFERATTRIBUTEN, STOKJES OM HOUTEN VRUCHTEN VAST TE ZETTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#description> "Een aantal ronde houten stokjes, die gebruikt worden bij het opbouwen van offers. Met de stokjes worden vruchten in de zachte stam van een jonge bananenboom vastgezet.\r\n\r\nDe op deze manier in cilinder- of bergvorm opgebouwde offers worden banten gebogan of banten tegeh genoemd.\r\nNet als bij andere offers op Bali bestaan deze offers vooral uit voedsel (rijst, bijgerechten, vruchten, koekjes), bloemen en de ingredienten van de sirihpruim. Maar de nadruk ligt hierbij op de vruchten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#identifier> "RV-5258-92a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#inscription> "telling identificaties: geïdentificeerd nr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5258-92a> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#name> "MONDHARP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#description> "Een mondharp gemaakt van de bladnerf van een palmboom. De harp heeft aan de uiteinden en in het midden grote uitstekende delen. Aan één uiteinde is een knop gesneden om het speeltouw aan vast te maken. Aan één kant zat de greep, die is afgebroken. Op één plaats is de bovenlaag van de bladnerf verwijderd. De uitgespaarde tong is getrapt gesneden.\r\nDe harp lijkt sterk op mondharp RV-16-665, een Javaanse karinding." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#identifier> "RV-268-0" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#material> "bladnerf (palm)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-268-0> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .

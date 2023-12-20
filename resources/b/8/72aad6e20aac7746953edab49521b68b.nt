@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#name> "Speer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#description> "Inv.kaart: N.O.Afrika Somali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#identifier> "RV-2668-512" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#locationCreated> "Somalia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#countryCreated> "Somalia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Soomaaliya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Jamhuuriyada Demuqraadiga Soomaaliyeed" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Somali Democratic Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Somalia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Somalie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "The Somali Republic"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Jumhūrīyat aş Şūmāl al Fīdirālīyah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-512> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Somalia"@en .

@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#name> "COCA-COLA FLES VAN GLAS, MET OPSCHRIFT IN HET ARABISCH EN FRANS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#description> "Cola-Cola wordt in Algerije onder licensie geproduceerd. Dit is een fles van middelgroot model (77 cl). Op de ene kant van de fles is in het Frans in witte letters gedrukt: \"soda à base d'extraits vegètaux\", daaronder het logo \"Coca-Cola\", daaronder nog \"marque et modèle deposés\". Aan de andere kant van het flesje is dezelfde tekst in het Arabisch gedrukt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#identifier> "RV-4516-46" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#material> "Glas met opdruk in witte verf." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#locationCreated> "Algiers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#alternateName> "Al-jezair" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#alternateName> "Algiers"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#alternateName> "Algeri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#alternateName> "Al Jazair" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#alternateName> "Algier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4516-46> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

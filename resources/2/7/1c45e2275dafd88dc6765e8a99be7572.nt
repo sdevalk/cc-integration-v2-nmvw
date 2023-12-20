@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#name> "BAMBOE IN SNEEUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#description> "Hangende rolschildering, inkt en op zijde, voorstellende bamboe in sneeuw. Geschilderd door Sõ Shiseki. Chinese stijl (Nanpin school)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#identifier> "RV-4499-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#inscription> "De schildering is voorzien van een Japans gedicht (Waka):\r\n\r\nOok het geluid van de wind \r\ndie het bamboe lover doet wijken,\r\nis verstomd\r\n(slechts) de stilte (heerst er), \r\nachter de vensters omsloten door sneeuw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#creator> "Sō Shiseki" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1786"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4499-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1712"^^<http://www.w3.org/2001/XMLSchema#integer> .

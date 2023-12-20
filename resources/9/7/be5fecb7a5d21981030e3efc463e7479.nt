@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#name> "SCHILDERIJ VAN DE BURGERWACHTSTRAAT IN FORT STAD VLAARDINGEN (MAKASSAR)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#description> "Een schilderij gemaakt van olieverf op doek. Het schilderij heeft een houten lijst en stelt de Burgerwachtstraat in het voormalig fort Stad Vlaardingen voor, het huidige Makassar.   \r\nHet doek is geschilderd door A.J. Payen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#identifier> "RV-200-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#material> "olieverf ; doek ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#locationCreated> "Makassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Djumpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Makasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Makassar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Makasser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Udjung Pandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#alternateName> "Ujungpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .

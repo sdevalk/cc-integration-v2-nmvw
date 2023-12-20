@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#name> "DOCUMENTENDOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#description> "Beschrijving uit de Cock-Blomhoff-catalogus: een dito; van buiten fijn mandwerk; boven onder het deksel, een bruin geverniste inktdoos; en beneden twee laadjes.\"\r\nTekst van de registrator: dito verwijst naar 360-2064." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#identifier> "RV-360-2066" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#inscription> "nvt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; vlechtwerk ; lakwerk ; koper (handvat)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#yearCreatedEnd> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2066> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

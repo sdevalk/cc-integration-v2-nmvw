@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#name> "KRIS MAJAPAHIT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#description> "Een kris, een kris Majapahit, geheel gemaakt van gesmeed ijzer. De kris heeft een recht, breed en lang ovaalvormig lemmet. De onderkant van het lemmet is stomp aan één kant en loopt aan de andere kant uit in een punt. In de stompe kant van het lemmet is een rechthoekige uitholling te zien. De greep helt over in de richting van de stompe kant. De greep heeft de vorm van een menselijk figuur met een groot puntig hoofd met een duidelijke mond, neus, ogen, wenkbrauwen en grote oren. Op het hoofd is een hoofddeksel te zien. De figuur houdt een arm met duidelijke vingers voor de buik, de andere hangt langs het lichaam. Het lichaam is versierd met ingegrifte lijnen. De benen bestaan uit één deel en vormen de steel van de greep.\r\nHoewel dergelijke krissen \"Kris Majapahit\" worden genoemd vermoedt men dat deze stijl van krissen maken ouder is dan de tijd van het Majapahit rijk, de 14e en 15e eeuw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#identifier> "RV-360-10041" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-10041> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .

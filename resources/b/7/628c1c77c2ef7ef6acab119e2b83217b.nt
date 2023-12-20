@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#description> "Zilveren muntstuk uit Panama.\r\n\r\nOpschrift muntzijde: cincuenta centimos de Balboa, G.25.LEY 0.900, tekening van een wapen.\r\nOpschrift keerzijde: republica de Panama 1904, tekening van Balboa, buste." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#identifier> "RV-5409-76" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#inscription> "Opschrift muntzijde: \r\ncincuenta centimos de Balboa\r\nG. 25. Ley 0.900\r\n(vervolgens de tekening van een wapen)\r\nOpschrift keerzijde:\r\n\tRepublica de panama 1904\r\n\t(vervolgens tekening Balboa, buste)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5409-76> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

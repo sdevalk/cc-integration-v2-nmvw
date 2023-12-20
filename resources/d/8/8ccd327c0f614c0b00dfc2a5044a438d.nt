@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#name> "BEITEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#description> "Een vlakke beitel met houten handgreep.  De beitel wordt met de hamer gedreven door op de achterkant van de handgreep te slaan. De ijzeren beschermring hiervoor is aanwezig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#identifier> "RV-360-2487a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#inscription> "merkteken van maker" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#material> "hout en ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2487a> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#name> "EEN SCHILDERIJ VAN DE REDE VAN BANDA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#description> "Een schilderij gemaakt van olieverf op doek. Het schilderij heeft een houten lijst en stelt de rede van het eiland Banda voor. Links in de verte is het Fort Belgica te zien. \r\nHet doek is geschilderd door A.J. Payen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#identifier> "RV-200-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#material> "olieverf ; doek ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#creator> "A.A.J. Payen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-200-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .

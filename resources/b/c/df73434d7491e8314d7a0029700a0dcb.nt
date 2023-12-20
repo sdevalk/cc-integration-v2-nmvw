@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#name> "KATOENEN JURK MET BANDVERSIERING, BORDUURWERK EN GOUDDRAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#description> "De getailleerde jurk wordt met een broek gedragen (zie 4778-2). De jurk behoort tot de dracht van het platteland en is afkomstig uit het berggebied aan de Syrische kant van de Anti Libanon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#identifier> "RV-4778-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#material> "Katoen ; gouddraad ; fluweel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4778-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

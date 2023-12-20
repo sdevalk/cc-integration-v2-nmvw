@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#name> "HOED" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#description> "Een kegelvormige hoed gemaakt van ongekleurde, diagonaal gevlochten palmbladrepen. De rand van de hoed is afgezet met een strook rood katoen. De top van de hoed wordt gevormd door een ronde gevlochten toren met drie, zich versmallende, verdiepingen. Elke verdieping heeft een rand met punten en elke verdieping heeft als versiering een rode katoenen band." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#identifier> "RV-3600-4289" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#material> "blad (palm) ; katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4289> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

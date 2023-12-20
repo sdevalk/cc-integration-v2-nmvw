@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#name> "SPLEETTROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#description> "De spleettrom wordt in geheel Vanuatu gespeeld en kan in lengte variëren van dertig centimeter tot wel zeven meter lang. In de zuidelijke eilanden wordt de trom rechtop neergezet en heeft het bovenste gedeelte een menselijk gezicht. Afhankelijk van het eiland wordt de trom solo gespeeld, in groepen om zang te begeleiden, om bepaalde onderdelen van rituelen aan te kondigen of om een waarschuwingssignaal te geven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#identifier> "RV-4364-1a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#material> "boomstam ; kleurstof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4364-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#name> "BEELD VAN EEN ZITTENDE JONGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#description> "Beeld van een jongen, die, zowel met dicht aan elkaar gedrukt en gebogen benen, als ook met opgestoken armen, op zijn achterste zit. Door deze houding komt zijn ronde buik iets minder ter gelding, omdat hij door de benen wordt bedekt. \r\nZoals ook in objekt 4225-16 werd hier het sleutelbeen duidelijk uitgewerkt.\r\nZijn kaak is licht uitgestoken en met licht opgetild hoofd kijkt de jongen glimlachend en met grote ogen naar boven.\r\n\r\nKunstenaar: uit Sebatoe, anoniem." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#identifier> "RV-4225-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#creator> "Anoniem3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4225-19> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

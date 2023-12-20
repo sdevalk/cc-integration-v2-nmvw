@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#name> "EEN GEBOUW MET DICHTGETIMMERDE RAMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#identifier> "RV-A407-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: ontwikkel gelatine zilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#creator> "Mee Cheung" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#locationCreated> "Shantou" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#alternateName> "Shantow" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#alternateName> "Swatow" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#alternateName> "Shan-t’ou-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#alternateName> "Shantou"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#alternateName> "Shantou" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#alternateName> "汕头" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A407-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#name> "DOLK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#description> "van casuarisbeen, een gewrichtsknobbel dient als greep, naar de andere einde schuin en puntig bijgesneden. Bij enkele exemplaren zijn op de zijkanten enkele verhogingen uitgespaard welke naar het punteinde geleidelijk verlopen. Bij 1 ex. zijn daar nog enkele weerhaken bijgesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#identifier> "RV-1971-900b2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#material> "been (casuaris)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-900b2> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

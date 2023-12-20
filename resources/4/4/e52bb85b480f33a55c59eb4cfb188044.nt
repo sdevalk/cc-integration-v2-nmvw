@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#description> "Gebouwd door L.Dientzenhofer in 1525. Het ligt 502 m boven zee. Wordt sinds 1691 bewoond door de familie Schenk von Stauffenberg. De oom van de huidige bewoner de overste Claus Graaf von Staufenberg heeft een op 20 juli 1944 een mislukte moordaanslag op H" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#identifier> "RV-15142-2-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15142-2-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

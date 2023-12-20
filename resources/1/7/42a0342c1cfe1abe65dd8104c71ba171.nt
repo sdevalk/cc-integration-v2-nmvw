@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#name> "AMULETKASTJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#description> "Amuletkastje van nis-vormige type, versierd met de acht gelukstekens, en bevat een bronzen beeldje van Avalokitesvara. Het voorwerp functioneert tevens als een draagbaar altaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#identifier> "RV-2798-58" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#material> "Verguld brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2798-58> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

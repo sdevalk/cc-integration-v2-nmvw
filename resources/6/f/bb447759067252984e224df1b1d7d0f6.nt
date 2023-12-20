@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#name> "SPEER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#description> "Een speer gemaakt van gesmeed ijzer. De lange punt heeft een pijlvormig uiteinde met aan één kant een grote weerhaak. De steel is gedeeltelijk schroefvormig met lange windingen. Het onderste gedeelte is vierkant. Het bovenste gedeelte van de kegelvormige schacht is met messing bedekt in een patroon van driehoeken en zigzaglijnen. De schacht is van bruin hout gemaakt. Naast de punt is de schacht dikker en versierd met snijwerk, gedeeltelijk à jour, in de vorm van zes vrouwenfiguren. De schacht is spiraalvormig omwikkeld met bladtin. Het uiteinde van de schacht loopt eerst vierkant en vervolgens loopt cilindervormig uit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#identifier> "RV-427-13" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; messing ; tin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-427-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

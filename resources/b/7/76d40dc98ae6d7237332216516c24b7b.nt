@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#name> "MUNTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#description> "Serie munten van BRITISH WEST AFRICA, te weten:\r\n85a: one tenth of a penny, 1940 (met een gat in het midden), doorsnee 2 cm\r\n85b: one halfpenny, 1937 (met gat), doorsnee 2,5 cm.\r\n85c: one penny, 1956 (met gat), doorsnee 3 cm\r\n85d: 3 pence, 1939, doorsnee 2 cm\r\n85e: 6 pence, 1938, doorsnee 2 cm\r\n85f: one shilling, 1949, doorsnee 2,5 cm\r\n85g: two shilling, 1949, doorsnee 3 cm\r\nDit geld werd in Sierra Leone gebruikt tot 1962, toen Sierra Leone onafhankelijk werd. Destijds werd in alle Britse kolonies in West Afrika dezelfde munteenheid gebruikt, zoals trouwens nu het geval is in bijna alle Franse ex-kolonies (C.F.A.). In 1962 werd deze munt vervangen door de Leoon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#identifier> "RV-5495-85a/g" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#material> "zilver ; koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#alternateName> "Saint George" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-85a/g> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#name> "STUDIOPORTRET VAN DR. RADJIMAN TIJDENS ZIJN VERBLIJF VOOR DE OPLEIDING TOT ARTS TE AMSTERDAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#description> "Raden Ngabehi Radjiman Wediodipoero was geneesheer in de kraton van Soerakarta." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#identifier> "RV-A360-21" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nMontage: op karton geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#creator> "W. (Willy) Zimmerman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A360-21> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

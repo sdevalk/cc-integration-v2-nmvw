@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-273-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-273-5> <https://colonialcollections.nl/schema#name> "Helm" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-273-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-273-5> <https://colonialcollections.nl/schema#identifier> "RV-273-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-273-5> <https://colonialcollections.nl/schema#material> "plaatijzer ; messingdraad ; wol ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-273-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

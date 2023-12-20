@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#name> "KRALEN RING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#description> "Een dikke, met leer omklede kern. De kralen zijn zo aaneengeregen, dat een patroon van afwisselend zwarte en witte ruiten is ontstaan. De ring wordt gesloten met twee leren riempjes.\r\n\r\nDeze ringen die om de armen en enkels gedragen werden bestaan uit een kern van opgerold gras waar de snoeren met glazen kralen omheen gewikkeld zijn. Natuurlijke plantenvezels zijn nauw verbonden met noties omtrent vruchtbaarheid. De sieraden werden door mannen en vrouwen gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#identifier> "RV-2668-952" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#material> "kralen ; leer ; vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-952> <https://colonialcollections.nl/schema#yearCreatedStart> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .

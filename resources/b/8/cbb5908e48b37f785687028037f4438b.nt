@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-684a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-684a> <https://colonialcollections.nl/schema#name> "Kalkkoker" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-684a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-684a> <https://colonialcollections.nl/schema#identifier> "RV-1971-684a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-684a> <https://colonialcollections.nl/schema#material> "kalabas, lagemaria" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-684a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

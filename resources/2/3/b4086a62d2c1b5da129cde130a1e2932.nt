@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#name> "TWEE FOTO'S, WAARVAN OP DE LINKER DE REGENT VAN BANGLI IS AFGEBEELD EN OP DE RECHTER EEN SPAN RUNDEREN DAT IS OPGETUIGD VOOR DE STIERENRENNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#description> "Twee foto's, waarvan op de linker de Regent van Bangli is afgebeeld en op de rechter een span runderen dat is opgetuigd voor de stierenrennen. Het betreft hier twee verschillende afbeeldingen op één glasplaat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#identifier> "TM-10024475" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10024475> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#name> "JAGO (HAAN)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#description> "Wayang kulit figuur in de vorm van haan (Jago). Voorzien van inscriptie 'haan'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#identifier> "RV-37-873" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#inscription> "djago" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#material> "leer (buffel) ; hoorn (buffel) ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-873> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

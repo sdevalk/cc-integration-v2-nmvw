@@ -1,0 +1,23 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#name> "MASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#description> "Dit object is helaas niet meer in het museum aanwezig. Maskers werden gedragen bij Unangan feesten en ceremonies, die vaak met wedstrijden gecombineerd werden. Belangrijk waren de feesten die gedurende de winter gehouden werden, in afwachting van de walvisjacht, en de feesten welke gevierd werden als er een walvis was gevangen. De feesten moesten de geesten die aan de sjamaan verschenen waren behagen, opdat er (nog meer) walvissen zouden verschijnen. Bij deze festiviteiten werd zowel door mannen als vrouwen gedanst en gezongen. Mogelijk werden maskers ook gebruikt door jagers, of het geheim genootschap van alle mannen samen, bij bepaalde rituelen. Tot 1800 was de invloed van de Russisch-Orthodoxe kerk op de Aleuten gering, maar na de vestiging van permanente missieposten op Unalaska (1824) en Atka (1825) geschiedde de bekering vrij snel. Zo snel, dat onze kennis van de oude godsdienst der Unangan mondjesmaat is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#identifier> "RV-547-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#locationCreated> "Aleutian Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Aleutian Isles" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Aleutskii Arkhipelag" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Ugaassat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Aleutskie Ostrova" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Billy Mitchell Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Catherine's Archipelago" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Aleotskia Isles" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Aleutian Archipelago" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Las Aleutianas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Aleoutiennes" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Katerina Archipelago" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Iles Aleoutiennes" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Catherine Archipelago" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#alternateName> "Catherina Archipelago" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-547-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

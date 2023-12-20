@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#name> "EEN BLAASBALG GEBRUIKT BIJ HET SMEDEN VAN ZILVER." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#description> "Houten blaasbalg, cilinder-vormig met op de bovenkant een houten kam. Kleur zwart. Aan het ene uiteinde van de cilinder steekt een handvat uit. Als men hieraan trekt, wordt een ronde schijf aan het andere uiteinde van de cilinder naar binnen getrokken en veroorzaakt zo een luchtstroom. Aan de randen van de schijf zijn vogelveren bevestigd, zodat de schijf goed luchtdicht tegen de wand van de cilinder sluit. De lucht ontsnapt door twee ronde gaatjes bovenop de kam, waarin korte pijpjes zijn gestoken, van ijzer, die op het aan te wakkeren vuur worden gericht.\r\nWordt gebruikt bij het smeden van zilver." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#identifier> "RV-4626-269" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-269> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#name> "MAMANGMURKA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#description> "Deze wajang kulit pop stelt Mamangmurka, de broer van Mamangdana, voor. De pop is grijs van kleur met een varkenskop met een half geopend oog, een wijd geopende bek en drie vergulde slagtanden. De snuit en de omranding van de bek zijn rood gekleurd. Het bovenlijf is naakt en niet versierd. De pop heeft een smalle omslagdoek, een Saboek, die versierd is met rode bloemen, groene bladeren en gouden bladranken. Een kris is onder de doek gestoken. De Bebed is zwart en verguld geblokt met in de vergulde vierkanten rode bloemen met zwarte stelen. Om de polsen en de pink vergulde ringen. De linkerarm rust op de kris. De rechterarm met uitgestrekte klauwvormige vingers wordt bediend met een steel. Het opschrift met vergulde letters tussen de voeten heeft een rode ondergrond. Het opschrift luidt: \"Mamangdana\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#identifier> "RV-37-813" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#material> "leer (buffel) ; hoorn (buffel) ; verf ; goud" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-813> <https://colonialcollections.nl/schema#yearCreatedStart> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .

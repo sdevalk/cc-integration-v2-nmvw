@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <https://colonialcollections.nl/schema#description> "munt\r\nmet het opschrift: ... ... ... ..., Shao Feng p'ing pao\r\nHet eerste karakter in lopend schrift, zoals dikwijls bij  \nannamitische munten. 1342-1368\r\nCC (getypt): idem" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <https://colonialcollections.nl/schema#identifier> "RV-1990-571" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1990-571> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

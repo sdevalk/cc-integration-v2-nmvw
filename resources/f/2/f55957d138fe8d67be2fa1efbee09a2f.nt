@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#name> "Krisband" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#description> "Krisband, geweven van veelkleurig garen. Dient om de krisschede vast te binden aan wapen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#identifier> "RV-3600-5236" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#material> "niet vermeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#locationCreated> "Bone Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Bone" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Bone" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#alternateName> "Bone Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#alternateName> "Bone Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5236> <https://colonialcollections.nl/schema#alternateName> "Bone" .

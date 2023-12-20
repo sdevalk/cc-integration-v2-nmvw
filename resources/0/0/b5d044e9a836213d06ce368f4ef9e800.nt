@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet. De steelring (mendak) is van messing gemaakt en versierd met een parelrand. Het gebogen ronde het is van donkerbruin hout gesnedene en versierd met snijwerk. De schedeopening (wrangka) met omkrullende uiteinden is van donkerbruin hout gemaakt en versierd met krullende bloem- en bladmotieven. De schede (gandar) is van donkerbruin hout gemaakt en op vijf plaatsen versierd met smalle zilveren banden, waarvan er één ontbreekt. Onder de zilveren bandjes zijn stroken papier bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#identifier> "RV-3600-1863" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; zilver ; messing ; papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1863> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

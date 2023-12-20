@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#name> "DUIF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#description> "Figuurtje van een duif, met geciseleerde details van de kop en vleugels, en het geheel lichtgroen geglazuurd. Mogelijk gebruikt als offer om voorspoed te bevorderen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#identifier> "RV-4235-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#material> "geglazuurde ceramiek (zgn. Sankhalok/ Sawankhalok)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4235-36> <https://colonialcollections.nl/schema#yearCreatedStart> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .

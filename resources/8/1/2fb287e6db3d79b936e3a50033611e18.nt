@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#name> "VROUWELIJKE NKISI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#description> "Het beeld hangt aan een snoer in de slaapplaats van de eigenaar om hem of haar te beschermen tegen naderende vijanden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#identifier> "RV-480-26" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#material> "hout ; glas ; vezel ; pigment ; gesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-26> <https://colonialcollections.nl/schema#yearCreatedStart> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#name> "ZEVEN POTLOODTEKENINGEN MET (A) ARJUNA EN (B) HET JAARTAL 1370 SAKA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#description> "Zeven potloodtekeningen van A: Afgebeeld is Arjuna in de bekende verleidingsscene welk stuk door Domis bij de vijfde poort van Indrokilo is aangetroffen.\r\nB: De inscriptie laat het jaartal 1370 Saka zien, oftewel 1448 n.Chr. De inscriptie staat afgebeeld op één van de graven op de begraafplaats ten noorden van de grote Segaran vijver te Majapahit. Van het graf wordt gezegd dat het het graf van Ratoe Poetri Tjampa betreft, volgens de traditie een Campse gemalin van Bhre Tumapel. Echter van de inscriptie was ten tijde van Sieburgh alleen het jaartal nog leesbaar. Eerdere bezoekers interpreteerden het als 1320, Sieburgh werd vertelt dat het 1220 moest zijn, de Bruijn noemt dus 1370.\r\nGetekend door H.N. Sieburgh in 1841." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#identifier> "RV-37-903-33" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#creator> "Hubertus Nicolaas Sieburgh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#yearCreatedEnd> "1841"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-33> <https://colonialcollections.nl/schema#yearCreatedStart> "1841"^^<http://www.w3.org/2001/XMLSchema#integer> .

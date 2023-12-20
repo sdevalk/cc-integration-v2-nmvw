@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <https://colonialcollections.nl/schema#name> "SCHELPFRAGMENT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <https://colonialcollections.nl/schema#description> "Een kraal gemaakt van schelp. De kraal heeft een aantal incisies rondom. Kraal lijkt zeer sterk op Fig. 73, zie lit.\r\n\r\njong XV40" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <https://colonialcollections.nl/schema#identifier> "RV-2049-383" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <https://colonialcollections.nl/schema#material> "schelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2049-383> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

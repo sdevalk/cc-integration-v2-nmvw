@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#name> "MODERNE KOOKPAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#description> "Aluminium pan met deksel. De pan heeft twee geïsoleerde oren, het deksel een dito handvat. \r\n\r\nWordt gebruikt om eten in te koken. \r\nHet aluminium keukengerei neemt steeds meer de plaats in van het vroegere aardenwerk gerei." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#identifier> "RV-4626-468" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#material> "aluminium" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4626-468> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

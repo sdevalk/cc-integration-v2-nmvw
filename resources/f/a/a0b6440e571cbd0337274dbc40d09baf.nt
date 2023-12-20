@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#name> "HARPOENLIJN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#description> "Alleen het eerste deel van de harpoenlijn is van huid, te weten baardrobbenhuid.\r\nDe rest van de lijn is van nylon.\r\nHet deel van huid en dat van nylon zijn aan elkaar geknoopt.\r\nDe lijn is versmald aan de top, loopt dan door de harpoenpunt en weer terug." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#identifier> "RV-4702-68d" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#material> "Baardrobhuid ; nylon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4702-68d> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

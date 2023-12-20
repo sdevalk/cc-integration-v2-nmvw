@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#name> "KRUIK VOOR DRINKWATER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#description> "Koelkan van traditionele vorm die nog gebruikt wordt voor drinkwater. Het lichaam, de hoogoplopende hals en voet zijn rijk versierd met opgelegde en ingekraste motieven.\r\n\r\nAardewerk gemaakt van fijnkorrellige klei. Op een wiel gemaakt en met opgelegde en geciseleerde decoraties." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#identifier> "RV-432-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .

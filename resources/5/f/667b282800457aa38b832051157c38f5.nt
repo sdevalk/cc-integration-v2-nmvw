@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#name> "BLAD BESTEMD OM SCHRIJFPENSELEN OP TE LEGGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#description> "Een van de doeleinden waarvoor dit marmeren blaadje met hardhouten rand werd gebruikt is het klaarleggen van penselen voor de Chinese literaat. Ook dit is dus een object voor de schrijftafel van de Chinese geletterde. Het blad is gedecoreerd met een phoenix (fenghuang) tussen pioenrozen. In zijn opstel over leeuwen besteedde Royer ook aandacht aan de andere Chinese fabeldieren, waaronder de fenghuang. De phoenix lijkt het meest op een fazant, maar volgens Chinese auteurs verenigt hij de kenmerken van een groot aantal dieren: de vleugels van een zwaan, de poten van de eenhoorn, de nek van een slang, de staart van een vis, de kop van een kraanvogel etc. etc. De phoenix werd gezien als de voornaamste onder de vogels. Dit kwam ondermeer tot uitdrukking in het gebruik van fenghuangs in de decoratie van de kleding van de Chinese keizerin." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#identifier> "RV-360-106" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#material> "marmer ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#yearCreatedEnd> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-106> <https://colonialcollections.nl/schema#yearCreatedStart> "1765"^^<http://www.w3.org/2001/XMLSchema#integer> .

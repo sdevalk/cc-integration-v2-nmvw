@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#name> "Miniatuurschildering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#description> "Miniatuurschildering met voorstelling van een dame die op een terras een edelman ontvangt. Eind 18e eeuw. Illustratie bij Hindi-tekst in nagari-karakters." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#identifier> "RV-2586-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#material> "niet vermeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2586-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

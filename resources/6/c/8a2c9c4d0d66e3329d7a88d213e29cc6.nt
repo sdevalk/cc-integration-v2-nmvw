@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#name> "KOKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#description> "Een koker gemaakt van een lengte bamboe. De koker heeft een overschuivend deksel van bamboe. De wand van het deksel en de koker zijn met roodgekleurde en naturel ornamenten versierd. De versiering bestaat uit kronkellijnen met punten. De wand van het deksel vertoont zigzaglijnen met daartussen kronkellijnen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#identifier> "RV-3600-3408" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#material> "bamboe ; hars ; verf (bloed)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3408> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

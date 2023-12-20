@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#name> "Schakelnet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#description> "Schakelnet zonder drijvers en zinkers." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#identifier> "RV-370-1388" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#material> "garen ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-1388> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .

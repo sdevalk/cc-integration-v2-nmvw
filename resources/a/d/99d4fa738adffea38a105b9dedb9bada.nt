@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#name> "MUNTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#description> "Serie munten van de REPUBLIC OF SIERRA LEONE.\r\n86a: one cent, 1964, doorsnee 2,5 cm\r\n86b: 5 cents , 1964, doorsnee 1,5 cm\r\n86c: ten cents, 1984, doorsnee 2 cm\r\n86d: twenty cents, 1984, doorsnee 2,5 cm\r\nAlle munten hebben de kop van een president (c en d Siaka Stevens; a en b Milton Margai) en de spreuk: Unity, Freedom, Justice. Zie ook Independence voor President Stevens en President Sir Milton Margai (Gerbrands, 1987, p.52,53)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#identifier> "RV-5495-86a/d" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#material> "koper ; zilver" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#alternateName> "Saint George" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-86a/d> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

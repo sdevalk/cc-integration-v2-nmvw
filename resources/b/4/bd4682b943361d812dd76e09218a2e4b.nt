@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#name> "TEKENING VAN EEN RELIEFFRAGMENT VAN EEN GARUDA TE CERIBON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#description> "Op deze tekening zien we een afbeelding van een Garuda met een slang om zijn lichaam gekneld. De vogel heeft een menselijke gedaante, slechts de vogelbek en de klauwen wijzen erop dat we hier met Vishnu's rijdier te maken hebben. Het stuk is blijkbaar een relieffragment. De tekening staat niet vermeld in het handschrift van Sieburgh, echter het onderschrift luidt: \"Cheribon, Naga Sesha door Garuda overwonnen\".\r\nGetekend door H.N. Sieburgh in 1842." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#identifier> "RV-37-903-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#creator> "Hubertus Nicolaas Sieburgh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-903-31> <https://colonialcollections.nl/schema#yearCreatedStart> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .

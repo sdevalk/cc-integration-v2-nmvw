@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#description> "De courtisane Sugatami van het huis Tsuruya, staand, met een pakketje tissues in de hand. Schuin achter haar een groot komfoor (Japans: hibachi). In de ronde inzet een landschap binnen een met bloemen gedecoreerde rand. Onder het titelcartouche het kana-teken 'wo'. Serie 'Keisei edo hôkaku', 'Quilt van courtisanes uit Edo'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#identifier> "RV-2525-275" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#creator> "Keisai Eisen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#yearCreatedEnd> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2525-275> <https://colonialcollections.nl/schema#yearCreatedStart> "1811"^^<http://www.w3.org/2001/XMLSchema#integer> .

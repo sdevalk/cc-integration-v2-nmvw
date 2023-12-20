@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#name> "SCHILD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#description> "Een schild gemaakt van donkerbruin gevernist hout. Het schild is lang zeshoekig van vorm en loopt aan beide uiteinden uit in een punt. In de lengte heeft het schild een scherpe middenrug. Naast de beide punten zijn vijf dwarsbanden van plat geklopte rotanrepen te zien. De repen zijn vastgezet met smalle zigzagvormig gevlochten rotanrepen, die door gaten in het schild lopen. Aan de binnenkant is een greep met rechte uiteinden gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#identifier> "RV-360-1624" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#material> "hout ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#locationCreated> "Kota Banjarmasin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Bandjarmasin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Bandjarmasin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-1624> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

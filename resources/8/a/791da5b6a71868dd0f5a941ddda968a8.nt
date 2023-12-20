@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#name> "BOEDDHA SAKYAMUNI OF AKSOBHYA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#description> "Boeddha Shakyamuni of kosmische Boeddha Akshobhya. In de Tibetaanse kunst zijn de vijf kosmische Boeddha’s een belangrijke groep. Ze hebben handhoudingen die de Boeddha ook kan hebben. Het is daarom soms moeilijk om te zeggen of het gaat om de Boeddha of om één van de kosmische Boeddha’s, vooral als de beeldjes uit hun context zijn geraakt, zoals in een museum." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#identifier> "RV-2739-65" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#material> "brons ; verguld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2739-65> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

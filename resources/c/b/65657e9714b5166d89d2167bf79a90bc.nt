@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#name> "HANGROLSCHILDERING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#description> "Vertikale  rolschilderij  in  inkt  en  lichte  kleuren  op papier, voorstellend  een  berglandschap  met  hoge  ketens  en  slierten nevel ertussen.  Links  op  de voorgrond twee figuren gezien vanaf de rug, in moderne kledij en in niet traditionele pose. Misschien stellen zij twee leden  van  de boerenmilitia voor.\r\nDe colofon luidt in vertaling 'Jade scherm bergtoppen waar wolken  uit  stromen.  Geschilderd  door Tao Tang,  winter 1966 te Xinhuawu', mogelijk dezelfde plaats als Xinhuaying, ten westen van Kaifeng in Henan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#identifier> "RV-4536-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4536-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

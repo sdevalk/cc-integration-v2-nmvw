@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#name> "MAND MET DEKSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#description> "Grote vierkanten draagkorf. De korf zelf wordt omsloten door de deksel die dezelfde vorm heeft, maar iets groter is. Van dubbel vlechtwerk van repen riet; tussen de beide lagen zijn een soort bladeren aangebracht waardoor korf en deksel waterdicht zijn. Het vlechtwerk is van het matapi-type: 2 stel repen die loodrecht op elkaar staan; elke reep van het ene stel springt telkens 1,2,3 of 4 repen van het andere stel over." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#identifier> "RV-1817-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#material> "riet ; bladeren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-36> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

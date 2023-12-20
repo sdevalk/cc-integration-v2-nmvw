@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#name> "KAART MET ENVELOP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#description> "Dubbele wenskaart bestaand uit een gele kaart met groene tekening van twee vrouwen die twee verschillende muziekinstrumenten bespelen; binnenin groene schrijfletters: 'From me.....Words alone cannot express the deep feelings accompanying the sending of this card.to you' Achterop in groene drukletters: 'Spectrum Production'. De bijpassende envelop is wit. De tekening is gesigneerd:M.Y. Habib." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#identifier> "RV-5495-68a/b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#alternateName> "Saint George" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5495-68a/b> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

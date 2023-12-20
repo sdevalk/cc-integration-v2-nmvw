@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#name> "TÔKAIDÔ (ST)*" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#description> "Vier reizigers, gehuld in verschillende soorten regencapes (waaronder een strooien 'mino') lopen langs twee dunne pijnbomen. Aan een van de takken hangt een schildpad aan een touwtje, een gelukssymbool. In tegenovergestelde richting loopt een pakpaard met daarop een berijder die ofwel geheel gehuld is in een strooien korf, ofwel twee grote schoven stro aan weerszijden van zijn lichaam draagt, dat onderscheid is niet goed te maken. Zelfde ontwerp: inv. nrs. 1353-498, 2529-20." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#identifier> "RV-2529-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#creator> "Katsushika Hokusai 葛飾 北斎" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2529-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1802"^^<http://www.w3.org/2001/XMLSchema#integer> .

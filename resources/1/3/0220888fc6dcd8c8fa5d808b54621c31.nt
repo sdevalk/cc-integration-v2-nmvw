@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#description> "Op kruiszijde: aantal Turkse teksten. Op muntzijde: kalligrafie in tughra vorm. Datering: A.H. 1223 ofwel 1803 A.D. De penning is voorzien van een klein stukje ketting en is dus als sieraad gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#identifier> "RV-4466-15" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1803"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4466-15> <https://colonialcollections.nl/schema#yearCreatedStart> "1803"^^<http://www.w3.org/2001/XMLSchema#integer> .

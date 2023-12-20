@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#name> "KOKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#description> "Een koker gemaakt van een lengte bamboe. De koker heeft een bodem van kokosnootdop. Het andere einde is open. De wand van de koker is versierd met zwarte ornementen. Langs de onder- en bovenrand banden met blokjes en krulfiguren. De middenband heeft vierkanten met diagonalen en een rechthoek in het midden met bladfiguren in de hoeken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#identifier> "RV-1935-38" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#material> "bamboe ; verf ; kokosnoot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1935-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

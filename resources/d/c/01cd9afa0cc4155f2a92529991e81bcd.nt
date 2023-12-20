@@ -1,0 +1,26 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#name> "ARCHIEF J.P.K VAN EECHOUD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#identifier> "RV-A229-1/1000?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Steenmeyer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "J. Boelaers MSC" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "P. de Keizer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Jan Pieter Karel van Eechoud" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Walker" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Aad Vesseur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "J.H. (Jaap) Zindler" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "P. Kammerer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Meyer Ranneft, J.R." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Carla Holla" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Marine Luchtvaart Dienst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "de Haas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "P. Meuwese MSC" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "P. Claudius" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Jouwe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "MARVO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "P. Nouwens" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Misael Kammerer OFM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#creator> "Maresch" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A229-1/1000?> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

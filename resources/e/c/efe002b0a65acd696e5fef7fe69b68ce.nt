@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#name> "RIJSTZAK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#description> "Twee zakken gemaakt van ongekleurde, diagonaal gevlochten lontarbladrepen.\r\nDe zakken zijn kegelvormig, het boveneinde is vierkant met twee gebogen randen, terwijl in het midden der andere zijden een puntig uitsteeksel zit.\r\nDit type rijstzak dient om er rijst in gaar te stomen.\r\nAfkomstig uit de strafkolonie van de sultan, Gunung Api bij Bima, Sumbawa." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#identifier> "RV-458-27b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#material> "blad (lontar)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-27b> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

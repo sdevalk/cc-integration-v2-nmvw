@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#name> "LIJKVERBRANDING VAN GOESTI DJILANTIK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#identifier> "RV-A303-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton ; plakband\r\nMontage: op fotokarton geplakt ; op systeemkaart geplakt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#creator> "Tjokorda Rake" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A303-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

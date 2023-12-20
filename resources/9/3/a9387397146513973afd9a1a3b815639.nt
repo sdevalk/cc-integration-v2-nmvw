@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#name> "LENDENDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#description> "Lendendoek gemaakt van boombast, ook wel \"tapa\" genoemd. Deze lendendoek (Siassi: \"mal\". Pidgin: \"malo\") is gekocht van Reri. Hij is gemaakt bij de Arawe en door handen op Mandok terecht gekomen. Dergelijke \"mal\" worden nu alleen nog gebruikt bij feesten, bijv. bij singsing \"bokoi\". In het dagelijks leven zijn ze vervangen door de stoffen \"laplaps\". De motieven die op deze \"mal\" zijn aangebracht, zijn met een rode kleurstof geverfd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#identifier> "RV-5307-66" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#material> "boombast" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .

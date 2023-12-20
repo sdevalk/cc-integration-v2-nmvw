@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#name> "TEGEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#description> "Een deel van een vierkante tegel gemaakt van wit marmer. Er zijn vier fragmenten van de tegel bewaard gebleven. Op de fragmenten is een Chinese schildering, in kleur, te zien, die een zittende mensenfiguur en een staande mensenfiguur laat zien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#identifier> "RV-2663-38a/d" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#material> "marmer ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-38a/d> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

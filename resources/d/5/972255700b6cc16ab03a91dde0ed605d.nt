@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#name> "DOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#description> "Een ronde doos gemaakt van ongekleurde, gevlochten silarbladrepen volgens het drierichtingensysteem. De doos heeft een bijna geheel overschuivend deksel. Aan de boven- en onderkant is, ter versterking, een omwikkelde hoepel gemaakt. De doos is overvlochten met zwarte en paarse repen. De versiering bestaat uit krullen en zespuntige sterren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#identifier> "RV-1904-201" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#material> "blad (silar) ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#locationCreated> "Maumere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#alternateName> "Maomere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#alternateName> "Maumere"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#alternateName> "Mauniere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#alternateName> "Maoemere" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-201> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

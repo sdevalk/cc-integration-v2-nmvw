@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#name> "FLESKALEBAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#description> "Dit object is een fleskalebas. De fleskalebas wordt vaak gebruikt als waterkruik, en zorgt ervoor dat het water koel wordt bewaard. Niet alleen wordt de fleskalebas zo gebruikt bij de indiaanse bevolking maar ook bij de marrons. In dit geval is deze fleskalebas gebruikt als rammelaar door de vrucht te laten uitdrogen, waardoor de zaden rammelen als met de fleskalebas wordt geschud. We weten dat de Caraïbische naam \"mulutuku tiengi godo\" is. De fleskalebas werd waarschijnlijk gebruikt als speelgoed voor kinderen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#identifier> "RV-1817-106" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#material> "fleskalebas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-106> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

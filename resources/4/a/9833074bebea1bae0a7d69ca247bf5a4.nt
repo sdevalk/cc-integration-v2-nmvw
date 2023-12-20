@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#name> "Wajangpop" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#description> "Man, gelaat vleeskleurig, verder geel ; snor van zwarte verf ; hoofddoek met rode kruisen en groene vlekken op witte grond ; ondereinde haarwrong rood ; boven het oor een snoer van witte en zwarte kralen ; borst- en rugsieraad met  rode en zwarte kralen ; saboek van rood fluweel met blauwe vlekken ; slendang van geel en blauw katoen met groene en witte cirkels met rode en zwarte randen ; bebek gebatikt in bloempatroon, bruin en wit op zwarte grond" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#identifier> "RV-264-259a+37-564j_b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#material> "fluweel ; katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-264-259a+37-564j_b> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#name> "HASAMIBAKO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#description> "Blomhoff: Hasamibako of kistje zwart verlakt met goud; meest dienende, uitgaande voor de grooten of voornamen om nagedragen te worden, zijnde als dan voorzien van een zwart, rood of groen dik koord, dat boven op aan de draagstok vast gemaakt word, en met zware kwasten afhangt, dienende om zoo wat verschoning in te hebben en waarin 't banket gedaan word, dat men bij staatsievisites ontvangt; - alles met verguld koperbeslag. -" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#identifier> "RV-360-2076" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#inscription> "ADMIN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#material> "lakwerk ; koper ; verguld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#yearCreatedEnd> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2076> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#name> "MENSFIGUUR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#description> "Uit één stuk lichtgekleurd hout gemaakt. Gemaakt en verkocht door Aigilo, uit Kilenge. Wordt beschouwd als een mislukt probeersel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#identifier> "RV-4247-44" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#creator> "Aigilo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#locationCreated> "Ongaia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4247-44> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

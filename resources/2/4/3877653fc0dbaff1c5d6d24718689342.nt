@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <https://colonialcollections.nl/schema#name> "Musket" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <https://colonialcollections.nl/schema#description> "Een geweer gemaakt van gesmeed ijzer. Het geweer heeft een loop die met een messing en ijzeren band aan de kolf is vastgemaakt. De beugelknop en de kolfplaat zijn van messing gemaakt.\r\nHet geweer is een vuursteengeweergeweer. De kogel wordt geladen via de loop. Het kruit wordt bij de haan in de loop gegoten. Er kan telkens maar een schot afgevuurd worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <https://colonialcollections.nl/schema#identifier> "RV-1971-159" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <https://colonialcollections.nl/schema#material> "ijzer ; messing ; been ; gesmeed ; gegoten ; gesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-159> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

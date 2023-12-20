@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#name> "ILLUSTRATIES UIT 'NIPPON: ARCHIEF VOOR DE BESCHRIJVING VAN JAPAN'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#description> "Set litho's van de Nederlandstalige uitgave van Von Siebolds  'Nippon: archief voor de beschrijving van Japan en deszelfs toegevoegde en cijnsbare landen Jezo met de zuidelijke Kurilen, Krafto, Koorai en de Liu-Kiu-eilanden volgens Japansche en Europese geschriften  en eigen waarneming, bewerkt door Ph. Fr. van Siebold', ofwel 'Nippon: Archiv zur Beschreibung von Japan und dessen Neben- und Schutzländern Jezo mit den südlichen Kurilen, Krafto, Korai und den  Liu-Kiu-Inseln nach japanischen en europäischen Schrifte und eigenen Beobachtungen bearbeitet." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#identifier> "RV-5897-14" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#material> "papier ; steendruk (lithografie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1854"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5897-14> <https://colonialcollections.nl/schema#yearCreatedStart> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .

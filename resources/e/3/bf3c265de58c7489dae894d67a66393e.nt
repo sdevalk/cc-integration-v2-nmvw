@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#name> "VISMAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#description> "Een vismand gemaakt van diagonaal en open gevlochten rotanrepen. De mand is ovaalvormig rond en heeft een deksel. In het deksel een ronde opening. De bovenrand van de mand en de onderrand van het deksel zijn verstevigd met rotanhoepels. In het midden van de buitenwand van de mand zijn drie hoepels ingevlochten. De mand dient om vis in te bewaren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#identifier> "RV-3600-4121" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#material> "rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4121> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

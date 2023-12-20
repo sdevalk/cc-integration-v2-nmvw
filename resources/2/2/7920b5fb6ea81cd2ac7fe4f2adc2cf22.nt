@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <https://colonialcollections.nl/schema#name> "Trom" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <https://colonialcollections.nl/schema#description> "De trom is vervaardigd van een stuk uitgeholde boomstam( tjampakahouta)aan weerskanten overspannen met geitevel. Het geitevel wordt met rotanbanden gespannen gehouden. De trommelstokken, babala ganrang is letterlijk tromzweep, ontbreken. Deze trom wordt gebruikt voor het aangeven van de maat bij het dansen van de pakarena." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <https://colonialcollections.nl/schema#identifier> "RV-3600-5756" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <https://colonialcollections.nl/schema#material> "hout ; geitenleer ; rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5756> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

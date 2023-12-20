@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <https://colonialcollections.nl/schema#name> "Speer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <https://colonialcollections.nl/schema#description> "Spear with light reed base-shaft and hardwood fore-shaft, with unbarbed point. This spear type was found in the coastal areas of northern Australia and southern and south-western Australia. The spear is listed as no.19, corresponding to Museum Godeffroy no.388 on the original listing held in Series 265, and is listed by Museum Godeffroy as from the 'Gulf of Carpentaria, Australia'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <https://colonialcollections.nl/schema#identifier> "RV-265-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <https://colonialcollections.nl/schema#material> "bamboe ; stam ; vezel, bastvezel\r\nThe base-shaft material is probably not bamboo, but reed." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
