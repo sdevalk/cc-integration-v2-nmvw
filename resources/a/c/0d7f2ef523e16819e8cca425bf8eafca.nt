@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#name> "EPISODES UIT HET RAMAYANA MET DE VOGEL JATAYU" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#description> "De tekening is gemaakt door Ida Bagoes Sadnya uit Belayu.\r\nLinks: de ontvoering van Sita door Ravana, gezeten op de vogel Vilmana.\r\nRechts: de vogel Jatayu bericht over de ontvoering aan Rama en Laksmana." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#identifier> "TM-1646-54" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#creator> "Ida Bagoes Sadnya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1646-54> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

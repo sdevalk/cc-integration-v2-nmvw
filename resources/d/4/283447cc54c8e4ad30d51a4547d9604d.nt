@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#name> "KATOENEN WIKKELROK VOL BLOEMMOTIEVEN EN FABELVOGELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#description> "Een veelkleurige kain panjang vol florale motieven op een crème achtergrond. Afgebeeld zijn 3,5 keer een pohon (boom), bloemen, bladeren en fabelvogels. Aan de uiteinden bevinden zich gigi walang, krekeltanden, kleine naar buiten gerichte driehoekjes die een afwerende en beschermende functie hebben (Heringa, 1996). De verzamelaar doek is vervaardigd in de kampong Pedes Lohor bij Tegal, Noordkust Java en was bestemd voor alle groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#identifier> "TM-5663-573" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-573> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

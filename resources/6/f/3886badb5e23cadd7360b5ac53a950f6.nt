@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#name> "KATOENEN SITSACHTIGE KOKERROK, GEMAAKT DOOR VLISCO, NEDERLAND, VOORNAMELIJK MET BLOEMEN EN BEWERKT MET PRADA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#description> "Sarung met prada, gemaakt door Vlisco in Helmond, Nederland. Een familielid van de oprichter, bekend als oom Frits, woonde in Nederlands-Indië en stuurde batiklapjes naar zijn broer, die deze vervolgens gebruikte om doeken te bedrukken en te verkopen in Nederlands-Indië voor een lage prijs. De kepala bestaat uit traditionele tumpal en papan met florale motieven. De badan ('lichaam') heeft in verticale rijen ranken, bloemen en bladeren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#identifier> "TM-5663-587" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#creator> "Vlisco B.V." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-587> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

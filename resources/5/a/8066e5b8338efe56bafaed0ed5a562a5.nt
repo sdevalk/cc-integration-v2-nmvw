@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#name> "HOUTEN T-VORMIGE NEKSTEUN MET KOPEREN HANDVAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#description> "De neksteun is gepolijst met simsim-olie. In de poot is een U-vormig gebogen koperen staafje bevestigd als handvat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#identifier> "TM-3696-24" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#material> "hout ; geelkoper ; snijden ; polijsten ; metaalbewerken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3696-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

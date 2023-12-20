@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#name> "BRIEF VAN H.TH. AMENT AAN DE GOUVERNEUR-GENERAAL VAN NEDERLANDS-INDIË" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#description> "Brief van H. Th. Ament aan de Gouverneur-Generaal, waarin hij hem verzoekt zijn dank uit te brengen aan de president van Frankrijk voor de toekenning van een orde (zie nummer 5424-7a/b). In 1928 werd Ament benoemd tot Ridder in het Franse Erelegioen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#identifier> "TM-5424-9" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5424-9> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

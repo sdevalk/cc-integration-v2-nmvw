@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#name> "GRAFTOMBE VAN EEN MARABOUT MET DAAROMHEEN VELE GRAVEN, SUDAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#description> "De graftombe ligt in het gebied tussen de rivier Atbara en de hoofdstad Khartoum. Er staat zowel aan heet hoofd- als het voeteneinde van het graf een steen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#identifier> "TM-20017385" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#creator> "P.G. (Pieter) van Dongen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20017385> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

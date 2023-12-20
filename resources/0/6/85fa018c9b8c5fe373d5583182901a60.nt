@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <https://colonialcollections.nl/schema#name> "BAMBOE GARENWINDER OP EEN STOK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <https://colonialcollections.nl/schema#description> "Garenwinder van bamboestokken.\r\nDe streng scheringdraden wordt om de garenwinder gespannen, waarna deze op de stok geplaatst wordt, die weer in de grond gestoken wordt. De klos draait dan rond en het garen windt af tijdens het scheren (opzetten) van de schering. Scheren is mannenwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <https://colonialcollections.nl/schema#identifier> "TM-3724-65a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3724-65a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#name> "POLITIEKE POSTER GETITELD 'DE MARTELAAR MOTAHHARI'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#description> "Poster getiteld 'De martelaar Motahhari'. Ayatollah Morteza Motahhari (1920-1979) was ten tijde van zijn moord president van de Constitutional Council van de Islamitische Republiek Iran en lid van de Revolutionaire Raad.\r\nWaarschijnlijk uitgegeven door (Art Bureau of the) Islamic Propagation Organization." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#identifier> "TM-5134-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#creator> "A. (Ali) Rajabi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

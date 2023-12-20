@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <https://colonialcollections.nl/schema#name> "AARDEWERKEN SPEELGOEDSCHAAL MET BLOEMMOTIEF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <https://colonialcollections.nl/schema#description> "Aardewerken schaaltje met bloemmotief. De schaal is kinderspeelgoed en een getrouwe miniatuur weergave van een schaal, die gebruikt wordt in het huishouden. \r\nKinderen krijgen dergelijk speelgoed op het Corpus Cristi-feest.\r\n\r\nVervaardiging\r\nAardewerk wordt in de zon gedroogd alvorens gebakken te worden. Het glazuur is een samenstelling van fijn zand en lood.\r\nPottenbakken is zowel mannen- als vrouwenwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <https://colonialcollections.nl/schema#identifier> "TM-3357-52j" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-52j> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

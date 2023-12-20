@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#name> "VLIEGENWAAIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#description> "De vliegenwaaier wordt niet alleen gebruikt voor het verjagen van vliegen rond het hoofd, maar volgens de bijgeleverde informatie leggen de oudere Masai ook knopen in de haren voor iedere zoon die ten oorlog getrokken is. Hiermee smeekt men de Masai god 'Ng ai' lichaam en ziel van de in de oorlog zijnde zoon samen te knopen en wel net zo stevig als de knoop in de haren van de staart.\r\nDe vliegenwaaier is vervaardigd uit de staart van een gnoe. Aan de staart is een rond houten stokje bevestigd die met oranje katoen en strengen gekleurde kralen is omwonden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#identifier> "TM-3435-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#material> "dierenhaar ; hout ; katoenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

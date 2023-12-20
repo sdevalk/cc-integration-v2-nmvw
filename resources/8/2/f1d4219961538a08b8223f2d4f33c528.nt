@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <https://colonialcollections.nl/schema#name> "ZWART VILTEN JAK, ONDERDEEL VAN EEN MANNENKOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <https://colonialcollections.nl/schema#description> "Men draagt het wollen jakje over het overhemd en vouwt de kraag hiervan over de boord van het jakje heen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <https://colonialcollections.nl/schema#identifier> "TM-3411-17e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3411-17e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#name> "KATOENEN WANDKLEED MET BLOEIENDE LOTUS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#description> "De omtrek van de figuren is aangebracht door middel van drukblokken. De inkleuring is met de hand gedaan door middel van beitstechnieken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#identifier> "TM-3401-1539" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#locationCreated> "Chennai" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#alternateName> "Madras"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#alternateName> "Tamulinadu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1539> <https://colonialcollections.nl/schema#alternateName> "Tamizhagam" .

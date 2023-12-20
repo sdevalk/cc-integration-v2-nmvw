@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <https://colonialcollections.nl/schema#name> "BROEK VAN NATURELKLEURIGE TEXTIEL MET GOUDGALON OP DE ZIJNADEN EN ZES METALEN KNOPEN, ONDERDEEL VAN EEN GALAKOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <https://colonialcollections.nl/schema#description> "Dit galakostuum was eigendom van de resident van Ambon, H. Raedt van Oldenbarnevelt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <https://colonialcollections.nl/schema#identifier> "TM-5241-1b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5241-1b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

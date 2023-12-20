@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#name> "KOKERROK MET GEOMETRISCHE MOTIEVEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#description> "Een aaneengenaaide doek die is bewerkt in de zogenoemde songket-techniek, waarbij enkele draden worden ingevoegd tijdens het weven. De kepala bestaat uit verticale lijnen en supplementaire inslagstreep-motieven op horizontale lijnen. De badan bestaat uit kleine vierkantjes verkregen dooe inslagstrepen en supplementaire inslagdraden. Het verkregen motief heet grompol, volgens verzamelaar Veldhuisen. De doek is vervaardigd voor de lokale markt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#identifier> "TM-5663-209" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-209> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

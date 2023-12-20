@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#name> "HOOFDSIERAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#description> "Een U-vormig hoofdsieraad gemaakt van rotanrepen. Het sieraad bestaat uit twee gespleten repen rotan. De repen zijn aan de buitenkant rood geverfd. Beide repen zijn met een grijs koordje aan elkaar genaaid. Aan de buitenkant zijn rijen zwarte en witte kralen geregen. De uiteinden zijn aan elkaar geknoopt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#identifier> "TM-1772-198" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#material> "rotan ; verf ; koord ; kralen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-198> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

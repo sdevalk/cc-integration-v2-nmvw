@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#name> "KATOENEN MUURVERSIERING DOOR MAS BERU MET EEN BOER DIE DE SAWAH'S PLOEGT MET TWEE BUFFELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#description> "Op deze wanddecoratie ploegt een boer de sawah met twee ossen voor zijn ploeg. In de verte zijn bergen zichtbaar. De doek is gemaakt in een Indonesische batikkerij en was bestemd voor alle culturele groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#identifier> "TM-5663-1444" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#material> "katoen ; verfstof ; batik met waspen ; weven ; naaien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#creator> "Mas Beru" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1444> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

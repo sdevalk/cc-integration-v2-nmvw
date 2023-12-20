@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#name> "KOKERDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#description> "Een kokerdoek gemaakt van geweven katoen. De rode doek bestaat uit twee weefbanen, die niet aan elkaar gelijk zijn wat ornament betreft en die langs een zelfkant aan elkaar genaaid zijn. Het grondweefsel is in scheringribs. Strepen in scheringrichting in scheringikat, eenkleurig en in een scheringmotief. Strepen in inslagrichting met figuurtjes in supplementaire inslag en strepen bestaande uit een dubbele getwijnde inslagdraad. De doek is versierd met haaks op elkaar staande smalle en brede banen in grijs, oranje en wit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#identifier> "TM-1772-1200" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#material> "katoen ; verf ; geweven ; geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1200> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

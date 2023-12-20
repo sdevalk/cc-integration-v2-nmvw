@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#name> "STROKUSSEN, ONDERDEEL VAN KOTOMISI ENSEMBLE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#description> "Strokussen, behorende bij een kotomisi ensemble. Zo'n kostuum bestaat verder uit jaki, koto en angisa. Ook andere onderdelen kunnen nog erbij gedragen worden: empi (onderhemden), ondrokoto (onderrokken), en pangi. \r\nHet strokussen wordt onder de koto of ondrokoto gedragen om volume te creëren. \r\n\r\nVolgens R.D. Simons droegen totslaafgemaakte vrouwen uit Afrika alleen een pangi van blauwe stof die in Haarlem vervaardigd werd. Het bovenlijf was bloot. Derhalve ontwierpen de Hernhutters (volgens het verhaal) een kostuum voor de vrouwen. Zo zou de koto zijn ontstaan (1959:9-12). \r\nSommige vrouwen verzamelen deze hoofddoeken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#identifier> "TM-5491-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#material> "Katoen, stro." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5491-20> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

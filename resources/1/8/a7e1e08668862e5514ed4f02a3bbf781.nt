@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <https://colonialcollections.nl/schema#name> "STENEN KOP VAN EEN KNOTS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <https://colonialcollections.nl/schema#description> "Losse stenen kop van een strijdknots met in het midden een rond gat voor de steel.\r\n\r\nVervaardiging\r\nHet gat is geboord met behulp van een bamboestengel en nat zand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <https://colonialcollections.nl/schema#identifier> "TM-1596-60a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1596-60a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <https://colonialcollections.nl/schema#name> "HOUTEN KNOTS MET TANDVORMIGE UITSTEEKSELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <https://colonialcollections.nl/schema#description> "Houten knots met een voorzijde die bestaat uit zeven tepelvormige uitsteeksels, allen omlaag gericht. Het hout is verder versierd met diep ingesneden vierhoeken, grillig verlopende lijnen en een oogvormig ornament. De geprofleerde punt is versierd met een dubbele krans van agesneden zwarte veertjes.\r\nVan de onderzijde van de stok is wellicht een gedeelte afgezaagd; er steekt een spijkerpunt uit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <https://colonialcollections.nl/schema#identifier> "TM-1468-203" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-203> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

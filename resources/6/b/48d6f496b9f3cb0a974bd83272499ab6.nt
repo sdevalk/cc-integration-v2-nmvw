@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#name> "KATOENEN ROK DOOR ICHSAN MET FABELVOGELS EN BLOEMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#description> "Katoenen rok met fabelvogels en bloemen, die is gebatikt in een Indonesische batikkerij en bestemd was voor gebruik door alle culturele groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#identifier> "TM-5663-1047" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#creator> "Ichsan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1047> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#name> "BIDPRENT MET DE MAAGD VAN GUADALUPE EN JUAN DIEGO EN HAAR BASILIEKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#description> "Geplastificeerd bidprentje van de Heilige Maagd van Guadalupe  tijdens haar veschijning aan Juan Diego. Op de achtergrond de oude en nieuwe basiliek in Tepayac, Mexico-Stad, gebouwd ter Harer ere. \r\nOp de achterzijde staat een gebed gericht aan Haar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#identifier> "TM-5290-170" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-170> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

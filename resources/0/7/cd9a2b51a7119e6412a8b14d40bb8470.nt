@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#name> "KRUIK MET EEN SCHILDERING VAN DIERENKOPPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#description> "Kruik met aan de zijkant van de buik de hals. Op de buik zijn vier gestileerde koppen geschilderd van dieren, mogelijk poemakoppen eventueel lamakoppen. Een schaakbordpatroon is onder de tuit geschilderd.\r\nHet  zwart-wit geblokte patroon in een pan-Andes motief die de grens tussen deze wereld en de Andere wereld aanduidt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#identifier> "TM-4133-258" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#yearCreatedEnd> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-258> <https://colonialcollections.nl/schema#yearCreatedStart> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .

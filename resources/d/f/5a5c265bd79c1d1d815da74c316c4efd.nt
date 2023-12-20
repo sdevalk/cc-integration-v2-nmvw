@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5455-22b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5455-22b> <https://colonialcollections.nl/schema#name> "JAS VAN EEN MANNENKOSTUUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5455-22b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5455-22b> <https://colonialcollections.nl/schema#identifier> "TM-5455-22b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5455-22b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5455-22b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

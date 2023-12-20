@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#name> "HOOFD VAN EEN BEELD, NEUS IS AFGEBROKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#description> "Hoofd van een beeld. Ogen en mond zijn verfijnd weergegeven. De neus is afgebroken. De schedel wijkt naar achteren, wat op schedeldeformatie duidt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#identifier> "TM-3597-118" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#yearCreatedEnd> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-118> <https://colonialcollections.nl/schema#yearCreatedStart> "-300"^^<http://www.w3.org/2001/XMLSchema#integer> .

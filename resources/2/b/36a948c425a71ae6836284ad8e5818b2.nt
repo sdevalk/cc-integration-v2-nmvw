@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#name> "ZITBANK UIT DE V.O.C.-PERIODE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#description> "Zitbank van de V.O.C. Deze compagniesbank is geheel uitgevoerd met tordeerwerk.\r\nDe verschijningsvorm doet een Molukse herkomst vermoeden, maar de vorm van de armleuningen en van de getordeerde onderdelen verwijzen naar Hollandse en Bataviase meubelen (Geijn-Verhoeven et. al., 2002:76)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#identifier> "TM-2045-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2045-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1650"^^<http://www.w3.org/2001/XMLSchema#integer> .

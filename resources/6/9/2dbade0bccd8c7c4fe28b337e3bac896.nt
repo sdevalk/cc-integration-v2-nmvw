@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#name> "KATOENEN WANDKLEED MET EEN RIJ WAJANGFIGUREN, SLANGEN EN DRAKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#description> "Smal, langwerpig wandkleed met wayangtafereel. In het midden staat een boom van krissen. Daarnaast zijn verschillende figuren uit het wayangspel afgebeeld: Panggoel en Jagat, Sadewo, Ardjoeno, Betoro ..., Wenkoedoro, Nakoelo, en Probokiso. Onder hen glijden slangen (naga) en draken voorbij.\r\nDe naga is een draakachtige slangenfiguur die verwijst naar een dier uit de oude Hindoe-Boeddhistische religie en cultuur. Het dier symboliseert water en onderwereld (McCabe Elliot, 1984:68)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#identifier> "TM-5663-1113" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1113> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

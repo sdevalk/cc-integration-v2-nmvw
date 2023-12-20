@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#name> "SCHOEN, ONDERDEEL VAN EEN PAAR, TWEEDE GEBRUIK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#description> "De schoenen zijn gekocht op de markt te Mumias, West-Kenya, vervaardigd uit een autoband en met spijkertjes aan elkaar genageld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#identifier> "TM-4261-73b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#material> "rubber ; ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-73b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

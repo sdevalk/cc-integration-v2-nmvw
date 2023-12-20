@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#name> "OORVERSIERING VOOR MEISJES EN VROUWEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#description> "Het oorsieraad wordt gedragen door meisjes en vrouwen van alle leeftijden. Dit is een ouderwets exemplaar, tegenwoordig (jaren 70) wordt het geheel met kralen bedekt. Het sieraad is verzameld in Narok en is afkomstig van de Masai. De (glas)kralen zijn geregen op ijzerdraad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#identifier> "TM-4261-87" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#material> "glas ; ijzerdraad ; rijgen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-87> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

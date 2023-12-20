@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <https://colonialcollections.nl/schema#name> "DUBBELVELLIGE CILINDRISCHE TROM VAN HOUT, ONDERDEEL VAN EEN POPPEN- EN MASKERSPEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <https://colonialcollections.nl/schema#description> "De vellen van deze cilindrische trom zijn aan het tromlichaam bevestigd door middel van spankoorden in V-vorm en dunne ijzeren (?) hoepels. De trom wordt met een band om de schouders gedragen. Eén van de vellen wordt met een stok aangeslagen.\r\nDe trom maakt deel uit van een trom-ensemble dat poppenspel en gemaskerde dansers begeleidt tijdens het jaarlijkse maskerfeest.\r\n\r\n\r\nVervaardiging\r\nDe trom is vervaardigd uit een uitgehold stuk hout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <https://colonialcollections.nl/schema#identifier> "TM-5566-16a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-16a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#name> "SCHOOLBORD MET HET ALFABET IN HET YORUBA EN DE CIJFERS 1 TOT EN MET 20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#description> "Dit schoolbord werd gebruikt in de eerste klas van de lagere school (informatie verkoper)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#identifier> "TM-4325-7b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#material> "Hout ; verf ; met de hand schrijven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4325-7b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

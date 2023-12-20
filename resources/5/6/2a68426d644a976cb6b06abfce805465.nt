@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <https://colonialcollections.nl/schema#name> "ONGEBLEEKTE KATOENEN DOEK DIE ALS ROK WORDT OMGESLAGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <https://colonialcollections.nl/schema#description> "Ongebleekte katoenen doek, die als rok wordt omgewikkeld en wordt vastgehouden door een faja, een (meestal wollen) ceintuur.\r\nVolgens de museumgegevens is de doek afkomstig van de Azteken. Daarmee worden hun afstammelingen bedoelt, de Nahua-Indianen van Midden-Mexico." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <https://colonialcollections.nl/schema#identifier> "TM-3357-21" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

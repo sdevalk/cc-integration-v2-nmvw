@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#name> "Kokerrok DOOR E. V. ZUYLEN MET BOEKETTEN EN VOGELS, VERMOEDELIJK EEN VERVALSING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#description> "De kepala ('hoofd') bevat een elegant boeket, vogels en vlinders. De badan ('lichaam') heeft dit motief driemaal. Er hoort een kebaya bij met een gebatikte bloem. Boeketten waren oorspronkelijk echt Europese motieven, en de soort afgebeelde bloemen, maar ook dieren, hadden voor verschillende culturele groepen een eigen symboliek (Heringa, 1996:66).\r\nDe doek zou van Europese makelij zijn (van Zuylen, maar Veldhuisen denkt dus Chinees) en was bestemd voor Indo-Chinese klanten en de export.\r\nHet werk op de sarong is perfect, maar de gehele sfeer van de doek is meer Chinees dan normaal voor van Zuylen. Veldhuisen denkt dat de rok een vervalsing is (1993:144)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#identifier> "TM-5663-818" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#creator> "Eliza van  Zuylen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-818> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

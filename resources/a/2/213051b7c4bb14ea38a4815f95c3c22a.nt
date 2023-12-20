@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#name> "STENEN MAL VOOR EEN HEUPSTUK VAN BALSPEL MET DE AFBEELDING VAN EEN HOOFD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#description> "Stenen yugo met op de kromming een gezicht dat waarschijnlijk de zon voorstelt. Hij draagt grote oorschijven. De armen zijn op de rechte stukken afgebeeld. \r\nEen yugo is een beschermend heupstuk dat gedragen wordt tijdens het ulama-balspel, dat zijn herkomst heeft in de tijd van de Azteken. \r\nEen idee is dat deze stenen als mallen hebben gediend voor het maken van leren riemen die daarna opgevuld werden met kapok. Deze riemen werden gebruikt in het balspel om er de bal mee te kaatsen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#identifier> "TM-3419-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#locationCreated> "Veracruz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#alternateName> "Veracruz de Ignacio de la Llave" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#alternateName> "Veracruz"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#alternateName> "Estado de Veracruz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#alternateName> "Estado de Veracruz-Llave" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3419-2> <https://colonialcollections.nl/schema#yearCreatedStart> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .

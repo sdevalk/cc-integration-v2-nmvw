@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#name> "KATOENEN HOOFDDOEK VOOR MAN MET TWEE VERSCHILLENDE HELFTEN, ÉÉN MET GEOMETRISCHE MOTIEVEN, DE ANDERE MET FLORALE MOTIEVEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#description> "Vierkante doek, diagonaal in twee helften verdeeld, de ene helft met blauw en wit op een rode ondergrond, gebatikt in abstracte bloemmotieven: jlamprang. De andere helft bevat symmetrisch gearrangeerde florale motieven op een crèmekleurige achtergrond. De doek was bestemd voor de export naar Sumatra." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#identifier> "TM-5663-447" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-447> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#name> "HUISRAAD IN EEN MARRON HUT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#description> "Interieur met huisraad:een matapi (cassaverasp), verschillende kalebassen die als kom dienenen een grote waar water in wordt bewaard en een wannebak waarmee kaf van rijst wordt gescheiden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#identifier> "TM-10031543" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10031543> <https://colonialcollections.nl/schema#yearCreatedStart> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

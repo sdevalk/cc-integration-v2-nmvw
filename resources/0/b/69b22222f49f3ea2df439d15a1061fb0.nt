@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <https://colonialcollections.nl/schema#name> "AMULET IN DE VORM VAN EEN HANDJE MET MUNTSTUK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <https://colonialcollections.nl/schema#description> "Dit amulet met toegeknepen vingers waarin een muntstuk, is bedoeld ter verkrijging van rijkdom. In het handje zit een gat waardoor een koordje geregen kan worden. Dit type amuletten wordt gebruikt in het noorden van het departement La Paz. De jonge Aymara dragen deze op hun naamdag aan een halssnoer met kralen. De hand bevat een reaal en is bedoeld om iemand bij 'geld geliefd te maken' (LaBarre, 1948:182).\r\nHet amulet is gekocht tijdens een verzamelreis in een winkel in 1976 in La Paz." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <https://colonialcollections.nl/schema#identifier> "TM-4294-50" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4294-50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

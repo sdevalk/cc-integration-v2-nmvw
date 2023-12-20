@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#name> "ONDERZOEKSTER ROSE NEEMT EEN INTERVIEW AF VOOR HET K.I.T. MEDICAL RESEARCH CENTRE IN NAIROBI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#description> "Het interview wordt afgenomen in het kader van het Gemeenschappelijk Onderzoek Machakos project, ook wel Joined Project Machakos genoemd. De Kamba bevolking van Machakos behoort tot het onderzoeksgebied van het K.I.T. Medical Research Centre in Nairobi. Het onderzoek richtte zich op de volgende thema's: de gezinsgrootte, het aantal sterfgevallen en vaccinatietypen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#identifier> "TM-20014316" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#creator> "Henk van Rinsum" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014316> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <https://colonialcollections.nl/schema#name> "MESSINGEN AMULET VOOR IN DE HOOFDTOOI VAN VROUWEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <https://colonialcollections.nl/schema#description> "Bedoeld om te voorkomen dat de echtgenoot overspel pleegt wanneer deze op reis is. In het amulet zijn tekstregels en getallencombinaties gegraveerd, waaronder een deel van het Troonvers (Koran 2:255). Vertaling bovenzijde: Tot jullie is een gezant uit jullie eigen midden gekomen. Vertaling onderzijde: Op Hem stel ik mijn vertrouwen en Hij is de Heer van de geweldige troon." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <https://colonialcollections.nl/schema#identifier> "TM-4313-101" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-101> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

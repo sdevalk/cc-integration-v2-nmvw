@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#name> "CRUCIFIX" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#description> "Bruin gelakt houten kruis met blikken ophangoogje; aan de voorzijde beplakt met doorzichtig cellofaan en versierd met goudkleurige papierreepjes. Boven de gekruisigde Christusfiguur van beschilderd plastic is een lichtrose plastic bordje met daarop INRI vastgespijkerd.\r\n\r\nDe crucifix wordt in huis opgehangen ter verering en bescherming.\r\nHet voorwerp is in Mexico City gekocht ten behoeve van de Mexico Stad tentoonstelling in het TM in 1992. Huisnijverheidproduct (waarschijnlijk)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#identifier> "TM-5290-73" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#material> "hout ; kunststof ; lak ; met de hand vervaardigen ; lakken ; beschilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-73> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

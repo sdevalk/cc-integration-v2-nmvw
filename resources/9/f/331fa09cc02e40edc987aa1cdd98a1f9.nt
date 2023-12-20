@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#name> "DOEK, VOOR AAN HET PLAFOND, MET GEOMETRISCH PATROON" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#description> "Grote doek, gebruikt als decoratie aan het plafond en bestemd voor de export naar Sumatra. De doek is met rood en blauw geverfd en gebatikt in zich repeterende geometrische motieven (ceplok), ditmaal in jlamprang (stermotief), een afgeleide van de Indiase patola-doeken. Veldhuisen noemt het ook wel cinde. De doek bestaat uit twee helften die aaneengenaaid zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#identifier> "TM-5663-415" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-415> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

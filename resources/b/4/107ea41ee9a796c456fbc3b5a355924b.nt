@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#name> "LEPEL GEMAAKT VAN DE SCHUB VAN EEN VIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#description> "Arapaima gigas, de vis van wiens schubben deze lepel is vervaardigd, is bij de Carajá bekend onder de naam pirarucu." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#identifier> "TM-5202-170c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#locationCreated> "Ilha do Bananal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#alternateName> "Ilha do Bananal de Baixo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5202-170c> <https://colonialcollections.nl/schema#alternateName> "Ilha do Bananal" .

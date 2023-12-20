@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#name> "BROEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#description> "Een lange broek gemaakt van handgeweven en gebatikte katoen. De broek is een onderdeel van een pak voor een bruidegom (zie jasje no. 5663-239a). Het patroon bestaat uit diagonale banen (Garis miring), waarin het Kembang manggar-motief, de bloesem van de palmboom. Dit motief wordt vaak gebruikt voor huwelijkskleding. Deze batik is gemaakt voor de lokale bevolking van Tuban." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#identifier> "TM-5663-239b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#material> "katoen ; kleurmiddel ; weven ; verven ; batik met waspen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-239b> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .

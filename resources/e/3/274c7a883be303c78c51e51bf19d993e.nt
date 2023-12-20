@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#name> "KATOENEN BLOUSE, OORSPRONKELIJK VOOR (INDO-)EUROPESE DAMES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#description> "Witte kebaya van zeer fijngeweven katoen: batist. Aan de onderrand van de mouwen en van het voor- en achterpand bevindt zich een kanten rand. Kebaya's vormden onderdeel van de huisdracht van (indo-)Europese dames in voormalig Nederlands-Indië, tot ongeveer de jaren 20 van de 20e eeuw. De kebaya werd van voren met een speld of knoopje gesloten en op een sarong gedragen.\r\n\r\nVervaardiging\r\nDe blouse is met de naaimachine vervaardigd. Ook het kant en borduursel is met de machine vervaardigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#identifier> "TM-5354-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#inscription> "In de hals met inkt: Duker" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5354-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

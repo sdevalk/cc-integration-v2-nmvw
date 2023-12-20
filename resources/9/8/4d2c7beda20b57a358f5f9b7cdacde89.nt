@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#name> "SPLEETTROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#description> "Een spleettrom gemaakt van een lengte bamboe. De trom is aan beide uiteinden gesloten met het tussenschot van de bamboe. Op een plaats is in de lengte een smalle gleuf gesneden. De uiteinden van de gleuf zijn driehoekig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#identifier> "TM-15-415" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-415> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

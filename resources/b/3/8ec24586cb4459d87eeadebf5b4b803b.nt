@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#name> "KATOENEN WIKKELROK MET PAUWEN EN (ABSTRACTE) BLOEMVORMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#description> "Op een achtergrond van kleine ruiten staan drie rijen golvende banen met motieven daarin. Veldhuisen noemt deze golvende motieven sekar jagad. De motieven erin zijn pauwen (merak), ceplok (abstracte bloemen), en andere bloemmotieven. \r\nDe rok is gemaakt in een Indonesische batikkerij en was bestemd voor Indonesiërs." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#identifier> "TM-5663-1288" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1288> <https://colonialcollections.nl/schema#yearCreatedStart> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

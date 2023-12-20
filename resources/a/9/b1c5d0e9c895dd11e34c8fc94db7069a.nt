@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BAKVORM MET ZEVEN BIJPASSENDE DEKSELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#description> "De bakvorm heeft zeven vakjes met een doorsnee van 10,5 à 12 centimeter. De bovenkant is glad geglazuurd, de onderkant niet.\r\nDe bakvorm wordt gebruikt voor het bakken van maiskoekjes. Boven een houtvuurtje wordt de bak op drie stenen geplaatst en in elk vakje wordt een bolletje deeg gedaan, hierna worden de dekseltjes er overheen gezet. Na enige tijd keert men de bolletjes om tot beide kanten gaar zijn.\r\nDe heer Schaller heeft ook een foto gemaakt van het gebruik van dergelijke bakvormen onder inventarisnummer 20010224." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#identifier> "TM-3305-64a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3305-64a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

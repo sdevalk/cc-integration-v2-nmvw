@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#name> "WOLLEN GEPLISSEERDE MEISJESROK, MET EEN STROOK VAN KUNSTZIJDE AAN DE BOVENKANT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#description> "Meisjesrok van geruwde wol, met een blauwe kunstzijden bovenstuk.\r\nLangs de zelfkanten bij de naden staat op regelmatige afstanden gedrukt: \"La Concha\" S.A. Tulancingo. Hgo. (Hidalgo, registrator) Mexico. Volgens Toor is de meeste wollen kleding bestemd voor de handel en afkomstig uit de omgeving van het Pátzcuaromeer, Michoacán (1964:44)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#identifier> "TM-3357-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#locationCreated> "Hidalgo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#alternateName> "Estado de Hidalgo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-2> <https://colonialcollections.nl/schema#alternateName> "Hidalgo"@en .

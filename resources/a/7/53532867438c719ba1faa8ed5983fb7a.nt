@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <https://colonialcollections.nl/schema#name> "MEERVOUDIGE MUZIEKBOOG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <https://colonialcollections.nl/schema#description> "Deze samengestelde boog ('pluriarc') bevat 5 houten bogen om de 5 snaren aan te bevestigen. Het houten klanklichaam is voorzien van een kam waarover de snaren lopen. Vlak onder de kam bevinden zich twee klankgaten. Het klanklichaam is versierd met ingekerfde geometrische patronen.\r\n\r\n(Dit exemplaar ziet er ongebruikt uit, en is mogelijk voor toeristen gemaakt. Voor een identieke pluriarc, zie A-10433.)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <https://colonialcollections.nl/schema#identifier> "TM-5633-118" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-118> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

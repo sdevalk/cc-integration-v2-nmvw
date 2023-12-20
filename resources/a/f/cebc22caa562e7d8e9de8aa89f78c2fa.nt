@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#name> "EEN RIVIER BIJ GOA, IN DE BUURT VAN MAKASSAR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#description> "Litho, naar een oorspronkelijke tekening van Q.M.R. Ver Huell.\r\nMiddenboven:Celebes. Middenonder: rivier van Goa, nabij Makassar.\r\nLinksonder: Q.M.R. Ver Huell del.\r\n\r\nPlaat 4 uit 'Gezigten in Oostindië', 1824. Deze uitgave is niet voltooid.\r\nOp de achterzijde staat met potlood: r.b. 95, en met rood potlood: afgekeurd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#identifier> "TM-3444-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3444-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1824"^^<http://www.w3.org/2001/XMLSchema#integer> .

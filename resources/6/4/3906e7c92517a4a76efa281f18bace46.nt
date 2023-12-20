@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#name> "WOLLEN OMSLAGDOEK MET STREEPPATROON IN FELLE KLEUREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#description> "Op roller-ophalergetouw met rugjuk vervaardigde doek. De figuren zijn verkregen d.m.v. schering-ikat, waarbij de draden zijn afgebonden in patroon vóór het verfbad, waarna het opspannen op het getouw plaatsvindt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#identifier> "TM-5411-17" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#material> "wol ; verf ; ikat op de schering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

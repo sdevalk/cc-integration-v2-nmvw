@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#name> "BESCHILDERD HOUTEN BEELD VAN SINT DOMINICUS DE GUZMÁN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#description> "Beeld van de Heilige Dominicus. Dergelijke beelden werden op huisaltaren aangetroffen, vermoedelijk ook in kloosters.\r\nDe attributen van deze heilige zijn een staf of zwaard en en rood boek, symbool van zijn preken. Het habijt van onderhavige monnik is dat van een Dominicaner. \r\nSan Domingo de Guzmán is de stichter van de orde der Predikheren. Hij werd in 1172 in Caleruega in Spanje geboren uit een adellijk geslacht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#identifier> "TM-4100-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#locationCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Brésil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Federative Republic of Brazil"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "República dos Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "United States of Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Brasilien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Brasíle" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4100-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

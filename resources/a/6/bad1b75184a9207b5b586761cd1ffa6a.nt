@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#name> "BRIEF VAN SIR THOMAS RALEIGH AAN LADY STANLEY" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#description> "Bedankbriefje voor de genoten gastvrijheid.\r\nSir T. Raleigh was een rechtkundig schrijver en lid van de \"viceroy's government\" in India van 1889-1904." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#identifier> "TM-3710-41" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-41> <https://colonialcollections.nl/schema#yearCreatedStart> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

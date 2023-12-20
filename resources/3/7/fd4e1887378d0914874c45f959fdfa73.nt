@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#name> "STANDAARD VAN EEN MESSING OLIELAMP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#description> "De olielamp is in afzonderlijke delen gegoten en vervolgens aan elkaar gelast. De verticale standaard zit met een klinknagel vast in een passend rechthoekig hulsje in de bodem. De olielamp is glanzend gepolijst en kan zowel staand als hangend worden gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#identifier> "TM-4351-8a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#material> "messing ; vormgieten ; polijsten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4351-8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <https://colonialcollections.nl/schema#name> "WASSEN MANNENFIGUUR, DIE HET SAP UIT EEN AGAVEPLANT VERZAMELT VOOR DE ALCOHOLISCHE DRANK PULQUE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <https://colonialcollections.nl/schema#description> "Wassen figuur die de sappen van een agaveplant verzamelt.\r\nOp de voet zit een etiket: \"From W.G. Walz Co. Souvenir House, City of mexico, only carved leather factory in the Republic. 2nd San Francisco no. 3\", vervaardigd dus als souvenir." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <https://colonialcollections.nl/schema#identifier> "TM-3401-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

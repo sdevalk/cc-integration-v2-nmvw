@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <https://colonialcollections.nl/schema#name> "GEKLEURDE HOUTSNEDE  VAN EEN WATERPOT WAARBOVEN EEN PARASOL EN GUIRLANDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <https://colonialcollections.nl/schema#description> "De afbeelding is een symbolische voorstelling van de godin Annapurna die vaak als (water)pot wordt afgebeeld en vereerd. Bijvoorbeeld in haar tempeltje op Asan Tole in Kathmandu. Annapurna is 'Moeder des Overvloeds', die zorgt voor overvloedig voedsel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <https://colonialcollections.nl/schema#identifier> "TM-4368-13" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4368-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

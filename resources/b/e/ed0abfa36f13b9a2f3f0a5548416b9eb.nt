@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#name> "PLANTAARDIGE RODE KLEURSTOF IN BLIK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#description> "De rode, natuurlijke kleurstof urucu wordt gebruikt om tijdens feesten het lichaam en voorwerpen mee te beschilderen. Vaak wordt het lichaam ook op een gewone doordeweekse dag ermee beschilderd omdat urucu tevens bescherming biedt tegen insektenbeten. \r\n\r\nDit blik met rode kleurstof is verkregen van Übüna (Luzia Arapasso), een Tikuna vrouw in Vendaval.\r\n\r\nVervaardiging\r\nDe zaadjes van de urucu-vruchten (Bixa Orellana, L.) worden gemengd met het sap van de Pedjugü-boom en vervolgens tot pap gekookt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#identifier> "TM-5529-58" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#locationCreated> "Amazonas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#alternateName> "Amazonas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5529-58> <https://colonialcollections.nl/schema#alternateName> "Estado do Amazonas" .

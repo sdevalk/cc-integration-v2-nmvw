@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <https://colonialcollections.nl/schema#name> "ZEER LANGE KETTING VAN BLAUWE KRALEN, DIE VERSCHILLENDE MALEN ROND DE HALS WORDT GEDRAAID" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <https://colonialcollections.nl/schema#description> "Lange blauwe glaskralen ketting. \r\nAangezien hij door Rudolf van Zantwijk is verkocht aan het museum en omdat de ketting in Cuetzalan is verzameld, is hij vermoedelijk afkomstig van Nahua-Indianen (zie Cordry, 1968). Van Zantwijk verbleef langere tijd onder deze groep." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <https://colonialcollections.nl/schema#identifier> "TM-3357-37a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-37a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

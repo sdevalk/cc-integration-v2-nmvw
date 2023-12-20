@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAND MET HENGSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#description> "Volgens de verzamelaar werd het mandje gebruikt om magische ingrediënten mee te dragen op de jacht. De vorm komt overeen met die van een groter model draagmanden die alleen bij de Binji in gebruik zijn. Vermoedelijk is dit mandje ook van hen afkomstig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#identifier> "TM-3360-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#material> "Bamboe ; plantenvezel ; touw ; vlechten ; ineenvlechten ; met de hand vervaardigen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#locationCreated> "Kasai" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#alternateName> "Kasaï Province"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3360-6> <https://colonialcollections.nl/schema#alternateName> "Sous-Région du Kasai" .

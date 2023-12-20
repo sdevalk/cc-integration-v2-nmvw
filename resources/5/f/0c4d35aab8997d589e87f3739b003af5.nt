@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#name> "KOKERROK MET RUITMOTIEF EN DIAGONALE BANEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#description> "Nu opengemaakte kokerrok gemaakt door (Indo-)Arabieren. De badan bevat een weef-imitatie: een algeheel ruitmotief dat bekend is onder de naam trellis. De badan heeft tevens een imitatiekanten rand: booh. De kepala bestaat uit garis miring (diagonale, met motieven gevulde banen). De banen bevatten bloemen en bladeren. Er zit een prijssticker op de doek: fl. 3,50. De doek was bestemd voor gebruik door alle culturele groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#identifier> "TM-5663-154" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#yearCreatedEnd> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-154> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

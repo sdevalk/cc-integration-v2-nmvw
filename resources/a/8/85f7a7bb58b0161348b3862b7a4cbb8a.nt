@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <https://colonialcollections.nl/schema#name> "KLANKHOORNTJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <https://colonialcollections.nl/schema#description> "Dit klankhoorntje is gemaakt van het uiteinde van een kalebas en afgesloten met een vlies (membraan) van een cocon of van spinnen-eieren. Het wordt in een gat in het tromlichaam gestoken, en zoemt mee als de trom bespeeld wordt; het is dan een 'mirliton' (membranofoon)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <https://colonialcollections.nl/schema#identifier> "TM-4065-7b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

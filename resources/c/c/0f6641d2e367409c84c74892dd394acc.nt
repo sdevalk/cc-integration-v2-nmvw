@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <https://colonialcollections.nl/schema#name> "ZILVEREN SCHEDE VAN EEN DOLK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <https://colonialcollections.nl/schema#description> "De gegraveerde Arabische tekst op de achterzijde is een vers uit de Koran uit het hoofdstuk Ya Sin waarvan de vertaling luidt: 'Vrede! is [voor hen] een [welkomst]woord dat van een barmhartige Heer komt.' (Koran 36: 58)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <https://colonialcollections.nl/schema#identifier> "TM-4313-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <https://colonialcollections.nl/schema#name> "AMULET MET EEN AFBEELDING VAN DE H. MAAGD MARIA EN EEN VAN SINT JACOBUS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <https://colonialcollections.nl/schema#description> "Op een rood papiertje zijn een grote en een kleine prent geplakt van respectievelijk Santiago (Sint Jacobus) en de Maagd Maria. Om het papiertje zit een krans van verkleurde knoflooktenen. Het voorwerp dient als amulet en wordt in huis opgehangen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <https://colonialcollections.nl/schema#identifier> "TM-5290-390" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-390> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

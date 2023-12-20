@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <https://colonialcollections.nl/schema#name> "SIERGESP VAN ZILVER, GEGRAVEERD MET KORANSPREUKEN IN ARABISCHE KARAKTERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <https://colonialcollections.nl/schema#description> "Boven en onder een band met koranspreuken in Arabische karakters; aanroepingen van Allah; respectievelijk:\r\n'Abdoellah Adraim Salam Allah Kahrac Hamsah Alahla Rasoel Allah' en 'Alfa ah grafalba'llah Saiddah lah Allahoe wasthal(b)t ri gra ri blalah akkatllah allahoe'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <https://colonialcollections.nl/schema#identifier> "TM-1772-230" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-230> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

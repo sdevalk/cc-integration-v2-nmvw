@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#name> "BOVENARMBAND MET HAAR, ALS ONDERDEEL VAN PAAR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#identifier> "TM-5192-1b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#locationCreated> "Arunachal Pradesh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#alternateName> "State of Arunāchal Pradesh" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#alternateName> "Nefa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#alternateName> "Arunachal Pradesh"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#alternateName> "North-East Frontier Tract" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5192-1b> <https://colonialcollections.nl/schema#alternateName> "North East Frontier Agency" .

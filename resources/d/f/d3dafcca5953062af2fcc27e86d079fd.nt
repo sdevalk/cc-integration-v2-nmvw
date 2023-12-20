@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <https://colonialcollections.nl/schema#name> "SCHOUDERTAS (E) VAN FEESTKLEDING VROUW BESTAANDE UIT (TULBAND A VEST B TUNIEK C GORDELVERSIERING(EN) D-1/2 BEENBESCHERMER(S) SCHOUDERTAS E BEENBESCHERMER(S) F-1/2)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Noord Thailand Lisu (bergstam)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <https://colonialcollections.nl/schema#identifier> "TM-5122-914e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5122-914e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

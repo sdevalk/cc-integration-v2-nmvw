@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#name> "KOKERROK MET  (GROTE) BLOEMEN, VLINDERS EN VOGELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#description> "Crème- en roodkleurige kokerrok. De kepala ('hoofd') heeft tweemaal een verticale baan van afwisselend twee vogels, piring (bord), bladeren, bloemen en vlinders, alle op een achtergrond van diagonale stippellijnen. De badan ('lichaam') heeft grotere en kleinere florale motieven als bloemen en bladeren. De doek is vervaardigd in een (Indo-)Chinese werkplaats en was bestemd voor de Chinese markt en voor de export." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#identifier> "TM-5663-331" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-331> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

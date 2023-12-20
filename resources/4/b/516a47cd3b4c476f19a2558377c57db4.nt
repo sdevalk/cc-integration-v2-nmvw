@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <https://colonialcollections.nl/schema#name> "SMAL HOUTEN SCHILD MET BANENVERSIERING VAN BEEN, SCHELPEN EN GEITENHAAR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <https://colonialcollections.nl/schema#description> "Het schild is uit een stuk hout gekapt en gesneden. Er wordt voor gezorgd, dat er in het hout geen kwast voorkomt, want men gelooft, dat zo'n kwast speren, zwaardslagen en kogels van de vijand aantrekt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <https://colonialcollections.nl/schema#identifier> "TM-1772-431" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-431> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

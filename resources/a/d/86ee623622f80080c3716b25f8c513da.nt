@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#name> "KATOENEN WANDVERSIERING DOOR WINOTOSASTRO MET CENTRAAL EEN GEOMETRISCHE VORM MET VLEUGELMOTIEVEN EN WAJANGFIGUREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#description> "Wandkleed met een groot motief, een soort pijlpunt, in het midden van de doek. Er in staan onderaan twee wayangfiguren, elk naast een vak met kruisjes. Daarboven zijn twee vleugels afgebeeld, waarboven weer twee dieren zijn afgebeeld: een karbouw en een leeuw (?). De punt bestaat uit bladranken.\r\nDe doek is gemaakt in een Indonesische batikkerij en was bestemd voor alle culturele groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#identifier> "TM-5663-1348" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#creator> "Winotosastro" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1348> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

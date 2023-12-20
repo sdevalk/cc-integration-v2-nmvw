@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#name> "Kokerrok DOOR THE TIE SIET MET BOEKETTEN ORCHIDEEËN, VOGELS EN VLINDERS, DEELS OP GEOMETRISCHE ACHTERGROND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#description> "Kokerrok met kepala ('hoofd') met verticale stroken met orchideebloemen op verschillende achtergrondmotieven, waaronder truntum of truntung. De badan ('lichaam') heeft drie boeketten orchideeën, met een vogel en vlinder erboven.\r\nBoeketten waren oorspronkelijk echt Europese motieven, en de soort afgebeelde bloemen, maar ook dieren, hadden voor verschillende culturele groepen een eigen symboliek (Heringa, 1996:66).\r\nDe rok is gemaakt in een Indo-Chinese batikkerij en was bestemd voor Indo-Chinezen en voor de export." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#identifier> "TM-5663-1155" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#creator> "The Tie Siet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1155> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

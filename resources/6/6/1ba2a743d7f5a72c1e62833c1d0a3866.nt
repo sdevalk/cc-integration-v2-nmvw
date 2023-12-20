@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <https://colonialcollections.nl/schema#name> "LAPPENPOP IN HINDOESTAANSE KLEDING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <https://colonialcollections.nl/schema#description> "De kleding van de katoenen pop bestaat uit een zijden rok en blouse, een katoenen broek, een nylon omslagdoek en zijden schoenen. Verder draagt de pop sieraden van goudgalon.\r\nOnder het houten voetstuk zit een papiertje met de tekst \"Gem. Sanatan Dharam. Suriname.\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <https://colonialcollections.nl/schema#identifier> "TM-3325-52" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3325-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

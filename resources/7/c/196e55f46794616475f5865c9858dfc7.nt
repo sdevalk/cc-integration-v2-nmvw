@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#name> "HARPOEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#description> "Een harpoen gemaakt van gesmeed ijzer. De punt heeft een driehoekig blad op een korte steel met daarnaast aan beide zijden uitstekende punten. Dit deel staat op een lange ronde schacht, die op twee plaatsen is omwikkeld met een vlechtwerk van rotanrepen. Hiertussen is een gat gemaakt in de ijzeren schacht. In het gat een gevlochten touw dat aan de lange houten schacht is vastgemaakt. Het touw is tussen twee gevlochten banden vast gemaakt op enige afstand van het uiteinde van de lange schacht. Het einde van de schacht past in de bus van de harpoenpunt. De schacht is van licht hout gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#identifier> "TM-1544-15b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#material> "ijzer ; rotan ; touw ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1544-15b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .

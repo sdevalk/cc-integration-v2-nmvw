@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#name> "STICKER MET ARABISCHE KALLIGRAFIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#description> "Sticker met de tekst 'Allah jal jalalu' (God, moge Zijn glorie groot zijn) in Arabische kalligrafie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#identifier> "TM-4359-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#locationCreated> "Cairo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "El-Qâhira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "Misr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "El Kahira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "El Kahirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "Al Qāhirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "Le Caire" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4359-1> <https://colonialcollections.nl/schema#alternateName> "Masr" .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <https://colonialcollections.nl/schema#name> "DOEK OM FRAME VAN POPPENSPEL TE BEDEKKEN, ONDERDEEL VAN EEN POPPEN- EN MASKERSPEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <https://colonialcollections.nl/schema#description> "Deze doek bedekt het frame (de 'poppenkast') van Sigi, de Wilde Buffel.\r\nHij is gemaakt van machinaal vervaardigde katoen en bedrukt met 'bogolan' (modderdoek) motieven. Aan de bovenkant zitten gaten, waar de stokken van de poppen doorheen gestoken worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <https://colonialcollections.nl/schema#identifier> "TM-5566-10p" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5566-10p> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .

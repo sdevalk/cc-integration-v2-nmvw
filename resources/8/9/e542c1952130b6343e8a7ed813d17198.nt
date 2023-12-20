@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <https://colonialcollections.nl/schema#name> "FRAGMENT VAN EEN GONG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <https://colonialcollections.nl/schema#description> "De twee fragmenten (a) en (b) passen op elkaar. Fragment (a) is een deel van de centrale slagknobbel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <https://colonialcollections.nl/schema#identifier> "TM-1772-854a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-854a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

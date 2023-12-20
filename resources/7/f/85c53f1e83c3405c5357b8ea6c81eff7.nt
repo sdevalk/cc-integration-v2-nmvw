@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#name> "WATERSCHAAL MET ARABISCHE INSCRIPTIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#description> "De Arabische inscriptie in de rand bevat een lofprijzing van de profeet Mohammed en de sji'itische imams." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#identifier> "TM-3317-106" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#material> "roodkoper ; vertind" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3317-106> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

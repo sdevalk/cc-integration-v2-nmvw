@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#name> "TIJDELIJKE IDENTITEITSKAART VOOR BEVRIJDE GEÏNTERNEERDEN OP NAAM VAN J.M. DURAND-LEEUWENBURGH" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#description> "Afgegeven in Semarang door het departement van justitie en de dienst van sociale zaken op naam van Johanna Maria Durand-Leeuwenburgh, geboren 25-6-1869 in Bojolali (Java). Registratienummer M. S. -011313.\r\nBeroep: gepensioneerd G.G. Ambt.\r\nMet handtekeningen, aantekeningen en een lijst van uitgereikte hulpgoederen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#identifier> "TM-5615-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5615-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

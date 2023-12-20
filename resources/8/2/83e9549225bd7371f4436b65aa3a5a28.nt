@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#name> "DANSMASKER MET OPVALLENDE OPGEBLAZEN WANGEN OF SNORBAARD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#description> "Net als bij de meeste maskers in Kameroen zijn ook hier de afstaande, grote oren, de bijgevijlde tanden en de bollen wangen kenmerkend. Maskers met bolle wangen zijn niet ongebruikelijk in Kameroen. De bolle opgeblazen wangen betekenen rijkdom en invloed. Dit specifieke masker werd bij aankoop aangeduid als het gezicht van een Duitsers, te herkennen aan de snorbaard of bakkebaarden. Het kan zijn dat in dit masker beide gedachtengangen zijn vermengd.\r\nDit masker is afkomstig van een notabele uit Bandjoun die op ongeveer één kilometer afstand van de chefferie woont.\r\nHet masker is uit één stuk hout gesneden. Het gelaat is met camwood rood gekleurd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#identifier> "TM-3413-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#material> "hout ; kleurmiddel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#locationCreated> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#countryCreated> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "Republic of Cameroon"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "République Fédérale du Cameroun" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "République Unie du Cameroun" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "United Republic of Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "Federation of the Camerouns" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3413-3> <https://colonialcollections.nl/schema#alternateName> "Cameroun" .

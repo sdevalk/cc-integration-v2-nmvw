@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#name> "PAAR ROSE LEREN MUILTJES (BABOUCHES)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#description> "De muiltjes zijn met behulp van de naaimachine vervaardigd. De zolen zijn van zwart plastic; de binnenzool, van karton, is geplakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#identifier> "TM-4241-251b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#material> "leer ; karton ; kunststof ; leerbewerken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4241-251b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

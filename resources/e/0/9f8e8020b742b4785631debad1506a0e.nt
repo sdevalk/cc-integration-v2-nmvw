@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER, VERMOEDELIJK VOORSTELLENDE EEN DEMONISCH WEZEN OF DIERFIGUUR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <https://colonialcollections.nl/schema#description> "Dit masker komt voor in het klassieke Javaanse maskerspel Topèng Dalang dat wordt opgevoerd door gemaskerde zwijgende acteurs wiens rollen worden opgezegd door een dalang." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <https://colonialcollections.nl/schema#identifier> "TM-4133-191" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-191> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

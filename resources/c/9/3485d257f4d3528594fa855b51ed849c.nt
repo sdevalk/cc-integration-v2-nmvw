@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <https://colonialcollections.nl/schema#name> "1 GORDEL (F) VAN MONNIKSKLEDING BESTAANDE UIT (2 GROTE GELE DOEKEN A EN B 1 SMALLE GELE DOEK C 1 MOUW D 1 SJERP E 1 GORDEL F 1 PETJE G EN 1 PAAR SANDALEN H)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <https://colonialcollections.nl/schema#description> "Herk:  Thailand Zuidoost Azie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <https://colonialcollections.nl/schema#identifier> "TM-4113-524f" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4113-524f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

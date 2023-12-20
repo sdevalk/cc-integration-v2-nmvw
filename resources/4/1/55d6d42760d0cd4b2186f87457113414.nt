@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#name> "DRIE CREOOLSE NAAISTERS IN EEN KAMER VAN DE PLANTERSWONING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#description> "Tekening van naaiende vrouwen\r\n\r\nDrie vrouwen zitten te naaien in een kamer van het grote huis van plantage Katwijk. Een vrouw kijkt toe, waarschijnlijk de 'sisi', de creoolse huishoudster. Hoewel de eigenaren van de huizen hun kleding vaak bestelden in Europa, werd er ook in huis door totslaafgemaakte vrouwen genaaid. ZIj maakten meestal ook hun eigen kleding, en soms die van andere totslaafgemaakten, voor geld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#identifier> "TM-3626-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#inscription> "Linksonder staat de notitie:\"Fait au plantage Katwijk (Rivier Suriname) le 9 août 1842\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#material> "potloodtekening." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#creator> "T. (Théodore) Bray" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .

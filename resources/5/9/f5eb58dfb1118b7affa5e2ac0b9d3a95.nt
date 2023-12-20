@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#name> "RIJSTETENDE MANNEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#description> "Dit schilderij is geschilderd in de zg. koffiehuisstijl. Volgens de verwerver is dit schilderij getiteld \"de rijsteters\". De Perzische tekst op het schilderij betekent \"Syrië\" (suriya)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#identifier> "TM-4313-157" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#material> "Verf op linnen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4313-157> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

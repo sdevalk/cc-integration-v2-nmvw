@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#name> "STOPFLES MET INDIGOPEULTJES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#description> "Stopfles gevuld met gedroogde, donkerbruine, indigopeultjes. Om de peulen te verkrijgen moeten de planten eerst gebloeid hebben. Normaliter (als indigoverfstof van de planten gemaakt wordt) worden de planten gemaaid voor het bloeien. Het zaad in de peulen wordt gebruikt als zaaigoed voor nieuwe planten die zo'n 2 à 3 jaar kunnen blijven staan. Bepaalde indigoplanten werden niet gezaaid, maar gestekt, omdat de plant moeilijk in het zaad kwam. Dit was o.a. op Java het geval met de indigofera suffruticosa. De indigoplant put de grond snel uit. Wisselteelt met rijst moest dit tegengaan.\r\nPot is afkomstig  van het Koloniaal Instituut Amsterdam, Afd. Handelsmuseum." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#identifier> "TM-3401-1183" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1183> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .

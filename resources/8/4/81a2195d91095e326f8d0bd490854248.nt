@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <https://colonialcollections.nl/schema#name> "SCHEEPJESDOEK VAN KATOEN EN ZIJDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <https://colonialcollections.nl/schema#description> "Doek met afbeelding van twee schepen, menselijke figuren, dieren en bomen. Gebruikt bij de ceremonieën die de verschillende levensstadia begeleiden als geboorten, trouwerijen en sterfgevallen. Dergelijke doeken worden 'scheepjesdoeken' genoemd, vanwege het duidelijke schip-motief. Dit motief symboliseert de overgang van het ene levensstadium naar het andere.\r\n\r\nVervaardiging\r\nInslag lancé versiering." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <https://colonialcollections.nl/schema#identifier> "TM-1772-1551" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1551> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

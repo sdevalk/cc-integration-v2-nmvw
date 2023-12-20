@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#name> "ROOSTER (STOKKEN EN DOEK), ONDERDEEL VAN EEN ZOUTINSTALLATIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#description> "De bak met gat (a) wordt boven op de houten stokken constructie (d) geplaatst; de tweede bak (b) komt daaronder op de grond. Op het gat komt het roostertje, waarop een lapje boombast (c). Op dit lapje plaatst men zouthoudende aarde, waarover water wordt gegoten. Het zoute water uit de onderste bak wordt in een pan gedaan en gekookt tot het water verdampt is. De achterblijvende kristallen worden in bladeren verpakt en op de markt verkocht. De pan waarin het zout water gekookt werd was niet te koop (informatie verkoper)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#identifier> "TM-4081-16c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#material> "Hout ; boombast ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-16c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

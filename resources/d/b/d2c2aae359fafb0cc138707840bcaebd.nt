@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#name> "POLITIEKE POSTER GETITELD \"22 BAHMAN\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#description> "De titel '22 bahman' verwijst naar de dag dat het Pahlavi regime omver geworpen werd.\r\nOntworpen door Mas'ud Qandi. De titel van het werk en naam van de kunstenaar zijn in het Farsi rechtsonder vermeld. Uitgegeven door (Art Bureau of the) Islamic Propagation Organization." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#identifier> "TM-5134-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#creator> "M. (Mas'ud) Qandi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#creator> "Islamic Propagation Organization" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-36> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#name> "HOUTEN LEPEL VOOR HET OPSCHEPPEN VAN SAGOPAP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#description> "De lepel heeft een eivormig lepelblad dat enigszins uitgehold is. De steel is in de eerste geleding uitgekerfd met een motief van concentrische ruiten. In de volgende geleding zijn kleine driehoekjes uitgekerfd. Nu volgen nog vier geledingen die worden gemarkeerd door ingekerfde lijnen dwars over de steel. De hoeken zijn iets ingekeept. Aan de achterkant van de steel zien we twee concentrische ruitmotieven en een concentrische spiraal." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#identifier> "TM-3311-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3311-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

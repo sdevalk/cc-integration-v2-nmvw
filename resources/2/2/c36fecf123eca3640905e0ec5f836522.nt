@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#name> "JAK IN ABSTRACTE MOTIEVEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#description> "Jakje dat een ensemble vormt met de rok van het vorige nummer. Ze zijn beide gebatikt in abstracte Indonesische motieven. De set was een geschenk van Bi Oei Parmana Dewi.\r\nHet setje is gemaakt in een Indonesische batikkerij en was bestemd voor alle culturele groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#identifier> "TM-5663-1352b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1352b> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

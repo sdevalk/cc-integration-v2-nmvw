@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#name> "KOKERROK MET BOEKETTEN ROZEN OP EEN ACHTERGROND VAN STERBLOEMEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#description> "Geheel blauwe kokerrok met de kepala ('hoofd') met een simpel rozenboeket (buket) op diagonale banen met o.a. kleine cirkels. De badan ('lichaam') heeft identieke boeketten, op een achtergrond van jlamprang (zich repeterende, stervormige bloemen). Boeketten waren oorspronkelijk echt Europese motieven, en de soort afgebeelde bloemen, maar ook dieren, hadden voor verschillende culturele groepen een eigen symboliek (Heringa, 1996:66). De stof is volgens de verzamelaar gemaakt in Pakistan.\r\nDeze (Indo-)Chinese doek was bestemd voor de Indonesische markt en voor de export." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#identifier> "TM-5663-756" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#material> "geglansd katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-756> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

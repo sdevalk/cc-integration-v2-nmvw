@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#name> "ROOSTER (STOKKEN EN DOEK), ONDERDEEL VAN EEN ZOUTINSTALLATIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#description> "Installatie voor het uitdampen van zout uit water, zie voor verdere informatie TM-4081-16a t/m d." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#identifier> "TM-4081-17c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#material> "Hout ; textiel ; raffia ; snijden ; omwinden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-17c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

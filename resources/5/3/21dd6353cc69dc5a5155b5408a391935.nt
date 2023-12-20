@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-15a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-15a> <https://colonialcollections.nl/schema#name> "LANG SLANK MEISJESJAKJE BESCHILDERD MET BLOEMEN, ZIGZAGLIJNEN EN FLORALE MOTIEVEN, ONDERDEEL VAN EEN MEISJESPAK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-15a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-15a> <https://colonialcollections.nl/schema#identifier> "TM-5194-15a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-15a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-15a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

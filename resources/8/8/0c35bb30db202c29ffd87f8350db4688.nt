@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN SENUFO BALAFOON MUZIKANT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#description> "De hoed met veren mag uitsluitend door de Senufo balafoon muzikanten gedragen worden. Een balafoon is een type xylofoon.\r\nDeze opname is vermoedelijk gemaakt tijdens de feestelijkheden rondom het bezoek van president Felix Houphouët-Boigny aan Korhogo op een nationale feestdag. Boigny was van 1960 tot aan zijn dood in 1993 president van Ivoorkust." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#identifier> "TM-20012744" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#creator> "D. Meenhorst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20012744> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

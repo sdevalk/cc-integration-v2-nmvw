@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#name> "KRUIK MET EEN POEMA OF POEMAGOD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#description> "Kruik met een schildering van een poema met antropomorfe ledematen (misschien een Poemagod) met een speer in de handen. De koppen zijn omhoog gericht. Op het lijf zijn kleine witte voluten geschilderd. Mogelijk een weergave van ontspruitende planten. De kartelrand onder de nek duidt eveneens op een godheid. Dit komt als code bij meerdere Andes-culturen voor.\r\nEen verticale chevronband scheidt de beide panelen. Dit motief zou water kunnen symboliseren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#identifier> "TM-3499-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-8> <https://colonialcollections.nl/schema#yearCreatedStart> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .

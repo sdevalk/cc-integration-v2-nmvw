@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <https://colonialcollections.nl/schema#name> "HOUTEN SPEER MET PUNT VAN OBSIDIAAN EN SIERSNIJWERK MET KROKODILLENKOPPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <https://colonialcollections.nl/schema#description> "Een lemmet van obsidiaan is bevestigd aan een houten schacht. De verbinding wordt bedekt met zwart gemaakte omwindingen. Hierin worden de onrnamenten aangebracht.\r\nObsidiaan werd gedolven uit diepe putten of schachten, waarin een aantal mannen soms dagenlang werkten. In de avonduren werkten zij soms door bij het licht van toortsen (Ohnemus,p. 436)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <https://colonialcollections.nl/schema#identifier> "TM-2069-19" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2069-19> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <https://colonialcollections.nl/schema#name> "PLASTIC ETUI MET TWEE VERSCHILLENDE BIDPRENTEN DAT MEN BIJ ZICH DRAAGT TER VERERING EN BESCHERMING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <https://colonialcollections.nl/schema#description> "Plastic etui met bidprenten van de Heilige Judas Taddeus, één van de apostelen maar niet Judas de verrader, en van de Heilige Drieëenheid, met gebeden in het Spaans." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <https://colonialcollections.nl/schema#identifier> "TM-5290-149" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-149> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

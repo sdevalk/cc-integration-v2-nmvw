@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#name> "DOOS MET OVERSCHUIVEND DEKSEL VAN GEVLOCHTEN PANDANBLAD MET TUMPALMOTIEF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#identifier> "TM-1468-72" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#locationCreated> "Pulau Waigeo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Waigiu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Waigeu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Waigeoe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Waigeo Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Waigeo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Waigen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Pulau Waigoe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-72> <https://colonialcollections.nl/schema#alternateName> "Pulau Waigeo" .

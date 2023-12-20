@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <https://colonialcollections.nl/schema#name> "SUIKERVORM (C) VAN (ZES SUIKERVORMEN A TM F)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Indonesie Oost Sumatra Subolangit (plateau en plaats tussen Medan en Oostelijke oever Tobameer)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <https://colonialcollections.nl/schema#identifier> "TM-3401-1403c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1403c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

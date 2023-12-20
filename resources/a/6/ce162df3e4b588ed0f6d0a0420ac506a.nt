@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#name> "MAN BIJ ZIJN TIJDELIJKE CONSTRUCTIE VOOR BEWONING IN HET NET ONTGONNEN BUNYALA BOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#description> "Voor de ontginning van landbouwgronden werden de bomen in het Bunyale bos gekapt. Deze nieuwe landbouwgronden waren dringend nodig voor de snel groeiende bevolking. In het eerste jaar na de kap werden er nog geen huizen gebouwd in het gebied. Om toch enigszins beschermd te zijn tegen zon en regen werden er tijdelijke constructies neergezet, zoals hier bestaand uit een soort dak op palen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#identifier> "TM-20014344" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#creator> "Dhr. I. (Iman) Bijleveld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014344> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

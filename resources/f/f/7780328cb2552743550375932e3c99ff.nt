@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#name> "HAK MET HOUTEN STEEL EN IJZEREN BLAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#description> "Hak met houten steel en ijzeren kling of blad. Het ijzer is gekocht en het tot gereedschap maken is thuis gedaan.\r\nDe Mexicaanse boer bezit meerdere werktuigen  zoals hakken, schoffels en sikkels om zijn land te bewerken. De 'coa' wordt gebruikt bij het planten; er worden ondiepe gaten mee gegraven, waarin vervolgens de zaden gelegd worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#identifier> "TM-3357-46" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <https://colonialcollections.nl/schema#name> "MAT MET VOORSTELLING VAN EEN SCHIP IN DE VORM VAN EEN DIER, WAAROP EEN (LEVENS-)BOOM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <https://colonialcollections.nl/schema#description> "Het schip heeft als voorstelling een grote betekenis, waarschijnlijk gerelateerd aan voorouderverering (de zielen keren terug met de boot waarin ze 'begraven' worden). In verschillende vormen en betekenissen, maar telkens wel gebruikt bij speciale gelegenheden komt het schip voor.\r\nDeze mat werd gebruikt in de bruidsceremonie, misschien een trouwkado van de familie van de bruidegom aan de familie van de bruid en om gebruikt te worden om op te hangen in de bruidsvertrekken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <https://colonialcollections.nl/schema#identifier> "TM-1772-497" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-497> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <https://colonialcollections.nl/schema#name> "DEEGPERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <https://colonialcollections.nl/schema#description> "De pers werd door de schenker spaghetti-stamper genoemd. De pers wordt echter eerder voor deegslierten gebruikt.\r\nDe pers is door de schenker in 1972 ter plekke gekocht op het eiland Lamu voor de kust van Kenya." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <https://colonialcollections.nl/schema#identifier> "TM-5473-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5473-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

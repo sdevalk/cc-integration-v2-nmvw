@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <https://colonialcollections.nl/schema#name> "WAJANGPOP: EEN VROUW MET PIJLKOKER, VERMOEDELIJK SRIKANDI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <https://colonialcollections.nl/schema#description> "Dit is een vreemde pop. Het gezicht doet denken aan dat van een man. Maar de kleding en haardracht zijn die van een vrouw. De pijlenkoker  zou een verwijzing kunnen zijn naar Srikandi, de prinses die wil leren boogschieten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <https://colonialcollections.nl/schema#identifier> "TM-4242-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4242-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

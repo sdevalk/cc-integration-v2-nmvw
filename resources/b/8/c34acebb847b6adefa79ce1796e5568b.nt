@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <https://colonialcollections.nl/schema#name> "CEREMONIEEL KLEED, GEBRUIKT DOOR MEDICIJNMAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <https://colonialcollections.nl/schema#description> "Het kleed maakt deel uit van een set van voorwerpen, die gebruikt worden door een medicijnman. Vermoedelijk om er ceremoniële attributen op te plaatsen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <https://colonialcollections.nl/schema#identifier> "TM-3429-8a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3429-8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

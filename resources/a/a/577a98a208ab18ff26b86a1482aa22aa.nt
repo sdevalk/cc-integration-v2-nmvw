@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#name> "ZIJDEN KOKERROK MET INSLAGIKAT EN GOUD- EN ZILVERDRAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#description> "Balinese doek die gedragen wordt bij ceremoniële gelegenheden. Weefwerk in goud- en zilverdraad wordt songket genoemd (Pelras, 1962:229).\r\nTwee rijen wayang-figuren zijn in beeld en spiegelbeeld geweven. Er boven bevinden zich draakachtige vormen. Langs de korte zijden een brede rand in goud- en zilverdraad met een ruitmotief en gelijkbenige driehoeken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#identifier> "TM-1772-1506" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-1506> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

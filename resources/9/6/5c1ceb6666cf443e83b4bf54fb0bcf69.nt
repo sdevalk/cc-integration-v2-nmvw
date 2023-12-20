@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#name> "DRILBOOR VOOR HET BEWERKEN VAN HOUTEN VOORWERPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#description> "Met een draaiende beweging wordt het touw om de as gewonden, waarna men de boor, door op het dwarshout te duwen, laat draaien. Als gevolg van de werking van het vliegwiel, windt het touw zich na draaiing vanzelf weer om de stok, zodat de handeling zich herhaalt.\r\nDit apparaat wordt gebruikt om houten voorwerpen te doorboren. Het is handgemaakt gereedschap." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#identifier> "TM-3393-1a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; sisal ; steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#locationCreated> "Sahara" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#alternateName> "Great Desert"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#alternateName> "Sahara Desert"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#alternateName> "Sahra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3393-1a> <https://colonialcollections.nl/schema#alternateName> "Sahara" .

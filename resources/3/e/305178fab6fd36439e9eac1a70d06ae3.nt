@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <https://colonialcollections.nl/schema#name> "PLAT HOUTEN LATJE VAN EEN GARENWINDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <https://colonialcollections.nl/schema#description> "Garenwinder of haspel bestaande uit kruisvormig deel, ronde puntige stok, midden verdikte stok met gat en platte houten latjes. De garenwinder wordt gebruikt voor het maken van kleine bollen van wol tot streng of van een streng tot grote bollen. De garenwinder wordt met behulp van touwtjes in elkaar gezet." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <https://colonialcollections.nl/schema#identifier> "TM-4318-438g" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-438g> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

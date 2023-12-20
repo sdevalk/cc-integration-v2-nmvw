@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#name> "Wikkelrok DOOR THE TJIEN SING MET BOEKETTEN CHRYSANTEN, VOGELS EN VLINDERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#description> "Wikkelrok met boeketten chrysanten, vogels en vlinders; één helft is ondersteboven afgebeeld. Alles op truntum (geometrisch patroon).\r\nDe doek is gemaakt in een Indo-Chinese batikkerij en was bestemd voor alle culturele groepen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#identifier> "TM-5663-1324" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#creator> "The Tjien Sing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1324> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

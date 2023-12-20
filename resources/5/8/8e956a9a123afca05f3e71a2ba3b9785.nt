@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#name> "DE REUS KUMBAKARNA, BROER VAN RAWANA, IN GEVECHT MET APEN EN DEMONEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#description> "Een scène uit het Ramayana. De strijd tussen het leger van de apenvorst Sugriwa tegen het leger van Rawana. In het midden de reus Kumbakarna, in gevecht met apen. Linksboven de generaal van de apen, Hanuman." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#identifier> "TM-3555-57" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#material> "aquarel en potlood op doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3555-57> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

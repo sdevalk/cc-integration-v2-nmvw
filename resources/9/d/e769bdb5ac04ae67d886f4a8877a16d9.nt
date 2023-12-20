@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#name> "METALEN SPELD ALS ERETEKEN, MET HET OPSCHRIFT 'BONI 1859'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#description> "Speldje, ereteken, met opschrift: 'Boni 1859', vermoedelijk van een officier van gezondheid geweest (22/1/1937), gezien een bijgevoegde aantekening." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#identifier> "TM-4108-248" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#yearCreatedEnd> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4108-248> <https://colonialcollections.nl/schema#yearCreatedStart> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .

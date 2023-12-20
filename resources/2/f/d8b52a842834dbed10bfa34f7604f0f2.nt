@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <https://colonialcollections.nl/schema#name> "BOEK VOOR HET EERSTE LEESONDERWIJS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <https://colonialcollections.nl/schema#description> "Deel 2a van de leesmethode \"Ons eigen leesboek\" voor het eerste leesonderwijs aan kinderen in Suriname is getiteld \"Loes haalt rijst \" (3e druk). Geschreven door Anne de Vries met illustraties van Corrie van der Baan. Dijkstra's uitgeverij, Zeist NV." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <https://colonialcollections.nl/schema#identifier> "TM-3668-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

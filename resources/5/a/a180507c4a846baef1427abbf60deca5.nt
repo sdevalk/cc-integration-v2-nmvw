@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#name> "HOUTEN VORM VOOR KOEKJES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#description> "Deze houten vorm wordt gebruikt om koekjes mee te maken, in het bijzonder ma'amoul. Ma'amoul is een koekje van zanddeeg gevuld met gehakte dadels of noten, zoals walnoten of pistachenoten, en bestrooid met poedersuiker. De vorm geeft aan welke vulling gebruikt is; dit type vorm wordt meestal gebruikt voor notenkoekjes. De koekjes worden vooral gegeten op christelijke en islamitische feestdagen zoals Pasen of het Suikerfeest (Eid al-Fitr). Ma'amoul zijn vooral bekend in de Levant." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#identifier> "TM-4345-137" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#material> "Hout; gesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4345-137> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

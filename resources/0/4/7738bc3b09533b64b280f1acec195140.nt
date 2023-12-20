@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#name> "DOOS IN DE VORM VAN EEN ZWIJN OM WIEROOK IN TE BEWAREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#description> "Helft van een doosje in de vorm van een zwijn om wierook in te bewaren, met bijbehorend kistje. \r\nDit voorwerp wordt gebruikt tijdens de theeceremonie of chanoyu (streepje boven de u), het geritualiseerde theedrinken afkomstig uit China en rond 1500 geïntroduceerd in Japan. Zeer stricte regels worden hierbij nageleefd m.b.t. de te gebruiken voorwerpen en handelingen. Alles draait daarbij vooral om esthetiek. De kogo wordt gebruikt om wierook in te bewaren, welke in een brander wordt verbrand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#identifier> "TM-4133-233a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-233a> <https://colonialcollections.nl/schema#yearCreatedStart> "1695"^^<http://www.w3.org/2001/XMLSchema#integer> .

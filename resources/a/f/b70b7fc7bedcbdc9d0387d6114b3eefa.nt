@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <https://colonialcollections.nl/schema#name> "BESCHILDERD HOUTEN BEHENDIGHEIDSSPEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <https://colonialcollections.nl/schema#description> "Een behendigheidsspel dat bestaat uit een houten handvat waar een kleine ton aan is bevestigd middels een touwtje. Het tonnetje moet op het handvat worden gewipt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <https://colonialcollections.nl/schema#identifier> "TM-4365-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4365-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

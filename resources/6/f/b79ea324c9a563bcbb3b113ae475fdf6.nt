@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#name> "INSTRUMENT VOOR HET VERVORMEN VAN DE SCHEDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#description> "Met deze schedelvervormer kan een kinderschedel, met name bij meisjes, worden vervormd naar wat geldt als een schoonheidsideaal. Een kind van een paar dagen oud krijgt de schedelvervormer op het hoofd aangebracht, meestal als het slaapt. Door de benen ring aan te draaien wordt uiteindelijk het voorhoofd platter, en de schedel enigszins verlengd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#identifier> "TM-5530-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#material> "hout ; katoen ; been ; glaskralen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#locationCreated> "Sarawak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#alternateName> "Sarawak Negeri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5530-1> <https://colonialcollections.nl/schema#alternateName> "Serawak" .

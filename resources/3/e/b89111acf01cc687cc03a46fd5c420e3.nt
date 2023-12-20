@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#name> "MILITAIREN IN EEN JEEP VOOR EEN BIOSCOOP MET EEN AFFICHE VOOR DE FILM \"MR. LUCKY\" UIT 1943 MET CARY GRANT EN LARAINE DAY" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#description> "Militairen in een jeep voor een bioscoop in Jakarta, met affiche voor de film \"Mr. Lucky\" uit 1943 met Cary Grant en Laraine Day. Gelet op het bord \"Parkeerplaats voor auto's. VIOS veld\" is de foto genomen in de buurt van de voetbalvereniging VIOS (Voorwaarts Is Ons Streven)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#identifier> "TM-10029130" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#creator> "Cees Taillie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10029130> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

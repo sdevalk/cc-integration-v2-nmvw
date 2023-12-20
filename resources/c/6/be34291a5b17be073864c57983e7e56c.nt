@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#name> "POLITIEKE POSTER GETITELD \"BEHESHT-E ZAHRA\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#description> "Behesht-e Zahra is een bekende begraafplaats voor martelaren in Teheran. De poster is een reproductie van een muurschildering van Hamid Ghadirian met een grootte van 200 x 140 (info literatuur). Het stempel linksonder bevat de datum 1360 (Perzische kalender), dit komt overeen met het jaar 1981-82 van de christelijke jaartelling. Uitgegeven door (Art Bureau of the) Islamic Propagation Organization." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#identifier> "TM-5134-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#creator> "H. (Hamid) Ghadirian" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#creator> "Islamic Propagation Organization" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5134-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

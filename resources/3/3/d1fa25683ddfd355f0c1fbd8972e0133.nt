@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#name> "KALEBASKOM MET INGEKRASTE VERSIERINGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#description> "Kalebas eet- en drinkkom, tevens gebruikt als waterschepper, vermoedelijk door een vrouw gemaakt, aangezien van binnen versierde kalebassen door vrouwen worden gemaakt (Dark, 1931:40). Dergelijke eet- en drinkkommen worden door Marrons en Indianen gebruikt; onderhavig exemplaar toont een Marronpatroon dat met een vingernagel is aangebracht terwijl de kalebas nog zacht was." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#identifier> "TM-3572-13" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#material> "kalebas ; bewerking van plantaardige materialen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3572-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <https://colonialcollections.nl/schema#name> "DUBBELVELLIGE ZANDLOPERVORMIGE TROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <https://colonialcollections.nl/schema#description> "Deze houten zandlopervormige trom heeft twee vellen van duikerhuid, die door middel van houten pennetjes op het tromlichaam zijn bevestigd. Op het vel zijn resten te zien van stem-pasta, waarschijnlijk was of hars. In weerszijden van het klanklichaam met 3 handvatten zijn geometrische motieven gekerfd. \r\nTussen twee handvatten is een gat gemaakt, waarin een z.g. klankhoorntje (4065-7b) past.\r\nDe trom wordt horizontaal gehouden en met de handen bespeeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <https://colonialcollections.nl/schema#identifier> "TM-4065-7a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4065-7a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

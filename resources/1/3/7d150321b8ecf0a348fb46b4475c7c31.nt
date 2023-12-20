@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#name> "BLAUW-WITTE SLAAPBROEK MET DIERFIGUREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#description> "Voor Europeanen bestemde slaapbroek met diagonale stroken (garis miring) gevuld met fantasiedieren, vogels, en banji (variatie swastika) met piring china (Chinees aardewerk: bord). Alles kelengan: in 1 kleurencombinatie, blauw-wit. Aan de bovenkant zit een brede witte band. De rand van de broekspijpen bevat het cerbon-motief tussen meanderende stroken (zie documentatie Veldhuisen)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#identifier> "TM-5663-22" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-22> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

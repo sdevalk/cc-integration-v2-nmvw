@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#name> "BIDPRENT MET DE HEILIGE JUDAS TADDEUS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#description> "Een in vieren gevouwen papier met gebeden in het Spaans. Op de voorzijde staat een afbeelding van de heilige Judas Taddeus. (Niet te verwarren met de verrader Judas Iskariot). Op het prentje staat een gebed en een korte levensbeschrijving van hem (en zijn broer de Heilige Simon, eveneens apostel)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#identifier> "TM-5290-417" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-417> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

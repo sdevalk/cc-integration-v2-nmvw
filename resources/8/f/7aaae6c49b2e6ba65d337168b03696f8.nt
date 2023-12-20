@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#name> "STIJGBEUGELKRUIK IN DE VORM VAN EEN SJAMAAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#description> "Kruik in de vorm van een sjamaan of curandero die in zijn rechterhand een opgerold kleed vasthoudt waarop hij zijn paraphenalia kan zetten, zoals de kruik in de linkerhand (dompelaar of dipper) en de stijgbeugelkruik die aan de doek hangt die hij om de schouder heeft geknoopt. De omgeknoopte doek is een draagdoek waarin hij waarschijnlijk nog meer voorwerpen meevoert." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#identifier> "TM-3499-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3499-5> <https://colonialcollections.nl/schema#yearCreatedStart> "-300"^^<http://www.w3.org/2001/XMLSchema#integer> .

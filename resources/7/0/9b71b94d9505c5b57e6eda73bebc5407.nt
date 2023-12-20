@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#name> "KOPEREN MES OF BIJL, ONGEDECOREERD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#description> "Koperen mes: sikkel vorm met een smal handvat dat met een dwars stuk eindigt. Het kan een ceremonieel mes zijn geweest dat eventueel bij offers is gerbuikt. Maar het kan ook een geld-bijl zijn geweest." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#identifier> "TM-3597-245" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#locationCreated> "Ecuador" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#countryCreated> "Ecuador" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#alternateName> "Republic of Ecuador"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-245> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

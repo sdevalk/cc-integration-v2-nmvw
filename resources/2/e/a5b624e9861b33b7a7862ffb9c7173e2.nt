@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#name> "TAFERELEN UIT HET PANJI-VERHAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#description> "Diverse episoden uit een Panji-verhaal, de zogenaamde Malat. Onder meer wordt de dramatische ontmoeting tussen de kroonprins van Daha en zijn ontvoerde zuster voorgesteld en de dood van de koning van Lasem." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#identifier> "TM-555-24" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#material> "Verf op doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#locationCreated> "Kota Denpasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#alternateName> "Kota Administratip Denpasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-24> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Denpasar" .

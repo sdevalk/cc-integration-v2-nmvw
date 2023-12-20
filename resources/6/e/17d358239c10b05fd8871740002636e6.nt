@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#name> "VROUW BEZIG MET HET SCHEIDEN VAN HET KAF VAN DE GIERSTKORRELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#description> "De gierstsoort die hier gebruikt wordt is de zogenaamde 'finger millet'. Nadat het is losgestampt laat men de kafjes wegwaaien door de korrels van schaal naar schaal over te gieten. Daarna worden de korrels gemalen. \r\nIn de achtergrond zijn kippenhokken op palen zichtbaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#identifier> "TM-20014733" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#creator> "Drs. H.F.W. (Hendrik Frederik Willem) Bantje" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014733> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

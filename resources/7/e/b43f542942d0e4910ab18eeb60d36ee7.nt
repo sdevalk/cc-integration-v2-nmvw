@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#name> "BEWIJS VAN HUWELIJKSVOLTREKKING TUSSEN DANIEL BOOKELAAR EN VICTORINE AMELIA ZALEMAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#description> "Op het document is later geschreven: 'Jannetje Victorina Amelia Bookelaar is geboren in 1866 - 1 januari'. En links 'V.A. Zaleman: overleden 25 december 1880'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#identifier> "TM-5430-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5430-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#name> "PORTRET VAN SHEIKH ABDEL LATIF DIRAZ, CONRECTOR VAN DE AL-AZHAR UNIVERSITEIT IN CAIRO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#description> "In de Islam-afdeling van het Tropenmuseum stond een pop die Sheikh Abdel Latif Diraz (ook gespeld Daraz) voorstelde. Dit is een fotoportret van hem dat waarschijnlijk als voorbeeld heeft gediend bij het maken van de pop.\r\n(Otto, 2007)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#identifier> "TM-10030216" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10030216> <https://colonialcollections.nl/schema#yearCreatedStart> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#name> "HOUTEN DOOS MET DEKSEL, RONDOM EEN VOORSTELLING IN RELIËF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#description> "Een inrō is een houder voor kleine objecten die men dagelijks met zich mee wilde nemen (zoals medicijnen, zegels, rook- en/of schrijfgerei) en die men, bij gebrek aan zakken in de traditionele kleding, met een koordje bevestigde aan de obi (gordel)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#identifier> "TM-4133-234a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#material> "Hout ; lak ; goudverf ; koord ; metaal ; snijden ; lakken ; met de hand vervaardigd ; nieten ; reliëftechniek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4133-234a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

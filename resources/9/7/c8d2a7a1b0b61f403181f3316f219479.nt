@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#name> "KATOENEN SCHOUDERDOEK MET FLORALE MOTIEVEN EN RODE BORDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#description> "Lange rechthoekige schouderdoek, met rode sierrand en crèmekleurig binnenvlak, dat gevuld is met florale motieven en vogels. De randen bevatten eveneens bloemen en vlinders op een ukel-basis (kleine ranken). De uiteinden hebben imitatie-franje: seret. De doek was bestemd voor de export naar Sumatra." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#identifier> "TM-5663-460" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-460> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

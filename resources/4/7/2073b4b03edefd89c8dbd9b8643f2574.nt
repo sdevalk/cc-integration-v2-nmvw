@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN BELLA VROUW NABIJ GOROM-GOROM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#description> "De Bella zijn sedentaire veetelers en leven in het gebied van Gorom-Gorom. Deze plaats ligt in het noorden van Burkina Faso, vlak bij de Sahara en betekent 'jij gaat zitten (en) wij gaan zitten' (2004). Iedere week komen er grote groepen Tuaregs, Bella, Fula, Peul etc. op haar markt bijeen. Van deze vrouw bestaan nog twee portretten onder inventarisnummer 20010122 en 20010123." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#identifier> "TM-20010124" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#creator> "Johan Theodorus Broekhuijse" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010124> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

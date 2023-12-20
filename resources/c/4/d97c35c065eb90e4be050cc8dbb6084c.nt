@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#name> "BIDPRENT MET HET HEILIGE KRUIS EN EEN GEBED TOT DE MAGNETISCHE STEEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#description> "Bidprentje met afbeelding van het H. Kruis en gebed tot de magnetische steen, plus gebruiksaanwijzing in het Spaans." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#identifier> "TM-5290-529" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-529> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#name> "AMULETHANGER MET INSCRIPTIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#description> "Driehoekige verzilverde amulethanger met op de voorzijde de Arabische tekst 'ma shaa' Allah' (wat God wil). Deze uitdrukking wordt gebruikt om bewondering te uiten en zo eventuele gevoelens van afgunst, het zg. boze oog, te neutraliseren. De achterzijde van de hanger is ongegraveerd.\r\n\r\nDe hanger wordt als sieraad en amulet gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#identifier> "TM-4318-121" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#material> "koperlegering ; verzilveren ; niëllo-techniek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

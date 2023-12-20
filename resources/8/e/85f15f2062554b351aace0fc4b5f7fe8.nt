@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <https://colonialcollections.nl/schema#name> "HOUTEN DANSMASKER MET SLANGEN EN DE TONG UIT DE MOND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <https://colonialcollections.nl/schema#description> "Masker met slangen en tong uit de mond. \r\nVermoedelijk is het een uitbeelding van de duivel (de slang) en een van de vele autochtone goden (de tong uit de mond wijst daarop)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <https://colonialcollections.nl/schema#identifier> "TM-3357-62" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-62> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

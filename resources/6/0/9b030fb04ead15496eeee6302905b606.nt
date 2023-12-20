@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BEELD VAN EEN STAANDE VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#description> "Beeld van een staande vrouw die de armen opgeheven houdt. Zij is geheel zwart geschilderd. Dit kan lichaamsbeschildering zijn of mogelijk een aanduiding van kleding. Om het middel loopt een band of ceintuur met een 'zandloper'-motief. Voorop de schouders staan twee witte diagonalen, die eventueel tupus of kledingspelden kunnen voorstellen. Onder de ogen zijn stepen geschilderd.\r\nDeze beelden waren vaak voorzien van kleding. Ze worden in paren in schachtgraven geplaatst en bevinden zich dan in het schachtgedeelte." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#identifier> "TM-3501-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3501-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

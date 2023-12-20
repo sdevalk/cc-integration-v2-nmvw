@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#name> "KATOENEN GEGLANSDE KOKERROK MET BOEKETTEN EN LOSSE BLOEMENTAKJES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#description> "De badan ('lichaam') heeft driemaal het boeket van de kepala ('hoofd'), met o.a. lelies en kleine bloemen. Boeketten waren oorspronkelijk echt Europese motieven, en de soort afgebeelde bloemen, maar ook dieren, hadden voor verschillende culturele groepen een eigen symboliek (Heringa, 1996:66)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#identifier> "TM-5663-764" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#locationCreated> "Pekalongan Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#alternateName> "Pekalongan Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#alternateName> "Pekalongan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-764> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

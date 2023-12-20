@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#name> "Kokerrok MET  KRAB, VOGELS, BLOEMEN, SCHORPIOENEN EN ZEEWIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#description> "Noordkust, Peranakan batik, te herkennen aan de 'zee' motieven: zeewier (ganggeng), dat vruchtbaarheid en het herboren worden symboliseert; krabben, vissen, dieren, schorpioenen en vissen. De kepala ('hoofd') is in garis miring, verschillend gekleurde diagonale banen met florale motieven. De informant noemt het patroon bang biru orang ayu. De doek was machinaal genaaid, maar is nu open, en was bestemd voor de Indo-Europese, -Chinese afneemsters en voor de export." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#identifier> "TM-5663-392" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-392> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
