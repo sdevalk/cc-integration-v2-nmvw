@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#name> "PROJECTIEPANEEL EN GELUIDSDOUCHE VOOR TENTOONSTELLINGS-AV BIJ ONDERDEEL BODY & SOUL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#description> "Hier wordt vertoond:\r\nfilmfragment getiteld \"Grafkist van Kane Kwei\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#identifier> "TM-M-387" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#creator> "Thierry Secretan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-M-387> <https://colonialcollections.nl/schema#yearCreatedStart> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .

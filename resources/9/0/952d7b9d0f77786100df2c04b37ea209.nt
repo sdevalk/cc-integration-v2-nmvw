@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#name> "KETTING VAN SCHIJFJES STRUISVOGELEI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#identifier> "TM-ib-2006-65-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#locationCreated> "Cairo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "El-Qâhira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "El Kahirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "Masr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "Le Caire" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "Al Qāhirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "Misr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2006-65-4> <https://colonialcollections.nl/schema#alternateName> "El Kahira" .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN EEN SLANGENBEET BESTAANDE UIT EEN KATOENEN ZAKJE MET POEDER (A), EEN BUNDEL WORTELDELEN (B) EN TWEE STUKKEN SLANGENHUID (C)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen een slangenbeet, inheemse benaming hiervan is Miè. De schors van de wortel van de Kirsjé-boom en schors van de stam van dezelfde boom worden samen met de gedroogde koppen van een Donanti- en een Birislang tot poeder gestampt. Het poeder wordt in een kalebas gemengd met water en te drinken gegeven. Met het restant van het poeder wordt de plek van de beet ingesmeerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#identifier> "TM-3912-1127c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#material> "huid (dierlijk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1127c> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

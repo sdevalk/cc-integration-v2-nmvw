@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <https://colonialcollections.nl/schema#name> "HOUTEN KLAVIERSLOT VAN WONINGEN VAN DE SARAMAKANEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <https://colonialcollections.nl/schema#description> "De decoratie van Marronwoningen heeft haar oorsprong bij de Saramakaner (Saamaka) in de tweede helft van de 19e eeuw. Sindsdien hebben Marrons geëxperimenteerd met een breed scala aan decoratieve technieken, zoals houtsnijwerk, beschilderingen en applicaties op hout. Vele huisfronten zijn omgeturnd tot ware kunstwerken. Gedurende de laat 19e en begin 20e eeuw werden deursloten een populair esthetische evenals mechanische uitdaging voor Marron houtsnijders (Price & Price, 1980:100)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <https://colonialcollections.nl/schema#identifier> "TM-H-2852" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2852> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

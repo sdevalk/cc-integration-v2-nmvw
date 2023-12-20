@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#name> "FILMAFFICHE \" DE STROOM VAN HET LEVEN\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#description> "Regisseur: Hasan Rida\r\nActeurs: Salah Qabil/ Mouna Mouraad/ Abdel Gani Qamar/ Abu Bakr 'Izzat\r\n \r\nKorte inhoud: Een meisje uit een arm gezin wordt door haar vader gedwongen om met een veel ouder man te trouwen. De man blijkt  gierig, wreed en impotent te zijn waar het meisje helemaal niks voor voelt. Het meisje wordt verliefd op een jongen die ze nog van vroeger kent en krijgen een relatie. Haar man komt  hierachter en probeert haar tijdens een boottocht te laten verdrinken. Haar geliefde heeft haar nog maar net kunnen redden. De boot, waarin haar man nog inzat, kapseisde en hij verdrinkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#identifier> "TM-6194-30" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#locationCreated> "Cairo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "Misr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "Masr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "El Kahira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "Le Caire" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "El-Qâhira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "El Kahirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#alternateName> "Al Qāhirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6194-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

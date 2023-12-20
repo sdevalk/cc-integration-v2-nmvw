@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#name> "ZILVEREN SCHUIER EN BLIK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#description> "Dit motief is afgeleid van decoraties op de Candi Sewu of de Candi Mendut." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#identifier> "TM-6326-6b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#material> "Yogya zilver ; hout ; kunststof ; metaalbewerken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6326-6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <https://colonialcollections.nl/schema#name> "DOOS MET 87 JAPANSE PLATEN VOORSTELLENDE JAPANSE VROUWEN, LANDSCHAPPEN EN HUISELIJKE TAFERELEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <https://colonialcollections.nl/schema#identifier> "TM-A-7985" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <https://colonialcollections.nl/schema#material> "De platen bestaan uit prenten en tekeningen. Het zijn uitvouwbare plaatjes voor kinderen. Een drietal is op lap bedrukt, de overige alleen op papier. Een drietal platen zijn kaarten en plattegronden, waarvan twee in kleuren gedrukt en een derde in zwart wit. Vier platen bevatten afbeeldingen van diverse kapsels voor mannen vrouwen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7985> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#name> "PRENTBRIEFKAART MET EEN FOTO VAN DE PASAR BAROE-BRUG BIJ DE SCHOUWBURG, BATAVIA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#identifier> "TM-60011204" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#creator> "Toko Tio Tek Hong" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60011204> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

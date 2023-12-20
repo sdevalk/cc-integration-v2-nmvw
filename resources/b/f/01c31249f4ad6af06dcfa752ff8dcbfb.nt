@@ -1,0 +1,5 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-258> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-258> <https://colonialcollections.nl/schema#description> "KIT\r\nAmst. boek- en steendrukkerij v/h Ellerman, Harms & Co., Amsterdam 1918\r\n\r\nTrefwoorden:\r\nmedicine; tropical diseases; medical research; research centres; training and research institutions; netherlands." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-258> <https://colonialcollections.nl/schema#identifier> "TM-6504-258" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-258> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

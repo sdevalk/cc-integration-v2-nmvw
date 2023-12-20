@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KRUIK MET GEOMETRISCHE DECORATIE OF GESTILEERDE GEZICHTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#description> "Kruik waarvan de hals is afgebroken, met een geometrische schildering of twee gestileerde gezichten. De motieven bestaan uit ovalen met daarbinnen een ovaal rond twee horizontale lijntjes. Telkens flankeren twee grote ovalen een kleine ovaal op een knobbel. De knobbel zou een neus kunnen voorstellen en de twee flankerende ovalen de ogen. Onder de neus is een rechthoek geschilderd, die de mond kan voorstellen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#identifier> "TM-3842-131" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#material> "Aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-131> <https://colonialcollections.nl/schema#yearCreatedStart> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .

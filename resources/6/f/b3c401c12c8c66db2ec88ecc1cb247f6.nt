@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN INDISCHE FAMILIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#description> "De familie Douwe Bosma. Vader Douwe en moeder met vijf kinderen: Atze, Jeltje, Gerard, Annie en Dicky. \r\nAtze Cornelis, de oudste zoon had een andere (Chinese) moeder Swan Jo Tan. Hij werkte later als chirurg in Enschede en was daar een van de eersten die lachgas gebruikte. Hij overleed op 8 februari 1964 te Enschede (bron: Collectie Overijssel, BS Overlijden Enschede, registers van overlijdens, Enschede, archief 123.2, inventaris­num­mer 20369, 10 februari 1964, aktenummer 146)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#identifier> "TM-60044603" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044603> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

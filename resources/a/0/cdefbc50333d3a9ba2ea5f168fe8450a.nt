@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#name> "MILITAIREN VAN HET KNIL OPGESTELD IN SLAGORDE, MET HUN OFFICIER IN HET MIDDEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#description> "Op deze foto zijn militairen van het KNIL te zien, opgesteld in slagorde. Ze staan in twee rijen opgesteld rondom hun officier. De foto is waarschijnlijk genomen in Atjeh (Aceh)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#identifier> "TM-60036641" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60036641> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

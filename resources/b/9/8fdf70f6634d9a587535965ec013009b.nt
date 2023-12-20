@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#name> "VOETBALLER DIDIER DROGBA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#identifier> "TM-R-2466" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#inscription> "r.b. AFRICA No.1\r\nm.l. DIDIER DROGBA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#creator> "dhr. I. (Isaac) Okyere Azey" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-2466> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .

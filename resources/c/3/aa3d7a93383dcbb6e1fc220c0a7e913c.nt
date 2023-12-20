@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#name> "KLEURENHOUTSNEDE VOORSTELLENDE EEN KIMONO OVER EEN REK HANGEND, EEN TAK MET PRUIMENBLOESEM EN GEDICHTEN." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#description> "Haikai surimono met daarop een voorstelling van een kimono op een standaard (ikô) voor een rood raam waarachter een pruimentak (ume) is te zien. Links staan twaalf haiku, gedichten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#identifier> "TM-3728-49" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#material> "papier, inkt, pigmenten ; kleurenhoutsnede" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

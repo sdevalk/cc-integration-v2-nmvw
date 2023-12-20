@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#name> "LEREN SCHEDE BEHOREND BIJ HET IJZEREN JACHTMES MET HOUTEN HEFT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#description> "De schede is gedecoreerd met lijn-, ruit en stippenpatronen. Deze zijn aangebracht met stempels en scherpgepunte stokjes. De schede is aan de achterzijde dichtgenaaid met een leren koord." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#identifier> "TM-3912-733b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#material> "leer ; leerbewerken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-733b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

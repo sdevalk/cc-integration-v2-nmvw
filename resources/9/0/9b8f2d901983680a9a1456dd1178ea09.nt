@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#name> "STRAATMUZIKANTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#description> "Litho naar een tekening van A. van Pers.\r\n\r\nLinksonder: Reizende muzikanten\r\nMiddenonder: Javaanse tekst\r\nRechtsonder: Musiciens voyageant\r\n\r\nLinksonder: A. v. Pers del.\r\nRechtsonder: Kon. St. v. C.W. Mieling" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#identifier> "TM-3728-184" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#creator> "A. (Auguste) Van Pers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-184> <https://colonialcollections.nl/schema#yearCreatedStart> "1853"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#name> "KATOENEN KOKERROK MET BLADMOTIEVEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#description> "Kokerrok, met de badan (lichaam) met grote bladmotieven en de kepala (hoofd) met traditionele tumpal (driehoeken), waartussen vlinders vliegen.\r\nDe rok is door een (Indo-)Europese dame gedragen. De kleurstelling blauw-wit wijzen op rouw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#identifier> "TM-3934-37" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#material> "katoen ; batik met waspen (batik tulis)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

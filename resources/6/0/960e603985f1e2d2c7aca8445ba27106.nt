@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#name> "VIJF FOTO'S GENOMEN IN ZUID-AFRIKA WAAROP ALDERT BRAKKE STAAT AFGEBEELD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#description> "De foto's zijn in 1898 en 1899 in Zuid-Afrika genomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#identifier> "TM-3196-1b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1b> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

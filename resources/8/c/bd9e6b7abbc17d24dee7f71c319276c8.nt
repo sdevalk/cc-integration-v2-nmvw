@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#name> "FILM VOORSTELLENDE INTERVIEW MET DAVID EN NANCY OVER DE COLLECTIE BISJPALEN IN NEDERLAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#description> "Tijdens de film worden foto's uit het foto-album van Carel Groenevelt getoond en collectie uit het Wereldmuseum in Rotterdam." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#identifier> "TM-R-1277" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#creator> "C.M.A. (Carel) Groenevelt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1277> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

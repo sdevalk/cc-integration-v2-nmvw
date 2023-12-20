@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <https://colonialcollections.nl/schema#name> "SPINKAM VOOR HET BEWERKEN VAN DE SCHAPENWOL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <https://colonialcollections.nl/schema#description> "Nadat de wolvezels gewassen en gedroogd zijn, legt men ze enige tijd in zwaveldamp. Vervolgens wordt de wol met de wolkaarde uitgekamd om de korte wol te scheiden van de lange wol. Voor het weefsel worden inslagdraden gesponnen van de korte wol, en van de lange wol worden scheringdraden gesponnen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <https://colonialcollections.nl/schema#identifier> "TM-3782-657" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-657> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

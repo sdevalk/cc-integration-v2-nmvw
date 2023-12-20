@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#name> "DONKERBLAUW WIJDE MANNENBROEK VAN KATOEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#description> "Deze mannenbroek (Seroual qendrisi of arabisch broek genoemd) is aan de taille heel wijd en moet met een band door een schuif op de juiste omtrek gerimpeld worden. De wijde bovenkant is geplooid vastgenaaid aan een stevige brede band. Middenvoor is een gulp genaaid. Een riem door de lussen aan de band houdt de broek om de taille vast. Het model met een zeer wijd kruis is van Perzische afkomst, en hij is bij mannen en vrouwen gelijk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#identifier> "TM-3833-23" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#material> "katoen ; kleurmiddel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

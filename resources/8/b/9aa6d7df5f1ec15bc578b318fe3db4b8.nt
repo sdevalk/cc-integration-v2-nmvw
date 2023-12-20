@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#name> "HOUTEN SCHERM MET VIER GEGLAZUURDE TEGELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#description> "Paneel van donkerbruin hout met daarin vier geglazuurde tegels met valkenjachttaferelen. Aan de voorzijde bevindt zich een voetstuk versierd met houtsnijwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#identifier> "TM-400-69" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-69> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

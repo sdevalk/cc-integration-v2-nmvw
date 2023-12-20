@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#name> "ARMBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#description> "Een armband gemaakt van een lengte palmblad. Op het blad is een vlechtwerk van rotanrepen vastgemaakt. De buitenranden zijn versierd met drievoudige zigzaggende smalle rotanrepen. In het midden is een kronkelende reep te zien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#identifier> "TM-32-14" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#material> "palmblad ; rotan ; gesneden ; gevlochten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

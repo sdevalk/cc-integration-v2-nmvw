@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#name> "BEWERKT STUK HOORN VOOR DE VERVAARDIGING VAN KAARDEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#description> "Stuk hoorn om op het vooreinde van een wolkaarde te monteren. De stukken van de juiste vorm worden uit een hoorn gezaagd met behulp van een zaag. Vervolgens worden de stukken boven een kamfoortje verhit om ze buigzaam te maken en dan worden ze plat en dubbel geperst in een hoornpersapparaat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#identifier> "TM-3782-654" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-654> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

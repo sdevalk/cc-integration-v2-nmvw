@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <https://colonialcollections.nl/schema#name> "DWARSFLUIT VAN BAMBOE, MET 1 VINGERGAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <https://colonialcollections.nl/schema#description> "Bamboe dwarsfluit met aanblaasgat en 1 vingergat. Rond de fluit is katoendraad gewikkeld, dat ingesmeerd is met een harsachtige substantie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <https://colonialcollections.nl/schema#identifier> "TM-3912-491" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-491> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

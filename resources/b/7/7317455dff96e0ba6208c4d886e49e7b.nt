@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#name> "MINIROK MET AFBEELDING VAN H.E. DAWDA KARAIBA JAWARA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#description> "Minirok met afbeelding van H.E. Dawda Karaiba Jawara, Party leader secretary  General P.P.P.: Peace, Progress, Prosperity. Hij was premier van Gambia van 1962-1970, en president van 1970-1994." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#identifier> "TM-6325-71b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-71b> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

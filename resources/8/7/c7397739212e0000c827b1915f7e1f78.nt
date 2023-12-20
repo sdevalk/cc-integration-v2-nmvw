@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#name> "RAMMELAAR IN DE VORM VAN EEN STAANDE VROUW MET KIND OP DE RUG. ZWAAR GERESTAUREERD." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#description> "Zwaar gerestaureerde rammelaar in de vorm van een vrouw met een kind op de rug." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#identifier> "TM-3842-108" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#material> "Aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-108> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

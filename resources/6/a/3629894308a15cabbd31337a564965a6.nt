@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#name> "METALEN ARMBAND MET RELIËFVERSIERING EN VISGRAATMOTIEF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#description> "De inheemse naam 'Zan' betekent 'armband'. De armband is vervaardigd uit een koperalliage en waarschijnlijk a cire perdue gegoten. Het visgraatmotief is later in was opgebracht op het negatief en daarna in één keer gegoten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#identifier> "TM-3912-178" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#material> "koperlegering ; verlorenwasgietprocedé (vermoedelijk)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-178> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

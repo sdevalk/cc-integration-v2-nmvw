@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <https://colonialcollections.nl/schema#name> "HOUTEN KAMERSCHERM MET EEN AFBEELDING VAN DE MYTHISCHE VOGEL GARUDA OF JATAYU" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <https://colonialcollections.nl/schema#description> "Met het wapen van een regent genaamd Tjakradipradja (deze naam staat afgebeeld in de cakra die de vogel in zijn handen heeft). Onder hem een tijger en een hert, symbolen van het kwade en het goede.\r\n\r\nRaden Cakradipraja is mogelijk de 4e zoon van Raden Tumenggung Cakranagara II, heerser van Panjalu, Ciamis.\r\n\r\nHet scherm staat afgebeeld op een prent uit de jaren '60 uit de 19e eeuw.\r\n\r\nOpvallend is de kris in de handen van Garuda. Dat kan een Balinees of Madurees exemplaar zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <https://colonialcollections.nl/schema#identifier> "TM-A-5376" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5376> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

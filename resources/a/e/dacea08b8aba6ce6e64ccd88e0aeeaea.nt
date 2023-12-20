@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <https://colonialcollections.nl/schema#name> "SIRIHKALKHOUDER VAN KOKOSNOOT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <https://colonialcollections.nl/schema#description> "Kalkhouders uit kokosnoot zouden het attribuut zijn van vrouwen; mannen gebruikten een langgerekte kalebas (Van de Sande, pp. 21-22). Kalk werd gebruikt bij het kauwen van de sirih-pruim.\r\n\r\nVervaardiging\r\nKokosnoot, versierd met uitgesneden spiraalmotieven en, zo lijkt het, de gespreide achterpoten van een kikker. Aan de onderzijde een sterfiguur binnen een cirkel.\r\nIn de bovenzijde van de noot zit een rond gat dat afgesloten dient te worden met een houten spatel. In de zijkant zijn twee gaatjes aangebracht voor een ophangkoord." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <https://colonialcollections.nl/schema#identifier> "TM-H-979" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-979> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .

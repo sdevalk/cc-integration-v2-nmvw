@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#name> "EETLEPEL VAN KALEBAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#description> "De eetlepel wordt gebruikt voor water of bouillon. De lepel is vervaardigd uit een kleine kalebas die men overlangs heeft doorgesneden en uitgehold." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#identifier> "TM-3912-232" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#material> "kalebas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-232> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

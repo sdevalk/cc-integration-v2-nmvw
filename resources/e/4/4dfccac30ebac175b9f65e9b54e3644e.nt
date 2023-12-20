@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#name> "GEZICHT OP BERG EN DAL LANGS DE SURINAMERIVIER, VESTIGINGSPLAATS VAN DE MORAVISCHE ZENDING EN HOOFDSTATION VAN DE GOUDZOEKERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#identifier> "TM-60007050" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#creator> "J.E. (Julius Eduard) Muller" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007050> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

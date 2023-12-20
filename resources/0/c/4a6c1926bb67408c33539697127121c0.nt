@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#name> "VERKEER OP DE ROODE BRUG VOOR HET GOUVERNEMENTSGEBOUW IN SOERABAJA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#description> "Op deze prentbriefkaart is een foto van de Rode Brug te zien in Surabaya. Het gebouw op de kop is het Gouvernementsgebouw op de Willemskade." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#identifier> "TM-60021834" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#creator> "H. van Ingen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021834> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

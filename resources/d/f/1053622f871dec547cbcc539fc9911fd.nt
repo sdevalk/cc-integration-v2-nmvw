@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <https://colonialcollections.nl/schema#name> "VLOTCITER VAN BAMBOE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <https://colonialcollections.nl/schema#description> "Deze vlotciter bestaat uit 9 'idiochorde' (de snaar is uit het materiaal zelf gesneden) stokciters die als een vlot zijn samengebonden. De snaren lopen over 2 kammen; door deze te verschuiven kan de toonhoogte veranderd worden.\r\nDit muziekinstrument wordt nu voornamelijk door kinderen bespeeld.\r\n \r\n(Dit soort instrumenten hebben over het algemeen een klankkast, meestal van kalebas; deze ontbreekt hier.)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <https://colonialcollections.nl/schema#identifier> "TM-3925-157" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-157> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

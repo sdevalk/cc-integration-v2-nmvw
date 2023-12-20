@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#name> "TEGELTABLEAU VOORSTELLENDE DE PLAATS BUKIT TINGI TEGENOVER FORT DE KOCK OP SUMATRA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#description> "Staand tegeltableau uitgevoerd in 48 tegels (6x8 van elk 15,5x15,5 cm.). De houten lijst is bedekt met een kunststof sierlaag. \r\nAfgebeeld is een sepiakleurig semi-fotografisch tafereel van een Indisch landschap, in het bijzonder de plaats Boekit Tingi tegenover Fort De Kock op Sumatra.\r\nOp de achterzijde staan de merken van Plateelbakkerij Rozenburg in Den Haag waar het tableau gemaakt is.\r\nRechtsonder gesigneerd: Rozenburg Den Haag." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#identifier> "TM-6115-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6115-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

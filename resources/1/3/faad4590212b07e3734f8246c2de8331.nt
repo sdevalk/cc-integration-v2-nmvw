@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#name> "ARMBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#description> "Een armband gemaakt van een schelp. De binnenkant is glad geslepen. De buitenkant is versierd met, in de breedte, vele V-vormige  inkepingen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#identifier> "TM-H-1918" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#material> "schelp (Conus multipunctatus) ; geslepen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-1918> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .

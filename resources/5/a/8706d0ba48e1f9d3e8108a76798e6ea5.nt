@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#name> "GEGLAZUURDE AARDEWERKEN KOM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#description> "Kom, opgegraven in al-Fustat, oud-Cairo. Al-Fustat is meerdere malen verwoest en is na de destructie door de Mamlukken in 1252 nooit meer opgebouwd. In de resten van de stad zijn veel fragmenten van aardewerk gevonden die dateren vanaf de Arabische verovering van Egypte (642 AD/21 AH). Toch dateert deze kom uit de 14e eeuw." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#identifier> "TM-3793-123" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3793-123> <https://colonialcollections.nl/schema#yearCreatedStart> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .

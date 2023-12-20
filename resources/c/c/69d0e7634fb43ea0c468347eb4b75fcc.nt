@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#name> "GEDEELTE VAN EEN BOEK MET AFBEELDINGEN VAN PLANTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#description> "Japans boek mbt magnolia's. Tokyo daigaku. Meiji 14 (1881)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#identifier> "TM-A-7784b-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7784b-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

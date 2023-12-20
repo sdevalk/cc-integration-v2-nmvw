@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#name> "HET PLOEGEN VAN EEN RIJSTVELD MET EEN SPAN RUNDEREN IN DE OMGEVING VAN BUITENZORG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#description> "Op deze prentbriefkaart is een foto te zien van het ploegen van een rijstveld met een span runderen. De foto is genomen in de omgeving van Buitenzorg, op de achtergrond is de vulkaan Salak zichtbaar." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#identifier> "TM-60047289" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#creator> "Nederlands Volkenkundig Museum Tilburg" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047289> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

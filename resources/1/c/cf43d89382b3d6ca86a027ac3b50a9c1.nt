@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <https://colonialcollections.nl/schema#name> "BLOUSE VAN BEDRUKTE KATOEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <https://colonialcollections.nl/schema#description> "Het patroon van de stof is geïnspireerd op de batikdoeken uit Pekalongan aan de noordkust van Jawa Tengah.\r\nDe stoffen worden op de markt aangeboden waar ook meteen het gewenste kledingstuk van de stof kan worden gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <https://colonialcollections.nl/schema#identifier> "TM-3981-305" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-305> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <https://colonialcollections.nl/schema#name> "LANS MET LANSPUNTBESCHERMER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <https://colonialcollections.nl/schema#description> "Houten lanspuntbeschermer. Cilindrische schacht van gepolijst hout in de lengte voorzien van een cilindrische doorboring, dus vrijwel zeker een blaasroer van Dayakken geweest. Boven gedecoreerd met drie zilveren banden. IJzeren punt, lancetvormig. Beschermer versierd met snijwerk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <https://colonialcollections.nl/schema#identifier> "TM-400-37" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

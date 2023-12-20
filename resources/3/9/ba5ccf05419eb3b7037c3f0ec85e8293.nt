@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <https://colonialcollections.nl/schema#name> "MANNENVEST VAN GROEN LAKENS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <https://colonialcollections.nl/schema#description> "Het vest wordt gedragen over een hemd of onderkleed. In de winter kan een dergelijk vest met mouwen gedragen worden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <https://colonialcollections.nl/schema#identifier> "TM-3833-35" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

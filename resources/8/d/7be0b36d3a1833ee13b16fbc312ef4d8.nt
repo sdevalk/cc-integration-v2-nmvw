@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <https://colonialcollections.nl/schema#name> "HERDENKINGSDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <https://colonialcollections.nl/schema#description> "Herinnerings zakdoek naturel linnen met groen geprintte tekst en mémoire de notre chère et regrettèe en afbeelding Boko Dêhogbé Daïna née Hounsougbêgnon Décedée  ee 15/11/2000 dans sa 78é Année.\r\nRechtsonder etiket van Sunflower Shanghai China." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <https://colonialcollections.nl/schema#identifier> "TM-R-1247" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1247> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#name> "KAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#description> "Een kam gemaakt van bamboe. De kam heeft vier ronde lange tanden van bamboe, die uitwaaieren. De tanden zijn met brede vezelrepen in verschillende kleuren omvlochten. De greep is van een lengte bamboe gesneden. De greep loopt naar het uiteinde breder uit en is versierd met bolvormen en aan het brede uiteinde een bolvorm met twee uitstekende punten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#identifier> "TM-32-37" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#material> "bamboe ; vezel ; gesneden ; gevlochten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

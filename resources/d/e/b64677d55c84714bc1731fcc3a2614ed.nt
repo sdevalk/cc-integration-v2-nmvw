@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#name> "SCHEPEN LANGS DE JULIANAKADE IN DE HAVEN VAN MAKASSAR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#description> "Havengezicht vanaf de rede van Makassar met schepen langs de Julianakade. Links, ter hoogte van de kolensteiger ligt S.S. \"Van Imhoff\" aangemeerd, daarvoor S.S. \"Roggeveen\" en S.S. \"Baud\", alle drie stoomschepen van de Koninklijke Paketvaart Maatschappij (KPM). Rechts ms. \"Poelau Laut\" van de Stoomvaart Maatschappij \"Nederland\" (SMN). Op de achtergrond is de toren van het KPM-kantoor ter zien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#identifier> "TM-60060698" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060698> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

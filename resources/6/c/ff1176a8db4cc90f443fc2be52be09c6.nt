@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#name> "HOUTEN SPATEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#description> "Lichtbruin houten roerspatel op het blad versierd met ingesneden decoraties (o.a. twee gestileerde mensfgiguurtjes) en met een opengewerkte greep. Gebruikt om in een kookpot het voedsel te roeren.\r\nUit één stuk hout in de gewenste vorm gesneden en van ingesneden en opengewerkte decoraties voorzien." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#identifier> "TM-H-2843" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#material> "hout ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2843> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

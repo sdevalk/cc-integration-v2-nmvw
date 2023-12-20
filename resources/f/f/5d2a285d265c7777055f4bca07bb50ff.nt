@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <https://colonialcollections.nl/schema#name> "ZADELDEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <https://colonialcollections.nl/schema#description> "Dit dek wordt op een paardenrug gelegd, zo dat het enkele deel (witte katoen) onder het zadel valt en het deel, dat met rode katoen bedekt is op het kruis van het paard rust en langs de flanken afhangt. Het dient ter versiering van het paard." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <https://colonialcollections.nl/schema#identifier> "TM-3981-211" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-211> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

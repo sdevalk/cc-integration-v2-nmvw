@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#name> "HANDSCHRIFT OP LONTARBLAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#description> "Balinees handschrift op overlangs dubbelgevouwen lontarbladrepen. Bij een van de korte zijden voorzien van een gat waardoorheen een wit koord gestoken is.\r\nDepotbriefje van edelgesteente en bladgoud, die voor een lijkfeest in Karang Asem in bewerking genomen zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#identifier> "TM-400-33a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-33a> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

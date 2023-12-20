@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#name> "DOEK MET AFBEELDING VAN MARYAM ABACHA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#description> "Maryam Abacha was de vrouw van Sani Abacha, president van Nigeria van 1993-1998. OP deze doek wordt ze geëerd als oprichtster van het familieondersteuningsprogramma. De doek bevat de contouren en kleuren van de vlag van Nigeria." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#identifier> "TM-6325-86" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#locationCreated> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#countryCreated> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "Republic of Cameroon"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "Federation of the Camerouns" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "United Republic of Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "Cameroun" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "République Fédérale du Cameroun" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-86> <https://colonialcollections.nl/schema#alternateName> "République Unie du Cameroun" .

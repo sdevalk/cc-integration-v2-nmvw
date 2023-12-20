@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#name> "POOT VAN EEN KRUIK IN DE VORM VAN EEN HOOFD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#description> "Poot van een kruik in de vorm van een hoofd met verticale strepen vanaf de ogen over de wangen. I" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#identifier> "TM-3842-79" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#yearCreatedEnd> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-79> <https://colonialcollections.nl/schema#yearCreatedStart> "-500"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <https://colonialcollections.nl/schema#name> "ZILVEREN SCHOTEL VAN BOTERPOTJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <https://colonialcollections.nl/schema#description> "Glazen boterpotje met zilveren deksel, schotel en mesje, onder de schotel een eveneens glazen schaaltje waar men warm water in deed om de boter makkelijk smeerbaar te maken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <https://colonialcollections.nl/schema#identifier> "TM-6238-1c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6238-1c> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

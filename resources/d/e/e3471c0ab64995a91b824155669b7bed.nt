@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S VAN DE MILITAIRE SITUATIES GEDURENDE DE ATJEHOORLOG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#description> "Met begeleidende tekst, geschreven in 1879. De foto's zijn in 1878 of 1879 genomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0095" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#creator> "Karel Frederik van Swieten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#creator> "C. Krüger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#creator> "H.W. Brauer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0095> <https://colonialcollections.nl/schema#yearCreatedStart> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .

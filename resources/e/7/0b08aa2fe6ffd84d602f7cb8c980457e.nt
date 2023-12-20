@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#name> "IJZEREN SIKKEL MET HOUTEN HEFT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#description> "De sikkel wordt gebruikt in de landbouw voor het oogsten van gewassen. Alleen voor sorghum wordt de sikkel niet gebruikt omdat de steel hiervan te dik en keihard is. Tegenwoordig (1970) worden ook uit het Westen geïmporteerde gereedschappen gebruikt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#identifier> "TM-3912-742" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; metaalbewerken ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-742> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

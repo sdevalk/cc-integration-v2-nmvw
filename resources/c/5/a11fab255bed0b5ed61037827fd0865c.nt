@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#name> "HUIZEN VAN DE AUKANER MARRONS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#description> "Deze huizen staan in 2007 niet meer in Drietabbetje, aan de Tapanahonie. De enige woning uit deze bouwvorm  die er nog staat, is de woning van gaaman Oseisie. Deze huizen bestonden uit dakbedekking van palmtakken en hout aan de voor en achterkant  van het huis. De voorgevel van het huis was vaak versierd met houtsnijwerk.\r\nFoto is genomen tijdens de Tapanahoni Expeditie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#identifier> "TM-60007021" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60007021> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .

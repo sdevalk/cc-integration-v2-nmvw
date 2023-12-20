@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#name> "AARDEWERK POTSTANDAARD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#description> "Standaard voor een kookpot of open bakoven in de vorm van een menselijk hoofd  met grote projecterende neus en mond. Aan weerszijden van de kop bevindt zich een stevig uitsteeksel. De standaard heeft een ronde voet, het oppervlak van de kop is versierd met ingekerfde lijnmotieven. \r\nEen pot boven open vuur wordt meestal ondersteund door drie van deze standaards die moran, een mythologisch wezen verbeelden.\r\n\r\nMet de hand gevormd en in een open vuur gebakken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#identifier> "TM-6324-28b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#material> "klei ; kleurmiddel ; boren ; met de hand vormen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6324-28b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

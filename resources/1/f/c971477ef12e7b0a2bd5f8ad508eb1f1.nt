@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#name> "FLUWELEN KONINGSHOED MET OP DE BAND HOUTEN FIGUREN DIE MET GOUDPAPIER BEDEKT ZIJN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#description> "De zogenaamde koningshoed van zwart fluweel behoort tot de ceremoniële kleding van de koning. Op de band twaalf manen en sterren van hout bedekt met goudpapier. Bovenop een grote kruisvormige versiering. De sterren en de maan symboliseren trouw, een belangrijke vereiste van een koning." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#identifier> "TM-6095-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#creator> "King's & Queen's" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6095-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

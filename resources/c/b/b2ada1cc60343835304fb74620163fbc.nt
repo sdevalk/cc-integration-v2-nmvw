@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <https://colonialcollections.nl/schema#name> "TWEE BOLLEN VAN SISALTOUW MET LUS VOOR EEN KLUISTER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <https://colonialcollections.nl/schema#description> "Met behulp van een touwlus wordt het kluister om twee poten gelegd. De bolletjes verhinderen het afglijden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <https://colonialcollections.nl/schema#identifier> "TM-3782-533a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-533a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

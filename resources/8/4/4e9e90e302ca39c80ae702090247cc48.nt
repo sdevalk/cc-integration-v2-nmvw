@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#name> "PRENT MET SYMBOLEN VAN HET HINDOEÏSME, CHRISTENDOM EN ISLAM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#description> "Oecumenische prent met symbolen van drie religies: hindoeisme, christendom en islam. V.l.n.r. zijn afgebeeld: Ganesha, Christus en de moskee van de profeet Mohammed in Medina en daarboven de Ka'aba, het heiligdom in Mekka. Bij de laatste afbeelding is een vijfpuntige ster met een halve maan toegevoegd waarin het getal 786 staat, wat symbool staat voor de basmala, de formule 'In de naam van God, de Barmhartige, de Erbarmer' (bismillah ar-rahman ar-rahiem).\r\n\r\nDergelijke prenten kunnen - mondjesmaat - in heel India worden aangetroffen maar komen in het zuiden en met name in Kerala, waar naast de hindoemeerderheid een getalsmatig grote christelijke en moslimpopulatie leeft, meer voor. Datzelfde geldt voor Sri Lanka.\r\n\r\nDergelijke prenten dienen niet als vereringsobject maar eerder als blijk van religieuze tolerantie. Vaak worden ze aangetroffen in winkels, ten teken van het feit dat klanten van alle gezindten welkom zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#identifier> "TM-6082-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#material> "Drukwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#locationCreated> "Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Ceylon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Sri Lankā Janarajaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Taprobane" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Democratic Socialist Republic of Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Dominion of Ceylon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Serendib" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6082-4> <https://colonialcollections.nl/schema#alternateName> "Selan" .

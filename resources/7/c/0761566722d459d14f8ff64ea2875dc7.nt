@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#name> "OVERZICHT OP DE STAD ST. JOHNS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#identifier> "TM-60062345" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#locationCreated> "Antigua Guatemala" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#alternateName> "Santiago de los Caballeros de Guatemala" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#alternateName> "Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#alternateName> "Antigua" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#alternateName> "The Most Noble and Most Loyal City of Santiago of the Knights of Goathemala" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#alternateName> "Antigua Guatemala" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60062345> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

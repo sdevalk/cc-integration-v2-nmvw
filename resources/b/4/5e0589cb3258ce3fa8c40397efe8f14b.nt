@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"SURABAYA\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#description> "Surabaya is een miljoenenstad met een grote haven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#identifier> "TM-R-1798" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#creator> "Ahmad Baihaki" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#creator> "Andre Triadiputra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#creator> "Lexy Rambadeta" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#creator> "Tropenmuseum" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#creator> "Fridus Steijlen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#creator> "Henk Schulte Nordholt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1798> <https://colonialcollections.nl/schema#yearCreatedStart> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .

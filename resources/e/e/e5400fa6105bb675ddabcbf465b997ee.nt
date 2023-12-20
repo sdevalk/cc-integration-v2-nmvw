@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <https://colonialcollections.nl/schema#name> "SPEER MET IJZEREN PUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <https://colonialcollections.nl/schema#description> "De speer kan als jacht- of oorlogswapen hebben gediend. Daarnaast kent men echter ook de speer als verdedigingswapen, bijvoorbeeld op reis. Welk type welke vorm heeft is onbekend.\r\n\r\nVervaardiging\r\nDe speerschacht is aan de bovenzijde puntig toegesneden. De speerpunt is met de bus om de schacht geschoven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <https://colonialcollections.nl/schema#identifier> "TM-3912-284" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-284> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

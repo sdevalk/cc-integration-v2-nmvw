@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <https://colonialcollections.nl/schema#name> "LEREN BUIKBAND AFGEZET MET KAURISCHELPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <https://colonialcollections.nl/schema#description> "De band is onderdeel van een ceremoniële uitrusting. Bij de buikband horen nog een hoofddeksel, een kaurigewaad en -banden. Volgens informatie van de verzamelaar diende deze band als bescherming tegen geesten die men onderweg kan tegenkomen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <https://colonialcollections.nl/schema#identifier> "TM-3912-854" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-854> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

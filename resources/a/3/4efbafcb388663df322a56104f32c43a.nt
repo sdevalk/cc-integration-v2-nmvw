@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#name> "DRIEDELIG SIERAAD, IN HET OOR OF ALS HANGER TE DRAGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#description> "Het sieraad bestaat uit slanke kegelvormige kokers die elk aan een ijzeren ringetje hangen. Alle drie de delen (a,b en c) zijn via deze ringetjes onderling onlosmakelijk verbonden. Het is onduidelijk of het sieraad in het oor of als hangertje aan een ketting moet worden gedragen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#identifier> "TM-3982-16b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#material> "ijzer ; messing ; metaalbewerken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3982-16b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

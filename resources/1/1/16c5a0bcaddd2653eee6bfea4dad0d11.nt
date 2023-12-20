@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#name> "HOUTEN DRUKBLOK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#description> "Drukblok, bestaande uit een stel van zes blokken ( 3751-27 tot en met 32), die worden gebruikt om het middenpatroon van een doek te bedrukken.\r\nVoor de rand van de doek wordt een apart patroon gebruikt door middel van vier andere blokken (3751-34 tot en met 37)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#identifier> "TM-3751-27" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#material> "De eigenlijke stempel is uit één stuk hout gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#locationCreated> "Srinagar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#alternateName> "Srīnagar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#alternateName> "Suryanagar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#alternateName> "Srinagar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#alternateName> "Srinagar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-27> <https://colonialcollections.nl/schema#alternateName> "Srinigar" .

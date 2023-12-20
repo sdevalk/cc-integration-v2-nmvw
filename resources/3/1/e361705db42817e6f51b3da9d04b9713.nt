@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#name> "LICHAAM VAN EEN PASGEBOREN KIND (NEONATUS) UIT SURINAME, MET AANKLEDING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#description> "Sandalen om de voeten, een halsband om de hals, een veren hoofdband, schaamgordel, enkelbanden, pols- en bovenarmbanden, glazen oorhangers en een kleine slang om de rechter pols gewikkeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#identifier> "TM-A-6491" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#material> "Menselijk materiaal ; glas ; veer ; dierlijk materiaal (slang) ; plantaardig materiaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6491> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

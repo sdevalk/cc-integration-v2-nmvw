@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#name> "KATOENEN HEUPDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#description> "Ca. 1900 gebatikt door Bandara Raden Ayu Tjokrodipoero, dochter van G.P.H. Koesoemodiningrat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#identifier> "TM-6435-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#material> "katoen ; batik met was ; naaien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#creator> "Raden I. (Iboe) Tjokrodipoero" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6435-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

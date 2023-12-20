@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#name> "DOEK MET AFBEELDING VAN PRESIDENT MWINYI, TANZANIA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#description> "Doek ter gelegenheid van de Bijzonder Algemene vergadering van de CCM, met president Ali Hassan Mwinyi, president van 1985-1995 van Tanzania. De CCM, Chama Cha Mapinduzi, is de regerende partij van Tanzania.\r\nUbafiki Tanzania-printed floral toga." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#identifier> "TM-6325-89" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#material> "katoen ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-89> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

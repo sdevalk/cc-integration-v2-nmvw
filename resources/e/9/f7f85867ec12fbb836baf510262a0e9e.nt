@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#name> "HOORN VAN AARDEWERK, MET DE AFBEELDING VAN DE BERGGOD ALS KRIJGER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#description> "Hoorn van aardewerk, die eindigt in de afbeelding van de Berggod in krijgersuitrusting. Hij heeft de grote ronde ogen en de slagtanden van de poema. Zijn gelaat is gegroefd. Hij draagt grote oorschijven en een brede hoofdband. Tevens heeft hij twee haarvlechten in de vorm van slangen. In de linkerhand heeft hij een strijdknots vast en in de rechter een rond schild." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#identifier> "TM-3905-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3905-1> <https://colonialcollections.nl/schema#yearCreatedStart> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .

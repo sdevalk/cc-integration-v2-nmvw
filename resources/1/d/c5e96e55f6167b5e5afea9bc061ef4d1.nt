@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BEKER MET BESCHILDERING VAN TWEE CONDORS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#description> "Kom met de afbeelding van twee vogels.\r\n\r\nMogelijk vals, zie kleurgebruik. \r\n\r\nVervaardiging\r\nMet de hand gemodelleerd d.m.v. de 'coiling-methode'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#identifier> "TM-3842-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#locationCreated> "Nazca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#alternateName> "Nazca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#alternateName> "Nasca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#alternateName> "Nazca"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-5> <https://colonialcollections.nl/schema#yearCreatedStart> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .

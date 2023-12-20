@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#name> "KAMEELZADEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#description> "Het zadel wordt gevormd door een met metalen strips versterkt houten frame. De \"kussens\" is vervaardigd uit plantenvezels, (kamelen?)haar en stro. Deze zijn aan de onderkant van het frame opgehangen, aan het hout, door middel van stukjes metaaldraad. Het \"kussen\" is geweven volgens de linnenbindingtechniek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#identifier> "TM-3751-305" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; messing ; plantenvezel; haar (kameel) ; stro" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-305> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#name> "HOUTEN HOOFDSTEUN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#description> "De hoofdsteun heeft runderachtige kenmerken, waaronder het cylindrische stukje in het midden van de steun. Dient ter ondersteuning van het hoofd tijdens slaap en rust.\r\nUit één stuk hout gesneden. De poten zijn in brede vertikale ribbels gesneden. De poten en het cylindrisch middenstuk zijn zwart geverfd. Het bovengedeelte van de dwarsbalk is lichtbruin, de onderhelft donkerbruin. Dit kleurverschil wordt veroorzaakt door de duidelijke scheiding van kernhout en gingerhout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#identifier> "TM-3279-23" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#material> "hout ; kleurmiddel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

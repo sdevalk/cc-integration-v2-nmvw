@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#name> "KATOENEN KOKERROK MET DIERMOTIEVEN EN WAJANGTAFERELEN, IN OPDRACHT GEMAAKT VOOR HET DERDE INDISCHE LANDBOUWCONGRES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#description> "Kokerrok met allerlei dieren en wajangtaferelen, speciaal vervaardigd, in opdracht, voor het derde indische landbouwcongres in 1878. \r\nDe doek is vermoedelijk gemaakt in de batikkerij van Mevr. van Oosterom in Banyumas, of in die van haar erfgenames mej. Willemse en mevr. Matheron, die de batikkerij overnamen na haar dood in 1877. Aangezien de doek in 1878 werd gebruikt, kan het zijn dat mevr. van Oosterom de supervisie over het maken van deze doek nog heeft uitgevoerd (van Hout, 2001:21-22; tevens voor meer over van Oosterom) ." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#identifier> "TM-A-5032" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-5032> <https://colonialcollections.nl/schema#yearCreatedStart> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .

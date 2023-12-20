@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#name> "DRAAGNET VAN GEVLOCHTEN VEZELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#description> "Draagnet, gebruikt voor allerhande zaken.\r\n\r\nVervaardigd in de zgn. figure-8 techniek. De gele banen van de tas zijn stroken stengelbast van een bepaald soort boomorchidee." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#identifier> "TM-6283-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#material> "plantenvezel ; bast ; vlechten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#locationCreated> "Baliem valley" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#alternateName> "Balim-Wamena valley" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#alternateName> "Balim valley" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6283-2> <https://colonialcollections.nl/schema#alternateName> "Baliem river valley" .

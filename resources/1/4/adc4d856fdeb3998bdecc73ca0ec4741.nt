@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <https://colonialcollections.nl/schema#name> "VROUWENFIGUUR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <https://colonialcollections.nl/schema#identifier> "TM-A-7978b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <https://colonialcollections.nl/schema#material> "Een karton waarop een vrouwenfiguur is bevestigd. De figuur bestaat uit verschillende gekleurde lapjes. De figuur houdt een waaier in de rechterhand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7978b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

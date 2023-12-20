@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <https://colonialcollections.nl/schema#name> "POLSKETTING MET DIVERSE PITTEN VOOR EEN KLEIN MEISJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <https://colonialcollections.nl/schema#description> "Set van drie kleine polskettinkjes met drie verschillende soorten  zaadpitten, waaronder koni-koni-kassabapitten (cassave)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <https://colonialcollections.nl/schema#identifier> "TM-H-2440a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2440a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

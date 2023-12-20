@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#name> "PAAR LEREN SANDALEN MET ZOLEN VAN AUTOBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#description> "Deze sandalen worden door mannen gedragen.\r\nBij de vervaardiging van deze sandalen heeft men gebruik gemaakt van spijkertjes en klinken. Voor het bovenwerk is leer gebruikt, terwijl de onderste zool is gemaakt van een gebruikte autoband (buitenband); de binnenzool is ook van leer. Men heeft gebruik gemaakt van een schaar om de de onderdelen in vorm te knippen. De gespen zijn machinaal vervaardigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#identifier> "TM-3833-93a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#material> "leer ; rubber ; ijzer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#locationCreated> "Tinghir" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#alternateName> "Tineghir" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#alternateName> "Tinerhir" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-93a> <https://colonialcollections.nl/schema#alternateName> "Tinrhir" .

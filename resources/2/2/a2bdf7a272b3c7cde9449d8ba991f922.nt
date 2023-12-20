@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#name> "HOUTEN PLANK MET GODENFIGUUR (BATARA VISHNU)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#description> "Een houten paneel vervaardigd door Iko uit Cimahi onder leiding van de heer C. van Hamer. Het is een copie van een relief van de Candi Mendut in Midden-Java." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#identifier> "TM-H-3107" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#material> "hout ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#creator> "Iko" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3107> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

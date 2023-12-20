@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#name> "PORTRET VAN ENNY VREDE, AAN NELLIE MOOJEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#identifier> "TM-3204-369" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#inscription> "l.o.: Enny Vrede\r\n       aan boord van de Kleist\r\n       juni 1914\r\nr.o. met potlood:\r\n       aan Nellie Moojen met veel vriendschappelijke gevoelens van Chris Lebeau.        Batavia 1914." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#creator> "C. (Chris) Lebeau" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-369> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

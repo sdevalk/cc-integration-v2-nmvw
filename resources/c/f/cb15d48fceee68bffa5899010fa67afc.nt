@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#name> "DOEK MET FLORALE PRINT EN NAMEN VAN MISDIENAREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#description> "Doek met blauwe print takjes en de tekst 'The great ancestors Afrikania mission' 1st servant Osofo Komfo Damuah en 2nd Osofo Komfo Kofi Ameve. Vervaardigd in de Ghana textile manufacturing company ltd. (GTMC)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#identifier> "TM-R-1242" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#creator> "Ghana Textile Manufacturing Company Ltd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1242> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

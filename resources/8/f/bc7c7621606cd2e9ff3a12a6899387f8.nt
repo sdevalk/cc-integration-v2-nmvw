@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#name> "LEREN SANDAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#description> "Waarschijnlijk is het leer in zout gelegd en daarna gedroogd. De verbindende bovenband is met een stevige knoop vast gezet aan een omgebogen stuk van de zool. alle zijbandjes zijn door insnijdingen in de bovenband gehaald. Zo zijn ook de boven- en onderzool aan elkaar gezet door een bandje dat door insnijdingen langs de randen van de zool loopt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#identifier> "TM-3981-414b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#material> "leer ; leerbewerken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-414b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

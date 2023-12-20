@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN DE VERWONDING ONTSTAAN DOOR HET GEBRUIK VAN EEN IJZEREN VOORWERP BUNDEL SCHORS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen verwondingen ontstaan door het gebruik van een ijzeren voorwerp (het woord Folle wijst daar op). De inheemse benaming voor deze aandoening is Bayèrè. De schors van de stam van de Sjèmela wordt verkoold. Het poeder wordt op de wond aangebracht. Vervolgens wordt de wond meestal nog gewassen met het verwarmde water waarin de schors geweld is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#identifier> "TM-3912-1086a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#material> "schors" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1086a> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

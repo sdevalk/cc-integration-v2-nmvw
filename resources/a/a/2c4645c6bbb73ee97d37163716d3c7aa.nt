@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#name> "ABSTRACT HOUTEN GEZICHTSMASKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#description> "Het geheel, behalve de neus, is uit een stuk hout gesneden. De neus is op 2 plaatsen met touw bevestigd. Delen van het masker zijn geverfd, o.a. een vierkant om de ogen, een deel van de neus en de 3 strepen aan weerszijden van de ogen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#identifier> "TM-3981-40" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#material> "hout ; kleurmiddel ; snijden ; beschilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3981-40> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

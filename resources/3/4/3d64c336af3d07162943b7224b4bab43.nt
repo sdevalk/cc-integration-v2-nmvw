@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#name> "EEN MAN DIE IETS AANBIEDT AAN TWEE ZITTENDE VROUWEN IN EEN FLORA- EN FAUNARIJKE OMGEVING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#description> "Voorstelling: Uputjara voor.... (tekst verder op bandje)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#identifier> "TM-T-275" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-275> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

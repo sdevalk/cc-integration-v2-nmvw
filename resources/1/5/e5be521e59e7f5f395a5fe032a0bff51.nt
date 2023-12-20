@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#name> "LIER MET ACHT SNAREN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#description> "De lier, ook wel endongo genaamd, wordt in Afrika voornamelijk gebruikt om het zingen tijdens religieuze festiviteiten en magische riten te begeleiden. De snaren worden getokkeld met de vingers.\r\n\r\nVervaardiging\r\nDeze lier heeft een schaalvormige klankkast van hout, bedekt met pythonvel en koeienhuid. In het pythonvel zit één klankgat. Het driehoekige frame bestaat uit 2 armen in V-vorm en een dwarsstok (juk). De 8 snaren lopen binnen dit frame naar het juk, waar ze gespannen worden en vastgezet door middel van vezels die rond het juk gewonden zijn. Aan het uiteinde van het frame zijn ter decoratie aan weerszijden geitenharen vastgemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#identifier> "TM-6183-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#locationCreated> "Kampala" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#alternateName> "Kampala"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6183-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

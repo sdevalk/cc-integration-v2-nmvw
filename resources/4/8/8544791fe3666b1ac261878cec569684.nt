@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <https://colonialcollections.nl/schema#name> "GEWEVEN GELE BLOUSE MET VIJF KNOOPJES EN KANTWERK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <https://colonialcollections.nl/schema#description> "Maat: M" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <https://colonialcollections.nl/schema#identifier> "TM-brl-1041-1b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-brl-1041-1b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .

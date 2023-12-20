@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#name> "L.D. KRÜSEMANN EN EEN COLLEGA ACHTER HUN SCHRIJFTAFELS IN SOESMAN'S EMIGRATIE-, VENDU-, EN COMMISSIEKANTOOR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#description> "Deze foto is gemaakt door fotostudio Charls & Co. te Semarang. De foto maakt deel uit van een album dat werd aangeboden aan de heer L.D. Krüsemann ter gelegenheid van zijn vertrek als directeur van NV Soesman's Emigratie-, Vendu-, en Commissiekantoor. Hij is de man rechts." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#identifier> "TM-60022113" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#creator> "Charls & Co." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022113> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

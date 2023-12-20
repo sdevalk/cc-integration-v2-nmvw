@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#name> "KOFFER MET HANGSLOT EN SLEUTEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#description> "Dit object is afkomstig uit het paleis van de vorst van Lombok, ze werd in 1901 verworven door het Koloniaal Museum met vermelding van de volgende gegevens:  \"Indische koffer met leer bekleed en van letterslot voorzien, gevonden in de ruïne van Mataram (1894)\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#identifier> "TM-H-3108" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3108> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#name> "ZILVEREN SIGAREN/SIGARETTEN DOOS VOORZIEN VAN LOTUSBLOEMMOTIEVEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#identifier> "TM-6375-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#inscription> "Op de voorkant van de deksel staat: SOCIETEIT HARMONIE SEMARANG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6375-2> <https://colonialcollections.nl/schema#alternateName> "Semarang" .

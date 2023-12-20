@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#name> "DE VULKAAN GUNUNG SUMBING OP MIDDEN-JAVA MET OP DE VOORGROND INDO-JAVAANSE BEELDEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#description> "Litho naar een oorspronkelijk werk van F. Junghuhn.\r\nLinksonder: F. Junghuhn del. Rechtsonder: Lith. Anst. v.\r\nWinckelmann & Sohne, Berlin." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#identifier> "TM-H-3423" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#creator> "F.W. (Franz Wilhelm) Junghuhn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#yearCreatedEnd> "1853"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3423> <https://colonialcollections.nl/schema#yearCreatedStart> "1853"^^<http://www.w3.org/2001/XMLSchema#integer> .

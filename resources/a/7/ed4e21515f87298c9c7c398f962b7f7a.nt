@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#name> "STATIEPRAUW VAN DE SULTAN VAN KOETAI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#description> "D.G.E. Wolterbeek Muller, de maker van de tekening was Commandant van Z.M. Stastionsschip Suriname. De pentekening geeft zijn terugkeer weer van een officieel bezoek te Samarinda aan de Sultan van Koetai in diens statieprauw. De tekening is ter plekke gemaakt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#identifier> "TM-318-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#material> "papier ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#creator> "D.G.E. (Diederijk Gerhard Engelbert) Wolterbeek Muller" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-318-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .

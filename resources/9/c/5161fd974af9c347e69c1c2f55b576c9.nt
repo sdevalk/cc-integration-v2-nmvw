@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S VAN DE NEDERLANDSCH-INDISCHE ARTSEN SCHOOL (NIAS), AANGEBODEN DOOR DE LEERLINGEN AAN GOUVERNEUR-GENERAAL MR. D. FOCK TIJDENS EEN BEZOEK AAN SOERABAJA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#description> "Mogelijk dateert dit album uit 1922 toen Gouverneur-Generaal Mr. D. Fock een bezoek bracht aan Surabaya, waarbij hij ook de Nederlandsch-Indische Artsen School (NIAS) aandeed." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0032" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#creator> "Foto-Atelier Isken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0032> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .

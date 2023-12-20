@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#name> "AARDEWERKEN PRÉ-COLUMBIAANSE KRUIK MET DUBBELE TUIT, IMITATIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#description> "Kruik met dubbele tuit en geschilderd gezicht. Het gezicht heeft naar boven gedraaide pupillen, hetgeen er op zou wijzen dat het een gesnelde kop betreft.\r\nDe kruik is mogelijk vals: zie kleur van wit en zwart." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#identifier> "TM-3842-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#locationCreated> "Nazca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#alternateName> "Nasca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#alternateName> "Nazca"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-4> <https://colonialcollections.nl/schema#alternateName> "Nazca" .

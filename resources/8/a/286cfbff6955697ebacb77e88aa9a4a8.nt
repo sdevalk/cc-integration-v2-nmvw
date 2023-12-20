@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#name> "MANNEN MET KAMELEN LANGS HET SUEZKANAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#description> "Deze foto is gemaakt vanaf de S.S. \"Patria\" van de Rotterdamsche Lloyd, dat op weg is van Nederlands-Indië naar Nederland." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#identifier> "TM-60021888" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60021888> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#name> "PAGINA MET ONTWERPTEKENING ZILVERBEWERKING SCHAAL OP HOUTEN LOTUSVOETSTUK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#description> "De tekening is in opdracht van M.A. van Gesseler Verschuir-Pownall vervaardigd, door de tekenaars van de oudheidkundige dienst voor Javaanse zilversmeden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#identifier> "TM-6316-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#inscription> "zilveren schaal op zwart houten lotusvoetstuk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6316-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S VAN STADSGEZICHTEN EN GEBOUWEN TE MALANG, TER HERINNERING AAN HET BEZOEK VAN GOUVERNEUR GENERAAL FOCK AAN MALANG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#description> "Het bezoek van Gouverneur Generaal Fock aan Malang heeft plaatsgevonden van 11 tot en met 13 september 1922." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0080" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0080> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .

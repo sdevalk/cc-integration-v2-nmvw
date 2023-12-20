@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#name> "BABY" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#identifier> "TM-3204-386b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#inscription> "r.o. Jopie\r\nVi - '25\r\nPM (paraaf)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#creator> "P.A.J. (Pieter Adriaan Jacobus) Moojen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3204-386b> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

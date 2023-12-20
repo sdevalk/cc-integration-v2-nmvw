@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#name> "WAJANGPOP VOORSTELLENDE PATIH KATBOETA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#identifier> "TM-A-4276e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#locationCreated> "Cirebon Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Tjirebon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#alternateName> "Cirebon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Tjirebon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Cirebon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-4276e> <https://colonialcollections.nl/schema#alternateName> "Cirebon Regency"@en .

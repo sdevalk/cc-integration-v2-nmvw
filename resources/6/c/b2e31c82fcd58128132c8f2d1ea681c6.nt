@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#name> "POST- EN TELEGRAAFKANTOOR IN BANDOENG" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#identifier> "TM-60047266" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#creator> "Boekhandel en Drukkerij Visser & Co." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047266> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

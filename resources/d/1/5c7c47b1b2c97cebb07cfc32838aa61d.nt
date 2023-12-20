@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <https://colonialcollections.nl/schema#name> "BRIL MET ETUI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <https://colonialcollections.nl/schema#description> "Ronde glazen van bergkristal. Messingen montuur, zijstaven eindigend in een cirkel met een a jour swastika. Etui vermoedelijk van hout, met uitgesneden figuren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <https://colonialcollections.nl/schema#identifier> "TM-400-186" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-186> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

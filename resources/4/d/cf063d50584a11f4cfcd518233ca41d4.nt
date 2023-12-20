@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#name> "ARMBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#description> "Een brede armband gemaakt van gevlochten rotanrepen. De smalle repen zijn lang zigzagvormig gevochten. Enkele repen zijn aan de buitenkant geverfd in de kleuren bruin en geel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#identifier> "TM-32-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#material> "rotan ; verf ; gevlochten ; geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

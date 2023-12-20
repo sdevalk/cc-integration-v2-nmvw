@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#name> "PRENT MET RELIGIEUZE SPREUK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#description> "Prent met religieuze spreuk in kalligrafie. De Arabische tekst op de prent luidt:\r\n\"Overlevering uit de woorden van de eerbiedwaardige voorvaderen; Wie gelooft in (Gods) voorbeschikking is veilig voor onheil.\" Rechtsonder de signatuur van de kalligraaf, Mahmud Hilmi. Het geheel is omgeven met een sierrand met een floraal patroon. Onder het kader wordt het adres van de drukker in Egypte weergegeven.\r\n\r\nDe prent wordt als decoratie in winkels en huizen opgehangen. De prent werd gekocht in Marokko, maar is gedrukt in Cairo, Egypte." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#identifier> "TM-3833-310" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#material> "Tweekleurendruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#creator> "Maktabat al-Guindi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#creator> "Mahmud Hilmi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-310> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

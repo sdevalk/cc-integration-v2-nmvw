@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#name> "RAVIJN IN DE OMGEVING VAN HET MEER RANU PANI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#description> "Deze foto is genomen tijdens het verblijf van de familie Van Lonkhuijzen in Tosari, van 23 mei tot 23 juni 1914. In die periode werd van 16 tot 20 juni een uitstapje naar de vulkaan Semeru gemaakt. Het ravijn is gefotografeerd nadat het meer Ranu Pani gepasseerd was." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#identifier> "TM-60017956" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017956> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#name> "WINKELEN IN EEN CHINESE WIJK IN EEN STAD, JAVA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#description> "-VERVOLG VAN TITEL-\r\nMen winkelt in de Chinese wijken van de steden op Java , meer vóór dan in de winkels. Maar ook buiten de deur zijn de prijzen gepeperd. Een pakje Amerikaanse cigaretten kost ƒ 3,00, een reep chocolade ƒ 1,- en een overhemd ƒ 25,-." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#identifier> "TM-60042230" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042230> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

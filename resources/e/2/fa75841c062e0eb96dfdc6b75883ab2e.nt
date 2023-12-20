@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#name> "GRAVEN UIT DE TIJD VAN HET PASAI-SULTANAAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#description> "Graven van de sultans van Samudera-Pasai op de begraafplaats van Kuta Krueng (complex II, Kuta Karang) nabij Lhokseumawe. Links het graf van Ratu Nahrasyihah, de dochter van sultan Zain al-Abidin, zij regeerde als sultane van 1406 tot haar dood in 1428." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#identifier> "TM-60044467" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#creator> "H.L. (Hendrik Lodewijk) Leydie Melville" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60044467> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

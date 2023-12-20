@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#name> "KALKHOUDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#description> "Een rond kalkdoosje gemaakt van een lengte bamboe. Het doosje heeft een inschuivend deksel. Het deksel heeft een gat in het midden. In het gat is een gedraaid vezeltouw vastgemaakt. De koker heeft in het midden een onversierde baan. Aan beide zijden van de midden band brede banden met identieke versieringen in bruin. Golvende banen, slingerende banen en in het midden een brede band met rechthoekige vakken met strepen. Aan weerszijden een golvende lijn. De bodem ontbreekt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#identifier> "TM-32-31" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#material> "bamboe ; vezel ; verf ; geverfd ; gedraaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

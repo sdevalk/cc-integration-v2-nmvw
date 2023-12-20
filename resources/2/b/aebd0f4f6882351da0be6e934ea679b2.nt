@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#name> "VROUWENOVERKLEED VAN BROKAAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#description> "De kaftan is gevoerd met lichtblauwe katoenstof. Galon en lusjes zijn van zwart en lichtbruine kunstzijden. Op de randen is een gevlochten koord genaaid. Langs randen van hals, mouwen, sluiting middenvoor en onderrand is galon genaaid. Mouwen en onderrand zijn geschulpt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#identifier> "TM-3782-769" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#material> "brokaat ; katoen ; satijn ; zijde ; kleurmiddel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-769> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

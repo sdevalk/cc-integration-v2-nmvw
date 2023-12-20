@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN GEWRICHTSPIJN BESTAANDE UIT DRIE TAKDELEN (A) EN EEN KATOENEN ZAKJE MET POEDER (B)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen gewrichtspijn, de inheemse benaming hiervan is Gukoro Busi. De schors van de tak van de Bombulé Kunun boom wordt verkoold en verpulverd. Het poeder wordt met karitéboter vermengd en het lichaam wordt er mee ingewreven.\r\n\r\nVervaardiging\r\nHet zakje is vervaardigd uit een bruin katoenen lapje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#identifier> "TM-3912-1084b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1084b> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

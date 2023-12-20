@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#name> "EEN VERBEELDING VAN HET ANANSI VERHAAL MET JACHTLUIPAARD, HOND EN GEIT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#description> "Olieverfschilderij voorstellend een verbeelding van het Anansi verhaal gebaseerd op het verhaal 'wees tevreden met wie je bent'. Het schilderij toont de jacht bij dag en nacht van het jachtluipaard, de hond en het schaap.\r\n\r\nHet schilderij is gemaakt door Daniel Jasper, een schilder (urban artist), die zich niet zozeer als kunstenaar profileert, maar bedrijfsmatig schilderingen produceert voor verschillende doeleinden, zowel spandoeken als portretten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#identifier> "TM-6311-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#material> "Olieverf op doek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#creator> "dhr. D.A. (Daniel Anum) Jasper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6311-2> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

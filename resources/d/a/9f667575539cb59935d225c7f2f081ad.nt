@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#name> "POSTER MET PORTRET VAN IMAM HUSSEIN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#description> "Poster met portret van imam Hussein en tekst in het Arabisch. In de onderste helft een voorstelling van de martelarendood die Hussein stierf op het slagveld bij Kerbela, zijn hoofd is afgehakt door de soennitische tegenstanders om als buit mee te nemen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#identifier> "TM-6282-15" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6282-15> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .

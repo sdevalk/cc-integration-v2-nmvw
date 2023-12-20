@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#name> "GROEPSPORTRET VOOR HET HUIS VAN DE FAMILIE NIENABER IN DELANGGOE, MET HET OP BEZOEK ZIJNDE ECHTPAAR HAUFF UIT SOERABAJA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#description> "Groepsportret voor het huis van de familie Nienaber in Delanggu. Te zien zijn Frits Nienaber (rechts), zijn vrouw (midden) en hun kinderen Agnes en Jan. Het echtpaar Hauff logeerde tien dagen bij de familie Nienaber, met wie Oudejaarsavond werd gevierd. Hauss was lid van de wees- en boedelkamer in Surabaya." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#identifier> "TM-60020816" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60020816> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

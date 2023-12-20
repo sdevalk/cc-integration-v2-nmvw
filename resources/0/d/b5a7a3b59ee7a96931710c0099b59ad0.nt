@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <https://colonialcollections.nl/schema#name> "HOUTEN DANSMASKER IN DE VORM VAN DE KOP VAN EEN HYENA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <https://colonialcollections.nl/schema#description> "Masker met hyenakop.\r\nDergelijke maskers worden door de Guro gebruikt tijdens ceremoniële dansen van het geheime genootschap 'Die'." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <https://colonialcollections.nl/schema#identifier> "TM-3925-200" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3925-200> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

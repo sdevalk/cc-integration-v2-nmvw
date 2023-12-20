@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#name> "GALERIJ IN HET \"STADSVERBAND\" ZIEKENHUIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#description> "Galerij in het \"Stadsverband\". Te zien zijn onder meer een aantal Indonesische artsen onder wie de Dokter Djawa Ngamdani (tweede van links) en Samsoe (links) en een laborant met de naam Soeboer (tweede van rechts)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0174-25" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-25> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

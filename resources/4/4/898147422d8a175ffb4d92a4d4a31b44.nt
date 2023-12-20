@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#name> "RELIGIEUS BOEK MET HANDLEIDING EN KALENDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#description> "De kaft van het boek is aan binnen- en buitenzijde geschilderd, en gelakt op een ondergrond van papier-maché.  Het papier wordt bedekt met een dunne laag gips, of gesso, en een dunne laag lak. Hierop wordt het ontwerp geschilderd en ter bescherming wordt het met verschillende lagen lak afgedekt. De rug van het boek, bestaande uit leer, is aan beide kaften geplakt. De blaadjes zijn met katoendraad ingebonden. De gekalligrafeerde tekst is in zwarte, blauwe en rode inkt uitgevoerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#identifier> "TM-3751-880" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#material> "papier ; papier-maché ; inkt ; katoenvezel ; lak ; leer ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-880> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

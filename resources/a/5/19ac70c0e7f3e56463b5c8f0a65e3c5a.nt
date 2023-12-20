@@ -1,0 +1,5 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-5> <https://colonialcollections.nl/schema#description> "Kalshoven, Louis George Edmund; Vecht, J. van der; Sody, Henry Jacob Victor; Bemmel, A.C.V. van\r\nVan Hoeve, 's-Gravenhage etc. 1950-1951\r\n\r\nTrefwoorden:\r\npests; insects; tropical crops; manuals; indonesia." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-5> <https://colonialcollections.nl/schema#identifier> "TM-6504-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6504-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

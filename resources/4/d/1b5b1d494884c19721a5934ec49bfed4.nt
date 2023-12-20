@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <https://colonialcollections.nl/schema#name> "PRÉ-COLUMBIAANS AARDEWERKEN FRAGMENT VAN EEN ZOÖMORF HANDVAT VAN EEN GRAFURN MET RESTEN VAN BESCHILDERING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <https://colonialcollections.nl/schema#description> "Fragment van een handvat van een grafurn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <https://colonialcollections.nl/schema#identifier> "TM-3842-166" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-166> <https://colonialcollections.nl/schema#yearCreatedEnd> "1492"^^<http://www.w3.org/2001/XMLSchema#integer> .

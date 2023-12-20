@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#name> "PORTRET VAN LEDEN VAN HET INDO-EUROPEES VERBOND VOOR HUN CLUBGEBOUW IN BUITENZORG, TIJDENS DE IEV CAMPAGNE VOOR DE GEMEENTERAADSVERKIEZINGEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#identifier> "TM-60042110" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#creator> "B. (Ben) Heng" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60042110> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

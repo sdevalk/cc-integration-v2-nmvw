@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#name> "HALSSIERAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#description> "Een halssieraad gemaakt van rotan. Het sieraad bestaat uit vijf rotanringen, die op een plaats aan elkaar zijn vastgemaakt. Deze ringen zijn omwikkeld met fijne zwarte rotanrepen met aangeregen kralen. Twee ringen hebben blauwe kralen, de overige drie ringen zijn versierd met witte kralen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#identifier> "TM-A-3907" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#material> "rotan ; verf ; kralen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3907> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

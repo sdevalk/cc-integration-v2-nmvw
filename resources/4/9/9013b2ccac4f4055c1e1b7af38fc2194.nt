@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <https://colonialcollections.nl/schema#name> "HOUTEN BEKER IN FASE VAN VERVAARDIGING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <https://colonialcollections.nl/schema#description> "Alleen de voet van deze beker is bewerkt. De rest bestaat uit ruw, onafgewerkt hout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <https://colonialcollections.nl/schema#identifier> "TM-A-6285" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6285> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

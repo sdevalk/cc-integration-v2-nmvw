@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <https://colonialcollections.nl/schema#name> "AARDEWERKEN POT MET VERFSTOFBEDEKKING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <https://colonialcollections.nl/schema#description> "Deze pot dient om het bakje waarin de verfstof geroerd wordt op te plaatsen. Door het op de pot te zetten, wordt het roeren vergemakkelijkt. Door gebruik is de pot grotendeels bedekt met allerlei kleuren verfstof, waardoor een dikke hobbelige laag op het glazuur is ontstaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <https://colonialcollections.nl/schema#identifier> "TM-3833-195" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-195> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

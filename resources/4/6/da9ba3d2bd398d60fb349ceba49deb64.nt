@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#name> "HOUTEN BEELD VAN EEN AAP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#description> "Bovenstuk van een staf in de vorm van een zittende aap die met de ellebogen op de opgetrokken knieën zit en zijn kin rust op de gevouwen handen.\r\nBijzonder is dat de oude kaart vermeldt dat dit beeld uit Pacatnamu komt: Herk: Moche of Chimú, Pacatnamu, Noordkust Peru." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#identifier> "TM-3842-64" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#yearCreatedEnd> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-64> <https://colonialcollections.nl/schema#yearCreatedStart> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .

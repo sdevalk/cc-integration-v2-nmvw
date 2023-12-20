@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <https://colonialcollections.nl/schema#name> "FIJNGEMAAKT KURKEIK DIENT ALS LOOISTOF VOOR DE LEERLOOIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <https://colonialcollections.nl/schema#description> "Het schors van de kurkeik, fernan, wordt verkocht in de vorm van vezelachtige stukken, Qshor, en moet gemalen worden in molens. Het schors wordt in kleine stukken geslagen met behulp van een houten hamer. De stukken laat men drogen, waarna zij in de tremel gaan." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <https://colonialcollections.nl/schema#identifier> "TM-3782-284" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-284> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

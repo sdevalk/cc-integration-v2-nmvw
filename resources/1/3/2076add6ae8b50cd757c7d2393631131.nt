@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <https://colonialcollections.nl/schema#name> "HOUTEN SCHERINGBALK, ONDERDEEL VAN HET TAPIJTKNOOPGETOUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <https://colonialcollections.nl/schema#description> "De scheringdraden worden om de scheringbalk gewikkeld. Naarmate het weef-en knoopwerk vordert, windt men de scheringbalk af en wordt het geweven stuk op de doekbalk gewikkeld. De scheringbalk dient ook om de schering strak te spannen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <https://colonialcollections.nl/schema#identifier> "TM-3833-292e" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-292e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

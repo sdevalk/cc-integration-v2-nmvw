@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#name> "KOM MET EEN GEZICHT IN LAAGRELIËF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#description> "Kom op voet, met op de wand een gezicht in laagreliëf. Met gele verf is haar geschilderd en rijen kruisen flankeren het gezicht. Drie panelen met geometrische motieven zijn op de wand geschilderd.\r\nMogelijk verwant aan Irazu Yellow Line.\r\nIn Amerika was een wijdverspreid geloof in het hiernamaals. De doden werden giften meegegeven, vaak gebruiksvoorwerpen zoals aardewerken potten, wapens en voedsel (mais, pinda’s, bonen etc.)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#identifier> "TM-3842-670" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-670> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

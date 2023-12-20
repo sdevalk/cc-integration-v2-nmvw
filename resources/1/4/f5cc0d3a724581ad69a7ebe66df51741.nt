@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#name> "PALEIS VAN DE MAHARADJA, AAN DE GANGES, BENARES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#description> "een groot deel van het beeldoppervlak rechts (papier) is beschadigd en vertoont grote witte vlekken alsmede papuierbeschadigingen (scheuren, bladderen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#identifier> "TM-60047047" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047047> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

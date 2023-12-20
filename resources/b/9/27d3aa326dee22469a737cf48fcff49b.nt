@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN WITTE URINE MET PUS BESTAANDE UIT EEN KATOENEN ZAKJE MET POEDER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen witte urine met pus. De inheemse naam voor deze aandoening is Wòsa Fu No Busi. Het poeder wordt vervaardigd uit de schors van de Donònòn Séwé boom en zaden van de rode gierst. Het geheel wordt gedroogd, gestampt en in water opgelost. Het mengsel dient gedronken te worden.\r\n\r\nVervaardiging\r\nHet zakje is vervaardigd uit een beige katoenen lapje en is dichtgebonden. Het poeder is afkomstig van de schors van de Donònòn Séwé boom en zaden van de rode gierst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#identifier> "TM-3912-1008" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1008> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

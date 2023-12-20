@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#name> "RONDE HOUTEN SCHAAL VOOR GIERSTEPAP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#description> "De schaal wordt gebruikt om 'wu' (gierstepap) uit te eten. 'Wu' is het Samo woord voor gierstepap en 'To' het Bambara woord. Deze schalen worden niet veel meer gemaakt omdat ze vrij kwetsbaar zijn. Ze zijn veelal vervangen door geïmporteerde emaille of aluminium schalen. Soms vindt men deze schalen nog op de markt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#identifier> "TM-3912-87" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#material> "De schalen worden niet door een vakman gemaakt. Met een bijl wordt de ruwe vorm gehakt, vervolgens worden met kleinere en scherpere bijltjes en beiteltjes de schalen afgewerkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-87> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

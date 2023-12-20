@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <https://colonialcollections.nl/schema#name> "HOOFDDOEK LOBI NA BASI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <https://colonialcollections.nl/schema#description> "OP de doek staan harten afgebeeld, waarbij de tekst Lobi na Basi, vrij vertaald betekent dit ongeveer dat er liefde moet zijn, geen baas. Deze doek is een mooi voorbeeld van een van de functies van dergelijke hoofddoeken. In de slaventijd al werden de hoofddoeken gebruikt om boodschappen gecodeerd door te geven. Toentertijd middels de manier van vouwen, wat ook nu nog gekend wordt binnen de creoolse cultuur." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <https://colonialcollections.nl/schema#identifier> "TM-6384-58" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6384-58> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

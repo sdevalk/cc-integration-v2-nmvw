@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#name> "STUDIOPORTRET VAN EEN OFFICIER VAN DE SCHUTTERIJ IN BATAVIA, EEN 2E LUITENANT VAN DE 4E COMPAGNIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#identifier> "TM-60009571" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60009571> <https://colonialcollections.nl/schema#yearCreatedStart> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .

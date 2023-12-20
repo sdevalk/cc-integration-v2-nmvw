@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#name> "KALEBAS VERSIERD MET GEOMETRISCHE PATRONEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#description> "De kalebas wordt gebruikt om vloeistof (water) in te vervoeren en te bewaren.\r\n\r\nOnder aan de steel is een driehoekige opening uitgesneden. Met een zwarte kleurstof zijn ter versiering lijnen en driehoeken aangebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#identifier> "TM-6049-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#material> "kalebas ; kleurmiddel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6049-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .

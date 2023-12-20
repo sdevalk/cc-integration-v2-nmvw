@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#name> "PORTRET VAN BERTHE HOOLA VAN NOOTEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#description> "Olieverfschildering op linnen in lijst voorstellende Berthe Hoola van Nooten geboren Van Dolder (Utrecht 1817/Batavia 1892). \r\nOp 11-7-1838 trouwt zij met Mr. Dirk Hoola van Nooten (Demerary West Indië 3-5-1811-Paramaribo 13-9-1847). Achter Berthe hangt het portret van haar echtgenoot. \r\n\r\nNa het overlijden van haar echtgenoot, als rechter werkzaam in Suriname, blijft zij in 1847 met 5 kinderen achter. Teneinde in hun levensonderhoud te voorzien, geeft zij tekenles en illustreert het botanische werk \"Fruit, Fleurs et Feuillages, choissis de l'ile de Java\" uitgegeven in Brussel in 1863, dat zij opdraagt aan Koningin Sophie.\r\n\r\nVervaardigd door Moritz Calisch 1838 gesigneerd links onder het midden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#identifier> "TM-6386-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#material> "olieverf op linnen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#creator> "Moritz Calisch" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6386-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
