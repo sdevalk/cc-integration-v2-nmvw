@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#name> "BEELD: GANESA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#description> "Ganesa, olifanthoofdige zoon van Siwa en Dewi, verhelper van hindernissen, zit met opgevouwde benen op een ruw elipsvormig  voetstuk. De voeten raken elkaar niet. De rechterhand ligt op de buik met een bidsnoer; linkerhand op de knie met snoepbakje en slurf. De god heeft een rond hoofd, bolle wangen, haar in strengen omhoog gekapt, en slurf die naar links draait en in snoepbakje zit. Geen sieraden of kleding zijn waargenomen.\r\nLinkeroor afgebroken; rechteroor uitgeklapt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#identifier> "RV-1239-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#material> "steen (grijze andesiet)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1526"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .

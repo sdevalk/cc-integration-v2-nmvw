@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#name> "ROODKOPEREN ONE-PENNYSTUK VAN ENGELAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#description> "Penny met de buste van Koningin Victoria naar rechts gewend. Omschrift: \"Victoria D: G: Britt: Reg: F: D.\". Op de keerzijde een zittende vrouwe Brittannia, van de rechterzijde gezien, met een drietand in de hand en met de rechterhand rustend op een ovaal schild. Achter haar voeten de zee met een zeilschip en achter het schild een vuurtoren. Het omschrift luidt: \"one penny\". Eronder het jaartal." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#identifier> "TM-908-24c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-24c> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

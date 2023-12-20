@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#name> "Schaamschort" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSchaamkleed bestaande uit diverse kralensnoeren van blauwe, rode en witte kraaltjes, waaraan diverse ijzeren geschakelde kettinkjes hangen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#identifier> "AM-17-406" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#material> "IJzer; kralen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-406> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

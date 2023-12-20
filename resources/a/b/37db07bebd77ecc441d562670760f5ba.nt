@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#description> "[KL] groen & geel & rood (verf);\r\n[VO] zeer slordig en armelijk bewerkt, verfstof in insipide \r\n        figuren beschilderd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#identifier> "WM-27242" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#material> "hout, verfstof\r\nbeschilderd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27242> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

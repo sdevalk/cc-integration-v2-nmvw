@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-16340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-16340> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-16340> <https://colonialcollections.nl/schema#description> "inhoud : kalk\r\n[ST] kalebas en overdeksel verbonden d.m.v. touw\r\n[DE] driehoek met schuine kruis-arcering & boom : kokospalm\r\n        & kip of haan (mamuk) & struik (buru wala)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-16340> <https://colonialcollections.nl/schema#identifier> "WM-16340" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-16340> <https://colonialcollections.nl/schema#material> "kalebas, hout (stop), zwartsel, plantenvezel (koord)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-16340> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

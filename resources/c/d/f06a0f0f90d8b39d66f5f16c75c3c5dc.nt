@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, geheel opgeplakt, zonder bijschrift.\r\n\r\nDe opname toont een landweg, duidelijk niet geplaveid, met daarop een auto uit de eerste helft van de 20ste eeuw. Bij die auto staat een blanke vrouw in het wit en aan de andere kant een donkere man, waarschijnlijk de chauffeur.\r\n\r\nDe weg wordt geflankeerd door hoge bomen, waarschijnlijk casuarinen of tjemara's (cemara's) aan beide kanten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#identifier> "7082-nf-932-53-4" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-53-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

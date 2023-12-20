@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <https://colonialcollections.nl/schema#name> "SPOEDBRIEF VAN HET GOUVERNEMENTSTELEGRAAFKANTOOR TE MUARA TEBO, MET GEVEDERD ZEGEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <https://colonialcollections.nl/schema#description> "De envelop bevatte oorspronkelijk een telegram. Ze werden door boodschappers naar hun eindbestemming gebracht die elkaar bij elk dorp afwisselden. De zwarte en witte veren geven aan dat de boodschappers dag en nacht doorliepen, net zo lang totdat de bestemming bereikt was." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <https://colonialcollections.nl/schema#identifier> "TM-858-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-858-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .

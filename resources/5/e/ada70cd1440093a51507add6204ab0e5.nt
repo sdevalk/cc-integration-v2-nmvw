@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19408> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19408> <https://colonialcollections.nl/schema#description> "[VO] top : prauwsteven\r\n[DE] einde steel zijn op bovenzijde : twee dansende mensenfiguren \r\n        achterste deel van zijde : vierpuntige ster (elke punt afgewerkt\r\n        met twee hoekige vogelkoppen)\r\n        middelste deel van zijde : zigzaglijnen\r\n        voorste deel van zijde : vissen\r\n        bovenzijde : gestileerd reptiel met lang lichaam in reliëf (kop in\r\n        richting van greep rust op vier dwarsrichels in reliëf)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19408> <https://colonialcollections.nl/schema#identifier> "WM-19408" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19408> <https://colonialcollections.nl/schema#material> "hout, plantenvezel, kleurstof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19408> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#name> "HENGELSNOER VAN VEZELS MET IJZEREN VISHAAK EN KURKEN DOBBER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#description> "Op de kurk is in een rechthoek ingebrand: Nederlandsche Mineraalwaterbron De Snelle Sprong." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#identifier> "TM-A-10317" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#inscription> "Nederlandsche Mineraalwaterbron De Snelle Sprong" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#material> "Het hengelsnoer bestaat uit een koord dat gedraaid is uit vezelbundels. De zinker is gemaakt uit een rechthoekig opgevouwen reep bladlood, in een van de korte einden voorzien van een gat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10317> <https://colonialcollections.nl/schema#alternateName> "Liberia" .

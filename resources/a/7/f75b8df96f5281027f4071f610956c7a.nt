@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#name> "MET VOGELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#description> "[ST] banen (veel w.o. 1 brede ikatbaan)\r\n[PA] ikat : vogels\r\n[KL] helft-1 : zwart & morinda-rood & geel & oranje & blauw\r\n        helft-2 : blauwzwart & oranje & groen & morinda-rood &\r\n        naturel & bruin (bijgekleurd)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#identifier> "WM-19801" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven (supplementaire inslag), ikat : scheringikat, dichtgenaaid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19801> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

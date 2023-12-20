@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <https://colonialcollections.nl/schema#name> "THE TEMPLE OF NATURAL DELIGHT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <https://colonialcollections.nl/schema#identifier> "WM-IB2019-20-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <https://colonialcollections.nl/schema#material> "Gipsen 3D prints, Vuren hout, giet hars, houten takjes, perspex, kersen fineer op rug, eiken fineer op rug, messing draad, kurk, metalen schroeven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <https://colonialcollections.nl/schema#creator> "Florian Nelemans" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-IB2019-20-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

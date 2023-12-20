@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#name> "One Eyed Jack - Ancestral Being and Snake" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#description> "Dit een speelse sculptuur zonder enige bekende, spirituele verwijzingen. Het is een oude man die door een python wordt gewurgd. Het gebruikte hout is Malwan (strandhibiscus), beschilderd  met okers en het haar komt van een oude dame uit Yangunbi. Toen haar gevraagd werd wie er werd uitgebeeld, antwoordde de kunstenares (in het Engels, de vierde of vijfde taal die ze spreekt): One Eyed Jack, eenogige Jack." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#identifier> "7106-449" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#material> "hout ; houtsnijwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#creator> "Buyanggirr Ganambarr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-449> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .

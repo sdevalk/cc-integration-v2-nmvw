@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#name> "KOPEREN DUIT, GESLAGEN IN ZEELAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#description> "Deze duit, met het wapen van Zeeland op de voorzijde, is aldaar geslagen. Om het wapen heen staat: \"luctor et emergo\". Op de keerzijde een krans waarbinnen, in drie rijen met letters, het woord \"Zeelandia\" en het jaartal. Hierbij nog, boven de zee, een burcht (Middelburg) tussen twee stenen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#identifier> "TM-908-39" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#inscription> "In beschrijving" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1793"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-39> <https://colonialcollections.nl/schema#yearCreatedStart> "1793"^^<http://www.w3.org/2001/XMLSchema#integer> .

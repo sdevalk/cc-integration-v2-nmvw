@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#name> "DWARSGEBLAZEN IVOREN HOORN, AAN HET SMALLE UITEINDE VERSIERD MET EEN UITGESNEDEN MENSENHOOFD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#description> "Deze natuurlijke hoorn van ivoor wordt dwars aangeblazen.\r\nDe bovenkant van de hoorn is versierd met een mensenkopje.\r\nDe onderkant is met geometrische strepen ingekerfd.\r\nDit soort hoorns wordt gebruikt om signalen te geven en om muziek mee te maken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#identifier> "TM-A-10970" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10970> <https://colonialcollections.nl/schema#yearCreatedStart> "1827"^^<http://www.w3.org/2001/XMLSchema#integer> .

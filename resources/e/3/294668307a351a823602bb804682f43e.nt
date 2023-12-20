@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#name> "JAS MET TEMBE BORDUURSEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#description> "Deze handgeborduurde tembe jas is een samenwerking tussen Elfila Vinisi, zij is de zus  van Joanette Maasie. De Toppins hebben tijdens het werken aan de collectie voornamelijk contact gehad met Joanette en haar andere zus Eveline die voornamelijk het zakelijke gedeelte op haar neemt in hun bedrijf. Meerdere tembe dessins (Saramaccaans) zijn gecombineerd waardoor er een nieuwe tembe print ontstond op de rug van de jas. het heeft twee maanden geduurd om de jas volledig te laten borduren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#identifier> "7261-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#material> "wol ; borduren ; naaien ; weven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#creator> "Elfila Vinisi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#creator> "Xhosa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2021"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7261-5> <https://colonialcollections.nl/schema#yearCreatedStart> "2021"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"HIJ DIE STATUUT ZIE TOE DAT HIJ NIET VALLE\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#description> "Documentaire over de staatkundige verhouding tussen Nederland en Suriname anno 1965.  (J. de Jonge, 1975)\r\n\r\nDe film is in zwart/wit en bevat optisch geluid. De film is Nederlands gesproken.\r\nHet is een 16mm film." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#identifier> "TM-90000021" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#creator> "VARA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#creator> "Mw. G. (Gabri) de Wagt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000021> <https://colonialcollections.nl/schema#yearCreatedStart> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .

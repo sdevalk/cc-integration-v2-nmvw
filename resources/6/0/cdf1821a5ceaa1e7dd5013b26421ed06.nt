@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#name> "VOUWWAAIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#description> "Painted fan with a calligraphy by Qi Qu (1962- ) on the recto, dated 2004 (attribution uncertain).\r\nFan with colour painting on one side and archaic script calligraphy on the verso written by Qi Qu 崎嶇, secretary, Zhongnan seal carvers' society終南印社, Xi'an and a well known seal carver and calligrapher in 2003. \r\nZhongnan zegelsnijders vereniging werd in 1979 opgericht. Het was de eerste die na de Culturele Revolutie werd opgericht (toen mocht het pas weer). Oorspronkelijk telde het 17 leden, nu 30 jaar later ruim 180 leden zowel binnen China als daarbuiten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#identifier> "7240-20" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#material> "papier ; bamboe ; assembleren ; kalligrafie ; schilderen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#creator> "Qi Qu (崎嶇)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-20> <https://colonialcollections.nl/schema#yearCreatedStart> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

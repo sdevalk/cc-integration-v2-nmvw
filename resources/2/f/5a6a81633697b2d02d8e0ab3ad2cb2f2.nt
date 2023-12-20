@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#name> "STAAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#description> "Dessin, nr. 49150, is gefabriceerd in 1926 door de firma Ankersmit. Na het faillissement van de firma Ankersmit is het overgenomen door de firma Vlisco B.V. De naam die in Afrika aan dit dessin wordt gegeven is \"Kanga Lupango\" (Afr). Deze stof bevat een ruitenpatroon van brede rode banen die gele en zwarte accenten bevatten. De vierkante ruimtes tussen de banen zijn zwart met een fijnmaziger ruitmotief in geel. De stof is 118 bij 182 cm.  Op de zelfkant van de stof staat de tekst \"Guaranteed Dutch Wax Vlisco\"/ \"Veritable Wax Hollandais Vlisco\" en 49150 gedrukt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#identifier> "7077-9" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#material> "katoen, batik met was" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#creator> "Vlisco B.V." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7077-9> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

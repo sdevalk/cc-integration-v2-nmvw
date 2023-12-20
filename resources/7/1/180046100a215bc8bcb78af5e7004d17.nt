@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#name> "BEELD: RAKSASA-WACHTER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#description> "rechtop staand. Rond scherp getekend hoofd, bolle ogen, doorlopende wenkbrauwen, dikke neus, grote mond, scherpe grote tanden, haren glad op hoofd, tegen achterstuk aan in een grote krullenbos uitlopend. Dikke buik, navel zichtbaar. Twee armig, rechterarm tegen achterstuk rustend op knots op voetstuk, linkerarm naast lichaam op buik met onduidelijk voorwerp in vuist. Rechter benen met grote voeten en tenen. Band op achterhoofd, diadeem die uitloopt in voluten op achterstuk tussen haren, antefixbovenarmbanden dubbele polsbanden, dubbele halsketting (onderste versierd), kastekoord, gordel met versierde versierde slippen. Heupkleed met plooien en slip tot op voeten, aan zijkanten lange slippen tegen achterstuk. recht, van boven afgerond achterstuk, bijna geheel door figuur bedekt. Halve cirkel voetstuk, onbewerkt." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#identifier> "RV-1403-1772" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#material> "bruin andesiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1772> <https://colonialcollections.nl/schema#yearCreatedStart> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .

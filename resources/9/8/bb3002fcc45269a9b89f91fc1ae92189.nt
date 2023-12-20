@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27771> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27771> <https://colonialcollections.nl/schema#description> "[KL] donkerblauw & rood & geel\r\n[VO] in twee banen, katoenen schering: donkerblauwe met dunnere rode strepen. Inslag blauw, over het middenveld van katoen en daar de gewone linnenbinding, over de einden van rode zijde een tapestey binding, zodat daar de katoenen schering onzichtbaar is\r\n[PA] afgewisseld met gele strepen en stroken van patroonweefsel met sierdraden gedeeltelijk gouddraad, en gedeeltelijk in kleuren flottant, met losse spoelen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27771> <https://colonialcollections.nl/schema#identifier> "WM-27771" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27771> <https://colonialcollections.nl/schema#material> "katoen, gouddraad, zijde\r\ngeweven (in linnenbinding)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27771> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

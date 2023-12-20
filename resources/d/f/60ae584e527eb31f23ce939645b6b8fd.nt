@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#name> "Ketu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#description> "KL: wit, goudkleurig, bruin; VO: afgeknotte kegel, geborduurd met applicaties. Gestileerde bloem met goudborduurwerkaan de bovenzijde. Rand in \"net\" goud-\r\nborduurwerk, applicaties afgezet in op- en neergaande gouddraadborduurwerk en vervolgens kettingsteekborduurwerk in gouddraad met uitsparingen in bladmotief." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#identifier> "7082-S-3754-3" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#material> "synthetisch (polyester), gouddraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3754-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .

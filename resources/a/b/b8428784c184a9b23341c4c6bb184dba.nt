@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#name> "Ngayuku ngura" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#description> "De kunstenares zegt: \"Ngayuku ngura (dit is mijn land). Er zijn vele rotsholtes dicht bij de plaats waar ik geboren werd. Ik reisde naar al deze plaatsen met mijn ouders. Ngayuku ninti pulka (ik ken heel dit land). Aloysius is de hoofdrotsholte. De andere rotsholtes zijn Pukara, Anumarapiti, Palki, Punuwara, Wangutiti, Atanga, Yaliri, Palkarli en Wirkuratja. Dit gebied ligt in de staat Western Australia.\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#identifier> "7106-536" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#material> "doek ; geschilderd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-536> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

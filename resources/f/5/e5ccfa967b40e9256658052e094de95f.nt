@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26860> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26860> <https://colonialcollections.nl/schema#description> "[KL] vaalzwart & bruin & blauw;donkerbruin & lichtbruin \r\n        (oorspronkelijk wel geelachtig witte) \r\n[PA] kwadraat\r\n[VO] elk kwadraat met afzonderlijke schering en inslag, beide in \r\n        \"locked weft\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26860> <https://colonialcollections.nl/schema#identifier> "WM-26860" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26860> <https://colonialcollections.nl/schema#material> "afzonderlijk geweven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26860> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#name> "MES MET HOORNEN GREEP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#description> "Op het lemmet staat een deel van een vers uit de koran (Koran 37:173): \"Zij zijn de overwinnaars\" en daarnaast een reeks Arabische cijfers en een magisch vierkant. Ook de cijferreeks heeft een magische betekenis." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#identifier> "TM-886-79" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#locationCreated> "South Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Selatan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#alternateName> "Provinsi Sulawesi Selatan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Selatan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#alternateName> "South Sulawesi"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-79> <https://colonialcollections.nl/schema#alternateName> "South Sulawesi" .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <https://colonialcollections.nl/schema#name> "POLYCHROOM BESCHILDERD HOUTEN BEELD VOORSTELLEND SEMAR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <https://colonialcollections.nl/schema#description> "Semar  en zijn beide zonen Nalagareng en Petruk zijn de begeleiders (panakawan) van Arjuna. Zij treden op als raadgever, bedienden en potsenmakers. Het witte gezicht van Semar benadrukt zijn reinheid van karakter." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <https://colonialcollections.nl/schema#identifier> "TM-887-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

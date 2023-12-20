@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#name> "HOUTEN WAARDIGHEIDSTEKEN MET DRIE VOGELS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#description> "Op het boveneinde van de stok zijn drie boven op elkaar staande vogels aangebracht. De bekken zijn naar beneden gericht waarbij het uiteinde van de snavel op de nek van de volgende vogel rust. Het lichaam en de nek zijn versierd met groefjes terwijl de ogen gevormd worden door ronde gaatjes. De stok is vermoedelijk een waardigheidsteken van een chief." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#identifier> "TM-A-10400" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10400> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .

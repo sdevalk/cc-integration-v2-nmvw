@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#description> "Een paleis-klooster gesticht in 1717 door Joao V en zijn gemalin Ana van Oostenrijk als dank voor de geboorte van hun erfgenaam Jose I. Er zijn 50000 manuren besteed aan de bouw onder leiding van Johannes Friederig Ludwig en zijn zoon Peter Ludwig. Het wa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#identifier> "RV-15145-8-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-8-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#name> "MET MENSFIGUREN OF HAGEDISSEN IN LIGGENDE RICHTING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#description> "[KL] wit & bruinrood & lichtblauw & geel\r\n[PA] mensfiguur/dier (in liggende richting) : hagedis\r\n        (seko/mamuli)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#identifier> "WM-25299" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#material> "glas, katoengaren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25299> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

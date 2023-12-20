@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <https://colonialcollections.nl/schema#name> "OKER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <https://colonialcollections.nl/schema#description> "Description\r\n\"Rode aarde (wilgie) werd gebruikt voor de beschildering van gelaat en lichaam. Het was als ruilmiddel van groot belang. In flesje bewaard. \r\nHerkomst: West-AustraliëHerkomst: West-Australië.\r\nButungoo, yellow pigment, used as No. 1207-96.\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <https://colonialcollections.nl/schema#identifier> "RV-1207-100" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <https://colonialcollections.nl/schema#material> "kleurstof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1207-100> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

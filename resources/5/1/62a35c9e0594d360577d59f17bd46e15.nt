@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#name> "DOOS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#description> "Een doos gemaakt van een klappernoot en zilver. De doos bestaat uit een klappernoot, die in twee helften is gedeeld en een voet van zilver. De buitenzijde van de noot is geheel versierd met snijwerk van bloemornamenten. De noot is zwart gemaakt. De doos heeft een zilveren scharnier met een overslagsluiting. Bovenop de noot een zilveren knop. De voet is uitstaand.\r\nWaarschijnlijk afkomstig van Borneo (Kalimantan). Buitgemaakt op zeerovers van Solor." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#identifier> "RV-1239-323" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#material> "noot (klapper) ; zilver ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#locationCreated> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#alternateName> "Pulau Solor" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#alternateName> "Solor Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1239-323> <https://colonialcollections.nl/schema#yearCreatedStart> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .

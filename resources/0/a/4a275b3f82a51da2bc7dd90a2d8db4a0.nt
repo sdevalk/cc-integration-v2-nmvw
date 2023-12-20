@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#name> "BEELD: TEMPELWACHTER, MOGELIJK MAHAKALA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#description> "In staande houding, rechterbeen licht gebogen, linkerbeen recht met heup naar links. Ogen, neus en mond verweerd. Het haar naar achteren getrokken, in rijen grote krullen uitwaaierend tegen het achterstuk. Lange armen met verdikking in de onderarm. Brede, opgetrokken schouders, brede romp, dik buikje. Dikke benen, rechtervoet beschadigd. Kegelvormige oorbellen, halsketting, antefix bovenarmbanden; heupband met afhangende linten. Lengte van heupkleed onzichtbaar; doek over de bovenbenen. Op rechterheup een grote strik met afhangende plooi. Ovaal achterstuk, puntig van boven. Afgerond voetstuk, rechterzijde beschadigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#identifier> "RV-1403-1603" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#material> "poreus, grijs/geel andesiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#yearCreatedEnd> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1603> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

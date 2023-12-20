@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#description> "Werd in 600 BC onder de naam Poseidonia door de Grieken uit Sybaris gesticht. De naam werd in de 4e eeuw BC veranderd in Paestum toen de stad in handen kwam van de Lucaniers. In 273 BC is het door de Romeinen veroverd. In 878 AD werd de stad door de Sarac" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#identifier> "RV-15143-7-8" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-7-8> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

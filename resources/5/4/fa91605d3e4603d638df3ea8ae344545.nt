@@ -1,0 +1,26 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"TRADITIONAL WORLD OF ISLAM: KNOWLEDGE OF THE WORLD\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#description> "Documentaire over traditioneeel onderwijs en wetenschap in de wereld van de islam. Film nummer vijf. (J. de Jonge, 1975)\r\n\r\nDe film is in kleur en bevat optisch geluid. De film is Engels gesproken.\r\nHet is een 16mm film." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#identifier> "TM-90000027" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#creator> "Dhr. P. (Paul) Keeler" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#creator> "Dhr. S. (Stephen) Cross" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#locationCreated> "Cairo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#locationCreated> "Baghdad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "El Kahira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Misr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Baghdād" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Masr" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "El Kahirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Al Qāhirah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "El-Qâhira" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Bagdad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Le Caire" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Baghdad"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000027> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

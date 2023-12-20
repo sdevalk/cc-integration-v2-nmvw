@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#name> "OORRING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#description> "In Nieuw- Brittannië werden veel verschillende soorten oorringen gedragen. Oorringen van dit type bestaan uit een ronde schrijf van schildpad waaraan nassaschelpjes genaaid zijn. Deze sieraden worden individueel in het oor gedragen of in bundels van zes tot tien stuks waardoor de oorlellen aanzienlijk uitrekten." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#identifier> "RV-1485-87" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#material> "schildpad ; nassaschelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-87> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

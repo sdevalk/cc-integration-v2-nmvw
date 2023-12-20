@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#description> "inhoud : Aranyakaparwwa (3e deel van de Mahabharata)\r\n[ST] binnenblad (32: 2 bladen aan 1 zijde beschreven & 30\r\n        bladen aan beide zijden beschreven) & schutblad (2)\r\n        & sluiting (koord & kraal)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#identifier> "WM-28857" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#inscription> "[B] grotendeels onleesbaar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#material> "lontarpalmblad, roet, bamboe, katoengaren (koord), glas\r\nbeschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28857> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .

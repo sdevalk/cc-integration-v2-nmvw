@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#name> "PORTRETTEN, TEMPEL, GEBOUW, SPOORWEGEN, SUEZ KANAAL, SOERABAJA, BERI BERI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#description> "Groepsfoto's van H.F.F. Lütje met zijn officieren/onderofficieren, portret van Jhr.Ir.P.J. Boreel met dochter/vrouw, beriberilijders, portret van Toekoe Panglima Maharadja Tibang Mohammed, tempels, landschappen, graven, (groeps)portretten, gebouwen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#identifier> "TM-FV-0802" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0802> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .

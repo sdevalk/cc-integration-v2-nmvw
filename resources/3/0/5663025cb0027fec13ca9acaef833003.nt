@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#name> "ZWAARD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#description> "Een zwaard gemaakt van gesmeed ijzer en hout. Het zwaard heeft een recht lemmet, dat aan de achterkant hol is geslepen. De snede is van achteren hol en aan de voorkant bol. De steelring is van zilver met een parelrand aan de boven- en onderkant. De greep is van donkerbruin hout, uitgesneden in de vorm van een gestileerde Garuda met duidelijke ogen, handen, vleugels en veren. Daaronder een zeer gestileerd gezicht, het ondereinde met een ruitpatroon versierd. De schede is aan de achterkant ongekleurd en aan de voorzijde geel, en de opening van zwart hout met een middenrug aan de achterzijde." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#identifier> "RV-1354-11" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; zilver" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1354-11> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#description> "[VO] cirkel & bol\r\n[ST] knop (4x) & rand & handvat\r\n[DE] ornament & dier & medaillon (16)\r\nschrift;voorzijde (in 22 medaillons) (1) & tekst;datering;bovenzijde (centrale medaillon) (2)\r\n[B] Arabisch schrift (1) & [B] In Arabisch schrift: 895 A.H. [= 1489 A.D.] (2)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#identifier> "WM-24987" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#material> "staal, koper (?), zilver, leer, textiel\r\ngeincrusteerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#yearCreatedEnd> "1499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24987> <https://colonialcollections.nl/schema#yearCreatedStart> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .

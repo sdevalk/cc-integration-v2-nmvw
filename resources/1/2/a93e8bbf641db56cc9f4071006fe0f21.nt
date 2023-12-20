@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#description> "Pilaarprent (Japans: hashirae), samengesteld uit twee bladen, voorstellende een jong koppel. De jonge vrouw staat achter een houten hekje en houdt de wandelriem van een hondje vast, dat op schoot zit bij de jongen (waarschijnlijk een wakashu), onderin de compositie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#identifier> "RV-1353-1116d" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#creator> "Suncho" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1116d> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

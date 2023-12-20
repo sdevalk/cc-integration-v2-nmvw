@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#name> "VOORLAADGEWEER MET VUURSTEENSLOT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#description> "Vuursteen-voorlaadgeweer met ijzeren loop en houten lade en kolf. Het verroeste ijzeren vuursteenslot is van het type \"Tower\". De laatstgenoemde onderdelen zijn niet origineel en vermoedelijk van Indonesische inheemse makelij.\r\nDergelijke geweren werden ook gebruikt op slavenschepen richting de West, maar deze is verzameld in toenmalig Nederlands-Indië.\r\n\r\nVervaardiging\r\nHout, ijzer, zilverlegering, messing.\r\nVuursteen-voorlaadgeweer, waarvan de lade en kolf niet origineel zijn maar ter plaatse uit een stuk hout zijn gesneden. De ijzeren loop is met vier zilveren en messingen banden versierd met drijfwerk op de lade bevestigd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#identifier> "TM-860-36" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-860-36> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .

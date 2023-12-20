@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#name> "VEDEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#description> "Een vedel of een volksvedel gemaakt van een lengte bamboe. Het instrument bevat twee stemschroeven en twee snaren. De stemschroeven zijn van hout gesneden. De snaren zijn van ineengedraaide haren? gemaakt \r\nHet instrument is beschadigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#identifier> "RV-1183-923" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; haar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-923> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

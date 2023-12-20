@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#description> "[KL] blauw (schering- & inslagdraad) & wit (uitsparing);\r\n[VO] de schering van enkele, de inslag van dubbele draden.\r\n        Beide blauw met uitsparing in wit op de inslag. Elke inslag van \r\n        een dubbele ikatdraad wordt afgewisseld door een dubbele \r\n        draad die niet geïkat is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#identifier> "WM-24874" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven (schering & inslag) & geikat (inslagdraad)\r\nzuiver inheems staaltje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Limboto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24874> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

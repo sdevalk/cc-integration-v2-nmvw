@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#name> "ZWAARD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#description> "This sword is decorated with floral motifs and inscriptions saying ‘allah’ and ‘there is no god but God' in a popular technique of incised and repousséd silver alloy seen also in jewellery.\r\nThe sword was brought by a Yemeni delegation to the `Koninklijk Instituut voor de Tropen' (KIT) around 1993/94, consisting probably of a minister and members of the department of health.\r\nIt is a testament to the longstanding development relationship between Yemen, the KIT and the Tropenmuseum." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#identifier> "7216-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#material> "staal ; hout ; messing ; zilver ; smeden ; verzilveren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7216-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

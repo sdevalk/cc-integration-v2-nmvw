@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#name> "RAMMELAAR BESTAANDE UIT DOPPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#description> "Deze rammelaar is gemaakt van flessendoppen, die aan een kunststof touw zijn geregen en wordt gebruikt als muziekinstrument. De ratel of rammelaar is één van de traditionele instrumenten die in samba-muziek wordt gebruikt. Traditioneel is dit een ganzá, een gesloten buis van metaal of plantaardig materiaal, waarin kralen, steentjes of zaden worden gestopt. Deze rammelaar is van een ander type, maar vervult dezelfde rol in de muziek en maakt een vergelijkbaar geluid.\r\n\r\nHet gebruk van flessendoppen is een mooi voorbeeld van 'upcycling', het gebruik van afvalproducten voor het maken van nieuwe gebruiksvoorwerpen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#identifier> "7034-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#material> "kunststof ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7034-5> <https://colonialcollections.nl/schema#yearCreatedStart> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#name> "Dukuah kaban" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#description> "Dit is een moderne ketting van dit type. de rode kralen zijn gemaakt van papier. Eigenlijk dienen dit ronde kralen van bloedkoraal te zijn, afkomstig uit Tibet. Dit type ketting behoort tot de oudste soort in het gebied." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#identifier> "7082-S-2047" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#material> "koper, papier, touw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2047> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#name> "Schildering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#description> "Ron Yunkaporta\r\n\r\nThuuth thaa munth motieven van de Apalech clan in Aurukun. Dit motief bestaat uit witte stippen op een rode achtergrond. De rode achtergrond beeldt de reflectie uit van de ondergaande zon op het water. De witte stippen stellen de fonkeling van het zoute water op de stranden voor.\r\n\r\nReeks van vier schilderijen gemaakt in het AAMU, Utrecht, in oktober 2007. De kunstenaars zijn Joel Ngallametta en Ron Yunkaporta, mogelijk samen met andere leden van de Wik-delegatie in Nederland. Dit zijn tevens de vervaardigers van de Law Poles (7106-742a-l). Deze schilderijen stellen motieven van de Law Poles of aan de Law Poles verwante motieven voor." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#identifier> "7106-742o" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#material> "[NI]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742o> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

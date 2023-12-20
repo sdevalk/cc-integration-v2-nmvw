@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#name> "TEMPELMASKER (STEL)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#description> "Voorstellend 2 x Yama en 2 x Yamantaka.\r\n\r\n2 x Yama, 2 x Yamantaka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#identifier> "WM-V-395" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#material> "verguld koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-V-395> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

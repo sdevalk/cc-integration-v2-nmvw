@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <https://colonialcollections.nl/schema#description> "Handschrift, inhoud : historisch verhaal : Serat Darjatinati\r\n[ST] binnenblad (121: 4 onbeschreven bladen & 2 bladen\r\n       aan 1 zijde beschreven & 115 bladen aan beide zijden\r\n       beschreven) & schutblad (2) & sluiting (koord)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <https://colonialcollections.nl/schema#identifier> "WM-28820" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <https://colonialcollections.nl/schema#inscription> "[T] Darmadjati" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <https://colonialcollections.nl/schema#material> "lontarpalmblad, roet, hout, katoengaren (koord)\r\nbeschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-28820> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

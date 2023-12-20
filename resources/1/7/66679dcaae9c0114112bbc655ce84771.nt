@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet. Het opzetstuk (ganja) van het lemmet heeft aan één kant een scherpe punt (greneng). De messing steelring (mendak) is versierd met korrels en een parelrand. Het heft is van bruin hout gesneden in de vorm van een gebogen blad. De lichtbruine houten schede (gandar) heeft een hoes (pendok) van messing, die aan de voorkant grotendeels het hout laat zien. De bootvormige schedeopening (wrangka) is van bruin hout gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#identifier> "RV-1499-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1499-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

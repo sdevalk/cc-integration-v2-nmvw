@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#description> "Surimono voorstellende een jonge vrouw in furisode (kimono met lange mouwen, bestemd voor ongetrouwde vrouwen), staand onder een pruimenboom waarvan boven in de compositie een tak te zien is. Ze houdt in haar handen de shuttle behorende bij het spel hanetsuki, een soort badminton dat met Nieuwjaar gespeeld werd. Het batje heeft ze tussen haar arm geklemd. Links drie gedichten, vrnl door een onbekende dichter uit Wakamatsu (genaamd Yôkôen Takami), Yomo Utagaki Magao en Utei Enba zelf (die signeert Danshûrô Enba). In alle drie de gedichten wordt gerefereerd aan het jaar van de os, in dit geval 1817." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#identifier> "RV-1353-1174" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#creator> "Katsukawa Shuntei" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#yearCreatedEnd> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1353-1174> <https://colonialcollections.nl/schema#yearCreatedStart> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .

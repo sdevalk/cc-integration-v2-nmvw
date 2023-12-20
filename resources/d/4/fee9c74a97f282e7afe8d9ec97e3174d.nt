@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#name> "Schildering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#description> "Schildering op houten paneel. Oni (duivel) die op een kist springt waarin nog meer duivels zitten. Episode uit Hyakki yagyô. Inscriptie die meldt dat dit op basis van een ontwerp van Kawanabe Kyôsai zou zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#identifier> "RV-1330-38" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#material> "zijde ; Sumi inkt ; pigment ; ongemonteerd, in lijst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1330-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

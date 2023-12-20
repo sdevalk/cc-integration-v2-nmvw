@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#name> "Inkttekening" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#description> "Deze tekening is een weergave van de doorsnede van de Candi Sembadra. De tekening is door Stutterheim aan H.C. Cornelius toegeschreven en de tekening is door hoogleraar Reinwardt aan het Rijks-Museum van Oudheden te Leiden geschonken en is in 1903 overgegaan naar het ‘s Rijks Ethnographisch Museum, tegenwoordig Rijksmuseum Volkenkunde." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#identifier> "RV-1403-3524" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#material> "papier ; inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#creator> "H.C. (Hermanus Christian) Cornelius" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3524> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

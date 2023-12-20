@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19098> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19098> <https://colonialcollections.nl/schema#description> "[ST] instrument bestaat uit 2 delen, een speervormige stok die aan het smalste eind is afgezet met een veer en een instrument dat er uit ziet als een raster en drie krokodillen bevat die uit bamboe gesneden zijn en met elkaar verbonden door twee houten pennen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19098> <https://colonialcollections.nl/schema#identifier> "WM-19098" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19098> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19098> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

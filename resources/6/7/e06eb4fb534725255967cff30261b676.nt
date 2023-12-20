@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#description> "album NEGALB 64 met 29 kleinb zw films in pergamijn vellen 1982. zie 16mm 555-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#identifier> "RV-13819-1/1000" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#material> "negatieven album van zwart-wit foto's gemaakt door Drs. Saskia Jouwersma tijdens het maken van de film Sahu Harvest Festival in subdistrict Sahu, Noordwest Halmahera. Zie LE Visser collectie (RV-6234-*)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#creator> "Saskia Jouwersma" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13819-1/1000> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

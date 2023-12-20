@@ -1,0 +1,21 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#name> "50-jarig bestaan stoomvaart-maatschappij Nederland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#description> "VZ: Stoomvaart-maatschappij Nederland, 50 jarig bestaan 13 mei 1870 1920, met wapen Amsterdam en Batavia en lauwerkrans met eikenbladeren links (Nederlands) en lotusbloemen rechts (Indonesisch).\r\n\r\nKZ: Het schip \"De Jan PieterZn Coen\", hierboven het symbool van de SMN en onderaan de opbrengsten; tonnen, kratten, zakken en kapok, rijst, koffiebessen en mais." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#identifier> "7082-S-3892" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#creator> "Johann Cornelis Wienecke" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3892> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

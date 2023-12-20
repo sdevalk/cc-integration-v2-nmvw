@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#description> "[ST] kralensnoer om hals\r\n[KL] zwart (wenkbrauwen, oogspleten, haar, onder neus,\r\n        tatoeages en gaatjes in oren) \r\n[VO] staande vrouw met voorhoofdsband met rand van ingesneden\r\n        streepjes, ogen half dicht, grote neus, grote uitstaande oren\r\n        met verdikking aan de schelprand, bovenarmen los van het\r\n        lichaam, handen tegen buik in \"bedelgebaar\", naar verhouding\r\n        grote voeten met knobbel aan de enkels, tatoeage boven de\r\n        borst tot aan de schouders en op de buik" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#identifier> "WM-2895" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#material> "hout, glas, plantenvezel (garen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2895> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

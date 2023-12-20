@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25893> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25893> <https://colonialcollections.nl/schema#description> "[ST] inlegwerk (ogen)\r\n[VO] top : voorouderbeeld : bovenlichaam van mensfiguur met\r\n        neus overgaand in mond en ogen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25893> <https://colonialcollections.nl/schema#identifier> "WM-25893" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25893> <https://colonialcollections.nl/schema#material> "hout, parelmoer (inlegwerk)\r\ngesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25893> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

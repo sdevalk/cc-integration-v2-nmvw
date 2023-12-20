@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#name> "INSCRIPTIE OP BRONZEN PLAAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#description> "Een inscriptie op een gegoten bronzen plaat. Van deze plaat, een oude kopie van de laatste oorkonde van koning Balitung (898-910), is door H.N. Sieburgh een facsimile gemaakt welke terug te vinden is onder inv. nr. 37-903-44. Juynboll beschrijft het stuk als volgt: \"Bronzen plaat, slechts aan eene zijde beschreven met  7 regels, veel onduidelijker handschrift dan dat van 3338 en 3339, zoogenaamd Batoe-schrift. Het jaartal is 932. Er wordt in vermeld, dat de vorst van Galoeh eene ovatie heeft ontvangen. Niet uitgegeven. Het begin luidt: Swasti saka warsatita 932. L. 26,2, br. 11,7 c.M.\". Het jaartal 932 Saka lijkt een fout te zijn van de persoon die de tekst heeft gekopieerd. Het jaartal moet 832 Saka (= 910 n.Chr.) zijn. Er zijn meer fouten gemaakt, waarschijnlijk begreep de persoon die de kopie maakte niet precies wat er stond. De transcriptie is te vinden in Sarkar's \"Corpus of the inscriptions of Java\" onder LXXIX." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#identifier> "RV-1403-3340" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#yearCreatedEnd> "932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3340> <https://colonialcollections.nl/schema#yearCreatedStart> "932"^^<http://www.w3.org/2001/XMLSchema#integer> .

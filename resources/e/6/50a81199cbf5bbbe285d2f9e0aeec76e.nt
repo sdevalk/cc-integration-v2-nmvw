@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#name> "BATAVIA EN WELTEVREDEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#description> "Landschapsfoto’s ?\r\nGeografische herkomst/voorstelling geografie: Java, Bali\r\n\r\nVervaardiging\r\nKlein standaardalbum met lichtdrukken van Batavia en Weltevreden. Slappe omslag van roodbruin papier. Op de voorzijde is een bloemmotief gedrukt en 'Batavia en Weltevreden'. Gebonden met groenbruin koord door drie gaatjes. Bladzijden zijn grijs en hebben een voorgedrukt kader en tekst. Tussenvellen van pergamijn.\r\n* Opnamen en Importatie van de \"N.V. Handelmaatschappij Het Centrum\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#identifier> "TM-ALB-2532" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#creator> "Handelmaatschappij Het Centrum, N.V." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-2532> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#description> "Ook wel genaamd Monasteiro of Santa Maria de Vitoria. Dit klooster werd gesticht in 1387 en de bouw duurde 150 jaar. De architecten waren Alfonso Dominique tot 1402 en daarna Huquet tot 1438 en daarna Fernando de Evora tot 1477 en nog enkele daarna. Dit k" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#identifier> "RV-15145-7-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15145-7-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

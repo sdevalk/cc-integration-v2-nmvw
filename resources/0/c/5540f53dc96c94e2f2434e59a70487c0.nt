@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#name> "Wrijfprent" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#description> "Konghai kuangcao tu 空海狂草圖Kukai writing “crazy draft script”：Rubbing after a  portrait of Master Konghai 空海 (774-835) or Kūkai in Japanese. He introduced esoteric Buddhist teachings in Japan, founded the Shingon sect and supposedly introduced male love into Japanese monastic life. Purchased from the Steles Forest in Xi’an, where the original stone is kept, in 1990.\r\n\r\nRubbing of ‘kong hai’ (ocean of emptiness) ‘Ku Kai’ (in Japanese). Seal of Laurent’s studio “liao sizhai chang’ kept at the studio of cool thoughts’ (clearing your mind)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#identifier> "7240-28" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#material> "papier ; krijt ; wrijven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7240-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

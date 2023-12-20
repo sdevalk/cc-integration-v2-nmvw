@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20408> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20408> <https://colonialcollections.nl/schema#description> "[ST] kralensnoer & ophanglus\r\n[KL] kraal : rood & oranje/wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20408> <https://colonialcollections.nl/schema#identifier> "WM-20408" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20408> <https://colonialcollections.nl/schema#material> "kalebas, katoengaren, glas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-20408> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"TIME FOR TRANSITION\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#description> "De film is gemaakt voor de Tripartite Worldconference on Emplyment. (J. de Jonge, 1975)\r\n\r\nDe film is in kleur en bevat optisch geluid. De film is voorzien van Engels commentaar. Het is een animatiefilm.\r\nHet is een 16mm film." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#identifier> "TM-90000082" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#creator> "Dhr. L. (Louis) Emmerij" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#creator> "Dhr. B. (Bjorn) Jensen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#creator> "Dhr. B. (Bert) Kroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#creator> "Dhr. P. (Peter) David" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#creator> "International Labour Office (ILO)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000082> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

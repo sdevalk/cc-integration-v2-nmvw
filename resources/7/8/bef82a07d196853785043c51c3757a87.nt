@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#name> "Beeld: dierenfiguur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#description> "Olifant, het rijdier van Samantabhadra, staand met opstaande oren en tegen het lijf geslagen staart; de slagtanden komen tegen de snuit. Op de rechterzijde in Oudjavaanse karakters het opschrift: [ ... ] (KATIGA = de derde [maand]). \r\n\r\nInfo. (vlg. Juynboll):\r\nColl. Smissaert, 1830. \r\n\r\nLit. (vlg. Juynboll):\r\nLeemans, no. M, 186. Vgl. Groeneveldt, no. 720-721. Not.Bat.Gen. XXVIII, p. LXXII, no. 720a.\r\nT.a.v. rijdier: Knebel, Wahana's, 325." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#identifier> "RV-1403-1636" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#inscription> "Een opschrift van 2 à 3 Oudjavaanse karakters: katiga = de derde (maand).\r\n(Vlg. Juynboll)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1636> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .

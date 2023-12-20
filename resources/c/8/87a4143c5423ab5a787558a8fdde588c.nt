@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1468-5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1468-5a> <https://colonialcollections.nl/schema#name> "Vingerring" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1468-5a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1468-5a> <https://colonialcollections.nl/schema#identifier> "RV-1468-5a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1468-5a> <https://colonialcollections.nl/schema#material> "koper" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1468-5a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

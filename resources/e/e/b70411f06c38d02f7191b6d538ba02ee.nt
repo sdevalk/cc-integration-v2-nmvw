@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN VOGELVERKOPER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <https://colonialcollections.nl/schema#description> "Model van een vogelverkoper. Het maakt deel uit van een groep zogenoemde voorstellingen uit het Javaanse volksleven, serie 887-1 t/m 887-7 die met zeer veel precisie zijn weergegeven en beschreven. Alle onderdelen worden afzonderlijk benoemd en voorzien van inheemse termen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <https://colonialcollections.nl/schema#identifier> "TM-887-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-887-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

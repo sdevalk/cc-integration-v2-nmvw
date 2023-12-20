@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#name> "MAT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#description> "Een grasmat, bestemd voor in de woning doch mogelijk ook in de umiak (door vrouwen geroeide meerpersoonsboot) gebruikt. De Inuit maakten traditioneel heel wat produkten van gras, of het nu getwijnd of gevlochten werd. Daarbij valt niet alleen aan matten te denken, maar ook aan deurgordijnen, windschermen, tassen en zakken. Er werden tevens sokken en wanten van gras vervaardigd. Tegenwoordig maakt men voor de verkoop onderzetjes, schoteltjes en modellen van flesjes of zelfs een theepot." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#identifier> "RV-1225-91" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#material> "gras" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1225-91> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#name> "Vuurwaaier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#description> "A tool for stirring up a fire made from pinnate leaves of sago palm pinnae are woven together. The tool is being used by women to stir up the fire." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#identifier> "7086-61c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#material> "palmblad (sago) ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#locationCreated> "Siberut" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#alternateName> "Great Fortune" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#alternateName> "Groot Fortuin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#alternateName> "Siberoe Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#alternateName> "Siberut"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#alternateName> "Siberoet Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#alternateName> "Poelau Siberoet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7086-61c> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

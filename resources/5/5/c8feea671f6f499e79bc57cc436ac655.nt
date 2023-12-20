@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#name> "JAVA. EEN JAVAANSCH MEISJE ALS RIJSTPLUKSTER." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#description> "Studioportret en face van jong meisje met een bundel geoogste rijst onder haarlinkjerarm geklemd en een rijsthakje achterop haar hoofd in haar knot gestoken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#identifier> "WM-940151-122" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#inscription> "titel linksonder foto gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#material> "offsetdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#creator> "Satake, K.T." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940151-122> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

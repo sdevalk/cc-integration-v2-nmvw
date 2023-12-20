@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#name> "VOETSTUK VAN SCULPTUUR VAN LINGGA IN DE TJANDI IDJO VAN HET PRAMBANAN TEMPELCOMPLEX BIJ JOGJAKARTA OP MIDDEN-JAVA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#description> "map: oud nr. 499  foto's en lichtbeelden van tekeningen van tempels uit de tempelgroepen bij Parambanan en op de goenoeng idjo (tekenaar H.L.L. Melville)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#identifier> "RV-1403-3786q" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3786q> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

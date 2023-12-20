@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#name> "'ZENDINGSFEEST KWAW'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#description> "Manokari-Kwawi.22 mei 1961,2de Pinksterdag op het Zendingsterrein in Kampong Kwawi. Aandachtig wordt naar de preek van  dominee ten Kate geluisterd in de open lucht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#identifier> "RV-15228-195" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#creator> "W.J. (Wilhelmina) Meijer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-195> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

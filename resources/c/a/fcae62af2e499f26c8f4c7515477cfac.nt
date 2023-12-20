@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#name> "LOKCAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & pola : lokcan\r\n        badan & hoofdpatroon & motief : feniks & bloem : celuki & soort roos\r\n        pinggir & hoofdpatroon & motief : meander\r\n        korte kanten & hoofdpatroon & motief : kemada\r\n        seret & hoofdpatroon & motief : effen\r\n        badan & hoofdpatroon : design-element : ruit (klein) & gearceerde\r\n        streep (klein)\r\n        badan & achtergrondpatroon : design-element : cocohan\r\n[KL] ondergrond : lichtgrijs\r\n        motief : donkerbruin & bruin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#identifier> "WM-2114" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#material> "zijde\r\ngeweven, batik, tulis, cocohan, handgedraaid (franje)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-2114> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .

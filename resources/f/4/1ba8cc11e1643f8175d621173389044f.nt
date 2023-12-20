@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"THE PRODUCTS OF JAVA\"" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#description> "Amerikaanse documentaire over de rijkdommen van Java.  (J. de Jonge, 1975)\r\n\r\nHet is een film in kleur met optisch geluid. Bld/sec. is 16. Het geluid is bld/sec. 24. De film bevat Amerikaans commentaar. De film is in ongeveer 1938 gemaakt en in 1944 voorzien van commentaar in oorlogs-teneur." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#identifier> "TM-90000295" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000295> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

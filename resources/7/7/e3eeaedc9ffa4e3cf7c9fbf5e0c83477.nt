@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#name> "TURKIJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#description> "Betreft drie reizen in 1972, 1974, 1982." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#identifier> "RV-13555" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#creator> "C.A.M. (Cornelia Anna Margaretha) ten Hagen-Verduyn" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13555> <https://colonialcollections.nl/schema#yearCreatedStart> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#description> "[ST] voet & hals & tuit (lange) & oor & scharnierdeksel\r\n[VO] rond (middenstuk)\r\n[DE] ornament : drakenkop (3) & floraal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#identifier> "WM-29002" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#inscription> "[B] Arabisch en Perzisch" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29002> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#name> "Vuurstok (paar)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#description> "Joel Ngallametta, Ron Yunkaporta en anderen\r\n\r\nVuurstokken vervaardigd door de Aurukun delegatie en door deze gedoneerd aan het AAMU. Deze werden gebruikt bij de officiële inhuldiging (dans) van de Law Poles in het AAMU in oktober 2007 en zijn zichtbaar op de foto’s van dit evenement." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#identifier> "7106-742q" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#material> "[NI]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-742q> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

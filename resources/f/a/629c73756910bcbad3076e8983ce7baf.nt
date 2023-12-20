@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#name> "BORSTLAP" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#description> "Borstlap voor kinderen.\r\nSlabbetje; driehoekig; de top afagerond voor de hals; aan de onderzijde verlengd met een kleiner driehoekig stuk; vervaardigd van verschillende stukjes gekleurd, gestreept en batikgoed; die in geometrische figuren, min of meer symmetrisch aan elkaar worden genaaid; bandjes aan de hoekpunten van de onderkant en de bovenkant.\r\nHerkomst: midden Java." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#identifier> "7082-S-153-16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-153-16> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

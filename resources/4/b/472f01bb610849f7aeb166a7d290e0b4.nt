@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#name> "PAAR W-KNOPEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#description> "Twee zilverkleurige knopen, zg. W-knopen, half bolrond; bolle rugzijde met kroon en W van Wilhelmina. De onderzijde is vlak met een oog voor vastmaken. Inscriptie aan onderzijde bij oog: 1A QUALITÄT. De W-knoop werd gebruikt in ambtskostuums (zie bijvoorbeeld TM-1591-1a en TM-674-722)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#identifier> "7082-S-3511-2ab" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#material> "metaal, verzilverd?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3511-2ab> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

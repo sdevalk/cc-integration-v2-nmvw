@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#name> "NOORTJE IN KLEDING VAN BEDRIJF SLEE. HUIS, MET AFVOER DIE STEEDS BEVROOR. ERACHTER EEN STUKJE VAN DE EIGEN KAJAK. HET REK AAN DE OVERKANT IS OOK TE ZIEN." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#identifier> "RV-13161-67-5-174" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13161-67-5-174> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#name> "Arnkerrthe - Mountain Devil Lizard" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#description> "De lijnen en gestreepte motieven verbeelden Awelye, patronen van ceremoniële lichaamsbeschilderingen die verbonden zijn met de Droom van Arnkerrthe, Mountain Devil Lizard (Hagedis) in de gebieden Atnanagkere en Alhalkere in Utopia." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#identifier> "7106-138" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#material> "canvas" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#creator> "A.B. (Ada Bird) Petyarre" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-138> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#name> "DOOS VOOR ZEGEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#description> "Niet oorspronkelijke, maar vermoedelijk wel speciaal voor zegel 7239-2a vervaardigde doos." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#identifier> "7239-2b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#material> "zijde ; been ; karton ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7239-2b> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .

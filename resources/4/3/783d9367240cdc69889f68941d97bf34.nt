@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#name> "NEDERLANDSE ANTILLEN EN SURINAME, BEELDMATERIAAL NOG UIT TE ZOEKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#description> "kb dia's en negatieven (26 films, z/w kleinbeeld) met contactvellen.\r\nDeze collectie is onderdeel van het nog niet uitgezochte en/of gedocumenteerde materiaal uit het herbarium (kast 32 t/m 35), dient nog geselecteerd te worden, is mooi materiaal!" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#identifier> "TM-FC-2006-38" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#creator> "Roy Tjin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FC-2006-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

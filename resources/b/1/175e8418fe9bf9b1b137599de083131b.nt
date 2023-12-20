@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#name> "Speer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nGeheel ijzeren speer, omkleed met leer. In het midden is een stukje huid met lange haren eraan. Onder dit haar zitten een aantal witleren ringetjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#identifier> "AM-14-79" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#material> "IJzer; leer; huid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#locationCreated> "Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#countryCreated> "Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Betschuanaland Protektorat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Betsjoeanaland Protektoraat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Northern Bechuanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Betsjoeanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Bechuanaland Protectorate" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Britse Protektoraat van Betsjoeanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "British Protectorate of Bechuanaland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#alternateName> "Republic of Botswana" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-14-79> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

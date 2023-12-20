@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <https://colonialcollections.nl/schema#description> "[VO] pagaai, blad en greep rood geverfd, laatstgenoemde met dwarse kruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <https://colonialcollections.nl/schema#identifier> "WM-19411" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <https://colonialcollections.nl/schema#material> "geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19411> <https://colonialcollections.nl/schema#locationCreated> "Caroline Islands" .

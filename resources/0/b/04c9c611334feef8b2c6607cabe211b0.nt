@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#name> "BEWAFFNETE MA-SULING VOM MÊRASE MIT IHREM HÄUPTLING IBAU LI." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, reisfotografie. Groepsportret op dorpsplein met hoofdman midden op de voorgrond." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#identifier> "WM-940146-1-13" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#inscription> "titel en plaatnummer 'Taf. 13.' resp. onder en rechtsboven foto gedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#material> "papier, lichtdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#creator> "Dhr. J. (Jean) Demmeni" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#creator> "Emrik & Binger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#creator> "Prof. dr. A.W. (Anton Willem) Nieuwenhuis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#creator> "Brill Publishing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#locationCreated> "Borneo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#alternateName> "Kalimanten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#alternateName> "Borneo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#alternateName> "Kalimantan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-940146-1-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

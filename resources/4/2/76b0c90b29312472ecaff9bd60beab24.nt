@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#name> "Pijp om lijnzaad te roken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#description> "De pijp wordt door de Sotho gebruikt om lijnzaad te roken.\r\n\r\nBeschrijving\r\nPijp, uit één stuk hout gesneden. De steel is versierd met gewonden koperdraad. De binnenkant van de pijpekop is bekleed met een ijzeren plaatje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#identifier> "AM-1-49" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#material> "Hout; koperdraad; ijzer\r\nUit één stuk hout." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-1-49> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

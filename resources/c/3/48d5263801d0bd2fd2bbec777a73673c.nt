@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#name> "DOOS MET DEKSEL IN DE VORM VAN EEN VOGEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#description> "Doos in de vorm van een kraanvogel met decoraties in blauw, rood en bovenglazuur goud. Arita porselein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#identifier> "RV-1357-32a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#material> "porselein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1357-32a> <https://colonialcollections.nl/schema#yearCreatedStart> "1780"^^<http://www.w3.org/2001/XMLSchema#integer> .

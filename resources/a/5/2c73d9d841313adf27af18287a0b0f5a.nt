@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#name> "KATOEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#description> "Een monster gezuiverde katoen zoals deze uit de katoenmolen komt. Soms wordt deze katoen nogmaals nagekeken. De katoen die vuil of lelijk is wordt met Ricinusboontjes vermengd om er kaarsen van te maken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#identifier> "RV-140-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Larantuka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-140-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .

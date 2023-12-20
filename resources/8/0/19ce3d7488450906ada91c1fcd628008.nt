@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#name> "POSTER MET PORTRET VAN KONING HASSAN II" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#description> "Portret van Hassan II (1929-1999), koning van Marokko van 1961 tot aan zijn overlijden in 1999. Zijn beeltenis wordt omringd door kleinere portretten van de vorsten die hem voorgingen, inclusief zijn vader Mohammed V (tweede rij midden)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#identifier> "7158-12" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

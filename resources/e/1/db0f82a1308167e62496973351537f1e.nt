@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24508> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24508> <https://colonialcollections.nl/schema#description> "inhoud : kalk\r\n1 = stop   ([ST] koord)\r\n2 = koker ([ST] bodem (Chinees Ming porselein) & schildpadbekleding &\r\n                         sierband (ter bevestiging van bekleding) & voering\r\n                         (onder bekleding)\r\n                  [DE] snijwerk : sierband\r\n                  [KL] bodem : blauw & wit)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24508> <https://colonialcollections.nl/schema#identifier> "WM-24508" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24508> <https://colonialcollections.nl/schema#material> "bamboe, schildpad (bekleding), ivoor (sierband), kalebas (stop), porselein (bodem), katoengaren, katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24508> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

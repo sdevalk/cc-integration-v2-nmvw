@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27817> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27817> <https://colonialcollections.nl/schema#description> "[VO] fries, van inheems weefsel, van eind tot eind in verschillende\r\n        kleuren beschilderd, blijkbaar met een doorlopend verhaal.\r\n        Zoals blijkt uit de zelfkanten, werd het doek op deze breedte\r\n        geweven." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27817> <https://colonialcollections.nl/schema#identifier> "WM-27817" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27817> <https://colonialcollections.nl/schema#material> "inheems geweven & beschilderd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-27817> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

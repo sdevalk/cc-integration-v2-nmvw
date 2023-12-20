@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#name> "'ARFAK: KAMPONG LODEWIJK'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#description> "Manokwari. Z.M.K. mantri Adrie Warisju verzorgd een hoofdwond van een Arfakpeuter op de arm van de moeder." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#identifier> "RV-15228-111" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#creator> "W.J. (Wilhelmina) Meijer" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15228-111> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

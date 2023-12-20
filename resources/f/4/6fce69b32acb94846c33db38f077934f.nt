@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#name> "GA RECHTVAARDIG VOORT AUSTRALIE/ADVANCE AUSTRALIA FAIR (THE NETHERLANDS)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#description> "Onderdeel van de instalatie Peripheral Vision 2006" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#identifier> "7106-489" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#material> "aluminium ; gemengde techniek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#creator> "Brenda L. Croft" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7106-489> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .

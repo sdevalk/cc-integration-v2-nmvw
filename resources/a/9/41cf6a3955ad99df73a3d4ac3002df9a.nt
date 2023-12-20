@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <https://colonialcollections.nl/schema#name> "Dolk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nDolk met een ijzeren lemmet dat is voorzien van diagonale groeven. Naar het handvat toe zijn er schuin onder elkaar een tweetal gaten aangebracht. Het handvat is omwikkeld met koperband in diabolomodel." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <https://colonialcollections.nl/schema#identifier> "AM-17-1234" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <https://colonialcollections.nl/schema#material> "IJzer; koperband" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-1234> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

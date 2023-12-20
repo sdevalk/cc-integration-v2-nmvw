@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#name> "'BOLIVIA, EEN DIABLADA DANSER'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#description> "Deze prent toont onder de titel 'Bolivia' een afbeelding van een persoon die uitgedost is voor het carnaval van Oruro. Traditioneel worden tijdens dit carnaval de 'Diabladas' uitgevoerd, dansen waarin de dansers gekleed zijn in een drakenmasker en pak (zie bijvoorbeeld TM-4777-1*). Het carnaval van Oruro is in 2001 door de UNESCO uitgeroepen tot één van de \"Masterpieces of the Oral and Intangible Heritage of Humanity\"." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#identifier> "7158-189" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7158-189> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#name> "BINNENMAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#description> "Deze binnenmand hoort in de gelijkvormige buitenmand RV-1380-3a.\r\n\r\nManden gevlochten van pandanus- en kokosbladeren komen in heel Micronesië voor en worden gemaakt in een aantal basismodellen. De meest gevlochten mand is de langwerpige open variant waaraan vaak gevlochten hengsels werden bevestigd om hem om de schouder te kunnen dragen. In de manden werden betelnoten, tabak, parfum en andere kleine persoonlijke bezittingen bewaard." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#identifier> "RV-1380-3b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#material> "pandanblad ; blad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1380-3b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

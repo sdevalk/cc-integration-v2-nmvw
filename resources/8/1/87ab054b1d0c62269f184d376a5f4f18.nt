@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#description> "op doos zit met tape vastgeplakte inventarislijst met titels; plus in doos 15197 blocnotevel met naam, adres etc ; dia's zijn niet genummerd (14 apr 2008)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#identifier> "RV-15197-1/100" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#material> "dia's in glasloze kunststoframen in slededoos" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#creator> "J.J. Koelman" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15197-1/100> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

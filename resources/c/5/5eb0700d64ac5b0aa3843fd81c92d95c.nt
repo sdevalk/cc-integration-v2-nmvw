@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#name> "Tas wordt gevuld met kola-noten en om de arm gedragen door een hoogwaardigheidsbekleder" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#description> "Deze tas wordt gevuld met colanoten en om de arm gedragen door hoogwaardigheidsbekleders.\r\n\r\nBeschrijving\r\nGevlochten tas." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#identifier> "AM-107-21" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#material> "Textiel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#alternateName> "Congo (Brazzaville)"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/AM-107-21> <https://colonialcollections.nl/schema#alternateName> "Moyen-Congo" .

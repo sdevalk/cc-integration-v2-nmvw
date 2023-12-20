@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#name> "Halssieraad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#identifier> "RV-1184-167" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#material> "zaad ; peulvrucht" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#locationCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Brasilien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "United States of Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Brésil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Federative Republic of Brazil"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Brasíle" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brazil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#alternateName> "República dos Estados Unidos do Brasil" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1184-167> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

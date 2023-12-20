@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <https://colonialcollections.nl/schema#name> "HOUTEN POP JAVAANSE MAN IN HOFKLEDING" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <https://colonialcollections.nl/schema#description> "De pop behoort tot een set van vier poppen (8-126a t/m 8-126d).  De poppen zijn gesneden uit het zachte hout van de kapokboom. De poppen stellen mannen voor uit Midden Java in hofkleding. De poppen zijn bedoeld voor kinderspeelgoed." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <https://colonialcollections.nl/schema#identifier> "TM-8-126c" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-8-126c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#name> "DIVINATIE-ATTRIBUUT ; STAAFJE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#description> "Nabij het uiteinde waar het staafje aanmerkelijk dikker is, is uit het hout zeer fraai een zittend monster gesneden als de Chinese \"Ky-lum\", zittend op een soort lotuskussen, onder de voorpoten een masker, een dito masker aan de achterzijde van het snijwerk dat de kop en rug van het monster bedekt. De stift is met drakenbloed intensief rood gekleurd, het gladde gedeelte in donkerder spiraalband, blijkbaar d.m.v. uitsparing. De stift dient volgens de heer Van Dalen om daarop ziekte af te leiden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#identifier> "WM-26887" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-26887> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

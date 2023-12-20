@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#name> "ZWEEP VAN GEVLOCHTEN ROTAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#identifier> "TM-A-10416" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#material> "De zweep bestaat uit een 1,5 centimeter dikke rotan stengel waarvan de vezels aan één van de einden over een lengte van ca. 38 centimeter zijn uitgerafeld en daarna tot vier dikke slagkoorden zijn gedraaid waarvan de einden geknoopt zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-10416> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .

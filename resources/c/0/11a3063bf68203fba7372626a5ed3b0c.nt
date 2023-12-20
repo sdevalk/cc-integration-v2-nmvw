@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#name> "BEELD: KALI OF BHAIRAWI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#description> "De tweearmige godin zit in wirasana (heldenzit), op een lijk dat op het lotustroon is geplaatst, symbolisch voor het lijkenveld. De rechterhand rust op de knie, met palm open naar boven gekeerd, een rond voorwerp met een uitholling erin. Dit is waarschijnlijk bedoeld als een kapala = schaal van schedel, die het bloed van slachtoffer opvangt. De linkerhand houdt een drietand (trisula) vast, waaraan een vliegenwaaier (camara) een kleine bel (ghanta) met een lint vastgebonden zitten. Het haar, opgewonden tot een hoge knoet, is aan de voorkant versierd met een doodshoofd en een halve maan, en met een band van doodshoofden rondom. Zij draagt rijke ornamenten, inclusief buikband, en een kastekoord (upavita) bestaande uit doodshoofden, en enkellang heupkleed. Brede linten vormen een grote strik op de heupen en vallen vanuit de schoot in plooien over het voetstuk. Met eivormige nimbus en rechthoekig achterstuk, rechts boven afgebroken." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#identifier> "RV-1403-1590" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#material> "steen, grijs/geel andesiet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Dutch East Indies" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#alternateName> "Netherland India" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-1590> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

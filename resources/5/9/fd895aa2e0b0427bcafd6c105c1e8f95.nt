@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <https://colonialcollections.nl/schema#description> "1 = oliehouder voor olie en pit\r\n2 = tochtglas met geslepen vlakken\r\n3 = houder met opengewerkte zijrand\r\n      ([DE] plant & geometrisch figuur (Chinees letterteken?))\r\n4 = sluitdeksel met schroefsluiting" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <https://colonialcollections.nl/schema#identifier> "WM-24122" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <https://colonialcollections.nl/schema#inscription> "[B] Chinees teken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <https://colonialcollections.nl/schema#material> "messing, glas, katoengaren (lampepit)\r\n[PL] China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-24122> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

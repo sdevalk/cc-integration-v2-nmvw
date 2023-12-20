@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#name> "‘SELF-PORTRAIT’" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#description> "The sculpture ‘Self-portrait’ by Mattiusi Iyaituk is a self-representation of the artist, as a hunter at a seal’s breathing hole. Iyaituk  used the traditional identity but he reshapes this into a form of modern art, using different materials, unusual for Inuit art in the past, to make his point. The NMVW keeps only traditional and more romantic depictions of hunters and their pray. This sculpture can be typified as a post-colonial hunter’s expression." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#identifier> "7220-6" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#material> "serpentijn ; gewei ; kunstvezel ; houwen ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#creator> "M. (Mattiusi) Iyaituk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7220-6> <https://colonialcollections.nl/schema#yearCreatedStart> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .

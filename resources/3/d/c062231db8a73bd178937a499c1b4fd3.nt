@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#name> "DEEL VAN SCHILDERING BESTAANDE UIT DRIE PLANKEN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#description> "De hele schildering stelt een vorst met keling kapsel, een vorstin en een boom voor." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#identifier> "TM-883-9b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#material> "verf op paneel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-883-9b> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#description> "1 = stop   ([ST] kwast\r\n                 [DE] bovenzijde : 8-bladige bloem)\r\n2 = koker ([DE] 4 banden met cirkels & tumpalrand)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#identifier> "WM-25611" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#material> "bamboe, zwartsel (kemirinoot [*1]), katoengaren (kwast), kalebas (bodem), hout (stop)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#locationCreated> "Central Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Tengah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Tengah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-25611> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi"@en .

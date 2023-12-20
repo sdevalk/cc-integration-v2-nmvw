@@ -1,0 +1,20 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#name> "Celebes, Stad Vlaardingen - Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#description> "Celebes, Stad Vlaardingen - Macassar ; gezicht op een fort ; rechts en links een bastion met Hollandse vlaggen ; in de verte een schip met idem vlag ; geheel rechts een moskee ; op de voorgrond een rivier met op de oever een tekenaar (Verhuell?) en aan de overkant zeven spelende figuren (jongens of mannen) ; links een klapperboom" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#identifier> "7082-S-3334" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#material> "lithografie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#creator> "Jean Baptiste Ambroise Marcellin Jobard" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#creator> "Quirijn Maurits Rudolph Ver Huell" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#locationCreated> "Makassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Makassar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Makasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Ujungpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Djumpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Makasser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Udjung Pandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#alternateName> "Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3334> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
