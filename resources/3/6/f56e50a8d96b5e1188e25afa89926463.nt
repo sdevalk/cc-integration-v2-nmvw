@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#name> "WATERDRUPPELAAR IN DE VORM VAN EEN WALVIS. AARDEWERK." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#description> "Waterdruppelaar in de vorm van een walvis, zwart, met een witte buik, witte vlekken boven de ogen en een op de neus. De walvis heeft uitgespreide zijvinnen en een geopende bek.\r\nBovenop de neus bevinden zich twee kleine gaatjes; in de bek een groot gat." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#identifier> "RV-1-3432" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#material> "aardewerk of steengoed ; geglazuurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3432> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#name> "MOHAWK INDIANS, CAUGHNAWAGA, CANADA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#description> "Mohawks in Caughnawaga, ten zuiden van Montreal. De opname is door Herman ten Kate zelf gemaakt in het voorjaar van 1886." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#identifier> "WM-900587" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#inscription> "titel met inkt onder foto op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#material> "papier, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#creator> "Dr. H.F.C. (Herman Frederik Carel) ten Kate jr." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900587> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

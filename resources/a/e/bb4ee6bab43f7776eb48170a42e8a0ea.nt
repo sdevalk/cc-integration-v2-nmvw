@@ -1,0 +1,24 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#identifier> "RV-15135-10-46" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#locationCreated> "Xi'an" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Hsi-ching" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Singan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Hsi Gnan Fu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Hsingan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Hsi-an"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Hsi-ching-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Sianfu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Si-Gan-Fu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Ch’ang-an" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Xi’an Shi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Siking" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Ch’ang-an-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Sian" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#alternateName> "Hsi-an-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-10-46> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

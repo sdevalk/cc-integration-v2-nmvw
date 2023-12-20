@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#name> "EEN STENEN PRESSE-PAPIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#description> "Een rechthoekige mosgroene presse-papier, met vegen in bruin en andere tinten groen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#identifier> "RV-1-3424" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#inscription> "Op de bovenkant van de presse-papier is -bovenaan- een Von Siebold-etiket geplakt, met het nummer V I 50. Onder dit etiket is een restje van een ander etiket. Linksonder in de hoek zit een zwart inktvlekje, en de presse-paier vertoont overal krasjes, maar vooral op de onderkant en de achterkant." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#material> "jade" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3424> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

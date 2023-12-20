@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#name> "Gelegenheids- of geluksmunt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#description> "Bronzen gelegenheidsmunt met afbeelding van paard met de drie juwelen ('sangyoku goma'). Aan achterzijde de inscriptie 'Genbun gonen' (vijfde jaar van de periode Genbun)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#identifier> "RV-1-2103" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#material> "brons ; gietwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1740"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2103> <https://colonialcollections.nl/schema#yearCreatedStart> "1740"^^<http://www.w3.org/2001/XMLSchema#integer> .

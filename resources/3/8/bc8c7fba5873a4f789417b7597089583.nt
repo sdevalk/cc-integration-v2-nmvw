@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#name> "SEMEN (= KRULLENDE PLANTENRANKEN EN UITBOTTEND LOOF) EN CEMUKIRAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#description> "[PA] badan & hoofdpatroon & pola : semen (= krullende\r\n        plantenranken en uitbottend loof)\r\n        badan & achtergrondpatroon & design-element : ukel\r\n        tengahanrand & hoofdpatroon & motief : cemukiran (sidderaal)\r\n[KL] naturel & indigoblauw & sogabruin\r\n[VO] tengahan : rechthoek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#identifier> "WM-75868" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, gebatikt, tulis, craquele" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75868> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

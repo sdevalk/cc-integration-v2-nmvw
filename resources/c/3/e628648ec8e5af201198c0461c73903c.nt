@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#description> "[VO] met diepe groef." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#identifier> "WM-8777" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#material> "tridacnaschelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#locationCreated> "Saint John Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Anir Group" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Aneri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Feni Group" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Anir Inseln" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Feni Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Feni Inseln" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Wonneram Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Anir Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "St. John Islands"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Saint John Islands"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8777> <https://colonialcollections.nl/schema#alternateName> "Wŏneram-Inseln" .

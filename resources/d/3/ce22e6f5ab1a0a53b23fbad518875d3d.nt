@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#description> "Studioportret van een Japanse schilder aan het werk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#identifier> "WM-903833-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#inscription> "'371' geschreven in negatief r.o." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#material> "[TK] albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#creator> "F. (Felice) Beato" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#creator> "Stillfried-Rathenitz, R. von, Baron" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .

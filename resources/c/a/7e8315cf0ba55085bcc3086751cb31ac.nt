@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#name> "STUDIOPORTRET VAN EEN FAMILIE UIT CUZCO." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#description> "De lokale burgerij vormde de belangrijkste klantenkring van Chambi en maakte zijn commerciële ontwikkeling als studiofotograaf mogelijk.\r\nGeposeerd familieportret, bestaande uit een oudere vrouw, een jonge vrouw, twee mannen, twee jonge mannen en een klein meisje. Studio-opname voor beschilderd decordoek." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#identifier> "WM-420103" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk, nieuwe afdruk (1990) van glasnegatief 18x24 cm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#creator> "Chambi, M." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420103> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .

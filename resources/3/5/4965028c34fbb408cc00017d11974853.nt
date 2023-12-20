@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#name> "CAMOUFLAGESCHERM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#description> "Er staat nog geen foto van dit object in het computersysteem, zodat een gedetailleerde beschrijving nog even op zich laat wachten. Algemeen gesteld zijn er twee soorten camouflagescherm: die op de kajak bevestigd worden en die op een zogenaamd schietsleetje gemonteerd zijn. Voor het eerste kunnen als voorbeeld dienen RMV 4458-97 en 470280a-c, voor het tweede RMV 4458-8a-g en 4702-81a-c. Camouflageschermen worden door jagers gebruikt bij de jacht op zeehonden om onopvallend de dieren te kunnen benaderen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#identifier> "RV-01-52" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-01-52> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

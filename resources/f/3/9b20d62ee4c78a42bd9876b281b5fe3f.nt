@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <https://colonialcollections.nl/schema#description> "[ST] gat (in onderzijde) & band (om middel en op hoofddeksel) &\r\n        koker bevestigd d.m.v. plantenvezel\r\n[VO] mensfiguur (tot middel duidelijk weergegeven) met\r\n        hoofddeksel, zeer lange oren, halsring, tepels,\r\n        onderlichaam (gestileerd) en zonder armen\r\n[KL] band : rood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <https://colonialcollections.nl/schema#identifier> "WM-14030" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <https://colonialcollections.nl/schema#material> "hout, rotan, katoen (band)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14030> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#name> "NAAR DE KERK. AMBON." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#description> "Drie staande vrouwen, twee en face, een en profil naar links, in een groep poserend, vergelijkbaar met de drie gratiën. Ze staan op straat voor een laken, dat op de hoek van een houten gebouw is opgespannen. De vrouw links is blootsvoets, de twee rechts dragen slippers met opgekrulde punten en lichte sokken. De vrouwen dragen een boek (de Bijbel) in de hand." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#identifier> "WM-902753-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#inscription> "titel geschreven op voorzijde karton [handschrift Bassecour Caan?]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#material> "papier, albuminedruk, kabinetfoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#creator> "P. (Paulus) Najoan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902753-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

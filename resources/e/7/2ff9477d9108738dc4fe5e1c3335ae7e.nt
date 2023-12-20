@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#name> "BEELD VAN MENSENFIGUUR" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#description> "Stenen beeldje van een mensenfiguur. Met brede incisielijnen zijn de verschillende lichaamsonderdelen weergegeven: een hoofd met diagonale groeven, armen met kruisende lijnen op het torso, een heupband met diagonale lijnen en de benen met horizontale lijnen. Authenticiteit staat ter discussie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#identifier> "RV-1144-43" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#material> "steen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1144-43> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

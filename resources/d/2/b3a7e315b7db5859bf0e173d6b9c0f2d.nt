@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#name> "SCHOUDERDOEK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#description> "Een omslagdoek gemaakt van geweven katoen. De doek is geïkat en bestaat uit twee identieke banen, die in de lengte aan elkaar zijn genaaid. De doek heeft als basiskleur donkerblauw en is versierd met over het gehele oppervlak groepen van rode strepen en witte lijnen in de lengte, die afgewisseld worden door in twee symmetrische helften geïkatte banen met symmetrische krullen en haakfiguren in wit." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#identifier> "RV-1-135" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-135> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

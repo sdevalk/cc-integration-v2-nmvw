@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#name> "HUIS VAN CHATIB NEGRI TE SOEPEJANG." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#description> "Het huis van Katieb Negri. Adathuis, familiehuis van de stichter van het dorp." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#identifier> "WM-903040" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op achterzijde karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#material> "ontwikkelgelatinezilverdruk, reproduktie \"Reproductie Miedema van foto uit D.D. Veth's Album der Sumatra-expeditie.\" [met inkt geschreven op achterzijde karton]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#creator> "D. D. (Daniël David) Veth" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903040> <https://colonialcollections.nl/schema#yearCreatedStart> "1877"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75889> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75889> <https://colonialcollections.nl/schema#description> "[KL] wit & groen & oranje & goud & zwart & bruin\r\n[PA] bloem & geometrische figuren (ingeweven)\r\n[DE] bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75889> <https://colonialcollections.nl/schema#identifier> "WM-75889" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75889> <https://colonialcollections.nl/schema#material> "gefigureerde zijde, gouddraad, floszijde\r\ngeweven, geborduurd, shibori (reserveringstechniek)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75889> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

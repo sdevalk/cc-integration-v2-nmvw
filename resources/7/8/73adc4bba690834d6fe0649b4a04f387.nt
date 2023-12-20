@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#name> "MUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#description> "Bronzen munt als nr. 360/4005 (197) uit de Le Dynasty  1428-1785, met het opschrift Dien-ninh-thong-bao. Geslagen tijdens de regeerperiode  van de derde koning Nhon-Tong (1443 - 1459) ter gelegenheid van zijn tweede nien-hao (1453-1459)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#identifier> "RV-1-4061" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#yearCreatedEnd> "1459"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4061> <https://colonialcollections.nl/schema#yearCreatedStart> "1453"^^<http://www.w3.org/2001/XMLSchema#integer> .

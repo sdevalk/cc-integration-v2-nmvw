@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#name> "WATERDRUPPELAAR IN DE VORM VAN EEN DUIZENDJARIGE SCHILDPAD, MINOGAME MET EEN WIJZE, SENNIN, OP ZIJN RUG. AARDEWERK." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#description> "Een waterdruppelaar in de vorm van een 'minogame': een duizendjarige schildpad, met een zittende 'sennin', een Chinese wijze op zijn rug. De minogame is te herkennen aan zijn staart van zeewier. De sennin heeft een baard, een knotje op zijn hoofd, en draagt een wijd gewaad. Hij houdt zijn handen op de knieen.\r\nKop en staart van de schildpad zijn bruin gekleurd; de poten groen en het schild geel en groen. De kleuren van de sennin zijn bruin en groen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#identifier> "RV-1-3600" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#material> "aardewerk of steengoed ; geglazuurd (in verschillende lagen)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3600> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .

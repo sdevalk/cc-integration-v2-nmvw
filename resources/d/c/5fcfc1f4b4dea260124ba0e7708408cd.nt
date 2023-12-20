@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#name> "HAKMES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#description> "Een hakmes gemaakt van gesmeed ijzer. Het mes is licht gebogen met een dikke rug. Naar voren wordt het mes dunner. De snede loopt iets hol. Het uiteinde is recht afgesneden. Het mes is in een steel van bamboe gestoken, die naast het mes trapeziumvormig is gesneden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#identifier> "RV-1-360" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#material> "ijzer ; bamboe" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-360> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

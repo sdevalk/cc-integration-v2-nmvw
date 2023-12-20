@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#description> "1 = onderstuk met koord (h 7.5 x br 9 x dikte 4 cm / metaal & celluloid) 2 = pijp (h 33 x br 3.7 x dikte 3.5 cm) 3 = tabakshouder (l 12.5 x diam 1.5 cm) 4 = binnenbak (h 3.8 x br 3.5 x l 3.5 cm) 5 = kwast (l 17.5 x diam 0.7 cm / metaal & haar) 6 = koker (l 7 x diam 1 cm)\r\n\r\nWerd gebruikt om tabak mee te roken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#identifier> "WM-13614" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#material> "metaal, textiel, haar, celluloid" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13614> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .

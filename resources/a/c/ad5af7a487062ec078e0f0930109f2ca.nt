@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#description> "[KL] paars & groen\r\n[VO] 2) drie, in doorsnee ronde, wollen koorden - twee paars, een groen met paars\r\naan elk uiteinde komen ze samen bij dikke knoppen, bekleed met verschillende kleuren wol, waaraan paarse en groene franje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#identifier> "WM-30776-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#material> "wol" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#locationCreated> "North" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#countryCreated> "Cameroon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30776-2> <https://colonialcollections.nl/schema#alternateName> "North Province"@en .

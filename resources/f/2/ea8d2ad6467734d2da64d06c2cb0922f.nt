@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#description> "[VO] Ivo Opstelten (burgemeester Rotterdam) met hoofddoek : iket &\r\n         voetstuk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#identifier> "WM-75497" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#inscription> "[T] SOUVENIR FROM\r\nmuseum and cultural office of propince of DKI Jakarta\r\nWayang museum\r\nMonday August 14th. 2005" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#material> "hout, textiel, papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75497> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

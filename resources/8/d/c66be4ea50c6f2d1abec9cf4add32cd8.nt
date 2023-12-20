@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#name> "CHIPPEWA MEISJE, VERENIGDE STATEN (1902)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#description> "Portret van een meisje in de traditionele, met veel kralen geborduurde jurk van dierenhuid. Dergelijke romantische kleurenafdrukken werden gemaakt voor de verkoop aan toeristen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#identifier> "WM-900638" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#material> "lichtdruk met zes kleuren in steendruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#creator> "Campbell, A.S." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900638> <https://colonialcollections.nl/schema#yearCreatedStart> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77377> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77377> <https://colonialcollections.nl/schema#description> "Op touw geregen 20 zilveren kralen (h 3,6 x br 2,8 cm), 1 zilveren belvormige hanger (h 4,7 x br 3,5 cm) gevuld met lak waarin nog 3 rode zaden aanwezig zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77377> <https://colonialcollections.nl/schema#identifier> "WM-77377" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77377> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77377> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

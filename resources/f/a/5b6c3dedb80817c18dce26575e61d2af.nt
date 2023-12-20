@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#description> "[VO] voorstellende een vrouw, die door een draak, waarvan\r\n        slechts de kop met de geopende muil zichtbaar is, wordt\r\n        verslonden. Zij houdt met beide handen een punt van het \r\n        kleed vast.\r\n        Het is een uitbeelding van de mythe van de godin Ratih, \r\n        het vrouwtje in de maan, dat bij maansverduistering heet\r\n        te worden verslonden door de demon kalaraoe." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#identifier> "WM-30042" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#material> "tjendana-hout.\r\nModern houtsnijwerk in de oude stijl." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30042> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

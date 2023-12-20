@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#name> "REMIDDEN: DEEL TEKST: LIEUT. GENERAL VAN OYEN INSPECTS PAPOUA BATTALION, KOTANICA. ... ON 30TH MAY, 1945... PHOTO SHOWS: THE PAPOUA BATTALION MARCHING DURING THE INSPECTION BY LT. GE. VAN OYEN." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#identifier> "RV-10492-5.02" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#creator> "Netherl Indies Government Information Office" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#yearCreatedEnd> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10492-5.02> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#name> "COUSCOUS LIGT OP DOEKEN TE DROGEN OP DAKTERRAS VAN FLATGEBOUW AAN RUE D'ATHÈNES IN OUDE WIJK LANGS HOOFDWEG AVENUE HABIB BOURGUIBA; DE COUSCOUS IS DOOR DE VERSCHILLENDE BEWONERS VAN HET GEBOUW GEMAAKT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#identifier> "RV-13783-1976.01.34" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#material> "Ektachrome, Kodachrome, Agfachrome CT18" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#creator> "drs. W.H.S. Rosema" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13783-1976.01.34> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

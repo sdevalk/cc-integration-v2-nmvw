@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#name> "VROUW IN LUXE KIMONO LOOPT MET LANTAARN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#description> "Vrouw in luxe furisode (kimono met lange mouwen, bestemd voor ongetrouwde vrouwen) en dito obi (zijden ceintuur) loopt op houten sandalen (Japans: geta) met een lantaarn in de hand. Ze heeft een witte doek over haar hoofd, waarvan ze een kant vastgeklemd heeft tussen haar tanden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#identifier> "RV-00-1188" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#material> "papier ; inkt ; pigmenten ; drukwerk ; houtsnede ; kleurenhoutsnede (nishikie)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#creator> "Utagawa Toyokuni" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-00-1188> <https://colonialcollections.nl/schema#yearCreatedStart> "1786"^^<http://www.w3.org/2001/XMLSchema#integer> .

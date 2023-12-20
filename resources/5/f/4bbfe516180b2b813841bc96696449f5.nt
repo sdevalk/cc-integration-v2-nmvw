@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#name> "VROUWEN, VERKOELING ZOEKEND OP EEN BOOT." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#description> "Eerste van een vijfluik. Vier vrouwen op een boot." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#identifier> "WM-41369" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#creator> "Eishosai Choki" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#creator> "Tsutaya Jusaburo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#yearCreatedEnd> "1795"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41369> <https://colonialcollections.nl/schema#yearCreatedStart> "1789"^^<http://www.w3.org/2001/XMLSchema#integer> .

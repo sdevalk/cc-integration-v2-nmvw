@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#name> "BENEDEN KONGO. DRAGERS VAN IVOOR EN GOM-ELASTIEK." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, documentaire, amateurfotografie. Groepsportret van zittende en staande dragers van olifant-slagtanden voor ivoorhandel. Enkele staande dragers met langwerpige geknoopte korven met daarin in lappen gewikkelde ... ?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#identifier> "WM-902154" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#inscription> "titel met inkt achterop karton geschreven /\r\n'Reproductie P.H. van Roon Jr. XII. 05' met inkt achterop karton geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#material> "papier, platinadruk, reproduktie 1905" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#creator> "Roon Jr., P.H. van" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902154> <https://colonialcollections.nl/schema#yearCreatedStart> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

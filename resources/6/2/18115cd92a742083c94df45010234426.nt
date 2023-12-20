@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#name> "KOGELMUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#description> "'Kogelmunt' (Phot-duang) op gewicht van 1/2  baht, gebruikt als betaalmiddel in grotendeels van Thailand sinds ca. 13e eeuw tot  laat in de 19e eeuw. Gewoonlijks dragen de kogelmunten uit de Bangkok periode 2 stempels: een van de dynastie en een van de regerende vorst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#identifier> "RV-1-4075" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#material> "zilver ; geslagen en gestempeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4075> <https://colonialcollections.nl/schema#yearCreatedStart> "1782"^^<http://www.w3.org/2001/XMLSchema#integer> .

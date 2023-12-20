@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#name> "SHITAKIRI SUZUME (DE MUS MET DE GESPLETEN TONG)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#description> "Boek met het verhaal van de mus met de geknipte tong, Jp. shitakiri suzume. Nederlanse bewerking door P. G. van Schermbeek, 1886. Uitgave in kleurendruk door Takejiro Hasegawa Publications, Tokyo (Kobunsha 弘文社). Illustraties door Kobayashi Eitaku 小林 永濯 (1843-1890).\r\n\r\n\"De musch met de geknipte tong\", cf. http://www.aobane.com/books/472\r\n\r\nEr zijn bijvoorbeeld ook versies in het Engels en Zweeds bekend. \r\nCf. https://www.wul.waseda.ac.jp/kotenseki/html/bunko08/bunko08_c0768/index.html en  http://www.aobane.com/books/16" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#identifier> "WM-29584" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#inscription> "鮮斎永濯 画" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#material> "papier\r\n[NA] Schermbeek, P.G. van (bew.)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#creator> "Takejiro Hasegawa Publications, Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#creator> "P.G. (Pieter Gerard) van Schermbeek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29584> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

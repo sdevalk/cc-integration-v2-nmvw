@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <https://colonialcollections.nl/schema#name> "KESA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <https://colonialcollections.nl/schema#description> "[KL] donkerblauw & beige & donkerbruin & zilver & paars\r\n[PA] bloem & ruit & inelkaar grijpende cirkels\r\n[DE] blad & bloem & vierkant" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <https://colonialcollections.nl/schema#identifier> "WM-75911" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <https://colonialcollections.nl/schema#material> "brokaat zijde, zijde, katoen (momen)\r\ngeweven, beschilderd, bedrukt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75911> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8280> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8280> <https://colonialcollections.nl/schema#description> "[VO] teilvormige bak, in type overeenkomend met no. 8278, doch\r\n        groter en met sterk ovale vormen. Eveneens geheel \r\n        onversierd. De oren zijn aan de bovenzijde plat en \r\n        trapeziumvormig (15 tot 16 mm. lang en 11 tot 13 mm.\r\n        breed) en aan de onderzijde gewelfd.\r\n        Afmetingen van de onderzijde: 29,6 x 23,7 cm.; van de \r\n        bovenzijde (exclusief oren): 38,4x 30,2 cm. \r\n        Afmetingen van de openingen: 34,1 x 28,5 cm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8280> <https://colonialcollections.nl/schema#identifier> "WM-8280" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8280> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8280> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

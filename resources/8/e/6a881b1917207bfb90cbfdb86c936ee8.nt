@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <https://colonialcollections.nl/schema#description> "[ST] blad : weerkhaak schacht : band (4)\r\n[DE] zijde van blad : kruis (2) binnen dubbele streep\r\n[VO] doorsnede schacht : rond (boveneinde) & vierkant (ondereinde)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <https://colonialcollections.nl/schema#identifier> "WM-13047" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <https://colonialcollections.nl/schema#inscription> "[B] teken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <https://colonialcollections.nl/schema#material> "hout, ijzer (blad), messing (band en stripomwoeling)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13047> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

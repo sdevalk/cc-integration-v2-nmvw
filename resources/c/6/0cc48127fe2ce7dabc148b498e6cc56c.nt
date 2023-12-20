@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#description> "Op het fries met medaillon van deze kom wordt Gods zegen afgeroepen over de profeet Mohammed en de twaalf imams die allen met naam en toenaam worden  vermeld. De officiële godsdienst in Iran is het 'Twaalver-Sjiisme', verwijzend naar de eerste twaalf imams. De twaalfde imam is Imam al-Mahdi, die in verborgenheid voortleeft en aan het eind ter tijden weer verschijnt. [*1]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#identifier> "WM-7675" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#material> "brons  (vertind)\r\ngegoten, gegraveerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#yearCreatedEnd> "1699"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7675> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

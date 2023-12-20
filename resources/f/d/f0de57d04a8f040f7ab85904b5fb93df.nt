@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#description> "[KL] wit & lichtblauw & blauw & rood\r\n[VO] deel van de rand\r\n[DE] geometrisch figuur" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#identifier> "WM-75424" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#material> "keramiek & tin\r\ngeglazuurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75424> <https://colonialcollections.nl/schema#yearCreatedStart> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

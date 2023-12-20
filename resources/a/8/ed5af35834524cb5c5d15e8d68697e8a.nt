@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#name> "252 OVERVAART OVER DE TJITARUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#description> "Pont over de Citarum nabij Cianjur. Een Nederlands-Indische ambtenaar met zijn rijtuig op de pont. Achter de ambtenaar staat de penghulu, een islamitisch districtshoofd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#identifier> "WM-903274" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903274> <https://colonialcollections.nl/schema#yearCreatedStart> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .

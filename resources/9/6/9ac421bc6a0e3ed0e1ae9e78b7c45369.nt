@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#name> "MARPA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#description> "[KL] brons & blauw\r\n[VO] Marpa zittend op een dubbele lotustroon & bloem & vitarkamudra" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#identifier> "WM-76986" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#inscription> "[B] vertaling: Homage to the good actions of the one called Marpa Speaker of two langueages. Father of all the lineages of the siddhas of Tibet who on being heard liberat6es from sin." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#material> "brons" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#yearCreatedEnd> "1699"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76986> <https://colonialcollections.nl/schema#yearCreatedStart> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

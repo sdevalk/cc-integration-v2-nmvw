@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#name> "Z BL 7 TENT NAAR WIJDER HORIZON 1962 'RONDLEIDING' DOOR POTT FOTO-NR TENT1962 NO459 2 FILMS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#identifier> "RV-10529-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#creator> "museumfotograaf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10529-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

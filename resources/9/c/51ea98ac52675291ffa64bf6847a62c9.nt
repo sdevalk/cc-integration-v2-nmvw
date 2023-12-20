@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#description> "In de 16e eeuw gebouwd, nadat in 1521 de oude uit de 12e eeuw was verwoest. De bouwmeester was Juan Gil de Hontamon. Werd in 1768 ingewijd. afmetingen 105 x 50 x 33." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#identifier> "RV-15138-2-25" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15138-2-25> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

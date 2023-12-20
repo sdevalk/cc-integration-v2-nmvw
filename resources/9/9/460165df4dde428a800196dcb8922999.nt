@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#name> "TRIATRES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, groepsportret , twee meisjes, zittend, ten voeten uit, waarvan een met een gans op haar schoot." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#identifier> "WM-420179" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#inscription> "titel geschreven op foto in potlood, achterzijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#material> "ontwikkelgelatinezilverdruk, Agfa" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#creator> "Garduño, F." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-420179> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

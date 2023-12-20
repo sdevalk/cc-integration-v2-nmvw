@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#name> "BURMESE FAMILIE, BURMA (1886-1905)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#description> "Groepsportret van een Burmese familie in een fotostudio." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#identifier> "WM-902130" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#inscription> "'315' rechtsonder in negatief gekrast" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#material> "papier, albuminedruk, hoogglans" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#creator> "F. (Felice) Beato" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902130> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

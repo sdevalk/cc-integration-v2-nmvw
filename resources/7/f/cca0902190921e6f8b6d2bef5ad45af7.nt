@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#name> "SOENDANESE JONGENS BIJ GAROET." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#description> "Soendanese jongens bij Garoet. Op hun hoofd een zwart mutsje dat hen als moslims kenbaar maakt en een sarong schuin om het lichaam gedrapeerd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#identifier> "WM-419994" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#inscription> "'481'en titel met inkt geschreven op achterzijde foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#creator> "Hustinx, A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#locationCreated> "Garut Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#alternateName> "Garut Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Garut" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#alternateName> "Garut" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Garut" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419994> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

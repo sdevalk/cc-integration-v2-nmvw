@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#description> "Architectuurfotografie, entree van een pagode, onderdeel van het grootste tempelcomplex van het land, de Shwedagon Pagode. De 98 m. hoge koepel achter de pagode is van bladgoud en omgeven door kleinere pagodes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#identifier> "WM-901992" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#creator> "F. (Felice) Beato" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#locationCreated> "Yangon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#alternateName> "Rangoon"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#alternateName> "Dagon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901992> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

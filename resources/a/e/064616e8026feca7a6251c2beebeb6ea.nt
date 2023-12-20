@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#name> "DRAAGSTOEL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, zeden en gewoonten, huwelijksprocessie  van een vooraanstaande bruid, met twee bruidsmeisjes. De meisjes staan bij een 'Sedan' of draagstoel. Vroeger bestonden er strikte regels die precies beschreven wie wel en wie niet gebruik mocht maken van een draagstoel of 'sedan'. Aan de bewerking en het aantal dragers was bovendien de status van de eigenaar af te lezen. Arme mensen konden voor een bruiloft een sedan huren." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#identifier> "WM-903956" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#material> "papier, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903956> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

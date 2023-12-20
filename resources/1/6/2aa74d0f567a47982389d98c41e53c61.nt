@@ -1,0 +1,22 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#name> "1261" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#description> "Deze vrouwen behoren tot de Rodiyas, een van de oorspronkelijke bevolkingsgroepen van Sri Lanka. Volgens de overleveringen stammen zij af van een koningsdochter die zich had laten verleiden door een man van lagere stand. Haar kinderen waren hierdoor kasteloos. Rodiya-vrouwen stonden vanwege hun koninklijke afkomst bekend als mooie vrouwen. In de negentiende eeuw was het gebruik dat kasteloze vrouwen zich niet kleden al lang afgeschaft. Fotografen grepen echter graag terug op een oude legende om hun erotisch foto's te legitimeren in het strenge Victoriaanse tijdperk." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#identifier> "WM-904229" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#inscription> "nummer geschreven in negatief \r\ntitel geschreven op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#creator> "Skeen & Co., W.L.H." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#locationCreated> "Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Ceylon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Taprobane" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Sri Lankā Janarajaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Selan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Democratic Socialist Republic of Sri Lanka" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Dominion of Ceylon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#alternateName> "Serendib" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904229> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

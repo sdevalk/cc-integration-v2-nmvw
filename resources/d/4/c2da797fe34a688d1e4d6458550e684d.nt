@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30989> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30989> <https://colonialcollections.nl/schema#description> "NISHIKI-YE. Drie delen met houtsneden van beroemde acteurs, courtisanes en andere onderwerpen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30989> <https://colonialcollections.nl/schema#identifier> "WM-30989" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30989> <https://colonialcollections.nl/schema#material> "[RO] tekenaar;[NA] Kuniyoshi & Kunisada & Toyokuni & Kuniyasu\r\nOngedateerd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30989> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

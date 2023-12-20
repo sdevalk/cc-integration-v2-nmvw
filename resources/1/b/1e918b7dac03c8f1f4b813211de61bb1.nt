@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#name> "NO.34 / RANGANATHA TEMPLE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#description> "Architectuurfotografie, in Zuid-India is de tempelarchitecteur in een andere stijl en rijker bewerkt dan in het noorden. In Srirangam, Tamil Nadu, staat een tempel die uit één rots gehouwen is. Honderden arbeiders hebben minitieus werk verricht aan de voorstellingen die zeer natuurgetrouw zijn." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#identifier> "WM-421054" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#inscription> "titel geschreven op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#material> "karton, papier, kooldruk, albuminedruk, mammoetfoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-421054> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

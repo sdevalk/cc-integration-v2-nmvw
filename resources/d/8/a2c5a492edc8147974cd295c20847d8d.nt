@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11493> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11493> <https://colonialcollections.nl/schema#description> "1 = rugstuk : kasrafri\r\n2 = voorstuk : saete\r\n3 = gespleten bamboe voor spannen van de schering : lolen\r\n4 = zwaard : kehet\r\n5 = gereedschap ter verdeling van de schering : burut\r\n6 = gereedschap om de schering bijeen te houden : lolana\r\n7 = pennen om het toestel op de grond te bevestigen : kaneal\r\n8 = steekspoel : sekan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11493> <https://colonialcollections.nl/schema#identifier> "WM-11493" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11493> <https://colonialcollections.nl/schema#material> "hout, bamboe, plantenvezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11493> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

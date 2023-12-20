@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#name> "INKTSTAAF." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#description> "Aan de voorkant van de inktstaaf staat links bovenaan -in karakters- de naam van de maker. Onder deze tekst staat het merk van de maker afgebeeld. Onderaan het vlak twee kraanvogels, waarvan een met reikende hals en geopende snavel.\r\nOp de achterkant staan nog twee kolommen karakters, en links onderaan nog een kleine kolom bestaande uit drie karakters. De afbeelding en alle karakters zijn uitgevoerd in hoog relief." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#identifier> "RV-1-3352" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#inscription> "op de voorkant van de inktstaaf een deel van de naam van de maker of de winkelnaam (shige); op de sticker aan de linker zijkant van het inktstaafje 'de honderdste'; de tekst op de achterkant is aan het einde gesigneerd door Ryuen (zz)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#material> "O.I. inkt ; goud ; geperst ; verguld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3352> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

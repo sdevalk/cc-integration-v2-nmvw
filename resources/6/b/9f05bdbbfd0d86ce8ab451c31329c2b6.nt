@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#description> "[DE] snijwerk in reliëf : slang kronkelend om stok & knobbelige\r\n        uitsteeksels (bij uiteinde duidelijker uitgewerkt tot\r\n        verschillende dierenhoofden, steeds met drie uitsteeksels op\r\n        voorhoofd)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#identifier> "WM-10624" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#material> "hout, kleurstof" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#locationCreated> "Niger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#countryCreated> "Niger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-10624> <https://colonialcollections.nl/schema#alternateName> "Republic of Niger"@en .

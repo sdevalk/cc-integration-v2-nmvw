@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74191> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74191> <https://colonialcollections.nl/schema#description> "[KL] bruin\r\n[VO] bundel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74191> <https://colonialcollections.nl/schema#identifier> "WM-74191" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74191> <https://colonialcollections.nl/schema#material> "rotanstengel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74191> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

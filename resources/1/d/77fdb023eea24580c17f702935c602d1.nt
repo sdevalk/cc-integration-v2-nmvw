@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#description> "De hanger heeft de vorm van een opengewerkte vlieger met een oog aan de bovenzijde. Het oog heeft drie kleine wigvormige uitsteeksels, een aan de bovenzijde en twee aan de zijkanten. De twee punten aan de zijkant en de ene punt aan de onderkant van de vlieger hebben een pijlpunt als projectie. De ruimte binnenin de vijfhoek is opengewerkt met twee kleine ronde en twee grotere driehoekige openingen  \r\nOppervlaktedecoratie: De randen zijn versierd met kleine arceringen en met rechte lijnen. Ook zijn er cirkels gestanst. De achterzijde is onversierd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#identifier> "WM-77174" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#material> "zilverlegering\r\ngegoten; gegraveerd, gestanst" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#locationCreated> "Niger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#countryCreated> "Niger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77174> <https://colonialcollections.nl/schema#alternateName> "Republic of Niger"@en .

@@ -1,0 +1,19 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#name> "'ZUIJIN BEIJING QUANTU' (NIEUWSTE PLATTEGROND VAN BEIJING)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#description> "Deze plattegrond van Beijing is gemaakt in het 11e jaar van de Chinese republiek. De Chinese republiek werd gesticht in 1911 na het einde van de laatste Chinese keizerlijke dynastie. Het toont de Republikeinse hoofdstad Beijing met in het midden de verboden stad. Bovenaan zijn afgebeeld twee vlaggen van de Chinese republiek.\r\n\r\nKarwin Cheung (2019)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#identifier> "RV-02-1121" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#inscription> "最新北京全圖\r\n\r\n中華民國全圖" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#locationCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Jen-min-kung-ho-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-02-1121> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#name> "GEMASKERDE FIGUUR UIT DE BUNDA. VROUWEBAND IN SIERRA LEONE. ZIJ VOERT DANSEN UIT IN HET DORP, NADAT DE INWIJDING DER MEISJES HEEFT PLAATS GEHAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#description> "Gemaskerde figuur uit de Bundu-vrouwenbond. Zij voert dansen uit in het dorp, nadat de inwijding der meisjes heeft plaats gehad." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#identifier> "WM-901976" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt onder foto op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#material> "papier, karton, daglichtgelatinezilverdruk, ingekleurd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#creator> "Anoniem Sierra Leone, initiatie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901976> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

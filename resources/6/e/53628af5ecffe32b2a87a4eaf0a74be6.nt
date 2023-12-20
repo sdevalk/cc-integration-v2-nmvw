@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13962> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13962> <https://colonialcollections.nl/schema#description> "1 = koker ([ST] garenomwoeling & knoopwerk (banden en\r\n                         ondereinde) & koord & rotan-vlechtwerkband\r\n                 [DE] snijwerk : staande ruiten & band met schuine\r\n                         strepen & band met tumpal)\r\n2 =  stop" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13962> <https://colonialcollections.nl/schema#identifier> "WM-13962" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13962> <https://colonialcollections.nl/schema#material> "bamboe, hout (stop), katoengaren, kit (?), rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13962> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

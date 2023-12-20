@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#name> "PADMASAMBHAVA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#description> "[VO] Padmasambhava staand & lotustroon & vajra (scepter) & phurbu (rituele dolk) & tijgervel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#identifier> "WM-76994" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#inscription> "[B] vertaling: Hommage to the guru..(onleesbaar)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#material> "brons & turkoois" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#yearCreatedEnd> "1599"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76994> <https://colonialcollections.nl/schema#yearCreatedStart> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

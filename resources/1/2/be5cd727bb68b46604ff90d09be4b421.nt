@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#name> "MAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#description> "Een open mand gemaakt van rondgaand gevlochten bamboerepen en rotan. Het horizontale vlechtwerk is gevlochten over vele vertikale zwarte rotanhoepels. De mand heeft een ongekleurde binnenkant. De buitenkant heeft, afwisselend, rondgaande banden van rood gekleurde repen en banden van ongekleurde repen. Om de bovenrand, aan de binnen- en aan de buitenkant, een zwarte rotan hoepel. Deze hoepels zijn op verschillende plaatsen met omwindingen vastgemaakt aan de mand. Tussen de beide zwarte hoepels een rode hoepel. De vierkante bodem is gemaakt van zwart zigzagvormig vlechtwerk. Onder de bodem twee kruisende latjes." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#identifier> "RV-1130-89" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#material> "bamboe ; rotan ; verf" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-89> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

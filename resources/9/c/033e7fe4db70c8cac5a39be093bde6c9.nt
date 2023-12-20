@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#name> "HALSSNOER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#description> "Een halssnoer gemaakt van geregen kralen. Het halssnoer bestaat uit een touw waaraan oranjegele stenen kralen (moetisalah) met een onregelmatig cilindrische vorm. In het midden een grote porseleinen kraal. Aan de uiteinden zijn grotere bruine, groene en blauwe kralen bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#identifier> "RV-1-233" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#material> "touw ; steen ; porselein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-233> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

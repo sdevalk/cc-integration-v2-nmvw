@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#name> "NIEUWJAARSNACHTFEEST." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#description> "Zeven vrouwen in een interieur. Een van de vrouwen met soort tekstballon waarin een tweede beeld: muizenprocessie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#identifier> "WM-41366" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#inscription> "1790-1842" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#creator> "Utagawa Toyokuni" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#creator> "Nishimura Eijudo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41366> <https://colonialcollections.nl/schema#yearCreatedStart> "1769"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <https://colonialcollections.nl/schema#description> "[ST] blad : weerhaak (1 grote en 3 kleine)\r\n[DE] schacht : snijwerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <https://colonialcollections.nl/schema#identifier> "WM-7973" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <https://colonialcollections.nl/schema#inscription> "[B] 2 tekens" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <https://colonialcollections.nl/schema#material> "palmhout, ijzer, koperlegering" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7973> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

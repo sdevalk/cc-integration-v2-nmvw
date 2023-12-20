@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#name> "2 GENERAAL OVERZICHT V/D ACROPOLIS MET DEN BERG LYCABETTUS EN HET KONINKL. PALEIS OP DE ACHTERGROND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#description> "Architectuurfotografie, gezicht op de Acropolis met het Parthenon, het koninklijk paleis en in de achtergrond de berg Lykavittós" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#identifier> "WM-413179" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#inscription> "nummer geschreven in negatief, \r\ntitel geschreven op het karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413179> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

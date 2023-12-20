@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <https://colonialcollections.nl/schema#description> "[ST] bevestiging koker met stop d.m.v. schuifkoord met 2 rozetten\r\n        (aan ieder uiteinde één en één bovenop stop))\r\n1 = koker ([DE] horizontale banden met getande koppen met ogen\r\n                         & vogelkopfiguren)\r\n2 = stop   ([VO] korwar : zittend mensfiguur met opgetrokken\r\n                         knieën)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <https://colonialcollections.nl/schema#identifier> "WM-11065" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <https://colonialcollections.nl/schema#inscription> "[T] UZV 876" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <https://colonialcollections.nl/schema#material> "bamboe, hout (stop), katoen (rozet), zwartsel (roet of verf)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11065> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

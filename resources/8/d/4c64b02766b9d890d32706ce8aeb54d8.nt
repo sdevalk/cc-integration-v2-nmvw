@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#description> "[DE] dier : slang & zeilschip & ruiter-te-paard\r\nEuropese officier in uniform met steek op hoofd en zwaard in hand  omgeven door kosmogrammen in de vorm van een kruis binnen een rad, staande voor de geboortecyclus, de dood en reincarnatie zoals gebruikelijk binnen de religies van westelijk Centraal-Afrika." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#identifier> "WM-3078" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#material> "kalebas, pigment, plantenvezel (koord)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-3078> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

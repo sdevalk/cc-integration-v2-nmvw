@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#name> "TRIDACNA-SCHELP ARMBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#description> "This ring is made of the Tridacna shell and is white without engravings or coloration. There is a furrow in the ring going round.\r\nIt is a more basic arm ring which can be worn every day. It is mostly worn by men, although women have been seen wearing it as well. It can serve to hold little daggers and the like. On festive occasions, bundles of flowers could be stuck into the ring." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#identifier> "RV-1141-42" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#material> "tridacnaschelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-42> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .

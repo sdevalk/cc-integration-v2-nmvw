@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#name> "PAPOEA-VROUW" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#description> "Antropologisch portret van ter halver lijve zittende vrouw met ontblote borsten, met haar hemdje neergerold op haar rok, zittend op een stoel. Links een meetinstrument voor antropometrie in beeld." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#identifier> "WM-905040" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#inscription> "titel achterop karton geschreven met potlood" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#material> "papier, karton, daglichtcollodiumzlverdruk, mat, getoond" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905040> <https://colonialcollections.nl/schema#yearCreatedStart> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .

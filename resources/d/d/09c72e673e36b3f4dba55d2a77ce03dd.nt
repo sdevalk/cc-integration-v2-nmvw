@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <https://colonialcollections.nl/schema#description> "tondeuse\r\nman (2) & kapper & klant & zwarte\r\nscheren (hoofdhaar)\r\nkapperszaak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <https://colonialcollections.nl/schema#identifier> "WM-425031" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <https://colonialcollections.nl/schema#material> "[MT] barietpapier & karton\r\n[TK] ontwikkelgelatinezilverdruk\r\n[VO] witrand om foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <https://colonialcollections.nl/schema#creator> "Pinus, N." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-425031> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,13 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#name> "GESTILEERD DIER" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#description> "Uncu met een decoratieve band waarop een gestileerd dier is afgebeeld met alleen de weergave van poten en een staart. Rond de kraag en de schouders is een ruitvormige motief aangebracht.  Onderlangs hangt lange franje." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#identifier> "WM-77420-2935" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#material> "Wol, katoen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#locationCreated> "Nazca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#alternateName> "Nazca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#alternateName> "Nazca"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#alternateName> "Nasca" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-2935> <https://colonialcollections.nl/schema#yearCreatedStart> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .

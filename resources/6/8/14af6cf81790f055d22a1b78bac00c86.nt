@@ -1,0 +1,22 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#name> "Muts, gedragen tijdens rouw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#description> "CC1 (geschreven): muts van bruinachtig dun weefsel met brede wit  \nkatoenen, bij wijze van lange slippen afhangende rand. Behoort  \nbij de rouwpij van echtgenoten van kleindochters. \nCC2 (geschreven): muts behorend bij costuum voor rouwende vrouw" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#identifier> "RV-1092-64" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#locationCreated> "Amoy" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#countryCreated> "China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "厦门" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Siamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Hsia-men-shih" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Hsia-men" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Szeming-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming-hsien" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Shamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Amoy"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Xiamen Shi" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Xiamen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#alternateName> "Xiamen"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1092-64> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

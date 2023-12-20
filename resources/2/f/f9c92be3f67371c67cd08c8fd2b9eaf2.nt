@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#name> "78 UN JACAL DE TIERRA CALIENTE, ETAT DE VERA CRUZ" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#description> "Een Indiaans woonhuis uit de streek Tierra Caliente in Mexico." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#identifier> "WM-900120" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#inscription> "cijfer '78' in negatief\r\ntitel geschreven met inkt op achterzijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#creator> "Briquet, A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#locationCreated> "Veracruz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#alternateName> "Estado de Veracruz" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#alternateName> "Estado de Veracruz-Llave" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#alternateName> "Veracruz de Ignacio de la Llave" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#alternateName> "Veracruz"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900120> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7531> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7531> <https://colonialcollections.nl/schema#description> "[KL] sienna & naturel & zwart\r\n[DE] diabolo 1 = doos 2 = deksel 3 = bodem[fragment]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7531> <https://colonialcollections.nl/schema#identifier> "WM-7531" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7531> <https://colonialcollections.nl/schema#material> "lontarpalmblad, verfstof\r\ngevlochten & geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7531> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

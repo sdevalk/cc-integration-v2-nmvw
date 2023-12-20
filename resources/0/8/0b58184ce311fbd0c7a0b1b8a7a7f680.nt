@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#name> "SI OBAN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#description> "Dorp Si Oban met de bewoners." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#identifier> "WM-417627" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#inscription> "titel met inkt op karton geschreven onder foto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#material> "reproduktie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417627> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

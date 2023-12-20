@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#name> "THE DRAGON BOAT, CANTON, 207" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#description> "De lange ranke boot op de voorgrond in de haven van Kanton is een drakeboot die eens per jaar ingezet wordt tijdens de bootraces. Er doen verschillende verhalen de rond over het ontstaan van het drakebootfestival. Honderden jaren geleden zou een wijze minister die in conflict was gekoen met zijn vorst, zich in het water gestort hebben. Op de vijfde dag van de vrijde maan zou hij weer naar de oppervlakte komen. Daarom worden op die dag bootraces gehouden, waarbij pakketjes rijst aan het water geschonken worden als eerbetoon aan deze minister." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#identifier> "WM-901913" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#material> "[MT] papier & karton\r\n[TK] albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#creator> "Chan, A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901913> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

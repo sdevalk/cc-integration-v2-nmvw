@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#description> "'Maskerdans tijdens het Dama-feest, een begrafenisritueel van de Dogon, een landbouwersvolk in Mali. Een groot aantal kanaga-maskers met Lotharingenkruis en het metershoge sirige-masker op het dorpsplein.\" \r\n\r\nmasker : kanagamasker & sirigemasker ; man & danser ; maskerdans & begrafenisritueel ; dama-feest ; dorp & dorpsplein" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#identifier> "WM-901855" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#material> "[MT] papier & karton, [TK] ontwikkelgelatinezilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901855> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

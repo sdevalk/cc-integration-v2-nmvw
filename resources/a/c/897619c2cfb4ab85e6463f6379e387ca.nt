@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#description> "[KL] rose & groen & geel & naturel & donkerblauw\r\n[DE] geometrische figuren\r\n[ST] omvlochten knop (deksel)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#identifier> "WM-30036" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#inscription> "1 = [T] 240-42\r\n           1948 &\r\n2 = [T] 42. naaimandje (zeshoekig met deksel).\r\n           f. 9,-" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#material> "lontarpalmblad [*1], verf\r\ngevlochten (w.o. omslingeringsmethode)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#locationCreated> "Bone Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#alternateName> "Bone Regency" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#alternateName> "Bone Regency"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Bone" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#alternateName> "Bone" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30036> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Bone" .

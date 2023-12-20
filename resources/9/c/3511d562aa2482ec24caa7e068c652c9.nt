@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#description> "[ST] bovenstuk met bovenrand & middenbol & voet & ringen\r\n[DE] banden & geometrische figuren & kruisbloem (windroos) &\r\n        plant & wayang-figuur (7) : vorst met zittende dienaar t.o.\r\n        demon & jonge prins (Bambang) t.o. Bima & Permadi t.o.\r\n        Suyudana & dier : vogel & vlinder & hert & gezadeld paard &\r\n        olifant & medaillons (badong)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#identifier> "WM-8206" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#material> "messing\r\ngegoten, gelast, geciseleerd (decoratie), [RO] geelgieter ;\r\n[PL] Surabaya[plaats]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#locationCreated> "Kota Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#alternateName> "Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Surabaya" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Surabaja" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8206> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

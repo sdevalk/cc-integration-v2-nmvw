@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#name> "LARS IN PAARSE TRUI. OPM: LARS IS ZOON VAN SIGRID. VOORKIND, KIND VAN ANDERE MAN VOORDAT ZE MET BILIAM WAS GETROUWD. LARS IS BEETJE EEN SLEMIEL. HIJ WERKT SINDS JAAR EN DAG IN DE WINKEL. HIJ KON NIET JAGEN. HIJ PROBEERDE HET EEN KEER, MAAR MOCHT DAARNA ME" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#description> "Lars in paarse trui. opm: Lars is zoon van Sigrid. voorkind, kind van andere man voordat ze met Biliam was getrouwd. Lars is beetje een slemiel. hij werkt sinds jaar en dag in de winkel. hij kon niet jagen. hij probeerde het een keer, maar mocht daarna meteen niet meer van zijn moeder." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#identifier> "RV-13171-79-10-23" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-10-23> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

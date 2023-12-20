@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#description> "1 = viool ([ST] klankkast & stemsleutel (2) & snaar (2)\r\n               [DE] snijwerk (ajour) in klankkast\r\n                       snijwerk (opgevuld met kalk) in buitenzijde\r\n                       klankkast : banden met geometrische figuren &\r\n                       figuren om snijwerk (ajour)\r\n2 = strijkstok ([ST] bosje paardenhaar verbonden d.m.v.\r\n                              touw)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#identifier> "WM-31075" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#material> "hout, kalk, paardenhaar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#locationCreated> "Makassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Macassar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Makasser" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Makasar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Djumpandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Udjung Pandang" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Makassar"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-31075> <https://colonialcollections.nl/schema#alternateName> "Ujungpandang" .

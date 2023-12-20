@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#name> "NO.2, BHUTIA LADIES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#description> "Antropologisch portret, studiofotografie. Bhutias zijn een van de naar schatting vierhonderd inheemse volken die in India wonen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#identifier> "WM-904464" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#inscription> "titel en nummer staan geschreven in negatief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#material> "papier, karton, daglichtgelatinezilverdruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#creator> "Paar, Th." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904464> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

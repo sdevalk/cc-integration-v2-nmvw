@@ -1,0 +1,15 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#name> "BALINESE DANSERES" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#description> "Een ter halve lijve afgebeelde Balinese danseres met naakt bovenlichaam." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#identifier> "WM-76618" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#inscription> "[T] W.G. Hofker & \r\n[T] Premie-ets 1944\r\n[T] Bali\r\n[T] Vereeniging tot Bevordering van Beelden Kunsten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#material> "ets; papier & inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#creator> "W.G. (Willem Gerard) Hofker" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-76618> <https://colonialcollections.nl/schema#yearCreatedStart> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .

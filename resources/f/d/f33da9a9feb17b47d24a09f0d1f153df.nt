@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#name> "HOUTSNEDE: KAOSHÔ ROCHISHIN" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#description> "Maker: Utagawa Yoshiharu (1828-1888)\r\nUit de serie Spiegel van helden van de Suikoden (Suikoden gôketsu kagami). \r\nKaosho Rochishin is een van de vier Sukoden helden die tatoeages had volgens de oorspronkelijke tekst. Hij heeft altijd kersenbloesemtatoeages en een tonsuur (weggeschoren deel haar)." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#identifier> "TM-ib-2014-27-02" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#material> "Inkt op papier." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#creator> "Yoshiharu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#yearCreatedEnd> "1856"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2014-27-02> <https://colonialcollections.nl/schema#yearCreatedStart> "1856"^^<http://www.w3.org/2001/XMLSchema#integer> .

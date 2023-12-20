@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#name> "FONTAINE ET SOURCE DU CHORRO CABALLERO, ASUNCION" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#description> "Amateurfotografie, expeditiefotografie, Guayaqui-expeditie. Landschap met twee vrouwen en een jongen zittend op een rots bij een waterval (Chorro Caballero) in een rotsopening, waterkruik onder de waterstroom." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#identifier> "WM-900140-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#inscription> "opschrift achterop karton 'Reproductie Miedema, Dec. 1913, van verbleekte foto collectie Ten Kate'" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#material> "ontwikkelgelatinezilverdruk, reproductie gemaakt in 1913" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#creator> "Hitte, C. de la" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#creator> "Miedema, E." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900140-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .

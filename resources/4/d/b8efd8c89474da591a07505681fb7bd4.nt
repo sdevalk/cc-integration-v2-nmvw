@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#name> "Aquarel: een Balinees hanengevecht" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#description> "Aquarel met afbeelding van Balinees hanengevecht. Uit lijst gehaald; lijst nu 03-562a." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#identifier> "RV-03-562" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#material> "papier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-03-562> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .

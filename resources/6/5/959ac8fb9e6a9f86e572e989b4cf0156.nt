@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#description> "[KL] groen & geel & rood\r\n[VO] 2 spelden d.m.v. ketting verbonden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#identifier> "WM-74972" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#material> "zilverlegering & email & glas & steen\r\ngegoten, geëmailleerd, gegraveerd (?)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74972> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

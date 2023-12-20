@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#description> "Architectuurfotografie. Interieur van het Alhambra." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#identifier> "WM-413493" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#inscription> "titel geschreven op voorzijde karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#material> "papier, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413493> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

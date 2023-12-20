@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#name> "MUNT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#description> "inventariskaart ontbreekt ; Rechthoekige zilveren munt met aan een zijde het opschrift: 'Jûroku wo motte ichiryô ni kayu' (met 16 inwisselbaar voor 1 ryô). Aan de andere zijde het opschrift: 'Ginza jôze' met daarboven het 'fundô (gewichts)-merk. 2 stuks van verschillende grootte" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#identifier> "RV-1-2362" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#inscription> "Jûroku wo motte ichiryô ni kayu ; Ginza jôze" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2362> <https://colonialcollections.nl/schema#yearCreatedStart> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .

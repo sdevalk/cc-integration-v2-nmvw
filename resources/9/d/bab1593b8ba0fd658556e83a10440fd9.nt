@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#name> "INDIENS SERIS, SONORA" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#description> "Groep Seris in de studio van Alfredo Laurent in Guaymas, Mexico. Herman ten Kate typeerde de Seris als vijandig en gewelddadig." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#identifier> "WM-900116" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt op karton achterzijde" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk, kabinetfoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#creator> "Laurent, A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900116> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

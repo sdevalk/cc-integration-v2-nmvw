@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#name> "REGEN BIJ STATION SHONO." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#description> "Het 54-ste station van de Tokaido. Een Kago wordt een heuvel opgedragen in een stortbui; twee figuren vluchten naar beneden. Op de achtergrond bamboebossen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#identifier> "WM-41407" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#material> "papier, inkt, pigmenten ; kleurenhoutsnede" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#creator> "Hoeido" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#creator> "Utagawa Hiroshige" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#yearCreatedEnd> "1833"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-41407> <https://colonialcollections.nl/schema#yearCreatedStart> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .

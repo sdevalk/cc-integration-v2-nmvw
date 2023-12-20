@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11627> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11627> <https://colonialcollections.nl/schema#description> "[KL] geel\r\n[VO] bestaande uit 11 schelpen (Naticavitellus) van verschillende\r\n        grootte, aan een dubbel vezelkoord geregen. Alle schelpen\r\n        met de kop in één richting. Bij het afknopen van het\r\n        vezelkoord is tegelijkertijd als versiering een pluk rode\r\n        calico-repen aangebracht." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11627> <https://colonialcollections.nl/schema#identifier> "WM-11627" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11627> <https://colonialcollections.nl/schema#material> "schelp, vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11627> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

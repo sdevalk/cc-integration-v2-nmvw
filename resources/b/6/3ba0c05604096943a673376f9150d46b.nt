@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#name> "VROUWELIJKE KIJKERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#description> "Vrouwelijke toeschouwers van de Madjargun dans. Een groep vrouwen en kinderen kijken naar de dans. Onder de vrouwen ook Mw. van der Leeden en een blond kind. ( wellicht hun dochter Anne -Lisse). Sommige kinderen liggen gewikkeld in dekens te slapen.\r\n\r\nNacht van 2 op 3 september 1964." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#identifier> "RV-10532-A6-10" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#material> "celluloseacetaat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#creator> "dr. A.C. (Alexander Cornelis) van der Leeden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10532-A6-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#name> "NO.139 MENDIANTE KURDE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#description> "Genrescene, bevolkingstype, bedelares geeft baby de borst." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#identifier> "WM-413164" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#inscription> "titel en initialen 'HV' met potlood geschreven op achterzijde foto, \r\nserie met inkt geschreven op voorzijde oude karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#material> "albuminedruk, kabinetfoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#creator> "P. (Pascal) Sébah" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413164> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

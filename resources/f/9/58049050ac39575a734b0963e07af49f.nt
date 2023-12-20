@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11779> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11779> <https://colonialcollections.nl/schema#description> "inhoud : pijlen & voetjes\r\n[ST] 2 kokers en 1 beugel aan elkaar verbonden d.m.v. gevlochten\r\n       en ongevlochten banden & 2 deksels (1 los) & gevlochten\r\n       koord\r\nDE] snijwerk (1 deksel) : geometrische figuren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11779> <https://colonialcollections.nl/schema#identifier> "WM-11779" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11779> <https://colonialcollections.nl/schema#material> "bamboe, plantenvezel, hout (?), plantaardig materiaal" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11779> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#description> "Hoog, rechthoekig goudgewicht van brons of messing, waarvan het bovenvlak in zeer hoog-reliëf is versierd met een tandmotief.  Het motief vormt de letters LE.  Ross spreekt van \"signet rings\", waar hij ringen met initialen onder verstaat.  Misschien geldt dit ook voor enkele goudgewichten...  Zie voor de betekenis van het kammotief 1031-1." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#identifier> "RV-1031-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#material> "Messing of brons ; verlorenwastechniek" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

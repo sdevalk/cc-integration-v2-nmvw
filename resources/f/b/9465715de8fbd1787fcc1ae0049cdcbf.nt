@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#name> "BLOEMENVAAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#description> "Een uit een stuk kromgegroeide bamboe gemaakte bloemvaas, gebruikt voor bloemschikkingen bij de theeceremonie. De vaas kan door een klein gat aan de zijkant van de alkoof (tokonoma) gehangen worden. Een vaas als deze appelleert door zijn ongebruikelijk grillige vorm - als natuurlijk ervaren - aan de smaak van de Japanner, vooral van belang bij esthetische ervaringen als de theeceremonie." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#identifier> "RV-1-1813" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#material> "Bamboe ; lak" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1813> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

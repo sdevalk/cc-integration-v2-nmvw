@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#name> "ENTRANCE OF SHWÉ DAGONE PAGODA, 503" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#description> "Twee reusachtige draken markeren de ingang van de Shwedagon (Shwé Dagone) tempel in Rangoon. Het is een boeddhistische tempel in pagoda-stijl. Het dak van een pagoda is opgebouwd uit verschillende lagen. Deze pagoda is overtrokken met een dun laagje goud." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#identifier> "WM-902196" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#inscription> "titel geschreven in negatief" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#creator> "Klier, P.A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#locationCreated> "Yangon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#alternateName> "Dagon" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#alternateName> "Rangoon"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-902196> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

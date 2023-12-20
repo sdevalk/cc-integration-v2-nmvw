@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#name> "POT MET LAK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#description> "Potjes van blauw-wit porselein met lakmonsters, afgesloten met papier en een hennepkoord." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#identifier> "RV-1-2962-a" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#material> "porselein ; pigment ; lak ; papier ; hennep" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2962-a> <https://colonialcollections.nl/schema#yearCreatedStart> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .

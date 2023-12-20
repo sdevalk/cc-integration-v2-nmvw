@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#description> "Goudgewicht van messing, voorstellende een 'grondsprinkhaan', die op het origineel is gemodelleerd. Een grondsprinkhaan heeft geen vleugels.  De poten zijn deels naast en deels onder het lijfje van de sprinkhaan gevouwen. Het messing is van een lichte kleur. Zie ook 2645-9." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#identifier> "RV-1031-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#material> "Messing" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

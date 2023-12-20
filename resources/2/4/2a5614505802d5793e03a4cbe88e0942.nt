@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#name> "108 OFFERHUISJE. KLEIN KEI." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#identifier> "WM-903218" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#inscription> "titel (1e) op voorzijde karton geschreven met inkt onder foto,\r\ntitel (2e) op achterzijde karton geschreven met inkt" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#material> "reproductie" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#creator> "Missiehuis Heilig Hart, Tilburg" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903218> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

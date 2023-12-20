@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#description> "[VO] geslepen uit een Trochusschelp, onregelmatig van dikte \r\n         (maximaal 9,5 mm.).\r\n         Op de omtrek is, voor zover mogelijk en met gebruikmaking\r\n         van de witte buitenlaag van de schelp, een versiering in\r\n         relief aangebracht. \r\n[DE] daarbij is de helft van de omtrek verdeeld in blokken (versierd\r\n        met dwarsgleufjes), met dien verstande dat twee blokken\r\n        telkens gevolgd worden door een soort kruisbloemmotief." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#identifier> "WM-7904" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#material> "trochusschelp" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#locationCreated> "Astrolabe Bay" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#alternateName> "Astrolabe Bay" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7904> <https://colonialcollections.nl/schema#alternateName> "Astrolable Bay" .

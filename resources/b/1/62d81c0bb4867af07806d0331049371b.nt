@@ -1,0 +1,18 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#name> "VOORHOOFDSBAND" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#description> "Op de Witu- eilanden werden veel voorhoofdbanden van dit type gedragen. Deze gevlochten band is afgezet met nassa- schelpjes en verder gedecoreerd met hondentanden. Tanden van dieren werden in Melanesië voor verschillende doeleinden gebruikt, voornamelijk voor snijwerktuigen en sieraden. Tanden in sieraden functioneerden voornamelijk als statusindicatie. De drager van het sieraad toonde aan dat hij de connecties en de middelen had om zeldzame en kostbare grondstoffen te verzamelen. Tanden van honden, vleermuizen (vliegende hond), bruinvissen en soms ook buideldieren werden gebruikt voor de vervaardiging van lichaamsdecoratie. In sieraden werden deze tanden vaak gecombineerd met andere waardevolle objecten zoals schelpengeld zodat in één oogopslag iemands rijkdom zichtbaar was." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#identifier> "RV-1137-37" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#material> "vezel, boomschorsvezel ; schelp, nassaschelpplaat ; rietreep ; tand, hondentand ; rotanreep" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#locationCreated> "Witu Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Französische Inseln" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Widu" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Françaises Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Vitu Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "French Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Witu Group" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Witu Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Witu Inseln" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1137-37> <https://colonialcollections.nl/schema#alternateName> "Iles Françaises" .

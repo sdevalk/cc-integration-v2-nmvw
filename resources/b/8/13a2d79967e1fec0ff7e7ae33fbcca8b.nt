@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#name> "MENSCHEN VAN DEN STAM DER MANSIBRABEER, ALFOEREN ACHTER DOREH; RECHTS 2 ARFAKKERS." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#description> "Groepsportret van ten voeten uit staande mannen en vrouwen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#identifier> "WM-905078" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#inscription> "titel geschreven op voorzijde karton, '4' geschreven op voorzijde karton, 'platina' gestempeld op voorzijde karton, 'Opneming Th. H. Ruys, Doreh, juli 1906'geschreven op achterzijde karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#material> "papier, platinadruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-905078> <https://colonialcollections.nl/schema#yearCreatedStart> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

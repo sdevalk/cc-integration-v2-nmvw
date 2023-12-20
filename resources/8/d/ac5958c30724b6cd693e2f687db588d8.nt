@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30997> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30997> <https://colonialcollections.nl/schema#description> "BANSHOKU ZUKO. Prentstudies over van alles en nog wat. In 5 delen (waarvan dit deel 5 is) van Hokusai." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30997> <https://colonialcollections.nl/schema#identifier> "WM-30997" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30997> <https://colonialcollections.nl/schema#material> "Het voorwoord van deel 1 is van 1827, delen 2 en 3 van 1835 en van de delen 4 en 5 van 1850." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30997> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

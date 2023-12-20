@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#description> "open ruimte of binnenplaats voor een stadsmuur met poort" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#identifier> "WM-413106" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#inscription> "titel 1 ; geschreven op karton [inkt] &\r\ntitel 2 ; geschreven op karton [potlood] ; [T] Tanger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#material> "[MT] papier & karton\r\n[TK] albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#creator> "C.M.[Cavilla & Molinari]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#locationCreated> "Tangier" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#alternateName> "Tangiers" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#alternateName> "Tangeri" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#alternateName> "Tingis" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#alternateName> "Tanger" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#alternateName> "Tangier"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413106> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

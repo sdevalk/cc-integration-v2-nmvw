@@ -1,0 +1,16 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, portretfotografie. Buste van jonge man en trois quart naar links, gekleed in een hes, een doek om de hals geknoopt, met een helm op en de loop van een geweer links omhoog wijzend." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#identifier> "WM-904289" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#material> "papier, karton, xxxdruk, carte-de-visite" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904289> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

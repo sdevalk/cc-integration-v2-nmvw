@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#name> "KRIS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet met een wolkenpatroon (pamor) en een middenrug. Aan een kant een neus en twee lippen. Het opzetstuk van het lemmet (ganja) is golvend van vorm met een omgekrulde kant (telale gajah) met twee stompe en twee scherpe tanden daaronder. De afgeronde greep is van bruin zwartgevlamd hout gemaakt met ingedeukte ruiten aan de zijkanten. De schede (gandar) heeft aan de ene kant bruin hout en aan de nadere kant zwart gevlamd hout. De niervormige schedeopening (wrangka) heeft aan de bovenkant drie inkepingen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#identifier> "RV-1132-7" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-7> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

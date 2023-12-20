@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#name> "TABAKSTAS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#description> "Een tabakstasje gemaakt van diagonaal gevlochten, ongekleurde pandanbladrepen. Het tasje heeft een overschuivend deksel. Op het deksel, langs de rand en langs de bodem een strook zigzagvormig vlechtwerk. Het deksel is aan de tas vastgemaakt met een vezelkoord dat door het midden van de bodem en het deksel geregen is." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#identifier> "RV-1130-38" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#material> "blad (pandan) ; vezel" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-38> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

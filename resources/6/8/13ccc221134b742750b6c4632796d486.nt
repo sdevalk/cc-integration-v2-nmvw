@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#name> "VANGKOOI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#description> "Een kooi om vogels mee te vangen gemaakt van rotan en bamboe. De kooi bestaat uit tien gespleten rotanlatten waarvan de omgebogen uiteinden in gaten in een lengte dikke bamboe zijn gestoken. Aan de tien uiteinden is, met rotanrepen, een rotanhoepel vastgemaakt. Voor deze opening is een net gespannen. Daarnaast een vangnet met twaalf strikken gemaakt van gedraaide plantenvezels, die aan bamboekokertjes geregen zijn waarvande uiteinden in een bamboelat zijn bevestigd." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#identifier> "RV-1130-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#material> "rotan ; bamboe ; vezels" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1130-2> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .

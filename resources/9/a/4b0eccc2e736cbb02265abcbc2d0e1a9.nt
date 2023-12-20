@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#name> "Schildpad" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#description> "Netsuke voorstellend een in zijn schild teruggetrokken schildpadje. De gaten waardoor het koord wordt gehaald zijn hier weggewerkt in een soort plug gevormd door het centrale schildje op de rug." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#identifier> "RV-1-2681" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#inscription> "geen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#yearCreatedEnd> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2681> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

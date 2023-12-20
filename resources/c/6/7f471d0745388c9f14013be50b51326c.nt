@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#name> "CAVALIER ARABE ALGERIE" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#description> "Arabische ruiter te paard." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#identifier> "WM-904141" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt op achterzijde karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#material> "karton vierzijdig gewelfd, papier, albuminedruk, kabinetfoto," .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#creator> "Portier, C." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904141> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

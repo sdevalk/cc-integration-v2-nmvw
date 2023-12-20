@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30974> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30974> <https://colonialcollections.nl/schema#description> "SOIN MANGA. VLUGGE KRABBELS. Deel IV." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30974> <https://colonialcollections.nl/schema#identifier> "WM-30974" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30974> <https://colonialcollections.nl/schema#material> "[RO] tekenaar;[NA] Adachi Heishichi; [RO] uitgever;[NA] Takeda Tokuzaemon;\r\n[PL] Tokyo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30974> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

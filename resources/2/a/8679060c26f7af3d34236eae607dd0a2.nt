@@ -1,0 +1,17 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#description> "trein\r\nberg & spoorweg" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#identifier> "WM-904331" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#material> "[MT] papier & karton\r\n[TK] albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#creator> "Pestel, A." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#locationCreated> "North Vietnam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Bak-bo" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Bắc Bộ" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Tonkin"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Nord-Viêtnam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Tongking" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Bac-Ky" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "North Vietnam"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "Bac-Viet" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904331> <https://colonialcollections.nl/schema#alternateName> "North Vietnam" .

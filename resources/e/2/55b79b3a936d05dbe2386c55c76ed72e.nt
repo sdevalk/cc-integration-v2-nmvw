@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#name> "SOEMBA. FEESTKLEDING. MAN EN VROUW IN FEESTKLEED." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, portret van man en vrouw in feestkleding. Het hoofddoek van de man (wordt overigens ook door vrouwen gedragen) noemt men Kambala en de lap onder de kin om het geheel te bevestigen een katjang ngingi. De schouderdoek is een Hingi Komboe." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#identifier> "WM-903051" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#inscription> "titel met inkt op voorzijde en achterzijde karton geschreven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#material> "karton, papier, daglichtcollodiumzilverdruk, mat" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903051> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

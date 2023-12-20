@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-120> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-120> <https://colonialcollections.nl/schema#description> "[ST] doos-1 : bovenrand met omslingeringsrepen &\r\n        vlechtwerkband (als omlijsting) & papierbekleding\r\n[KL] buitenzijde doos-1 : naturel & rood (2 tinten)\r\n        binnenzijde doos-1 : naturel\r\n        doos-2 : naturel & geel & rood & zwart & wit (papier)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-120> <https://colonialcollections.nl/schema#identifier> "WM-120" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-120> <https://colonialcollections.nl/schema#material> "silarpalmblad, verf, papier, katoengaren, plantenvezel (garen)\r\ngevlochten (doos-1: dichte drierichtingsmethode en doos-2:\r\ndiagonale dichte éénslag)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-120> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

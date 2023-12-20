@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#name> "IN THE AFTERNOON OF SUNDAY, JUNE 25, NO FEASTS WERE HELD BECAUSE OF THE HEAVY RAIN. I FINISHED A ROLL OF FILM, TAKING PICTURES WITH THE JAPANESE ZOOMLENS OF THE IMPACT OF THE RAINSTORM ON THE AWOR RIVER AND OF THE PASSAGE OF CANOES PAST DR. G.'S HOUSE." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#identifier> "RV-13189-MR61-01-22" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#creator> "Michael C. Rockefeller" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13189-MR61-01-22> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

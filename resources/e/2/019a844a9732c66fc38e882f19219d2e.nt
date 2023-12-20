@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <https://colonialcollections.nl/schema#name> "Schelpengeld" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <https://colonialcollections.nl/schema#description> "[VO] bestaande uit twee rijen Nassa-schelpvoetjes op een 4 mm.\r\n        dikke streng van bruine baststrippen bevestigd door middel\r\n        van licht kleurige bast en dunne rotan-repen. Aan één der\r\n        einden is géén knoop in de streng gelegd. De losse franje\r\n        (van uiteenlopende dikte) bereikt een maximale lengte \r\n        van 23 cm." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <https://colonialcollections.nl/schema#identifier> "WM-8380" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <https://colonialcollections.nl/schema#material> "bast, schelp, rotan" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-8380> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

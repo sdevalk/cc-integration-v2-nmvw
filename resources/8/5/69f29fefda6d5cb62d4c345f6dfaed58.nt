@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-12837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-12837> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-12837> <https://colonialcollections.nl/schema#description> "[KL] naturel & donkerbruin & roodbruin (2 tinten)\r\n[DE] geometrische figuren" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-12837> <https://colonialcollections.nl/schema#identifier> "WM-12837" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-12837> <https://colonialcollections.nl/schema#material> "lontarpalmblad [*1], verf\r\ngevlochten (w.o. omslingeringsmethode en rechte dichte\r\néénslag), geverfd" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-12837> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

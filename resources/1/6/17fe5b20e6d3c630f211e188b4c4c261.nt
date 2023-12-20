@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#name> "DRAAGZAK" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#description> "De zak bevat twee grote bruine kogelvormige noten (\"tita\" of \"zita\"), waaruit de voor het repareren van de kano's benodigde grondstof wordt verkregen." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#identifier> "RV-1134-48" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#material> "vezelkoord ; noot, Tita-noot" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#locationCreated> "Alu Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#alternateName> "Pirumeri Island" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#alternateName> "Alu Island"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-48> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#name> "VROUWELIJKE TOESCHOUWERS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#description> "\"De Balinese vrouwen zijn mooi, zo mooi als een vrouw slechts in onze gedachten zijn kan; een lichamelijk eenvoudige, waardige schoonheid vol oosterse adel en natuurlijke kuisheid.\"\r\nUit: Gregor Krause, Bali, deel I, Land und Volk, 1920, p. 32." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#identifier> "WM-419887" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#material> "glas & nieuwe afdruk 30 x 40 cm., 2001" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#creator> "dr. Gregor Krause" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419887> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

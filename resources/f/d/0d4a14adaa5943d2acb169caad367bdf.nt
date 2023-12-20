@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#name> "MACAO, NO. 502.-ST. PAUL'S CATHEDRAL" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#description> "Architectuurfotografie, facade van een kathedraal. Het Aziatische bisdom werd vanuit Macao bestuurd. Hier werden missionarissen voorbereid op hun werk in Azie. De Sao Paulo Kathedraal werd twee maal verwoest door brand.\r\n\"This magnificent place was destroyed by Fire in 1835, it has never been rebuilt, all that remains is the front as seen in View-the front is built of Granite, beautifully  worked, the Images between the columns are of Bronze, an idea of the great height of this can be formed when it is mentioned that the cross at the top of building is itself six feet high-within the walls, on the right is a private house." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#identifier> "WM-904734-2" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#inscription> "'10' geschreven op foto in potlood, linksboven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904734-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

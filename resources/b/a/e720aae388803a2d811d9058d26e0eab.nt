@@ -1,0 +1,7 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <https://colonialcollections.nl/schema#name> "POP VOORSTELLEND MALFAITEUR BIZANGO" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <https://colonialcollections.nl/schema#description> "Zeer waarschijnlijk betreft het hier een verkeerd nr. o.d. foto 12-509 i.p.v.12-409. Mannelijk personage met lans van opgevuld textiel staand op een houten plank. Op de houten plank ook twee baby’s." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <https://colonialcollections.nl/schema#identifier> "TM-ib-2008-04-143" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2008-04-143> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

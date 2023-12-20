@@ -1,0 +1,10 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#name> "EEN RIETEN PENSEEL MET TOELOPENDE PUNT." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#description> "Een bruin penseel met toelopende punt, die eerst grijs van kleur is, en naar boven toe overloopt in bruin en zwart. Onderaan een tekst in karakters in laag relief: 'klein .. penseel' (ko..go).." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#identifier> "RV-1-2433b" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#inscription> "type penseel aangegeven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#material> "riet ; haar" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2433b> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

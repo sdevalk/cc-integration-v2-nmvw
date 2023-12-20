@@ -1,0 +1,12 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#description> "De Yasaka-schrijn onderaan de Maruyama-berg wordt vooral op nieuwjaarsdag druk bezocht, tijdens het eerste tempelbezoek van het nieuwe jaar. Wie tijdens dit bezoek de mensenmenigte overleeft, is gezegend door de goden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#identifier> "WM-903833-1" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#inscription> "titel linksonder geschreven in negatief en in zwarte tekstbalk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#material> "papier, albuminedruk, ingekleurd met aquarelverf en gouache" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903833-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

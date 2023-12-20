@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#name> "OORSIERAAD" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#description> "Binnen verschillende gebieden in de Solomon- eilanden lieten de mannen gaten in hun oorlellen maken die ze langzaam lieten uitrekken met deze grote ronde oorsieraden. Hiermee werd al op jonge leeftijd begonnen. Om het gat in de oorlel nog verder te rekken werden soms ook plantenvezels om het sieraad heen gewikkeld. Deze sieraden werden zowel dagelijks als bij speciale gelegenheden gedragen. Naast de oorlel kon ook de bovenkant van het oor doorboord worden waarin pennen of halve ringetjes van schelp geregen werden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#identifier> "RV-1134-327" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#material> "hout" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-327> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

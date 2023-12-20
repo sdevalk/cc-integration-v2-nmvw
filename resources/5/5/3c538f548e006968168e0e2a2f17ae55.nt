@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#name> "THE CONVENT OF MOUNT SINAI" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#description> "Landschapsfotografie, de berg Sinai en het klooster van Sint Catherina. Volgens de Bijbelboeken Exodus 19-20 en Deuteronomium 5 is dit de plaats waar Mozes de kleitabletten met de Tien Geboden ontving van God. In het klooster werden de Codex Sinaiticus, de Codex Syriacus en andere vroege Bijbelmanuscripten gevonden." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#identifier> "WM-424576" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#inscription> "titel onder foto gedrukt op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#material> "papier, karton, heliogravure" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#creator> "F. (Francis) Frith" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#yearCreatedEnd> "1859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424576> <https://colonialcollections.nl/schema#yearCreatedStart> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .

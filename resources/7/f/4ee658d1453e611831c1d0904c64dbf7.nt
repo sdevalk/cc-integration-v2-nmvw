@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#description> "Veelkleurige ceintuur met aan de ene zijde 5 en aan de andere zijde 4 koorden allen in een knoop gelegd. \r\n[DE] bloem & plant & ster" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#identifier> "WM-74469" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#material> "zijde\r\ngeweven, gevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-74469> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

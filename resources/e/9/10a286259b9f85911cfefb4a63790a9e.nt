@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#description> "De 36 m hoge kunstmatige heuvel bevat het graf van koning He Lu, de stichter van de stad in 518 BC. 3 dagen na zijn teraardestelling verscheen een witte tijger op zijn graf, het zou de geest zijn van de koning." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#identifier> "RV-15135-2-40" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15135-2-40> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11681> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11681> <https://colonialcollections.nl/schema#description> "[ST] hoorn (3), vaas (2) en stukjes doek d.m.v koord met elkaar\r\n        verbonden\r\n[KL] doek : rood & vaas : wit" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11681> <https://colonialcollections.nl/schema#identifier> "WM-11681" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11681> <https://colonialcollections.nl/schema#material> "hoorn, porselein, katoen, plantenvezel (koord), palmmerg (? opvulling hoorn)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11681> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

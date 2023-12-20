@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11991> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11991> <https://colonialcollections.nl/schema#description> "[KL] zwart & geel\r\n[VO] rond het eigenlijke tasje een rand niet gevlochten\r\n        vezeldraden 5 cm. lang." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11991> <https://colonialcollections.nl/schema#identifier> "WM-11991" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11991> <https://colonialcollections.nl/schema#material> "plantenvezel\r\nfijn gevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-11991> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

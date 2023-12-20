@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#name> "491" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#description> "In de botanische tuin van Kandy, de Peradeniya Gardens, zijn vele soorten bomen te vinden. De bodi-tee is een heilige boom voor boeddhisten, terwijl hindoes de banyan-tree of waringin aanbidden. Deze boom heeft luchtwortels die aan de takken ontspringen en de boom een mysterieuze aanblik geven" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#identifier> "WM-904209" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#inscription> "nummer geschreven in negatief \r\ntitel geschreven op karton" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#creator> "Skeen & Co., W.L.H." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904209> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

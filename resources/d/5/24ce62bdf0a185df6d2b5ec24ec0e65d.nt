@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4178> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4178> <https://colonialcollections.nl/schema#description> "1 = mes  (l 21.5 x br 1.8 cm / [VO] binnenwaardse krul (gevest)) 2 = schede (l 12 x br 2.8 cm / [ST] 2 stukken tegen elkaar)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4178> <https://colonialcollections.nl/schema#identifier> "WM-4178" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4178> <https://colonialcollections.nl/schema#material> "ijzer, hout, katoen, bamboe\r\ngesmeed;gesneden;getwijnd;gebonden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-4178> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

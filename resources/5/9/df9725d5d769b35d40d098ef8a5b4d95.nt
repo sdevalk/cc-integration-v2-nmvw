@@ -1,0 +1,11 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#name> "APACHE PAINTING FOR THE WARPATH" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#description> "Vermoedelijk geënsceneerde opname van een White Mountain Apache, die zijn gezicht beschildert in oorlogskleuren. De opname is waarschijnlijk gemaakt in het San Carlos Reservaat in Arizona." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#identifier> "WM-900611" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#inscription> "titel (2) met inkt geschreven op voorzijde karton [handschrift H.F.C. ten Kate]" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk, halve stereofoto" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#creator> "Wittick, G.B." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-900611> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

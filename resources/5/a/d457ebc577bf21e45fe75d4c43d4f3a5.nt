@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#name> "POT" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#description> "Een ronde pot gemaakt van gebakken aardewerk. De pot is roodbruin van kleur en heeft in het midden van de wand een rondgaande scherpe rand. De pot wordt naar de opening toe smaller. Naast de opening zijn onregelmatige lijnen ingekrast." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#identifier> "RV-1-306" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-306> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

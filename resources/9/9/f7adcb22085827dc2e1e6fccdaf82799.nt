@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13861> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13861> <https://colonialcollections.nl/schema#description> "[KL] geel\r\n[VO] gevlochten uit 0,2 à 0,25 cm. brede strippen geslepen rotan\r\n        (techniek 3 over 3 onder).\r\n        Sterk convex-concaaf." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13861> <https://colonialcollections.nl/schema#identifier> "WM-13861" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13861> <https://colonialcollections.nl/schema#material> "rotan \r\ngeslepen & ruw gevlochten" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-13861> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

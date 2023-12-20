@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#name> "AFFICHE 'RECENT WERK VAN TWAALF ARABISCHE KUNSTENAARS' IN HET WERELDMUSEUM" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#description> "Affiche voor de tentoonstelling 'Recent werk van twaalf Arabische kunstenaars - selectie egee art gallery, Londen' in het Wereldmuseum van 5 juli 2001 t/m 24 maart 2002." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#identifier> "WM-0-5" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-0-5> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .

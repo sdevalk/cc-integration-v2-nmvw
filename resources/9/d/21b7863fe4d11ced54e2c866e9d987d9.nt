@@ -1,0 +1,14 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#description> "eten\r\nrestaurant?" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#identifier> "WM-424745" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#locationCreated> "Canary Islands" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "Fortunate Isles" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "Fortunate Isles"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "Archipielago de Las Canarias" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "Canaries" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "Archipiélago Canario" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "The Canaries"@en .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-424745> <https://colonialcollections.nl/schema#alternateName> "Guanche Republic" .

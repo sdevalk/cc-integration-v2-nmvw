@@ -1,0 +1,8 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#name> "QQ BL 29 REPR FOTO'S JAPAN M TEKST FOTOBOEKEN VAN DE NEDERLANDSE DIPLOMAAT DR BAUDUIN CA1862-1863, REISDE MET GEZANT JHR GRAAF VAN POLSBROEK 5 FILMS" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#identifier> "RV-10546-29" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#creator> "A.F. (Anthonius Franciscus) Bauduin" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10546-29> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

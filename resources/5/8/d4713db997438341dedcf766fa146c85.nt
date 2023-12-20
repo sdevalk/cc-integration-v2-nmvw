@@ -1,0 +1,9 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#name> "MODEL VAN TUINAFSCHEIDING VAN HERENHUIS OF LUSTHOF" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#description> "Tuinafscheiding, schutting, hekje. Dit type heet in het Japans sodegaki. Onderdeel huismodel RV-1-3681." .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#identifier> "RV-1-3681f" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#material> "riet ; hout ; vezel ; snijden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3681f> <https://colonialcollections.nl/schema#yearCreatedStart> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .

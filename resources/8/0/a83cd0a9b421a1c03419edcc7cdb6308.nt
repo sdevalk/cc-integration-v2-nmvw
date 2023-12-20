@@ -1,0 +1,6 @@
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7609> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7609> <https://colonialcollections.nl/schema#description> "[VO] mens : oude man met zeis 1 = beeld (h 36.5 x br 19 x diep 13 cm) 2 = voetstuk (h 22.5 x l 23 x br 16 cm)" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7609> <https://colonialcollections.nl/schema#identifier> "WM-7609" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7609> <https://colonialcollections.nl/schema#material> "hout\r\ngesneden" .
+<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7609> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
