@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#name> "MINIATUURSERVIES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#description> "Speelgoedserviesje van chocoladebruin geglazuurd aardewerk. Het bestaat uit een dienblad met een theepot met losse deksel, een melk- kannetje, een suikerpot met losse deksel en drie kommetjes met eigen schotel. De drie potten en het dienblad lijken op een draaischijf te zijn vervaardigd. Dergelijk minatuurgoed is zowel kinderspeelgoed als ook verzamelobject voor hen die geïnteresseerd zijn in de Mexicaanse volkskunst." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#identifier> "RV-4514-53" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4514-53> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#name> "OORSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#description> "Een oorsieraad gemaakt van hout. Het oorsieraad bestaat uit een houten ronde stok met aan één uiteinde een verdikking. In de verdikking is een gat gemaakt waarin een drietal gele veren zijn gestoken.\r\nHet oorsieraad is voor mannen bestemd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#identifier> "RV-26-13" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#material> "hout ; veren" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

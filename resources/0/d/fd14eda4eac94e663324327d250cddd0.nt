@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#name> "TABAKSKOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#description> "Een platte tabakskoker met ronde hoeken gemaakt van diagonaal gevlochten, ongekleurde lontarbladrepen. Het deksel is voor de helft overschuivend. De onderrand van de koker en de boven- en onderrand van het deksel zijn rood gekleurd. Het zichtbare oppervlak van de koker en het deksel zijn versierd met geometrische figuren in hoofdzakelijk zwart op een rode ondergrond. In de koker een tweede koker, die gevlochten is van bredere repen en op dezelfde wijze is versierd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#identifier> "RV-52-125" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#material> "blad (lontar) ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-52-125> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

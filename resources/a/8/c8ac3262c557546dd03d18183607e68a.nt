@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#name> "ENAGUA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#description> "Rok van zwarte katoen (rayon), niet afgewerkt aangezien de tailleband ontbreekt. Aan de onderzijde bevindt zich een 14 cm brede band die volledig voorzien is van borduurwerk - kettingsteken, uitgevoerd met naaimachine. Het patroon vertoont een brede gele zigzaglijn en rode driehoeken.\r\nDergelijke rokken worden meestal gedragen met een huipil die uit hetzelfde materiaal is vervaardigd en dezelfde versiering heeft." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#identifier> "RV-5946-257" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-257> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <https://colonialcollections.nl/schema#name> "MESSINGEN KAN IN DE VORM VAN EEN EEND MET INGEGRAVEERDE VERSIERINGEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <https://colonialcollections.nl/schema#description> "De kan wordt gebruikt tijdens feestelijke gelegenheden en is bestemd voor het afspoelen van de handen na een feestmaal." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <https://colonialcollections.nl/schema#identifier> "TM-555-18" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-555-18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

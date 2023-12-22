@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#name> "AUTOBUS CHERIBON-BANDOENG BIJ KADIPATEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#description> "Al een paar jaar voor 1900 hadden op Java de auto en de motorfiets hun opwachting gemaakt. In 1925 waren er al 27.600 auto's en 5.700 motoren. Ook waren er al bijna 2.600 vrachtwagens, maar nog geen 200 autobussen. Daarna ging het echter hard met de autobussen. In 1929 waren er ruim 3.000, terwijl het aantal auto's gestegen was tot 45.000. Toen brak de Depressie van de jaren dertig aan, waardoor deze cijfers weer daalden. De bus op de foto is een tamelijk vroeg exemplaar. (P. Boomgaard, 2001)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#identifier> "TM-10013848" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10013848> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

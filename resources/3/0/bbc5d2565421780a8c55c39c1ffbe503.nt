@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#description> "Hanger of kraal in de vorm van een vogelkop. De hanger bestaat feitelijk uit drie uitstulpingen waarvan één de kop met het oog voorstelt, de andere de snavel en in de derde zit de doorboring voor het snoer." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#identifier> "WM-44850" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#material> "jadeiet (gevlekt)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44850> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

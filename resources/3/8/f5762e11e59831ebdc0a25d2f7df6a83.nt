@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#name> "BESCHILDERDE KALEBAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#description> "Dit object is gemaakt van een halve kalebas. Aan de binnenkant is dit object rood beschilderd. Op de buitenkant staat een Surinaamse dienstmeid afgebeeld met in haar ene hand een vis en in de andere een kip. Zij draagt geen schoenen. Voor slaven was het verboden schoenen te dragen. \r\n\r\n>>> Object 1749-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#identifier> "RV-536-28" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#material> "kalebas ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-536-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

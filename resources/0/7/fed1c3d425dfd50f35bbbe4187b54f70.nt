@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#name> "CIRCULAIRE VAN DE MADRAS MILITAIRY FUND OFFICE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#description> "De circulaire is vermoedelijk gericht aan Major R. Butler. De inhoud van de circulaire bevat enkele vragen die aan de leden zullen worden voorgelegd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#identifier> "TM-3710-53" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1843"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3710-53> <https://colonialcollections.nl/schema#yearCreatedStart> "1843"^^<http://www.w3.org/2001/XMLSchema#integer> .

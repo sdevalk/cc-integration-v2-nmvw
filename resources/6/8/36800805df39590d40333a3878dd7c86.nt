@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#name> "DOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#description> "Een rechthoekige doos gemaakt van zigzagvormig gevlochten rotanrepen. De doos heeft een voor een derde deel overschuivend deksel. Het deksel is aan de bovenkant versterkt met twee kruiselings lopende rode stokjes, die in de hoeken zijn gestoken. De bovenkant van het deksel is versierd met vele zwarte en witte ruitvormen. De zijkanten van het deksel vertonen elkaar afwisselende rode en zwarte driehoeken met krullen. De rand van het deksel is omzoomd met rood gestreept katoen. De wand van de doos is versierd met rode kruisvormen met omkrullende uiteinden binnen zwarte banden. Door het centrum van de kruisvormen loopt een derde zwarte band." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#identifier> "RV-89-24" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#material> "rotan ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-89-24> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

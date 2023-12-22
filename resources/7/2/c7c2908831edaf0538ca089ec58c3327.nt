@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <https://colonialcollections.nl/schema#name> "HEMD MET PRINT EN AFBEELDING VAN PÈRE THOMAS MOULERO" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <https://colonialcollections.nl/schema#description> "Hemd met broek in blauw wit bedrukt katoen met afbeeldingen van 3e Père Thomas Moulero 1888-1975 en de tekst: commémoration 25eme aniversaire du décès du 3e père Thomas Moulero 1er prétre du Dahomey-Benin, 1975-2000.\r\n\r\nTer gelegenheid van het overlijden van de eerste priester van Dahomey-Benin, Thomas Moulero, 25 jaar terug (in 2000)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <https://colonialcollections.nl/schema#identifier> "TM-6377-8a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6377-8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

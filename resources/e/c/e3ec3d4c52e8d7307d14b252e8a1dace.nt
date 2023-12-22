@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#name> "Boeddha op een waterbuffel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#description> "In China waren mensen vaak afhankelijk van ossen of buffels om hun velden te bewerken. Omdat veel boeddhistische monniken op boerderijen leefden, kreeg de buffel een speciale betekenis\r\nvoor hen. Vooral in de context van het Chinese chan boeddhisme dat in Japan bekend werd onder de\r\nnaam zen, werd het temmen van de os of de buffel een metafoor voor het temmen van de geest, één\r\nvan de fasen op weg naar ontwaking. Mogelijk dat dit temmen van de geest in dit beeld wordt uitgedrukt. Helemaal duidelijk is het niet, want, voor zover bekend, zijn er geen andere, vergelijkbare beelden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#identifier> "RV-482-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#material> "brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-482-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

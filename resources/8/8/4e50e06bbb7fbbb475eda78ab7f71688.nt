@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#name> "BORSTHANGER IN BIJLVORM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#description> "Bijlvormige bortshanger met bovenaan twee frontale doorboringen voor een snoer. Onder de doorboringen loopt een horizontale gleuf en aan de top steekt een richel naar voeren uit. / Axe-shaped pectoral with two frontal penetrations for a cord. Under the bore holes at the top is a horizontal groove." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#identifier> "RV-2238-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#material> "jadeït / jadeite" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2238-3> <https://colonialcollections.nl/schema#yearCreatedStart> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .

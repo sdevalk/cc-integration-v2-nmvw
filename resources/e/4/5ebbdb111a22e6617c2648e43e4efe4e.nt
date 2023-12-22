@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#name> "DE REGENT VAN WONOSOBO, RADEN MAS TOEMENGGOENG PANDJI TJOKRO-HADINAGORO MET ZIJN BROERTJE SOERAHMAN EN ZIJNE 2 NEVEN, ZOONS VAN DEN WEDONO VAN KOEANOE, SOETRESNO EN DOEHARDIMAN. N.B.: IR. SOERAHMAN (ZITTEND TER RECHTER ZIJDE VAN DE REGENT) IS LATER PROFFESSOR IN BANDOENG GEWORDEN, EN VOORZITTER VAN HET OVERKOEPELENDE ORGAAN VAN DE INDONESISCHE UNIVERSITEITEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#identifier> "TM-60024484" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#creator> "Charls & Van Es & Co. NV" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60024484> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

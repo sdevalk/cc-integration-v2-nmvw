@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#name> "FIJNE COSMETISCHE POEDER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#description> "Cirkel van zeer donderblauwe katoen, gevoerd met een iets lichter blauwe zijde. Er is een blauw zijden lipje aan de onderkant van het voorwerp genaaid. (GVE, 2002)\r\n\r\n503-31 a t/m d zijn vier zakken met stift en poeder die worden gebruikt om de omtrekken van de ogen te zwarten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#identifier> "RV-503-317d" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#material> "Zijde, katoen, houtskool" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-317d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

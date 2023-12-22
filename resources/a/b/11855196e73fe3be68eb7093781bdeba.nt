@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#name> "RELIËF" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#description> "In mei-juni 1930 voerde de oudheidkundige dienst een studie naar de moskee in Mantingan uit, waarbij fotograaf Jean Jacques de Vink foto's van het monument en 'alle in oudheidkundig opzicht belangrijke voorwerpen' heeft genomen (Oudheidkundig verslag 1930: 55). Op 30 mei 1930 fotografeerde hij een 'Moorsch vlechtmotief' (Oudheidkundig verslag 1930: 116). Mogelijk is dat dit beeld. Zie Oudheidkundig verslag 1930 (p. 54 en plaat 21a) voor een bespreking van deze foto en het afgebeelde motief." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#identifier> "TM-ALB-1986-38" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#creator> "J.J. (Jean Jacques \"Jan\") de Vink" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-1986-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

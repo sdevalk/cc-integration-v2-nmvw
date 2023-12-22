@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#name> "OMSLAG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#description> "Een omslagdoek gemaakt van geweven katoen. De doek bestaat uit twee identieke banen, die in de lengte aan elkaar zijn genaaid. De doek heeft een groot wit middenveld met buitenranden in rood en wit. De buitenranden bestaan uit rode banen, die om en om, wel of niet zijn versierd met kleine witte rechthoeken.\r\nDe doek is eigendom geweest van een man van Amabie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#identifier> "RV-61-17" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-61-17> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .

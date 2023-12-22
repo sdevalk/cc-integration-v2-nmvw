@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#name> "VISLEPEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#description> "Gemaakt van hout. In het blad van de lepel zijn drie ronde gaten. \r\nDeze zorgen ervoor dat het water van de lepel afdrijft en alleen de vis overblijft. De steel eindigt in een knop. \r\nDe lepels worden rond 1970 nog zeer veel gebruikt om zalm of kabeljauw uit pannen te scheppen. Deze lepel was toen een tamelijk nieuw exemplaar. Gaandeweg raakten zij in onbruik en werden vervangen door metalen schuimspanen die kant en klaar in de winkels te koop zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#identifier> "RV-4458-51" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-51> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

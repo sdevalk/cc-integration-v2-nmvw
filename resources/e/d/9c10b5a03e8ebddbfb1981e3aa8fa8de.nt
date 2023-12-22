@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#description> "Mou Naget, een van oorsprong Tobaru man die uxorilokaal is getrouwd in Awer, klopt het merg van de sagopalm (cobolo). De sagopalmen in de monding van de Akelamo rivier zijn deels wild, deels lang geleden aangeplant. In de jaren 1980-2000 werd er in Sahu weinig sago meer gegeten, maar de palmen bleven het eigendom van de oorspronkelijke erflijnen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#identifier> "RV-6234-684" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-684> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

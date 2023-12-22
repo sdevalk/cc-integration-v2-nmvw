@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#name> "PRESIDENT KAUNDA SPREEKT DE BEVOLKING TOE TIJDENS ZIJN BEZOEK AAN SOLWEZI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#description> "Speerpunt in president Kaunda's beleid was het toegankelijk maken van onderwijs voor alle Zambianen. Onder zijn toehoorders zijn vele scholieren die spandoeken meedragen met de volgende tekst 'in unity lies our salvation' en Kapwimpanga gvt School welcomes the President of Zambia'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#identifier> "TM-20014722" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#creator> "Henk van Rinsum" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014722> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

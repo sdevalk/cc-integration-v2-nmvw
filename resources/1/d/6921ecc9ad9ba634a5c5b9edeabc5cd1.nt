@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <https://colonialcollections.nl/schema#name> "KETEL VAN MESSING MET GEGOTEN RELIËFMOTIEVEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <https://colonialcollections.nl/schema#description> "Het hengsel op de ketel is hol en staat in verbinding met de buik van de ketel. Door het scharnierende klepje bovenop het hengsel is de ketel te vullen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <https://colonialcollections.nl/schema#identifier> "TM-1652-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1652-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .

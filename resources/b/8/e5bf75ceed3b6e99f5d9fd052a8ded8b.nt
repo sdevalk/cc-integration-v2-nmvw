@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#name> "VROUWENDOLK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#description> "Een dolk gemaakt van gesmeed ijzer. De dolk is aan twee kanten scherp met een ronde greep van donkerbruin hout. De schede is licht gebogen en van bruin hout gemaakt. Deze dolk wordt door vrouwen gebruikt om zich te verdedigen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#identifier> "RV-3600-51" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <https://colonialcollections.nl/schema#name> "ROND GEHAAKT MANNENKALOTJE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <https://colonialcollections.nl/schema#description> "Het dragen van een muts, tulband, capuchon en hoed, hangt niet altijd van de temperatuur af (hitte, koud, regen, enzo.) of als het hoofd kaalgeschoren is, maar het is de gewoonte bij sommige mensen om een hoofdeksel te combineren met andere kledingstukken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <https://colonialcollections.nl/schema#identifier> "TM-3782-474" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-474> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#name> "VOETRING VAN EEN KOM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#description> "Een ring gemaakt van goud. De ring is aan de binnenkant glad. De buitenkant van de ring is getrapt en in het midden versierd met een parelrand. De ring werd waarschijnlijk gebruikt als voetstuk van een kom." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#identifier> "RV-1903-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#material> "goud" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1903-3> <https://colonialcollections.nl/schema#yearCreatedStart> "750"^^<http://www.w3.org/2001/XMLSchema#integer> .

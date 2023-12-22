@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#name> "SPINSTOK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#description> "Een spinstok gemaakt van hout. Eén uiteinde is dik en aangepunt en het andere einde is zeer dun. Op de spinstok een grote hoeveelheid wit katoenen garen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#identifier> "RV-28-37" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#material> "hout ; katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-28-37> <https://colonialcollections.nl/schema#yearCreatedStart> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .

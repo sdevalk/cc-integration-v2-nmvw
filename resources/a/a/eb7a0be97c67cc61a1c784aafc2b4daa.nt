@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAT , BESCHILDERD MET DIVERSE DIEREN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#description> "Gemaakt voor de verkoop aan toeristen. De moderne Asmatkunst staat op zichzelf en grijpt niet terug op de aloude religieuze voorstellingen en gebruiken.  De mannen snijden veelal genrestukken, de vrouwen vlechten fantasievolle matten en tassen. Vgl. Helfrich, p. 266.\r\nHet is niet helemaal duidelijk of deze ronde mat zou moeten dienen als vloermat of als wandversiering.\r\n\r\nVervaardiging\r\nGevlochten uit smalle vezelstroken en daarna beschilderd met afbeeldingen van dieren en planten tegen een okerkleurige achtergrond. De rand van de mat is versterkt met een visgraatvlechting." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#identifier> "TM-6380-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#material> "plantenvezel ; kleurmiddel\r\nGevlochten" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6380-1> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

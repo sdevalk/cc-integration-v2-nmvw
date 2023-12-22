@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#name> "REUKDOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#description> "Een doos van gelakt hout voor reukwerk in de vorm van een karper. De buikvinnen dienen als standaard, terwijl schubben en andere oppervlaktetekening door middel van insnijwerk is aangegeven.De ogen zijn wit met zwart gepigmenteerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#identifier> "RV-1-1689" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#material> "hout ; lakwerk ; pigment" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1689> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

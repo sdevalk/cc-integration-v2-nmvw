@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#name> "Doek" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#description> "KL: rood, blauw, naturel, geel, donkerblauw; VO: rechthoekig; PA/MO: rand van witte driehoeken, blauwe en rode lengtebanen, middeldeel in diverse blokken, met daarin een of meerdere ronde geborduurde vormmen met daarin mica plaatje" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#identifier> "7082-S-3569" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#material> "katoen, mica, zijdegaren" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-3569> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

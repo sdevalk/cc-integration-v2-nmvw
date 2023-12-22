@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#name> "Broekband" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#description> "Broekband van geweven van veelkleurig garen. Met kwastjes aan weerszijden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#identifier> "RV-3600-5235" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#material> "niet vermeld" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-5235> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

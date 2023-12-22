@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN SPIJSDEKSEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <https://colonialcollections.nl/schema#description> "De rand is afgezet met katoen. Aan de buitenzijde zijn smalle bladrepen in zig-zag stroken langs de rand opgenaaid en wel zodanig dat aan de top een zes-puntige ster vrjiblijft. Deze is afgewerkt met bladgoud waarover een open vlechtwerk van smalle bladreepjes." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <https://colonialcollections.nl/schema#identifier> "TM-2381-97" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2381-97> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

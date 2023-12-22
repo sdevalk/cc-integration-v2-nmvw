@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#name> "BANKA. IN DEN TUIN VAN HET ONDERDISTRICTSHOOFD (BALIN) VAN PRING, VAN L. NAAR R.: T. HASAN, LANDSCHAPSLANDBOUWOPRICHTER TE PEUREULA'; DE BALIN VAN PRING; DR. HORST, LANDBOUWCONSULENT VAN BANKA; T. OESMAN, PEPERPLANTER TE IDI TJOET; IR. G.A. DE MOL, LANDBOUWCONSULENT VAN ATJEH; TGK. HADJI BRAHIM, PEPERPLANTER TE BAGO; T. PANGLIMA PRANG NAGOR, PEPERPLANTER TE BLANG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#identifier> "TM-60047180" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#creator> "Ir. G.A. (Gustaaf Alexander) de Mol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60047180> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

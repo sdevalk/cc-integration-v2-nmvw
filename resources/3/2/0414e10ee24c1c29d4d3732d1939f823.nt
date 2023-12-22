@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#name> "WEEFSELFRAGMENT VAN EEN WOLLEN PONCHO, GRAFVONDST" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#description> "Fragment van een tuniek. In elke rechthoek is een diagonale lijn getrokken met aan de ene kan een trapgolf motief en aan de andere kant een oog verdeeld in twee kleurhelften met er onder een 'traan'motief." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#identifier> "TM-2449-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2449-2> <https://colonialcollections.nl/schema#yearCreatedStart> "950"^^<http://www.w3.org/2001/XMLSchema#integer> .

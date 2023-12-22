@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#description> "Evenals in 1982 organiseerde onderzoekster aan het einde van haar verblijf in 1991 een gezamenlijke picknick. Vrouwen uit Awer ontspannen zich (en vlooien elkaars haar) na een bad in de rivier." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#identifier> "RV-6234-1133" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-1133> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

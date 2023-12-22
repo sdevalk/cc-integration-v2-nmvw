@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#name> "ONDERBLOUSE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#description> "Gemaakt van wit katoen, zonder sluiting.\r\nDe kraag is afgezet met rode stof.\r\nHierover is een kanten strook genaaid.\r\nDe kraag kan worden gesloten met een veiligheidsspeld of een sierspeld.\r\nGedragen als onderblouse onder een feestkostuum met kralenkraag of onder een feestamaut.\r\nAan het eind van de twintigste eeuw nog steeds in gebruik." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#identifier> "RV-5050-91e" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#material> "katoen ; kant ; ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5050-91e> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

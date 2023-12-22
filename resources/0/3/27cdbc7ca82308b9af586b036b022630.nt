@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <https://colonialcollections.nl/schema#name> "ROLSCHILDERING MET DE GODHEID MAHAKALA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <https://colonialcollections.nl/schema#description> "Thangka (Tibetaans: than-ga of thang-ka) met als centrale figuur de yidam (beschermgod) Mahakala.\r\nMahakala staat op Vinayaka, een vorm van de hindoegod Ganesha. Hij wordt omringd door een vlammenkrans.\r\nRondom Mahakala zijn diverse andere woeste beschermers van het geloof geschilderd zoals Vajrapani en Pelden Lhamo.\r\n\r\nVervaardiging\r\nGeschilderd met natuurlijke kleuren op doek.\r\nIngelijst in Chinees brokaat." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <https://colonialcollections.nl/schema#identifier> "TM-886-90" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-886-90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

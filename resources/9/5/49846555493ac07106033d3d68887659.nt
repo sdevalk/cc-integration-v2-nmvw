@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#name> "TWEE FOTO'S: 1.  VROUWEN TIJDENS PAUZE IN DANSFEEST IN MANNENHUIS AMMAN; 2. VROUW MET KUSKUSBONT HOOFDBAND, HAARVERLENGINGEN VAN CASUARISVEREN EN SCHELPEN NEUSSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#description> "2.22.1.6. + 2.22.1.8. Vrouwen tijdens pauze in dansfeest in mannenhuis Amman. Zie toelichting bij 2.22.1.2.\r\nVrouw met kuskusbont hoofdband, haarverlengingen van casuarisveren en schelpen neussieraad.\r\nFoto afzonderlijk opgenomen onder albumnummer RV-A163-*" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#identifier> "RV-10390-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#material> "Papier\r\nZwart-wit foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

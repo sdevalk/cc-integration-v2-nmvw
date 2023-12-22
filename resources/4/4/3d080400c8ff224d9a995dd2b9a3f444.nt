@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#name> "STUDIOPORTRET VAN JAPANSE EDELMAN VAN DE TOKUGAWA CLAN, NAGASAKI, JAPAN (1862-1870)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#description> "Studioportret van een jonge Japanse edelman van de Tokugawa clan, vermoedelijk een leerling van de Nederlandse arts dr. Anthonius Franciscus Bauduin in Nagasaki." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#identifier> "WM-417027" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#material> "karton, papier, albuminedruk, carte-de-visite" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-417027> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

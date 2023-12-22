@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#name> "HARPOEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#description> "Een harpoen gemaakt van gesmeed ijzer. De harpoen heeft een dubbele punt gemaakt van gesmeed ijzer. De beide punten hebben weerhaken, die naar binnen wijzen. De punt staat op een ronde holle steel. De schacht is van een lengte bamboe gemaakt. De harpoen wordt door mannen gebruikt om op vissen te jagen. Deze methode van visvangst speelt een geringe rol. Met de harpoen wordt er vanaf de oever op grote vissen gejaagd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#identifier> "RV-3600-4576" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#material> "ijzer ; bamboe" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4576> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

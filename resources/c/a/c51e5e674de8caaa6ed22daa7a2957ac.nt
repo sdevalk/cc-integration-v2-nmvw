@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#name> "KRUIK MET AAP EN GEOMETRISCHE DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#description> "Kruik bestaande uit twee vormen, namelijk een kruik die geplaatst is in een kom. Deze imitatie van gestapeld aardewerk komt meer voor in de Chancay-cultuur. De kruik-vorm met twee oren tussen hals en schouders, is op beide buikhelften met twee geometrische patronen beschilderd: rechte lijnen en lijnen met stippen ertussen. Aan één zijde is een aap in reliëf afgebeeld. Op de hals staat een kruis van banden met een netpatroon. In de kwarten staat een kruis. De kom-vorm is zwart geschilded met een zigzaglijn langs de rand. Grafbijgift." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#identifier> "RV-5922-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5922-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

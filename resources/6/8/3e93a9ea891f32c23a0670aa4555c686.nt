@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#name> "KATOENEN SLAAPBROEK MET EEN SYMMETRISCH GEHEEL AAN GEOMETRISCHE MOTIEVEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#description> "Slaap- of huisbroek, zoals thuis gedragen door Indo-Europeanen en later ook -Chinezen. De broek staat vol stervormige bloemen, symmetrisch gearrangeerd. Motieven van zulke aard staan bekend onder de algemene term ceplok. Dit specifieke type is de jlamprang, een stervormige bloem die is afgeleid van Indiase patola-doeken.\r\nDe doek is van Indonesische makelij en was bestemd voor alle culturele groepen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#identifier> "TM-5663-1125" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1125> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

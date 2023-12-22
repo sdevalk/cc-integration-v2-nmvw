@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#name> "PORTRET VAN RADEN MAS TUMENGGUNG COKRONEGORO III, REGENT VAN BLORA GEPLAATST IN EEN GETEKENDE BLOEMENKRANS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#description> "De foto maakt deel uit van een serie van acht fotomontages die tot album gebundeld op 11 mei 1910 door Raden Mas Tumenggung Cokronegoro III, de Regent van Blora, ten geschenke zijn gegeven aan vertrekkend controleur C.A. Schnitzler." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#identifier> "TM-30034395" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30034395> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN VERKOUDHEID BESTAANDE UIT EEN HOEVEELHEID GRASSEN EN STENGELS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen een verkoudheid gepaard gaande met koorts, beven en hoofdpijn. \"De kinderen zijn warm\". De inheemse benaming voor deze ziekte is Gonongwè of Pièn Fu. De stengels en bladeren van de Kaliè-plant, een soort gras, worden uitgewrongen. Met het vocht worden hoofd en ledematen gemasseerd. De koorts is snel verdwenen na deze behandeling." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#identifier> "TM-3912-1016" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#material> "gras ; stengel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1016> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

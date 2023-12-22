@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B75> <https://colonialcollections.nl/schema#description> "objecten uit Nieuw-Guinea (nr. 1-29 en 58) en Ecuador (nr. 30-57) op verschillende tijden in RMV gekomen, op 1985-04-10 geschonken en ingeschreven onder serie 5366, volgnrs. ongewijzigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B75> <https://colonialcollections.nl/schema#identifier> "RV-B75" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B75> <https://colonialcollections.nl/schema#material> "divers" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-B75> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

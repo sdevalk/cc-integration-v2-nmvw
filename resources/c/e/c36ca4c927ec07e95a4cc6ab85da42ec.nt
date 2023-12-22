@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#name> "BOEDDHABEELD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#description> "Een afbeelding van de Boeddha, zittend met gekruisde benen op een zetel. Zijn rechterhand vertoont de Bhumisparsamudra terwijl zijn linkerhand in zijn schoot rust. Het beeld is bijzonder mooi gemodelleerd volgens de klassieke standard, en de gelaatsuitdrukking kalm en sereen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#identifier> "RV-627-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#material> "brons, verguld" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-627-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .

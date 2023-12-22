@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#name> "DRIE PIJLEN MET EEN RIETEN SCHACHT, EEN HOUTEN MIDDENSTUK EN EEN BENEN PUNT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#description> "Het houten middenstuk is versierd met het zogenaamde krokodilmotief. Het motief is eerst uitgesneden en daarna opgevuld met witte kalk. De verschillende onderdelen zijn met bastvezel aan ekaar verbonden. De verbindingen zijn met een harsachtige stof besmeerd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#identifier> "TM-A-729" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#material> "been (dierlijk) ; hout ; riet ; bast ; hars ; kalk ; snijden ; krassen ; omwinden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-729> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

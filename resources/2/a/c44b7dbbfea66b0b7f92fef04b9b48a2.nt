@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#name> "BORSTDOEK (QUECHQUEMITL)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#description> "Quechquemitl bestaat uit twee geweven 'panden', zodanig aan elkaar genaaid dat een kledingstuk ontstaat met een opening voor het hoofd en eindigend in twee punten, op de borst en op de rug gedragen. Beide panden bestaan uit horizontale banen waarin verschillende weeftechnieken elkaar afwisselen: linnenbinding (kettingrips) en twee vormen van gaasweefsel. Franjes zijn geweven en worden gevormd door losgesneden inslagdraden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#identifier> "RV-5946-142" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-142> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

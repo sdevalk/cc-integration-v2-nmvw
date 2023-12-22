@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#name> "KRALEN HALSSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#description> "Het halssieraad bestaat uit drie geregen kralensnoeren die op 13 plaatsen met behulp van stukjes plastic aan elkaar zijn vastgemaakt. In het midden hangt een schijfje leer met een opgenaaid stuk rits en zes grote kralen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#identifier> "TM-4933-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#material> "glas ; ijzerdraad ; kunststof ; leer ; rijgen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4933-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

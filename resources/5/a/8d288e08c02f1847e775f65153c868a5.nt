@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <https://colonialcollections.nl/schema#name> "STANDAARD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <https://colonialcollections.nl/schema#description> "Een ronde standaard voor een braadpan. De standaard is gemaakt van brede zigzagvormig gevlochten rotanrepen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <https://colonialcollections.nl/schema#identifier> "TM-4964-38" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4964-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

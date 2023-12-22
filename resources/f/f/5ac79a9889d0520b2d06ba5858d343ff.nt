@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#description> "Dit helmmasker bestaat uit de kop van een antilope met bovenop een voorstelling van een gebouw. De antilopenkop verwijst naar de overgangspositie van de initianten, die zolang de initiatie niet volledig is afgelopen dichter bij de dieren dan bij de mensen staan. Het gebouw met zadeldak kan zowel naar een initiatiehuis als naar een woning verwijzen. In het laatste geval is de bekroning een toespeling op een regel uit een initiatielied:\"Je bent nog niet ingewijd, dus bouw nu nog geen huis.\" [*1]" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#identifier> "WM-30064" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#material> "hout, kleurstof, raffia (kraag)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30064> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

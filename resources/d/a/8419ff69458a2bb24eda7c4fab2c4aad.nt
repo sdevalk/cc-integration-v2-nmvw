@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#name> "BIDPRENT MET DE HEILIGE JACOBUS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#description> "Een in vieren gevouwen papier met gebeden in het Spaans, een lofuiting en een levensbeschrijving van Santiago. Op de voorzijde staat een afbeelding van de heilige Jacobus (Santiago)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#identifier> "TM-5290-419" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#material> "drukwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-419> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

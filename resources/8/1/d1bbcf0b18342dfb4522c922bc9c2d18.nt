@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#name> "LIPPENPENSEEL MET DOP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#description> "Een zwart gelakt bamboe penseel met dop. Op de zwarte ondergrond een decoratie van kersenbloesem in goud. De punt van het penseeltje bevindt zich in een bamboe houdertje, dat aan het einde rood gekleurd is. De punt zelf is toelopend, en wit van kleur." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#identifier> "RV-1-1713" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#material> "bamboe ; lakwerk ; decoratie in goud hiramakie op zwarte grond ; haar" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1713> <https://colonialcollections.nl/schema#yearCreatedStart> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .

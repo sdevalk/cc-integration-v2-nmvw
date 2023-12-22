@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#name> "DORPSOMROEPER IN BOENOE RAJA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#description> "Op deze foto is een dorpsomroeper te zien in Bunuraya. De paal op de achtergrond behoort tot de uitrusting van een zilversmid." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#identifier> "TM-10002862" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#creator> "T. (Tassilo) Adam" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10002862> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

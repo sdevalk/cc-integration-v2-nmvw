@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#name> "STAAL VAN WASPRINT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#description> "Staal van wasprint super-wax, het duurste waxprintprodukt uit het aanbod van Vlisco Helmond. Gedrukt op een extra fijn en dicht geweven katoendoek en er worden in het basispatroon drie kleuren ingepast, waarvan twee in een marmereffect en één effen kleur. Superwax is hét succesartikel in Congo en Noord Nigeria en verleent de drager aanzienlijke status. Van dit dessin is al meer dan 130.000 yards verkocht. Ontwerp: Jac van Hoof, 2004. Vlisconummer A_0527." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#identifier> "TM-R-1831" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1831> <https://colonialcollections.nl/schema#yearCreatedStart> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

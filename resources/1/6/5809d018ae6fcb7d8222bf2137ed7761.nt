@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#name> "DOEK VOOR AAN HET PLAFOND MET GEOMETRISCHE FIGUREN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#description> "Grote doek, die gebruikt werd als decoratie aan het plafond. Het patroon is een zich repeterend geheel aan geometrische motieven (ceplok), dat bestaat uit het jlamprang-motief, een motief dat is afgeleid van de Indiase patola-doeken. Veldhuisen noemt het cinde. Er tussenin staan S-vormen afgebeeld, waarschijnlijk een variatie op het geluks- en welvaartssymbool banji (van Roojen, 1998). De doek was bedoeld voor de export naar Sumatra." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#identifier> "TM-5663-414" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-414> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

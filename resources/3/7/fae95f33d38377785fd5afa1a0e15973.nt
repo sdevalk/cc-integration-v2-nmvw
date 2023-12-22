@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#name> "AFFICHE 'GEEST EN KRACHT' IN HET AFRIKA MUSEUM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#description> "Affiche voor de tentoonstelling 'Geest en kracht - vodun uit West-Afrika' in het Afrika Museum t/m 31 december 1996." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#identifier> "AM-717-12" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-717-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#name> "TEKENING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#description> "Tekening met voorstelling van toendrawolven en uitleg in 't Engels. Wolven symboliseerden voor de Alaskaanse Inuit zowel gevaar als kracht. Op wolven werd o.a. met strikken (zie RMV 1225-55) gejaagd vanwege hun bont, waarmee kleding versierd werd of waarvan laarzen gemaakt werden. In vertellingen en op kunstvoorwerpen (cribbage boards en scrimshaws) vinden we de wolf wel vaker als thema of motief." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#identifier> "RV-4935-10" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#material> "papier? ; inkt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4935-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

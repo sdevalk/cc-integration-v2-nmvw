@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <https://colonialcollections.nl/schema#name> "BOEK MET PRENTEN EN OPSCHRIFTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <https://colonialcollections.nl/schema#identifier> "TM-A-7980b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <https://colonialcollections.nl/schema#material> "Vier kleine boeken bedrukt met kleine prenten en tussendoor opschriften en verhalen. Alleen de buitenomslag heeft aan één kant een gekleurd plaatje." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-7980b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

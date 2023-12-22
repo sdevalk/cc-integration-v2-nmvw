@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <https://colonialcollections.nl/schema#name> "DRIEARMIGE POTSTEUN VAN AARDEWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <https://colonialcollections.nl/schema#description> "Dit voorwerp wordt geplaatst tussen de aardewerken voorwerpen die, voor het glazuren, voor de tweede maal de oven in gaan. De voorwerpen worden hierdoor van elkaar gescheiden gehouden en kunnen tijdens de verhitting van het glazuur niet aan elkaar blijven plakken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <https://colonialcollections.nl/schema#identifier> "TM-3833-191" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-191> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

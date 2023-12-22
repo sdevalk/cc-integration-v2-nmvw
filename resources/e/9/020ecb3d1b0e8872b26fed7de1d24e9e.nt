@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <https://colonialcollections.nl/schema#name> "KERFFLUIT VAN HOUT, MET EEN AANBLAASGAT EN TWEE VINGERGATEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <https://colonialcollections.nl/schema#description> "Deze kerffluit zonder mondstuk heeft aan de bovenkant een aanblaasgat, en aan weerszijde vlak eronder twee vingergaten. Het gat onderaan is bedoeld om er een koord doorheen te rijgen zodat de fluit om de hals gedragen kan worden. Hij is versierd met inkervingen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <https://colonialcollections.nl/schema#identifier> "TM-3903-60" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3903-60> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

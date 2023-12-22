@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#name> "BLIKKEN RODE DEKSEL, ONDERDEEL VAN EEN SPEELGOED VOEDSELGAMEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#description> "De roodgeverfde set pannen is gedecoreerd met geschilderde bloemkronen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#identifier> "TM-4135-8d" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#material> "blik ; lak ; verven ; blikbewerking ; solderen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4135-8d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

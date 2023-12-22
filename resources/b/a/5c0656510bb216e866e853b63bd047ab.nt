@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3846> <https://colonialcollections.nl/schema#name> "WAAIER VAN AKAR WANGI OMREGEN DOOR ROOD KATOEN MET HOUTEN HANDVAT MET VERGULD SNIJWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3846> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3846> <https://colonialcollections.nl/schema#identifier> "TM-A-3846" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3846> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-3846> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

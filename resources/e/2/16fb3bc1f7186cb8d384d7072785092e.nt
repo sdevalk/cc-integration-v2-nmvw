@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#description> "Goudgewicht van messing, voorstellende een spiraalvormig opgerolde slang, met uitstekende kop die gedeeltelijk op de spiraal ligt.  Meerdere ringen van de slang zijn gedeeltelijk mislukt bij het gieten.  Zie voor spreekwoorden die met de slang geassocieerd worden Rattray, 1916: 72, nr. 167 t/m 174." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#identifier> "RV-360-5308" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#material> "Messing of brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5308> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

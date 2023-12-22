@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <https://colonialcollections.nl/schema#name> "KOPIE VAN EEN RELIGIEUZE PRENT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <https://colonialcollections.nl/schema#description> "Fotokopie van een islamitische prent, opgeplakt op karton, bedoeld om op te hangen. Afgebeeld is het offer van de profeet Ibrahim van zijn zoon Ismail. De prent is gekocht in Bamako, na een bijeenkomst van duizenden volgers van Cheick Haïdara. De prenten worden er grif verkocht aan de bezoekers en gelovigen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <https://colonialcollections.nl/schema#identifier> "TM-6127-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6127-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .

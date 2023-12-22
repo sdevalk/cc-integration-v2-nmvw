@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#name> "VROUWENFIGUUR IN INITIATIERUIMTE (GAMBAWUT) VAN MANNENHUIS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#description> "mannenhuis (onderdeel), Gambawut,  vrouwenfiguur (onderdeel)\r\nDe naam van de beeld is \"kutagwa maira\".\r\nThe individual name of this figure is \"Kwalboikoiya\", the wife of Skurnbun." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#identifier> "RV-5526-0-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#material> "bladstengel (sagopalm/pangal) ; pigment\r\nhout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5526-0-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .

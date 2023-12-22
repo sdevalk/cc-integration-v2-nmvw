@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BEELD VAN EEN ANTROPOMORFE JAGUAR OF POEMA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#description> "Beeld in laagreliëf van een antropomorfe jaguar of poema. Een brede tong hangt uit de bek. Haarvlechten of haarbanden hangen over zijn kleding. Zijn kleding bestaat uit een brede ronde  kraag die het bovenlichaam bedekt. De rest is afgebroken.\r\nWaarschijnlijk stelt een mythisch figuur voor zoals de \"boraro\", de monsterachtige wilde man uit het woud. Zie documentatie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#identifier> "TM-3597-216" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-216> <https://colonialcollections.nl/schema#yearCreatedStart> "-500"^^<http://www.w3.org/2001/XMLSchema#integer> .

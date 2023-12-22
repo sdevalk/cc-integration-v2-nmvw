@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#name> "INGELIJSTE CRUCIFIX" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#description> "In een zwarte met gouden spikkels versierde houten, trapeziumvormige lijst met kartonnen achterkant is achter gedeeltelijk beschilderd glas de gekruisigde Christus van  beschilderd plastic vastgelijmd. De achtergrond bestaat uit zilverkleurig, paarsroze en blauw zilverpapier.\r\n\r\nHet voorwerp, dat in huis kan worden opgehangen ter verering en bescherming, is in Mexico City gekocht ten behoeve van de Mexico Stad tentoonstelling in het TM in 1992. Waarschijnlijk een fabrieksprodukt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#identifier> "TM-5290-198" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#material> "glas ; hout ; kunststof ; kleurstof ; papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-198> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#name> "AQUAREL VAN EEN WONING VAN EEN PLANTAGEDIRECTEUR OF -EIGENAAR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#description> "De woningen van plantage-eigenaren, of in geval van hun afwezigheid, de directeur, waren veelal grote constructies, vaak hoger gelegen en met een veranda. De slavenhuizen waren daar redelijk ver van verwijderd, ertussen in lagen vaak de fabrieksgebouwen. Zo konden slaven redelijk hun gang gaan in het dagelijkse leven bij hun huizen en erven, zonder dat de eigenaar precies wist wat er gaande was. Eigen culturele gewoonten en gebruiken ontstonden, waardoor een eigen identiteit kon worden ontwikkeld." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#identifier> "TM-H-3413" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#material> "Aquarel op papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3413> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

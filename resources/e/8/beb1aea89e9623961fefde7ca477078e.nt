@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#name> "ANTIMOONKOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#description> "Hausa vrouwen gebruikten allerlei soorten producten om hun lichaam, handen en gezicht te verfraaien. De ogen werden benadrukt door de oogleden te omlijnen. Het mineraal antimoon dat hiervoor werd gebruikt werd in kleine brokjes op markten verkocht en door de vrouwen in kleine kokertjes bewaard. Het product werd met water vermengd en als een soort pasta met een houten of benen stokje op de ogen aangebracht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#identifier> "RV-739-232" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#material> "messing" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-739-232> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

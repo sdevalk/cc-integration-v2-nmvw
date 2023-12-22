@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#name> "RIET GEBRUIKT OM BIER OP TE ZUIGEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#description> "Het bier wordt door de Luo uit maispulp gemaakt, deze wordt in een bierpers ('Dhing') gedaan. Het vocht wordt opgevangen in een nap ('Agwatta') en daar opgezogen met behulp van het riet ('Oseke'). Het object was ten tijde van aankoop nieuw en ongebruikt.\r\n\r\nVervaardiging\r\nHet riet is aan één zijde bedekt met een gevlochten omhulsel van open vlechtwerk. De rest van het riet is omwonden met nylongaren." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#identifier> "TM-4310-11" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4310-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#name> "ARMBAND-AMULET" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#description> "Rechthoekig dichtgenaaid leren pakje, waaraan achterop door het midden een drievoudig gevlochten snoer loopt, aan het ene einde versierd met een lus, aan het andere einde een knoop vormend. Geen versiering op het pakje. Het dient om om de pols te dragen. Bevat waarschijnlijk Koranteksten, gebeden of andere geschreven magische tekens." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#identifier> "RV-2668-2298" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#material> "leer ; papier ?" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-2298> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

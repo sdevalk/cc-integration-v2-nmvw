@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#description> "Een rookset annex kabinetje voor het bewaren van papieren en persoonlijke benodigdheden, voorzien van een groot hengsel over de hele breedte, en twee uitklapbare steuntjes waarop een pijp gelegd kan worden. Onderin een grote en twee kleinere laadjes.\r\n\r\nGereproduceerd in Nippon, II-2 (f) 9 [151] [Metalen koepel en bakje zijn omgewisseld in de tekening]" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#identifier> "RV-360-2060" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#inscription> "nvt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#material> "Verschillende houtsoorten ; marquetriewerk (yosegisaiku-werk) [?] ; lakwerk ; metaal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#yearCreatedEnd> "1822"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2060> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#description> "Op de rug van de verwijderde multomap zat een grijze, langwerpige kunststof sticker met de volgende tekst:\r\nINDONESIE. BRIEFKAARTEN. FOTO'S DERDEN.\r\n\r\nOpengeslagen zijn er aan voor- en achterkant grijze bladen met een meegedrukt motief.\r\nEr zijn 31 fotobladen, gescheiden door een doorzichtig schutblad met motief.\r\nDe foto's en/of kaarten zijn soms volledig opgeplakt, ook wel gedeeltelijk, zodat er achterop gekeken kan worden naar eventuele tekst.\r\nIn sommige gevallen zijn er losse papiertje toegevoegd met wat informatie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#identifier> "7082-S-5103" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#material> "kunststof, papier, metaal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-5103> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#description> "Behalve Elka en Intali was er nog een andere man in de nederzetting die de kunst van de trommeldans verstond en wel in zeer hoge mate. Deze man was Mozes Akipe hier een onscherpe opname van Mozes in actie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#identifier> "RV-10224-49" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10224-49> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

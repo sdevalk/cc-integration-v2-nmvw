@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#name> "KATOENEN TUNIEKJURK MET GROTE, GEOMETRISCHE BLOEMMOTIEVEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#description> "Lange tuniekjurk, met rood op crème geverfd en gebatikt in grote abstracte sterbloemen, jlamprang volgens de verzamelaar. De tuniek was bestemd voor  export naar Sumatra." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#identifier> "TM-5663-421" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-421> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

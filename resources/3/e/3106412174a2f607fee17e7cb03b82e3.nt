@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#name> "GESCHEPT PAPIER (KOZO)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#description> "1 vel: dikte 70 mu; gewicht 2.2 gram; basisgewicht 21 p/g.m2; dichtheid 0.35g.cm3; gemaakt met bamboe schepraam van 26 laid lines (waterlijnen) op een chain line afstand van 33(30-35)mm en een laid line afstand van 10.5cm." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#identifier> "RV-360-2589" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#material> "papier(kozo); geschept" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#yearCreatedEnd> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-2589> <https://colonialcollections.nl/schema#yearCreatedStart> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> .

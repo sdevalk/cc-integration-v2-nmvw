@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#name> "KOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#description> "Een koker gemaakt van een lengte bamboe. De wand van de koker is versierd met een ingegrifte roodbruine versiering in rondgaande banden. De versiering bestaat uit halve bogen, concentrische rechthoeken, halve bogen, gevulde driehoeken en halve bogen. Aan de bovenkant tumpalfiguren met gebogen lijnen. In de koker een bolvormig vlechtwerk waarvan de herlomst onzeker is, vermoedelijk Nieuw Guinea. Het lijkt op een boogpeesnok." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#identifier> "RV-4254-10" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#material> "bamboe ; verf ; vezels" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4254-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

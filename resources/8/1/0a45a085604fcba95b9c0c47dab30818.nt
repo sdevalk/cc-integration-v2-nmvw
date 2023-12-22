@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#name> "DE BOVEN-ROUFFAERRIVIER BIJ HOOFDBIVAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#description> "Op 3 september komt Docters van Leeuwen in Hoofdbivak aan en slaat er zijn tent op  voor enkele weken. Van daar uit gaat hij botaniseren. Op 5 september bezoekt hij de Rouffaerrivier ter hoogte van Hoofdbivak en bestudeert de planten. De foto is gemaakt tijdens de Amerikaans-Nederlandse Centraal Nieuw-Guinea Expeditie in 1926." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#identifier> "TM-10010234" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#creator> "W.M. (Willem Marius) Docters van Leeuwen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10010234> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#description> "Een goudgewicht van messing, voorstellende een luipaard met prooi (hagedis?) in de bek.  Het gewicht is ruw gefatsoeneerd.  De romp en de kop van de luipaard zijn met reliëfringetjes belegd.  De luipaard is een symbool van de koninklijke macht.  Zie ook 360-5718.  Zie voor spreekwoorden die met de luipaard geassocieerd worden Rattray, 1916: 61-3, nr. 117 t/m 125." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#identifier> "RV-360-5730" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#material> "Messing" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5730> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

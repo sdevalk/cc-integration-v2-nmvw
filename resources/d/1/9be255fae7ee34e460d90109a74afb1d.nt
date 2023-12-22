@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#name> "S.S. \"SIBOLGA\" VAN DE KONINKLIJKE PAKETVAART MAATSCHAPPIJ (KPM) LANGS DE AMSTERDAMKADE IN TANDJONG PERAK, DE HAVEN VAN SOERABAJA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#description> "S.S. \"Sibolga\" van de Koninklijke Paketvaart Maatschappij (KPM) langs de voormalige Amsterdamkade in Tanjungperak, de haven van Surabaya. De foto is genomen vanaf S.S. \"Op ten Noort\"; voor de \"Sibolga\" ligt S.S. \"Rochussen\"." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#identifier> "TM-60060706" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060706> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

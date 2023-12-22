@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#name> "LET OP O-BENEN VAN BILIAM. HEBBEN VEEL GROENLANDERS. OPNAME GEEFT INDRUK VAN SFEER VAN GENOEGLIJKHEID DIE IN ZO'N KAMP HEERST. JE WACHT DE MEESTE TIJD AF TOT ER VIS KOMT. JE BENT AFHANKELIJK VAN EB EN VLOED. JE DRINKT ONDERTUSSEN KOFFIE EN EET VIS. OPM TU" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#description> "let op o-benen van Biliam. hebben veel Groenlanders. opname geeft indruk van sfeer van genoeglijkheid die in zo'n kamp heerst. je wacht de meeste tijd af tot er vis komt. je bent afhankelijk van eb en vloed. je drinkt ondertussen koffie en eet vis. opm tussendoor: Groenlanders eten mosselen rauw, niet gekookt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#identifier> "RV-13170-77-17-34" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#creator> "Noortje Nooter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13170-77-17-34> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

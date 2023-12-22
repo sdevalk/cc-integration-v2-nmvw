@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#name> "'REFIGURATION / SELF-HYBRIDATION NO. 17B'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#description> "MIxed media werk van ORLAN waarin zij zichzelf morft met pre-Columbiaans aardewerk. \r\nDe serie bestaat in totaal uit 44 werken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#identifier> "IB2017-04-02" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#material> "Cibachrome / Edition Nbr. 1/3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2017-04-02> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .

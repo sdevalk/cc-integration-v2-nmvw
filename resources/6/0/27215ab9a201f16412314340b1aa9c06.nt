@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <https://colonialcollections.nl/schema#name> "ROK, GEKLEURD MET AS, DOOR MANNEN GEDRAGEN BIJ MASKERDANSEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <https://colonialcollections.nl/schema#description> "Rokje van grasstroken, die aan een touw zijn bevestigd waarmee het rokje om het middel vastgeknoopt kan worden. Het rokje wordt door mannen bij bepaalde maskerdansen gedragen (Koch-Grünberg, 1910: 315 en 312, Tafel X).\r\n\r\nVervaardiging\r\nGrasstroken zijn aan een touw geknoopt; de onderste baan is met as zwart gekleurd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <https://colonialcollections.nl/schema#identifier> "TM-3232-52" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#name> "DOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#description> "Een doos gemaakt van rechthoekig gevlochten lontarbladrepen? Het deksel is inschuivend. De doos is geheel versierd met geregen kralen in een patroon van ruiten en driehoeken in de kleuren rood, wit, geel, groen, blauw en doorschijnend." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#identifier> "RV-16-251" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#material> "blad (lontar) ; kralen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-251> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#name> "Stapeldoos" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#description> "Jubako (stapeldoos) bestaande uit voetstuk, vier dozen en een deksel bestemd voor het opbergen van lekkernijen. De doos is uitgevoerd in zwart lak aan de buitenzijde versierd met schelpen en dennentakjes in goudlak. Op de schelpen zijn verschillende landschappen geschilderd. In de eerste dus bevinden zich een laadje en vijf presenteerblaadjes op dezelfde wijze versierd. De binnenzijde van de dozen is uitgevoerd in donker nashiji." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#identifier> "RV-2549-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#material> "lakwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2549-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

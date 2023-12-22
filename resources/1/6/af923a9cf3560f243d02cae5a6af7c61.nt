@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#name> "KATOENEN ZAK, TWEEDE GEBRUIK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#description> "De zak is met de naaimachine uit een grotere zak (waarschijnlijk voor bloem) vervaardigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#identifier> "TM-4261-180" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#inscription> "ICami cm. x 4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#material> "katoen ; naaien" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-180> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

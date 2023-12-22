@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#name> "Rok" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#description> "Falda, geborduurd door Rosa Reyes.\r\nDe rok is op de machine gemaakt van witte fabriekskatoen. Hij is zeer wijd en geplooid aan een band gezet, waarmee men de rok ook omstrikt. De zoom is heel fraai geborduurd in rijg- en platsteken, de onderkant is met een festonsteek afgewerkt.\r\nDe kleuren van het borduursel zijn rood, groen en blauw. De motieven zijn grotendeels een herhaling van motieven die we ook al tegenkwamen in de blouses nr. 4880-381 en 382. Bovendien de tekst: Altepexi, Pue 19de Enero de 1976. Recuerdo de Rosa Reyes Castillo Altepexi-Pueblo." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#identifier> "RV-4880-384" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4880-384> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

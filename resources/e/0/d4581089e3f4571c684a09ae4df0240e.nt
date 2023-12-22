@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#name> "SPEER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#description> "Bruinhouten schacht, met uitzondering van twee korte stukjes, geheel met overlangse aaneenliggende groeven, die door ruggetjes worden gescheiden. Het boveneind met snijwerk versierd, waarin twee gestyleerde koppen met zeer lange neus, rug tegen rug gekeerd zijn. Op de schacht een schildvormig ijzeren punt met ronde steel, die in de bus overgaat.\r\n\r\nIn de Geelvinkbaai werden mensen en wilde varkens met speren gedood. De ijzeren speerpunten werden in enkele delen van de baai gemaakt en via ruilhandel verspreid naar de volkeren die ze niet konden maken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#identifier> "RV-929-648" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#material> "hout ; ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-648> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

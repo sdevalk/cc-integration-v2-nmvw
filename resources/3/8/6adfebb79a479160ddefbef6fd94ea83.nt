@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#name> "EEN PAAR OORKNOPPEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#description> "Een paar oorknoppen gemaakt van goud. De oorknop zijn versierd met filigraanwerk in de vorm van een bloemknop met een vierbladige kelk. De onderkant is plat met in het midden een buisje waarin het gedeelte dat achter het oor komt draait. Dit gedeelte is een kleine platte schijf, die aan de binnenkant effen is en aan de buitenkant versierd is met stervormig filigraanwerk met in het midden een vierbladige bloemfiguur." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#identifier> "RV-847-126" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#material> "goud" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-126> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

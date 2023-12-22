@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#name> "IMKERHANDSCHOEN, ONDERDEEL VAN EEN SET" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#description> "De handschoenen zijn verlengd om de armen van de imker tegen bijensteken te beschermen, bijvoorbeeld tijdens het vergaren van de honing. De handschoen is gemaakt van aan elkaar genaaid leer en katoen. De katoenen verlengstukken bevatten elastiek." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#identifier> "TM-5151-20b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#material> "katoen ; leer ; naaien" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5151-20b> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#name> "KRIS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een recht lemmet met een wolkenpatroon (pamor). Het gebogen heft is van donkerbruin hout gesneden en aan de holle kant op twee plaatsen met snijwerk versierd. De messing steelring (mendak) is versierd met bolletjes doe opgesloten worden door rechthoeken. De schede (gandar), gemaakt van gepolijst bruin hout, heeft een messing hoes (pendok), die aan de voorkant een spleet in de lengte heeft zodat het hout zichtbaar is. De schedeopening (wrangka) is bootvormig en van lichtbruin hout gesneden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#identifier> "RV-1557-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; messing ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1557-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#name> "RELIËFFIGUUR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#description> "Reliëffiguur van zijde voorstellende een staande vrouw in middeleeuwse hofkledij met waaier. De vorm is opgebouwd uit diverse rond papier gevouewen restmaterialen van zijde, bedrukt, met ingeweven patronen en in krip." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#identifier> "RV-1-3239" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#material> "zijde ; pigment" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-3239> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

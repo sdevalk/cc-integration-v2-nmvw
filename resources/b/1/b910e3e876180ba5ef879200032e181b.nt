@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <https://colonialcollections.nl/schema#name> "IJZEREN DEURKLOPPER VAN DE HOUTEN BUITENDEUR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <https://colonialcollections.nl/schema#description> "Deze deurklopper hoort bij een massieve buitendeur van het platteland en was oorspronkelijk aan deur 3833-293a bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <https://colonialcollections.nl/schema#identifier> "TM-3833-293b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3833-293b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

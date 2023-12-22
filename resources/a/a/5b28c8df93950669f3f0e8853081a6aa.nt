@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#name> "FIGUUR: MAN EN VROUW OP BASIS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#description> "Figuur gekleed in het kostuum van Cuzco, voor mannemuts zie 5715-1653. Vrouw spinnend, man met fluit." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#identifier> "RV-5715-1652" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#material> "papier-maché ; textiel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-1652> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

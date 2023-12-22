@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#name> "Wandkleed" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#description> "Chinese doek; vogel- en bloemfiguren geborduurd op katoenen ondergrond; fond rood, groen, beige, geel; verspreid over gehele doek ronde en 6-kantige koperen ringetjes met spiegelend glas erin; buitenste rand geprint met bloemen; achterzijde bestikt met katoenen lap; franjes aan onderkant, bestaande uit netwerk met kraaltjes en franjes.\r\nHerkomst: Lampongdistrict, Sumatra, Indonesië." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#identifier> "7082-S-322-76" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#material> "katoen, koper, spiegelglas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-322-76> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

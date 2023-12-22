@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#name> "AFSLUITTEGEL VAN EEN BIJENKORF" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#description> "Ronde geglazuurde tegel met Arabische tekst, waarschijnlijk een korantekst, voor afsluiting van een horizontaal geplaatste bijenkorf. Het gat aan de onderkant is er om de bijen door te laten. Het jaartal 1311 bovenaan verwijst waarschijnlijk naar de Perzische jaartelling en komt overeen met 1932/33 A.D." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#identifier> "TM-3902-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3902-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .

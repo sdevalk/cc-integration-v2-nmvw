@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#name> "KRAAL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#description> "Ovaal vormige kraal met bovenin een doorboring voor het snoer. / Oval shaped bead with a small rounded cap above the cord hole." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#identifier> "RV-3470-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#material> "jade" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-20> <https://colonialcollections.nl/schema#yearCreatedStart> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .

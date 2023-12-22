@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#description> "Tijdens de legu of ciawa wedstrijd in Idam dehe treden enkele meisjes op als Moa ma Jum figuur. Ditmaal lopen zij in de rondte in plaats van op een stoel in de kring van mannen te zitten. Zij dragen drie lagen rode en gele sarongs - vaak met zijdedraad (‘ba‘a grem) – de rood-gele tuala suje in de hand, de kruisbanden (sangkola) en achter op de haarwrong de metalen kroon (leri) en de haarkam (ku’ba salaka).\r\n\r\nOp de achtergrond een man die is gekleed als genealogisch jongere (tubaie), met de hoofddoek en dubbelgevouwen batik heupdoek." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#identifier> "RV-6234-509" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#creator> "Leontine Visser" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6234-509> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

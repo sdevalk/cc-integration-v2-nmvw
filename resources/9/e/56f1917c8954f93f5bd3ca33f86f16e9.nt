@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#name> "DWARSFLUIT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#description> "Een dwarsfluit gemaakt van een lengte bamboe. Het uiteinde naast het mondstuk is dicht, de andere kant is open. Als mondstuk is een lange smalle opening gemaakt, dat omwikkeld is met een dunne vezel. In het verlengde van de opening is een gleufje gemaakt voor het tongetje, dat ontbreekt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#identifier> "RV-3828-13" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#material> "bamboe ; vezels" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

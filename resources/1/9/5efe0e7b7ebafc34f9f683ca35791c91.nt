@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#name> "SPREUKENKOORD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#description> "In heel Afrika wordt veel belang gehecht aan spreekwoorden. Men ziet ze als een reservoir van eeuwenoude wijsheid. De jeugd wordt via spreuken en spreekwoorden onderwezen. In Angola had men de gewoonte om touwen buiten de woning te hangen, waaraan voorwerpen werden bevestigd die naar spreekwoorden verwezen.\r\nBast van de ntonto-nfuma boom verwijst naar de spreuk \"eerbiedig de boom ofwel om zijn doornen, ofwel om zijn gewicht', dit wil zeggen: heb eerbied voor de ouderen, hetzij om hun rang, hetzij om de straffen die ze kunnen geven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#identifier> "AM-29-29" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#material> "touw ; ongedefinieerde materialen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-29-29> <https://colonialcollections.nl/schema#yearCreatedStart> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

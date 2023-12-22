@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <https://colonialcollections.nl/schema#name> "KATOEN MET WOLLEN BUIKBAND, ONDERDEEL VAN EEN MANNENKOSTUUM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <https://colonialcollections.nl/schema#description> "Witte brede buikband met fijne zwarte lijntjes en aan de uiteinden een rode bies en franje. De band is onderdeel van een mannenkostuum en is afkomstig uit de verzameling van mw. Steffa Wine, danseres en eertijds eigenaresse van een dansschool.\r\n\r\nVervaardiging\r\nGeweven op een roller-ophalergetouw, waarna de figuren zijn aangebracht d.m.v. het toevoegen van extra wollen draden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <https://colonialcollections.nl/schema#identifier> "TM-5411-22" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5411-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

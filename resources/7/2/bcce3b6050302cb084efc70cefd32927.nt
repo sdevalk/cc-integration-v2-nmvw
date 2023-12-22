@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN JONGE TUAREG MET AMULETTTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#description> "Om de hals draagt de jongen diverse amuletten, bestaande uit leren envelopjes, meestal gevuld met spreuken uit de Koran op stukjes papier die de drager bescherming moeten bieden tegen allerlei onheil. Een zelfde type amuletkettingen wordt gedragen door een Bella man op foto 20010119." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#identifier> "TM-20010116" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#creator> "Johan Theodorus Broekhuijse" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010116> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

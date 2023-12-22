@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#name> "VOOROUDERBEELD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#description> "De stenen beelden van Nias hebben in tegensteling tot de houten voorouderbeelden meestal niets met religie te maken. Dit imposante beeld is gemaakt van een levend lid van de samenleving. Het is ooit opgericht na een feest voor een adellijk man die in status wilde stijgen. Op Nias bestaat een standensamenleving waar alles draait om reputatie. Wie gasten op rituele feesten buitensporig onthaalt, verwerft eeuwige roem en aanzien. Als blijvend teken daarvan werd vroeger een stenen beeld opgericht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#identifier> "RV-1895-74" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#material> "Steen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1895-74> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

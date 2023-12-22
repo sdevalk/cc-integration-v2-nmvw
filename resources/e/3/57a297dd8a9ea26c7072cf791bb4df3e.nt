@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <https://colonialcollections.nl/schema#name> "BUIDEL VAN BOOMBAST WAARMEE COCAÏNE DE NEUS IN WORDT GEBLAZEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <https://colonialcollections.nl/schema#description> "Buidel met coca-poeder.\r\nDoor erin te knijpen wordt het poeder in de neus geblazen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <https://colonialcollections.nl/schema#identifier> "TM-3232-36a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3232-36a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

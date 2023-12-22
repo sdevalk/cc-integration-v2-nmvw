@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#name> "TANKA: GEBOORTE VAN BOEDDHA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#description> "Centraal op deze Tibetaanse thangka staat de moeder van de Boeddha. Traditiegetrouw, houdt zij een tak van een boom vast. Uit haar rechterzij is net haar zoon geboren. Hij is afgebeeld als een klein zittend gouden Boeddhabeeld, hoewel hij dan nog geen Boeddha is. De goden Brahma en Indra hebben hem op een witte doek geplaatst. Links onder zien we het kind nogmaals afgebeeld, nu staand. Vlak na zijn geboorte zet hij zeven passen naar het oosten, zuiden, westen en noorden. Onder elke voetstap verschijnt een lotusbloem." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#identifier> "R-2596" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#material> "textiel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-2596> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .

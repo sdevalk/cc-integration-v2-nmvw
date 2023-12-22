@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#name> "TEKENING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#description> "'Hieroglyphen van Dighton Rock' Zie bijlage bij schrijven van 16 nov 1867. Het is niet duidelijk welk Dighton bedoeld is; volgens de Times Atlas ligt er een plaats met die naam in Kansas, in Massachusets en in Michigan." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#identifier> "RV-1403-3506" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3506> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

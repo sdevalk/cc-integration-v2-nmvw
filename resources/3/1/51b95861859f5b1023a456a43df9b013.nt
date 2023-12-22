@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#name> "HOOFDSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#description> "Een hoofdsieraad gemaakt van parelmoerschelp. Het sieraad is trapeziumvormig. De schuine randen zijn van gaten voorzien. Door de gaten zijn repen rode katoen geregen. Tussen de bandjes katoen zijn dwarsstaafjes bevestigd. Op de bandjes zijn pinnen bevestigd. De pinnen werden gebruikt om een verentooi vast te zetten" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#identifier> "TM-A-2524" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#material> "schelp ; parelmoer ; katoen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-2524> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

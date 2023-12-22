@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#name> "RELIGIEUZE PRENT: HOESSEINS PAARD DULDUL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#description> "Voorstelling van Duldul, het paard waarop Hoessein streed in de slag te Kerbela.\r\nHet slagveld van Kerbela bestond uit woestijn waar de partij van Hoessein gekweld werd door brandende zon en dorst. Op de prent is het tegendeel weergegeven, een paradijselijke groene tuin vol bloemen en helder water op de achtergrond.\r\n\r\nDe door een parasol beschermde hand op het zadeldek van Duldul symboliseert Mohammed, zijn dochter Fatimah, Fatimah's echtgenoot Ali en hun twee zoons Hassan en Hoessein." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#identifier> "TM-R-1106" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#material> "Drukwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1106> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

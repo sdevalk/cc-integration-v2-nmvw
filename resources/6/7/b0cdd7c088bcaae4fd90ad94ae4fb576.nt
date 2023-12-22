@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <https://colonialcollections.nl/schema#name> "GEREEDSCHAP EN WAPENS VAN DE MANG'ANJA EN AJAWA STAMMEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <https://colonialcollections.nl/schema#description> "Uit: The Illustrated London News, 12 november 1864, p. 494 (helft van pagina)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <https://colonialcollections.nl/schema#identifier> "TM-3728-896" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-896> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

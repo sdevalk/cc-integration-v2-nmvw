@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#name> "SCHAAL VOOR PLENGOFFER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#description> "Zilveren schaal op lotusvoetstuk, in stukken gegoten, gedreven, geciseleerd en aan elkaar gesoldeerd. Op de zijwand acht gegraveerde Boeddhistische gelukstekens (astamangala) en lotusmotief. In het centrum van de binnenzijde bevindt zich een levensteken 'rgyan 'khyil'. Deze schaal vormt een set gereedschap voor plengoffer samen met 4530-2b, en 4530-2c." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#identifier> "RV-4530-2a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#material> "Zilver ; gegoten ; gedreven ; geciseleerd ; gesoldeerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4530-2a> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

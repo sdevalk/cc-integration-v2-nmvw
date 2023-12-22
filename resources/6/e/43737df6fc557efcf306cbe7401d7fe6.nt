@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#name> "MAGISCHE HOORNS MET VOOROUDERFIGUREN OP EEN SINGA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#description> "Twee toverhoorns voor het bewaren van een magische substantie, pupuk. Dit is een attribuut van een priester/genezer (datu). De stop is in de vorm van een Singa met respectievelijk zeven en vijf menselijke figuren. Op de rechter hoorn zijn drie slangen uitgesneden. Bovenop is een hagedis afgebeeld, die staat voor Boraspati, een vruchtbaarheidsgod." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#identifier> "TM-60054562" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054562> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

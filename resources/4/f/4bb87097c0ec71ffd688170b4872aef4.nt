@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#name> "ROK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#description> "Deze rok van plantaardige vezels is waarschijnlijk gedragen bij dansen. Mannen en vrouwen droegen vroeger dagelijks wikkelrokken van boombastdoek die om de middel vastgezet werden met gordels gemaakt van menselijk haar. Tegenwoordig worden nog steeds dergelijke grasrokken bij feestelijke gelegenheden zoals danswedstrijden en schoonheidsverkiezingen gedragen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#identifier> "RV-265-146" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#material> "vezel (plantaardig) ; vezeltouw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-265-146> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .

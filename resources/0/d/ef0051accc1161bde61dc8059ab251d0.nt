@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#name> "KATOENEN SCHOUDERDOEK DOOR K.M.R.H. MET EEN SYMMETRISCH GEHEEL AAN ZICH REPETERENDE GROTE BLAUWE BLADEREN EN BLOEMEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#description> "Doek met witte badan ('lichaam') vol grote bloemmotieven, met de cap aangebracht. De doek is een kain Palembang, wat wijst op zijn bestemming. In Lasem was een groot deel van de batik voor de export naar Sumatra bestemd. De batik produktie was grotendeels in handen van de Peranakan (van Hout, 2001). Selendangs zijn typische vrouwenkledingstukken, en worden gebruikt als schouderdoek of draagdoek voor dingen en kinderen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#identifier> "TM-5663-511" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-511> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

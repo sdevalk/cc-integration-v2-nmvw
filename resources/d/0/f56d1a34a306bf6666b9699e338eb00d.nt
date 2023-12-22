@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#name> "BL 2A UITZICHT KAMER EDUC DIENST (BESTEMMING TOT 1985, DAARNA TEXTIELRESTAURATIE-ATELIER), JAAP VD NAT, ARIE(AAD) LEEFLANG, TON JANSEN, WIM ROSEMA, ATECA WILLIAMS KERSTVAK DEC 1976 3 STROKEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#identifier> "RV-10608-2Adub2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#creator> "drs. W.H.S. Rosema" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10608-2Adub2> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

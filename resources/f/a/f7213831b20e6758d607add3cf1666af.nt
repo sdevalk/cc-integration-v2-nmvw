@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <https://colonialcollections.nl/schema#name> "ARMBAND UIT SETJE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <https://colonialcollections.nl/schema#description> "Wordt gedragen bij jurk 4611-1. De jurk wordt door getrouwde vrouwen gedragen bij bijzondere gelegenheden. Ten tijde van de aankoop werden dergelijke jurken nog wel gedragen in de Dakhla-oase, maar niet meer gemaakt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <https://colonialcollections.nl/schema#identifier> "TM-4611-4b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4611-4b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

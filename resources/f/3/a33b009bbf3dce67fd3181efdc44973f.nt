@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#name> "GEWEVEN BAND TER DECORATIE VAN EEN WIKKELROK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#description> "Dubbelweefsel (handgesponnen paarse wol en witte fabriekskatoen), cirkelvormige band van 25 cm lengte en een omtrek van 225 cm, die oorspronkelijk aan een wit-wollen rok was genaaid. Decoratie bestaat uit smalle banen met diverse kleine geometrische motieven.  Analyse wordt bemoeilijkt door vervilten van de stof ; regelmatig wassen heeft de wol aanzienlijk doen krimpen. Oud en zeldzaam, vermoedelijk geweven op een heupgetouw. Elders vervaardigd, maar gebruikt in San Pablito, Pahuatlan, Puebla. Verworven in 1958." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#identifier> "RV-5946-68" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#material> "wol ; katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-68> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

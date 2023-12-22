@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#name> "VROUWENSJAAL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#description> "Een lap stof in kirman-stijl, gemaakt van alternerende paarse en witte strepen geflankeerd door smalle naturelkleurige en gele strepen. In elke paarse en witte streep bevinden zich kleine op zichzelf staande gele en groene buteh. Elke strook buteh is beurtelings een andere kant opgericht. (GVE, 2002)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#identifier> "RV-503-187" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#material> "Wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-187> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#name> "HEUPWEEFGETOUW MET OPZET VOOR EEN SERVILLETA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#description> "Compleet heupweefgetouw met een gedeelte van een servilleta, d.w.z. de scheringdraden zijn aanwezig evenals een deel van de inslagdraden. Beide bestaan uit wit katoen. Het weefgetouw op zich bestaat uit tien horizontale scheringstokken, een heupband van jonote (liaanvezel) en een touw van ixtle (agavevezel) om de andere kant van het weegetouw aan iets vast te maken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#identifier> "RV-5075-687" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#material> "hout ; katoen ; agavevezel ; liaanvezel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5075-687> <https://colonialcollections.nl/schema#yearCreatedStart> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#description> "Architectuurfotografie. Poort van de Giralda, een minaret gebouwd tussen 1184 en 1197 bij de Grote Moskee van Sevilla. Na de herovering door de Spanjaarden in 1248 is de mosekee tot kathedraal herbouwd en is een klokkentoren op de minaret gezet." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#identifier> "WM-413194" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#inscription> "nummer & titel geschreven in negatief &\r\ntitel ; voorzijde ; geschreven op het karton" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#material> "papier, albuminedruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413194> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

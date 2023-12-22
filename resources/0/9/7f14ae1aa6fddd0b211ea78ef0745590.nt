@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#name> "Vellen papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#description> "octavo formaat; met diverse watermerken in 7 verschillende patronen. (Nr. 60)\r\n1 vel: dikte 90 mu; gewicht: 3.1; basisgewicht p/g.-m2: 27.2; dichtheid 0.30cm-3; gemaakt met bamboe schepraam van 23 laid lines (waterlijnen) op een chain line afstand van 35 mm en een laid line afstand van 11cm." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#identifier> "RV-1-2854" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#material> "papier ; geschept" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2854> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#name> "KOM MET GESTILEERDE VISSEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#description> "Kom met een schildering van gestileerde vissen bovenop de rand, aan de zijkant van de rand en in verticale banen op de buik van de kom. De verticale banden worden afgewisseld met rijen cirkels rond een stip, een pan-Andes symbool voor water." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#identifier> "TM-3842-126" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#material> "Aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-126> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

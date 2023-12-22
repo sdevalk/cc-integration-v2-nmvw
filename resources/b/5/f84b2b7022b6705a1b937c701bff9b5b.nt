@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BEELD VAN EEN STAANDE MAN, VOOR DE HELFT GERESTAUREERD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#description> "Beeld van een staande man waarvan de nek en het hoofd moderne toevoegingen zijn. Hij heeft een brede kraag om met daaronder een rechthoekige verlenging of afzonderlijk kledingstuk dat totaan zijn geslachtsdeel reikt.\r\nIn Amerika was een wijdverspreid geloof in het hiernamaals. De doden werden giften meegegeven, vaak gebruiksvoorwerpen zoals aardewerken potten, wapens en voedsel (mais, pinda’s, bonen etc.)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#identifier> "TM-3842-503" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-503> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

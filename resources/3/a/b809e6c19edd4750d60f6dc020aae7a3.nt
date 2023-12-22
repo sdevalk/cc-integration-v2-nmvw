@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KOP VAN KIFPIJP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#description> "De kop van de pijp is haaks gebogen, hol, ringvormig aangestipt; aan het ene uiteinde één, andere uiteinde twee maal." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#identifier> "TM-3144-12b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#material> "aardewerk ; terracotta" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3144-12b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

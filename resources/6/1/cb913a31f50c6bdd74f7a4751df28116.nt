@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#name> "VIJF TASJES VAN IXTLE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#description> "Vijf tasjes van ixtle (k-o), geweven op een heupweefgetouw. Zeer fijn weefsel ; inslagpatroonweefsel. Zie 5946-1004/1005/1007." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#identifier> "RV-5946-1006" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#material> "ixtle" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1006> <https://colonialcollections.nl/schema#yearCreatedStart> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <https://colonialcollections.nl/schema#name> "ZILVEREN ARMBAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <https://colonialcollections.nl/schema#description> "Zulke armbanden werden gedragen door Amazighvrouwen in het zuiden van Marokko, omgeving Ouarzazate en de Draa-vallei. Oorspronkelijk werden dergelijke armbanden met punten door vrouwen gebruikt om zich te verdedigen tijdens aanvallen, later hadden ze alleen nog een sierfunctie (Grammet 1998: 243)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <https://colonialcollections.nl/schema#identifier> "TM-3064-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3064-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

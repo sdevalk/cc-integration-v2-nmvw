@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#name> "FLUITJE VAN AARDEWERK IN MENSVORM PRE-COLUMBIAANS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#description> "Fluit in de vorm van een hond.\r\nHonden zijn begeleiders van de overledenen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#identifier> "TM-3842-652" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#material> "Aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#yearCreatedEnd> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-652> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

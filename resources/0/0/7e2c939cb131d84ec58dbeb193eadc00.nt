@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#name> "GORDELPLAAT VAN GEDREVEN EN GENIËLLEERD ZILVER, VERSIERD MET RANKMOTIEVEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#description> "De gordel bestaat uit drie steeds kleiner wordende platen die op elkaar bevestigd zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#identifier> "TM-1698-173" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1698-173> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

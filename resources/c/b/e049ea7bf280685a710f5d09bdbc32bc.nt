@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#name> "TWEE STUKKEN SCHORS (A EN B) VAN DE SO-BOOM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#description> "De functie en gebruik van de stukken schors zijn onbekend. Van de vruchten van de So-boom wordt gesuikerde saus gemaakt, gekookt en koud gedronken. De inheemse naam van de saus is Somu, die van de vruchten is Sololo." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#identifier> "TM-3912-1068a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#material> "schors" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1068a> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

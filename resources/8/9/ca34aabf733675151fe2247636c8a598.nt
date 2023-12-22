@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#name> "HOUTEN STEEL  VAN EEN SAGOKLOPPER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#description> "Klopper, bestaande uit een rechte, ronde steel, die aan de bovenzijde voorzien is van een diagonaal aangebracht gat. Daarin, als wig, een houten steenhouder met een groenachtige klopsteen die een uitgeholde kop heeft. Rotanomwikkeling rond steel en steenhouder. Steel en steenhouder zijn versierd met eenvoudige reliëfuitsnijdingen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#identifier> "TM-3401-1246a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#material> "hout ; rotan" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3401-1246a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

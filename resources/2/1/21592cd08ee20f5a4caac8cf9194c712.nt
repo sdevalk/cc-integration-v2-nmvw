@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#description> "[VO] godheid & dhyani-boeddha : Vairocana met gekruiste benen gezeten op lotustroon (padmasana). Handhouding: uttarabodhi-mudra (grootste volmaaktheid). Attribuut: cintamani (parel). Eigenschap: ushnisha.  Het kleed hangt in rijke, gepliseerde plooien neer\r\n[KL] goud & zwart (haar)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#identifier> "WM-29716" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#material> "verguld en gelakt hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-29716> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

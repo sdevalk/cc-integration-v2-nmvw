@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#name> "PAAR SCHOENBANDEN VOOR VROUWENSCHOENEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#description> "Gebruikt om de schoen iets boven wreef en hiel dicht te binden.\r\nZo kan er geen sneeuw in de schoen komen.\r\nDe Saami gebruiken in hun traditionele schoeisel geen veters.\r\nRood-blauw-geel van kleur met als verdere versiering een pompoen.\r\nHet dunnere gedeelte is gevlochten, het bredere geweven.\r\nSamische vrouwen weven dergelijke schoenbanden zelf van wol.\r\nZe gebruiken daarbij een weefkaart.\r\nDeze schoenbanden horen bij de bruidsschoenen met nummer RMV 5316-1a en b." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#identifier> "RV-5319-1a-b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#material> "wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5319-1a-b> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .

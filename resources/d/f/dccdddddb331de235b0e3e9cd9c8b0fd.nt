@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#name> "FLESKALEBAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#description> "Fleskalebas, vrucht van Iagenaria-vulgaris. Hengsel niet meer aanwezig en kalebas zwaar gebarsten. Boveneinde recht afgesneden.\r\nDient om de sagoweer te bewaren, die de ronde doet als er bezoekers zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#identifier> "RV-929-294" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#material> "kalebas (Lagenaria vulgaris)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-294> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#name> "BEELD VAN EEN VROUW MET OPGEHEVEN ARMEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#description> "Beeld van een vrouw die staat met opgeheven armen. Een zwarte band is rondom over de pubes en het achterwerk geschilderd. Bovenin het voorhoofd zitten drie gaatjes voor additionele versiering (haar, veren).\r\nDit soort beelden werden in de schachtgraven van de Chancay-cultuur meegegeven. Vaak waren ze voorzien van kleding." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#identifier> "TM-2765-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2765-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

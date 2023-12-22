@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#name> "MAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#description> "Een ronde mand gemaakt van open en diagonaal gevlochten, ongekleurde lontarbladrepen. De mand staat op een ringvormige voet, is aan de onderkant zeshoekig en loopt wijd uit in een ronde rand. De bovenrand is verstevigd met een hoepel, die omvlochten is. De bodemrand is eveneens een ronde hoepel en omvlochten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#identifier> "RV-858-243" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#material> "blad (lontar)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-243> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

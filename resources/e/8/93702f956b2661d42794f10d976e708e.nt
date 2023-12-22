@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#name> "TWEE WEEFNAALDEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#description> "Twee weefnaalden of pinnen gebruikt bij het heupweven en bedoeld om kettingdraden bij het patroonweven op te nemen. Deze weefnaalden zijn uit ijzer gesmeed en eindigen aan de bovenzijde in een vogelfiguur. Gemaakt te Pinotepa de Don Luis ; geschenk van Mapelli en Tibon." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#identifier> "RV-5946-947" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#material> "ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-947> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

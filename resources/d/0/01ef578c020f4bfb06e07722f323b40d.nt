@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, los aangeboden.\r\n\r\nOp achterkant staan meerdere in potlood geschreven nummers/getallen, zonder duidelijke uitleg. Zelfs in meerdere kleuren.\r\n\r\nOpname toont een belangrijk uitziend wit gebouw, met plat dak. Aan de voorkant een zuilenpartij met daarboven op het platte dak een vlaggenmast met vlag.\r\n\r\nVoor het gebouw een rondlopende weg ." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#identifier> "7082-nf-1372-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1372-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .

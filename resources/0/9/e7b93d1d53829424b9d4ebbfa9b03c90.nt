@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#name> "REK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#description> "Een rek gemaakt van één stuk ijzerhout. Het rek is beschadigd en niet meer geheel compleet en vermoedelijk vrij oud. Aan de beide uiteinden twee trapeziumvormige klossen, aan de voorkant een dun plankje, dat geheel a jour is uitgesneden met twee naar elkaar toegerichte drakenfiguren met wijd opengesperde bekken, die een wederom sterk gestileerd mensen-figuurtje met de bekpunten vasthouden; dit mensenfiguurtje heeft een zeergroot hoofd in verhouding tot het smalle lichaam, de benen steken van uit zittende houding recht omhoog en zijn gedeeltelijk afgebroken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#identifier> "RV-2881-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#material> "hout (ijzerhout)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2881-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

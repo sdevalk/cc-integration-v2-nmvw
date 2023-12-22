@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#name> "GORDEL VOOR CEREMONIEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#description> "Deze gordel doet dienst bij relgieuze ceremoniën en bij vervoer van hout." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#identifier> "RV-1853-80" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#material> "touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-80> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

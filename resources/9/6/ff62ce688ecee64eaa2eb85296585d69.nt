@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#name> "KRANT: MUFARRIH AL-QULÛB, WEEKLY PERSIAN JOURNAL, UITGEGEVEN IN KARACHI, GEDATEERD: 20 SAFAR 1299/31 DECEMBER 1882." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#description> "Krant Mufarrih al-Qulûb, weekly Persian journal, uitgegeven in Karachi, gedateerd: 20 Safar 1299/31 december 1882." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#identifier> "RV-503-155d" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#material> "papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-155d> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .

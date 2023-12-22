@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#name> "KRISSCHEDE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#description> "Een schede van een kris gemaakt van hout. De schedeopening (wrangka) is niervormig en gesneden van gevlekt hout (kaju pelet). De schede (gandar) is gemaakt lichtbruin hout met een gladde messing hoes (pendok). De hoes heeft aan de voorkant in het midden een spleet, zodat het hout van de schede zichtbaar is.\r\nDe wrangka ontbreekt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#identifier> "RV-2642-75" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#material> "hout ; messing" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2642-75> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

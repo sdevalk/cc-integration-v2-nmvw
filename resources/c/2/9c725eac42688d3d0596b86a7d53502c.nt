@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#name> "KATOENEN SCHOUDERDOEK MET MET SITSACHTIG VOORKOMEN MET BLOEMEN EN VOGELS OP EEN ACHTERGROND VAN GEVLOCHTEN BAMBOEMAT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#description> "Een met een rode en smallere blauwe baan omkaderde badan ('lichaam') met florale motieven als bloemen, bladeren en vogels. Het achtergrondmotief van gevlochten bamboemat heet bilik (Heringa, 1996). Veldhuisen noemt de doek chintz (sits). Hij was bestemd voor de export naar Sumatra." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#identifier> "TM-5663-469" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-469> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

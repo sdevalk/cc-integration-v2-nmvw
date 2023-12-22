@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <https://colonialcollections.nl/schema#name> "RAMMELAAR VAN VLECHTWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <https://colonialcollections.nl/schema#description> "Deze rammelaar van gevlochten riet bestaat uit twee rammelaars die door middel van een beugel aan elkaar verbonden zijn. De rammelaars zijn gevuld met steentjes, en aan de onderkant afgesloten met ronde stukken kalebas." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <https://colonialcollections.nl/schema#identifier> "TM-3911-63" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3911-63> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

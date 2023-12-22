@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#name> "BATIKPATROON: KETONGKENG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#description> "Dit is een gebatikt Ketongkeng patroon. Een Ketongkeng is een soort van Indische klimop (Lat. Pergularia odoratissima Sm). Het patroon bestaat uit kleine witte en bruine bloemen op een blauwe achtergrond in door kettinglijnen gevormde ruiten. Het midden van iedere ruit is gevuld met een kleinere ruit. De rand heet Sisih godong (bladrand). Dit batikpatroon is een oud patroon." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#identifier> "RV-847-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#material> "katoen ; verf ; batik" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

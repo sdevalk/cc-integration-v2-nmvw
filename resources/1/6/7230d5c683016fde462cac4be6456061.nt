@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <https://colonialcollections.nl/schema#name> "ZILVEREN ENKELRING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <https://colonialcollections.nl/schema#description> "De open uiteinden van dit paar enkelringen is voorzien van 14 facetten en zijn ingelegd met een goudlegering (suasa)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <https://colonialcollections.nl/schema#identifier> "TM-2290-1a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2290-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

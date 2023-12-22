@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#name> "SCHILDERING IN COLLAGETECHNIEK BOOMRIJKE OMGEVING MET MEERTJE, LANDHUIS EN FONTEIN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#description> "Schildering in collagetechniek ca. 1940. Afbeelding: schildering van een Europeaniserende boomrijke omgeving met een meertje, een landhuis met bordes en een spuitende fontein in de tuin." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#identifier> "TM-R-1010" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1010> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

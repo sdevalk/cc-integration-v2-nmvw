@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#name> "MONDHARP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#description> "Een mondharp gemaakt van een lengte bamboe. De kleine harp heeft in het midden een getrapt gesneden tong, die van messing is gemaakt. De uiteinden zijn rond gesneden.  Aan één uiteinde is een stokje aan een gedraaid touw vastgebonden. De andere kant heeft een touwtje. De touwtjes en het stokje ontbreken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#identifier> "RV-3600-3358" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#material> "bamboe ; messing ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-3358> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

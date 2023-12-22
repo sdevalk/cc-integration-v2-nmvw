@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN HOED" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#description> "Hoed gemaakt van elkaar schuins overlappende bladstroken, vastgezet  met vezels. De hoed heeft een met rotan verstevigde rand. Boven op de hoedrand vezel vlechtwerk dat over de rand is vastgezet. \r\nDe binnenkant van de hoed is gevoerd met bladstroken echter lichter van kleur dan de buitenkant, ook deze overlappende bladstroken zijn vastgezet met vezels." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#identifier> "TM-6177-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6177-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#name> "GEKLEURDE LITHO BEHORENDE BIJ NED. OOSTINDISCHE TYPEN DOOR A. VAN PERS JAVAANSCHE SCHAREN EN MESSENSLIJPER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#description> "Litho naar een tekening van A. van Pers.\r\n\r\nLinksonder: Javaansche scharen- en messenslijper.\r\nMiddenonder: Javaanse tekst.\r\nRechtsonder: Rémouleur.\r\n\r\nSign. Linksonder: A. v. Pers del.\r\n         Rechtsonder: Kon. St. v.C. W. Mieling." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#identifier> "TM-3728-211" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#creator> "A. (Auguste) Van Pers" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-211> <https://colonialcollections.nl/schema#yearCreatedStart> "1853"^^<http://www.w3.org/2001/XMLSchema#integer> .

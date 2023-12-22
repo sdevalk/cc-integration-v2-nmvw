@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#name> "KOM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#description> "Deze kom is op de randen versierd met uitgebreide decoratie, in de vorm van rode, zwarte en bruine lijnen. In deze decoratie is niet direct een vorm te herkennen en het lijkt er dan ook op dat het hier gaat om een soort abstracte decoratie.\r\nDe binnenkant van de kom is sterk verweerd: de verflaag is volledig verdwenen. Dit duidt op uitgebreid gebruik van de kom, waarschijnlijk voor het serveren en drinken van verschillende soorten dranken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#identifier> "RV-6184-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#material> "Aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1521"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6184-5> <https://colonialcollections.nl/schema#yearCreatedStart> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#name> "246. RUINEN. HAUPT EINGANG ZU NANTANAI." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#description> "No.246. Der Hauptzugang zu Nan-Tauatsch von der Wasserstrasse oder dem Canal her, die Form und Lage der Basaltsäulen ebenfalls deutlich. ** C.\r\nBron: Schmeltz & Krause, 1881, Verzeichniss der Photographien, Carolinen-Archipel, b. Ponapé, p.527." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#identifier> "WM-413047" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#material> "papier, karton (oranje), albuminedruk, kabinetfoto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-413047> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

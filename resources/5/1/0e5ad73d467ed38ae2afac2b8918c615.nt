@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#description> "Kaftan (1) in geel, wit, rood, roze, groen en blauw met knoopsluiting en\r\nchirb-motief en gordel (2)  in donkergeelgroen en oranje met draad over \r\nverschillende plekken afgebonden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#identifier> "WM-200026" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#material> "textiel uit Marseille, geborduurd met gouddraad (1)\r\nzijde & metaaldraad (2)\r\ntrekstoelweefsel & gebrocheerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200026> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

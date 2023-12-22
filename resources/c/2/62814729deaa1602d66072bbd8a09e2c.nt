@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#name> "RAMMELAAR IN DE VORM VAN EEN KALEBAS (?)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#description> "Langwerpige rammelaar met brede evenijzige verticale groeven, boven en onder afgescheiden door een ring. Onder en bovenaan zijn telkens drie gaatjes aangebracht. Het handvat heeft een doorboring.\r\n\r\n-------------\r\n11-10-2005\r\n\r\nRegistratiekaart: Stelt mogelijk een kalebas voor.\r\n\r\n----------------\r\n28-3-2013\r\n\r\nOblong rattle with a handle and parallel wide vertical grooves with holes on the body. Top and bottom separated by a ring. The handle has a borehole through it." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#identifier> "RV-3470-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#material> "aardewerk / ceramic" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3470-1> <https://colonialcollections.nl/schema#yearCreatedStart> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .

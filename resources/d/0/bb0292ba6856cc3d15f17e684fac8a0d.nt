@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <https://colonialcollections.nl/schema#name> "BAMBOE KOKER VOORZIEN VAN SIERSNIJWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <https://colonialcollections.nl/schema#description> "Een met uitsnijdingen versierde koker, waarschijnlijk vervaardigd voor de verkoop aan toeristen\r\n\r\nVervaardiging\r\nKoker, vervaardigd uit een deel van een bamboe geleding. Het epidermis is grotendeel weggesneden en wel zó dat de overgebleven delen versierende figuren vormen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <https://colonialcollections.nl/schema#identifier> "TM-6236-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6236-4> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#name> "LEPEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#description> "Een lepel gemaakt van een deel van een kokosnoot. De lepel is gebogen van vorm en heeft een hol rond lepelblad met een punt aan het uiteinde. Boven het blad zijn aan weerszijden van de steel twee puntige uitsteeksels gesneden. Het handvat is schaalvormig met in het midden een rond gat. Aan beide kanten is een punt gemaakt. Aan de bovenkant een laatste lang puntig uitsteeksel. De randen zijn voor het grootste gedeelte in kleine punten gesneden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#identifier> "RV-16-181" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#material> "kokosnoot" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-181> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

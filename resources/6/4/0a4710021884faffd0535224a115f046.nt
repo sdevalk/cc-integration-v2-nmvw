@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#name> "SIRIHKOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#description> "Een sirihkoker gemaakt van een lengte bamboe. De koker heeft een inschuivend deksel gemaakt van hout. In het midden van het deksel is een gat gemaakt waarin een kort touwtje vastgemaakt is. De wand van de koker is geheel versierd met uitgesneden figuren, die zwart zijn gekleurd. Aan beide uiteinden banden van zigzaglijnen. Tussen deze banden twee brede banden met bloem- en bladranken, die gescheiden worden door een smalle band met een golvende lijn en krullen. De overblijvende ruimten zijn zwart gekleurd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#identifier> "RV-3600-4039" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4039> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

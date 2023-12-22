@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#name> "KLEI MET BUFFELSPOOR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#description> "Een bal harde grijze klei met in de bal een rondgaande reep rotan. In de bal een afdruk van een buffelspoor." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#identifier> "RV-2663-64" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#material> "klei ; rotan" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2663-64> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

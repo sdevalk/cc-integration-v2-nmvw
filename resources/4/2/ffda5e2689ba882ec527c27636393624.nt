@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <https://colonialcollections.nl/schema#name> "ZANDLOPERVORMIGE STOK MET EEN GESNEDEN KORWARBEELD VERSIERD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <https://colonialcollections.nl/schema#description> "Volgens de schenker handelt het zich om een pareerstok om slagen met klewangs of parangs (allebei een soort kapmes) op te vangen. Echter is het omstreden of er klewangs waren in Papua." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <https://colonialcollections.nl/schema#identifier> "TM-669-40" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-669-40> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#name> "PRENT MET LAL SHAHBAZ QALANDAR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#description> "Prent met een afbeelding van de 13de-eeuwse soefimeester Lal Shahbaz Qalandar in staat van vervoering. Op de achtergrond zijn mausoleum. Bovenaan de namen van God en de vijf leden van de heilige familie (ahl al-bayt) volgens sji'itische traditie." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#identifier> "7158-586" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-586> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

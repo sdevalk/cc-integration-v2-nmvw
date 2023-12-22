@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <https://colonialcollections.nl/schema#name> "HOUTEN CEREMONIËLE KNOTS, VERSIERD MET SNIJWERK EN KASUARISVEREN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <https://colonialcollections.nl/schema#description> "Grote knots van lichtbruin hout met langwerpig, verbreed slageinde dat een abstract patroon toont van uitsnijdingen en grillige richels. Volgens het reisverslag van de Zuidwest Nieuw-Guinea-Expeditie wordt een zogend dier met grote tepels voorgesteld.  Van 'het dier' zijn de kop en de staart versierd met kasuarisveren.\r\n\r\nDit object is verzameld tijdens de Zuidwest-Nieuw-Guinea-Expeditie van 1904 -1905." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <https://colonialcollections.nl/schema#identifier> "TM-A-363a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-363a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

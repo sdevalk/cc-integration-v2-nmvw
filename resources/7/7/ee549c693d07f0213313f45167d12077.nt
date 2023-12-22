@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#name> "KIST MET MEDISCHE UITRUSTING OP DE TENTOONSTELLING \"NEDERLAND EN DE TROPEN\" IN DE LICHTHAL VAN HET TROPENMUSEUM, TER GELEGENHEID VAN HET VIJFTIGJARIG JUBILEUM VAN HET KIT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#description> "De tentoonstelling \"Nederland en de Tropen\" in de lichthal van het Tropenmuseum, ter gelegenheid van het vijftigjarig jubileum van het KIT. Deze kist met medische uitrusting was te zien in de hoek met het thema \"Gezondheidszorg in Compagniestijd\"." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#identifier> "TM-60057747" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60057747> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

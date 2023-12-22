@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#name> "LEPEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#description> "Een lepel gemaakt van zwart hout. Het holle lepelblad is rond. Aan het lepelblad een lange ronde steel. De steel is versierd met vele ronde bolvormige ringen, die gescheiden worden door dubbele kleinere en smallere ringen. Het uiteinde is rond en heeft een piramidevorm eindigend in een klein knopje." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#identifier> "RV-1-247" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-247> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

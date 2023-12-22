@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <https://colonialcollections.nl/schema#name> "AARDEWERKEN VOORRAADKRUIK VOOR OLIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <https://colonialcollections.nl/schema#description> "Deze kruiken worden in eerste instantie als waterkruiken gebruikt, maar door de aard van het water worden ze snel vettig. Nadat zij als waterkruik gebruikt zijn en de kruiken niet meer poreus zijn, worden zij voor olie gebruikt. Sommige handelaren prepareren ze zelfs voor die tweede functie (olieopslag)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <https://colonialcollections.nl/schema#identifier> "TM-3837-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3837-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

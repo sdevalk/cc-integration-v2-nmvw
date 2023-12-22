@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#name> "KOM OP DRIE POTEN EN MET DIERENKOP (BESCHADIGD)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#description> "Kom op drie poten. Op de rand zit een beschadigde dierenkop en aan de andere kant een staart. Op de wand zijn incisielijnen getrokken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#identifier> "TM-3842-130" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#material> "Aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-130> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

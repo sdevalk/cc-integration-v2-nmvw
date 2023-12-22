@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#name> "AFFICHE 'SOULMADE' IN HET TROPENMUSEUM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#description> "Tentoonstellingsaffiche vmet de tekst 'SOULMADE - Jasper Krabbé meets Tropenmuseum - 13 sept 2014 - 25 jan 2015 ' (groot)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#identifier> "7036-2a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-2a> <https://colonialcollections.nl/schema#yearCreatedStart> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .

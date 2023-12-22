@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#name> "BEELD VAN EEN STAANDE MAN, GEPOLYCHROMEERD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#description> "Houten beeldje. Stelt een staande mannenfiguur voor. Gepolychromeerd (beschilderd met witte, zwarte en roodbruine kleurstof). Het beeldje is kennelijk het bovenstuk van een rond houten stok (waardigheidsstaf of dansstok?). Het is van onderen afgestoken. De benen zijn niet uitgebeeld. De armen zijn neerhangende langs het lichaam gesneden en reiken tot de dijen. Op de schouders en de borst zijn reliëfornamenten uitgesneden. Aan de rug is overlangs een slangenfiguur aangesneden. Het schaamdeel is beschadigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#identifier> "TM-2038-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2038-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

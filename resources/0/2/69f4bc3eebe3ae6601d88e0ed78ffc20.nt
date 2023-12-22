@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#name> "CEINTUUR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#description> "Ceintuur (faja)\r\nKetting: opnieuw gesponnen witte fabrieks(?)katoen ; handgesponnen rode,  wijnrode, gele en grijsgroene wol. Inslag: witte fabriekskatoen. Techniek: kettingribsweefsel en kettingpatroonweefsel.\r\nDecoratie bestaat uit smalle strepen langs de zijkanten en een centrale band met verschillende geometrische motieven (ruiten, Z-vormen), poppen en herten (?).\r\nDe kettingdraden zijn verwerkt in vijf vlechten met drie strengen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#identifier> "RV-5946-96" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#material> "katoen ; wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-96> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

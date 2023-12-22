@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"THE SURF BOATS OF ACCRA\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#description> "Documentaire over de langdingsboten in de haven van Accra in Ghana. (J. de Jonge, 1975)\r\n\r\nDe film is in kleur en bevat optisch geluid. De film is een Engelse versie. Bld/sec. is 24. In 1965 is er een herziene versie uitgekomen.\r\nHet is een 16mm film." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#identifier> "TM-90000037" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#creator> "Dhr. S. (Sydney) Latter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-90000037> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

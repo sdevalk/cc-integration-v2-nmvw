@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#name> "SJAMANENMUTS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#description> "Muts van gekleurde stof voor het uitbeelden van een godheid die is gebaseerd op een overleden sjamaan.\r\n\r\nCap made of colored cloth, which is used to take on the role of a deity based on a deceased shaman." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#identifier> "RV-5995-6b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5995-6b> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

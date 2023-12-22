@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#name> "LARS JONATHANSEN EN ZOON AKU OP DE SLEE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#description> "Voorop vader Lars Jonathansen, erachter Aku (Jacob). Er kunnen drie typen sledetractie onderscheiden worden: a. een trein met honden achter elkaar aan een lijn,  in Alaska; b. een waaier met elke hond aan eigen lijn, lijnen van verschillende lengte, waarbij één hond leider is en de langste lijn heeft, meestal een wijfje, in Groenland; c. variant op b bij situatie van smal spoor, honden gaan twee aan twee achter elkaar lopen, in Oost-Groenland. [Op deze foto is het] duidelijk zichtbaar dat iedere hond een eigen lijn heeft. (1979)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#identifier> "RV-13171-79-43-32" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-43-32> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

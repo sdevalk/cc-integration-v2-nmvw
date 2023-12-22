@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#name> "PEDDEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#description> "Een peddel gemaakt uit één stuk Toemasoehout (Sinaiming). De peddel werd gebruikt voor het roeien van boomstamkano's (Abak). Hierbij zit men gewoonlijk geknield. De peddel heeft een lang blad dat naar boven toe smaller uitloopt. De onderkant eindigt in een brede scherpe punt. Het smalle gedeelte van het blad is versierd met snijwerk dat naar beneden eindigt in een punt. De steel is rond eindigend in de dwarsstaande kruk met siersnijwerk. De ronde steel is op twee plaatsen versierd met een ringvormige band." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#identifier> "RV-3600-1263" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#material> "hout (Toemasoe)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-1263> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

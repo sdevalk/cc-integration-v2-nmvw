@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#description> "[DE] karikaturale dansende zwarte man met pijp en tabaksbladeren" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#identifier> "WM-600015" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#inscription> "[T] Nybro's (1) &\r\n[T] Nybro's;L (2) &\r\n[T] Nybro's own smoking tobacco (3) &\r\n[T] Sie 1421; 50 gr. tabac tabak; prix prijs 1500 fr.;695 (4) &\r\n[B] waarschuwing de verpakking niet een tweede maal te gebruiken (5)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#material> "papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600015> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .

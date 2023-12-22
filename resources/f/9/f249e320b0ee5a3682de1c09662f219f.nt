@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#name> "ZEEHOND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#description> "Legaat Stelter: Canadees spekstenen beeldje van zeehond. Gemaakt door Eli Elijassiapik uit Inujuak. Hij werd geboren in 1936 in een 'camp on the Nauligarvik River' en hij overleed op 3-3-2015 in Inujuak waar Eli woonde." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#identifier> "T-1216" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#material> "speksteen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/T-1216> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

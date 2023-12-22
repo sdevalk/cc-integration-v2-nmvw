@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#name> "BUISCITER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#description> "Een buisciter, een Taketoh, gemaakt van een lengte bamboe. Uit de opperhuid zijn zes snaren gesneden en gespannen met behulp van ondergestoken stukjes hout. Om de uiteinden van de snaren is rotan gewikkeld waaraan gevlochten touw bevestigd is. Om het andere einde van de snaren is een gewikkelde ring bevestigd. De onderkant is in het midden hol gesneden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#identifier> "RV-26-31" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; rotan ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

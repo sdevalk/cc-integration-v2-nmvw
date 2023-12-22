@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#name> "CEREMONIËEL WANDTAPIJT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#description> "This velvet textile was displayed in a military office (artesh) in Iran in the 1970s. The central text is a contemporary nationalist poem. The text is framed by two designs based on the columns of Persepolis, the capital of the ancient Persian empire. Above each column is a lion and a sun, the symbol of Iranian rulers since the Qajar dynasty in the nineteenth century. In the centre, above the poem, there is the Ahura Mazda, the creator and highest deity in the Zoroastrian religion, the religion of ancient Iran before the arrival of Islam. In the twentieth century, this figure was also associated with the ancient Persian ruler Cyrus the Great." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#identifier> "7210-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#material> "fluweel  ; weven" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7210-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

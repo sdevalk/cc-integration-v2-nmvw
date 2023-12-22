@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#name> "HAARPEN VAN BAMBOE MET VOGELVEREN VERSIERD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#description> "Er bestaat een grote verscheidenheid aan hoofdversieringen bij de Asmat. Bundels vogelveren worden aan een pen van bamboe of hout bevestigd en in het haar gestoken. Veren zijn een belangrijk decoratiemateriaal in Nieuw Guinea en andere delen van Oceanië. Vooral jonge mannen en vrouwen die initiatie ondergaan worden versierd met veren van de paradijsvogel of van papegaaien. \r\n\r\nIn dit haarsieraad zijn twee vogelveren met hars op een bamboe pen bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#identifier> "TM-5636-5i" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#material> "veer ; bamboe ; hars ; vezel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5636-5i> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

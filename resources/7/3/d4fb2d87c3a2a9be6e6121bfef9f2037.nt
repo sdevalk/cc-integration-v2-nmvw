@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#description> "De Sermilik fjord, met op de voorgrond enkele huizen in Tiniteqilâ. Van rechts naar links op de foto het huis van Ujulu Korniliusen van Kristian Jonathansen en van Kârale Larsen. Links voor een klein deel slechts zichtbaar nog een recent gebouw het grote huis. Waarover op de volgende foto nog gesproken zal worden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#identifier> "RV-10235-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#material> "Materiaal: papier\r\nTechniek: zwart-wit foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10235-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

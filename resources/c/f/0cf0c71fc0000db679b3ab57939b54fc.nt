@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <https://colonialcollections.nl/schema#name> "WITTE GEWEVEN DOEK MET INGEWEVEN RUITPATROON" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <https://colonialcollections.nl/schema#description> "Witte doek met ingeweven ruitpatroon in rood en oranje lijnen/strepen de zijkanten van de doek zijn onafgewerkt en rafelig. De boven en onderkant van de doek zijn wel afgewerkt. Aan de achterkant van de doek staat met inkt gestempeld Rs 47=--." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <https://colonialcollections.nl/schema#identifier> "TM-R-1174d" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-R-1174d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

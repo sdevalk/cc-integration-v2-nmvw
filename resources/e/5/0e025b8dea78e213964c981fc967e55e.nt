@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#name> "BAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#description> "Een onregelmatig gevormd bakje gemaakt van ongekleurde, gevlochten lontarbladrepen, volgens de drierichtingenmethode. De bak heeft een brede kant en een smalle kant, de smalle kant is waarschijnlijk het handvat. Het bakje heeft een platte bodem en een opstaande rand. Het bakje werd gebruikt om sirih aan te bieden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#identifier> "RV-3600-4073" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#material> "blad (lontar)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4073> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

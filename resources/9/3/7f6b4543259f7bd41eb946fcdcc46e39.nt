@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KOM OP DRIE POTEN EN MET GEOMETRISCHE DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#description> "Kom op drie poten met een dicht patroon van incisielijnen die aan de rand driemaal een driehoek vrij laten.\r\nVergelijk 3442/1301" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#identifier> "TM-3842-122" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#material> "Aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-122> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

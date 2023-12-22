@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#name> "Veebel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#description> "Het is niet helemaal duidelijk of dit ook een bel voor een asceet was. Er zit geen spleet aan de onderkant, zoals gebruikelijk zou zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#identifier> "RV-1697-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#material> "brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1697-6> <https://colonialcollections.nl/schema#yearCreatedStart> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .

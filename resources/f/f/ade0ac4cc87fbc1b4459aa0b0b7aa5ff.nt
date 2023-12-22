@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#name> "Vogelpijl" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#description> "Een vogelpijl gemaakt van een lengte rotan. De punt met aan het uiteinde vijf punten is van bamboe gesneden. De vier buitenste punten hebben een aantal bilaterale weerhaken. De punt is met een omwikkeling van rotanrepen aan de schacht bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#identifier> "RV-1971-111" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#material> "rotan ; bamboe ; gesneden ; gewikkeld" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-111> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

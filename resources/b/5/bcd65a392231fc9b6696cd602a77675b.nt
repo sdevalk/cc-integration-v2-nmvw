@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#name> "HOUTEN SPINNEWIEL VOOR HET SPINNEN, TWIJNEN EN OPWINDEN VAN GAREN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#description> "Spinnewiel voor het spinnen, twijnen en opwinden van garen.\r\nHet spinnewiel bestaat uit: een wiel, onderstel, achterstijlen, voorstijlen, zwengel, spintol en aandrijftouw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#identifier> "TM-4318-367a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; vezel ; zagen ; smeden ; houwen ; pen-en-gat verbinding" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4318-367a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

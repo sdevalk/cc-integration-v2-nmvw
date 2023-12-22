@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#name> "BEELDFRAGMENT, HOOFD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#description> "Hoofd van een beeldje geflankeerd door twee oorschijven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#identifier> "RV-2142-30" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2142-30> <https://colonialcollections.nl/schema#yearCreatedStart> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .

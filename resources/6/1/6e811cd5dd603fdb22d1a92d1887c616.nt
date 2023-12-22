@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <https://colonialcollections.nl/schema#name> "MAT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <https://colonialcollections.nl/schema#description> "Een ronde gevlochten mat gemaakt van palmbladrepen. In het midden een stervorm. Vanuit het midden waaieren de rechthoekig gevlochten repen naar de puntige buitenrand.\r\nDe mat is bestemd voor de verkoop aan toeristen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <https://colonialcollections.nl/schema#identifier> "TM-3245-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

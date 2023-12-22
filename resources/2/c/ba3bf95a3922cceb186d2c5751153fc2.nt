@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#name> "KRIS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een lemmet met vijf bochten. Aan één kant van het lemmet is een krul (telale gajah) gemaakt. Het opzetstuk (ganja) van het lemmet eindig aan één kant in scherpe punten (greneng). Over de krul en de ganja loopt een gegroefde messing band. Het heft is van bruin palmhout gesneden en omwikkeld met gedraaid touw. Het uiteinde heeft de vorm van een gestileerde vogelkop met een plat uitsteeksel. De steelring (mendak) is van koper gemaakt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#identifier> "RV-1183-519" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; messing ; hout (palm) ; touw ; koper" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-519> <https://colonialcollections.nl/schema#locationCreated> "Sulu Archipelago" .

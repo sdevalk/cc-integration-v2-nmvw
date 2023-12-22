@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#name> "ZITKUSSEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#description> "In Iran was het vroeger gebruikelijk om op de grond te zitten. In tenten van nomadische stammen werden opgerolde dekens, in geweven of geknoopte zakken gestopt zodat je er tegenaan kon zitten. In de huizen en paleizen werden dergelijke zitkussens ook gebruikt, soms met hoezen van zijde. Ze zijn tegenwoordig te vinden in het theehuis, in de moskee en soms bij mensen thuis. Ze worden nu vooral fabrieksmatig vervaardigd, zoals deze. De patronen herinneren aan de tijd dat ze met de hand werden geweven of geknoopt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#identifier> "TM-5979-99" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5979-99> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .

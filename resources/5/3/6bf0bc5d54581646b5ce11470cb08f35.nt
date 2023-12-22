@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#name> "KOKERROK MET SIMPEL BOEKET, VOGELS EN VLINDERS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#description> "Chinese kokerrok met, volgens de verzamelaar, simpele boeketten op de badan ('lichaam'), en een kepala ('hoofd') dlorong (met diagonale banen), gevuld met bladmotieven. In de hoeken staan gestileerde vogelfiguren en bloemen. De randen bestaan uit imitatiekant: booh, volgens Heringa (1996). De doek is met blauw en paars op crème geverfd en was bestemd voor de lokale markt en export." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#identifier> "TM-5663-345" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-345> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

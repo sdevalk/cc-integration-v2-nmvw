@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#name> "TABAKSDOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#description> "Een tabaksdoos gemaakt van zilver. De tabaksdoos is eivormig met een deksel. Aan één kant van het deksel is een rechthoekig scharnier gemaakt met een dwarsstaande ring. Aan de ring hangen twee grote ringen met een ketting van kleine ringetjes. Het doosje is aan de zijkant versierd met, in reliëf, bloem- en bladfiguren evenals het deksel." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#identifier> "RV-847-119" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-847-119> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

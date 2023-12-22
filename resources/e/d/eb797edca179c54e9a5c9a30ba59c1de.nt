@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#name> "NGARTI COUNTRY" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#description> "Dit schilderij toont het land ten zuiden van Yagga Yagga waar vrouwen voedsel uit de natuur (bush food) verzamelen. De vrouwen zijn afkomstig van Nakamarra-, Nampitjin- en Napanangka-clans. Er is ook een man van de Tjangala-clan die op weg is om te drinken van een van de waterbronnen waar Mati's familie zich verzameld heeft. We zien Nantatjarra, Kamararra, Lulapi en Yukulparri, dit zijn belangrijke waterbronnen en kampen in dit gebied. Een coolamon (houten draagschaal) gevuld met Konkerberries (bessen) geeft de rijkdom aan van het voedsel uit de natuur (bush food) dat beschikbaar is in dit gebied." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#identifier> "7106-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#material> "canvas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7106-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

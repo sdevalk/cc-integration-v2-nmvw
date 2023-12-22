@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#name> "KUNSTMATIG GEDEFORMEERDE MENSENSCHEDEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#description> "Kunstmatig gedeformeerde schedel. Onderkaak ontbreekt; in de bovenkaak bevindt zich ter weerszijden éen kies." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#identifier> "TM-852-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#material> "852-1 en 852-2: Twee kunsmatige vervormde pre-Columbiaanse schedels van Peru: 852-1 vertoont tengevolge der occipito-frontaal-deformatie het type, dat de Fransen 'forme couchee' noemen; hierbij is door de sterke afplatting van het voorhoofdsbeen en van het achterhoofdsbeen de schedel naar achterenen boven uitrekt. 852-2 daarentegen vertoont door occipitale afplatting de forme elevee hierbij is het steil staande achterhoofd sterk afgeplat; door de kunstmatige vervorming is de schedel kort, breed en hoog geworden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-852-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .

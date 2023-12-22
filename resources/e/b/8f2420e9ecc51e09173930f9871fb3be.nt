@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#description> "Een driehoekig goudgewicht van messing, bestaande uit drie lagen.  Een driehoek symboliseert Nyame, de heerser van het universum, bestaande uit hemel, aarde en onderwereld (vandaar de 3 hoeken).  Het messing is van een lichte kleur." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#identifier> "RV-360-5739" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#material> "Messing" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5739> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

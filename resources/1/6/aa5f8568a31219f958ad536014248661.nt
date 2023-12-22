@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#name> "HAMER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#description> "Zeer zware hamer zonder steel. De aanwezigheid van een holle schacht duidt erop dat dit voorwerp oorspronkelijk wel een soort steel had. Het is niet zeker of hij werd gebruikt voor het maken van schoenen, maar de mogelijkheid bestaat. Volgens Wulff werd een dergelijke hamer gebruikt om repen stof plat te slaan (kohneh, latteh kohneh), die werden gebruikt voor het maken van zolen van giveh-schoenen. (GVE, 2002)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#identifier> "RV-503-114a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#material> "ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-503-114a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

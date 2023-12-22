@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#name> "DOEK (SERVILLETA)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#description> "Katoenen doek. Basisweefsel: panamabinding (2-2), door toepassing van dikke inslagdraden ontstaat ribbeleffect. De doek is verder versierd met zes ingeweven zigzaglijnen (lancé), 8 tot 11 cm uit elkaar liggend. Hiertussen bevinden zich drie rijen met geïsoleerde ruit-in-ruitmotieven die alterneren met twee rijen sterren. Franjes: onbewerkte kettingdraden, niet losgesneden. In de andere richting bestaan de franjes uit  inslagdraden die buiten het weefsel uitsteken. Gekocht door Guy Strasser Péan." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#identifier> "RV-5946-260" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-260> <https://colonialcollections.nl/schema#yearCreatedStart> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAT AFGEZET MET RODE BAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <https://colonialcollections.nl/schema#description> "De met de hand gevlochten mat heeft een brede rand van rood katoen. In het midden van de mat is een ruit met daarin slangen. Verder zijn er randen met kruisjes en met sterfiguren.\r\n\r\nVervaardiging\r\nMet de hand gevlochten mat in diagonale dichte eenslag. Voor de figuren zijn reepjes vezel eerst gekleurd en over het grondvlechtwerk gelegd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <https://colonialcollections.nl/schema#identifier> "TM-0-663" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-0-663> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

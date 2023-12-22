@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#name> "HUWELIJKSCEREMONIE BIJ DE KHOIKHOI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#description> "Afbeelding van gehurkt in een kring zittende mannen en vrouwen waarbinnen een staande man (?) en gehurkte vrouw (bruid) zijn ingesloten. Op de achtergrond bevindt zich een zelfde soort tafereel waarbij de kring nu gevormd wordt door gehurkte mannen (en één vrouw?) terwijl in het midden een man (bruidegom) gehurkt zit voor een staande man." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#identifier> "TM-3728-900" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#material> "Gravure op papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3728-900> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .

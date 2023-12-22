@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#name> "HEUPWEEFGETOUW" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#description> "Heupweefgetouw met opzet voor een tas (morral). Materiaal: zapupe (Agave zapupe). Weefster:  Irene Martinez Magdalena.  \r\n\r\nAVH: En la Huasteca, para la elaboración de los morrales se emplean filamentos del zapupe (Agave zapupe); la fibra es sustraída de las hojas semiduras del vegetal por medio de raspados. Después se hace el urdido y se traslada a un telar de cintura donde se teje con la técnica de \"tafetán\" y disminución de puntos en un extremo. Luego se retira el tejido del telar y se arma la bolsa cosiendo en los extremos un cordón del mismo material, cuya extensión sirve como asa." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#identifier> "RV-5946-877" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#material> "zapupe ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-877> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

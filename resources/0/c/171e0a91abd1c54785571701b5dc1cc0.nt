@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#name> "CONSERVATOR J.C. LAMSTER EN DIRECTEUR J.C. VAN EERDE VAN HET MUSEUM VAN HET KOLONIAAL INSTITUUT IN AMSTERDAM, IN HET TWEEDE NEDERLANDSE PAVILJOEN OP DE KOLONIALE WERELDTENTOONSTELLING TE PARIJS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#description> "Conservator J.C. Lamster en directeur J.C. van Eerde, beide werkzaam in het museum van het Koloniaal Instituut in Amsterdam, in het Nederlandse paviljoen op de Koloniale Wereldtentoonstelling te Parijs. Ze staan in de ruimte met een tentoonstelling over Java in het tweede paviljoen, dat in record tempo was verrezen nadat het oorspronkelijke paviljoen op 28 juni 1931 was afgebrand." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#identifier> "TM-60054823" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054823> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

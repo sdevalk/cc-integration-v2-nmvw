@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN BUIKPIJN BESTAANDE UIT EEN BUNDEL SCHORS- EN WORTELDELEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen buikpijn, waarbij de patiënt niet meer rechtop kan staan, \"de buik brandt\". De inheemse benaming voor deze aandoening is No Busi. De schors van de wortel van de kèfòrdwènè-heester wordt in water gekookt. Het mengsel, dat een zwarte kleur heeft, wordt gedronken gedurende een lange periode. Het genezingsproces vordert langzaam." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#identifier> "TM-3912-1075" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#material> "schors ; wortel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1075> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

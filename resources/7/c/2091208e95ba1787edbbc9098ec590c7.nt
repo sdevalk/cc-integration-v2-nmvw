@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#name> "BEKER (MESCHRAB)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#description> "Houten beker met schotel en deksel. Deze beker werd gebruikt voor sorbet, een populaire drank bij Mekkaanse feestelijkheden. Een eenvoudige versie van het zoete drankje bestond uit water met kandijsuiker. In de negentiende eeuw voegde men ook wel een confiture van viooltjes, rozen of moerbeivruchten als smaak- en zoetmaker toe. In een gezelschap ging slechts een drinkbeker rond waarvan iedereen een teug nam." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#identifier> "RV-1973-58" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#material> "hout ; rode verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1973-58> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#name> "VIJZEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#description> "Grote gebruikte voedselvijzel. Gekocht van Aitob. Nummer 5307-17II is de bijbehorende stamper. De vijzel is gebruikt, maar speciaal voor de verkoop (buiten het medeweten van de onderzoeker om) overgeverfd. De houtsoort wordt \"tawob\" genoemd.\r\nDe vijzel wordt o.a. gebruikt om \"salong\" in klaar te maken; d.i. een mengsel van geraspte knollen (bijv. taro knollen) en kokosnootmelk. Eenzelfe soort mengsel maakt men ook wel in de houten schalen klaar, maar dan noemt men het \"porong\". Op de vijzel zijn motieven aangebracht. Het zijn twee hagedeissen, \"pariv\", (boven) en twee slangen, \"mot\" (onder)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#identifier> "RV-5307-17I" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5307-17I> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

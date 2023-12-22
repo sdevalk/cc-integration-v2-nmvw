@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, los, aangetroffen in lichtblauwgrijze envelop.\r\n\r\nOp envelop een doorgekraste in potlood geschreven Indonesische tekst 'Tjium ????'\r\n\r\nOp achterkant foto in paarse kleur een rechthoekig stempel met 'Foto Kempen' \r\n\r\n(Slechte) opname toont een aanblik van de Boroboedoer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#identifier> "7082-nf-1389" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#creator> "Foto Kempen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1389> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

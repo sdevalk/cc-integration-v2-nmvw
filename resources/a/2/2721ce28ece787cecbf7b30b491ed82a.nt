@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#name> "HOED" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#description> "Een ronde hoge hoed gemaakt van brede repen lontarblad. De hoed loopt van de benedenrand schuin omhoog en eindigt in de bolle bovenkant. In het midden van de bovenkant van de hoed is een kleine ring gemaakt. De lontarrepen zijn schuin omhoog geplaatst en op vele plaatsen rondgaand aan elkaar genaaid. De onderrand is gemaakt van een rondgaande reep rotan." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#identifier> "RV-3600-4144" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#material> "blad (lontar) ; rotan ; garen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4144> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

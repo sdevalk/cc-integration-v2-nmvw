@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN BISMAM ASMAT PAPUA VROUW TIJDENS EEN FEEST" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#description> "Portret van een Bismam Asmat Papua vrouw tijdens een feest. Ze draagt onder meer een hoofddeksel van koeskoesbont." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#identifier> "TM-60045365" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045365> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

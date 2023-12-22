@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <https://colonialcollections.nl/schema#name> "IJZEREN WEEGSCHAAL MET EEN STANG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <https://colonialcollections.nl/schema#description> "Deze weegschaal wordt oorspronkelijk gebruikt voor het wegen van wol, maar er worden ook allerlei voorwerpen op de markt in gewogen, zoals, verfstof, groente, brokken zout en suiker. Het puntige ondereinde van de ijzeren stang wordt in de grond gestoken en aan het horizontaal omgebogen boveneinde wordt de weegschaal opgehangen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <https://colonialcollections.nl/schema#identifier> "TM-3782-72a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-72a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <https://colonialcollections.nl/schema#name> "BRONZEN MUNT UIT HET KONINKRIJK DAI VIET, DE LATERE LE DYNASTIE VAN KONING NHON TONG, 1443-1459, PERIODE DAI HOA." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <https://colonialcollections.nl/schema#identifier> "TM-1144-665" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <https://colonialcollections.nl/schema#yearCreatedEnd> "1459"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1144-665> <https://colonialcollections.nl/schema#yearCreatedStart> "1443"^^<http://www.w3.org/2001/XMLSchema#integer> .

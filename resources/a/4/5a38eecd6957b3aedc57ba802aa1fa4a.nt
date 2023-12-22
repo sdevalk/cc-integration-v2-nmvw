@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <https://colonialcollections.nl/schema#name> "ONDERDEEL SUNDANESE KAMPONG, MODEL VAN EEN MOSKEE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <https://colonialcollections.nl/schema#description> "Model van moskee, met voorgalerij waarin de gebedstrom is opgehangen (bedug). Tevens een mihrab. De mihrab is de nis die in moskeeën de gebedsrichting (qibla) naar Mekka aangeeft.\r\nOnderdeel van een Sundanese kampong bestaande uit 4 woningen van verschillende grootte, een rijstpakhuis, een mesigit (?), een bedehuis, een gamelanhuis met muziekinstrumenten, een wachthuis, 1 buffelkraal, een paardestal, een schapenstal en nog een stal. Het geheel oorspronkelijk onder een glazen vitrine." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <https://colonialcollections.nl/schema#identifier> "TM-H-247-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-247-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .

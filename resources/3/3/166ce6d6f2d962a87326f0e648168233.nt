@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#name> "RAMMELAAR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#description> "Rammelaar, bestaande uit een met gekleurde glazen kralen en leer-franje versierde steel, met aan het uiteinde een opgezet hard-leren figuur van een viervoetig dier." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#identifier> "RV-5910-8" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#material> "Hout ; leer ; glas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5910-8> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

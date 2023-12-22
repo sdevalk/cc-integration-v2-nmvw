@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#description> "This bow, which is attributed as San, is likely from the Royal Cabinet of Curiosities. It is first mentioned in a list of South African objects sent to the Royal Cabinet of Curiosities in 1821. It came into the collection of what is now called Museum Volkenkunde in 1883 and was exchanged with the Wereldmuseum in 1949." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#identifier> "WM-30093" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#material> "hout, pees" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#yearCreatedEnd> "1821"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-30093> <https://colonialcollections.nl/schema#yearCreatedStart> "1821"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#name> "ZAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#description> "Een zak gemaakt van rechthoekig gevlochten, ongekleurde lontarbladrepen. De zak heeft de vorm van een trechter met een steel van twee lontarbladrepen. Het zakje dient om offerandes in te stoppen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#identifier> "RV-842-218" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#material> "blad (lontar)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-842-218> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#name> "MT. KUMGANG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#description> "Blockprint in Chinese binding; ending: 隆慶四年庚午[1570]六月初二日慶尚道安東地鶴駕山廣興寺刊板; uitvouwbare" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#identifier> "IB2018-13-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#material> "papier ; drukinkt ;" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2018-13-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#name> "HOUTEN POLYCHROOM BESCHILDERDE VOGEL (A) BEHOREND BIJ HOUTEN VOGEL (B)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#description> "De papegaai-achtige vogel is, gezien het ronde gat van buik naar rug, op een stok geplaatst geweest. De functie is onduidelijk." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#identifier> "TM-3912-971a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#material> "hout ; verf ; snijden ; verven" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-971a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#name> "SNEEUW SCHEPPEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#description> "Sneeuw scheppen. Er is erg veel sneeuw gevallen. Waarschijnlijk niet voor water. Men drinkt niet graag sneeuwwater. Het pad naar het huis wordt uitgegraven. Er is erg veel sneeuw nodig voor een hoeveelheid water en men vindt het ook niet zo lekker. Men doet het alleen als het ijs erg ver weg is. Als het ijs te ver weg is voor oude mensen, dan wordt er ook ijs naar oude mensen gebracht. (1979)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#identifier> "RV-13171-79-8-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-8-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

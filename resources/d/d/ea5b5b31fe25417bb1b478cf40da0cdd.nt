@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#name> "BOOG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#description> "Een boog gemaakt van een lengte bamboe. De boog heeft een pees, die gemaakt is van twee ruw in elkaar gedraaide vezelkoorden. Aan één kant is de pees met een lus over het ene uiteinde gelegd. Dit uiteinde heeft een inkeping en een vooruitstekende hoek. Om het andere einde, dat ook van een vooruitstekende hoek is voorzien, is de pees een aantal malen heen gewikkeld." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#identifier> "RV-839-86" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#material> "bamboe ; vezels" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-86> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

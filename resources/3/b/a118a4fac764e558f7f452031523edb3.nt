@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#name> "MASKER VAN DOODSHOOFD MET SCHORPIOENEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#description> "De schorpioenen die op het masker zijn getekend herinneren mogelijkerwijs aan de kwetsbaarheid van het menselijk leven.\r\nHet masker zou een masker uit de pascola dans van de Yaqui indianen kunnen zijn. Daarbij staat de schorpioen symbool voor bedreiging en voor het kwaad in het algemeen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#identifier> "TM-5730-136" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#material> "hout ; verf ; snijden ; polychromie" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-136> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

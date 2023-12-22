@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#name> "PIJL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#description> "Tweedelig, palmhouten spits, spoelvormig met vier unilaterale weerhaken. De schacht van dunne bamboe, de verbinding met de spits door middel van vezeltouwomwinding, die echter beschadigd is.\r\n\r\nZie serienr.: 2442-174." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#identifier> "RV-2442-177" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#material> "bamboe ; hout, palmhout ; vezeltouw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2442-177> <https://colonialcollections.nl/schema#yearCreatedStart> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#name> "Krachtbeeld" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#description> "De lange neus en licht bolle ogen doen vermoeden dat het hier om een krachtbeeld uit het oosten van de Dem. Rep. Congo gaat, wellicht van de Kusu of de Bangubangu, wier stijl is beinvloed door deLuba en andere buren. In vergelijking met andere Kusu-krachtbeeldjes bekend uit de literatuur, valt dit exemplaar op door zijn uitgesproken stilering.\r\n\r\nBeschrijving\r\nHalffiguur van nog geen decimeter hoog op een sokkeltje. Opening boven op het hoofd waarin een 'pakje' in slangenhuid gewikkeld en twee smalle stukjes hout die op hoorntjes lijken. Lange neus en licht bolle ogen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#identifier> "AM-17-539" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#material> "Hout; slangenhuid; vezel; ongedefinieerde materialen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/AM-17-539> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#name> "GEBORDUURDE ROK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#description> "Materiaal van de rok is manta, vier banen stof genaaid aan een tailleband (96 cm) voorzien van een opgedrukt bloemmotief. Aan de onderzijde is de rok afgezet met een rode stof. De rok is versierd met borduurwerk in fijne wollen garens uitgevoerd: langs de onderzijde een massieve baan met geometrische motieven opgebouwd uit ruiten en driehoeken. Daarboven is de rok voorzien van geïsoleerde motieven, waaronder dieren (coyote, hert, verschillende vogels), bloemen en stervormen. Een groot aantal van deze motieven is onafgewerkt gelaten, wat kenmerkend voor Huichol lijkt te zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#identifier> "RV-5946-362" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#material> "katoen ; wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-362> <https://colonialcollections.nl/schema#yearCreatedStart> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

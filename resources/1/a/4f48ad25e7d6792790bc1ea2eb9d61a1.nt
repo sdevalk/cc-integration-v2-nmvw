@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#name> "EEN TIJDENS EEN OVERSTROMING ONDERGELOPEN STRAAT BIJ DE KERKHOFLAAN IN TANAH ABANG, BATAVIA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#description> "Een tijdens een overstroming ondergelopen straat in Tanah Abang, Batavia. Rechts is het straatbord van de Kerkhoflaan te zien. De overstroming vond plaats van 24 tot 27 januari 1872." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#identifier> "TM-60022782" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#creator> "Petz & Co." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#yearCreatedEnd> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022782> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .

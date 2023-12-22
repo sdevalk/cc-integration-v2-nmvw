@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#name> "MEDICIJN OM DE BARING VLOTTER TE LATEN VERLOPEN BESTAANDE UIT EEN KATOENEN ZAKJE MET ZAADJES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt bij zwangere vrouwen als de weeën te lang op zich laten wachten om deze op te wekken. De inheemse naam van deze aandoening is 'Pi'. Het zaad van de Fonio wordt gestampt en gekookt. Het zo ontstane vettige papje wordt de vrouw te eten gegeven.\r\nHet zakje is vervaardigd van een bruin katoenen lapje." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#identifier> "TM-3912-1003" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#material> "katoen ; vrucht" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1003> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

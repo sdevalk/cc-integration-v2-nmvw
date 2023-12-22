@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#name> "WIT VROUWENOVERKLEED" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#description> "De stof van deze kaftan is vermoedelijk zijde of brokaat en niet wol." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#identifier> "TM-3782-766" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#material> "zijde ; brokaat" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-766> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

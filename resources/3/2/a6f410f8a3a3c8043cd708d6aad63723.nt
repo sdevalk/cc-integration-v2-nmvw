@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#name> "KATOENEN HOOFDDOEK VOOR MAN MET BLAUWE MIDDENRUIT EN BLOEMPOTTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#description> "Zowat vierkante mannenhoofddoek, met blauwe middenruit: modang, met aan de binnenzijden cemukiran. Modang als deze waren vroeger voorbehouden aan de leden van de vorstelijke familie (McCabe Elliot, 1984). Dit exemplaar heeft er omheen een achtergrondmotief van kleine ruitvormen, waarop boven elke zijde van de ruit een bloempot met bloemen is afgebeeld. Deze doek is gemaakt voor alle culturele groepen, in de typisch Midden-Javaanse kleuren blauw, bruin, zwart, wit en crème." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#identifier> "TM-5663-606" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-606> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

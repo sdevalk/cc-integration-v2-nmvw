@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#name> "KALKKOKERS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#description> "Een kalkkoker gemaakt van een lengte bamboe. De koker bestaat uit twee afzonderlijke kokers die met een touw aan elkaar zijn vastgemaakt. De kokers zijn identiek aan elkaar. De kokers hebben inschuivende deksels van hout en hieraan zit het touw dat de kokers bijeen houdt. De kokers zijn versierd met ingesneden figuren, evenwijdige ringen, ruitfiguren en stermotieven. De figuren zijn opgesloten tussen brede rechte en gebogen banden. Naast de randen zijn getande zigzaglijnen gemaakt. De versieringen zijn zwart gekleurd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#identifier> "RV-1132-23" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; touw ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1132-23> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .

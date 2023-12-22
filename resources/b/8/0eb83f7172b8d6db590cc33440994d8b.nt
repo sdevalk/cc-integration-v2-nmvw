@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#name> "ZILVEREN MUNT VAN DE VEREENIGDE NEDERLANDEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#description> "Zilveren munt der Vereenigde Nederlanden, geslagen te Utrecht in 1759.\r\nOp de voorzijde staat de gehelmde Nederlandse maagd, met de linkerarm al rustend op de bijbel die op een altaar ligt. Het omschrift luidt: 'op hem (bijbel) steunen wij, hem verdedigen wij' (onduidelijk: \"hac nitimur hanc tuemur\"?). Op de keerzijde staat het wapen der Vereenigde Nederlanden, zonder schildhouders, tussen het jaartal in. Ook hier een onduidelijk omschrift (mo. arg. ord. foed. belg. trai, afkortingen voor: moneta. argentea. ordinum. foederatae. belgiae. traieacti.)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#identifier> "TM-908-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1759"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-908-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1759"^^<http://www.w3.org/2001/XMLSchema#integer> .

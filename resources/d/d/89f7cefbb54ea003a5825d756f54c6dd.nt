@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#name> "EEN OLIEVERFPORTRET VAN DE SCHILDER A.A.J. PAYEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#description> "Een olieverfportret van de schilder A.A.J. Payen geschilderd door Radèn Saleh. Het schilderij is rechtsonder in rood gesigneerd met het jaartal 1847. Het schilderij heeft een brede bronskleurige houten lijst, die versierd is met bloem- en bladwerk. De geportretteerde zit met het hoofd in de palm van de linkerhand gesteund en kijkt ontspannen naar rechts. De kleding is formeel en uit de periode." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#identifier> "RV-5030-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#material> "olieverf ; doek ; hout ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5030-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .

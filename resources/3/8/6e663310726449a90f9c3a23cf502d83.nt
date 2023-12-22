@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <https://colonialcollections.nl/schema#name> "BORSTEL VAN (SCHOENPOETSERSKISTJE A MET TOEBEHOREN 2 BORSTELS B/C 4 SCHOENSMEERDOOSJES D/G 2 TANDENBORSTELS H/I BEL J FLESJE K EN VERSCHILLENDE BOEKJES)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <https://colonialcollections.nl/schema#description> "Herk: Zuid Amerika Caraibisch gebied Haiti" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <https://colonialcollections.nl/schema#identifier> "TM-4515-31c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4515-31c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

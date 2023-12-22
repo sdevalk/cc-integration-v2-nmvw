@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN BRAKEN AAN HET BEGIN VAN DE ZWANGERSCHAP BESTAANDE UIT EEN BUNDEL SCHORSDELEN (A) EN EEN KATOENEN ZAKJE MET POEDER (B)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen overgeven aan het begin van de zwangerschap, inheemse naam voor deze aandoening is Nonoa Pisi. De schors van de stam van de Kösöbabo-boom wordt tot poeder gestampt. Het mengsel wordt met het voedsel, bijvoorbeeld een saus, ingenomen.\r\n\r\nVervaardiging\r\nHet zakje is vervaardigd van een bruin katoenen lapje. Het poeder is afkomstig van de schors van de Kösöbabo-boom." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#identifier> "TM-3912-1040b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1040b> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

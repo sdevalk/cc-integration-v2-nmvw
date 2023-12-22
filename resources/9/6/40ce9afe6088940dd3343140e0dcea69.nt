@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#name> "130-915: NR. 2: VITRINE MET KUNSTWERKEN UIT POLYNESIË. DE PERMANENTE OPSTELLING VAN DE AFDELING OCEANIË IN HET HET RIJKSMUSEUM VOOR VOLKENKUNDE, AFDELING BREDA (JUST V NASSAU)," .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#identifier> "RV-13788-130-915" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#creator> "drs. D.A.M. (Dirk) Smidt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13788-130-915> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#description> "[VO] rond" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#identifier> "WM-200042" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#inscription> "[T] Fiat Lancia 4C 5923606 C Gh 190 8J02 MAX.DIA.7.355=186.83mm" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#material> "metaal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-200042> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

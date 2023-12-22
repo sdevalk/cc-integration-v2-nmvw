@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#name> "HOOFDVERSIERING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#description> "'Tekst voor Communicatie (6-7-1999):\"\r\n\r\nVoor deze hoofdversiering zijn vermoedelijk de korte en stevige nekveren van de casuaris gebruikt (vergelijk Sillitoe 1988 :  337).\r\nDe getrimde nekveren zijn in bundels van drie á vier aan een koord bevestigd (zie ook Finsch 1914 : 160)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#identifier> "RV-5911-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#material> "veer (casuaris) ; vezeltouw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5911-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#name> "ZICHT OP PLEIN MET STANDBEELD MET RUITER EN MOSKEE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#identifier> "TM-60022176" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#creator> "J. Garrigues" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60022176> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

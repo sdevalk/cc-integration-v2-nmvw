@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#name> "DEKSELDOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#description> "Een dekseldoos gemaakt van. De doos en deksel zijn vervaardigd van Gaba-Gaba, de kern van de steel van de Sagopalm. De buitenkant is bekleed met repen Pandanblad. \r\nDe doos is onderdeel van een stel dozen, die in elkaar passen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#identifier> "TM-1711-34c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#material> "Gaba-gaba blad ; Kern van de steel van de sagopalm ; Pandanblad; gesneden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1711-34c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

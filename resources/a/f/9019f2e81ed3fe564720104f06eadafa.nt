@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#name> "MONDHARP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#description> "Een mondharp gemaakt van een lengte bamboe. De rechthoekige harp is aan één kant puntig bijgesneden. Hieraan was een touwtje in een gaatje vastgebonden om de harp te bespelen. Aan het andere einde was ook een touwtje met hars vastgemaakt waaraan een stuk been was vastgebonden. De getrapte tong is aan het uiteinde breder gemaakt met hars. De harp werd opgeborgen in een koker van bamboe, die aan één kant kegelvormig is gesneden. De andere kant is omwikkeld met rode rotanrepen.\r\nDit type mondharp werd wel gebruikt door jongeren om elkaar intieme boodschappen door te spelen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#identifier> "RV-835-10" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#material> "bamboe ; hars ; touw ; been ; rotan ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-10> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

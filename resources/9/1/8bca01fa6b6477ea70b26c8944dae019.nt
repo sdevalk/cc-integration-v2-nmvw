@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#name> "Jak" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#description> "KL: paars, goud, rood, roodbruin; VO: tot kledingstuk genaaid; PA: mouwen afgewerkt met tumpals en rand van strepen en ruiten; voor- en achterstuk versierd met band van ruiten waarin 4 ruiten met rood hart; daarboven gestileerde vazen met bloemen; zijstukken driehoek gestreept, andere driehoek voorzien van bergachtig figuur met bekroning; zijstukken spiegelen elkaar" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#identifier> "7082-S-451-3946" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#material> "gouddraad, zijde" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-3946> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

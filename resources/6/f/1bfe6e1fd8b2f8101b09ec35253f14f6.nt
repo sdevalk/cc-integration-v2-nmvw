@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#name> "EEN MET EEN PAARD EN MUILEZEL AANGESPANNEN NOORD-CHINESE HUIFKAR MET KOETSIER STILSTAAND OP EEN LANDWEG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#identifier> "RV-A166-198" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#material> "Materiaal: papier \r\nMontage: op registratiekaart geplakt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A166-198> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

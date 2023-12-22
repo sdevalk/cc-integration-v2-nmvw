@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#name> "IJZEREN AAMBEELD GEBRUIKT DOOR DE SMID" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#description> "Het aambeeld is één van de hulpstukken van de smid en wordt in de grond gestoken, met de punt naar beneden gericht. De smid zit er gehurkt of zittend voor. Het smeden gebeurt in de smidse of in de open lucht. Francis-Boeuf (1937: 440) stelt dat hoewel vaak steen als aambeeld wordt gebruikt ook het hier beschreven ijzeren object wordt gebruikt. Vaak wordt het voorwerp dan in een houten stamdeel geslagen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#identifier> "TM-3912-29" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#material> "ijzer ; smeden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

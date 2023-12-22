@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <https://colonialcollections.nl/schema#name> "RESERVE ONDERDEEL VAN GUTS/BEITEL OF PRIEM UIT EEN BUNDEL VAN 28 RESERVE ONDERDELEN VAN GUTSEN/BEITELS EN PRIEMEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <https://colonialcollections.nl/schema#identifier> "TM-5214-24c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <https://colonialcollections.nl/schema#material> "ijzerlegering ; machinaal vervaardigen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5214-24c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

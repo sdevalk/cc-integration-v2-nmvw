@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#name> "SCHOUDERSTUK VAN REGENJAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#description> "Schouderstuk van regenjas (Jp. mino 蓑) zoals onder andere door vissers gedragen werd. Gevlochten uit palmvezel (Jp. shuro 棕櫚), in plaats van rijststro (Jp. wara 藁), wat gebruikelijker was (voor gebruik op het land in elk geval). Palmvezel was beter van kwaliteit, licht in gewicht, maar duurder, ook omdat er naar verluidt minder mensen waren die dit (minder veel voorkomende) materiaal konden verwerken. \r\n\r\nHet ensemble bestaat uit drie delen: RV-1-1391-a (onderstuk), -b (jas) en -c (kraag/schouderstuk)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#identifier> "RV-1-1391-c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#material> "palmvezel; vlechtwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1391-c> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .

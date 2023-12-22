@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#name> "HANDWAPEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#description> "De bevolking van de eilanden Nauru en Kiribati stonden bekend als bijzonder oorlogszuchtig. Veel van hun wapens waren bezet met haaientanden. De wapens en om zich hiertegen te verdedigen droegen de krijgers stevige pantsers van geknoopte kokosvezel, versterkt met gedroogde roggenhuid." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#identifier> "RV-579-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#material> "bladnerf ; vezel (plantaardig) ; tand (haai)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-579-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

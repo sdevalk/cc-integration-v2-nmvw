@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#name> "KOKERDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#description> "Een sarong, een kokervormige zelf geweven katoenen omslagdoek, geverfd met zelfvervaardigde verfstoffen en versierd met haaks op elkaar staande blauwe, lichtblauwe en rode strepen op een zwarte ondergrond. De rode en blauwe strepen bedekken ongeveer de helft van de oppervlakte van het doek. Gemaakt van aan elkaar genaaide banen stof. Gedragen door vrouwen. Wordt op één der schouders vastgeknoopt. Vormde veelal het enige kledingstuk." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#identifier> "RV-1833-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1833-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

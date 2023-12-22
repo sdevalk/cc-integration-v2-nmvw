@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#name> "KAM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#description> "The comb is made of coconut leaf ribs which are tied together with plant fibre. In the middle, a yellow fibre thread is interwoven with the skewers to hold them apart below so that they can be used as a comb. The skewer in the middle has wound around a blue thread.\r\nThis comb is used as a decoration in the hair and worn at special occasions. \r\nIt is worn mostly by men." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#identifier> "RV-1109-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#material> "nerf ; vezel ; garen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1109-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .

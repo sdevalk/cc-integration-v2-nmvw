@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#name> "TABAKSPIJP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#description> "Palo Santo (Bulnesia sarmientoi), 'heilig hout' in het Spaans is een boom met van nature geparfumeerd hout die alleen voorkomt in de Chaco van Argentinië en Paraguay. De kleur rijkt van groen tot amber en de kenmerkende geur is fris en aangenaam.\r\nMensen die wilden trouwen moesten een palo santo planten: groeide de boom op normale wijze, dan zou het huwelijk gelukkig zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#identifier> "RV-1853-89" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#material> "hout (palo santo=Bulnesia sarmientoi)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-89> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

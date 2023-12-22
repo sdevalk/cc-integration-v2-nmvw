@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#name> "PAÑAL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#description> "Donkere pañal (een als wikkelrok gedragen kledingstuk voor jongetjes die nog niet zindelijk zijn). Linnenbinding. Donkerblauwe tot zwartblauwe katoen, langs de zijkanten licht strepenpatroon. 'Poorly woven and expensive.'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#identifier> "RV-5946-1078" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-1078> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

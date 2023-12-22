@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#name> "SPEER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#description> "Een speer gemaakt van gesmeed ijzer. De lange punt heeft één grote weerhaak, die op een lange dunne ronde steel staat. De steel is met een ijzeren band in de zwarthouten schacht vastgezet. Onder deze band een vierkante verdikking van de schacht die versierd is met snijwerk, lange concentrische ruitvormen in de lengte. Aan beide kanten van dit deel zijn brede slingerlijnen ingesneden tussen smalle rondgaande banden met dunne slingerlijnen. De onderkant van de schacht is versierd met verschillende bosjes haar" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#identifier> "RV-360-8134" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; haar" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-8134> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

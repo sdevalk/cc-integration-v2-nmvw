@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#name> "DISSEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#description> "Deze dissel werd waarschijnlijk door timmerlieden gebruikt om het hout te prepareren voor kano- en huizenbouw.  Kano's werden gebouwd door specialisten. Aan het einde van de achttiende eeuw waren traditionele stenen dissels grotendeels vervangen door ijzer, verkregen van Europeanen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#identifier> "RV-1-4586" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#material> "hout ; steen ; koord (vezel) ; vel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4586> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .

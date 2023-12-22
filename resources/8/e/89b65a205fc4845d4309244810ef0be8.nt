@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#name> "Plank" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#description> "Wit houten schopvormige bak om geld te tellen. Langwerpig vierkant, naar boven in een geleidelijk smaller wordend handvat met afgerond uiteinde overgaande, hetwelk van een gat is voorzien om het voorwerp op te hangen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#identifier> "RV-841-12" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#material> "hout ; metaal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-841-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75391> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75391> <https://colonialcollections.nl/schema#description> "1 = zwaard\r\n2 = greep ([ST] 7 banden & snijwerk-rand)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75391> <https://colonialcollections.nl/schema#identifier> "WM-75391" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75391> <https://colonialcollections.nl/schema#material> "pamor-ijzer, hout, hoorn, koperlegering" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75391> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

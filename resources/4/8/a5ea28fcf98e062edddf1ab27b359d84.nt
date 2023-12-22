@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#name> "HOUTEN SPEER MET WEERHAKEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#description> "De schacht, de punt en de weerhaken zijn uit één stuk hout gesneden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#identifier> "TM-2416-555" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2416-555> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

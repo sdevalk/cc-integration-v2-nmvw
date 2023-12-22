@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#name> "EMMER VAN BAMBOE EN HARS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#description> "Onderdeel van driedelig set van draagjuk (432-29a) en 2 lichgewichte emmers(zie ook 432-29c). Van binnen gesmeerd met een laag hars die effectief water in de emmer houdt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#identifier> "RV-432-29b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#material> "bamboe,  binnen met hars gesmeerd. Mogelijk een oude en locale techniek die terug gaat naar de 14e eeuw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-432-29b> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

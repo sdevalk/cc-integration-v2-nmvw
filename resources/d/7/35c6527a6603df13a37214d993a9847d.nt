@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#name> "Passagierslijst" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#description> "M.S. 'Oranje' van Amsterdam naar Batavia 27 juni 1947\r\n\r\nVoorop de gedrukte tekst: PASSAGIERSLIJST - n.v. - STOOMVAART MAATSCHAPPIJ - \r\n\"NEDERLAND\" - AMSTERDAM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#identifier> "7082-S-2363-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#material> "papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-2363-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

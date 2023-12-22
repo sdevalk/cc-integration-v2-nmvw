@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#name> "KATOENEN WIKKELROK DOOR DANAR HADI MET DIAGONALE BANEN MET EEN VARIATIE OP EEN TRADITIONEEL GEOMETRISCH MOTIEF" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#description> "Wikkelrok met diagonale baantjes (garis miring) met parang-klitik, een middelgrote parang-variant. Het parang motief is één van de zogenaamde verboden motieven. Deze motieven werden door de sultans van Yogya en Solo verboden voor de gewone burgers te dragen. Parang betekent (klein) zwaard, en symboliseert macht en groei (McCabe Elliot, 1984:68).\r\nDe rok is gemaakt in een Indonesische batikkerij en was bestemd voor Indonesiërs." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#identifier> "TM-5663-1305" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#creator> "D. (Danar) Hadi" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1305> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

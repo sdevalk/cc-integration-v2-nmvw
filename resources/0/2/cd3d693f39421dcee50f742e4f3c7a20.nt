@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75386> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75386> <https://colonialcollections.nl/schema#description> "1 = kris      ([ST] steelring & korte bloedgleuf (2 in iedere zijde)\r\n                   [VO] onderste deel van lemmet : olifantenslurf\r\n                           lemmet : geslangeld met 9 luk)\r\n2 = schede ([DE] pendok (= metalen overschede) :\r\n                           ciseleerwerk : florale figuren\r\n                           wrangka (= schip) : beschildering als zijnde\r\n                           van pelet-hout))" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75386> <https://colonialcollections.nl/schema#identifier> "WM-75386" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75386> <https://colonialcollections.nl/schema#material> "pamor-ijzer, hout, messing, verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75386> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

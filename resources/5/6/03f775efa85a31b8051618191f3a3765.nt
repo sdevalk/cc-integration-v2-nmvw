@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#name> "MASKER MET DUIVELACHTIG GEZICHT MET SLANGEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#description> "Volgens Van Roon de duivel Astucia uit een Pastorlea dans.\r\nHet maskers stelt een duivel voor met slangvormige figuur op het gelaat.\r\nMeza Saman geeft de Danza delos negritosa uit Michoacan (San Juan Paracutin) als dans waarbij goede oogst wordt afgesmeekt.\r\nPolychroom beschilderd houtsnijwerk met leren oren en tong." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#identifier> "TM-5730-80" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#material> "hout ; leer ; verf ; snijden ; polychromie" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5730-80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

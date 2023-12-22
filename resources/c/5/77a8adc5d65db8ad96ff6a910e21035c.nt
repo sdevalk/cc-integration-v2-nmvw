@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#name> "GEKNOOPT TASJE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#description> "Geknoopt tasje waarin vrouwen hun persoonlijke spulletjes bewaren. Ze worden door de vrouwen geknoopt voor eigen gebruik, en dan alleen in de binnenlanden want in de kustgebieden kennen ze de tasjes niet." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#identifier> "RV-5180-30" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#material> "vezel ; geknoopt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5180-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

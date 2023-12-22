@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#name> "KAMPONG NAAST FABRIEK SEDEP. ACHTERGROND THEEAANPLANT SANTOSSA, MISSIGIT VAN DE ONDERNEMING.OUD MODEL KOELIEWONING(TANGSI). OP DEN VOORGROND EEN NIEUW MODEL.LINKS ACHTER AFDEELINGSKAMPONG VAN TOELAN. WITTE PAALTJES ZIJN VAN DE HOOGSPANNINGSLIJN NAAR SANTOSSA (6000 VOLT)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#identifier> "TM-60037751" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#yearCreatedEnd> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60037751> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .

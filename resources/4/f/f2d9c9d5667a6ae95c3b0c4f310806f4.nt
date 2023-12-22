@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#name> "TABAKSPIJP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#description> "In 1836/7 door de koning van de Ashanti's uit Ghana aan koning Willem I geschonken. Generaal-Majoor Verveer heeft het object namens 'de vorst van Ashanty' als geschenk meegenomen. Gouden en zilveren pijpen waren geliefde cadeaus van Ghanese koningen aan bezoekende hoogwaardigheidsbekleders." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#identifier> "RV-360-5211" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#material> "Goud" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#yearCreatedEnd> "1836"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-5211> <https://colonialcollections.nl/schema#yearCreatedStart> "1836"^^<http://www.w3.org/2001/XMLSchema#integer> .

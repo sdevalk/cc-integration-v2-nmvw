@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#name> "GROEPSPORTRET MET NEGEN KINDEREN EN TWEE HONDEN, OP DE ACHTERGROND VERSIERDE BORDEN MET DE TEKST: \"VAN; HARTELIJK GEFELICITEERD; LANG ZAL ZE LEVEN; NOG VELE JAREN\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#identifier> "TM-60031124" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60031124> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

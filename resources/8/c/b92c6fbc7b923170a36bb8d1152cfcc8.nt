@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#name> "KORAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#description> "Koran written by Abd Allah al-Sûfi in \"Maghribi\" style with black ink for the text and red and yellow for the vowel and titel of the surat.  At the end of the manuscript, some frame decoration with different coloors, the name of the calligrapher and the date. This Koran has an Andalousian influence." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#identifier> "IB2015-45-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#material> "papier;" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#creator> "Abd Allah al-Sûfi" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2015-45-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

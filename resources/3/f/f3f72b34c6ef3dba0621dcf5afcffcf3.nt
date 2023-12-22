@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#name> "VERGADERING VAN DE STUDY GROUP ON INTERNATIONAL PROTECTION AGAINST MALARIA ONDER AUSPICIËN VAN DE WHO IN HET KONINKLIJK INSTITUUT VOOR DE TROPEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#description> "Het jaarverslag 1956 van het Koloniaal Instituut voor de Tropen (KIT) meldt: \"In december vond in ons Instituut onder leiding van prof. Swellengrebel, die tot voorzitter verkozen werd, een vergadering plaats van de Study Group on International Protection against Malaria, welke door de Wereldgezondheidsorganisatie was georganiseerd.\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#identifier> "TM-60060817" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60060817> <https://colonialcollections.nl/schema#yearCreatedStart> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

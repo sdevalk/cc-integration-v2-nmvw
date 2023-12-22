@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#name> "Dekseldoos" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#description> "Dekseldoos, mogelijk voor sirih, van gedreven zilver en koper; bolvormig op ronde voet; zowel op deksel als op onderkant versierd met zes vakken, drie met een achtergrond van driehoeken met een omgekeerd hartvormige versiering; drie met bladerachtergrond met eenzelfde versiering. Bovenop een gestileerde bloem met puntige bladeren." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#identifier> "7082-S-451-1456ab" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#material> "zilver" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-S-451-1456ab> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

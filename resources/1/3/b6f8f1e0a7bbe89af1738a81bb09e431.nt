@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#name> "HOED" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#description> "Een hoed, een Toetoe, gemaakt van Pandanbladeren en roodgekleurde rotanrepen. De hoed heeft de vorm van een driehoek. De onderrand is versierd met franjes van uitgerafelde bananenbladeren. De vrouwenhoed wordt gedragen ter bescherming tegen de regen en de zon door vrouwen, die op het veld werken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#identifier> "RV-835-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#material> "rotan ; blad (Pandan) ; bananenblad ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-835-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

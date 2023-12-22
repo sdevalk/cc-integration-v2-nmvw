@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#name> "481 SUIKERFABRIEK MALANG DJIWAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#description> "Colomadu suikerfabriek in het dorp Malangjiwan nabij Surakarta. De fabriek was gesticht door prins Mangkunegara IV in 1861." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#identifier> "WM-903333" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-903333> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .

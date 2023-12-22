@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#name> "IVOREN STEMPEL MET INITIALEN J.C." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#description> "De stempel is, vooral gezien de initialen J.C., zeer waarschijnlijk eigendom geweest van en gebruikt door de zoon van de heer Sr. C. Cremer in het Neder-Kongogebied. Zijn zoon, J.C.W.H. Cremer, bevond zich tussen zijn in dienst treding bij de Nieuwe Afrikaansche Handelsvereeniging (NAHV) in 1872 en zijn overlijden in 1890 als handelaar in het Neder-Kongogebied." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#identifier> "TM-A-11095b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#inscription> "J.C." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-11095b> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .

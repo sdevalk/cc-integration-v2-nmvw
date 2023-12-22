@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, zwart/wit, geheel opgeplakt.\r\n\r\nOpname toont een groepje Indonesische personen, een man en twee vrouwen en daarachter een paar kinderen. Zij zijn traditioneel gekleed, de vrouwen met sarong.\r\nMen staat op een lange ongeplaveide weg omzoomd door hoge bomen.\r\nOok is er een telefoon/lichtpaal zichtbaar." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#identifier> "7082-nf-1078-6-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#material> "papier; afgedrukt, ontwikkeld" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1078-6-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

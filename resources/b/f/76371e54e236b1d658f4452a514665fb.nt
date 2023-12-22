@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#name> "CRISTINA LUCAS, \"ELEMENTAL ORDER\", 2016" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#identifier> "IBK2023-6-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#material> "live digital feed provided by the Londons Metal Exchange among others; six video screens" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#creator> "Cristina Lucas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IBK2023-6-1> <https://colonialcollections.nl/schema#yearCreatedStart> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .

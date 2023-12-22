@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#name> "PAPIERMONSTER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#description> "Pak gemarmerd papier van 17 vellen  Folio formaat (nr. 55). kleur roze, mica\r\n1 vel: dikte 140 mu; gewicht: 1.9; basisgewicht p/g.-m2: 19.7; dichtheid 0.27cm-3; gemaakt met rieten  schepraam van 19.9 laid lines (waterlijnen) op een chain line afstand van 31 mm en een laid line afstand van 12.5cm." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#identifier> "RV-1-2867" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#material> "papier ; pigment ; geschept" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-2867> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

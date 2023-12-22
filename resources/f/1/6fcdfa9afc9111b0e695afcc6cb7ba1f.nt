@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <https://colonialcollections.nl/schema#name> "BOVENSTUK VAN EEN PROCESSIESTANDAARD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <https://colonialcollections.nl/schema#description> "Bronzen bovenstuk van een processiestandaard met aanroeping van God, Mohammed en Ali in een enkele kalligrafische compositie, geflankeerd door drakenkoppen. Aan dit bovenstuk wordt een staf bevestigd om de standaard te kunnen meedragen.\r\n\r\nDe drakenkoppen suggeren Iran of India als herkomst." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <https://colonialcollections.nl/schema#identifier> "TM-6303-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6303-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

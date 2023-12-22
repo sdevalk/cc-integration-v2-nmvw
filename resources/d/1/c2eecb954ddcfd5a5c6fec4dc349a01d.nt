@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#description> "Brief van Serrurier aan W.G.A.C. Christan, kapitein van het Nederlandsch Oost-Indische Leger te Haarlem betreft ontvangst van de schenking van een verzameling (onbekend aantal voorwerpen uit de serie RV-761-*)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-201-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#creator> "L. (Lindor) Serrurier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-201-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#name> "GOUDGEWICHT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#description> "vierkant goudgewicht van messing met afgeschuinde zijkanten.  Het bovenvlak is versierd met een U-motief in hoogreliëf.  Ross spreekt van \"signet rings\".  Dit zijn ringen met initialen.  Misschien bestaan er ook goudgewichten met initialen.  In de literatuur heb ik hier echter niets over gelezen.  \r\nGarrard rekent dit type gewicht tot de vroege periode, klasse 7+8, circa 1500-1720." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#identifier> "RV-1031-14" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#material> "Messing of brons ; verlorenwastechniek" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1720"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1031-14> <https://colonialcollections.nl/schema#yearCreatedStart> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

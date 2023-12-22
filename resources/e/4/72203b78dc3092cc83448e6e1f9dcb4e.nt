@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#name> "TOESCHOUWERS BIJ DE VOETBALWEDSTRIJD DIE GESPEELD WORDT TER GELEGENHEID VAN HET TWEEJARIG BESTAAN VAN HET KNIL BATALJON INFANTERIE V \"ANDJING NICA\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#description> "De wedstrijd ging tussen het KNIL Bataljon Infanterie V \"Andjing Nica\" en \"de Friezen\" van het Regiment Infanterie (1-9 RI)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#identifier> "TM-60054048" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#creator> "Cees Taillie" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60054048> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

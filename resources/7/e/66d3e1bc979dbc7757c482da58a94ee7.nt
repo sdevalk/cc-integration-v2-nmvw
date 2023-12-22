@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#name> "VERSIERDE FLESKALEBAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#description> "Dit object is gemaakt van een fleskalebas. Het is versierd met geometrische figuren door dit in de oppervlak uit te snijden. Vervolgens is het ingekleurd met zwarte kleurstof.\r\nDe versiering is vergelijkbaar met die van kunstvoorwerpen uit Ashanti en Dahomey. De realisatie is wat voorzichtiger, maar de zorg voor geometrische perfectie is duidelijk systematische tegenstelling tussen strips van driehoeken en halve circles. Dit patroon wordt teruggevonden in de kunst van de marrons.\r\n\r\n\r\nZie 360-7105" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#identifier> "RV-360-7104" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#material> "fleskalebas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7104> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <https://colonialcollections.nl/schema#name> "HOUTEN KAMERSCHERM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <https://colonialcollections.nl/schema#description> "Houten, a jour bewerkt kamerscherm, bestaande uit drie bladen met messingen scharnieren verbonden. Elk blad is aan de voorzijde voorzien van een uitschuifbaar topstuk. Bladmotieven, honingraatmotief en lotusbloemen. In het midden diagonale vierkanten met glas (voor foto of schilderij)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <https://colonialcollections.nl/schema#identifier> "TM-400-70" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-400-70> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

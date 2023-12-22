@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <https://colonialcollections.nl/schema#name> "IJZEREN SABEL MET IVOREN GREEP EN MET BIJBEHORENDE SCHEDE EN HOES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <https://colonialcollections.nl/schema#description> "Deze sabel werd in 1910 door Abdul Aziz Abdul Jalil Rakhmat Shah, Sultan van Langkat, uitgereikt aan Jan van Iterson, vanwege zijn inspanningen voor het onderwijs.\r\n\r\nVervaardiging\r\nDe ivoren greep is versierd met een diep uitgesneden bloemmotief. Aan de onderzijde van de greep een schoenvormige steelring van glanzend geel metaal, versierd met parelrand en bloem- en bladfiguren in reliëf." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <https://colonialcollections.nl/schema#identifier> "TM-5054-1a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5054-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

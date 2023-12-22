@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#name> "MOPOG WOMAN. PREMIER MINE. TVL." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#description> "Vrouwenportret. De traditionele kleding en sieraden drukken de levensfase en sociale status van Ndebele vrouwen uit. Gehuwde vrouwen dragen ringen van koper en messing om hun hals, armen en benen. Deze 'dzilla' zijn geschenken van hun echtgenoot. De ringen symboliseren de onderlinge verbondenheid en trouw van man en vrouw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#identifier> "WM-901554" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk, Agfa Brovira" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-901554> <https://colonialcollections.nl/schema#yearCreatedStart> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .

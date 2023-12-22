@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#name> "SJAAL MET DIGITALE OPDRUK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#description> "This scarf is produced in a limited series and include prominently the traditional symbols of wealth, namely elk teeth found on dresses in the Plateau and the Plains area.\r\nDesigned to be worn together with the Plateau bomber jacket (7207-1), joggers (7207-2), hat (7207-4) and shoes (7207-5)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#identifier> "7207-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#material> "zijde ; opdrukken (digitaal)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7207-3> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .

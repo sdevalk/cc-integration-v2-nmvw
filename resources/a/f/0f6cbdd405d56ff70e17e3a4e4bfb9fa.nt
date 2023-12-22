@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#name> "KAM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#description> "Kam met houder, hout. De kam bestaat uit twee zijden, waarvan één van de zijde door de losse houten houder kan worden overkapt. De kam is in het midden aan beide zijden voorzien van dwarslat die met koperen pennen is vastgezet. Het hout lijkt tsuge (Buxus microphylla) te zijn, gebruikelijk voor houten kammen. Geen beschrijving in Nippon." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#identifier> "RV-1-1654" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#material> "hout ; snijwerk ; koper" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1654> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

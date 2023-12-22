@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN SCHOUDERTAS VAN AGAVE-VEZELS, VOORNAMELIJK DOOR MANNEN GEDRAGEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#description> "Schoudertas, gevlochten van agave-vezels. Paars en rood gekleurde strengen agave-vezel zijn meegevlochten.\r\nAangezien Dhr. van Zantwijk vooral onderzoek deed onder de Nahua in Cuetzalan, zal het voorwerp hoogstwaarschijnlijk afkomstig zijn van die culturele groep." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#identifier> "TM-3357-42" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#material> "agave" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3357-42> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#name> "DEKSEL VAN THEEKOP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#description> "Dit deksel is gemaakt van kokosnoot. Op de deksel is een bladvormige metalen versiering aangebracht met een opstaand staafje als handvat. Vermoedelijk voor Europeanen vervaardigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#identifier> "RV-2584-45b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#material> "kokosnoot ; metaal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2584-45b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#name> "MONDSTUK VAN MONDBOOR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#description> "Mondstuk gemaakt van hout.\r\nHet heeft een ingegoten draaipunt van lood.\r\nHet is nieuwer dan de mondboog waar het bij hoort (zie RMV 4458-98a)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#identifier> "RV-4458-98b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#material> "Hout ; lood" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4458-98b> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

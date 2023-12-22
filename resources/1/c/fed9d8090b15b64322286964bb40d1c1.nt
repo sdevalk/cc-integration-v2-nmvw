@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#name> "MES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#description> "Gezien de vorm, en het feit dat het lemmet met nagels in het heft is bevestigd, gaat het hier om een Europees type mes. Vermoedelijk  verkregen door ruilhandel met de Denen of met Europese walvisvaarders. De Inuit van Groenland zagen wel in dat metaal en metalen voorwerpen handig waren. Ze trachten deze dan ook te kopen, maar verwierven ook losse stukken ijzer die door Europeanen waren achtergelaten. Zie het vrouwenmes RMV 5796-72." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#identifier> "RV-5796-73" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#material> "metaal ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5796-73> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .

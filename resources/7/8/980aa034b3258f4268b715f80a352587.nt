@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <https://colonialcollections.nl/schema#name> "PLACEMAT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <https://colonialcollections.nl/schema#description> "Een rechthoekige mat gemaakt van gevlochten palmbladvezels. De mat is in de hoeken versierd met donkere stervormen.  De rand van de mat is versierd met donkergekleurde vierkanten. Gevlochten volgens de dichte een slagtechniek." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <https://colonialcollections.nl/schema#identifier> "TM-3245-15" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3245-15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

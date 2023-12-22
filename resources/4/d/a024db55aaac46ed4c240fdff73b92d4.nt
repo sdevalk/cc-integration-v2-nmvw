@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#name> "Schildering" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#description> "91 vogels in kleur op 4 vellen; cat. p. 151-153 S, de catalogus Fisscher vermeldt 92 afbeeldingen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#identifier> "RV-360-4982-a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#material> "zijde ; Sumi inkt ; pigment ; ongemonteerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4982-a> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

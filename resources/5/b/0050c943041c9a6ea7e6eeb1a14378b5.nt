@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#name> "TRANSFORMATORSTATION BIJ DE GOUVERNEMENTS GOUD- EN ZILVERMIJNEN TE TAMBANG SAWAH IN DE RESIDENTIE BENKOELEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#description> "Deze foto is genomen in het transformatorstation van de Gouvernements Goud- en Zilvermijnen te Tambangsawah in Bengkulu. Te zien is de omvormer." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#identifier> "TM-60016219" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60016219> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

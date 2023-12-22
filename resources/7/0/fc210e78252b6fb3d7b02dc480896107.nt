@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#name> "PAVILJOENS OP DE KOLONIALE TENTOONSTELLING IN SEMARANG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#description> "Op deze foto is de Koloniale Tentoonstelling in Semarang te zien. Links onder meer een Minangkabau rijstschuur en een schaalmodel van een moskee die deel uitmaken van het paviljoen \"Sumatra's Westkust\". Daarachter het paviljoen \"Djambi\" (Kerinci), op de kop van de straat het \"Solosche theater\" en rechts de paviljoens \"Kedoe\", \"Ambon\" en \"Bali en Lombok\"." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#identifier> "TM-60035999" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60035999> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#name> "NEGEN PATROONBANEN MET KATACHTIGEN, SLANGEN, BOMEN, VOGELS, HANEN, KUIKENS, VARENACHTIGE PLANTEN EN PATOLA-MOTIEVEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#description> "[ST] patroonbaan (9) & franje (ikat)\r\n[PA] eerste & derde baan : katachtigen & slangen & bomen\r\n        tweede baan : vogels & hanen & kuikens & varenachtige\r\n        planten\r\n        vierde baan : patola ratu (= slangenhuid)\r\n        vijfde (tevens midden) baan : effen\r\n[KL] ikat : naturel & zwart & morinda-rood & lichtblauw & geel\r\n        (bijgekleurd)\r\n        weefband : rood & geel & zwart" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#identifier> "WM-19837" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#material> "katoen\r\ngeweven, ikat : scheringikat, gerold (franje), bijgekleurd (geel)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-19837> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

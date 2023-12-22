@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#name> "PORTRET VAN HANK DE JONGE EN JAN VAN LONKHUIJZEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#description> "Portret van twee mannen in Tosari. De man links is Hank de Jonge, de man rechts Jan van Lonkhuijzen. Deze foto is genomen tijdens het verblijf van de familie Van Lonkhuijzen in Tosari, van 23 mei tot 23 juni 1914." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#identifier> "TM-60017940" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60017940> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

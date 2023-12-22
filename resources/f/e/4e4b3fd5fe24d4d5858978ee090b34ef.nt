@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#name> "INGELIJSTE PRENT SHIVAJI EN ZIJN GOEROE RAMDAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#description> "Religieuze prent.\r\n\r\nShivaji Raje Bhosle (1627-1680) was een Mahratta, iemand uit de deelstaat Maharashtra, die in opstand kwam tegen het Mughal gezag van keizer Aurangzeb. Naast een daadwerkelijke strijd betrof het ook een ideologische strijd tussen de hindoe Shivaji en de moslim zeloot Aurangzeb.\r\nShivaji's goeroe (geestelijk leidsman) was Shri Ramdas die Shivaji op religieus en filosofisch gebied adviseerde." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#identifier> "TM-6226-26" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#material> "drukwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6226-26> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

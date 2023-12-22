@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#name> "WIKKELDOEK TER VIERING VAN HET NIEUWE JAAR 1987" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#description> "Een kalenderdoek met enkele voorspoedige spreuken erop: Twawaombea heri, afya na maendeleo mema, o.a. geluk, goede gezondheid en ontwikkeling.\r\nRechtsonder op de doek staat No RR 15823 Rivatex Eldoret made in Kenya." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#identifier> "TM-6325-106" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#material> "katoen ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-106> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

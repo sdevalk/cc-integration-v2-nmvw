@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#name> "VEL RECLAMEDRUKWERK MET ACHT AFBEELDINGEN VOOR SAFETY MATCHES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#description> "Afgebeeld is een van India's nationale helden in de onafhankelijkheidsstrijd, Bhagat Singh (1907-1931). \r\nNa het plegen van een bomaanslag werd hij gevangen genomen, veroordeeld en opgehangen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#identifier> "TM-4816-482" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#inscription> "Hero Safety Matches" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4816-482> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

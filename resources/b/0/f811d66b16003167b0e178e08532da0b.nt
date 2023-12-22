@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#name> "BOEK OVER DE BRAZILIAANSE CARNAVALSMANIFESTATIE 'MARACATU'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#description> "Pamfletachtig boekje ('literatura de cordel') van de auteur V. Licariao. Titel: 'Maracatu'.\r\nIn dit soort boekjes staan populaire verhaaltjes voor het eenvoudige volk over liefde, dood, helden, heiligen, heksen en boeven. Vaak zijn het vertellingen die betrekking hebbem op bijzondere gebeurtenissen uit de omgeving, of ze gaan over het leven en lijden van Christus en heiligen. Ook worden motieven uit de antieke oudheid, de Oriënt en Middeleeuwse ridderlegenden gebruikt.\r\nDrukwerk met houtsnede illustratie op de voorkant." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#identifier> "TM-4356-223" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#material> "drukwerk ; houtsnede" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4356-223> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

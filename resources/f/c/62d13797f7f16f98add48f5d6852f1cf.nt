@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#name> "\"VALLÉE DE L' ADUALLA PRES DU PLATEAU.,(TÉLÉPHOTOGRAPHIE. ENG. N. GUINEA.\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#description> "Landschapsfotografie: Het dal van de Adualla." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#identifier> "WM-906088" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#inscription> "titel + 'Reproductie van foto Missiehuis Tilburg., September 1910' geschreven op het karton in pen in zwart, achterzijde midden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-906088> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

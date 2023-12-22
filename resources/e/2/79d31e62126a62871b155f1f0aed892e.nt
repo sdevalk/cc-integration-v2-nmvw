@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#name> "HOORN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#description> "Deze houten hoorn kan worden geïnterpreteerd als een 'stemversterkers'. In tegenstelling tot andere hoorns uit Midden-Afrika brengen zij slechts één toon voort. Deze stemversterker ziet eruit als een Afrikaanse megafoon waarop een slang is aangebracht. Net zoals bij vele andere instrumenten is over het gebruik van deze stamversterker in het dagelijks leven weinig bekend." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#identifier> "RV-480-33" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#material> "hout ; gesneden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-480-33> <https://colonialcollections.nl/schema#yearCreatedStart> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .

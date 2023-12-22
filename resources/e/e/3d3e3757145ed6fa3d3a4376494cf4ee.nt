@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#name> "HOUTSNIJWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#description> "Een stuk houtsnijwerk gemaakt in een T-vormige constructie van hout. De vertikale plank van de T bestaat uit drie vierkanten, die met achtbladige bloemen zijn versierd. De blaadjes van de bloem zijn groen gekleurd. De gedeelten tussen de vierkanten zijn smaller gemaakt en versierd met slingerlijnen. De horizontale plank van de T is aan de beide uiteinden trapsgewijze uitgesneden. De treden bestaan uit vierkanten, die ook met groen en rood gekleurde bloemenfiguren zijn versierd. Tussen deze delen zijn vogelfiguren en sterren te zien. De onderzijden van deze plank zijn gegroefd uitgesneden. Aan het houtsnijwerk een gedraaid touw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#identifier> "RV-3828-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#material> "hout ; verf ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

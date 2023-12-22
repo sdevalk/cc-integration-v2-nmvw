@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#name> "AFFICHE 'COOL JAPAN' IN TROPENMUSEUM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#description> "Affiche voor de tentoonstelling 'Cool Japan -  Worldwide Fascination in Focus' in Tropenmuseum van 27 september 2018 t/m 1 september 2019" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#identifier> "7036-45a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7036-45a> <https://colonialcollections.nl/schema#yearCreatedStart> "2018"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#name> "TROM OP STANDAARD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#description> "Deze trommels uit het laatste kwart van de 19e eeuw zijn vrij zeldzaam: in totaal zijn er 21 bekend. Er bestaat geen duidelijkheid over het gebruik en de betekenis van deze trommels. Volgens sommigen werden ze gebruikt door de koning van de Vili, volgens anderen stelden ze een altaar van de god Maloango voor.\r\nZie verder Chr. Stelzig: Altar of Maloango; being, non-being and existence of an object from West Africa. Baessler-Archiv, N.F. Band 46, 1998: 369-427.\r\nZie 497-187." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#identifier> "RV-350-486" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#material> "hout ; leer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-350-486> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

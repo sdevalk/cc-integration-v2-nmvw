@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#name> "RAMMELAAR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#description> "Deze schelpen werden aan koorden geregen om zo rammelaars te maken. Ze werden als enkelbanden, halskettingen of gordel gedragen en maakten geluid bij elke beweging die de danser maakte." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#identifier> "RV-1134-232" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#material> "schelp ; vezel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1134-232> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

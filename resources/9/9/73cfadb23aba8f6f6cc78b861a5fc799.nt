@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <https://colonialcollections.nl/schema#name> "PANORAMA VAN PHILIPSBURG OP SINT MAARTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <https://colonialcollections.nl/schema#description> "Zicht op Philipsburg, de hoofdstad van het Nederlandse deel van het eiland Sint Maarten/Saint Martin. Philipsburg werd in 1763 door John Philips gesticht, een Schotse kapitein in de Nederlandse marine.\r\n\r\nOp het houten kader is een plaatje bevestigd met de tekst \"Aan Z.E. Drs. A.B. Speekenbrink, Gouverneur van de Nederlandse Antilllen, van de bevolking van Sint Maarten, April 1961\". Het schilderij werd aan de gouverneur en zijn echtgenote aangeboden tijdens de afscheidsreceptie voor hun vertrek naar Nederland, op 18 mei 1961." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <https://colonialcollections.nl/schema#identifier> "TM-3680-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3680-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

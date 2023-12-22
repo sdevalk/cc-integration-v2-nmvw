@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#name> "HOUTEN HONINGVAT MET DEKSEL EN BAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#description> "Het vat is uit hout gesneden en de onder- en bovenzijde zijn met een stuk huid afgesloten. Een leren riem is aan beide delen bevestigd en dient als draagkoord. Het vat is versierd met een ingekrast (?) lijnen- en puntlijnen patroon." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#identifier> "TM-2638-67" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#material> "hout ; huid (dierlijk) ; leer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2638-67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#name> "IVOREN TAFEREEL BESTAANDE UIT TWEE MUSICERENDE MANNEN VOOR EEN KAMERSCHERM EN TAFEL MET PLANT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#description> "De linker muzikant bespeelt de biwa met een bachi, de rechter muzikant (ontbreekt op de foto) bespeelt een dwarsfluit." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#identifier> "TM-3776-11" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#material> "Ivoor ; snijden ; met de hand vervaardigen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3776-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .

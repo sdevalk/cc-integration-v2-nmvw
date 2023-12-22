@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KOM OP VOET MET GEOMETRISCHE DECORATIE IN NEGATIEF SCHILDERTECHNIEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#description> "Kom met voet met een schildering in negatief schildertechniek. Op de rand zitten twee knobbels die als scheiding dienen tussen de twee beschilderde helften. Onderlangs de rand staan stippen met daaronder evenwijdige lijnen. Verder zijn er groepen verticale lijnen geschilderd en elkaar kruisende lijnen. Daar tussenin staan \"rozetten\"." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#identifier> "TM-2861-24" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2861-24> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

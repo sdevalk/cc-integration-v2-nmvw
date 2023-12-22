@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#description> "[KL] rood\r\n[DE] pruimeboom. Op de holle kant in taka-maki-e, goud metaal en zwart, Yoshitsune welke aan de krijgsman-priester Benkei het verbodsbordje dicteert om te waarschuwen, dat ieder die Yoshitsune's geliefde pruimenboom te Amagasaki aanraakt, de vinger afgehakt zal worden (1186 A.D.)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#identifier> "WM-47030" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#material> "hout, lak" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-47030> <https://colonialcollections.nl/schema#yearCreatedStart> "1775"^^<http://www.w3.org/2001/XMLSchema#integer> .

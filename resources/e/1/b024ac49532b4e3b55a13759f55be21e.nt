@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#name> "MEDICIJN TEGEN RODE EN ONTSTOKEN OGEN BESTAANDE UIT DRIE HALVE EN ÉÉN HEEL TAKDEEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#description> "Het medicijn wordt gebruikt tegen rode en ontstoken ogen, inheemse benaming van deze aandoening is Ji Busi. De schors van de tak van de Bwèlèbauda-boom wordt verkoold en tot houtskool gestampt. Het wordt vervolgens met karitéboter gemengd. Het mengsel wordt aangebracht tussen de grote en de daarnaast gelegen teen aan de linkervoet en daarna rond het linkeroog. Dezelfde handelingen worden aan de rechterzijde verricht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#identifier> "TM-3912-1044" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-1044> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

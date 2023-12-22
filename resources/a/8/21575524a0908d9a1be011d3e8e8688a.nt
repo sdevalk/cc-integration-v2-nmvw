@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#description> "Koninginmoeder Emma van Waldeck-Pyrmont en koningin Emma met de burgemeester van Rotterdam op het balkon van het oude stadhuis van Rotterdam, tijdens een feestelijk en officieel bezoek, waarschijnlijk ter gelegenheid van de inhuldiging van Wilhelmina als Koningin der Nederlanden. Wilhelmina was in 1890 koningin geworden maar pas na het bereiken van de 18-jarige leeftijd ingehuldigd op 6 september 1898. Tot aan haar 18e jaar was Emma regentesse. Het balkonhek is versierd met gedrapeerde tapijten en de kolommen met gedrapeerde doeken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#identifier> "WM-416841" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#material> "ontwikkel gelatine zilverdruk, bruin omgekleurd, mat" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#yearCreatedEnd> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-416841> <https://colonialcollections.nl/schema#yearCreatedStart> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .

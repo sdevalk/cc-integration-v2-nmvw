@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#name> "PORTRET VAN BAS, ADA, JAN, FREDA (OFTEWEL POELIE) EN JAAP VAN LONKHUIJZEN TE PAARD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#description> "Het bijschrift van deze foto luidt: \"De vijf Heemskinderen\", naar de sage van de Vier Heemskinderen. Te zien zijn de drie kinderen van Jan en Joop van Lonkhuijzen (Bas, Jan en Freda oftewel Poelie) met hun neef Jaap en nicht Ada." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0174-174" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0174-174> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <https://colonialcollections.nl/schema#name> "RECLAMEBORD VAN EEN KAPPER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <https://colonialcollections.nl/schema#description> "Is geen inventariskaart van, zowel in de bakken op nummers als op land ontbreekt deze informatie. Waarschijnlijk is object nooit beschreven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <https://colonialcollections.nl/schema#identifier> "TM-5773-2b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5773-2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .

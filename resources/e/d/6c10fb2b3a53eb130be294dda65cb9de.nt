@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <https://colonialcollections.nl/schema#name> "KARTONNEN DOOS MET ZEEP DIE BESCHERMT TEGEN HET KWAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <https://colonialcollections.nl/schema#description> "Doosje Afrikaanse zeep, \"Jabon Africano\", die volgens de tekst beschermt tegen het kwaad, als men zich ermee wast. De zeep wordt nog steeds bereid uit speciale Afrikaanse kruidenessences volgens de tekst." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <https://colonialcollections.nl/schema#identifier> "TM-5290-447" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-447> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

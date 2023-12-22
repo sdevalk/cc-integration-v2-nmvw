@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#name> "ZIJDEN SHAWLTJE DOOR KUNSTARBEID MET EEN CIRKELMOTIEF DAT IS SAMENGESTELD UIT  VLEUGELMOTIEVEN, BERGEN EN VLINDERS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#description> "In het midden van dit shawltje begint het cirkelmotief met een kleine cirkel van motieven, die naar buitentoe steeds groter worden. Het motief bestaat dus uit meerdere cirkels ineen, die zijn samengesteld uit verschillende motieven, o.a. vleugelmotieven, vlinders, bergen en kompassen.\r\nEen shawltje is een Europees kledingstuk; derhalve kan afgeleid worden dat de doek bestemd was voor (Indo-)Europese koopsters. Hij is ook gemaakt in een (Indo-)Europese battikerij." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#identifier> "TM-5663-1383" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#creator> "Kunstarbeid" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1383> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

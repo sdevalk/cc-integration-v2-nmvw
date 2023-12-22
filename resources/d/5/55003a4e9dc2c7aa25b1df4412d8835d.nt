@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#name> "ARMBAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#description> "De afmeting van deze band en de aanwezigheid van een scharnier maken het waarschijnlijk dat dit een polsband is. Hij is glad aan de binnenkant, zodat hij bij het dragen geen beschadiging of pijn aan de pols veroorzaakt. De buitenkant is versierd met horizontale richels. De ruimte tussen de buiten- en de binnenwand was oorspronkelijk gevuld met klei of hars. Een kwart van de band fungeert als scharnier." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#identifier> "RV-1403-3250" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#material> "Goud" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#yearCreatedEnd> "930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1403-3250> <https://colonialcollections.nl/schema#yearCreatedStart> "750"^^<http://www.w3.org/2001/XMLSchema#integer> .

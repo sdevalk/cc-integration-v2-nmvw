@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <https://colonialcollections.nl/schema#name> "SIERAAD VAN KRALENBANDJES MET HOUTEN HANGER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <https://colonialcollections.nl/schema#description> "Het sieraad bestaat uit drie kralenbandjes aan een koperen ring. Aan één bandje hangt een hol stukje hout, dit is mogelijk een houder voor medicijnen welke op het hoofd gedragen wordt.\r\n\r\nVervaardiging\r\nLichtblauwe kralen zijn genaaid op lichtbruine textielen bandjes. Het uiteinde van de bandjes is afgebonden met witte of rode kraaltjes. Aan één bandje hangt een uitgehold stukje hout." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <https://colonialcollections.nl/schema#identifier> "TM-2160-444" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2160-444> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

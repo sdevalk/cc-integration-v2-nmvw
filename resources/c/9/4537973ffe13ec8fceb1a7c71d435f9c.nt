@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#name> "ADAR CAPE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#identifier> "R-5074" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#material> "plastic;" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#creator> "Benjamin Benmoyal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#yearCreatedEnd> "2022"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/R-5074> <https://colonialcollections.nl/schema#yearCreatedStart> "2022"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#description> "Gebouwd door de priesteres van Venus, Eumachia, patrones van de fullones. Het is gebouwd ten tijde van keizer Tiberius en zijn moeder Livia. De facade is herbouwd na de aardbeving van 62 na C. Het werd gebruikt als wolmarkt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#identifier> "RV-15143-8-21" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15143-8-21> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

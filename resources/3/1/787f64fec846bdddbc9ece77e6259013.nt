@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#name> "ONDERGROEI IN SECUNDAIR BOS MET PIPERSOORTEN EN VEEL JONGE ROTAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#description> "Op 11 juni  bezocht Docters van Leeuwen het oude Pioniersbivak van de vorige expeditie uit 1922 en onderzoekt de sinds die tijd opgekomen nieuwe vegetatie en fotografeert. In zijn dagboek geeft hij een  gedetailleerde beschrijving. De foto is gemaakt tijdens de Amerikaans-Nederlandse Centraal Nieuw-Guinea Expeditie in 1926." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#identifier> "TM-10009908" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#creator> "W.M. (Willem Marius) Docters van Leeuwen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10009908> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

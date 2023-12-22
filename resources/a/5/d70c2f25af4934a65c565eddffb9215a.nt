@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#name> "KOKERS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#description> "Twee ronde kokers kokers gemaakt van een lengte bamboe. De beide kokers zijn afzonderlijk in delen geklopte boomschors verpakt. De schors van beide kokers is versierd met vele rondgaanden bandem met versieringen in rood, zwart en geel. De figuren bestaan uit zigzaglijnen. Aan beide uiteinden lange witte franjes. De beide kokers zijn aan elkaar vastgebonden met een gedraaid touw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#identifier> "TM-32-70" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#material> "boomschors ; verf ; touw ; geklopt ; geverfd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-32-70> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

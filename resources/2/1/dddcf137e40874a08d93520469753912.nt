@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#name> "TARKISSIMAT EN DOMILIA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#description> "Tarkissimat [en Domilia. Het] kindje hadden ze gekregen van zoon Elias en schoondochter Atingitseq. [Tarkissimat] stelde altijd tegenvragen, als Gert hem vragen stelde: hoe deed joùw moeder dat nou? [Hij] verbaasde zich altijd over al die spoorlijnen in Europa. Wie had dat nou aangelegd? (1979)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#identifier> "RV-13171-79-19-26" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-13171-79-19-26> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

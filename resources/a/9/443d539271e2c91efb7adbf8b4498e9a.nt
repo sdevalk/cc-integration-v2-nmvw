@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#name> "KRUIK MET GEOMETRISCHE DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#description> "Urpu, voorraadkruik, met geometrische decoratie bestaande uit horizontale rijen driehoekjes in rood en zwart.\r\nMogelijk dat dit type decoratie wil mededelen: wij zijn een groot volk van vele generaties." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#identifier> "TM-3842-47" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#yearCreatedEnd> "1532"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3842-47> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

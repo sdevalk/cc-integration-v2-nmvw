@@ -25,7 +25,6 @@ CONSTRUCT {
     cc:locationCreated ?locationCreatedName ;
     cc:alternateName ?alternateLocationCreatedName ; # Only for indexing
     cc:countryCreated ?countryCreatedName ;
-    cc:isPartOf ?datasetName ;
     cc:publisher ?publisherName .
 }
 WHERE {
@@ -151,11 +150,6 @@ WHERE {
   ####################
 
   ?this la:member_of ?dataset .
-
-  OPTIONAL {
-    ?dataset schema:name ?datasetName
-    FILTER(LANG(?datasetName) = "" || LANGMATCHES(LANG(?datasetName), "en"))
-  }
 
   ####################
   # Publisher of dataset

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#name> "ALUMINIUM HANGER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#description> "De hangeris met de hand gebogen uit een reep aluminium en wordt gedragen als bescherming tegen boze geesten (Emisambwa). Het is niet duidelijk of het woord Emisambwa op dez boze geesten of op de inheemse naam van de hanger betrekking heeft. Vermoedelijk is het gebruik van aluminium een moderne variant op het dragen van ijzer als bescherming." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#identifier> "TM-4261-148b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#material> "aluminium ; buigen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-148b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

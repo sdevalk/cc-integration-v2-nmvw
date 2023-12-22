@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#name> "KAART VAN JAVA EN MADURA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#description> "Landkaart tussen houten stokken met bruin ophangkoord en donkerrode bindlinten. Voorstellende een overzichtskaart van Java en Madura, schaal 1: 500.000. Oorspronkelijke uitgave van de Topographische Inrichting Batavia 1912. Dit exemplaar is een herdruk uit 1922." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#identifier> "TM-6060-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#creator> "Topografische Dienst Kadaster" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6060-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .

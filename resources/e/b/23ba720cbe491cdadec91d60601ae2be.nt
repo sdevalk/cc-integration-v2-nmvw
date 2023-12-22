@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#name> "FLUIT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#description> "Een korte rode fluit gemaakt van bruin hout. Naast het mondstuk is een zeshoekige verdikking gemaakt waarna de fluit smaller naar het uiteinde loopt. Het mondstuk is schuin afgesneden en heeft een kleine rand. De vlakken van het dikke gedeelte zijn versierd met booglijnen. Het uiteinde van de fluit is met twee rondgaande ringen versierd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#identifier> "RV-3828-28" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#material> "hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-28> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

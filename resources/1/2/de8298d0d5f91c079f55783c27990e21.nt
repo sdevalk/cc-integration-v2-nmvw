@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#name> "MAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#description> "Een ronde mand gemaakt van gevlochten, ongekleurde pandanbladrepen volgens de drierichtingenmethode. In de wand is een reep ter versterking ingevlochten. De mand staat op een zeshoekige voet en loopt naar boven wijder uit. De zes hoeken zijn ingedeukt gevlochten. De bovenrand van de mand is diagonaal gevlochten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#identifier> "RV-430-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#material> "blad (pandan)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-430-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

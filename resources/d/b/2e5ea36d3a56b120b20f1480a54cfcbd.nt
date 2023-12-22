@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#description> "[KL] steenrood & bruin & geel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#identifier> "WM-70193" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#material> "alpacawol\r\ngeweven & genaaid\r\nMet de hand vervaardigd. Samengesteld uit 2 delen. Weefsel van losse draden, getwiste en ongetwiste, die gekruisd worden door getwiste draden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#yearCreatedEnd> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-70193> <https://colonialcollections.nl/schema#yearCreatedStart> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .

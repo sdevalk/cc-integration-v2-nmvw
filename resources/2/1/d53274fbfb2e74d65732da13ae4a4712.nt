@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#name> "HANGER VOOR EEN KOOKPOT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#description> "Een hanger voor een kookpot gemaakt van diagonaal gevlochten, ongekleurde lontarbladrepen. Het boveneinde van de hanger is rond en het ondereinde is kubusvormig. De beide delen zijn door zes getande stroken met elkaar verbonden. In het bovendeel een halve klapperdop met en gat in het midden waardoor een grijs touw loopt. Aan de holle onderzijde is het touw vastgemaakt aan een latje en aan de bovenzijde is een lus gemaakt waarmee de hanger kan worden opgehangen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#identifier> "RV-804-142" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#material> "blad (lontar) ; touw ; noot (klapper) ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-804-142> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#name> "AANGESLAGEN IJZEREN KLOK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#description> "Deze enkele aangeslagen klok zonder klepel wordt aan het handvat in de hand gehouden en met een stok (deze ontbreekt hier) aangeslagen. Dit instrument wordt gebruikt om ritme aan te geven, en als signaal-instrument." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#identifier> "TM-6216-10" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#locationCreated> "Western Africa" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6216-10> <https://colonialcollections.nl/schema#yearCreatedStart> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#name> "GEGLANSD KATOENEN TAFELKLEED MET CIRKELS WAARIN VIER VROUWELIJKE EN EEN MANNELIJKE WAJANGFIGUUR ZIJN AFGEBEELD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#description> "Tafelkleed in strakke stijl met een grote cirkel waarin weer vijf kleinere cirkels met wayangfiguren zijn gebatikt. Eén van hen is een man.\r\nBij de randen zit een florale vierkante rand.\r\nDe toepassing van batik op voorwerpen voor de huisraad, zoals gordijnen, schermen, tafelkleden e.d. is typisch Europees.\r\nDe doek is dan ook gemaakt in een (Indo-)Europese batikkerij en was bestemd voor (Indo-)Europeanen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#identifier> "TM-5663-1382" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1382> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

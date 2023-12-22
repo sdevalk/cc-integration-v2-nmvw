@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#name> "BROEDER JEANSON VAN DE MISSIONARISSEN VAN HET HEILIG HART (MSC) LEERT EEN PAPUA HET SMIDSVAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#description> "Broeder Gerardus Wilhelmus Jeanson (Duisburg 1874 - Bojo 1944) trad in 1899 toe tot de congregatie van de Missionarissen van het Heilig Hart (Missionaires du Sacré-Coeur, Missionarii Sacri Cordis, MSC). In de periode 1908-1911 werkte hij in Merauke op Nieuw-Guinea. Later zou zijn werkterrein zich naar de Molukken verplaatsen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#identifier> "TM-10000702" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-10000702> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

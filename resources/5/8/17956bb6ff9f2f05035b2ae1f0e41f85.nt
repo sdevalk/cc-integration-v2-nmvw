@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#name> "DOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#description> "Een rechthoekige doos gemaakt van gevlochten, ongekleurde lontarbladrepen volgens de drierichtingenmethode. De bovenkant van het geheel overschuivende deksel is rechthoekig gevlochten. De bovenrand van het deksel steekt iets naar boven uit. Onder de bovenrand en boven de onderrand is een dunne reep doorgestoken ter versteviging. Aan de smalle zijden van de doos is een gevlochten draagtouw bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#identifier> "RV-370-3725" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#material> "blad (lontar) ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3725> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

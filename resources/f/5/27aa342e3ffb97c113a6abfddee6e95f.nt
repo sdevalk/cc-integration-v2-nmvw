@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#name> "ONDERDEEL VAN ANGKLUNG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#description> "Een onderdeel van een muziekinstrument, een Angklung. Het instrument is gemaakt van lengtes bamboe en bestaat uit zeven kokers met verschillende lengtes en diktes. Een uiteinde is open. De kokers zijn voor de helft in de lengte weggesneden. De andere uiteinden eindigen in het tussenschot van de bamboes." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#identifier> "RV-16-690" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#material> "bamboe" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-16-690> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .

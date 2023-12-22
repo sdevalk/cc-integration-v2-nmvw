@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#name> "ZES FOTO'S VAN AUTOCHTONE BEWONERS VAN ZUID-AFRIKA IN VERSCHILLENDE KLEDIJ" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#description> "De foto's tonen onder ander:\r\n1. een zittende vrouw\r\n2. twee staande mannen\r\n3. één staande man\r\n4. twee staande mannen met tussen hen in een geknielde jongen\r\n5. een man zittend op een kist\r\n6. een zittende vrouw en staande man" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#identifier> "TM-3196-1c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3196-1c> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

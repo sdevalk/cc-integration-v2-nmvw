@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#name> "BOLLETJE HANDGESPONNEN RODE WOL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#description> "Bolletje handgesponnen rode wol. Geverfd met cochenille. Cochenille is een natuurlijke organische verfstof die verkregen wordt uit een schildluissoort die op cactusschijven leeft. Tot in de 19de eeuw was het een populair exportproduct en één van de pijlers waar de economie van Oaxaca op rustte. In Mexico kende men cochenille onder de Nahuatl naam \"nochetzli\" - een samenstelling van nochtli (de opuntia cactus) en eztli (bloed) - een verwijzing naar de kleur." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#identifier> "RV-5946-976" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#material> "wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-976> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

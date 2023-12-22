@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#description> "Brief uit Leipzig van de hr. L Frobenius met het bericht dat hij een \"Waffensammlung\" heeft verstuurd.\r\nVoorts stelt hij voor voorwerpen te ruilen. Voor de speer zou hij degen/dogen¹ typen uit Congo willen hebben. Moeilijk te lezen.\r\n\r\n¹  waarschijnlijk: boog" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-26-106/108" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#creator> "Leo Frobenius" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-26-106/108> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#name> "GEOMETRISCHE DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#description> "Kruik, inheemse naam is urpu die als een pacha kan worden gebruikt. Dat is voor plengoffers wegens de tuit op de schouder. De buik van de kruik is beschilderd met verticale rechte en slinger lijnen. Onder de tuit op is een aaneensluitend ruitpatroon geschilderd.\r\nAan de zijkanten zitten twee verticale oren.\r\nMogelijk een modern exemplaar." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#identifier> "WM-77420-3174" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#material> "Aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-77420-3174> <https://colonialcollections.nl/schema#yearCreatedStart> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#name> "PORTRETTEN VAN JET, MAN UIT HET DORP ATJAMETSJ, AROWITSJ-RIVIER, OP 14 JULI 1961 GEFOTOGRAFEERD IN AMANAMKAI" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#description> "2.26.2.20 t/m .3.36: Portretten van Jet, man uit het dorp Atjametsj, Arowitsj-rivier, op 14 juli 1961 gefotografeerd in Amanamkai.\r\nHeeft een hoofdband van (rood) katoen en haar invlechtingen van sagobladvezels.\r\nDoorboorde neustussenschot is uitgescheurd.\r\nFoto afzonderlijk opgenomen onder albumnummer RV-A163-*" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#identifier> "RV-10390-74" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#material> "Papier\r\nZwart-wit foto" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-10390-74> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

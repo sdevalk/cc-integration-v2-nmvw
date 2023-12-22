@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#name> "MESSINGEN SIRIHDOOS IN DE VORM VAN EEN LEEUW, ONDERDEEL VAN EEN SIRIHSTEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#description> "Een sirih-stel bestaat gewoonlijk uit een ronde of rechthoekige doos, met of zonder deksel, waarin de kleinere potten en schalen bewaard worden. Deze sirihdoos heeft de vorm van een leeuw, met bruine aardewerken ogen. Deze vorm is hoogst ongebruikelijk." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#identifier> "TM-415-1a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-415-1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

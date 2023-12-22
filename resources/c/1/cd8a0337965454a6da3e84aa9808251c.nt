@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#name> "THEEBLAD VAN ZILVERLEGERING MET DRIE KOPEREN POTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#description> "Om de theepot, bussen voor suiker en thee, muntbladeren, kopjes of glazen op te zetten. De A, B en C in de serie vertonen drie stadia van de fabricage van een theeblad. A) een ronde zilveren plaat met keurstempel, b) beginversiering\r\nc) voltooide middenversiering." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#identifier> "TM-3533-29d" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#material> "zilverlegering" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3533-29d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

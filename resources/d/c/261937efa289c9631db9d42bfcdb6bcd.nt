@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN GRASROK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#description> "Vrouwenrokje.\r\nVervaardigd van aan een gordelkoord vastgeknoopte rij afhangende grashalmen. Volgens een aanhangend handgeschreven kaartje van de plant Elaeorcharis dulcis." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#identifier> "TM-6355-9" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#material> "gras" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6355-9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

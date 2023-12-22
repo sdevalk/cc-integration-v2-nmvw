@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#name> "KETTING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#description> "In Afrika werd geloofd dat dierentanden en – klauwen de speciale krachten of vaardigheden van het dier zoals snelheid, kracht, snelheid of vastberadenheid overdroegen op de drager van het sieraad. Ook zouden ze een bescherming zijn tegen kwade krachten of het ‘boze oog’. Daarnaast werden ook hangers van hout, been of een metaal in de vorm van tanden en klauwen gemaakt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#identifier> "RV-2597-32" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#material> "vezel ; klauw (dieren), hout ; schelp of steen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

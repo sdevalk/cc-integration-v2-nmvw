@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#name> "KRIS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#description> "Een kris, een kris panjang, gemaakt van gesmeed ijzer. De kris heeft een lang en recht lemmet met een middenrug (dada). Aan één kant van het lemmet is een lange punt gemaakt, de andere kant is dik en stomp. De ronde en rechte greep is van lichtbruin hout gemaakten aan het uiteinde verbreed. De bootvormige schedeopening (wrangka) is van lichtbruin hout gesneden. De schede (gandar) is van bruin hout gemaakt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#identifier> "RV-37-513" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-37-513> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .

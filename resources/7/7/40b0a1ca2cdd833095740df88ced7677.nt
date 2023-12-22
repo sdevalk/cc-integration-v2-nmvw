@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#name> "HAARPIN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#description> "Een haarpin van hout en veren. De veren komen van een papegaai. Deze haarpin is volledig bedekt met groene veren, halverwege de pin steken er 3 rood/zwarte veren uit. Aan de bovenkant van de pin steken ook een aantal papegaai veren uit. In de kleuren lichtgroen en donkergroen en rood." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#identifier> "RV-1853-62" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#material> "hout ; veren (papegaai)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-62> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

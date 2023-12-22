@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#name> "AARDEWERK PIJPENKOP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#description> "De pijpenkop bestaat uit geverfd aardewerk en is ongebruikt en nieuw. De pijp is op één deel eenvoudig versierd met strepen en puntjes die in de nog natte klei zijn ingedrukt. De steel moet er nog aan bevestigd worden. De pijpen worden gebruikt voor het roken van tabak, zowel door de mannen als de vrouwen. De inheemse naam 'Larè Tò' bestaat uit het woord 'Larè' dat 'tabak' betekent, de betekenis van 'Tò' is onbekend." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#identifier> "TM-3912-586" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#material> "aardewerk ; verf ; verven" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-586> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

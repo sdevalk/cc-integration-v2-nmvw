@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <https://colonialcollections.nl/schema#description> "[VO] zwarte man met trom tussen benen en hoed met schenkgat\r\n[KL] groen (voetstuk) & blauw (broek en sjaaltje) & zwart (lichaam) & geel (hoed en trom) & paars & bruin & donkerrood (trom)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <https://colonialcollections.nl/schema#identifier> "WM-600070" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <https://colonialcollections.nl/schema#material> "aardewerk\r\n[NA] Drioli; [PL] Italie" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <https://colonialcollections.nl/schema#creator> "Drioli" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-600070> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

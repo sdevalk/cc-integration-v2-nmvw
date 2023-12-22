@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, aan twee uiteinden geplakt op een los fotoalbumblad.\r\nOp achterkant een nummer in inkt: 3963\r\n\r\nOpname toont een redelijk grote groep donkere Indonesische mannen en vrouw, en blanke mannen en vrouwen, zittend aan staand bij een gedekte tafel. Het lijkt een deftig gebeuren te zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#identifier> "7082-nf-1113" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-1113> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

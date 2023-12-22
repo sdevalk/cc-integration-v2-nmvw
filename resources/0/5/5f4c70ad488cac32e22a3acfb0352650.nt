@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#name> "DE ONDERKOMENS VAN PLANTAGESLAVEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#description> "Ingekleurde litho naar een tekening van Théodore Bray (no. 17/25). \r\nDe huizen in het midden vertonen de meest gangbare vorm van slavenverblijven op plantages. Ze zijn gemaakt van pina- of frassarapalmen; de wanden van de gespleten stammen, het dak gedekt met de bladeren. De vrouw helemaal rechts lijkt een cassavekoek in de handen te hebben." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#identifier> "TM-3581-33k" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3581-33k> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .

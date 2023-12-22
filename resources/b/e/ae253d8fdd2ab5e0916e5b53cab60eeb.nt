@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#name> "THEEBLAD VAN GEELKOPER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#description> "Door de ophanghaakje aan de achterzijde is het voorwerp, wellicht, voor toeristen vervaardigd om te dienen als wandversiering.\r\nDecoraties in de vorm van rondjes, ruiten, arceringen, bladmotieven en een soort plambomen, zijn aangebracht met verschillende soorten beiteltjes en schraapijzers." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#identifier> "TM-4956-82" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#material> "koper ; beslaan ; vormgieten ; solderen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4956-82> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#description> "Van: A. Jung (?) , Nieuwe Afrikaansche Handels-Vennootschap (NAHV)\r\nAan: de directeur van het museum\r\nPlaats: Rotterdam\r\nTaal: Nederlands\r\n\r\nHet schip \"Afrikaan\", kapitein Vernes, heeft een kist uit de zuidwestkust van Afrika meegenomen en wordt aan het Rijks Ethnografisch Museum aangeboden. En 'Daar het de belangen der wetenschap geldt, zullen wij op deze zending noch vracht, noch onkosten berekenen.'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-11-83" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#creator> "A.A.P. (Albert Adam Peter) Jung" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-11-83> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .

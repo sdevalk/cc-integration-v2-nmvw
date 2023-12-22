@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#name> "GEWEVEN TAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#description> "Tas geweven van handgesponnen bruine wol en witte fabriekskatoen. Techniek: dubbelweefsel in kettingrips. De tasvorm ontstaat door het weefsel dubbel te slaan en de zijkanten aan elkaar te zetten. De decoratie bestaat uit twee hanen, die aan weerszijden van een gestileerd motief van een levensboom zijn geplaatst. Gestileerde plantenmotieven vullen de ruimte verder in. Aan de bovenzijde bevinden zich twee golflijnen ; aan de zijkanten wordt de scène begrensd door S-vormen die zich tot een gestileerd rankenmotief samenvoegen. De franjes zijn in 'dubbeltechniek' geknoopt ; de schouderband is rondgevlochten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#identifier> "RV-5946-30" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#material> "katoen ; wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-30> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

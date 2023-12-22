@@ -1,0 +1,65 @@
+name: Create graph
+
+# on:
+#   schedule:
+#     - cron: "0 * * * *"
+
+on:
+  push:
+    branches: ["main"]
+
+# Run a single workflow at a time
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout data repository
+        uses: actions/checkout@v4
+        with:
+          path: ./data
+      - name: Checkout code repository
+        uses: actions/checkout@v4
+        with:
+          path: ./code
+          repository: sdevalk/cc-integration-v2
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install app
+        run: |
+          cd ./code
+          npm ci
+          npx turbo run build --filter=@colonial-collections/graph-create
+      - name: Create or update a graph by querying a SPARQL endpoint
+        run: |
+          cd ./data
+          mkdir -p "$RUNNER_TEMP"
+          test -f ./queue/data.tar.gz && tar -xzf ./queue/data.tar.gz -C "$RUNNER_TEMP"
+          ../code/apps/graph-create/dist/cli.js create \
+            --resource-dir ./resources \
+            --queue-file "$RUNNER_TEMP/data.sqlite" \
+            --endpoint-url "https://api.colonialcollections.nl/datasets/data-hub/knowledge-graph/services/kg/sparql" \
+            --iterate-query-file ./queries/iterate.rq \
+            --generate-query-file ./queries/generate.rq \
+            --triplydb-instance-url "${{ vars.TRIPLYDB_INSTANCE_URL }}" \
+            --triplydb-api-token "${{ secrets.TRIPLYDB_API_TOKEN }}" \
+            --triplydb-account "${{ vars.TRIPLYDB_ACCOUNT }}" \
+            --triplydb-dataset "${{ vars.TRIPLYDB_DATASET_SG }}" \
+            --triplydb-service-name "search" \
+            --triplydb-service-type "elasticsearch" \
+            --graph-name "https://data.colonialcollections.nl/nmvw-collection-archives" \
+            --temp-dir "$RUNNER_TEMP"
+      - name: Save changes
+        run: |
+          cd ./data
+          mkdir -p ./queue
+          test -f "$RUNNER_TEMP/data.sqlite" && tar -czf ./queue/data.tar.gz -C "$RUNNER_TEMP" data.sqlite
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit --quiet -a -m "Save changes" || true
+          git push --force -u origin

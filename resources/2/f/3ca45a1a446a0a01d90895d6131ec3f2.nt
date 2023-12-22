@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#name> "SIDOARJO, EAST JAVA - LAPINDO MUDFLOW" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#identifier> "TM-T-796" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#material> "Vervaardigd door 'De Verbeelding' in opdracht van het Tropenmuseum." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#creator> "O. (Oscar) Motuloh" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-T-796> <https://colonialcollections.nl/schema#yearCreatedStart> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .

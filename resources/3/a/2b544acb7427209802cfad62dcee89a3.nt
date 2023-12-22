@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#description> "park met vijver" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#identifier> "WM-426712" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#material> "gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#creator> "Kerkhoff, W.E." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426712> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

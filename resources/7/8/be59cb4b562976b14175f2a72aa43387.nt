@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#name> "DOEK MET AFBEELDING EL HADJI AHMADOU AHIDJO" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#description> "Een moslim uit het noorden van Kameroen, Ahmadou Ahidjo, was de eerste president van Kameroen, van 1960 - 1982. Deze doek heeft als data 19 februari 1958 -1968. De eerste Kameroenese regering ontstond in 1957, waarbij in 1958 Ahidjo zijn eigen partij vormde (Cameroonian Union), waarmee hij later de verkiezingen tot president zou winnen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#identifier> "TM-6370-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#inscription> "Toile Douala Cicam" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6370-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

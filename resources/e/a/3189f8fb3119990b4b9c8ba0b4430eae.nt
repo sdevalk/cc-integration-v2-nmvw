@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <https://colonialcollections.nl/schema#name> "ENKELVELLIGE BEKERTROM VAN AARDEWERK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <https://colonialcollections.nl/schema#description> "Het vel van deze bekertrom is op het tromlichaam van aardewerk gelijmd, en tevens bevestigd door middel van spankoorden in X-vorm, van plantaardig vezel, die aan het vel geregen zijn. De onderkant van het tromlichaam is open. De trom is versierd met gele, rode en groene verf." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <https://colonialcollections.nl/schema#identifier> "TM-3492-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3492-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#name> "KRUIK MET GEOMETRISCHE DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#description> "Kruik met schijfvormige buik met aan iedere zijde een cirkel in het midden die wordt omgeven door een golfmotief. Twee driehoekige vlakken aan weerszijde zijn opgevuld met bobbeltjes. Twee oren staan op de schouders." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#identifier> "TM-3279-66" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3279-66> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

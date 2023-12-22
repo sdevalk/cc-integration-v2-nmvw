@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#name> "ZICHT OP DE MUKUNANSHI GOVERNMENT SCHOOL IN HET KASEMPA DISTRICT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#description> "Op het bord boven de toegangsweg staat 'Republic of Zambia. Ministry of Education. Mukunanshi Govt School. P.O. Box 60 Kasempa.' Volgens informatie bij de foto betreft het hier een lagere school." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#identifier> "TM-20014746" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#creator> "Drs. D. (Dick) Jaeger" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20014746> <https://colonialcollections.nl/schema#yearCreatedStart> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

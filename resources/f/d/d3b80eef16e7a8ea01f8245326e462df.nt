@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#name> "KRIS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#description> "Een kris gemaakt van gesmeed ijzer. De kris heeft een lemmet met een golvenpatroon (pamor) en drie bochten. Aan één kant van het lemmet is een getande krul (telale gajah) te zien. Aan één kant ven het opzetstuk (ganja) van het lemmet zijn scherpe punten (greneng) gemaakt. Het gebogen heft is van gevlamd hout gesneden en aan de holle kant op één plaats versierd met snijwerk. De komvormige steelring (mendak) is van hoorn gemaakt. De schede (gandar) is van geelbruin hout gemaakt en de niervormige schedeopening (wrangka) is van geel gevlamd hout (kaju pelet) gesneden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#identifier> "RV-1752-21" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; hoorn ; hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1752-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

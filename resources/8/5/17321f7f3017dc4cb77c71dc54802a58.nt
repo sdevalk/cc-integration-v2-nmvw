@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#name> "SCHILDERING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#description> "De huwelijksplechtigheid in het huis van de bruidegom. Deze schildering maakt deel uit van de serie Hito no Issho, De levensloop van de mens (zie onder Verwante objecten). De signatuur bij het gedicht op het staande enkele kamerscherm (Jp. tsuitate) rechtsonderin luidt Bunchô sho 文晁書, en verwijst naar Tani Bunchô (1763-1841), een literaat en schilder die Von Siebold ontmoette in Edo in 1826." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#identifier> "RV-1-4481-12" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#material> "Sumi inkt ; pigment ; schildering op zijde" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4481-12> <https://colonialcollections.nl/schema#yearCreatedStart> "1823"^^<http://www.w3.org/2001/XMLSchema#integer> .

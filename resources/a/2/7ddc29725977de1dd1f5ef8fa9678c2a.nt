@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <https://colonialcollections.nl/schema#name> "BLOEMLEZING VOOR DE SURINAAMSE LAGERE SCHOOL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <https://colonialcollections.nl/schema#description> "Deel 3 van de serie \"Wij en de wereld\", een bloemlezing voor het tweede tot en met het zesde leerjaar van de Surinaamse lagere scholen. Samengesteld door Anne de Vries met medewerking van Surinaamse leerkrachten. De illustraties zijn van Corrie van der Baan. Dijkstra's uitgeverij, Zeist NV." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <https://colonialcollections.nl/schema#identifier> "TM-3668-5c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3668-5c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

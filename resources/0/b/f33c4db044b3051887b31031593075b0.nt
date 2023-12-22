@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#name> "Hoofdband" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#description> "Deze band werd gebruikt ter bevestiging van de hoofdoek door de Hudhayl-bedoeienen in West-Arabië. Gesigneerd met de tekst \"sana'at Muhammad ibn Darwish ibn Habr ibn Marir\"." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#identifier> "RV-465-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#material> "riet ; hars ; paarlemoer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-465-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

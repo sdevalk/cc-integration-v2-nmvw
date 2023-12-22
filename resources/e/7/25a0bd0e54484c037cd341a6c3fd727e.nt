@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <https://colonialcollections.nl/schema#name> "VERKOOLDE MENSELIJKE BOTTEN EN SCHELPDELEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <https://colonialcollections.nl/schema#description> "Een collectie botfragmenten waarvan een deel verkoold is, en enkele schelpdelen.\r\nO.a: stukken schedeldak, dijbeenbot, stukken wervel, vingerkootjes, stukken pijpbeen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <https://colonialcollections.nl/schema#identifier> "TM-2727-200" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2727-200> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

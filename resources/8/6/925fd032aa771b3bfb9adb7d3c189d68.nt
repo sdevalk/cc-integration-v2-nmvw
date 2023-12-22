@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#name> "AALBUM MET FOTO'S VAN EEN REIS DOOR OOST-JAVA, NOORD-SUMATRA EN NOORD-PAGAÏ IN 1921-1922" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#description> "Mogelijk betreft het een reis van Anna Koorders-Schumacher (1870-1934) in het gezelschap van anderen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#identifier> "TM-FV-0401" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-FV-0401> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#name> "BESCHILDERDE BOOMBASTDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#description> "Volgens informatie van de verkoper werden \"effen boombastdoeken oorspronkelijk gebruikt bij begrafenisrituelen. Gedecoreerd boombastdoek werd gebruikt als laken, deken, etc. Het tegenwoordige gebruik is muurdecoratie, gordijnen, tafelmatten.\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#identifier> "TM-4081-15a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#material> "Boombast ; verf ; kleurmiddel ; drogen ; kloppen ; verven ; beschilderen ; met de hand vervaardigen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4081-15a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

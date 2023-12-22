@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#description> "Foto, zwart/wit, rechthoekig, ongekarteld, geheel opgeplakt.\r\n\r\nIn witte inkt geschreven bijschriften onder elke foto op dit fotoblad.\r\nOok staat onder elke foto in Romeinse nummering in het wit een cijfer.\r\nVoor deze foto staat vermeld: 'III. Keudah'. \r\n\r\nDe opname toont een straat, geflankeerd door bomen aan beide kanten. Links is een witte afbakening te zien. \r\nEr is wat verkeer op straat waaronder een tweewielig wagentje bespannen met een paard, een zgn. sado" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#identifier> "7082-nf-932-32-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, afgedrukt" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-932-32-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

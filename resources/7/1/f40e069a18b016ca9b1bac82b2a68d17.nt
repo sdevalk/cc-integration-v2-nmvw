@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#name> "KATOENEN HOOFD- EN SCHOUDERDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#description> "Stof is geweven in linnenbinding.  Versieringstechniek: over de gehele doek bevinden zich 'plangi' ornamenten, een afbindtechniek die in India met tie-and-dye of 'bandhani' wordt aangeduid.\r\nVeel bandhani werk wordt industrieel vervaardigd, als imitatie en dus gedrukt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#identifier> "TM-3751-268" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#material> "katoen ; plangi" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3751-268> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

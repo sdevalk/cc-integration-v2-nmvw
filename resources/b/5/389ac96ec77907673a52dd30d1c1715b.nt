@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3254o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3254o> <https://colonialcollections.nl/schema#name> "DWARSBALK, BEHORENDE BIJ EEN HEUPWEEFGETOUW MET EEN AGELWEEFSEL IN SLINGERDRAADBINDING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3254o> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3254o> <https://colonialcollections.nl/schema#identifier> "TM-H-3254o" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3254o> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3254o> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

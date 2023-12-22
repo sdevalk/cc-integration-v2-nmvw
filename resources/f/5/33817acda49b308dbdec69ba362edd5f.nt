@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#name> "DE PRIVÉ AUDIËNTIEHAL VAN SHAH SAFI I VAN PERZIË" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#identifier> "IB2022-01-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#material> "papier, dekverf, verf, gouache (waterverf); penseel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#creator> "anoniem" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1649"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/IB2022-01-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1625"^^<http://www.w3.org/2001/XMLSchema#integer> .

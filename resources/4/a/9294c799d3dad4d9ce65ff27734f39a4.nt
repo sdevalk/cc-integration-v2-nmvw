@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#name> "BAMBOE TABAKSKOKER MET LEREN DOPPEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#description> "De tabakskoker wordt om de hals gedragen. Vaak wordt zo'n koker mooi besneden en met kralen versierd, wat bij dit exemplaar niet het geval is. De koker is uit bamboe gesneden en voorzien van leren doppen aan de uiteinden die het geheel afsluiten. Aan de doppen is een leren band vastgenaaid." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#identifier> "TM-3435-8a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#material> "bamboe" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3435-8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

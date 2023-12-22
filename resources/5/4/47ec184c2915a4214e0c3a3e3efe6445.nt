@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <https://colonialcollections.nl/schema#name> "HOUTEN NEKSTEUN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <https://colonialcollections.nl/schema#description> "Men slaapt met de nek op de steun, het hoofd naar een zijkant gekeerd.\r\nnek- of hoofdsteunen komen in heel Afrika voor. Men slaapt er vooral op om ingewikkelde kapsels te beschermen. Aan de versieringen is vaak af te lezen van wie de neksteun is geweest, en dan vooral zijn of haar sociale positie. Sommige neksteunen zijn draagbaar." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <https://colonialcollections.nl/schema#identifier> "TM-2363-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2363-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

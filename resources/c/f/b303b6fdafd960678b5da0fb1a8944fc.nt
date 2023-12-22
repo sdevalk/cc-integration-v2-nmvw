@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#name> "OMSLAGDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#description> "Een omslagdoek gemaakt van grof geweven katoen. De doek bestaat uit twee banen, die in de lengte aan elkaar zijn genaaid. De doek is donkerblauw met aan beide kanten twee brede roodbruine banen, waarin blauwe lijnen, met daartussen een lichtblauwe baan. Het grote middenveld is blauw en wit gespikkeld. De uiteinden hebben korte franjes." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#identifier> "RV-839-37" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-839-37> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

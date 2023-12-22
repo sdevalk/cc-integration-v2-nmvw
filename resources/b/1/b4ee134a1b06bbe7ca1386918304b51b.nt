@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#description> "Op deze pagina's is de Arabische tekst van het laatste deel van hoofdstuk 17 en het eerste deel van hoofdstuk 18 uit de Koran in het zwart gekalligrafeerd. Onder elke Arabisch vers staat de Perzische vertaling in het rood geschreven. De twee hoofdstukken worden van elkaar onderscheiden door een gouden cartouche met daarin de naam van het hoofdstuk (soerat al-kahf), het aantal verzen (110) en dat het is geopenbaard in Mekka. Het einde van elke versregel is gemarkeerd met een gouden blaadje.\r\n\r\nKL] zwart & goud & rood & blauw\r\n[VO] dubbelzijdig" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#identifier> "WM-75735" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#material> "papier & inkt & goud & hout\r\ngekalligrafeerd in schriftstijl naskh (Arabisch) en nasta'liq (Perzisch)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#creator> "anoniem" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-75735> <https://colonialcollections.nl/schema#yearCreatedStart> "1775"^^<http://www.w3.org/2001/XMLSchema#integer> .

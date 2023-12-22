@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#name> "ZILVEREN BROCHE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#description> "De signatuur en het merkteken zijn op een apart plaatje vermeld, dat op de broche is gesoldeerd. De broche lijkt echter van verzilverd roodkoper te zijn." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#identifier> "TM-5113-35" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#material> "zilverlegering ; hameren ; drijven ; ciseleren" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5113-35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#name> "VISSERSSCHEPEN OP HET STRAND MET DAARNAAST UITGESPREIDE VISNETTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#description> "De opname toont de vissersschepen op het droge waardoor duidelijk te zien is dat zij gekapt zijn uit één enkele boomstam." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#identifier> "TM-20010005" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#creator> "A.P. (André) Schaller" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-20010005> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

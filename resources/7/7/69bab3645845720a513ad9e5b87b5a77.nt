@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#name> "RAFFIA WEEFSEL, VOORAL GEBRUIKT OM REGENKLEDING VAN TE MAKEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#description> "Volgens bijgeleverde informatie wordt het weefsel gebruikt als kledingstof om bijvoorbeeld mannenjassen of omslagdoeken voor vrouwen van te maken. Dit soort weefsel wordt ook gebruik voor tafelkleden, wandkleden of gordijnen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#identifier> "TM-2739-56a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#material> "Raffia ; linnenbinding" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2739-56a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

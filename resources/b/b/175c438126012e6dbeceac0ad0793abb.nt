@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#name> "KORAN, 30E DEEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#description> "This manuscript contains the final section of a Qur’an bound in 30 separate parts. The text was written in gold and outlined in ink, and the vowel signs were added in blue. In the 19th century, the damaged margins of each page were replaced by inserting the text area into a paper frame." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#identifier> "TM-ib-2013-01-07" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#material> "Gold, ink and colours (opaque watercolours / gouache) on paper; leather binding over pasteboard." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#yearCreatedEnd> "1340"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ib-2013-01-07> <https://colonialcollections.nl/schema#yearCreatedStart> "1330"^^<http://www.w3.org/2001/XMLSchema#integer> .

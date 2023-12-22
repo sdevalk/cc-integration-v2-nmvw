@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#description> "paleis : Purana Kila (Old Fort) & ruine & muur" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#identifier> "WM-904350" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#material> "[MT] papier & karton\r\n[TK] albuminedruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#creator> "Samuel Bourne" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-904350> <https://colonialcollections.nl/schema#yearCreatedStart> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .

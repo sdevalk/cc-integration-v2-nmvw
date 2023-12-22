@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#name> "SIERKALEBAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#description> "Dit object is gemaakt van een halve kalebas. Het is versierd aan de buitenkant met een schuit en vlaggen. Verder is de buitenrand versierd met een motief. Dit is door bas reliëf toe te passen, waardoor de versiering hoger staat dan de ondergrond.\r\nDit object diende vermoedelijke ter versiering in huis, waar het bijvoorbeeld opgehangen werd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#identifier> "RV-370-380" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#material> "kalebas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-380> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

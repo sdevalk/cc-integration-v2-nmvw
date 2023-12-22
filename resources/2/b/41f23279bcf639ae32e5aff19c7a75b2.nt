@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#name> "TROM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#description> "Een trom gemaakt van een groot rond stuk hout. De trom is geheel uitgehold. De trom heeft een kegelvormige ronde voet. De voet is versierd met twee rondgaande banden. Op de voet staat een hoog naar boven breder uitlopend deel dat bespannen is met een leren vel. De wand is versierd met snijwerk, in het midden een zigzagrand met aan weerszijden halve cirkels. Hieronder kruisfiguren met bladvormen aan de vier uitsteeksels. Daarnaast een symmetrisch spiralenmotief. Het vel wordt met touwen aan een rotanband met wiggen gespannen. Veel wiggen ontbreken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#identifier> "RV-3828-38" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#material> "hout ; leer ; rotan ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-38> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#description> "Het ploegen van het rijstveld als een typische bezigheid in de 4e maand. Voor meer informatie, zie onder 'Verwante objecten.'\r\nHet ploegen van het land in de vierde maand\r\nEen boer leidt zijn os met ploeg over het land als voorbereiding van het planten van de rijstplantjes. Enkele huizen in de voorgrond, verder rijstvelden zover het oog reikt.\r\nKawahara Keiga, ongesigneerd, met zegel: Keiga\r\nSchildering in inkt en pigmenten op zijde, 1826" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#identifier> "RV-360-4351" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#material> "Sumi inkt ; pigmenten ; schildering op zijde" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-4351> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#description> "GE : documentaire\r\nHM : [PE] man & vrouw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#identifier> "WM-603548" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#material> "papier\r\ngegraveerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#creator> "C. N. Cochin" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#creator> "Jacobus van der Schley" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-603548> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <https://colonialcollections.nl/schema#name> "BLAASBALG VAN EEN SMID" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <https://colonialcollections.nl/schema#description> "De dubbele blaasbalg heeft twee luchtkamers die ieder afzonderlijk in verbinding staan met een eigen pijpje. De twee zuigers, waarvan het binnenwerk (haren, leer?) niet zichtbaar is, worden door de assistent van de smid vertikaal heen en weer bewogen om het vuur aan te wakkeren." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <https://colonialcollections.nl/schema#identifier> "TM-5633-54" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5633-54> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

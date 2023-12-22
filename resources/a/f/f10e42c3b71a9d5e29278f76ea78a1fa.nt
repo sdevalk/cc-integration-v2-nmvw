@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#description> "brief aan Ministerie van Binnenlandse Zaken t.a.v. referendaris Jhr. mr. Victor de Stuers. Het betreft een klacht door hem in het \"klagten boek\" vermeld. \r\nDe jhr bezoekt op 7 october het museum dit resulteert in onaangename bevindingen. \r\nDe directeur vraagt om een nadere en \"nauwkeurige aanduiding\" van zijn bevindingen, tijdens zijn bezoek op 7 october aan het museum." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-3-17" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#creator> "Victor de Stuers" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-3-17> <https://colonialcollections.nl/schema#yearCreatedStart> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#name> "SIRIHDOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#description> "Een sirihdoos gemaakt van rechthoekig gevlochten, ongekleurde lontarbladrepen. De rechthoekige doos heeft een voor de helft overschuivend deksel. De wand van de doos is versierd met rode repen, die golvende figuren vormen. De bovenkant van het deksel heeft hoekfiguren en ruitvormige figuren in rood. De randen zijn versterkte met brede zwarte en rode repen, die op verschillende plaatsen zijn omwikkeld met dunne repen. Aan één kant van de doos zijn de zwarte repen van het deksel voorzien van een schuin kruis. In de doos een tweede doos." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#identifier> "RV-26-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#material> "blad (lontar) ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

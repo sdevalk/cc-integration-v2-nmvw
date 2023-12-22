@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#name> "HOUTEN SCHRIJFPLANK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#description> "Op de plank staat geschreven: Napolion itoelah soedah beroleh kemenangan diatas kemenangan, akan tetapi pada achirnja ya haros kalah djoega. Deminicus Mustamu. Napoleon heeft een overwinning op een overwinning behaald, maar uiteindelijke heeft hij ook verloren. \r\nVermoedelijk is het een met inkt geschreven leerproef van schoonschrift, door Ambonese leerlingen van een school op Ambon ingeleverd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#identifier> "TM-15-957c" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#inscription> "Het nummer 34 is ingebrand." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-15-957c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

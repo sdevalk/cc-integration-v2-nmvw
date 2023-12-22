@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#name> "OMSLAGDOEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#description> "Een omslagdoek gemaakt van eigengesponnen katoen en rechthoekig van vorm. De doek bestaat uit twee in de breedte aan elkaar genaaide banen. Aan de smalle uiteinden hangen franjes, die gevormd worden door de in elkaar gedraaide scheringdraden. Ze gaan uit van de sluitrand, die een patroon heeft van zwarte en witte ruiten en gele en rode lijnen. Deze worden gevormd door de gekleurde inslagdraden, die aan beide zijden als franjes uitsteken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#identifier> "RV-858-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-858-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

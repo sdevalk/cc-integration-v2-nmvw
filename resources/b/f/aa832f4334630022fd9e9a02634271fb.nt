@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#description> "Hanger in de vorm van een bijl met de voorstelling van een bijlgod of man. Het gezicht zit bovenaan. Boven de ogen loopt een band met een V-vormige patroon van lijntjes. De neus en mond vormen een ruitvorm. De handen rusten voor op het lichaam. Onder de handen wordt door middel van een driehoek met 'franje' kleding weergegeven. De doorboring zit op neushoogte." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#identifier> "WM-44783" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#material> "jadeiet" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-44783> <https://colonialcollections.nl/schema#yearCreatedStart> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .

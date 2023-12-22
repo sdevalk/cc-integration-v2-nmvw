@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#name> "INDONESISCH GEZIN NA TERUGKEER VAN EEN PELGRIMSTOCHT NAAR MEKKA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#description> "Pelgrims in feestgewaad van de ms Tawali worden in de haven van Tanjung Priok (Jakarta) gedebarkeerd, 2 december 1947. De ms Tawali was een vrachtschip met passagiersaccommodatie van de Stoomvaart Maatschappij Nederland." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#identifier> "TM-60029103" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#creator> "D. (Daniel) van der Meulen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60029103> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

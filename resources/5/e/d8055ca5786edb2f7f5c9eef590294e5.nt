@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#name> "GORDELVERSIERING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#description> "Een gordel/heupversiering van onder andere papegaai veren.\r\nHet zijn 6 langwerpige \"lianen\" van 40 cm per stuk. Ze zijn alle 6 aan het begin bij elkaar gebracht en vastgemaakt door middel van een koord. Alle 6 lianen zijn gemaakt van gekleurde veren: bruin, groen, zwart. De uiteinden van de lianen zijn versierd met grote/lange veren die hangen. De veren aan het eind zijn in verschillende kleuren; zwart, groen, rood, bruin en blauw, wit." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#identifier> "RV-1853-74" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#material> "veren" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1853-74> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

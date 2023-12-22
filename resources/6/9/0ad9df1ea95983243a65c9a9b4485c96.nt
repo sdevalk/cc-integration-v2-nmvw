@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#name> "OORLOGSPIJL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#description> "3 oorlogspijlen van bamboeschacht waarvan 2 met ingesneden ringen. In het dikke schachteinde is met zwarte woeling een zwartbruine palmhouten punt geplaatst, met vierkante dwarsdoorsnede, op de ribben  zijn 12 en 15 paar bijna symetrische weerhaken ingesneden.\r\nbij A: is de doorsnede bijna plat ruitvormig, waar op de randen zes symetrische groepen van twee weerhaken zijn gesneden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#identifier> "RV-1971-1449" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#material> "bamboe ; hout, palmhout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1449> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

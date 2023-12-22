@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <https://colonialcollections.nl/schema#name> "PRENT MET RELIGIEUZE TEKSTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <https://colonialcollections.nl/schema#description> "Onderaan staat de signatuur van de kalligraaf en het jaartal 1317 van de islamitische jaartelling, dit komt ongeveer overeen met het jaar 1899-1900 van de christelijke jaartelling. Het jaartal verwijst naar de datum waarop de kalligrafie is gemaakt. Middenonder de tekst staat de signatuur van de Syrische kalligraaf; Rassa." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <https://colonialcollections.nl/schema#identifier> "TM-4849-364" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4849-364> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

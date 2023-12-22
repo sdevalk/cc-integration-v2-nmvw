@@ -1,6 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-21403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-21403> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-21403> <https://colonialcollections.nl/schema#identifier> "WM-21403" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-21403> <https://colonialcollections.nl/schema#inscription> "[T] 1    = Unio Cumidus (2 van dit soort schelpen)\r\n      2-3 = P.v. D. mayotte (op 2 van 6 cypraea tigres)\r\n      4    = Meleagrina margaritifera Lin (20 van dit soort schelpen)\r\n      5    = 2 Unio pictorum Lin 1 Unio tumidus Reda Komen in\r\n               Europa o.a. Nederland voor, niet op Soemba\r\n      6    = Haliotis asinina Lin Soemba (41 van dit soort schelpen)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-21403> <https://colonialcollections.nl/schema#material> "schelp (Cypraea tigris)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-21403> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .

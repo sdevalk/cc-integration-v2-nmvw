@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#name> "STRALENKRANS (FRAGMENT)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#description> "Fragment van een vergulde bronzen halo, voorstellend de Bodhisattva Samantabhadra (?). De Bodhisattva staat op een lotus-voetstuk, tegen de achtergrond van bloemenranken. Het attribuut in zijn beide handen is een drievoudig juweel op een lotus." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#identifier> "RV-2845-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#material> "Verguld brons" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2845-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1600"^^<http://www.w3.org/2001/XMLSchema#integer> .

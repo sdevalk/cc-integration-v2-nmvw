@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#name> "TAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#description> "Het weven van plantaardig materiaal heeft een lange geschiedenis in Mexico. Voor het maken van stoffen gebruikte men allerlei vezels, waaronder ook die van de agave plant. Deze wordt gebruikt door de Huastec in Veracruz om stevige schoudertassen te maken. Men haalt de bladeren van de plant tussen twee stokjes door om de pulp te verwijderen. Dan worden de witte vezels die overblijven gedroogd en soms geverfd voordat ze worden gewoven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#identifier> "RV-5715-57" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#material> "sisal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5715-57> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

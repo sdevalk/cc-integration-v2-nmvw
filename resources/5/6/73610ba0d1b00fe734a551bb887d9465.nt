@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#description> "Kruik met op de drie poten lange cilindervormige voorwerpen gemodelleerd in hoogreliëf. In het centrum zit een spleet die geflankeerd wordt door brede banden. De uiteinden zijn versierd met diepe L-vormige groeven. Het voorwerp rust op de rug van telkens zes dieren, waarschijnlijk jaguars. Mogelijk stellen de cilinders spleet-drums voor." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#identifier> "WM-55951" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#material> "aardewerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-55951> <https://colonialcollections.nl/schema#yearCreatedStart> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#name> "JACHTPIJL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#description> "Zeven jachtpijlen van dunne bruine bamboeschacht. In het dikke einde is een zwart houten pen gestoken en met omwoeling en hars vastgezet, tegen deze punt is een zeer dun en puntig lancetvormige bamboepunt vastgezet met een woeling van vezel of bamboe en met hars besmeerd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#identifier> "RV-1971-1388b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#material> "bamboe ; hout ; vezels ? ; hars" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1388b> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <https://colonialcollections.nl/schema#name> "GLANSKATOENEN VAANTJE MET AFBEELDINGEN VAN DE H. MAAGD VAN GUADELUPE EN PAUS JOHANNES PAULUS II, SOUVENIR" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <https://colonialcollections.nl/schema#description> "Op dit vaantje staan afbeeldingen van de Heilige Maagd van Guadelupe en van paus Johannes Paulus II, ter herinnering aan het bezoek van laatstgenoemde aan Mexico in 1990." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <https://colonialcollections.nl/schema#identifier> "TM-5290-232" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5290-232> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

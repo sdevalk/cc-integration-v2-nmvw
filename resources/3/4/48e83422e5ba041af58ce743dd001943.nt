@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#name> "EEN RITUEEL OP EEN BEGRAAFPLAATS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#description> "Een aantal mensen staat rond een begraafplaats. Op de voorgond ligt een kleine bundel met offers voor de overledene. De man linksvoor draagt alleen een kamisa, een lendendoek, en evenals de overige aanwezigen, een witte hoofdband. Hij is een ritueel specialist, en giet vloeistof rondom het graf, dat is gemerkt met een figuratieve gedenksteen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#identifier> "TM-3626-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#creator> "T. (Théodore) Bray" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3626-7> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#description> "[VO] gevorkt (lemmet)\r\n[DE] knop (schede) & portret van krijger (10) in medaillon & vis & vogel & bloem\r\nDeze dolk maakt deel uit van een rituele wapenuitrusting. Het wapen is met veel vakmanschap en met kostbare materialen versierd. Zo is er verguld zilver op verwerkt. Het lemmet van de dolk heeft de vorm van een drietand. De dunnere tanden passen door de mazen van het maliënkolder van de tegenstander. De dolk is versierd met schoonschrift." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#identifier> "WM-7702" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#inscription> "[B] Arabisch schrift (Perzisch)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#material> "staal, hout, textiel, verguld zilver (decoratie)\r\ngegoten & gegraveerd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-7702> <https://colonialcollections.nl/schema#yearCreatedStart> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .

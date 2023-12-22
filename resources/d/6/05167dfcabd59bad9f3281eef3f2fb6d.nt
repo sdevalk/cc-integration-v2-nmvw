@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#name> "AARDEWERKEN STOOFPOT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#description> "De tajine is een geheel uit aardewerk vervaardigde stoofpot en dient voor het langzaam bereiden van gerechten. De tajine bestaat uit twee delen, een schotel en een puntvormige deksel. Hierin wordt onder andere couscous bereid." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#identifier> "RV-4399-121" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4399-121> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

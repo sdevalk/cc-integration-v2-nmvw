@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#name> "STAATSIEDOLK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#description> "Een dolk, een staatsiedolk, gemaakt van gesmeed ijzer. Het lemmet is licht gebogen met voor de helft een middenrug. De onderkant van het lemmet is versierd met zilveren beslag. De ronde greep is van zilver gemaakt eindigend in een knop en versierd met geciseleerde bladornamenten. De schede is van zilver gemaakt en aan het uiteinde versierd met een knop." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#identifier> "RV-2505-7" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#material> "ijzer ; zilver" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2505-7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .

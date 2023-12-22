@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#name> "VOOROUDERBEELD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#description> "Een voorouderbeeld gemaakt van lichtbruin hout. Het beeld stelt een vrouw voor. De man staat op een rechthoekig voetstuk met gebogen knieen. Het lichaam is lang rechthoekig met aan de zijkanten de licht uitgesneden gebogen armen. De borsten zijn klein weergegeven. Het hoofd is groot met vierkante ooggaten waarin knopen zijn bevestigd. Het achterhoofd is puntig gesenden. Het beeld heeft een forse neus en een kleine mond. Aan de zijkanten de vaag aangegeven oren.\r\nHet beeld werd gebruikt tijdens een offerritueel." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#identifier> "RV-3828-43" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#material> "hout ; knoop" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3828-43> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

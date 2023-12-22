@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#name> "Ijzergeld" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#description> "Kop inventarislijst : Congo Rivier tusschen Stanley Pool en Stanley Falls\r\n\r\nTekst van Zeilinga : Voorstellende de gangbare munt van Stanley Falls en omstreken, aldaar ingevoerd door de Arabieren, de welke ze uit Kasongo laten halen waar zij in groote getale gemaakt worden, de handelswaarde staat gelijk met twee gekleurde zakdoeken ter waarde van 25 cents Holl." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#identifier> "RV-595-22" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#material> "ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-595-22> <https://colonialcollections.nl/schema#yearCreatedStart> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .

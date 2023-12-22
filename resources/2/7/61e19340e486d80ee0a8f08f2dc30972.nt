@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN DANSENDE VROUW" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#description> "Foto in passe-partout waarop een Haratin-vrouw is te zien tijdens een ahwash-dans.\r\n\r\nHet passe-partout is gesigneerd door de fotograaf, Jean Besancenot (1902-1992), en door hem voorzien van de tekst: \"Femme de la population harratine au cours de l'awach. A quelques variantes près, c'est un échantillou de la parure d'argent et ambre portée parles femmes des dernières palmeraies du Sud occidental marocain avant de parvenir aux étentues désertigues du Sahara.\"" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#identifier> "TM-60061217" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#creator> "J. (Jean) Besancenot" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60061217> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

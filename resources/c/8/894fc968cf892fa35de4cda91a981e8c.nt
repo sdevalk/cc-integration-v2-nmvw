@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#name> "GROOT MALTEZER KRUIS, ZIJNDE EEN VERSIERSEL VOOR EEN RIDDER IN DE ORDE VAN ORANJE NASSAU, MET BIJBEHORENDE LINTEN EN OORKONDE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#description> "In 1929 uitgereikt aan J. Tijssen voor zijn verdiensten als directeur-geneesheer van het Centraal Planters Hospitaal te Langsa." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#identifier> "TM-4274-12a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4274-12a> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

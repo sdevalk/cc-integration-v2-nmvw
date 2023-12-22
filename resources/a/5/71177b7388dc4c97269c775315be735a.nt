@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <https://colonialcollections.nl/schema#name> "BAMBOE KOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <https://colonialcollections.nl/schema#description> "In de open hut waarin het beeld van Atuf stond opgesteld hing deze bamboe koker met daarin twee lanspunten. Hij was gewoon deze in het ondereind van zijn bamboe boomstokken te steken, om uitglijden te voorkomen, iets wat alleen door Atuf werd gedaan." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <https://colonialcollections.nl/schema#identifier> "TM-393-7a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-393-7a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

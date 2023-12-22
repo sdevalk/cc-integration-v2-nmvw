@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#name> "KAPMES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#description> "Het kapmes wordt volgens de heer Bijleveld gebruikt voor het kappen van lang gras. De heer Leijten voegt er nog het volgende aan toe: de agrariër leunt met de linkerhand op een houten stok om de rug te ontlasten, met de rechterhand kapt hij het gras met het gebogen uiteinde van het lange kapmes.\r\nHet mes is gekocht te Bumala. Het mes is een fabrieksprodukt uit Polen. In het lemmet staat het produktstempel 'Dragon No 320 - Made in Poland'. Daarnaast een Draakje. Waarschijnlijk is het lemmet vervaardigd uit een platte ijzeren staaf die niet bedoeld was als lemmet voor een wiedmes." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#identifier> "TM-4261-45" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; metaalbewerken ; snijden" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-4261-45> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#name> "SIRIHTAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#description> "Een sirihtas gemaakt van geweven katoen. De tas is rechthoekig van vorm en bestaat uit een lengte doek, die in de breedte aan elkaar is genaaid en aan één kant is dichtgenaaid. De tas is versierd met banen in de breedte in de kleuren rood, blauw en wit. Sommige banen laten uitgerekte ruiten zien en andere motieven, die zijn geïkat." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#identifier> "RV-365-24" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#material> "katoen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-365-24> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

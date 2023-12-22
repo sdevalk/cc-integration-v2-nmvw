@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#name> "VUURDOOS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#description> "Langwerpig vierkant doosje met opschuivend deksel, vanboomschors vervaardigd, de einden van de stukken schors met kettingachtige steken van rotanrepen aaneengenaaid. behoort bij een vuurslag en dient voor het bewaren van zwam, die van dezelfde boom als de schors wordt verkregen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#identifier> "RV-929-359" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#material> "boomschors ; rotan ; zwam" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-929-359> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

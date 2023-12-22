@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#name> "KRUIK MET DIERENFIGUREN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#description> "Kruik met rode verticale strepen, met op de schouders twee gemodelleerde dierenfiguren, mogelijk kikkers. / Orange superhemispherical vessel with a flared rim. Features red vertical negative-resist stripes on the shoulders with two sculpted animal figures (also called adornos), possibly frogs." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#identifier> "RV-358-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#material> "aardewerk / ceramic" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-358-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

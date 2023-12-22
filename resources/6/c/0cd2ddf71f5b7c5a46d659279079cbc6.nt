@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#name> "WEEFSELFRAGMENT MET GESTILEERDE SLANGEN EROP AFGEBEELD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#description> "Weefselfragment met in elkaar hakende gestileerde slangen. Hun lichamen tonen een kartelrand.\r\nHoort bij 3842-872.\r\n\r\nVervaardiging\r\nScheringrips, deze binding is theoretisch een linnenbinding maar scheringsdraden dekken inslagdraden.\r\nOude kaart: inslag en schering : Z-gesponnen, S-getwijnd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#identifier> "TM-2089-11" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2089-11> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

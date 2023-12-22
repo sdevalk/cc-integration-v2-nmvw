@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#name> "BEELD: BODHIDHARMA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#description> "Beeld van een man, van porselein, van middelbare leeftijd met korte ringbaard en knevels, waarschijnlijk Bodhidharma; de borst onbedekt, de ribben zeer zichtbaar. Over het onderkleed een grote, wijde mantel die het hoofd bedekt, over de schouders neerdaalt, de linkerarm en de linkerhand verbergt, en met een der einden over de rechterbenedenarm geslagen is. In de rechterhand houdt hij voor de borst een schoen. Sporen van bruine beschildering. Zeer gebarsten; op de rug is een stuk verloren gegaan. Het beeld schijnt, naar het uiterlijk te oordelen, enige tijd onder de grond, wellicht op een vochtige plaats gelegen te hebben." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#identifier> "RV-190-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#material> "porselein ; Blanc de Chine" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-190-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1644"^^<http://www.w3.org/2001/XMLSchema#integer> .

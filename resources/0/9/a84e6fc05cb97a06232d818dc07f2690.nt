@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#name> "OUDERLIJK HUIS VAN MELCHIOR TREUB AAN DE VOORSTRAAT TE VOORSCHOTEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#description> "Dit is het ouderlijk huis van de familie Treub aan de Voorstraat in Voorschoten. De gebroeders Treub studeerden in de voorkamer op de begane grond." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#identifier> "TM-6459-2" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#creator> "J.A. Last" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6459-2> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

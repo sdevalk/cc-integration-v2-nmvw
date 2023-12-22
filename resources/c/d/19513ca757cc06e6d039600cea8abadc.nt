@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <https://colonialcollections.nl/schema#name> "KAM VAN BAMBOE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <https://colonialcollections.nl/schema#description> "Dit object is verzameld tijdens de Wichmann Expeditie naar Noord-Nieuw-Guinea van 1903.\r\n\r\nVervaardiging\r\nHaarkam, bestaande uit 17 bamboe pennen, evenveel tanden vormend, die naast elkaar bevestigd zijn door een aantal omvlechtingen die samen een langgerekt handvat vormen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <https://colonialcollections.nl/schema#identifier> "TM-A-78" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-78> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

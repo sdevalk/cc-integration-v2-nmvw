@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#name> "HOOFDBAND" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#description> "Een hoofdband gemaakt van gevlochten palmblad. Het vlechtwerk is aan de buitenzijde tweekleurig, zwart en geel. De buitenkant laat rechthoeken zien met kruisvormen in naturel en zwart. De binnenzijde bestaat uit rechthoekige vlakken in wit en zwart. Op een plaats is een blad om de band gewikkeld met een uitstekend deel. Over deze band een kruisvormige versiering in zwart.\r\nDit type wordt door ongehuwde mannen gedragen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#identifier> "TM-1468-172" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#material> "palmblad ; verf ;  gevlochten ; gesneden ; geverfd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1468-172> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

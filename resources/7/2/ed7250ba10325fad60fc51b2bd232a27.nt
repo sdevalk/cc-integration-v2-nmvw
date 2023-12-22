@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#name> "STAPELDOOS VOOR HET OPDIENEN VAN ZOETE HAPJES OF GEBAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#description> "Driedelige stapeldoos met hengsel van gelakt hout. Dient voor het opdienen van zoete hapjes of gebak. Decoraties in goudlak hiramakie van draden en anjers. Hoogstwaarschijnlijk voor gebruik bij het Tanabata-feest op de 7e dag van de 7e maand.\r\n\r\nEngelse tekst\r\nThree-tiered stacked box with handle, lacquered wood, for serving snacks. Decorations in gold lacquer representing threads and carnations." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#identifier> "RV-1-1909" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#material> "hout ; papier ; lak ; lakwerk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-1909> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

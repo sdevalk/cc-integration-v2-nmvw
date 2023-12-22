@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#description> "Regenten familie poseert in de huiskamer van de regentenwoning met exclusieve javaanse meubelen. Een portret van koningin Wilhelmina staat op een schildersezel." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#identifier> "WM-426672" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk, glas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#creator> "Kerkhoff, W.E." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-426672> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

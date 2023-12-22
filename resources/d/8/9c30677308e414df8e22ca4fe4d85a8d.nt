@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#name> "MONDHARP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#description> "Een mondharp gemaakt van een lengte bamboe. Het instrument is lang rechthoekig van vorm met aan één uiteinde een punt. Hieraan wordt de harp getokkeld. Het middengedeelte is dunner gesneden met daarin de verende tong, die aan het ene einde plat, aan de andere kant driehoekig is. Het stompe einde is omwikkeld met rood garen met een koordje dat eindigt in een rood kwastje. Het koordje loopt door een gat in de bodem van de bijbehorende bamboekoker met het kwastje aan de buitenkant. De opening van de koker is versierd met ingesneden kruisende lijnen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#identifier> "RV-1183-171" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#material> "bamboe ; garen ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1183-171> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#name> "Schrijfdoos" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#description> "Platte vierkante doos met deksel. Aan de binnenzijde zwartgelakt met verspreid nashiji, aan de buitenzijde effen zwart gelakt. De deksel is aan de binnenzijde versierd met momiji-bladeren varierend van kleur op een achtergrond van verspreid nashiji. De versiering van de buitenzijde van de deksel bestaat uit verschillende planten, waarvan de bladeren in goud, de bloemen in zilver zijn aangebracht op effen zwarte achtergrond. Vermoedelijk heeft de doos gediend als schrijfdoos, waarvan de inhoud ontbreekt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#identifier> "RV-2502-6" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2502-6> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

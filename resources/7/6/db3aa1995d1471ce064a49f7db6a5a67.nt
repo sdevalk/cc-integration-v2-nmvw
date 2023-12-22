@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#name> "AANTAL METALEN MAATVORMEN, VERMOEDELIJK VOOR HET METEN VAN HET KARAAT VAN EDELSTENEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#description> "Aantal maten, vermoedelijk voor edelstenen, aan een pin. Dhr. van Stuyvenberg, voormalig hoofdinspecteur van het pandhuiswezen in Nederlands-Indië, opperde de mogelijkheid dat deze maatjes gebruikt werden voor het inschatten van het karaat van briljanten en diamanten, misschien door Chinese juweliers.\r\nDe maatjes zijn genummerd in Romeinse cijfers.\r\nHet materiaal is een wit metaal, mogelijk tin." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#identifier> "TM-3934-47" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#material> "metaal ; metaalbewerken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3934-47> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

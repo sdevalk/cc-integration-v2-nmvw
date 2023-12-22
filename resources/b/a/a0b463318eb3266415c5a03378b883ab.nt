@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#name> "FOTO'S" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#description> "Vier foto's van Koeta Radja. Van links met de klok mee: plaatsbureau, station, poort van de kraton bij de hoofdwacht, receptiezaal van de gouverneur." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#identifier> "RV-3977-2-61" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#material> "papier ; fotopapier ; fotografische afdruktechnieken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3977-2-61> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

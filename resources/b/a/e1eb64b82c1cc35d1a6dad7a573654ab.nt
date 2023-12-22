@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#name> "SIRIHTAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#description> "Een tas gemaakt van geweven katoen. De tas is op verschillende plaatsen voorzien van extra weefsel. De tas is versierd met diagonale ruitfiguren, in verschillende kleuren op een donkerblauwe ondergrond. De bovenzijde is met rood katoen afgehecht. Hierop vastgemaakt zijn zigzaglijntjes van kralensnoeren. Van de bovenkant hangen lange kralensnoeren af. Het hengsel bestaat uit in elkaar geknoopte draden katoen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#identifier> "RV-3948-37" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#material> "katoen ; kralen ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3948-37> <https://colonialcollections.nl/schema#yearCreatedStart> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

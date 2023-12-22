@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#name> "Cape, behorend tot de kleding van de hômonsha" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#description> "Een cape, behorend tot de kleding van de hômonsha. Gevlochten van rijststro. Er is ook zeewier in verweven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#identifier> "RV-3437-105" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#material> "stro, rijststro ; zeewier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3437-105> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

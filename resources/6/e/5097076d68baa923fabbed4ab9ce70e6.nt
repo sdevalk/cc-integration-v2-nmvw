@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#name> "ZITBANK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#description> "Zitbank die enkel door mannen gebruikt wordt. De zitbank is gemaakt uit één stuk hout. Het rechthoekige zitvlak wordt gedragen door twee steunvlakken, die nagenoeg loodrecht op de zitplank staan. Het bankje is onversierd. Het bankje dat door de Goeje in de illustraties die toegevoegd zijn aan zijn IAE publicatie weergegeven is, is naar eigen zeggen meer versierd dan gewoonlijk. Waarschijnlijk waren de meeste Wayana zitbankjes dus waarschijnlijk van het soort dat hier weergegeven wordt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#identifier> "RV-2352-194" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#material> "Hout" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2352-194> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

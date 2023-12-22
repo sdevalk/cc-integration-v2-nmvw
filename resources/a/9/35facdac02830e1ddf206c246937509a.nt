@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#description> "Brief van de hr. Spitzly te Paramaribo aan de hr. Serrurier met dank voor het toezenden van een exemplaar van \"De Pionier\". Tevens toezegging om t.z.t. verzamelde voorwerpen toe te sturen ook enkele prive details." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#identifier> "NL-LdnRMV-A1-16-481" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#creator> "Spitzly, dr. J.H." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/NL-LdnRMV-A1-16-481> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

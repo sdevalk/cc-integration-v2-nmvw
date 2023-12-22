@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#description> "Leden van de politieschool in Sukabumi, waarvan de meeste van inheemse afkomst zoals Ambonnezen, Menadonezen en Javanen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#identifier> "WM-419983" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#material> "daglicht gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#creator> "Kerkhoff, W.E." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419983> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

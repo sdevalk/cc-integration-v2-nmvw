@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#name> "OVERHEMD MET GROVE MODERNE BLOEMEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#description> "Overhemd met donkerblauwe ondergrond met grote, ruwe bloemvormen. Verzamelaar Veldhuisen noemt het abstracte schilderingen. De batik was bestemd voor alle culturele groepen van Indonesië." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#identifier> "TM-5663-312" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-312> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

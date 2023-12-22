@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#name> "JACHTPIJL (PAAR)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#description> "Bladvormige houten punt met scherpe middenrug aan de onderzijde. Tussenstuk geheel met geharste, gekruiste rietrepen omvlochten.\r\nRieten schacht, boveneinde met geharste rietrepen omvlochten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#identifier> "RV-1917-132" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#material> "riet ; hout ; hars ; riet, rietrepen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1917-132> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#name> "OUDE SABEL VAN EEN SAMOERAI, ZONDER SCHEDE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#description> "De kling komt uit Japan en dateert vermoedelijk uit de 16de eeuw; de greep echter is niet Japans." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#identifier> "TM-A-8376" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#yearCreatedEnd> "1599"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-8376> <https://colonialcollections.nl/schema#yearCreatedStart> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .

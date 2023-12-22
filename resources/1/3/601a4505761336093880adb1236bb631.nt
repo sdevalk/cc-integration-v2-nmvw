@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#name> "'VOLTES V'" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#description> "De serie 'Voltes V' werd uitgezonden in Japan in 1977. Na een aanval van buitenaardse wezens bouwt Japan de robot Voltes V om de wereld te beschermen.  De serie was een van de vele mecha anime die uitgezonden werden in de jaren 70 na het grote succes van de serie 'Mazinger Z'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#identifier> "7158-173" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#material> "papier ; drukken" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7158-173> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

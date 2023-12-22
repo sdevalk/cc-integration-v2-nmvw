@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#name> "RIJSTZAK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#description> "Een rijstzakje gemaakt van rechthoekig gevlochten, ongekleurde lontarbladrepen met een draaglus. Het zakje heeft de vorm van een kubus. Deze zakjes worden voor de helft gevuld met rauwe rijst en in water gekookt. De op deze manier gekookte rijst wordt op reis meegenomen en blijft twee tot vier dagen langer goed dan op de normale wijze gekookte rijst." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#identifier> "RV-458-90" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#material> "blad (lontar)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-458-90> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

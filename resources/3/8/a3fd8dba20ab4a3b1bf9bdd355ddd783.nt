@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#name> "FOTOALBUM MEXICO" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#description> "Gedriegd met koord, bruine kunstleer buitenbladen, gouden letters.\r\nBevat o.a.:\r\nFamilie Christensen-interieurs met Mexicaans textiel aan muur, etc.\r\nFamilie Christensen poserend in Mexicaanse kleding.\r\nGroepsfoto's in Mexicaanse kostuums.\r\nStudentenfeesten (?)\r\nKrantenartikel uit Mexico: \"Yo si quiero conocerte\" por Oscar Liera (April 30-'77).\r\nVliegtuig.\r\nUitstapjes met auto en te paard.\r\nZwemmen.\r\nDenemarken 1919 (laatste 30 zwarte bladen).\r\n\"Our Friend's private Observatory\" (twee losse crèmekleurige bladen)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#identifier> "RV-A173-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#creator> "Bodil Christensen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-A173-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

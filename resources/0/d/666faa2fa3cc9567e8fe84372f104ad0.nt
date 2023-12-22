@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#name> "SCHEERMES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#description> "Het scheermes was een noodzakelijk gereedschap om een decent voorkomen te behouden. Dit exemplaar heeft een enkel snijvlak en een houten handvat waar het lemmet ingevouwen kan worden.\r\n\r\nIn order to maintain a well-kept appearance, the razor was a necessary tool. This one has a single edge and a wooden handle into which the thick iron blade could be folded for storage." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#identifier> "RV-1-4186b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#material> "Hout ; ijzer" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1-4186b> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#name> "TROM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#description> "Een lange ronde trom gemaakt van donker hout. De trom staat op een brede voet, die naar boven toe versmalt en vervolgens wijder uitloopt. Het onderste gedeelte van de voet is versierd met lange in elkaar schuivende driehoeken. Daarboven een brede rondgaande band met een slingerlijn en bloemknopvormige figuren. Het overige gedeelte van de trom is onversierd. Het vel van de trom is gemaakt van reptielenhuid. Het wordt gespannen met, op verschillende plaatsen, smalle rotanrepen, die vastzitten aan een rondgaande, gevlochten rotanband. Met houten wiggen wordt het vel op spanning gehouden." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#identifier> "RV-6122-5" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#material> "hout ; rotan ; huid (reptiel)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-6122-5> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

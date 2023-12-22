@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#name> "TAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#description> "Tassen van huid werden door veel Zuid- Afrikaanse volkeren gebruikt om tabak en rookgerei in mee te nemen. De huiden waren afkomstig van kleine geiten, konijnen, antilopen of ander klein wild. Waarzeggers en traditionele genezers droegen hun parafernalia ook in een kleine tas van dierenhuid." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#identifier> "RV-2668-1437" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#material> "huid" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2668-1437> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

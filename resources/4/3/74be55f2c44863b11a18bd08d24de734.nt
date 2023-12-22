@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#name> "CONTRACT OMTRENT EEN SAMENWERKINGSVERBAND TUSSEN TWEE GROENTENHANDELAREN IN PERZISCH SCHRIFT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#description> "Een overeenkomst tussen twee groentenhandelaren betreffende een wederzijdse investering van 200 rials met winstdeling. Opgemaakt door een religieuze rechtbank volgens het gewoonterecht. Gedateerd: 1313 AH, wat overeenkomt met 1895-6 AD." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#identifier> "TM-3944-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3944-3> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <https://colonialcollections.nl/schema#name> "ZWAARD MET HOUTEN GREEP IN HOUTEN SCHEDE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <https://colonialcollections.nl/schema#description> "Naar achter gekromd zwaard met op de greep een hurkende mensfiguur, waarachter een staande mensfiguur, beiden met hagedisfiguren op het hoofd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <https://colonialcollections.nl/schema#identifier> "TM-1772-50a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-50a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

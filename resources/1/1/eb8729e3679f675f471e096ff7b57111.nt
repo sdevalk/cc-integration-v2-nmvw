@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#name> "REIS VAN NED.INDIË NAAR NEDERLAND, O.A. SUEZ-KANAAL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#description> "'Souvenir-de-voyage-album'\r\nTerugreis van Ned.Indië naar Nederland, Suezkanaal, landschap en portret in Nederland." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#identifier> "TM-ALB-0003" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#creator> "J.J. (Jan Jacobus) van Lonkhuijzen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-ALB-0003> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

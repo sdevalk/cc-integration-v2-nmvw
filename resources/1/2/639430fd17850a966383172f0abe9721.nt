@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <https://colonialcollections.nl/schema#description> "[VO] Van dit bolronde kalkdoosje heeft de ene helft een brede hoog\r\nopstaande binnenrand waaromheen de andere helft sluit;\r\n[DE]de afgeplatte bolvorm van het doosje heeft aan beide zijden\r\neen reliefversiering die uit een gestileerde bloemfiguur bestaat. Om dit\r\nbloemmotief loopt een smalle rand, met een geometrisch motief,\r\neveneens in relief. In het doosje zijn kalkresten aanwezig." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <https://colonialcollections.nl/schema#identifier> "WM-14075" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <https://colonialcollections.nl/schema#material> "geelkoper\r\nGegoten." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-14075> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

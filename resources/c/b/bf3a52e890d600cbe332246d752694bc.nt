@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#name> "JAK VAN EEN HEILSOLDAAT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#description> "Een donkerblauw jak van een Salavation army soldate (het is immers gebruikt in de tentoonstellilng De Vrouw 1813 - 1913). Op de kraag de S van het Salvation army. Aan de voorkant staat in het Javaans Bala Keslametan hetgeen letterlijk betekent de welvarende legermacht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#identifier> "TM-H-2128b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-2128b> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

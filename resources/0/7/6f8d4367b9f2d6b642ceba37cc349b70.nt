@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#name> "JAS MET ARABISCH OPSCHRIFT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#description> "Een jas, een ceremoniële jas met lange mouwen gemaakt van geweven katoen. De lichtgroene jas heeft een wit Arabisch opschrift op de kraag en op twee rechthoekige vlakken aan de voorkant onder de halsopening. De tekst op de kraag is de z.g. basmala, de formule 'In de naam van God, de Barmhartige, de Erbarmer' (bismillah ar-rahman ar-rahiem), in gewoon schrift en in spiegelbeeld. \r\n\r\nDe jas werd tijdens ceremonies gedragen en is afkomstig van Danu Baba Hasan, prins van Jilolo, afstammeling van de laatste sultan van Jilolo." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#identifier> "RV-193-22" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#material> "geweven ; geverfd ; katoen ; zijde ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-193-22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .

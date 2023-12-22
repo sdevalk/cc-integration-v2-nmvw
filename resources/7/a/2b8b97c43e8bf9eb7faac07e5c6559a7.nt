@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#name> "PARKIET, DIENT OM IN DE TEMPEL TE HANGEN OF THUIS ALS DECORATIE" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#description> "Het netwerk van kralen is afzonderlijk gemaakt, waarna het is vastgezet op het opgevulde lichaam. Rijk versierd met schelpjes en knopen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#identifier> "TM-5194-72" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#material> "katoen ; glas ; kunststof ; schelp ; rijgen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5194-72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

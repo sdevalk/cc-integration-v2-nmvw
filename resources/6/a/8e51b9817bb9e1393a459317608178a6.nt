@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#name> "HOOFD FINANCIËN VAN DE SULTAN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#description> "De Hazinedar Agha was een eunuch die aan het hoofd stond van de financiën van de harem van de Ottomaanse sultan. In de 19de eeuw werd de hazinedar agha altijd gerecruteerd uit de populatie van Afrikaanse slaven." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#identifier> "RV-360-7388" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#material> "aquarelverf ; papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#yearCreatedEnd> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-360-7388> <https://colonialcollections.nl/schema#yearCreatedStart> "1826"^^<http://www.w3.org/2001/XMLSchema#integer> .

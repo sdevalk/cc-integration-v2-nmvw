@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#name> "GENRESCHILDERING: VARKENS VERKOPEN IN DE WINTER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#description> "Voor boeren is de winter een periode van relatieve schaarste, omdat er geen gewassen verbouwd kunnen worden. Sommige boeren verkochten daarom hun vee op de markt om zo aan wat geld te komen.\r\n\r\nWinter is a season of scarcity to farmers, who cannot produce any crops then. Sometimes, farmers would sell their cattle for meat on the winter markets in order to obtain some cash money." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#identifier> "RV-679-20" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#material> "papier" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-679-20> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .

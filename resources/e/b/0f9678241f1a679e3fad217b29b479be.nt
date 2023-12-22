@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#name> "KRALENVERSIERING VOOR KAARSEN" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#description> "Grotere, fletse lichtblauwe kralen zijn verbonden met strengen van kleine, heldere azuurblauwe en witte kralen.\r\nDeze aaneengeregen kralen rondom een kleine opening vormen decoraties voor kaarsen in kandelaren.\r\nZe dienen als sfeervolle huisversiering voor op tafel bij verjaardagen en andere feestelijke  momenten.\r\nKralen kaars- of kandelaardecoraties worden tevens als 'soeveniers' aan toeristen verkocht." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#identifier> "RV-5905-41" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#material> "glas ; vezel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5905-41> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#name> "Halssieraad" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#description> "Halssieraad, bestaande uit een aantal dunne, gedraaide snoeren, waaraan een bladvormig ijzeren mes en, op grote afstand daarvan, een hoeveelheid van, tot een tongvormig lichaam verenigde vezels zijn bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#identifier> "RV-816-107" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#material> "ijzer ; vezel" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-816-107> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

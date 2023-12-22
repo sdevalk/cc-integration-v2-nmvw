@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#name> "AARDEWERK EN BEELD VAN EEN STAANDE MAN OF VROUW" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#description> "Beeld van een staande man of vrouw.  In de oren draagt hij/zij holle oorschijven. Om de hals draagt hij/zij een halssnoer. De handen rusten voor op het lichaam. Hij/zij draagt een riem. Het haar valt breed over de rug. De spleet tussen de benen kan een bakgat zijn (opdat het beeld niet barst) en/of een aanduiding van de vagina.\r\n\r\nHet beeld fungeert tevens als rammelaar. Het is hol en gevuld met aardewerken bolletjes; de spleet tussen de benen vormt het klankgat." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#identifier> "TM-3597-199" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#yearCreatedEnd> "1500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3597-199> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .

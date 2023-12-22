@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#name> "KATOENEN MUURVERSIERING MET VIER WAJANGFIGUREN, EEN OLIFANT, EEN LEVENSBOOM EN GARUDA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#description> "In het midden van dit wandkleed staat een olifant afgebeeld. Aan beide zijden van dit dier staan twee naar hem gerichte wayangfiguren. Achter de olifant is een levensboom gebatikt met in de toppen een vogel, Garuda volgens de verzamelaar Veldhuisen.\r\nDe rand bestaat uit florale motieven op een gestippelde achtergrond.\r\nDe doek is gemaakt in een Indonesische batikkerij en was bestemd voor alle culturele groepen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#identifier> "TM-5663-1467" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5663-1467> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

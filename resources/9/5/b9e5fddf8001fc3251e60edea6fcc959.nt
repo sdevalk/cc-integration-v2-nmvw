@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#name> "TROM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#description> "Deze trom in de vorm van een zandloper wordt in verschillende delen van Nieuw- Guinea bespeeld. Het trommelvel kan gemaakt worden van reptielen- of buideldierhuid, afhankelijk van het gebied waar hij gemaakt wordt. Met de ene hand wordt trom vastgehouden, gewoonlijk bij het handvat in het midden, en met de andere wordt hij bespeeld. Dit instrument begeleidt de zanger. Wanneer een groep zingt wordt elke zanger door één trom begeleid." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#identifier> "RV-1485-66" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#material> "hout ; leguanenvel ; hars" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1485-66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

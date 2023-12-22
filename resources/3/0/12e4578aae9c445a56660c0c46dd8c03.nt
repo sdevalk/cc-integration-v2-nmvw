@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#description> "In het middelpunt staat het heiligdom van de islam, de Ka'aba in Mekka. De Kaaba is bedekt met een zwart kleed, de kiswa. De minaretten aan weerszijden symboliseren de moskee, die om de Kaaba is heengebouwd. De afgebeelde mannen zijn volgens bijschrift de naaste metgezellen van de profeet Mohammed. Natuurlijk voorspelt het voorteken van de Kaaba niets dan goeds." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#identifier> "WM-71803-16" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#material> "textiel (boekomslag), papier, dekkende verf, goudverf,  zilververf\r\ngeschilderd" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1599"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71803-16> <https://colonialcollections.nl/schema#yearCreatedStart> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .

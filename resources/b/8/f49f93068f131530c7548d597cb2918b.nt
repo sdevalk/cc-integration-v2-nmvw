@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#description> "[ST] inlegwerk (verticale zwarte banden) \r\n[DE] banden met geometrische figuren (w.o.\r\n        (gespiegelde) tumpal & ruiten & sekong-motief) & 16 banden\r\n        met slingerlijn & 4 banden met ruiten" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#identifier> "WM-23761" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#material> "bamboe, arenhout (inlegwerk [*3]), zwartsel (kemirinoot [*2])" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#locationCreated> "Rantepao" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-23761> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#name> "HEUPRING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#description> "Een heupsieraad gemaakt van vier rotanrepen. De rotanrepen zijn over het midden omgebogen. De buitenkant van de repen zijn rood gekleurd. De omgebogen uiteinden zijn aan elkaar vast genaaid. De uiteinden zijn tot lussen gevormd. In het midden van de rode banden zijn snoeren glazen kralen, rood ; lichtblauw ; groen en wit bevestigd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#identifier> "TM-1171-21" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#material> "rotan ; verf ; kralen ; touw ; glas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1171-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#name> "SCHOEN BEHORENDE BIJ EEN BOERENKOSTUUM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#description> "Dit paar schoenen is gebruikt door een landbouwer uit Vallabhipur in 1960." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#identifier> "TM-6228-2a-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6228-2a-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

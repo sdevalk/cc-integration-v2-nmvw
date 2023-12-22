@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#name> "MANILLA (IJZERGELD)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#description> "Deze 'armbanden' werden door Europeanen gebruikt als betaalmiddel. Zij werden door de Bini omgesmolten en gebruikt voor het gieten van bronzen, dan wel messing kunstvoorwerpen voor de Oba. De grote bloei van de bronsgietkunst na de 15e eeuw werd mogelijk gemaakt door de enorme import van manilla's.\r\nBetaalmiddel in de vorm van een niet gesloten ring. De uiteinden zijn hoefvormig verdikt ." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#identifier> "RV-3467-32" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#material> "Messing of brons ; gegoten" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3467-32> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

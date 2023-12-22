@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#name> "HUIPIL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#description> "Grondweefsel van witte katoen met strepenpatoon in de inslagrichting door toepassing van verschillende bindingen (linnenbinding en gaasweefsel).\r\nPatronen deels ingeweven (twee 12 cm brede banen met zigzag- en ruitmotieven), deels geborduurd (bloem- en vogelmotieven op borst, rug en schouders)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#identifier> "RV-5946-535" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-535> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

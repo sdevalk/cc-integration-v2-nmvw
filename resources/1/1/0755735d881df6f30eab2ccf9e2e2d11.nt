@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#description> "Deze weg door Mussolini aangelegd in 1932 is een doorbraak door een wirwar van steegjes, is 30 m breed en 850 m lang." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#identifier> "RV-15131-2-21" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-15131-2-21> <https://colonialcollections.nl/schema#yearCreatedStart> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

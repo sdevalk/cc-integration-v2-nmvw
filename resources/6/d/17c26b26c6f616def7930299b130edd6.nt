@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <https://colonialcollections.nl/schema#name> "PRAUWVOORSTEVEN IN DE VORM VAN KROKODILLENKOP, MET BIJBEHOREND SCHILD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <https://colonialcollections.nl/schema#description> "Kano's werden vaak vergeleken met krokodillen die roerloos over het oppervlakte zwemmen. Daarom sneed men de voorstevens vaak uit in de vorm van een krokodillenkop." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <https://colonialcollections.nl/schema#identifier> "TM-2670-114a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-2670-114a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

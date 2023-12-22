@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#name> "DOEK ASHANTI BEGRAFENISSTOF" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#description> "Rood wordt in verschillende delen van Afrika geassocieerd met rouw. Deze doeken horen tot de traditionele rouwkleding, die met name oudere vrouwen en moeders van Asante-koningen dragen. Begrafenissen in Ghana lijken soms op modeshows. Mensen hebben verschillende soorten rouwkleding en doen hun best er zo mooi mogelijk uit te zien. De tekst op de doek, Damirifa Due, betekent zoveel als Vaarwel. Er is een portret afgebeeld van een oguaa manhen (politiek leider), Sabarimba Kodwo Mbra V (1948-1996)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#identifier> "TM-6325-13" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-6325-13> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

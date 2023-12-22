@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#name> "HALSSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#description> "Het snoer waaraan de kralen geregen zijn is gemaakt van menselijk haar. Haar, afkomstig van het hoofd werd in Polynesië beschouwd als het heiligste deel van het menselijk lichaam droeg \"mana\", levenskracht met zich mee. Menselijk haar in lichaamsversieringen verzekerde en vergrootte de \"mana\" van de drager." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#identifier> "RV-1141-129" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#material> "haar (menselijk) ; kraal" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1141-129> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .

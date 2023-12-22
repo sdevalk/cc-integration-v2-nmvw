@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#name> "ROK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#description> "Rok bestaande uit drie aan elkaar genaaide in linnenbinding geweven banen van handgesponnen witte wol. Geverfd met behulp van de plangi techniek met natuurlijke verfstoffen: indigo (blauw) en cochinille (rood), de combinatie van beide geeft paars. Decoratie bestaat uit gestileerde bloemmotieven binnen een patroon van ruiten en gestileerde bloem- en bladmotieven temidden van een golvend rankenpatroon.\r\n\r\nOld style skirt (sabanilla style)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#identifier> "RV-5946-60" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#material> "wol" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-5946-60> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

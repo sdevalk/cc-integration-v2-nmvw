@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#description> "Houten beeldhouwwerk in vorm van de godin van de vruchtbaarheid, een man (=god der vruchtbaarheid?) en een wild zwijn (?)." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#identifier> "WM-419705" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#material> "[MT] glas\r\n[TK] ontwikkel gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#creator> "dr. Gregor Krause" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-419705> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

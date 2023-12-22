@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#name> "KRUIK MET LIGGENDE MAN EN VOGELS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#description> "Kruik met onder de hals een liggende man die met beide handen een voorwerp voor de mond houdt. Aan de andere kant van de hals zijn de benen gemodelleerd.\r\nOnder hem zijn twee kruisende banden binnen een paneel geschilderd. In het bovenste en onderste kwart zijn gestileerde vogels geschilderd en in de andere twee kwarten golfmotieven en zigzaglijnen. Aan de achterkant zijn verticale lijnen met stippen ernaast geschilderd. Op de hals zijn koppen in vertciale positie geschilderd die in het textiel van de Chancay-cultuur poemakoppen voorstellen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#identifier> "TM-3427-1" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3427-1> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

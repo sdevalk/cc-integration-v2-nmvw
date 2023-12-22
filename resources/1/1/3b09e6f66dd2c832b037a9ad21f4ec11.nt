@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#name> "KOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#description> "Een koker gemaakt van zigzagvormig gevlochten, ongekleurde lontarbladrepen. De koker is rechthoekig en heeft een voor driekwart overschuivend deksel. De koker is versierd met haakfiguren en krullijnen in rood, zwart en ongekleurd. De boven- en onderkant hebben versterkte randen in rood.\r\nDe koker met deksel is onderdeel van 26-38." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#identifier> "RV-26-38a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#material> "blad (lontar) ; verf" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-26-38a> <https://colonialcollections.nl/schema#yearCreatedStart> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .

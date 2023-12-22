@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#name> "PRENTBRIEFKAART MET EEN OVALE AFBEELDING VAN TWEE VROUWEN EN TWEE KINDEREN BUITEN ZITTEND IN HET GRAS" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#description> "Opgestuurd vanuit Nederland (Hilversum) naar Weltevreden.\r\nRechts naast de ovale afbeelding de tekst: 'Hilversum 12 Juni 05. Lieve Pa en ... Deze foto heeft .... zelf gemaakt. Liefs van ons allen, Kitty. Ook mijn beste groeten! Corrie.' En onder de afbeedlign: 'Uw liefhebbende ...'.\r\n\r\nWeltevreden is een wijk van Batavia." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#identifier> "TM-60045029" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-60045029> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

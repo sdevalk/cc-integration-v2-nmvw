@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#name> "STAMPER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#description> "Vijzel 'Molcajete' met 'tejolote/manita' (stamper) van basaltsteen. Gekocht voor 10 pesos = fl. 3,--, op vrijdagsmarkt van Toluca (21 november 1969). De vijzel met stamper is een onmisbaar instrument bij het maken van 'moles' 'sauzen' in de Mexicaanse keuken." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#identifier> "RV-4436-22b" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#material> "steen (basalt)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-4436-22b> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

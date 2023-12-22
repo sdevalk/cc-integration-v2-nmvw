@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#description> "Tentoonstelling \"Wah, landbouwgemeenschap in de Pandjab\"\r\n25-5-1966 / 29-1-1967.\r\nLandbouwwerktuigen o.a. houten ploeg." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#identifier> "WM-908066" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#material> "ontwikkel gelatine zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#creator> "Westerbeek, A." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-908066> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

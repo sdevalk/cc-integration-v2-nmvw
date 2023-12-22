@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#description> "[VO] peer (geraamte) & lus (handvat)\r\n[KL] geel (ondergrond ingeweven zijde) & bladgroen (ondergrond geborduurde zijde) & ecru & paars & rose & oranje & lichtblauw & goud & handvat : cyclaamrood & paars & oranje & groen [ST] handvat (tumpalrand) & waaier (rand van goudkant)\r\n[DE] paillet & bloemrank & geometrische motieven & levensboom (floraal)" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#identifier> "WM-71597" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#material> "bamboe (?), zijde, kant, gouddraad\r\ngesneden & overtrokken & ingeweven & geborduurd\r\nHandvat en waaier zijn beide geborduurd. satin, surface couching, splangels glass beads. lace edging metal thread." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/WM-71597> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

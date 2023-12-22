@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <https://colonialcollections.nl/schema#name> "BOOMSTRONK VOOR HET MAKEN VAN UITHOLLINGEN IN KOPER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <https://colonialcollections.nl/schema#description> "De boomstronk wordt gebruikt door de koperbewerker om uithollingen in koper van verschillende formaat te maken. Er wordt ook een ijzeren aambeeld in het gat midden van het blok geplaatst. In het algemeen gaat de koperbewerker uit van ruwe koperplaat. Bij het kloppen van de vorm kan een houten hamer worden gebruikt." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <https://colonialcollections.nl/schema#identifier> "TM-3782-153" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3782-153> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

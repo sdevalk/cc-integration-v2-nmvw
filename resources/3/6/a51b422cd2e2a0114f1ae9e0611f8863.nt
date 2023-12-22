@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <https://colonialcollections.nl/schema#name> "KALEBASSCHAAL GEBRUIKT ALS MAATEENHEID BIJ BIERBEREIDING" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <https://colonialcollections.nl/schema#description> "De schaal wordt gebruikt bij de bier (dolo) bereiding. Men neemt een hoeveelheid zuur water (eau aigre) en een hoeveelheid zoet water (eau sucré). Het zure water wordt verkregen door een hoeveelheid water (bijvoorbeeld zo van de schalen) samen te voegen met een hoeveelheid gierst (bijvoorbeeld 2 tin = 2 x 20 liter). De schaal doet dus dienst als een soort maatbeker." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <https://colonialcollections.nl/schema#identifier> "TM-3912-275" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-3912-275> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

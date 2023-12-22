@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#name> "VRACHT- EN PASSAGIERSCHIP VAN DE KONINKLIJKE PAKETVAART MAATSCHAPPIJ DE VAN RIEMSDIJK AAN DE KADE TE SOERABAJA" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#description> "De Koninklijke Pakketvaart Maatschappij (KPM) zorgde vanaf 1891 voor een netwerk van scheepvaartverbindingen in de archipel. De KPM zorgde ook voor het vervoer van tropen als dit nodig was." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#identifier> "TM-30003894" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30003894> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

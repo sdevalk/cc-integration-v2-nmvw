@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN GEZELSCHAP BIJ EEN AUTO" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#description> "Dit is dezelfde groep als op een andere foto (TM-30038333), die als bijschrift heeft 'Ans, Bep, Kees & de Steinmetzen'." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#identifier> "TM-30038334" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-30038334> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

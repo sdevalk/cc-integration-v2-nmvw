@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#name> "BOOG" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#description> "Helaas wordt in de literatuur weinig melding gemaakt van de pijl en boog. De Zulu en andere zuidelijke Bantu sprekende volkeren kenden de pijl en boog wel, maar gebruikten ze niet als strijdwapens." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#identifier> "RV-2597-3" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#material> "hout ; leer ; koperdraad" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-2597-3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

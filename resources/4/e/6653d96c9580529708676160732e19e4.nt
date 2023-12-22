@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#name> "EEN WEVENDE VROUW" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#description> "Boekillustratie naar een tekening van J.C. Rappard." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#identifier> "TM-H-3365" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#creator> "Josias Cornelis Rappard" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-H-3365> <https://colonialcollections.nl/schema#yearCreatedStart> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

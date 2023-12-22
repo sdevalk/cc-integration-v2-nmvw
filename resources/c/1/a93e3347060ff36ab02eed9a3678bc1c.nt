@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#name> "DOCUMENT BETREFFENDE DE BENOEMING VAN FRITS ANTON HECKLER TOT ASSISTENT-RESIDENT VAN GROOT ATJEH, MET ENVELOP" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#description> "Dit document is een extract uit het Register der Besluiten van de Gouverneur-generaal van Nederlands Indië. De envelop is die waar Heckler de brief in ontvangen heeft." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#identifier> "TM-5897-27a" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-5897-27a> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .

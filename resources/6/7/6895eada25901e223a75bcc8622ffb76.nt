@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#name> "KAM" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#description> "Een kam gemaakt van een lengte bamboe. De kam heeft zeven wijd uitstaande ronde en stompe tanden. Het uiteinde is in de vorm van zeven pilaren gesneden met een punt in het midden. De tanden zijn aan de ondereinden omwonden met een bruin touw. Daarnaast een deel dat versierd is met ingesneden driehoeken en krulfiguren. De kam is voor mannen bestemd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#identifier> "RV-1904-209" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#material> "bamboe ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1904-209> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

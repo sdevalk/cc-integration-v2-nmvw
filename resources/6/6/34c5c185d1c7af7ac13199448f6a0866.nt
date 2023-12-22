@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#name> "KORTE BROEK" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#description> "Een korte broek gemaakt van geweven katoen. De broek is rood met groepen vertikale strepen in groen, wit en zwart. De broek bestaat uit twee rechthoekige delen, die met een driehoekig kruisgedeelte aan elkaar zijn genaaid. Door de bovenrand loopt een wit trekkoord. De onderranden van de pijpen zijn omzoomd met gouddraad en daarboven versierd met een dubbele streep van gouddraad." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#identifier> "RV-370-3554" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#material> "katoen ; verf ; goud" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-370-3554> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

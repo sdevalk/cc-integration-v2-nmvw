@@ -1,7 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <https://colonialcollections.nl/schema#name> "RONDE ZILVEREN HANGER MET GLASDIAMANTJES EN TWEE HANDVORMIGE OOGJES" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <https://colonialcollections.nl/schema#description> "Een hanger met diamanten, versierd met bloemmotieven. De ogen waaraan de hanger hangt, zijn in de vorm van handjes. De vorm doet denken aan een horlogekast." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <https://colonialcollections.nl/schema#identifier> "TM-1772-485" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-485> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

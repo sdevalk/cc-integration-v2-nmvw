@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#name> "KALKKOKER" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#description> "Een kalkkoker gemaakt van een kalebas. De koker heeft een lange druppelvorm en is geheel versierd met ingegrifte mensen-, huizen- en dierfiguren. De figuren zijn binnen verschillende banden in de breedte neergezet. Het smalle uiteinde is een opening waar een kleine stop in zit. De stop is met een koordje aan de hals van de koker vastgemaakt. Het brede ondereinde is waarschijnlijk de vulopening met een grotere stop met een kort koordje als versiering." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#identifier> "RV-3600-4054" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#material> "kalebas ; touw" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-3600-4054> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .

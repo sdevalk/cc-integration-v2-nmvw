@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#name> "KOM MET DEKSEL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#description> "Dit object is gemaakt van een kalebas door deze doormidden te snijden, waarna het vruchtvlees grotendeels wordt verwijderd. Vervolgens worden de kalebasschillen in water gekookt waarna de resten vruchtvlees makkelijker weg te schrapen zijn. Waarschijnlijk is deze container bestaande uit een kom met deksel gebruikt om voedsel of drank in te bewaren, aangezien het een bijpassende deksel bevat.  Beide zijn aan de buitenkant - en de kom ook aan de binnenkant - met bruine figuren beschilderd op een gelige achtergrond. De deksel is aan de binnenkant helemaal bruin geschilderd." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#identifier> "RV-1817-139" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#material> "kalebas" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1817-139> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

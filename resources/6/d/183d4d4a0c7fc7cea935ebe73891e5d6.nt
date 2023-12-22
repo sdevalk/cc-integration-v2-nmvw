@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#name> "KOPEREN MUNT" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#description> "Op de ene zijde van de munt staat de Arabische tekst \"geslagen in Egypte, 1277\". Het jaartal 1277 A.H. komt overeen met het jaar 1860-1861 van de christelijke jaartelling. Op de andere zijde de tughra, handtekening van de Ottomaanse sultan, met daaronder het bedrag: 10 p." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#identifier> "TM-A-6432z" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-A-6432z> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .

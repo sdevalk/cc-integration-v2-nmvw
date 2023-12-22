@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#description> "Foto, rechthoekig, alleen aan bovenkant opgeplakt, geen tekst zichtbaar aan achterkant.\r\n\r\nMet bijschrift in roodoranje: 'Roemab Sokat' \r\nMet bijschrift in potlood (vaak moeilijk leesbaar): 'Roema? Sokat Seram'\r\n\r\nDe opname toont een wazig beeld van een landschap met een ?strandje vooraan rechts met erlangs ?primaire begroeiing. Op de achtergrond bergen." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#identifier> "7082-nf-905-1-4" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#material> "papier; ontwikkeld, zilverdruk" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/7082-nf-905-1-4> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .

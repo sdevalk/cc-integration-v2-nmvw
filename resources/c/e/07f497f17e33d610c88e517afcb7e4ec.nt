@@ -1,8 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#name> "HALSSIERAAD" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#description> "Een halssieraad gemaakt van geregen kralensnoeren. Het sieraad bestaat uit vijf snoeren met kralen in de kleuren blauw, oranje en wit. Aan deze snoeren hangen vele snoeren naar beneden in de kleuren zwart, rood, wit, groen, blauw en geel. Op een plaats is een grote rode witte schijf met kartelrand te zien met drie gaten. Door twee gaten loopt een grijs touw. De halssluiting bestaat uit een gedraaid grijs touw." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#identifier> "TM-1772-285e" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#material> "vezeltouw ; kralen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/TM-1772-285e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

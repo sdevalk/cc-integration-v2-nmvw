@@ -1,9 +1,0 @@
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#name> "VISPIJL" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#description> "Dunne gele bamboeschacht. In het dikke schachteinde zijn, met een met hars bestreken woeling van vezeldraad, vijf donkerbruine palmhouten punten gestoken die met een gevlochten rotanring op hun plaats worden gehouden. De punten hebben een ruw ruitvormige dwarsdoorsnede en verlopen naar boven scherp en daarop op ongelijke hoogte spitsen van vogelbeentjes." .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#identifier> "RV-1971-1382" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#material> "bamboe ; hout, palmhout ; been, vogelbot ; rotan ; vezels, vezeldraad ; hars" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#isPartOf> "NMVW Collection Archives" .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://colonial-heritage.triply.cc/nmvw/id/object/RV-1971-1382> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
