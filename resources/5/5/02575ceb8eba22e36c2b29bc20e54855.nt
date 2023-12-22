@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#identifier> "TM-908-36" .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#name> "ROODKOPEREN MUNT VAN GRIEKENLAND" .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#description> "Roodkoperen muntstuk met waarde van 10 ..., uitgedrukt in Griekse letters.  Enerzijds bevindt zich een gekroond wapenschild met omschrift in Griekse lettertekens. Op de andere zijde de waarde van de munt (10...in Griekse letters) binnen een lauwerkrans." .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#inscription> "In beschrijving" .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#yearCreatedStart> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0124f3a04f7bea7f3e24295151c3577d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .

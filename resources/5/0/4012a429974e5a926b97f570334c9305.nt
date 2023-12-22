@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/11676fd365bc66abeab83608a0b4f762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/11676fd365bc66abeab83608a0b4f762> <https://colonialcollections.nl/schema#identifier> "WM-61152" .
+<https://n2t.net/ark:/27023/11676fd365bc66abeab83608a0b4f762> <https://colonialcollections.nl/schema#material> "wol" .
+<https://n2t.net/ark:/27023/11676fd365bc66abeab83608a0b4f762> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

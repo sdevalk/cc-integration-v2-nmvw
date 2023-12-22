@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0bc903f7300c01ab1dd81956c05158d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0bc903f7300c01ab1dd81956c05158d0> <https://colonialcollections.nl/schema#identifier> "RV-1877-44" .
+<https://n2t.net/ark:/27023/0bc903f7300c01ab1dd81956c05158d0> <https://colonialcollections.nl/schema#name> "Dissel" .
+<https://n2t.net/ark:/27023/0bc903f7300c01ab1dd81956c05158d0> <https://colonialcollections.nl/schema#description> "Een dissel gemaakt van gesmeed ijzer. Het ijzeren gedeelte is scherp bijlvormig uitlopend in een scherpe punt. Deze punt is in het gebogen uiteinde van een L- vormig houten steel vastgezet met rotanrepen." .
+<https://n2t.net/ark:/27023/0bc903f7300c01ab1dd81956c05158d0> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; rotan" .
+<https://n2t.net/ark:/27023/0bc903f7300c01ab1dd81956c05158d0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

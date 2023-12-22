@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/098911b60f570ef3539055450d372ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/098911b60f570ef3539055450d372ed0> <https://colonialcollections.nl/schema#identifier> "RV-3835-510" .
+<https://n2t.net/ark:/27023/098911b60f570ef3539055450d372ed0> <https://colonialcollections.nl/schema#description> "Stukjes hout als deze worden als geschenk gegeven vanwege hun aangename geur." .
+<https://n2t.net/ark:/27023/098911b60f570ef3539055450d372ed0> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/098911b60f570ef3539055450d372ed0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

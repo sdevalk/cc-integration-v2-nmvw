@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/036d9205a80aed2e9ef92d7716de78fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/036d9205a80aed2e9ef92d7716de78fb> <https://colonialcollections.nl/schema#identifier> "RV-B59-122" .
+<https://n2t.net/ark:/27023/036d9205a80aed2e9ef92d7716de78fb> <https://colonialcollections.nl/schema#description> "ondiep ; herkomst voornamelijk China en Japan (vlg. Jaarverslag)" .
+<https://n2t.net/ark:/27023/036d9205a80aed2e9ef92d7716de78fb> <https://colonialcollections.nl/schema#material> "porselein" .
+<https://n2t.net/ark:/27023/036d9205a80aed2e9ef92d7716de78fb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1807ee31471033c1a0ca595686ca5269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1807ee31471033c1a0ca595686ca5269> <https://colonialcollections.nl/schema#identifier> "WM-58583" .
+<https://n2t.net/ark:/27023/1807ee31471033c1a0ca595686ca5269> <https://colonialcollections.nl/schema#description> "[DE] schulprand\r\n[KL] oranje-bruin (binnenzijde)" .
+<https://n2t.net/ark:/27023/1807ee31471033c1a0ca595686ca5269> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & geolied" .
+<https://n2t.net/ark:/27023/1807ee31471033c1a0ca595686ca5269> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

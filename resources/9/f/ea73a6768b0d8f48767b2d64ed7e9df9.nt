@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0a1fa14354425c0c14eb00bf33fc7b7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0a1fa14354425c0c14eb00bf33fc7b7a> <https://colonialcollections.nl/schema#identifier> "TM-A-6395" .
+<https://n2t.net/ark:/27023/0a1fa14354425c0c14eb00bf33fc7b7a> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN CREOOLSE HUT" .
+<https://n2t.net/ark:/27023/0a1fa14354425c0c14eb00bf33fc7b7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0a1fa14354425c0c14eb00bf33fc7b7a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

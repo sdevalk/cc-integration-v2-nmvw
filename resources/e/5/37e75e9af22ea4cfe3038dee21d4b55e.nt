@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/03552fca9ed899e0c53bf360e5954ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/03552fca9ed899e0c53bf360e5954ddc> <https://colonialcollections.nl/schema#identifier> "RV-1749-16" .
+<https://n2t.net/ark:/27023/03552fca9ed899e0c53bf360e5954ddc> <https://colonialcollections.nl/schema#name> "Mand met deksel" .
+<https://n2t.net/ark:/27023/03552fca9ed899e0c53bf360e5954ddc> <https://colonialcollections.nl/schema#material> "bamboe ; vlechtwerk" .
+<https://n2t.net/ark:/27023/03552fca9ed899e0c53bf360e5954ddc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

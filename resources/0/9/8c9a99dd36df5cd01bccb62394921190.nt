@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <https://colonialcollections.nl/schema#identifier> "TM-5323-33" .
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <https://colonialcollections.nl/schema#name> "GOUACHE IN HOUTEN LIJST \"VEGETATIE\"" .
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <https://colonialcollections.nl/schema#creator> "Wil Man A Hing" .
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <https://colonialcollections.nl/schema#yearCreatedStart> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/11c0b6d85f4031cd8aebeacebf596f4d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

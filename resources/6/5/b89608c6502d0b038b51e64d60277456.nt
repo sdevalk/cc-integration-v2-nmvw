@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <https://colonialcollections.nl/schema#identifier> "TM-4759-2" .
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <https://colonialcollections.nl/schema#name> "GORDEL VOOR KINDEREN" .
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <https://colonialcollections.nl/schema#description> "De munten zijn machinaal geslagen." .
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <https://colonialcollections.nl/schema#material> "leer ; zilverlegering ; leerbewerken ; slaan" .
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0a0a4c04d5652b5a8c6871b3666fc0a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

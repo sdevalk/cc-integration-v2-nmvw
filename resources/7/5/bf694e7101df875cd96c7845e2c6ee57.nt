@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1316086aee1b996a968e87d32d5b2bcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1316086aee1b996a968e87d32d5b2bcb> <https://colonialcollections.nl/schema#identifier> "RV-3436-17b" .
+<https://n2t.net/ark:/27023/1316086aee1b996a968e87d32d5b2bcb> <https://colonialcollections.nl/schema#name> "Stop bij wichelinstrument" .
+<https://n2t.net/ark:/27023/1316086aee1b996a968e87d32d5b2bcb> <https://colonialcollections.nl/schema#description> "volk op kaart: kuba (kete)" .
+<https://n2t.net/ark:/27023/1316086aee1b996a968e87d32d5b2bcb> <https://colonialcollections.nl/schema#material> "kalebas ; vezel" .
+<https://n2t.net/ark:/27023/1316086aee1b996a968e87d32d5b2bcb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

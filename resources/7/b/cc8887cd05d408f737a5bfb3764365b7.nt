@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0817ae12ddcc051085f865d5a93bfa0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0817ae12ddcc051085f865d5a93bfa0c> <https://colonialcollections.nl/schema#identifier> "RV-2129-9" .
+<https://n2t.net/ark:/27023/0817ae12ddcc051085f865d5a93bfa0c> <https://colonialcollections.nl/schema#name> "Visspeer" .
+<https://n2t.net/ark:/27023/0817ae12ddcc051085f865d5a93bfa0c> <https://colonialcollections.nl/schema#material> "riet ; hout ; ijzer" .
+<https://n2t.net/ark:/27023/0817ae12ddcc051085f865d5a93bfa0c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

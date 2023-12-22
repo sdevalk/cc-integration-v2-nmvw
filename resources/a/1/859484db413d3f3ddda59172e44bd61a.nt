@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#identifier> "IB2016-72-3" .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#name> "WAAL STREET BULL B" .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#description> "Grote sculptuur in de vorm van een zakelijk pak en een stierenmasker. In samenwerking gemaakt met Manuela Morales, New York. Maakt onderdeel uit van een groep van 3 'The Wall Street Bulls'." .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#material> "Textiel, karton en verf" .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#creator> "Laura Anderson Barbata" .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#yearCreatedStart> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0af0ac31efa27563aae02a87bc0776cf> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/012369e05dcee2a56b2fb710d79676ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/012369e05dcee2a56b2fb710d79676ea> <https://colonialcollections.nl/schema#identifier> "TM-4418-1" .
+<https://n2t.net/ark:/27023/012369e05dcee2a56b2fb710d79676ea> <https://colonialcollections.nl/schema#name> "IJZEREN CITROENPERS" .
+<https://n2t.net/ark:/27023/012369e05dcee2a56b2fb710d79676ea> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/012369e05dcee2a56b2fb710d79676ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

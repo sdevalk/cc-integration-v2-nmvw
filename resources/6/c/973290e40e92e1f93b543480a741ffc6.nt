@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/12a8b720d5b40c5320b8d479d6363ccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/12a8b720d5b40c5320b8d479d6363ccc> <https://colonialcollections.nl/schema#identifier> "TM-H-2960" .
+<https://n2t.net/ark:/27023/12a8b720d5b40c5320b8d479d6363ccc> <https://colonialcollections.nl/schema#name> "SURINAAMS-INDIAANS AARDEWERKEN BAKJE" .
+<https://n2t.net/ark:/27023/12a8b720d5b40c5320b8d479d6363ccc> <https://colonialcollections.nl/schema#description> "Vier stuks ongedecoreerd rood aardewerk (t/m H-2962), op een draaischijf goed afgewerkt. Het is vermoedelijk kinderspeelgoed." .
+<https://n2t.net/ark:/27023/12a8b720d5b40c5320b8d479d6363ccc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/12a8b720d5b40c5320b8d479d6363ccc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

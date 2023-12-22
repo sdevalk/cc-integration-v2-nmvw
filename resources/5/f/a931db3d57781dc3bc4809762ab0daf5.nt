@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/00b9e6152ae2208d1e2390a1c0f3537a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/00b9e6152ae2208d1e2390a1c0f3537a> <https://colonialcollections.nl/schema#identifier> "WM-10278" .
+<https://n2t.net/ark:/27023/00b9e6152ae2208d1e2390a1c0f3537a> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/00b9e6152ae2208d1e2390a1c0f3537a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

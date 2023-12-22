@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/01e3c00ac2a78c4eaf3a98c37fff865f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/01e3c00ac2a78c4eaf3a98c37fff865f> <https://colonialcollections.nl/schema#identifier> "WM-35897" .
+<https://n2t.net/ark:/27023/01e3c00ac2a78c4eaf3a98c37fff865f> <https://colonialcollections.nl/schema#name> "KRUITHOORN" .
+<https://n2t.net/ark:/27023/01e3c00ac2a78c4eaf3a98c37fff865f> <https://colonialcollections.nl/schema#description> "[VO] met twee horens" .
+<https://n2t.net/ark:/27023/01e3c00ac2a78c4eaf3a98c37fff865f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

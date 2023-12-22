@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <https://colonialcollections.nl/schema#identifier> "RV-1973-61" .
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <https://colonialcollections.nl/schema#name> "Drinkkom" .
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <https://colonialcollections.nl/schema#material> "hout ; verf x?" .
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <https://colonialcollections.nl/schema#yearCreatedStart> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/107a7d811efaca9b978a51272095afb1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .

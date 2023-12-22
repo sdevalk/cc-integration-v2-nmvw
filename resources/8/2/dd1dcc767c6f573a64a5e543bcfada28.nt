@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/132ad042ead9cb8428bbad0ba0894c80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/132ad042ead9cb8428bbad0ba0894c80> <https://colonialcollections.nl/schema#identifier> "RV-1029-13" .
+<https://n2t.net/ark:/27023/132ad042ead9cb8428bbad0ba0894c80> <https://colonialcollections.nl/schema#name> "SABEL IN SCHEDE, VERSIERD MET BLOEMRANKEN EN MENSFIGUREN" .
+<https://n2t.net/ark:/27023/132ad042ead9cb8428bbad0ba0894c80> <https://colonialcollections.nl/schema#material> "IJzer ; hout" .
+<https://n2t.net/ark:/27023/132ad042ead9cb8428bbad0ba0894c80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/132ad042ead9cb8428bbad0ba0894c80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

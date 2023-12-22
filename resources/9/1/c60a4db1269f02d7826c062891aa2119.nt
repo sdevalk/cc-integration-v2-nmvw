@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/178ab1f960c8c560f61ca28f2c666bd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/178ab1f960c8c560f61ca28f2c666bd9> <https://colonialcollections.nl/schema#identifier> "TM-5921-222" .
+<https://n2t.net/ark:/27023/178ab1f960c8c560f61ca28f2c666bd9> <https://colonialcollections.nl/schema#name> "KLEIN MESSING DEKSEL" .
+<https://n2t.net/ark:/27023/178ab1f960c8c560f61ca28f2c666bd9> <https://colonialcollections.nl/schema#description> "Klein messing deksel met 3 ongelijkvormige gaten erin. In het midden een knop om het voorwerp op te tillen. Met ingekerfde versieringen." .
+<https://n2t.net/ark:/27023/178ab1f960c8c560f61ca28f2c666bd9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/178ab1f960c8c560f61ca28f2c666bd9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

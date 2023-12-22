@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/089ae615025fe668591aeb9eafc4ccf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/089ae615025fe668591aeb9eafc4ccf4> <https://colonialcollections.nl/schema#identifier> "RV-300-1535" .
+<https://n2t.net/ark:/27023/089ae615025fe668591aeb9eafc4ccf4> <https://colonialcollections.nl/schema#name> "LANS" .
+<https://n2t.net/ark:/27023/089ae615025fe668591aeb9eafc4ccf4> <https://colonialcollections.nl/schema#description> "Een lans gemaakt van een lengte rond gesneden palmhout. De punt met twee weerhaken is van gesmeed ijzer gemaakt. De punt staat op een ronde bus, die over de schacht schuift." .
+<https://n2t.net/ark:/27023/089ae615025fe668591aeb9eafc4ccf4> <https://colonialcollections.nl/schema#material> "ijzer ;  palmhout" .
+<https://n2t.net/ark:/27023/089ae615025fe668591aeb9eafc4ccf4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

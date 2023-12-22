@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0966844b8899be78781c8100ddf8a3cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0966844b8899be78781c8100ddf8a3cf> <https://colonialcollections.nl/schema#identifier> "RV-5578-34" .
+<https://n2t.net/ark:/27023/0966844b8899be78781c8100ddf8a3cf> <https://colonialcollections.nl/schema#name> "Onderzetter" .
+<https://n2t.net/ark:/27023/0966844b8899be78781c8100ddf8a3cf> <https://colonialcollections.nl/schema#material> "blad, palmblad ?" .
+<https://n2t.net/ark:/27023/0966844b8899be78781c8100ddf8a3cf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

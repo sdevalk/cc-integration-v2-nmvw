@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/10dffee34c17b4eed64e0d4ef8933f9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/10dffee34c17b4eed64e0d4ef8933f9e> <https://colonialcollections.nl/schema#identifier> "RV-5601-5" .
+<https://n2t.net/ark:/27023/10dffee34c17b4eed64e0d4ef8933f9e> <https://colonialcollections.nl/schema#name> "Schouderdoek" .
+<https://n2t.net/ark:/27023/10dffee34c17b4eed64e0d4ef8933f9e> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/10dffee34c17b4eed64e0d4ef8933f9e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

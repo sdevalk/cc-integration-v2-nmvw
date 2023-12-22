@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0b2a52341d29069207986213d2f2eca4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b2a52341d29069207986213d2f2eca4> <https://colonialcollections.nl/schema#identifier> "RV-2211-232" .
+<https://n2t.net/ark:/27023/0b2a52341d29069207986213d2f2eca4> <https://colonialcollections.nl/schema#name> "Bijl" .
+<https://n2t.net/ark:/27023/0b2a52341d29069207986213d2f2eca4> <https://colonialcollections.nl/schema#description> "Inv.kaart: Zuid Congobekken verm Ba Songe" .
+<https://n2t.net/ark:/27023/0b2a52341d29069207986213d2f2eca4> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; koper" .
+<https://n2t.net/ark:/27023/0b2a52341d29069207986213d2f2eca4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

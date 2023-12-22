@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0b3a54021f812049dfd55cac01eab8cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b3a54021f812049dfd55cac01eab8cd> <https://colonialcollections.nl/schema#identifier> "RV-714-10" .
+<https://n2t.net/ark:/27023/0b3a54021f812049dfd55cac01eab8cd> <https://colonialcollections.nl/schema#name> "HOOFDDEKSEL" .
+<https://n2t.net/ark:/27023/0b3a54021f812049dfd55cac01eab8cd> <https://colonialcollections.nl/schema#description> "Hoofddeksel uit Angola van vezel. Zie M6-58." .
+<https://n2t.net/ark:/27023/0b3a54021f812049dfd55cac01eab8cd> <https://colonialcollections.nl/schema#material> "vezel" .
+<https://n2t.net/ark:/27023/0b3a54021f812049dfd55cac01eab8cd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

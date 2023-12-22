@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/18134be9b950db01c4500747af4ffaa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18134be9b950db01c4500747af4ffaa1> <https://colonialcollections.nl/schema#identifier> "WM-72110" .
+<https://n2t.net/ark:/27023/18134be9b950db01c4500747af4ffaa1> <https://colonialcollections.nl/schema#description> "[DE] hand (gestileerd) & achthoek (gestileerd)" .
+<https://n2t.net/ark:/27023/18134be9b950db01c4500747af4ffaa1> <https://colonialcollections.nl/schema#material> "koper (?)" .
+<https://n2t.net/ark:/27023/18134be9b950db01c4500747af4ffaa1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

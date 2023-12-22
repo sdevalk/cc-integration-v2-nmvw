@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/04001be5e0f9782a6a6279b3a759182d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/04001be5e0f9782a6a6279b3a759182d> <https://colonialcollections.nl/schema#identifier> "RV-446-5" .
+<https://n2t.net/ark:/27023/04001be5e0f9782a6a6279b3a759182d> <https://colonialcollections.nl/schema#name> "Stadsplattegrond: Osaka" .
+<https://n2t.net/ark:/27023/04001be5e0f9782a6a6279b3a759182d> <https://colonialcollections.nl/schema#description> "uitgever: Nomura chôhei ; kaart van Osaka" .
+<https://n2t.net/ark:/27023/04001be5e0f9782a6a6279b3a759182d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

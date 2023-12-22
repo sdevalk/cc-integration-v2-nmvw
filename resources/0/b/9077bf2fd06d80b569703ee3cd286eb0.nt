@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/025751050dac1b8ae771a2fd5cb9f67e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/025751050dac1b8ae771a2fd5cb9f67e> <https://colonialcollections.nl/schema#identifier> "RV-2668-2351" .
+<https://n2t.net/ark:/27023/025751050dac1b8ae771a2fd5cb9f67e> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://n2t.net/ark:/27023/025751050dac1b8ae771a2fd5cb9f67e> <https://colonialcollections.nl/schema#material> "ijzer ; hout;koper" .
+<https://n2t.net/ark:/27023/025751050dac1b8ae771a2fd5cb9f67e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

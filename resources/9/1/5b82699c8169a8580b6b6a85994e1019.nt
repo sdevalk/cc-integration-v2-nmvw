@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/179f0c33f40a66bd18b539f86d0ee3ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/179f0c33f40a66bd18b539f86d0ee3ab> <https://colonialcollections.nl/schema#identifier> "WM-61308" .
+<https://n2t.net/ark:/27023/179f0c33f40a66bd18b539f86d0ee3ab> <https://colonialcollections.nl/schema#description> "[KL] rood & wit & blauw\r\n[ST] Chevronkraal (26 stuks)\r\n[VO] verschillende modellen." .
+<https://n2t.net/ark:/27023/179f0c33f40a66bd18b539f86d0ee3ab> <https://colonialcollections.nl/schema#material> "glas\r\ngeregen" .
+<https://n2t.net/ark:/27023/179f0c33f40a66bd18b539f86d0ee3ab> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

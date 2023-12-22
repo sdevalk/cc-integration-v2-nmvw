@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/11b6f7d309ba8875a14eca4967015bef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/11b6f7d309ba8875a14eca4967015bef> <https://colonialcollections.nl/schema#identifier> "WM-64201" .
+<https://n2t.net/ark:/27023/11b6f7d309ba8875a14eca4967015bef> <https://colonialcollections.nl/schema#description> "[KL] blauw [ST] vlinder (textiel)" .
+<https://n2t.net/ark:/27023/11b6f7d309ba8875a14eca4967015bef> <https://colonialcollections.nl/schema#material> "metaal,  email,  textiel\r\ngeemailerd" .
+<https://n2t.net/ark:/27023/11b6f7d309ba8875a14eca4967015bef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

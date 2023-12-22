@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0927d96360cba4912b3bde0a564e49c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0927d96360cba4912b3bde0a564e49c4> <https://colonialcollections.nl/schema#identifier> "WM-13353" .
+<https://n2t.net/ark:/27023/0927d96360cba4912b3bde0a564e49c4> <https://colonialcollections.nl/schema#description> "[ST] vlakke zolen & teenknop" .
+<https://n2t.net/ark:/27023/0927d96360cba4912b3bde0a564e49c4> <https://colonialcollections.nl/schema#material> "hout\r\ngesneden" .
+<https://n2t.net/ark:/27023/0927d96360cba4912b3bde0a564e49c4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

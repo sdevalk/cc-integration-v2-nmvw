@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1127f60ec5d9e144223211855a83905e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1127f60ec5d9e144223211855a83905e> <https://colonialcollections.nl/schema#identifier> "TM-3912-815a" .
+<https://n2t.net/ark:/27023/1127f60ec5d9e144223211855a83905e> <https://colonialcollections.nl/schema#name> "RUITERDOLK MET EEN BIJBEHORENDE SCHEDE" .
+<https://n2t.net/ark:/27023/1127f60ec5d9e144223211855a83905e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1127f60ec5d9e144223211855a83905e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

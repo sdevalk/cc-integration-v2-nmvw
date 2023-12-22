@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/08dc33e8303570fe1d584ec76183f348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/08dc33e8303570fe1d584ec76183f348> <https://colonialcollections.nl/schema#identifier> "TM-3925-247" .
+<https://n2t.net/ark:/27023/08dc33e8303570fe1d584ec76183f348> <https://colonialcollections.nl/schema#name> "HOUTEN PIJPENKOP MET EEN STUKJE STEEL" .
+<https://n2t.net/ark:/27023/08dc33e8303570fe1d584ec76183f348> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/08dc33e8303570fe1d584ec76183f348> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

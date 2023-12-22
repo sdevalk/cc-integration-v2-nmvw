@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1338ac350d238c45895428b169b15591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1338ac350d238c45895428b169b15591> <https://colonialcollections.nl/schema#identifier> "TM-4714-23" .
+<https://n2t.net/ark:/27023/1338ac350d238c45895428b169b15591> <https://colonialcollections.nl/schema#name> "KOPEREN ZITTENDE BOEDDHA MET BOOMMOTIEF" .
+<https://n2t.net/ark:/27023/1338ac350d238c45895428b169b15591> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1338ac350d238c45895428b169b15591> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

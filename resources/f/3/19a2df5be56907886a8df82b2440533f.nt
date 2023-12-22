@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <https://colonialcollections.nl/schema#identifier> "WM-75105" .
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <https://colonialcollections.nl/schema#description> "[KL] beige & bruin\r\n[VO] deksel met uitsteeksel & kelk-vormig\r\n[DE] lijnpatronen & kruis & driehoek" .
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <https://colonialcollections.nl/schema#material> "aardewerk & slib\r\nongeglazuurd" .
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/176418087635f573e89038b4ea6165fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

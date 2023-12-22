@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <https://colonialcollections.nl/schema#identifier> "TM-5920-2" .
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <https://colonialcollections.nl/schema#name> "PORTRET VAN CHIEF ABSALOM MAGWAZA DOOR BOBBY BOBSON" .
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <https://colonialcollections.nl/schema#material> "paintbrush op papier" .
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <https://colonialcollections.nl/schema#creator> "B. (Bobby) Bobson" .
+<https://n2t.net/ark:/27023/00b85f9208da21365d5b72961d5e834f> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

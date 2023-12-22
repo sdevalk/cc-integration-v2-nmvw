@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/03782ab46ed11756ff03a88dfe2d5fdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/03782ab46ed11756ff03a88dfe2d5fdb> <https://colonialcollections.nl/schema#identifier> "WM-13572" .
+<https://n2t.net/ark:/27023/03782ab46ed11756ff03a88dfe2d5fdb> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/03782ab46ed11756ff03a88dfe2d5fdb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

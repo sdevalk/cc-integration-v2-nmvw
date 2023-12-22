@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/111655b33bb3aae59f17e2fc2cc5eae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/111655b33bb3aae59f17e2fc2cc5eae5> <https://colonialcollections.nl/schema#identifier> "WM-32466" .
+<https://n2t.net/ark:/27023/111655b33bb3aae59f17e2fc2cc5eae5> <https://colonialcollections.nl/schema#material> "hout, metaal" .
+<https://n2t.net/ark:/27023/111655b33bb3aae59f17e2fc2cc5eae5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

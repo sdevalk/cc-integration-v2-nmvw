@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/08cccce8d617089a73bab8bfa63d564a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/08cccce8d617089a73bab8bfa63d564a> <https://colonialcollections.nl/schema#identifier> "RV-2349-1" .
+<https://n2t.net/ark:/27023/08cccce8d617089a73bab8bfa63d564a> <https://colonialcollections.nl/schema#name> "Stamper" .
+<https://n2t.net/ark:/27023/08cccce8d617089a73bab8bfa63d564a> <https://colonialcollections.nl/schema#material> "steen" .
+<https://n2t.net/ark:/27023/08cccce8d617089a73bab8bfa63d564a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

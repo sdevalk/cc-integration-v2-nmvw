@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/09b69cfb7840db2d43bcfaa3b7c6908d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/09b69cfb7840db2d43bcfaa3b7c6908d> <https://colonialcollections.nl/schema#identifier> "WM-60193" .
+<https://n2t.net/ark:/27023/09b69cfb7840db2d43bcfaa3b7c6908d> <https://colonialcollections.nl/schema#description> "[VO] blankhouten driepoot uit één stuk hout gesneden.\r\n        Lijkt het meest op kolenschep met omlaag gebogen handvat\r\n        en twee pootjes onder de schep." .
+<https://n2t.net/ark:/27023/09b69cfb7840db2d43bcfaa3b7c6908d> <https://colonialcollections.nl/schema#material> "hout\r\ngesneden" .
+<https://n2t.net/ark:/27023/09b69cfb7840db2d43bcfaa3b7c6908d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0981f9eb660a847b3bea4c101436eced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0981f9eb660a847b3bea4c101436eced> <https://colonialcollections.nl/schema#identifier> "TM-4997-4" .
+<https://n2t.net/ark:/27023/0981f9eb660a847b3bea4c101436eced> <https://colonialcollections.nl/schema#name> "MET MOTIEVEN VERSIERDE WOLLEN WIKKELDOEK" .
+<https://n2t.net/ark:/27023/0981f9eb660a847b3bea4c101436eced> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0981f9eb660a847b3bea4c101436eced> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

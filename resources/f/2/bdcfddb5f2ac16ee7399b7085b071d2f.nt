@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/11bfe9296b8b36fdd8ec71b1b82cacfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/11bfe9296b8b36fdd8ec71b1b82cacfe> <https://colonialcollections.nl/schema#identifier> "WM-22817" .
+<https://n2t.net/ark:/27023/11bfe9296b8b36fdd8ec71b1b82cacfe> <https://colonialcollections.nl/schema#description> "[ST] franje (3 zijden)\r\n[MO] ruit" .
+<https://n2t.net/ark:/27023/11bfe9296b8b36fdd8ec71b1b82cacfe> <https://colonialcollections.nl/schema#material> "raffia\r\ngeweven (linnenbinding met flotterende draden)" .
+<https://n2t.net/ark:/27023/11bfe9296b8b36fdd8ec71b1b82cacfe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

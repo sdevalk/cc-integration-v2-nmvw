@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0167687c38d3d4af11f73e51abc1a0fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0167687c38d3d4af11f73e51abc1a0fb> <https://colonialcollections.nl/schema#identifier> "RV-1173-7" .
+<https://n2t.net/ark:/27023/0167687c38d3d4af11f73e51abc1a0fb> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://n2t.net/ark:/27023/0167687c38d3d4af11f73e51abc1a0fb> <https://colonialcollections.nl/schema#material> "verguld hout" .
+<https://n2t.net/ark:/27023/0167687c38d3d4af11f73e51abc1a0fb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

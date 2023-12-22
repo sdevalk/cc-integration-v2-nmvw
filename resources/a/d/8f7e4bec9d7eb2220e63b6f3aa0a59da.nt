@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/03097931b716a372d0d31ffb1e76a0d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/03097931b716a372d0d31ffb1e76a0d9> <https://colonialcollections.nl/schema#identifier> "TM-3290-82" .
+<https://n2t.net/ark:/27023/03097931b716a372d0d31ffb1e76a0d9> <https://colonialcollections.nl/schema#name> "HOUTEN VOGELKOOI MET TRALIES VAN IJZERDRAAD" .
+<https://n2t.net/ark:/27023/03097931b716a372d0d31ffb1e76a0d9> <https://colonialcollections.nl/schema#description> "Dit soort vogelkooien dient voor het houden en vervoeren van kleine (zang-)vogels. De haak waaraan een kooi doorgaans hangt ontbreekt bij dit exemplaar." .
+<https://n2t.net/ark:/27023/03097931b716a372d0d31ffb1e76a0d9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/03097931b716a372d0d31ffb1e76a0d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

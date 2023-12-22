@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#identifier> "RV-3509-50" .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#name> "DEEL VAN EEN BEELD: KOP VAN EEN ORANTE" .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#description> "Kop van orante in 3/4 profiel. Datering: 5e - 6e eeuw." .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#material> "stuc" .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#yearCreatedStart> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/03ff2c628fe3e78604a06769fcbf2aca> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .

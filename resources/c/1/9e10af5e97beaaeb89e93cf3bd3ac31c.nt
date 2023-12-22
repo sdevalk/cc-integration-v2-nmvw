@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/1327786f9e859a6410bbb0677969c56f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1327786f9e859a6410bbb0677969c56f> <https://colonialcollections.nl/schema#identifier> "WM-32340" .
+<https://n2t.net/ark:/27023/1327786f9e859a6410bbb0677969c56f> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/1327786f9e859a6410bbb0677969c56f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

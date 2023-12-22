@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0b1aabd1c888d0404ee3ff09ec7a133e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b1aabd1c888d0404ee3ff09ec7a133e> <https://colonialcollections.nl/schema#identifier> "WM-57500" .
+<https://n2t.net/ark:/27023/0b1aabd1c888d0404ee3ff09ec7a133e> <https://colonialcollections.nl/schema#description> "[KL] groen\r\n[ST] oor" .
+<https://n2t.net/ark:/27023/0b1aabd1c888d0404ee3ff09ec7a133e> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & geglazuurd\r\nHet rood is opgebracht na het groen van glazuur." .
+<https://n2t.net/ark:/27023/0b1aabd1c888d0404ee3ff09ec7a133e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

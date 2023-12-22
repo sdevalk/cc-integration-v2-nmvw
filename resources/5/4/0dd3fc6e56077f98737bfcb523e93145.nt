@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/02774419f613d6ac3e511a4fb4b5ffeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/02774419f613d6ac3e511a4fb4b5ffeb> <https://colonialcollections.nl/schema#identifier> "TM-3232-6" .
+<https://n2t.net/ark:/27023/02774419f613d6ac3e511a4fb4b5ffeb> <https://colonialcollections.nl/schema#name> "RIETEN PIJLENKOKER MET TWAALF VERGIFTIGDE PIJLEN" .
+<https://n2t.net/ark:/27023/02774419f613d6ac3e511a4fb4b5ffeb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/02774419f613d6ac3e511a4fb4b5ffeb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

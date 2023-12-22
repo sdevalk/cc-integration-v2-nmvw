@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/12f1885c1e5cc93b229b2dde57da5bb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/12f1885c1e5cc93b229b2dde57da5bb6> <https://colonialcollections.nl/schema#identifier> "TM-3764-20" .
+<https://n2t.net/ark:/27023/12f1885c1e5cc93b229b2dde57da5bb6> <https://colonialcollections.nl/schema#name> "HOUTEN GELAATSSTEMPEL" .
+<https://n2t.net/ark:/27023/12f1885c1e5cc93b229b2dde57da5bb6> <https://colonialcollections.nl/schema#description> "Herk: Piaroa Indianen Zuidwest Venezuela Zuid Amerika" .
+<https://n2t.net/ark:/27023/12f1885c1e5cc93b229b2dde57da5bb6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/12f1885c1e5cc93b229b2dde57da5bb6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

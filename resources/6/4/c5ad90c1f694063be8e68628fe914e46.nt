@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/042b8bf4b3facdd531e65458c5b2e012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/042b8bf4b3facdd531e65458c5b2e012> <https://colonialcollections.nl/schema#identifier> "RV-503-194" .
+<https://n2t.net/ark:/27023/042b8bf4b3facdd531e65458c5b2e012> <https://colonialcollections.nl/schema#name> "OVERGARMENT (CARAVAN)" .
+<https://n2t.net/ark:/27023/042b8bf4b3facdd531e65458c5b2e012> <https://colonialcollections.nl/schema#description> "gedragen door een aanvoerder van een karavaan x?" .
+<https://n2t.net/ark:/27023/042b8bf4b3facdd531e65458c5b2e012> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/042b8bf4b3facdd531e65458c5b2e012> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

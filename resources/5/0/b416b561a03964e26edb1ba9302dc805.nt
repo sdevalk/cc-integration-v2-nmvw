@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/02abf3d0353abc66b95d49cca1efc5ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/02abf3d0353abc66b95d49cca1efc5ff> <https://colonialcollections.nl/schema#identifier> "TM-4106-41" .
+<https://n2t.net/ark:/27023/02abf3d0353abc66b95d49cca1efc5ff> <https://colonialcollections.nl/schema#name> "GELDTAS" .
+<https://n2t.net/ark:/27023/02abf3d0353abc66b95d49cca1efc5ff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/02abf3d0353abc66b95d49cca1efc5ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

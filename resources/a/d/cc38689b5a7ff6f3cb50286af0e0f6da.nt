@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0fc56bb0a84be2e4a53f2cd3ac273710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0fc56bb0a84be2e4a53f2cd3ac273710> <https://colonialcollections.nl/schema#identifier> "WM-70373" .
+<https://n2t.net/ark:/27023/0fc56bb0a84be2e4a53f2cd3ac273710> <https://colonialcollections.nl/schema#description> "[ST] handvat (2)\r\n[KL] bruin (fond) & zwart & groen" .
+<https://n2t.net/ark:/27023/0fc56bb0a84be2e4a53f2cd3ac273710> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & geglazuurd & beschilderd" .
+<https://n2t.net/ark:/27023/0fc56bb0a84be2e4a53f2cd3ac273710> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

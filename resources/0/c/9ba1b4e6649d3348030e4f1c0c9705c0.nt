@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0278ccdc3452ae3ac1850c93b4c685a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0278ccdc3452ae3ac1850c93b4c685a1> <https://colonialcollections.nl/schema#identifier> "TM-4214-290" .
+<https://n2t.net/ark:/27023/0278ccdc3452ae3ac1850c93b4c685a1> <https://colonialcollections.nl/schema#name> "GROTE ZAK MET 2 HENGSELKOORDEN" .
+<https://n2t.net/ark:/27023/0278ccdc3452ae3ac1850c93b4c685a1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0278ccdc3452ae3ac1850c93b4c685a1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

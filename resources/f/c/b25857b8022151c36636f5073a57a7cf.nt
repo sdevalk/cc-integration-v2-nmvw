@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/111add61552fa338aa4ba3fd7cc84fdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/111add61552fa338aa4ba3fd7cc84fdf> <https://colonialcollections.nl/schema#identifier> "TM-4956-115" .
+<https://n2t.net/ark:/27023/111add61552fa338aa4ba3fd7cc84fdf> <https://colonialcollections.nl/schema#name> "ALUMINIUM MOK" .
+<https://n2t.net/ark:/27023/111add61552fa338aa4ba3fd7cc84fdf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/111add61552fa338aa4ba3fd7cc84fdf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

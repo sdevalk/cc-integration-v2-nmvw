@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0b558b535217471721a8fe79a2d1a21f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b558b535217471721a8fe79a2d1a21f> <https://colonialcollections.nl/schema#identifier> "TM-3782-198" .
+<https://n2t.net/ark:/27023/0b558b535217471721a8fe79a2d1a21f> <https://colonialcollections.nl/schema#name> "GEELKOPEREN DUBBELHAAK VOOR HET SCHOONMAKEN VAN OPENINGEN VAN GEWEREN" .
+<https://n2t.net/ark:/27023/0b558b535217471721a8fe79a2d1a21f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0b558b535217471721a8fe79a2d1a21f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

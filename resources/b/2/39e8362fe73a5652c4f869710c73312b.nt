@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/01274c2afac6ede597e2ce5042971089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/01274c2afac6ede597e2ce5042971089> <https://colonialcollections.nl/schema#identifier> "TM-2656-3b" .
+<https://n2t.net/ark:/27023/01274c2afac6ede597e2ce5042971089> <https://colonialcollections.nl/schema#name> "BAMBOE DEKSEL MET GOUDKLEURIGE VOORSTELLING, BEHORENDE BIJ SIRIHDOOS" .
+<https://n2t.net/ark:/27023/01274c2afac6ede597e2ce5042971089> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/01274c2afac6ede597e2ce5042971089> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

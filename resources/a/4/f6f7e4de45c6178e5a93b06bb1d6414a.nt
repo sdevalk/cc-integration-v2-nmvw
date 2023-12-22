@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <https://colonialcollections.nl/schema#identifier> "WM-4806" .
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <https://colonialcollections.nl/schema#material> "kalebas\r\ngesneden & beschilderd" .
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <https://colonialcollections.nl/schema#inscription> "[T] \"Ik ben tevreden met mijn lot\"." .
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/10ab37776159f5fc445d36925337a4fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

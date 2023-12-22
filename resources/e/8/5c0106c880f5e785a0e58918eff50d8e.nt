@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#identifier> "WM-940132-28-4" .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#name> "AUGOSTAN MEI 1937" .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#description> "reisfotografie & tuin & man & mannenkleding : kostuum & vrouw & pad : wandelpad" .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/039cd5c6f292874ea6a2e8e1740c180c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

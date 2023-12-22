@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0fe575a77962b0f2224bb4bab9166dc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0fe575a77962b0f2224bb4bab9166dc4> <https://colonialcollections.nl/schema#identifier> "TM-H-2888d" .
+<https://n2t.net/ark:/27023/0fe575a77962b0f2224bb4bab9166dc4> <https://colonialcollections.nl/schema#name> "STEEN UIT DE PREHISTORIE, VERMOEDELIJK EEN WRIJFSTEEN" .
+<https://n2t.net/ark:/27023/0fe575a77962b0f2224bb4bab9166dc4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0fe575a77962b0f2224bb4bab9166dc4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

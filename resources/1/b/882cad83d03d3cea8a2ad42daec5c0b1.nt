@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0320480a37a0f355fae44fa65cf8e992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0320480a37a0f355fae44fa65cf8e992> <https://colonialcollections.nl/schema#identifier> "WM-59386" .
+<https://n2t.net/ark:/27023/0320480a37a0f355fae44fa65cf8e992> <https://colonialcollections.nl/schema#description> "[VO] variant op 59366." .
+<https://n2t.net/ark:/27023/0320480a37a0f355fae44fa65cf8e992> <https://colonialcollections.nl/schema#material> "brons\r\ngegoten (a-cire-perdue)" .
+<https://n2t.net/ark:/27023/0320480a37a0f355fae44fa65cf8e992> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

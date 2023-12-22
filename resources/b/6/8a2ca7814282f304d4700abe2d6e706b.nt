@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/08a86b9005346bf361c3d9eb892d13b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/08a86b9005346bf361c3d9eb892d13b8> <https://colonialcollections.nl/schema#identifier> "WM-61399" .
+<https://n2t.net/ark:/27023/08a86b9005346bf361c3d9eb892d13b8> <https://colonialcollections.nl/schema#description> "[VO] rechthoekig\r\n[ST] flap & schouderriem" .
+<https://n2t.net/ark:/27023/08a86b9005346bf361c3d9eb892d13b8> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/08a86b9005346bf361c3d9eb892d13b8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

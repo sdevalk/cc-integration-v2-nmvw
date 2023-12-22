@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0ac98e023f81a181b40f86a8fba51c46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ac98e023f81a181b40f86a8fba51c46> <https://colonialcollections.nl/schema#identifier> "RV-4749-8d" .
+<https://n2t.net/ark:/27023/0ac98e023f81a181b40f86a8fba51c46> <https://colonialcollections.nl/schema#name> "BROEK VAN HERENKOSTUUM" .
+<https://n2t.net/ark:/27023/0ac98e023f81a181b40f86a8fba51c46> <https://colonialcollections.nl/schema#description> "Deze broek maakt deel uit van een herenkostuum (4749-7a t/m d)." .
+<https://n2t.net/ark:/27023/0ac98e023f81a181b40f86a8fba51c46> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/0ac98e023f81a181b40f86a8fba51c46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0b036ea5711df55a496bb6b2c25e32a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0b036ea5711df55a496bb6b2c25e32a2> <https://colonialcollections.nl/schema#identifier> "WM-24055" .
+<https://n2t.net/ark:/27023/0b036ea5711df55a496bb6b2c25e32a2> <https://colonialcollections.nl/schema#description> "stukje met flottante inslag. sprekend voorbeeld van materiaalverspilling." .
+<https://n2t.net/ark:/27023/0b036ea5711df55a496bb6b2c25e32a2> <https://colonialcollections.nl/schema#material> "zijde, gouddraad\r\ngebrocheerd, gelanceerd" .
+<https://n2t.net/ark:/27023/0b036ea5711df55a496bb6b2c25e32a2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

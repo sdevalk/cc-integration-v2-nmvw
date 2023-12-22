@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0324f4e3807d88d41c530105a7d0cba8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0324f4e3807d88d41c530105a7d0cba8> <https://colonialcollections.nl/schema#identifier> "TM-A-2377a" .
+<https://n2t.net/ark:/27023/0324f4e3807d88d41c530105a7d0cba8> <https://colonialcollections.nl/schema#name> "BEELD" .
+<https://n2t.net/ark:/27023/0324f4e3807d88d41c530105a7d0cba8> <https://colonialcollections.nl/schema#description> "En beeldje gemaakt van hout. Het beeld stelt een man voor met een ronde pot op zijn hoofd. Het beeldje van een bovennatuurlijk mannelijk figuur is onderdeel van een paar.\r\nZie : TM-A-2377b" .
+<https://n2t.net/ark:/27023/0324f4e3807d88d41c530105a7d0cba8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0324f4e3807d88d41c530105a7d0cba8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
