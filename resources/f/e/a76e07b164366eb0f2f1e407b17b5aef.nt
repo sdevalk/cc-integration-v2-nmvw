@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1b322c22a62c09db0e4d6250e0efad43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1b322c22a62c09db0e4d6250e0efad43> <https://colonialcollections.nl/schema#identifier> "WM-73862" .
+<https://n2t.net/ark:/27023/1b322c22a62c09db0e4d6250e0efad43> <https://colonialcollections.nl/schema#description> "[KL] donkerbruin & goud & blauw (metaal) & rood\r\n[MO] bloem / plant" .
+<https://n2t.net/ark:/27023/1b322c22a62c09db0e4d6250e0efad43> <https://colonialcollections.nl/schema#material> "ijzer (?), messing of goud (?), textiel\r\ngeciseleerd (?)" .
+<https://n2t.net/ark:/27023/1b322c22a62c09db0e4d6250e0efad43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/22e1ae0f5f33b80f759d1c826ce5652a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/22e1ae0f5f33b80f759d1c826ce5652a> <https://colonialcollections.nl/schema#identifier> "WM-901342" .
+<https://n2t.net/ark:/27023/22e1ae0f5f33b80f759d1c826ce5652a> <https://colonialcollections.nl/schema#description> "personenbus  \r\nopgraving\r\narcheologische-vindplaats & tent" .
+<https://n2t.net/ark:/27023/22e1ae0f5f33b80f759d1c826ce5652a> <https://colonialcollections.nl/schema#material> "[MT] papier : Ridax\r\n[TK] ontwikkelgelatinezilverdruk\r\n[SD] contactafdruk\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/22e1ae0f5f33b80f759d1c826ce5652a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/22e1ae0f5f33b80f759d1c826ce5652a> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .

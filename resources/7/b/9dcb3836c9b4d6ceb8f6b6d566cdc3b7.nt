@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1869c2dc2552c7a0b9167352e945bf0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1869c2dc2552c7a0b9167352e945bf0d> <https://colonialcollections.nl/schema#identifier> "RV-5006-24b" .
+<https://n2t.net/ark:/27023/1869c2dc2552c7a0b9167352e945bf0d> <https://colonialcollections.nl/schema#name> "Stoof" .
+<https://n2t.net/ark:/27023/1869c2dc2552c7a0b9167352e945bf0d> <https://colonialcollections.nl/schema#description> "zie 4984-24a,c" .
+<https://n2t.net/ark:/27023/1869c2dc2552c7a0b9167352e945bf0d> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/1869c2dc2552c7a0b9167352e945bf0d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

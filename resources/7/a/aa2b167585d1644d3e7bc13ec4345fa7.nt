@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <https://colonialcollections.nl/schema#identifier> "RV-4778-32a" .
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <https://colonialcollections.nl/schema#name> "VEST MET GOUDDRAAD VERSIERD" .
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <https://colonialcollections.nl/schema#description> "Het vest wordt gedragen onder een jas (4778-32b) en is afkomstig uit Quteifa / Al Qutayfah ten noordoosten van Damascus." .
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <https://colonialcollections.nl/schema#material> "Katoen (verm) ; gouddraad" .
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/19daa278258df41a34946d6265164c74> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

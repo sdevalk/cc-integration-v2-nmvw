@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <https://colonialcollections.nl/schema#identifier> "TM-3782-612" .
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <https://colonialcollections.nl/schema#name> "PAPIEREN SJABLOON GEBRUIKT BIJ HET AANBRENGEN VAN PATRONEN OP MEUBELS" .
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <https://colonialcollections.nl/schema#description> "Sjabloon voor een geometrisch patroon. De oude motieven worden gekopieerd en vervolgens uit papier gesneden. De twee lagen papier worden op elkaar gelijmd." .
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <https://colonialcollections.nl/schema#material> "papier ; kunststof" .
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2146a0ea810611d28e063156ba3c1175> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

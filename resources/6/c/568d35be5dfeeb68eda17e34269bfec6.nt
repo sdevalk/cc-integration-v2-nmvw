@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2126fef49ee97f97572beec978a049d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2126fef49ee97f97572beec978a049d3> <https://colonialcollections.nl/schema#identifier> "WM-55693" .
+<https://n2t.net/ark:/27023/2126fef49ee97f97572beec978a049d3> <https://colonialcollections.nl/schema#description> "[KL] blank (hout);\r\n[VO] bijltje met lange, ronde tak als steel in schuine stand \r\n        vastgezet met een lederen bekleding;\r\n        Ijzeren kling, belvormig.\r\n[DE] ingebrande zigzaglijn." .
+<https://n2t.net/ark:/27023/2126fef49ee97f97572beec978a049d3> <https://colonialcollections.nl/schema#material> "ijzer, hout (zacht)\r\nruw gesmeed" .
+<https://n2t.net/ark:/27023/2126fef49ee97f97572beec978a049d3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

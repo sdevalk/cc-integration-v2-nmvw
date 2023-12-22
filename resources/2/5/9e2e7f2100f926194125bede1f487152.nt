@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2197d03d2e7680311699b84e511df95b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2197d03d2e7680311699b84e511df95b> <https://colonialcollections.nl/schema#identifier> "TM-3288-26" .
+<https://n2t.net/ark:/27023/2197d03d2e7680311699b84e511df95b> <https://colonialcollections.nl/schema#name> "STENEN BIJLKLING" .
+<https://n2t.net/ark:/27023/2197d03d2e7680311699b84e511df95b> <https://colonialcollections.nl/schema#description> "Herk: Shirishana indianen Venezuela" .
+<https://n2t.net/ark:/27023/2197d03d2e7680311699b84e511df95b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2197d03d2e7680311699b84e511df95b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

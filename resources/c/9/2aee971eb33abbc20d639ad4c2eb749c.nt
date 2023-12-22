@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/20d5b8d4eedeec06eb5706aa4b234fcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/20d5b8d4eedeec06eb5706aa4b234fcd> <https://colonialcollections.nl/schema#identifier> "RV-4835-775" .
+<https://n2t.net/ark:/27023/20d5b8d4eedeec06eb5706aa4b234fcd> <https://colonialcollections.nl/schema#name> "Katapult" .
+<https://n2t.net/ark:/27023/20d5b8d4eedeec06eb5706aa4b234fcd> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/20d5b8d4eedeec06eb5706aa4b234fcd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

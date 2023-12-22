@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/21cadc0969ddee8b44a61c5bfeaaa358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21cadc0969ddee8b44a61c5bfeaaa358> <https://colonialcollections.nl/schema#identifier> "TM-5633-86" .
+<https://n2t.net/ark:/27023/21cadc0969ddee8b44a61c5bfeaaa358> <https://colonialcollections.nl/schema#name> "BEENRAMMELAAR" .
+<https://n2t.net/ark:/27023/21cadc0969ddee8b44a61c5bfeaaa358> <https://colonialcollections.nl/schema#description> "Geraasmaker van een geperforeerde leren strook waarop gedroogde gehalveerde notenschalen met touwtjes van plantaardige vezels zijn vastgeknoopt. Deze slaan tegen elkaar aan tijdens het dansen en ondersteunen op die manier het ritme." .
+<https://n2t.net/ark:/27023/21cadc0969ddee8b44a61c5bfeaaa358> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/21cadc0969ddee8b44a61c5bfeaaa358> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

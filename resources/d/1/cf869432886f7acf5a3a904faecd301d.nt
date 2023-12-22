@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#identifier> "RV-1973-12" .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#name> "WATERKRUIK" .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#description> "Hoge kruik op smalle voet, dikke buik, en lange slanke hals. Zie ook 1973-12/13/14/15; 245-6 ; 559-12. Wordt gevuld vanuit ghellaya." .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#material> "Aardewerk" .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2a1bcd48b5e369ed5ab328266ce631e0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

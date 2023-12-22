@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/190723eb6f2324f3caa35f2e36457ac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/190723eb6f2324f3caa35f2e36457ac6> <https://colonialcollections.nl/schema#identifier> "WM-300551" .
+<https://n2t.net/ark:/27023/190723eb6f2324f3caa35f2e36457ac6> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://n2t.net/ark:/27023/190723eb6f2324f3caa35f2e36457ac6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <https://colonialcollections.nl/schema#identifier> "WM-29811" .
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <https://colonialcollections.nl/schema#description> "[ST] kralensnoer (om nek van dier) & kraag\r\n[KL] gezicht : rood & wit & donkerbruin & zwart kralensnoer : wit & donkerblauw & lichtblauw\r\n[VO] mensengezicht met bovenop viervoetig dier" .
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <https://colonialcollections.nl/schema#material> "hout, kleurstof, raffia (kraag), messing (kopspijker)" .
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/18bdba6146d0a7e3c8ad1b0587884fd4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

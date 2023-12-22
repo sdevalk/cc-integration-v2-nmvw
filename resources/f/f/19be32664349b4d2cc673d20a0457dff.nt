@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <https://colonialcollections.nl/schema#identifier> "TM-2429-92" .
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <https://colonialcollections.nl/schema#name> "AARDEWERK PIJPENKOP" .
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <https://colonialcollections.nl/schema#description> "De pijpenkop heeft een cylindrische, naar boven iets wijder uitlopende kop en steel. De kop is versierd met ingekraste streepjes en stippeltjes." .
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2efe07457cf746f8ed74fc4c74178906> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

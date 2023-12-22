@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/29fb45089e8c1165c6f9b63badf36c65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/29fb45089e8c1165c6f9b63badf36c65> <https://colonialcollections.nl/schema#identifier> "RV-3835-590" .
+<https://n2t.net/ark:/27023/29fb45089e8c1165c6f9b63badf36c65> <https://colonialcollections.nl/schema#name> "Pijl" .
+<https://n2t.net/ark:/27023/29fb45089e8c1165c6f9b63badf36c65> <https://colonialcollections.nl/schema#description> "zie 3835-578 t/m 589" .
+<https://n2t.net/ark:/27023/29fb45089e8c1165c6f9b63badf36c65> <https://colonialcollections.nl/schema#material> "riet ; hout" .
+<https://n2t.net/ark:/27023/29fb45089e8c1165c6f9b63badf36c65> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

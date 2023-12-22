@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2eb09f5b851cfc4820c997e6c1b95225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2eb09f5b851cfc4820c997e6c1b95225> <https://colonialcollections.nl/schema#identifier> "RV-4399-157" .
+<https://n2t.net/ark:/27023/2eb09f5b851cfc4820c997e6c1b95225> <https://colonialcollections.nl/schema#name> "Vaas" .
+<https://n2t.net/ark:/27023/2eb09f5b851cfc4820c997e6c1b95225> <https://colonialcollections.nl/schema#description> "Een grote vaas voor transport." .
+<https://n2t.net/ark:/27023/2eb09f5b851cfc4820c997e6c1b95225> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/2eb09f5b851cfc4820c997e6c1b95225> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

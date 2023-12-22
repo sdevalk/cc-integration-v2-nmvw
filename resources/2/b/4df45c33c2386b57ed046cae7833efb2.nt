@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/18dd9242d9fbc2f90c0762c911866cd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18dd9242d9fbc2f90c0762c911866cd5> <https://colonialcollections.nl/schema#identifier> "TM-5286-4" .
+<https://n2t.net/ark:/27023/18dd9242d9fbc2f90c0762c911866cd5> <https://colonialcollections.nl/schema#name> "GEZICHTSMASKER, MET EEN BOVENSTUK IN DE VORM VAN EEN SCHAAP" .
+<https://n2t.net/ark:/27023/18dd9242d9fbc2f90c0762c911866cd5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/18dd9242d9fbc2f90c0762c911866cd5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#identifier> "WM-940124-12" .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#description> "GE: stadsgezicht Bon Noura, landschapsfotografie\r\nHM: [PT] gezicht vanaf toren Beni Isguen; [VS] huizen, toren, stadswallen, dor heuvellandschap" .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/18dc7e187b8247f20fb3e38b8092f30e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

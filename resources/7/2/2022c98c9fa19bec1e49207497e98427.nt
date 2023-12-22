@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1f8478b0bb73dc27ed037a857a1d97e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1f8478b0bb73dc27ed037a857a1d97e3> <https://colonialcollections.nl/schema#identifier> "AM-85-6" .
+<https://n2t.net/ark:/27023/1f8478b0bb73dc27ed037a857a1d97e3> <https://colonialcollections.nl/schema#name> "Beker" .
+<https://n2t.net/ark:/27023/1f8478b0bb73dc27ed037a857a1d97e3> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHouten beker op lage voet, naturel van kleur met een zwartgekleurde bovenrand." .
+<https://n2t.net/ark:/27023/1f8478b0bb73dc27ed037a857a1d97e3> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/1f8478b0bb73dc27ed037a857a1d97e3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

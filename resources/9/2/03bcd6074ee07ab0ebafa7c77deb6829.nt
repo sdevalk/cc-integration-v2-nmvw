@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/224f7e71c6858ebf4d6a421ff148d494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/224f7e71c6858ebf4d6a421ff148d494> <https://colonialcollections.nl/schema#identifier> "TM-908-16" .
+<https://n2t.net/ark:/27023/224f7e71c6858ebf4d6a421ff148d494> <https://colonialcollections.nl/schema#name> "WIT METALEN DRAAGPENNING MET BEELTENIS VAN FRIEDRICH, DEUTSCHER KAISER" .
+<https://n2t.net/ark:/27023/224f7e71c6858ebf4d6a421ff148d494> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/224f7e71c6858ebf4d6a421ff148d494> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

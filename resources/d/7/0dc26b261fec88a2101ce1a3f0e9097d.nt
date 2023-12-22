@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/227c590b4d91bfa11608bd259b39046e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/227c590b4d91bfa11608bd259b39046e> <https://colonialcollections.nl/schema#identifier> "TM-3782-729" .
+<https://n2t.net/ark:/27023/227c590b4d91bfa11608bd259b39046e> <https://colonialcollections.nl/schema#name> "HOUTEN SPATEL MET INKERVING VOOR HET TREKKEN VAN LIJNEN" .
+<https://n2t.net/ark:/27023/227c590b4d91bfa11608bd259b39046e> <https://colonialcollections.nl/schema#description> "Dit is een gereedschap dat onder andere door de schoenmaker en tassenmaker wordt gebruikt. Hiermee worden op het leer van tassen en schoenen lijnen getrokken als versiering of om het borduurpatroon aan te geven." .
+<https://n2t.net/ark:/27023/227c590b4d91bfa11608bd259b39046e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/227c590b4d91bfa11608bd259b39046e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

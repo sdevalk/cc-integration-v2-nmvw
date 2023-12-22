@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1b1158e1bf9d917b55f250be65222bf9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1b1158e1bf9d917b55f250be65222bf9> <https://colonialcollections.nl/schema#identifier> "WM-61315" .
+<https://n2t.net/ark:/27023/1b1158e1bf9d917b55f250be65222bf9> <https://colonialcollections.nl/schema#description> "[VO] ronde opstaande rand. Zeefgedeelte, deels leer, deels \r\n        gevlochten paardenhaar." .
+<https://n2t.net/ark:/27023/1b1158e1bf9d917b55f250be65222bf9> <https://colonialcollections.nl/schema#material> "hout, leer, paardenhaar\r\ngevlochten" .
+<https://n2t.net/ark:/27023/1b1158e1bf9d917b55f250be65222bf9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

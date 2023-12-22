@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/29b3e25a8687042286fe04f7959bf2bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/29b3e25a8687042286fe04f7959bf2bb> <https://colonialcollections.nl/schema#identifier> "TM-5122-536d" .
+<https://n2t.net/ark:/27023/29b3e25a8687042286fe04f7959bf2bb> <https://colonialcollections.nl/schema#name> "RIET, ONDERDEEL VAN WEEFGETOUW" .
+<https://n2t.net/ark:/27023/29b3e25a8687042286fe04f7959bf2bb> <https://colonialcollections.nl/schema#material> "riet" .
+<https://n2t.net/ark:/27023/29b3e25a8687042286fe04f7959bf2bb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/29b3e25a8687042286fe04f7959bf2bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

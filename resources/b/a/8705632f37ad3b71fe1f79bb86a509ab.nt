@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2725780f930a304a4fc80836b0765f52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2725780f930a304a4fc80836b0765f52> <https://colonialcollections.nl/schema#identifier> "TM-4986-110" .
+<https://n2t.net/ark:/27023/2725780f930a304a4fc80836b0765f52> <https://colonialcollections.nl/schema#name> "LEREN GORDEL, VERSIERD MET TWEE RIJEN KAURISCHELPEN" .
+<https://n2t.net/ark:/27023/2725780f930a304a4fc80836b0765f52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2725780f930a304a4fc80836b0765f52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

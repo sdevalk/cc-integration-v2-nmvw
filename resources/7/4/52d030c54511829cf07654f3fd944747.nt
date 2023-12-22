@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/21d6603bad2a70ec048a9ba563c59f67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21d6603bad2a70ec048a9ba563c59f67> <https://colonialcollections.nl/schema#identifier> "TM-4113-667b" .
+<https://n2t.net/ark:/27023/21d6603bad2a70ec048a9ba563c59f67> <https://colonialcollections.nl/schema#name> "WIEL (B) VAN GARENWINDER/SPINNEWIEL/HASPEL BESTAANDE UIT (ONDERSTUK A WIEL B EN STAANDE LATTEN C EN D)" .
+<https://n2t.net/ark:/27023/21d6603bad2a70ec048a9ba563c59f67> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Thailand (land)" .
+<https://n2t.net/ark:/27023/21d6603bad2a70ec048a9ba563c59f67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/21d6603bad2a70ec048a9ba563c59f67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

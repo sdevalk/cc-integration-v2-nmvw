@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1995c958371e5331c94a8fb1747eccb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1995c958371e5331c94a8fb1747eccb9> <https://colonialcollections.nl/schema#identifier> "TM-3215-112" .
+<https://n2t.net/ark:/27023/1995c958371e5331c94a8fb1747eccb9> <https://colonialcollections.nl/schema#name> "KALEBAS GEBRUIKT DOOR EEN MEDICIJNMAN" .
+<https://n2t.net/ark:/27023/1995c958371e5331c94a8fb1747eccb9> <https://colonialcollections.nl/schema#description> "Deze magische kalebas wordt gebruikt door de obiaman, een veel geraadpleegde priester-medicijnman-waarzegger in de winti-cultuur." .
+<https://n2t.net/ark:/27023/1995c958371e5331c94a8fb1747eccb9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1995c958371e5331c94a8fb1747eccb9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

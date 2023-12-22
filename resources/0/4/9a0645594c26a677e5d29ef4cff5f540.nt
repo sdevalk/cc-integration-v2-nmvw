@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/209b584e5d6b98671921251eef77c206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/209b584e5d6b98671921251eef77c206> <https://colonialcollections.nl/schema#identifier> "WM-27166" .
+<https://n2t.net/ark:/27023/209b584e5d6b98671921251eef77c206> <https://colonialcollections.nl/schema#description> "[ST] vlak (hira-ne)\r\n[DE] cirkel & blad (3)" .
+<https://n2t.net/ark:/27023/209b584e5d6b98671921251eef77c206> <https://colonialcollections.nl/schema#material> "ijzer\r\ngesmeed;[NA] Komi;[PL] Echizen" .
+<https://n2t.net/ark:/27023/209b584e5d6b98671921251eef77c206> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

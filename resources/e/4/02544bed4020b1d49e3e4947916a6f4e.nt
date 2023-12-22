@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2fb61cef1cdb8402924ef29944d941ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fb61cef1cdb8402924ef29944d941ca> <https://colonialcollections.nl/schema#identifier> "WM-65201" .
+<https://n2t.net/ark:/27023/2fb61cef1cdb8402924ef29944d941ca> <https://colonialcollections.nl/schema#description> "Boek met newari-gezangen. Op pag. 101 wordt koning Girvan Juddha Vikrama Sah Deva (ca. 1810) bezongen." .
+<https://n2t.net/ark:/27023/2fb61cef1cdb8402924ef29944d941ca> <https://colonialcollections.nl/schema#material> "leer, papier, inkt" .
+<https://n2t.net/ark:/27023/2fb61cef1cdb8402924ef29944d941ca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

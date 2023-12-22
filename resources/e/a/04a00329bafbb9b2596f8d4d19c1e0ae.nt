@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1f43d23e6c553a60a3d3d68efeb02870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1f43d23e6c553a60a3d3d68efeb02870> <https://colonialcollections.nl/schema#identifier> "TM-A-8721" .
+<https://n2t.net/ark:/27023/1f43d23e6c553a60a3d3d68efeb02870> <https://colonialcollections.nl/schema#name> "ROOD GELAKT  HOUDER VOOR EEN MEDICIJNFLESJE" .
+<https://n2t.net/ark:/27023/1f43d23e6c553a60a3d3d68efeb02870> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1f43d23e6c553a60a3d3d68efeb02870> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

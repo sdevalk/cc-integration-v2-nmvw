@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <https://colonialcollections.nl/schema#identifier> "RV-503-97" .
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <https://colonialcollections.nl/schema#name> "IRON FOR SHOE" .
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <https://colonialcollections.nl/schema#description> "Ijzer om hoeven mee te snijden." .
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1f2d2c9be76abd52120a510bbce40583> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/199f0572b020bf11bf6d1a23cf034af5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/199f0572b020bf11bf6d1a23cf034af5> <https://colonialcollections.nl/schema#identifier> "RV-370-507" .
+<https://n2t.net/ark:/27023/199f0572b020bf11bf6d1a23cf034af5> <https://colonialcollections.nl/schema#name> "Wandelstok" .
+<https://n2t.net/ark:/27023/199f0572b020bf11bf6d1a23cf034af5> <https://colonialcollections.nl/schema#material> "hout ; satijnhout" .
+<https://n2t.net/ark:/27023/199f0572b020bf11bf6d1a23cf034af5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

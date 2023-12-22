@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2832a4234410d29afa5f840b4f801dbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2832a4234410d29afa5f840b4f801dbe> <https://colonialcollections.nl/schema#identifier> "RV-667-32" .
+<https://n2t.net/ark:/27023/2832a4234410d29afa5f840b4f801dbe> <https://colonialcollections.nl/schema#name> "Schort" .
+<https://n2t.net/ark:/27023/2832a4234410d29afa5f840b4f801dbe> <https://colonialcollections.nl/schema#material> "vezel" .
+<https://n2t.net/ark:/27023/2832a4234410d29afa5f840b4f801dbe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

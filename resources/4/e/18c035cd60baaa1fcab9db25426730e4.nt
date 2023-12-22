@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/20c1f15bf9d06a9e53a66a5f6509c62c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/20c1f15bf9d06a9e53a66a5f6509c62c> <https://colonialcollections.nl/schema#identifier> "TM-3290-228d" .
+<https://n2t.net/ark:/27023/20c1f15bf9d06a9e53a66a5f6509c62c> <https://colonialcollections.nl/schema#name> "KATOENEN ENKELBAND ALS ONDERDEEL VAN PAAR" .
+<https://n2t.net/ark:/27023/20c1f15bf9d06a9e53a66a5f6509c62c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/20c1f15bf9d06a9e53a66a5f6509c62c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

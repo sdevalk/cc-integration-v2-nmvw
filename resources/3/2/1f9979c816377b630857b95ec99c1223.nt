@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/21d25ea55ed286bf91e8df2b963636a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/21d25ea55ed286bf91e8df2b963636a4> <https://colonialcollections.nl/schema#identifier> "RV-74-134" .
+<https://n2t.net/ark:/27023/21d25ea55ed286bf91e8df2b963636a4> <https://colonialcollections.nl/schema#name> "Aloëvezel (monster)" .
+<https://n2t.net/ark:/27023/21d25ea55ed286bf91e8df2b963636a4> <https://colonialcollections.nl/schema#description> "Vermoedelijk een monster agavevezels (ixtle)." .
+<https://n2t.net/ark:/27023/21d25ea55ed286bf91e8df2b963636a4> <https://colonialcollections.nl/schema#material> "vezels" .
+<https://n2t.net/ark:/27023/21d25ea55ed286bf91e8df2b963636a4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/20f290e99e2ff0e30dc13e4d6d78197b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/20f290e99e2ff0e30dc13e4d6d78197b> <https://colonialcollections.nl/schema#identifier> "RV-796-45" .
+<https://n2t.net/ark:/27023/20f290e99e2ff0e30dc13e4d6d78197b> <https://colonialcollections.nl/schema#name> "Lans" .
+<https://n2t.net/ark:/27023/20f290e99e2ff0e30dc13e4d6d78197b> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://n2t.net/ark:/27023/20f290e99e2ff0e30dc13e4d6d78197b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

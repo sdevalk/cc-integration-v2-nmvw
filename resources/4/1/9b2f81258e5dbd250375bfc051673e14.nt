@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#identifier> "WM-31346" .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#name> "NKISI NDUDA" .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#description> "[VO] staand beeld los op houten voetstuk." .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#material> "hout, klei-, mais-, aarde-mengsel" .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#inscription> "[T] 938" .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2fb2559732cf0eab2690b61a0de1c7fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

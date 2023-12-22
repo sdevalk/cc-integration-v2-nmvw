@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <https://colonialcollections.nl/schema#identifier> "RV-4778-122" .
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <https://colonialcollections.nl/schema#name> "Lap" .
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <https://colonialcollections.nl/schema#description> "De doek werd gebruikt om over de kraag van een mantel (kaftan) te leggen. Volgens informatie van de verzamelaar is de doek vermoedelijk afkomstig uit het gebied Kuteife (Quteifa of Al Qutayfah) - Rahibe." .
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <https://colonialcollections.nl/schema#material> "Katoen" .
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/20740d22028a7ca30727992991e70d4d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

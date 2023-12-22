@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <https://colonialcollections.nl/schema#identifier> "TM-4241-42g" .
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <https://colonialcollections.nl/schema#name> "PAAR ROOD LEREN MUILTJES (BABOUCHES)" .
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <https://colonialcollections.nl/schema#description> "Het is een instapmodel van de muil. De achterkanten zijn platgetrapt. Vòòr heeft het bovenleer floraalmotieven in hoogrelief. De motieven zijn vermoedelijk gestanst. De zolen zijn naturelkleurig." .
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <https://colonialcollections.nl/schema#material> "leer ; leerbewerken" .
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/19c094ad8d8d6098d1c63b4f8bfa8779> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

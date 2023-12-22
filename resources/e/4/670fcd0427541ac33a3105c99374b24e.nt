@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <https://colonialcollections.nl/schema#identifier> "RV-4778-55" .
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <https://colonialcollections.nl/schema#name> "KATOENEN VEST MET BORDUURWERK EN KNOPEN VERSIERD" .
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <https://colonialcollections.nl/schema#description> "Het vest is volgens de verzamelaar afkomstig uit Rahibe." .
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <https://colonialcollections.nl/schema#material> "Katoen ; kunststof (knoopjes)" .
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2a36edaa597863d403578f3b5ebd3969> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

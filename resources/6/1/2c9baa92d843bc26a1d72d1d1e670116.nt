@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/18a8beeeba91c4c0d485d4d0e05f851b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/18a8beeeba91c4c0d485d4d0e05f851b> <https://colonialcollections.nl/schema#identifier> "TM-4108-31" .
+<https://n2t.net/ark:/27023/18a8beeeba91c4c0d485d4d0e05f851b> <https://colonialcollections.nl/schema#name> "NIEUW INVENTARISNUMMER: 2356-71" .
+<https://n2t.net/ark:/27023/18a8beeeba91c4c0d485d4d0e05f851b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/18a8beeeba91c4c0d485d4d0e05f851b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/225cd99d3f11f50a58a3bb9cc5902185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/225cd99d3f11f50a58a3bb9cc5902185> <https://colonialcollections.nl/schema#identifier> "RV-2431-5" .
+<https://n2t.net/ark:/27023/225cd99d3f11f50a58a3bb9cc5902185> <https://colonialcollections.nl/schema#name> "Mantel" .
+<https://n2t.net/ark:/27023/225cd99d3f11f50a58a3bb9cc5902185> <https://colonialcollections.nl/schema#description> "Mantel met kap, burnus." .
+<https://n2t.net/ark:/27023/225cd99d3f11f50a58a3bb9cc5902185> <https://colonialcollections.nl/schema#material> "wol" .
+<https://n2t.net/ark:/27023/225cd99d3f11f50a58a3bb9cc5902185> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

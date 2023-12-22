@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/28bffc0d29b7f6227b2444e065a93c9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28bffc0d29b7f6227b2444e065a93c9b> <https://colonialcollections.nl/schema#identifier> "TM-A-6250b" .
+<https://n2t.net/ark:/27023/28bffc0d29b7f6227b2444e065a93c9b> <https://colonialcollections.nl/schema#name> "PIJL MET RIETEN SCHACHT EN IJZEREN PUNT" .
+<https://n2t.net/ark:/27023/28bffc0d29b7f6227b2444e065a93c9b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/28bffc0d29b7f6227b2444e065a93c9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

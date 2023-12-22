@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <https://colonialcollections.nl/schema#identifier> "RV-503-162" .
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <https://colonialcollections.nl/schema#name> "VIER ZOLEN VOOR STOFFEN SCHOENEN (GIVEH)" .
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <https://colonialcollections.nl/schema#description> "Vier zolen gemaakt van dicht opeengepakte, korte lapjes stof (koneh, latteh-kohneh) vastgezet met een leren veter in het midden (duval) van elke zool. Volgens de oorspronkelijke registratiekaart werden deze zolen gebruikt voor mannen-giveh. (GVE, 2002)" .
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <https://colonialcollections.nl/schema#material> "katoen ; leer" .
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2a5b0f69769e01ad53d5334f0b0455ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/211203b7a4a58a143782413a7a3c3aba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/211203b7a4a58a143782413a7a3c3aba> <https://colonialcollections.nl/schema#identifier> "RV-3600-BEV-Z-96a" .
+<https://n2t.net/ark:/27023/211203b7a4a58a143782413a7a3c3aba> <https://colonialcollections.nl/schema#description> "Een kleed in leren banden, voorzien van een messingstang en koorden, volgens opgave een \"Perzische wieg\"." .
+<https://n2t.net/ark:/27023/211203b7a4a58a143782413a7a3c3aba> <https://colonialcollections.nl/schema#material> "wol ; leer ; messing" .
+<https://n2t.net/ark:/27023/211203b7a4a58a143782413a7a3c3aba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

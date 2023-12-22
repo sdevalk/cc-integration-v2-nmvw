@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/29bf421abb61ef767379d0cb6905d0bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/29bf421abb61ef767379d0cb6905d0bc> <https://colonialcollections.nl/schema#identifier> "WM-61402" .
+<https://n2t.net/ark:/27023/29bf421abb61ef767379d0cb6905d0bc> <https://colonialcollections.nl/schema#name> "SPEELGOEDDIER" .
+<https://n2t.net/ark:/27023/29bf421abb61ef767379d0cb6905d0bc> <https://colonialcollections.nl/schema#description> "[VO] dier : kameel\r\n[ST] wiel (4) & trektouw" .
+<https://n2t.net/ark:/27023/29bf421abb61ef767379d0cb6905d0bc> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/29bf421abb61ef767379d0cb6905d0bc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

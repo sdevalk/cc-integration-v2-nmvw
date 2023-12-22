@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1a2894cbee429b3920b737b3e61a161c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1a2894cbee429b3920b737b3e61a161c> <https://colonialcollections.nl/schema#identifier> "TM-2459-14" .
+<https://n2t.net/ark:/27023/1a2894cbee429b3920b737b3e61a161c> <https://colonialcollections.nl/schema#name> "VERGULDE HOUTEN PAUW, INGELEGD MET SPIEGELTJES" .
+<https://n2t.net/ark:/27023/1a2894cbee429b3920b737b3e61a161c> <https://colonialcollections.nl/schema#description> "De pauw sierde oorspronkelijk de tempels van Noord Thailand. Dat gebied was lang onder bestuur van Birma geweest. In Birma is de pauw de zonnevogel. Later heeft de pauw een eigen plaats in de Thaise kunst gekregen." .
+<https://n2t.net/ark:/27023/1a2894cbee429b3920b737b3e61a161c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1a2894cbee429b3920b737b3e61a161c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

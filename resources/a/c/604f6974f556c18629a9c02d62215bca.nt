@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#identifier> "RV-B1-2" .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#name> "Pijlpunt" .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#description> "B1-2/3/4: Drie harpoenen, waarmede de inwoners van den Indischen Archipel visch vangen (het zijn ijzeren pijlpunten van Suriname)." .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#material> "ijzer ?" .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1a848db65ff81cce9e74403f0979faae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1854"^^<http://www.w3.org/2001/XMLSchema#integer> .

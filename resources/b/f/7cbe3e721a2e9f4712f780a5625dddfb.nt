@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/29e86b357f77670d2091edc4efae2320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/29e86b357f77670d2091edc4efae2320> <https://colonialcollections.nl/schema#identifier> "TM-4318-468" .
+<https://n2t.net/ark:/27023/29e86b357f77670d2091edc4efae2320> <https://colonialcollections.nl/schema#name> "KUNSTZIJDEN VROUWENHOOFDDOEK" .
+<https://n2t.net/ark:/27023/29e86b357f77670d2091edc4efae2320> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/29e86b357f77670d2091edc4efae2320> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2f1102a6e1c438e7c1f1b223f9a55922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f1102a6e1c438e7c1f1b223f9a55922> <https://colonialcollections.nl/schema#identifier> "TM-4415-1c" .
+<https://n2t.net/ark:/27023/2f1102a6e1c438e7c1f1b223f9a55922> <https://colonialcollections.nl/schema#name> "ONDERDEEL SCHROEF VAN ARCHIMEDES" .
+<https://n2t.net/ark:/27023/2f1102a6e1c438e7c1f1b223f9a55922> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2f1102a6e1c438e7c1f1b223f9a55922> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

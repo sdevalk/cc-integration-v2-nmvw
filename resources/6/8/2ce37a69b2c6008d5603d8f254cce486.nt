@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2e920eb52e632699474a3b724da22a89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e920eb52e632699474a3b724da22a89> <https://colonialcollections.nl/schema#identifier> "RV-465-33" .
+<https://n2t.net/ark:/27023/2e920eb52e632699474a3b724da22a89> <https://colonialcollections.nl/schema#name> "Hoofdband" .
+<https://n2t.net/ark:/27023/2e920eb52e632699474a3b724da22a89> <https://colonialcollections.nl/schema#material> "wol ; koper, koperdraad x?" .
+<https://n2t.net/ark:/27023/2e920eb52e632699474a3b724da22a89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

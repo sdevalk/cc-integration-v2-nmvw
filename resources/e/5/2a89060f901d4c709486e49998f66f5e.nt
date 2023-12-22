@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2f0fe80e9ad197daf95796bf79e20a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2f0fe80e9ad197daf95796bf79e20a28> <https://colonialcollections.nl/schema#identifier> "TM-4991-231" .
+<https://n2t.net/ark:/27023/2f0fe80e9ad197daf95796bf79e20a28> <https://colonialcollections.nl/schema#name> "NYLON MEISJESJURK VOOR FEESTELIJKE GELEGENHEDEN" .
+<https://n2t.net/ark:/27023/2f0fe80e9ad197daf95796bf79e20a28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2f0fe80e9ad197daf95796bf79e20a28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

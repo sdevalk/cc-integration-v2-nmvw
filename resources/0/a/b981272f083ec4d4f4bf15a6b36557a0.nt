@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/28f61cd1375bce30e6f5330087724da2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/28f61cd1375bce30e6f5330087724da2> <https://colonialcollections.nl/schema#identifier> "TM-4113-651" .
+<https://n2t.net/ark:/27023/28f61cd1375bce30e6f5330087724da2> <https://colonialcollections.nl/schema#name> "DOBBER VAN EEN VISNET MET PLASTIC DRIJVERS, STENEN VERZWAARDERS EN TWEE BAMBOE STOKKEN" .
+<https://n2t.net/ark:/27023/28f61cd1375bce30e6f5330087724da2> <https://colonialcollections.nl/schema#description> "Dobber visnet bestaande uit net, twee stokken (nog met 10 en een half flesje) plastic drijvers (flesjes), scherpe metalen haken en 20 ronde (schijfvormige) stenen verzwaarders." .
+<https://n2t.net/ark:/27023/28f61cd1375bce30e6f5330087724da2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/28f61cd1375bce30e6f5330087724da2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

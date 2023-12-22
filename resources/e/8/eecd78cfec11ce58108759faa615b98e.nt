@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/211a4f1ce53c1cd5a77799386d391239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/211a4f1ce53c1cd5a77799386d391239> <https://colonialcollections.nl/schema#identifier> "RV-2210-42c" .
+<https://n2t.net/ark:/27023/211a4f1ce53c1cd5a77799386d391239> <https://colonialcollections.nl/schema#name> "Lampion" .
+<https://n2t.net/ark:/27023/211a4f1ce53c1cd5a77799386d391239> <https://colonialcollections.nl/schema#description> "zie 2210-42 tot en met 2210-42-c" .
+<https://n2t.net/ark:/27023/211a4f1ce53c1cd5a77799386d391239> <https://colonialcollections.nl/schema#material> "messing" .
+<https://n2t.net/ark:/27023/211a4f1ce53c1cd5a77799386d391239> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

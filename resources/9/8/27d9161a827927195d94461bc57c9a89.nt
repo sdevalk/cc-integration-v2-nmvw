@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1a835baf28a1f8d1ad0bb06d3740e53a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1a835baf28a1f8d1ad0bb06d3740e53a> <https://colonialcollections.nl/schema#identifier> "RV-3975-18c" .
+<https://n2t.net/ark:/27023/1a835baf28a1f8d1ad0bb06d3740e53a> <https://colonialcollections.nl/schema#name> "Katoenvlokken" .
+<https://n2t.net/ark:/27023/1a835baf28a1f8d1ad0bb06d3740e53a> <https://colonialcollections.nl/schema#description> "zie 3975-18a,18b" .
+<https://n2t.net/ark:/27023/1a835baf28a1f8d1ad0bb06d3740e53a> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/1a835baf28a1f8d1ad0bb06d3740e53a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

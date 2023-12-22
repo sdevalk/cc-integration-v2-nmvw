@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/191dcfd69f2f98658d72f3ff031d6b8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/191dcfd69f2f98658d72f3ff031d6b8c> <https://colonialcollections.nl/schema#identifier> "RV-733-19" .
+<https://n2t.net/ark:/27023/191dcfd69f2f98658d72f3ff031d6b8c> <https://colonialcollections.nl/schema#name> "Mok" .
+<https://n2t.net/ark:/27023/191dcfd69f2f98658d72f3ff031d6b8c> <https://colonialcollections.nl/schema#description> "Lijst Sanders : Kasai" .
+<https://n2t.net/ark:/27023/191dcfd69f2f98658d72f3ff031d6b8c> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/191dcfd69f2f98658d72f3ff031d6b8c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

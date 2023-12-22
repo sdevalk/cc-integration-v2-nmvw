@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/27d21e59c0e7b0ad6c36fc6d5fb12088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/27d21e59c0e7b0ad6c36fc6d5fb12088> <https://colonialcollections.nl/schema#identifier> "RV-1307-1" .
+<https://n2t.net/ark:/27023/27d21e59c0e7b0ad6c36fc6d5fb12088> <https://colonialcollections.nl/schema#name> "Schotel" .
+<https://n2t.net/ark:/27023/27d21e59c0e7b0ad6c36fc6d5fb12088> <https://colonialcollections.nl/schema#material> "bies" .
+<https://n2t.net/ark:/27023/27d21e59c0e7b0ad6c36fc6d5fb12088> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

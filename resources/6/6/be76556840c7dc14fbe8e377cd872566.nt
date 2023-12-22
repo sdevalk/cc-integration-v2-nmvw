@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <https://colonialcollections.nl/schema#identifier> "RV-503-348" .
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <https://colonialcollections.nl/schema#name> "UNCLEANED AND CLEANED WAX" .
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <https://colonialcollections.nl/schema#description> "was was in fles" .
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <https://colonialcollections.nl/schema#material> "was ; glas" .
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/209af617526d5978f9cee8593453af63> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
