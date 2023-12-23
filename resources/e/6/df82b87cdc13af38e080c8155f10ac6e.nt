@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ade915766b8653f222b0f29f4bcf5b8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ade915766b8653f222b0f29f4bcf5b8a> <https://colonialcollections.nl/schema#identifier> "TM-3833-83" .
+<https://n2t.net/ark:/27023/ade915766b8653f222b0f29f4bcf5b8a> <https://colonialcollections.nl/schema#name> "IJZEREN MES MET HOORNEN HANDVAT VAN DE SCHOENMAKER" .
+<https://n2t.net/ark:/27023/ade915766b8653f222b0f29f4bcf5b8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ade915766b8653f222b0f29f4bcf5b8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

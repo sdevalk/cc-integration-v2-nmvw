@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/876b42ccc7f27281ebea2cb9c94701fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/876b42ccc7f27281ebea2cb9c94701fc> <https://colonialcollections.nl/schema#identifier> "TM-5049-1" .
+<https://n2t.net/ark:/27023/876b42ccc7f27281ebea2cb9c94701fc> <https://colonialcollections.nl/schema#name> "HOED" .
+<https://n2t.net/ark:/27023/876b42ccc7f27281ebea2cb9c94701fc> <https://colonialcollections.nl/schema#description> "Een ronde bolle hoed gemaakt van gevlochten smalle bamboerepen (?)\r\nIn de beide zijkanten zijn drie alumiumringen gezet. Deze dienen als ventilatiegaten. De hoed heeft een breed rond plat gedeelte." .
+<https://n2t.net/ark:/27023/876b42ccc7f27281ebea2cb9c94701fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/876b42ccc7f27281ebea2cb9c94701fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

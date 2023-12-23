@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8975c7a8de205c10bc3301b12c3b9dfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8975c7a8de205c10bc3301b12c3b9dfd> <https://colonialcollections.nl/schema#identifier> "RV-4835-770" .
+<https://n2t.net/ark:/27023/8975c7a8de205c10bc3301b12c3b9dfd> <https://colonialcollections.nl/schema#name> "Doek voor over een vogelkooi" .
+<https://n2t.net/ark:/27023/8975c7a8de205c10bc3301b12c3b9dfd> <https://colonialcollections.nl/schema#material> "Textiel" .
+<https://n2t.net/ark:/27023/8975c7a8de205c10bc3301b12c3b9dfd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8975c7a8de205c10bc3301b12c3b9dfd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

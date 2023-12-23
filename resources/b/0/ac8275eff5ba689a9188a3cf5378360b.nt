@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ace9ba843dbc57bf645412fed8793772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ace9ba843dbc57bf645412fed8793772> <https://colonialcollections.nl/schema#identifier> "TM-5547-10b" .
+<https://n2t.net/ark:/27023/ace9ba843dbc57bf645412fed8793772> <https://colonialcollections.nl/schema#name> "SIERBAND VOOR DE AFWERKING VAN BROEKSPIJPEN" .
+<https://n2t.net/ark:/27023/ace9ba843dbc57bf645412fed8793772> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ace9ba843dbc57bf645412fed8793772> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .

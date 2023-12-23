@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ad1b3af1ef5e0e78748a2c4f7ec8220b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad1b3af1ef5e0e78748a2c4f7ec8220b> <https://colonialcollections.nl/schema#identifier> "TM-2345-16" .
+<https://n2t.net/ark:/27023/ad1b3af1ef5e0e78748a2c4f7ec8220b> <https://colonialcollections.nl/schema#name> "UIT HOUT GESNEDEN COMBINATIE VAN KAM EN SPATEL" .
+<https://n2t.net/ark:/27023/ad1b3af1ef5e0e78748a2c4f7ec8220b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ad1b3af1ef5e0e78748a2c4f7ec8220b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

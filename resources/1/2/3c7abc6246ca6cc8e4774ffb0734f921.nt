@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b006bf020230198f4e4cc15c3c546912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b006bf020230198f4e4cc15c3c546912> <https://colonialcollections.nl/schema#identifier> "WM-61305" .
+<https://n2t.net/ark:/27023/b006bf020230198f4e4cc15c3c546912> <https://colonialcollections.nl/schema#description> "[KL] zwart\r\n[ST] kraal" .
+<https://n2t.net/ark:/27023/b006bf020230198f4e4cc15c3c546912> <https://colonialcollections.nl/schema#material> "glas\r\ngewonden & geregen" .
+<https://n2t.net/ark:/27023/b006bf020230198f4e4cc15c3c546912> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

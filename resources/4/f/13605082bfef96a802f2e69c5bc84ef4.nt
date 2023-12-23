@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b0450b9bc8eeb6c0f158c9bb1d15649d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b0450b9bc8eeb6c0f158c9bb1d15649d> <https://colonialcollections.nl/schema#identifier> "TM-H-2451" .
+<https://n2t.net/ark:/27023/b0450b9bc8eeb6c0f158c9bb1d15649d> <https://colonialcollections.nl/schema#name> "WOLLEN VERSIERSEL, GEDRAGEN OP HET LICHAAM OF AAN EEN HANGMAT" .
+<https://n2t.net/ark:/27023/b0450b9bc8eeb6c0f158c9bb1d15649d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b0450b9bc8eeb6c0f158c9bb1d15649d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

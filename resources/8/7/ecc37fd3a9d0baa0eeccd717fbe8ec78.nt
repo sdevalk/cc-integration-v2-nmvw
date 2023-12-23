@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ad447aa6dac014a088e01b0135feea6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad447aa6dac014a088e01b0135feea6f> <https://colonialcollections.nl/schema#identifier> "TM-4714-8a" .
+<https://n2t.net/ark:/27023/ad447aa6dac014a088e01b0135feea6f> <https://colonialcollections.nl/schema#name> "KOPEREN BEELD VAN PRINS SIDDHARTA TE PAARD, DIE UIT HET PALEIS VAN ZIJN VADER VERTREKT, MET BIJBEHORENDE BIJFIGUREN" .
+<https://n2t.net/ark:/27023/ad447aa6dac014a088e01b0135feea6f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ad447aa6dac014a088e01b0135feea6f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

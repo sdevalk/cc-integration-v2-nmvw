@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/adafd8cc9abcd2a9dec8fcd8baf90fa4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/adafd8cc9abcd2a9dec8fcd8baf90fa4> <https://colonialcollections.nl/schema#identifier> "WM-9195" .
+<https://n2t.net/ark:/27023/adafd8cc9abcd2a9dec8fcd8baf90fa4> <https://colonialcollections.nl/schema#description> "Gereeschap van Wolkammers. (bron. v. Dale)" .
+<https://n2t.net/ark:/27023/adafd8cc9abcd2a9dec8fcd8baf90fa4> <https://colonialcollections.nl/schema#material> "ijzer, hout" .
+<https://n2t.net/ark:/27023/adafd8cc9abcd2a9dec8fcd8baf90fa4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

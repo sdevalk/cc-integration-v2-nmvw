@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e0764a05ee9438e57a4cccaa98d4d5a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e0764a05ee9438e57a4cccaa98d4d5a6> <https://colonialcollections.nl/schema#identifier> "RV-09-16" .
+<https://n2t.net/ark:/27023/e0764a05ee9438e57a4cccaa98d4d5a6> <https://colonialcollections.nl/schema#name> "Armsieraad" .
+<https://n2t.net/ark:/27023/e0764a05ee9438e57a4cccaa98d4d5a6> <https://colonialcollections.nl/schema#material> "varkensslagtand ; vezel" .
+<https://n2t.net/ark:/27023/e0764a05ee9438e57a4cccaa98d4d5a6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

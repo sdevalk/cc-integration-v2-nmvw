@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/87d7c159281922557319b4bf6cf3f4dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87d7c159281922557319b4bf6cf3f4dd> <https://colonialcollections.nl/schema#identifier> "TM-A-8263b" .
+<https://n2t.net/ark:/27023/87d7c159281922557319b4bf6cf3f4dd> <https://colonialcollections.nl/schema#name> "GELAKT BAKJE MET DEKSEL" .
+<https://n2t.net/ark:/27023/87d7c159281922557319b4bf6cf3f4dd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/87d7c159281922557319b4bf6cf3f4dd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

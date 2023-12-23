@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e10a5ffabd2c2fb3dd1acf86c167f07f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e10a5ffabd2c2fb3dd1acf86c167f07f> <https://colonialcollections.nl/schema#identifier> "TM-2650-13a" .
+<https://n2t.net/ark:/27023/e10a5ffabd2c2fb3dd1acf86c167f07f> <https://colonialcollections.nl/schema#name> "PAAR LEREN SANDALEN" .
+<https://n2t.net/ark:/27023/e10a5ffabd2c2fb3dd1acf86c167f07f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e10a5ffabd2c2fb3dd1acf86c167f07f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

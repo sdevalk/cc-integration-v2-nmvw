@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/af7ef55263aeed3ac9f60a058c22d848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af7ef55263aeed3ac9f60a058c22d848> <https://colonialcollections.nl/schema#identifier> "AM-6-8" .
+<https://n2t.net/ark:/27023/af7ef55263aeed3ac9f60a058c22d848> <https://colonialcollections.nl/schema#name> "Rammelaar" .
+<https://n2t.net/ark:/27023/af7ef55263aeed3ac9f60a058c22d848> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nStokje waaraan twee harde vruchten met gaatjes. In de vruchten zitten zaadjes." .
+<https://n2t.net/ark:/27023/af7ef55263aeed3ac9f60a058c22d848> <https://colonialcollections.nl/schema#material> "Plantaardig materiaal; hout" .
+<https://n2t.net/ark:/27023/af7ef55263aeed3ac9f60a058c22d848> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,12 @@
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#identifier> "AM-43-15" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nAntropomorfe figuur geheel bedekt met krachtstoffen, variërend van houten buisjes, kralenkettinkjes, lapjes stof, kaurischelpen en stukjes touw. Op de buik zit een uitsparing, waarin zich wellicht ook krachtstof bevindt. De figuur heeft één arm opgeheven waarin wellicht ooit een wapen heeft gezeten. Op het hoofd heeft de figuur eveneens een uitsparing waarin een kaurischelp is gedrukt." .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#material> "Hout; textiel; touw; schelpen; spiegel; metaal; dierlijk materiaal; ongedefinieerde materialen" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#alternateName> "Moyen-Congo" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#alternateName> "Congo (Brazzaville)"@en .
+<https://n2t.net/ark:/27023/ad4c5fb042c9faa0ebb27ee35bf3d39a> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .

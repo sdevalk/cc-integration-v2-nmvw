@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/87e4a2d447809383be8c7245cd02806a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87e4a2d447809383be8c7245cd02806a> <https://colonialcollections.nl/schema#identifier> "RV-13053" .
+<https://n2t.net/ark:/27023/87e4a2d447809383be8c7245cd02806a> <https://colonialcollections.nl/schema#name> "ZAFR" .
+<https://n2t.net/ark:/27023/87e4a2d447809383be8c7245cd02806a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/87e4a2d447809383be8c7245cd02806a> <https://colonialcollections.nl/schema#creator> "P.J. (Petrus Johannes) Idenburg" .

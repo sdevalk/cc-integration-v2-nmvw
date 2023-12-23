@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/af8b490bf4465eff67a7bbfc9b84c0fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af8b490bf4465eff67a7bbfc9b84c0fa> <https://colonialcollections.nl/schema#identifier> "WM-61100" .
+<https://n2t.net/ark:/27023/af8b490bf4465eff67a7bbfc9b84c0fa> <https://colonialcollections.nl/schema#description> "[KL] rood & groen\r\n[VO] voor en achterzijde roodfluweel afgebiest met groen." .
+<https://n2t.net/ark:/27023/af8b490bf4465eff67a7bbfc9b84c0fa> <https://colonialcollections.nl/schema#material> "fluweel\r\ngewatteerd." .
+<https://n2t.net/ark:/27023/af8b490bf4465eff67a7bbfc9b84c0fa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

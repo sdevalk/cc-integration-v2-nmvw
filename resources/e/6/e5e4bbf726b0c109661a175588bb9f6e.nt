@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8739670c0fa4de5965a8fdee25b15984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8739670c0fa4de5965a8fdee25b15984> <https://colonialcollections.nl/schema#identifier> "AM-74-43" .
+<https://n2t.net/ark:/27023/8739670c0fa4de5965a8fdee25b15984> <https://colonialcollections.nl/schema#name> "Amulet" .
+<https://n2t.net/ark:/27023/8739670c0fa4de5965a8fdee25b15984> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nAmulet heeft de vorm van een bootje." .
+<https://n2t.net/ark:/27023/8739670c0fa4de5965a8fdee25b15984> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/8739670c0fa4de5965a8fdee25b15984> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#identifier> "WM-72806" .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#name> "BOVENSTUK VAN EEN PROCESSIESTANDAARD" .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#description> "Met de shahada, de islamitische geloofsbelijdenis: \"Ik getuig dat er geen God is dan God en Mohammed is zijn profeet\"" .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ae0a08f24e210d5d02599c862cf2aad8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

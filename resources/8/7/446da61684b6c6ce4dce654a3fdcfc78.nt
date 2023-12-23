@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <https://colonialcollections.nl/schema#identifier> "TM-4308-70" .
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <https://colonialcollections.nl/schema#name> "DEKEN OF OMSLAGDOEK MET VERSCHILLENDE KLEURVLAKKEN" .
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <https://colonialcollections.nl/schema#description> "De deken of omslagdoek bestaat uit vier aan elkaar genaaide delen." .
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <https://colonialcollections.nl/schema#material> "wol" .
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7d56fbebc88daff0ec6461766e973535> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

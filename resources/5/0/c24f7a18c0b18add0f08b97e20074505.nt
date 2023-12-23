@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7da44cf43f4149ad2c7575185aa87b2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7da44cf43f4149ad2c7575185aa87b2b> <https://colonialcollections.nl/schema#identifier> "TM-H-1917" .
+<https://n2t.net/ark:/27023/7da44cf43f4149ad2c7575185aa87b2b> <https://colonialcollections.nl/schema#name> "ARMBAND VOOR DE BOVENARM, GEMAAKT VAN EEN CONUSSCHELP" .
+<https://n2t.net/ark:/27023/7da44cf43f4149ad2c7575185aa87b2b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7da44cf43f4149ad2c7575185aa87b2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

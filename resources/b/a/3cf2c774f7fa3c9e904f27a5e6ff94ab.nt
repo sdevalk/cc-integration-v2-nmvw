@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b00fe1ba126321612def38aeef776986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b00fe1ba126321612def38aeef776986> <https://colonialcollections.nl/schema#identifier> "TM-2345-95b" .
+<https://n2t.net/ark:/27023/b00fe1ba126321612def38aeef776986> <https://colonialcollections.nl/schema#name> "HALSVERSIERING VAN EEN SNOER MET PAPIEREN KRALEN EN EEN ZESPUNTIGE STER ERAAN, VOOR EEN HINDOESTAANSE BRUIDEGOM" .
+<https://n2t.net/ark:/27023/b00fe1ba126321612def38aeef776986> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b00fe1ba126321612def38aeef776986> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

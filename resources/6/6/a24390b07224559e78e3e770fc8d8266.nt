@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/aea58173b1aa01b067e8051041fdf88a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aea58173b1aa01b067e8051041fdf88a> <https://colonialcollections.nl/schema#identifier> "RV-913-30" .
+<https://n2t.net/ark:/27023/aea58173b1aa01b067e8051041fdf88a> <https://colonialcollections.nl/schema#name> "Lantaren" .
+<https://n2t.net/ark:/27023/aea58173b1aa01b067e8051041fdf88a> <https://colonialcollections.nl/schema#material> "hout ; koper" .
+<https://n2t.net/ark:/27023/aea58173b1aa01b067e8051041fdf88a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

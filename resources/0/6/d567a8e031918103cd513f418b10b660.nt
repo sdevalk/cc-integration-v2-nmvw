@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/88a9c8a556f78f5deab66ec32dc2c1d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/88a9c8a556f78f5deab66ec32dc2c1d9> <https://colonialcollections.nl/schema#identifier> "TM-3925-146" .
+<https://n2t.net/ark:/27023/88a9c8a556f78f5deab66ec32dc2c1d9> <https://colonialcollections.nl/schema#name> "KEGEL VAN TABAK VOOR VERKOOP OP DE MARKT" .
+<https://n2t.net/ark:/27023/88a9c8a556f78f5deab66ec32dc2c1d9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/88a9c8a556f78f5deab66ec32dc2c1d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

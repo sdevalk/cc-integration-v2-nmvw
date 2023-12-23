@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/af506d426252e0047340585bd74d1ddd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af506d426252e0047340585bd74d1ddd> <https://colonialcollections.nl/schema#identifier> "TM-3290-32b" .
+<https://n2t.net/ark:/27023/af506d426252e0047340585bd74d1ddd> <https://colonialcollections.nl/schema#name> "AARDEWERKEN STOP BEHORENDE BIJ WATERKRUIK" .
+<https://n2t.net/ark:/27023/af506d426252e0047340585bd74d1ddd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/af506d426252e0047340585bd74d1ddd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#identifier> "WM-940130-13-4" .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#description> "reisfotografie & landschapsfotografie & berghelling & bossage" .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/af8c080d671861c218cc7a3da42f3420> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

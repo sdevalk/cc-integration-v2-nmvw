@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/891876a164c5cf5646bc0085de8ecb63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/891876a164c5cf5646bc0085de8ecb63> <https://colonialcollections.nl/schema#identifier> "TM-testsamenvoegen" .
+<https://n2t.net/ark:/27023/891876a164c5cf5646bc0085de8ecb63> <https://colonialcollections.nl/schema#name> "FOTO VAN MAN OP PAARD MET GEWEER EN FOTO VAN MAN OP PAARD MET GEWEER FOTO VAN MAN OP PAARD MET GEWEER" .
+<https://n2t.net/ark:/27023/891876a164c5cf5646bc0085de8ecb63> <https://colonialcollections.nl/schema#material> "w7-TMStest" .
+<https://n2t.net/ark:/27023/891876a164c5cf5646bc0085de8ecb63> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/891876a164c5cf5646bc0085de8ecb63> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

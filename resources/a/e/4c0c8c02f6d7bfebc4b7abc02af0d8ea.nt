@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8914d1745c6c874a77d17b1a2b781810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8914d1745c6c874a77d17b1a2b781810> <https://colonialcollections.nl/schema#identifier> "RV-727-4" .
+<https://n2t.net/ark:/27023/8914d1745c6c874a77d17b1a2b781810> <https://colonialcollections.nl/schema#name> "Halssnoer" .
+<https://n2t.net/ark:/27023/8914d1745c6c874a77d17b1a2b781810> <https://colonialcollections.nl/schema#material> "vruchten ; kralen ; hoorn" .
+<https://n2t.net/ark:/27023/8914d1745c6c874a77d17b1a2b781810> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

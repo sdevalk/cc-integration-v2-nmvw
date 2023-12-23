@@ -1,0 +1,13 @@
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#identifier> "AM-48-15" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#name> "Lepel" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHouten verweerde lepel met lange steel. Op het midden van de steel bevindt zich een verdikking." .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#alternateName> "Moyen-Congo" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#alternateName> "Congo (Brazzaville)"@en .
+<https://n2t.net/ark:/27023/acf6d50fea53b7c405e08d47cb27c7b2> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e0a20e96481a895aa2e2d064ca832d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e0a20e96481a895aa2e2d064ca832d24> <https://colonialcollections.nl/schema#identifier> "TM-A-9052b" .
+<https://n2t.net/ark:/27023/e0a20e96481a895aa2e2d064ca832d24> <https://colonialcollections.nl/schema#name> "SIGAAR" .
+<https://n2t.net/ark:/27023/e0a20e96481a895aa2e2d064ca832d24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e0a20e96481a895aa2e2d064ca832d24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

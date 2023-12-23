@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/88a134c533a3c9297cb4a71f446deaf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/88a134c533a3c9297cb4a71f446deaf0> <https://colonialcollections.nl/schema#identifier> "AM-17-1114" .
+<https://n2t.net/ark:/27023/88a134c533a3c9297cb4a71f446deaf0> <https://colonialcollections.nl/schema#name> "Dansattribuut" .
+<https://n2t.net/ark:/27023/88a134c533a3c9297cb4a71f446deaf0> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nDansstaart vervaardigd uit vezels." .
+<https://n2t.net/ark:/27023/88a134c533a3c9297cb4a71f446deaf0> <https://colonialcollections.nl/schema#material> "Plantenvezel" .
+<https://n2t.net/ark:/27023/88a134c533a3c9297cb4a71f446deaf0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

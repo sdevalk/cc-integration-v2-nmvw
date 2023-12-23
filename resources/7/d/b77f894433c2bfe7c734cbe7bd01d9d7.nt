@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/88be2ef8c60a9fdcf55320ca6d319dad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/88be2ef8c60a9fdcf55320ca6d319dad> <https://colonialcollections.nl/schema#identifier> "TM-R-582" .
+<https://n2t.net/ark:/27023/88be2ef8c60a9fdcf55320ca6d319dad> <https://colonialcollections.nl/schema#name> "TWEE WENSKAARTEN" .
+<https://n2t.net/ark:/27023/88be2ef8c60a9fdcf55320ca6d319dad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/88be2ef8c60a9fdcf55320ca6d319dad> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

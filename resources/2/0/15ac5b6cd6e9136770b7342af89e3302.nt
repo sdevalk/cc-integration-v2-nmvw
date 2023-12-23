@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ac90c28f6985d070055688134d69aeeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ac90c28f6985d070055688134d69aeeb> <https://colonialcollections.nl/schema#identifier> "TM-3782-10" .
+<https://n2t.net/ark:/27023/ac90c28f6985d070055688134d69aeeb> <https://colonialcollections.nl/schema#name> "BOT GEBRUIKT DOOR DE SMID ALS ONDERLIGGER BIJ DE VERVAARDIGING VAN SIKKELS" .
+<https://n2t.net/ark:/27023/ac90c28f6985d070055688134d69aeeb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ac90c28f6985d070055688134d69aeeb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

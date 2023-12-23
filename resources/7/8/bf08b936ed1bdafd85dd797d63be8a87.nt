@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <https://colonialcollections.nl/schema#identifier> "RV-1042-54k" .
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <https://colonialcollections.nl/schema#name> "ZIJDEN KUSSENOVERTREK" .
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <https://colonialcollections.nl/schema#description> "Het kussenovertrek is aan de voorzijde met ruit- en bloemmotieven versierd welke opgebouwd zijn uit stukjes geslagen blik." .
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <https://colonialcollections.nl/schema#material> "Zijde ; katoen ; blik" .
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8847541c402eb29cd4f16619841281ce> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

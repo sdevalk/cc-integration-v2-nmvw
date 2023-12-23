@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/aed7fe98aa04575d0db18190410f97bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aed7fe98aa04575d0db18190410f97bd> <https://colonialcollections.nl/schema#identifier> "TM-1713-3" .
+<https://n2t.net/ark:/27023/aed7fe98aa04575d0db18190410f97bd> <https://colonialcollections.nl/schema#name> "KAPMES" .
+<https://n2t.net/ark:/27023/aed7fe98aa04575d0db18190410f97bd> <https://colonialcollections.nl/schema#description> "Een kapmes gemaakt van gesmeed ijzer. Het lemmet is lang en ovaalvormig. Het kapmes heeft een gebogen greep van hoorn. De greep is omgebogen, bekleed met een zilver bus en versierd met snijwerk. De schede bestaat uit twee houten platte helften met naast de opening  versierd met snijwerk." .
+<https://n2t.net/ark:/27023/aed7fe98aa04575d0db18190410f97bd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/aed7fe98aa04575d0db18190410f97bd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

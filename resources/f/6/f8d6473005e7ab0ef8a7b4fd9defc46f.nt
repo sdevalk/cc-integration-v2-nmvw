@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ad797355ba37f127c48d15ff9dd763bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad797355ba37f127c48d15ff9dd763bd> <https://colonialcollections.nl/schema#identifier> "TM-5122-549c" .
+<https://n2t.net/ark:/27023/ad797355ba37f127c48d15ff9dd763bd> <https://colonialcollections.nl/schema#name> "VERSIERDE KATOENEN SCHOOT BEHORENDE BIJ EEN VROUWENKOSTUUM" .
+<https://n2t.net/ark:/27023/ad797355ba37f127c48d15ff9dd763bd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ad797355ba37f127c48d15ff9dd763bd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

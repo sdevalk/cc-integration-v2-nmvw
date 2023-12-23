@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7dfbd560c5bdc4bbbeb430dbf22016bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7dfbd560c5bdc4bbbeb430dbf22016bb> <https://colonialcollections.nl/schema#identifier> "RV-1-3256" .
+<https://n2t.net/ark:/27023/7dfbd560c5bdc4bbbeb430dbf22016bb> <https://colonialcollections.nl/schema#name> "Lap stof" .
+<https://n2t.net/ark:/27023/7dfbd560c5bdc4bbbeb430dbf22016bb> <https://colonialcollections.nl/schema#material> "zijde, damast" .
+<https://n2t.net/ark:/27023/7dfbd560c5bdc4bbbeb430dbf22016bb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

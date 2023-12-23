@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8986eff270935f7c407a627e63d2982d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8986eff270935f7c407a627e63d2982d> <https://colonialcollections.nl/schema#identifier> "RV-360-5448" .
+<https://n2t.net/ark:/27023/8986eff270935f7c407a627e63d2982d> <https://colonialcollections.nl/schema#name> "BORSTLAP" .
+<https://n2t.net/ark:/27023/8986eff270935f7c407a627e63d2982d> <https://colonialcollections.nl/schema#description> "Deze objecten worden omschreven als borstlappen, gedragen door vrouwen." .
+<https://n2t.net/ark:/27023/8986eff270935f7c407a627e63d2982d> <https://colonialcollections.nl/schema#material> "boombast ; kralen" .
+<https://n2t.net/ark:/27023/8986eff270935f7c407a627e63d2982d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

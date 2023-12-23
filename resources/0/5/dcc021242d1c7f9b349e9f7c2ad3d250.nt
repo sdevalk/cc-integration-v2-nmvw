@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/87beda4d3722bf3fc0a327d61b9873c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87beda4d3722bf3fc0a327d61b9873c4> <https://colonialcollections.nl/schema#identifier> "TM-4345-219" .
+<https://n2t.net/ark:/27023/87beda4d3722bf3fc0a327d61b9873c4> <https://colonialcollections.nl/schema#name> "BUNDEL VAN VIJF BESCHILDERDE KAARSEN" .
+<https://n2t.net/ark:/27023/87beda4d3722bf3fc0a327d61b9873c4> <https://colonialcollections.nl/schema#description> "Worden bij bijzondere gelegenheden als geschenk gegeven." .
+<https://n2t.net/ark:/27023/87beda4d3722bf3fc0a327d61b9873c4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/87beda4d3722bf3fc0a327d61b9873c4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

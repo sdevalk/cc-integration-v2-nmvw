@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7dd0a7f7501f3be1b63336e0b2383b8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7dd0a7f7501f3be1b63336e0b2383b8f> <https://colonialcollections.nl/schema#identifier> "RV-1537-8" .
+<https://n2t.net/ark:/27023/7dd0a7f7501f3be1b63336e0b2383b8f> <https://colonialcollections.nl/schema#name> "Tol" .
+<https://n2t.net/ark:/27023/7dd0a7f7501f3be1b63336e0b2383b8f> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://n2t.net/ark:/27023/7dd0a7f7501f3be1b63336e0b2383b8f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

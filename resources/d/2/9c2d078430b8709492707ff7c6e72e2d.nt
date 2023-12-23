@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#identifier> "WM-940131-47-8" .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#name> "BOUZARÉA, PICNIC" .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#description> "reisfotografie & vrouw (vijf) & kind (twee) & zittend" .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/86cde0d8c0d02858d1017b69ccee6f11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7d4fd034f135a8794c76298260590164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7d4fd034f135a8794c76298260590164> <https://colonialcollections.nl/schema#identifier> "AM-492-102" .
+<https://n2t.net/ark:/27023/7d4fd034f135a8794c76298260590164> <https://colonialcollections.nl/schema#name> "Voetband" .
+<https://n2t.net/ark:/27023/7d4fd034f135a8794c76298260590164> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSmalle, ovale band vervaardigd uit een koperlegering. De band is op verschillende plaatsen verdikt en voorzien van een geometrisch motief." .
+<https://n2t.net/ark:/27023/7d4fd034f135a8794c76298260590164> <https://colonialcollections.nl/schema#material> "Koperlegering" .
+<https://n2t.net/ark:/27023/7d4fd034f135a8794c76298260590164> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

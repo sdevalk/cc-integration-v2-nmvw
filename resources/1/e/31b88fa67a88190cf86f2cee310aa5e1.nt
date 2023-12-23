@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7e42071820ef8e624198f1bbb25c7db6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7e42071820ef8e624198f1bbb25c7db6> <https://colonialcollections.nl/schema#identifier> "RV-2452-591" .
+<https://n2t.net/ark:/27023/7e42071820ef8e624198f1bbb25c7db6> <https://colonialcollections.nl/schema#name> "Halssieraad" .
+<https://n2t.net/ark:/27023/7e42071820ef8e624198f1bbb25c7db6> <https://colonialcollections.nl/schema#material> "stekelvarkenpennen" .
+<https://n2t.net/ark:/27023/7e42071820ef8e624198f1bbb25c7db6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

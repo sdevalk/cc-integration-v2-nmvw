@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7d975c35338b5d81a6ac97cb5d1e572d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7d975c35338b5d81a6ac97cb5d1e572d> <https://colonialcollections.nl/schema#identifier> "AM-121-2" .
+<https://n2t.net/ark:/27023/7d975c35338b5d81a6ac97cb5d1e572d> <https://colonialcollections.nl/schema#name> "Halsketting" .
+<https://n2t.net/ark:/27023/7d975c35338b5d81a6ac97cb5d1e572d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nKetting gemaakt van dierennagels." .
+<https://n2t.net/ark:/27023/7d975c35338b5d81a6ac97cb5d1e572d> <https://colonialcollections.nl/schema#material> "Nagels; touw" .
+<https://n2t.net/ark:/27023/7d975c35338b5d81a6ac97cb5d1e572d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

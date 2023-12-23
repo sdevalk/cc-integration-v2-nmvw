@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/869eec0fedb835d009ab479b8c7ff6bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/869eec0fedb835d009ab479b8c7ff6bb> <https://colonialcollections.nl/schema#identifier> "TM-2456-4b" .
+<https://n2t.net/ark:/27023/869eec0fedb835d009ab479b8c7ff6bb> <https://colonialcollections.nl/schema#name> "HOUTEN SCHEDE VAN ZWAARD, VERSIERD MET INGEKRASTE RUITVORMEN, SPIRALEN EN BLADORNAMENTEN" .
+<https://n2t.net/ark:/27023/869eec0fedb835d009ab479b8c7ff6bb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/869eec0fedb835d009ab479b8c7ff6bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

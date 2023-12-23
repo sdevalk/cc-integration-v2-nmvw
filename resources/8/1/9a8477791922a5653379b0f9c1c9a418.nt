@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#identifier> "WM-940133-21-1" .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#name> "ABREUVOIR DANS LE DÉSERT" .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#description> "reisfotografie & schaap (kudde) & bak : drinkbak & persoon (groep) & boom : palmboom" .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/87efc45bdea8c35167bea2f8bb855638> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

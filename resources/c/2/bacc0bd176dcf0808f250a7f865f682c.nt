@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/acb714d493f227e0ce48d601a3686c7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/acb714d493f227e0ce48d601a3686c7d> <https://colonialcollections.nl/schema#identifier> "TM-3482-7" .
+<https://n2t.net/ark:/27023/acb714d493f227e0ce48d601a3686c7d> <https://colonialcollections.nl/schema#name> "MAHONIEHOUTEN SCHAAL MET SNIJWERK" .
+<https://n2t.net/ark:/27023/acb714d493f227e0ce48d601a3686c7d> <https://colonialcollections.nl/schema#description> "Aan de onderzijde van de schaal zijn twee etiketten opgeplakt waarop staat te lezen \"Natural Suriname Hardwood SIOS\" en \"Mahonie - Mahogany\"" .
+<https://n2t.net/ark:/27023/acb714d493f227e0ce48d601a3686c7d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/acb714d493f227e0ce48d601a3686c7d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

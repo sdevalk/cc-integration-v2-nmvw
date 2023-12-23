@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#identifier> "RV-A6-155a" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#name> "ROTSRELIËFS TAQ-I BUSTAN IN DE OMGEVING VAN KIRMANCHAT" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#description> "www.archnet.org: \r\nVoorkeursterm is Taq-i Bustan. Alternatieve termen zijn: Taq-e Bustan, Taq-i Bostan, The Arch of the Garden, Bas-relieves of Taq-i Bustan\r\nStijl/Periode: Sasanian (4th B.C.E.)" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#material> "Materiaal: karton ; papier \r\nTechniek: albuminedruk\r\nMontage: op karton geplakt" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#creator> "Museum Volkenkunde" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#creator> "Antoin Sevruguin" .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b03a9c11e0824c115f7c24cb8030548b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

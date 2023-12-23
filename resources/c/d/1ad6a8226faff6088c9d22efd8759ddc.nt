@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/acca96a8fdce83f877d0b8be6476578d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/acca96a8fdce83f877d0b8be6476578d> <https://colonialcollections.nl/schema#identifier> "TM-6300-37a-1" .
+<https://n2t.net/ark:/27023/acca96a8fdce83f877d0b8be6476578d> <https://colonialcollections.nl/schema#name> "HOUTEN JUWELENDOOS MET EEN ZILVEREN VERSIERING" .
+<https://n2t.net/ark:/27023/acca96a8fdce83f877d0b8be6476578d> <https://colonialcollections.nl/schema#material> "Yogya zilver ; hout ; ciseleren ; snijden ; polijsten" .
+<https://n2t.net/ark:/27023/acca96a8fdce83f877d0b8be6476578d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/acca96a8fdce83f877d0b8be6476578d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

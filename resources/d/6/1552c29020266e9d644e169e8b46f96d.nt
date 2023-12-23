@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#identifier> "WM-940131-34-2" .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#name> "MAURESQUE DALGER" .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#description> "reisfotografie & vrouw & hoofdsluier" .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/df79d5b2bdb4d843875f61d8f25d88d0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

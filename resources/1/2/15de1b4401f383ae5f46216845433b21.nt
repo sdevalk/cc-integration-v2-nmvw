@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ad30b79ff69defbfe04723bf16a1ee89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ad30b79ff69defbfe04723bf16a1ee89> <https://colonialcollections.nl/schema#identifier> "TM-5683-92" .
+<https://n2t.net/ark:/27023/ad30b79ff69defbfe04723bf16a1ee89> <https://colonialcollections.nl/schema#name> "AARDEWERKEN VETPOT" .
+<https://n2t.net/ark:/27023/ad30b79ff69defbfe04723bf16a1ee89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ad30b79ff69defbfe04723bf16a1ee89> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

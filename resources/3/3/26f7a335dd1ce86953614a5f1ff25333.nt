@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/afa70680d2a7ab5a7b2453e9dfc9282a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/afa70680d2a7ab5a7b2453e9dfc9282a> <https://colonialcollections.nl/schema#identifier> "TM-5824-1" .
+<https://n2t.net/ark:/27023/afa70680d2a7ab5a7b2453e9dfc9282a> <https://colonialcollections.nl/schema#name> "GEWEER" .
+<https://n2t.net/ark:/27023/afa70680d2a7ab5a7b2453e9dfc9282a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/afa70680d2a7ab5a7b2453e9dfc9282a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .

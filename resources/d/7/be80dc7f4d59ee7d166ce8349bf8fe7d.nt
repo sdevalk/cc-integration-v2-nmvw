@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <https://colonialcollections.nl/schema#identifier> "TM-5323-26" .
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <https://colonialcollections.nl/schema#name> "OLIEVERFSCHILDERIJ IN HOUTEN LIJST, \"ABAISA\"" .
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <https://colonialcollections.nl/schema#creator> "dhr. J. Lie a Fo" .
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dfe3499732d39d3b1fa1f82288e7b31e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

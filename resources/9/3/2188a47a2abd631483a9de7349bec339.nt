@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/87f8a7b200735127b4742f4c2209a59b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/87f8a7b200735127b4742f4c2209a59b> <https://colonialcollections.nl/schema#identifier> "TM-4602-7b" .
+<https://n2t.net/ark:/27023/87f8a7b200735127b4742f4c2209a59b> <https://colonialcollections.nl/schema#name> "STANDAARD (B) VAN (AARDEWERKEN FIGUURTJE A)" .
+<https://n2t.net/ark:/27023/87f8a7b200735127b4742f4c2209a59b> <https://colonialcollections.nl/schema#description> "Herk: Tlatilco Mexico Midden Amerika" .
+<https://n2t.net/ark:/27023/87f8a7b200735127b4742f4c2209a59b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/87f8a7b200735127b4742f4c2209a59b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
