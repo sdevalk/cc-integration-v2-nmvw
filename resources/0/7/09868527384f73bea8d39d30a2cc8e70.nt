@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <https://colonialcollections.nl/schema#identifier> "RV-503-313" .
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <https://colonialcollections.nl/schema#name> "PIECES OF WOOD" .
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <https://colonialcollections.nl/schema#description> "Pak met huid of hout?" .
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <https://colonialcollections.nl/schema#material> "huid x? ; hout x?" .
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/523ea650b45cbe6e1a3a981758fd7c17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/520259e71f4bcd512835212f8c07f2ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/520259e71f4bcd512835212f8c07f2ad> <https://colonialcollections.nl/schema#identifier> "AM-17-10" .
+<https://n2t.net/ark:/27023/520259e71f4bcd512835212f8c07f2ad> <https://colonialcollections.nl/schema#name> "Kam" .
+<https://n2t.net/ark:/27023/520259e71f4bcd512835212f8c07f2ad> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHaarkam. Vlechtwerk van bamboe met 19 tanden." .
+<https://n2t.net/ark:/27023/520259e71f4bcd512835212f8c07f2ad> <https://colonialcollections.nl/schema#material> "Bamboe" .
+<https://n2t.net/ark:/27023/520259e71f4bcd512835212f8c07f2ad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

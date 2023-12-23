@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4cdc73c0938a27db9d1a9c27db0c9cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4cdc73c0938a27db9d1a9c27db0c9cea> <https://colonialcollections.nl/schema#identifier> "TM-4991-284" .
+<https://n2t.net/ark:/27023/4cdc73c0938a27db9d1a9c27db0c9cea> <https://colonialcollections.nl/schema#name> "TWEE KATOENEN HOOFDDOEKEN VOOR VROUWEN" .
+<https://n2t.net/ark:/27023/4cdc73c0938a27db9d1a9c27db0c9cea> <https://colonialcollections.nl/schema#description> "Nog niet losgeknipt." .
+<https://n2t.net/ark:/27023/4cdc73c0938a27db9d1a9c27db0c9cea> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4cdc73c0938a27db9d1a9c27db0c9cea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

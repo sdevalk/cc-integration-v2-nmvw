@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7509bf2b8d113a68c6199164305a48ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7509bf2b8d113a68c6199164305a48ee> <https://colonialcollections.nl/schema#identifier> "TM-3317-20d" .
+<https://n2t.net/ark:/27023/7509bf2b8d113a68c6199164305a48ee> <https://colonialcollections.nl/schema#name> "PIJPENKOP VAN GEBAKKEN KLEI" .
+<https://n2t.net/ark:/27023/7509bf2b8d113a68c6199164305a48ee> <https://colonialcollections.nl/schema#description> "Onderdeel van een vrouwenpijp." .
+<https://n2t.net/ark:/27023/7509bf2b8d113a68c6199164305a48ee> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7509bf2b8d113a68c6199164305a48ee> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/744b9cb544b1553cfc1fabad4b4bb50b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/744b9cb544b1553cfc1fabad4b4bb50b> <https://colonialcollections.nl/schema#identifier> "TM-5411-33" .
+<https://n2t.net/ark:/27023/744b9cb544b1553cfc1fabad4b4bb50b> <https://colonialcollections.nl/schema#name> "BESCHILDERD MASKER VAN PAPIER-MACHÉ DAT EEN EZEL VOORSTELT" .
+<https://n2t.net/ark:/27023/744b9cb544b1553cfc1fabad4b4bb50b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/744b9cb544b1553cfc1fabad4b4bb50b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

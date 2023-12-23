@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6d814f6578fb5bda1f15488fcb898199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d814f6578fb5bda1f15488fcb898199> <https://colonialcollections.nl/schema#identifier> "WM-57498" .
+<https://n2t.net/ark:/27023/6d814f6578fb5bda1f15488fcb898199> <https://colonialcollections.nl/schema#description> "[KL] bruin & rood & groen\r\n[VO] Phra-Bam en Phra-Hak op zegewagen" .
+<https://n2t.net/ark:/27023/6d814f6578fb5bda1f15488fcb898199> <https://colonialcollections.nl/schema#material> "bamboe, leer, verf\r\ngesneden & gestoken & geverfd" .
+<https://n2t.net/ark:/27023/6d814f6578fb5bda1f15488fcb898199> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

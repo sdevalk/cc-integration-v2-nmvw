@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6caea2ab1c2b67d1e3a3ce7afac9f66e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6caea2ab1c2b67d1e3a3ce7afac9f66e> <https://colonialcollections.nl/schema#identifier> "RV-B156-100" .
+<https://n2t.net/ark:/27023/6caea2ab1c2b67d1e3a3ce7afac9f66e> <https://colonialcollections.nl/schema#name> "Nettas" .
+<https://n2t.net/ark:/27023/6caea2ab1c2b67d1e3a3ce7afac9f66e> <https://colonialcollections.nl/schema#material> "touw ; kralen ; schildpad ; tand, hondetand ; porcelein" .
+<https://n2t.net/ark:/27023/6caea2ab1c2b67d1e3a3ce7afac9f66e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

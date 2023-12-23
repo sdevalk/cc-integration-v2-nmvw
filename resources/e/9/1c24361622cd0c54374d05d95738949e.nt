@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6e02f482faf9b78f770d73734430036b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6e02f482faf9b78f770d73734430036b> <https://colonialcollections.nl/schema#identifier> "RV-4921-26" .
+<https://n2t.net/ark:/27023/6e02f482faf9b78f770d73734430036b> <https://colonialcollections.nl/schema#name> "PAN" .
+<https://n2t.net/ark:/27023/6e02f482faf9b78f770d73734430036b> <https://colonialcollections.nl/schema#material> "gietijzer" .
+<https://n2t.net/ark:/27023/6e02f482faf9b78f770d73734430036b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/522149534a091fcf2dcb9f1d01be729c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/522149534a091fcf2dcb9f1d01be729c> <https://colonialcollections.nl/schema#identifier> "WM-900811" .
+<https://n2t.net/ark:/27023/522149534a091fcf2dcb9f1d01be729c> <https://colonialcollections.nl/schema#description> "ezel\r\nman (mv)\r\nmarkt" .
+<https://n2t.net/ark:/27023/522149534a091fcf2dcb9f1d01be729c> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/522149534a091fcf2dcb9f1d01be729c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/522149534a091fcf2dcb9f1d01be729c> <https://colonialcollections.nl/schema#creator> "H. Haan-Fischer" .

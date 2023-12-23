@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/73d044f88fe2a1f27a4fbf0361d43948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/73d044f88fe2a1f27a4fbf0361d43948> <https://colonialcollections.nl/schema#identifier> "TM-A-6298" .
+<https://n2t.net/ark:/27023/73d044f88fe2a1f27a4fbf0361d43948> <https://colonialcollections.nl/schema#name> "VLIEGENWAAIER VAN PLANTAARDIGE VEZELS MET HOUTEN STEEL" .
+<https://n2t.net/ark:/27023/73d044f88fe2a1f27a4fbf0361d43948> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/73d044f88fe2a1f27a4fbf0361d43948> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

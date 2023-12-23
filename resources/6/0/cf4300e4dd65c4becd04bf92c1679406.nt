@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6d1673a716add11f1dde5b1e2988a010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d1673a716add11f1dde5b1e2988a010> <https://colonialcollections.nl/schema#identifier> "RV-1042-46" .
+<https://n2t.net/ark:/27023/6d1673a716add11f1dde5b1e2988a010> <https://colonialcollections.nl/schema#name> "OPENGEWERKT KOPEREN WIEROOKVAT IN DE VORM VAN EEN GRANAATAPPEL" .
+<https://n2t.net/ark:/27023/6d1673a716add11f1dde5b1e2988a010> <https://colonialcollections.nl/schema#material> "Koper" .
+<https://n2t.net/ark:/27023/6d1673a716add11f1dde5b1e2988a010> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6d1673a716add11f1dde5b1e2988a010> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

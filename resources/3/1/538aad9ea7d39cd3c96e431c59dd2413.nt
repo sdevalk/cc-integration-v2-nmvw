@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5428c95d5e68253893ab1b146b935d51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5428c95d5e68253893ab1b146b935d51> <https://colonialcollections.nl/schema#identifier> "TM-3782-722" .
+<https://n2t.net/ark:/27023/5428c95d5e68253893ab1b146b935d51> <https://colonialcollections.nl/schema#name> "IJZEREN KLEPPERS" .
+<https://n2t.net/ark:/27023/5428c95d5e68253893ab1b146b935d51> <https://colonialcollections.nl/schema#description> "Schaar, die gebruikt wordt om het ritme aan te geven. Is dus eigenlijk een set kleppers, een zg. 'concussie' instrument: soortgelijke voorwerpen worden tegen elkaar geslagen." .
+<https://n2t.net/ark:/27023/5428c95d5e68253893ab1b146b935d51> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5428c95d5e68253893ab1b146b935d51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/734b88db50a87d2d4078aa0513fd2b86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/734b88db50a87d2d4078aa0513fd2b86> <https://colonialcollections.nl/schema#identifier> "AM-513-34" .
+<https://n2t.net/ark:/27023/734b88db50a87d2d4078aa0513fd2b86> <https://colonialcollections.nl/schema#name> "Speelgoed: een vliegtuig" .
+<https://n2t.net/ark:/27023/734b88db50a87d2d4078aa0513fd2b86> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSpeelgoed vliegtuig vervaardigd uit aluminiumdraad en koperdraad." .
+<https://n2t.net/ark:/27023/734b88db50a87d2d4078aa0513fd2b86> <https://colonialcollections.nl/schema#material> "Aluminiumdraad; koperdraad" .
+<https://n2t.net/ark:/27023/734b88db50a87d2d4078aa0513fd2b86> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

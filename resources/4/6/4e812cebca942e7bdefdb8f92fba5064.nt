@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/53ff4d9c477311fb1fc3653fc9bbbc72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/53ff4d9c477311fb1fc3653fc9bbbc72> <https://colonialcollections.nl/schema#identifier> "TM-3833-143" .
+<https://n2t.net/ark:/27023/53ff4d9c477311fb1fc3653fc9bbbc72> <https://colonialcollections.nl/schema#name> "IJZEREN PEN VAN DE TOUWSLAGER" .
+<https://n2t.net/ark:/27023/53ff4d9c477311fb1fc3653fc9bbbc72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/53ff4d9c477311fb1fc3653fc9bbbc72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

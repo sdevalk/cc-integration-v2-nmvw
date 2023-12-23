@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#identifier> "WM-940131-47-7" .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#name> "JARDIN DETTAI" .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#description> "reisfotografie & vrouw (Mies Rombach) & pad & bossage" .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6e2948c3d4f7009810792ca184121cec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

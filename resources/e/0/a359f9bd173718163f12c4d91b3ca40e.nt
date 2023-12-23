@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6cb70b9c304b1ab8816720dfb27ac824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6cb70b9c304b1ab8816720dfb27ac824> <https://colonialcollections.nl/schema#identifier> "RV-2668-1656" .
+<https://n2t.net/ark:/27023/6cb70b9c304b1ab8816720dfb27ac824> <https://colonialcollections.nl/schema#name> "Bord" .
+<https://n2t.net/ark:/27023/6cb70b9c304b1ab8816720dfb27ac824> <https://colonialcollections.nl/schema#material> "vlechtwerk" .
+<https://n2t.net/ark:/27023/6cb70b9c304b1ab8816720dfb27ac824> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

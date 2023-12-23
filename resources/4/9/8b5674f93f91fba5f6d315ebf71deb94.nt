@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <https://colonialcollections.nl/schema#identifier> "RV-1042-31" .
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <https://colonialcollections.nl/schema#name> "KATOENEN MANTEL MET GOUDDRAAD VERSIERD" .
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <https://colonialcollections.nl/schema#description> "De mantel maakt deel uit van het Bedoeïnenkostuum van een man." .
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <https://colonialcollections.nl/schema#material> "Katoen ; gouddraad" .
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/51d6939f63b5e1174da20333df595537> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5398e75175bb0a408945c717f9442b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5398e75175bb0a408945c717f9442b0c> <https://colonialcollections.nl/schema#identifier> "AM-168-11" .
+<https://n2t.net/ark:/27023/5398e75175bb0a408945c717f9442b0c> <https://colonialcollections.nl/schema#name> "Pijlenkoker" .
+<https://n2t.net/ark:/27023/5398e75175bb0a408945c717f9442b0c> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nUit rotan gevlochten pijlenkoker." .
+<https://n2t.net/ark:/27023/5398e75175bb0a408945c717f9442b0c> <https://colonialcollections.nl/schema#material> "Rotan" .
+<https://n2t.net/ark:/27023/5398e75175bb0a408945c717f9442b0c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4caa8b7ae35b0cb13a4120cc42a153a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4caa8b7ae35b0cb13a4120cc42a153a4> <https://colonialcollections.nl/schema#identifier> "TM-A-6410" .
+<https://n2t.net/ark:/27023/4caa8b7ae35b0cb13a4120cc42a153a4> <https://colonialcollections.nl/schema#name> "HALSKETTING VAN DIERENTANDEN" .
+<https://n2t.net/ark:/27023/4caa8b7ae35b0cb13a4120cc42a153a4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4caa8b7ae35b0cb13a4120cc42a153a4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6c21d0df4613f77d5b7d5b4931b326d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6c21d0df4613f77d5b7d5b4931b326d8> <https://colonialcollections.nl/schema#identifier> "TM-3446-65" .
+<https://n2t.net/ark:/27023/6c21d0df4613f77d5b7d5b4931b326d8> <https://colonialcollections.nl/schema#name> "IJZEREN SCHAAR GEBRUIKT BIJ HET WEVEN" .
+<https://n2t.net/ark:/27023/6c21d0df4613f77d5b7d5b4931b326d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6c21d0df4613f77d5b7d5b4931b326d8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

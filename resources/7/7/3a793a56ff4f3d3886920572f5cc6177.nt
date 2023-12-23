@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6f31caeeab8d72c3b5e5b22c86444491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f31caeeab8d72c3b5e5b22c86444491> <https://colonialcollections.nl/schema#identifier> "RV-B176-38" .
+<https://n2t.net/ark:/27023/6f31caeeab8d72c3b5e5b22c86444491> <https://colonialcollections.nl/schema#name> "Schijf met versiering" .
+<https://n2t.net/ark:/27023/6f31caeeab8d72c3b5e5b22c86444491> <https://colonialcollections.nl/schema#material> "koper ; turkoois" .
+<https://n2t.net/ark:/27023/6f31caeeab8d72c3b5e5b22c86444491> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6f31caeeab8d72c3b5e5b22c86444491> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

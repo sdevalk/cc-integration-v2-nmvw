@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <https://colonialcollections.nl/schema#identifier> "TM-3912-116" .
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <https://colonialcollections.nl/schema#name> "GLADDE KOPEREN ARMBAND" .
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <https://colonialcollections.nl/schema#description> "De armband is aan de buitenzijde van de uiteinden versierd met dun ingegrifte ruitvormen. De inheemse naam 'Zan' betekent 'armband'." .
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <https://colonialcollections.nl/schema#material> "De armband is vervaardigd uit een koperlegering en waarschijnlijk a cire perdue gegoten." .
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/51418a78912b2a3e86e3cce165d7c670> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

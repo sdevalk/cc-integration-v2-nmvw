@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#identifier> "WM-940133-13-3" .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#name> "ALGER - LE MONUMENT AUX MORTS" .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#description> "reisfotografie & straat & park & monument & persoon (3) & lantaarn : straatlantaarn" .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7ed2c9f11389465c707ba3105bd78000> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

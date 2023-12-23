@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/547ce9d61bd0d935ad394d5b0f6d5c2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/547ce9d61bd0d935ad394d5b0f6d5c2e> <https://colonialcollections.nl/schema#identifier> "TM-46-44" .
+<https://n2t.net/ark:/27023/547ce9d61bd0d935ad394d5b0f6d5c2e> <https://colonialcollections.nl/schema#name> "WITTE KATOENEN VROUWEN KOKERROK" .
+<https://n2t.net/ark:/27023/547ce9d61bd0d935ad394d5b0f6d5c2e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/547ce9d61bd0d935ad394d5b0f6d5c2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

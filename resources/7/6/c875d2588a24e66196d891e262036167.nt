@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/51ab27a389a4f760202f28551c326baa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/51ab27a389a4f760202f28551c326baa> <https://colonialcollections.nl/schema#identifier> "RV-5743-76" .
+<https://n2t.net/ark:/27023/51ab27a389a4f760202f28551c326baa> <https://colonialcollections.nl/schema#name> "PAPIERMONSTER" .
+<https://n2t.net/ark:/27023/51ab27a389a4f760202f28551c326baa> <https://colonialcollections.nl/schema#description> "Papiermonster" .
+<https://n2t.net/ark:/27023/51ab27a389a4f760202f28551c326baa> <https://colonialcollections.nl/schema#material> "papier, moerbeiboompapier" .
+<https://n2t.net/ark:/27023/51ab27a389a4f760202f28551c326baa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

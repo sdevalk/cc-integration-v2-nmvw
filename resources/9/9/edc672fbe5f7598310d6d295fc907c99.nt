@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6e084d2fd238d10d3b353a47a3de8f19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6e084d2fd238d10d3b353a47a3de8f19> <https://colonialcollections.nl/schema#identifier> "RV-1-3224" .
+<https://n2t.net/ark:/27023/6e084d2fd238d10d3b353a47a3de8f19> <https://colonialcollections.nl/schema#description> "Schelptrompet zonder mondstuk" .
+<https://n2t.net/ark:/27023/6e084d2fd238d10d3b353a47a3de8f19> <https://colonialcollections.nl/schema#material> "schelp" .
+<https://n2t.net/ark:/27023/6e084d2fd238d10d3b353a47a3de8f19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

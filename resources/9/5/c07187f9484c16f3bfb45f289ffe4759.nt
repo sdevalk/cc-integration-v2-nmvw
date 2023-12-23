@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6dc30354e402036cea21f1a06871866d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6dc30354e402036cea21f1a06871866d> <https://colonialcollections.nl/schema#identifier> "TM-6325-26" .
+<https://n2t.net/ark:/27023/6dc30354e402036cea21f1a06871866d> <https://colonialcollections.nl/schema#name> "DOEK VIERING 25 JAAR ONAFHANKELIJK RWANDA 1962-1987" .
+<https://n2t.net/ark:/27023/6dc30354e402036cea21f1a06871866d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6dc30354e402036cea21f1a06871866d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

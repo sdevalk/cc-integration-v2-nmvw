@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/52b5eb2e0f3a27539a298af92c794119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/52b5eb2e0f3a27539a298af92c794119> <https://colonialcollections.nl/schema#identifier> "TM-A-281" .
+<https://n2t.net/ark:/27023/52b5eb2e0f3a27539a298af92c794119> <https://colonialcollections.nl/schema#name> "HALSVERSIERING VAN DRIE VRUCHTEN" .
+<https://n2t.net/ark:/27023/52b5eb2e0f3a27539a298af92c794119> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/52b5eb2e0f3a27539a298af92c794119> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

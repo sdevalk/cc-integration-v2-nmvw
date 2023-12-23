@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6d45ff78980f70dc4c46e177530b249a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6d45ff78980f70dc4c46e177530b249a> <https://colonialcollections.nl/schema#identifier> "WM-904113" .
+<https://n2t.net/ark:/27023/6d45ff78980f70dc4c46e177530b249a> <https://colonialcollections.nl/schema#description> "es\r\nkind (mv)" .
+<https://n2t.net/ark:/27023/6d45ff78980f70dc4c46e177530b249a> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] albuminedruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/6d45ff78980f70dc4c46e177530b249a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6d45ff78980f70dc4c46e177530b249a> <https://colonialcollections.nl/schema#creator> "Geiser, J." .

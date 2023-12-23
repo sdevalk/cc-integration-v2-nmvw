@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6bf0e98d07f6643480f232ffde6f01bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6bf0e98d07f6643480f232ffde6f01bd> <https://colonialcollections.nl/schema#identifier> "TM-1770-222" .
+<https://n2t.net/ark:/27023/6bf0e98d07f6643480f232ffde6f01bd> <https://colonialcollections.nl/schema#name> "BEELDJE VOORSTELLENDE HEILIGE" .
+<https://n2t.net/ark:/27023/6bf0e98d07f6643480f232ffde6f01bd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6bf0e98d07f6643480f232ffde6f01bd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

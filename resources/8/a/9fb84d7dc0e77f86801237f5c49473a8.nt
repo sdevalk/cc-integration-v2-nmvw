@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/52ede87b2b40e02d0c049aa2185cef97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/52ede87b2b40e02d0c049aa2185cef97> <https://colonialcollections.nl/schema#identifier> "TM-H-2827" .
+<https://n2t.net/ark:/27023/52ede87b2b40e02d0c049aa2185cef97> <https://colonialcollections.nl/schema#name> "HOUTSNIJWERK IN DE VORM VAN EEN DIER" .
+<https://n2t.net/ark:/27023/52ede87b2b40e02d0c049aa2185cef97> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/52ede87b2b40e02d0c049aa2185cef97> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

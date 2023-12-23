@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/517f8ec0ff270bc5ad2f53b6cd68b479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/517f8ec0ff270bc5ad2f53b6cd68b479> <https://colonialcollections.nl/schema#identifier> "RV-1-2137" .
+<https://n2t.net/ark:/27023/517f8ec0ff270bc5ad2f53b6cd68b479> <https://colonialcollections.nl/schema#name> "GELEGENHEIDSMUNT" .
+<https://n2t.net/ark:/27023/517f8ec0ff270bc5ad2f53b6cd68b479> <https://colonialcollections.nl/schema#description> "type: Katsu en Ebisu-sen" .
+<https://n2t.net/ark:/27023/517f8ec0ff270bc5ad2f53b6cd68b479> <https://colonialcollections.nl/schema#material> "brons ; gietwerk" .
+<https://n2t.net/ark:/27023/517f8ec0ff270bc5ad2f53b6cd68b479> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

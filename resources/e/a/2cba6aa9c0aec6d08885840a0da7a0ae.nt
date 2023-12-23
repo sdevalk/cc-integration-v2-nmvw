@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/6f49fac0612b2ef9bda2445f8ca742aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f49fac0612b2ef9bda2445f8ca742aa> <https://colonialcollections.nl/schema#identifier> "WM-7193" .
+<https://n2t.net/ark:/27023/6f49fac0612b2ef9bda2445f8ca742aa> <https://colonialcollections.nl/schema#material> "koper (?)" .
+<https://n2t.net/ark:/27023/6f49fac0612b2ef9bda2445f8ca742aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

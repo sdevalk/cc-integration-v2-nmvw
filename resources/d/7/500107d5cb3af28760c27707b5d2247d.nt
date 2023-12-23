@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6c2d66590f367bfccb9392be7e24ba50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6c2d66590f367bfccb9392be7e24ba50> <https://colonialcollections.nl/schema#identifier> "TM-4743-20a" .
+<https://n2t.net/ark:/27023/6c2d66590f367bfccb9392be7e24ba50> <https://colonialcollections.nl/schema#name> "HOUTEN VAT MET STOP VOOR BIER OF WATER" .
+<https://n2t.net/ark:/27023/6c2d66590f367bfccb9392be7e24ba50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6c2d66590f367bfccb9392be7e24ba50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

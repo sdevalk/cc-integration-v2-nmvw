@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6cdc63205f893655e786d02b44c22b34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6cdc63205f893655e786d02b44c22b34> <https://colonialcollections.nl/schema#identifier> "TM-2656-45g" .
+<https://n2t.net/ark:/27023/6cdc63205f893655e786d02b44c22b34> <https://colonialcollections.nl/schema#name> "KNOOP VAN PARELMOER IN DE VORM VAN EEN ZITTENDE DRAAK" .
+<https://n2t.net/ark:/27023/6cdc63205f893655e786d02b44c22b34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6cdc63205f893655e786d02b44c22b34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

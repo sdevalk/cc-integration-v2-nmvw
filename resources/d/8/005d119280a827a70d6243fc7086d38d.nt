@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#identifier> "TM-90000000" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"AMERICA LATINO\"" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#description> "America Latino is een documentaire die gaat over de onderlinge verhoudingen tussen verschillende landen van Zuid-Amerika en hun economische onafhankelijkheid van de USA. (J. de Jonge, 1975)\r\n\r\nDe film is in kleur en bevat optisch geluid. De film is voorzien van Nederlands commentaar.\r\nHet is een 16mm film." .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#material> "fotografische procedés" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#creator> "Dhr. B. (Bernd) Grote" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#creator> "Pro-Vobis Film, Berlijn" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

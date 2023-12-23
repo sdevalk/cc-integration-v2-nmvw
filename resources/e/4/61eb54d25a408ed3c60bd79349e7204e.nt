@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6f3ef8587908066b72aeadb0529b6539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f3ef8587908066b72aeadb0529b6539> <https://colonialcollections.nl/schema#identifier> "RV-370-359" .
+<https://n2t.net/ark:/27023/6f3ef8587908066b72aeadb0529b6539> <https://colonialcollections.nl/schema#name> "Sigaar" .
+<https://n2t.net/ark:/27023/6f3ef8587908066b72aeadb0529b6539> <https://colonialcollections.nl/schema#material> "tabak" .
+<https://n2t.net/ark:/27023/6f3ef8587908066b72aeadb0529b6539> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

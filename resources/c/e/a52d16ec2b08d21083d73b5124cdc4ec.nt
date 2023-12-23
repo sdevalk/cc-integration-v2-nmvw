@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6c779fe30d91f66ee3dab1bb691fff46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6c779fe30d91f66ee3dab1bb691fff46> <https://colonialcollections.nl/schema#identifier> "RV-3600-271" .
+<https://n2t.net/ark:/27023/6c779fe30d91f66ee3dab1bb691fff46> <https://colonialcollections.nl/schema#name> "Voetstuk voor kanon (model?)" .
+<https://n2t.net/ark:/27023/6c779fe30d91f66ee3dab1bb691fff46> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/6c779fe30d91f66ee3dab1bb691fff46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

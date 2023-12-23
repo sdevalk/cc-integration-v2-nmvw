@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6e1732a178d4651810abfc28a5ab5ab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6e1732a178d4651810abfc28a5ab5ab1> <https://colonialcollections.nl/schema#identifier> "TM-4071-10" .
+<https://n2t.net/ark:/27023/6e1732a178d4651810abfc28a5ab5ab1> <https://colonialcollections.nl/schema#name> "VERTINDE KOPEREN BAK MET RELIËFVERSIERING VOOR VINGERWASSING" .
+<https://n2t.net/ark:/27023/6e1732a178d4651810abfc28a5ab5ab1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6e1732a178d4651810abfc28a5ab5ab1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

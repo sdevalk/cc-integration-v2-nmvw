@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#identifier> "RV-5879-10-TT" .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#name> "VLAGGEN" .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#description> "Set van vijf vlaggen voor sjamanistische ritueel. Op elk van de vlaggen een afbeelding van een geest of godheid." .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#material> "PVC ; bamboe" .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6e055912b0e450c95c232002cd3d85d4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6da80d7c6c62f177edb7a383d5d4303c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6da80d7c6c62f177edb7a383d5d4303c> <https://colonialcollections.nl/schema#identifier> "TM-2438-33" .
+<https://n2t.net/ark:/27023/6da80d7c6c62f177edb7a383d5d4303c> <https://colonialcollections.nl/schema#name> "RAFFIA VOEDSELMANDJE" .
+<https://n2t.net/ark:/27023/6da80d7c6c62f177edb7a383d5d4303c> <https://colonialcollections.nl/schema#description> "In dit mandje wordt voedsel bewaard." .
+<https://n2t.net/ark:/27023/6da80d7c6c62f177edb7a383d5d4303c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6da80d7c6c62f177edb7a383d5d4303c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

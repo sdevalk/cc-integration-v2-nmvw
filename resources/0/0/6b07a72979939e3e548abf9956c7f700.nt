@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7352ee540e56c652c6813243fa1efd7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7352ee540e56c652c6813243fa1efd7a> <https://colonialcollections.nl/schema#identifier> "WM-900808" .
+<https://n2t.net/ark:/27023/7352ee540e56c652c6813243fa1efd7a> <https://colonialcollections.nl/schema#description> "vrouwenkleding & kinderkleding\r\nvrouw & jongen\r\nmarkt" .
+<https://n2t.net/ark:/27023/7352ee540e56c652c6813243fa1efd7a> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/7352ee540e56c652c6813243fa1efd7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7352ee540e56c652c6813243fa1efd7a> <https://colonialcollections.nl/schema#creator> "H. Haan-Fischer" .

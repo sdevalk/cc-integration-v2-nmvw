@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6dbf935edae045f2a2221204a9647087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6dbf935edae045f2a2221204a9647087> <https://colonialcollections.nl/schema#identifier> "WM-57899" .
+<https://n2t.net/ark:/27023/6dbf935edae045f2a2221204a9647087> <https://colonialcollections.nl/schema#description> "[KL] roodachtig\r\n[VO] grof jas." .
+<https://n2t.net/ark:/27023/6dbf935edae045f2a2221204a9647087> <https://colonialcollections.nl/schema#material> "geweven" .
+<https://n2t.net/ark:/27023/6dbf935edae045f2a2221204a9647087> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

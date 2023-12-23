@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <https://colonialcollections.nl/schema#identifier> "WM-420301" .
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <https://colonialcollections.nl/schema#description> "jongen" .
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <https://colonialcollections.nl/schema#material> "[TK] *" .
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <https://colonialcollections.nl/schema#creator> "Wolff, H.E.W." .
+<https://n2t.net/ark:/27023/5401619db5b8c768ad6b625a8d6ebc23> <https://colonialcollections.nl/schema#inscription> "526/21" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5101c4bfc1854c209aced5ccb59c2fdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5101c4bfc1854c209aced5ccb59c2fdb> <https://colonialcollections.nl/schema#identifier> "RV-1-2558" .
+<https://n2t.net/ark:/27023/5101c4bfc1854c209aced5ccb59c2fdb> <https://colonialcollections.nl/schema#name> "Kast" .
+<https://n2t.net/ark:/27023/5101c4bfc1854c209aced5ccb59c2fdb> <https://colonialcollections.nl/schema#description> "Langwerpig kastje met deksel, bruin gelakt" .
+<https://n2t.net/ark:/27023/5101c4bfc1854c209aced5ccb59c2fdb> <https://colonialcollections.nl/schema#material> "hout ; lakwerk" .
+<https://n2t.net/ark:/27023/5101c4bfc1854c209aced5ccb59c2fdb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

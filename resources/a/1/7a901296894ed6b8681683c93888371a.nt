@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/525ca99e35164edfe9b58bd541fea12a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/525ca99e35164edfe9b58bd541fea12a> <https://colonialcollections.nl/schema#identifier> "TM-2658-57" .
+<https://n2t.net/ark:/27023/525ca99e35164edfe9b58bd541fea12a> <https://colonialcollections.nl/schema#name> "VERMOLMD HOUT OMWIKKELD MET DROGE PALMBLADEREN EN GEDRENKT IN OLIE, GEBRUIKT ALS TOORTS" .
+<https://n2t.net/ark:/27023/525ca99e35164edfe9b58bd541fea12a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/525ca99e35164edfe9b58bd541fea12a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

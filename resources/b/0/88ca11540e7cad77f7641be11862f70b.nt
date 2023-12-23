@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <https://colonialcollections.nl/schema#identifier> "RV-1025-66" .
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <https://colonialcollections.nl/schema#name> "EEN PAAR LEREN LAARZEN, ONDERDEEL VAN EEN THEATERKOSTUUM" .
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <https://colonialcollections.nl/schema#description> "Maakt deel uit van het kostuum van Antar, de nationale held in Syrië in de Antar-roman, in het Syrische theater  (geldt voor de nummers 62 tot en met 68 uit deze serie).Onder de hak is bij beide laarzen een hoefijzer aangebracht. Het kostuum is gedragen tijdens een theatervoorstelling op de Wereldtentoonstelling te Antwerpen in 1894 getiteld 'Le drame d'Anthar. Le Fameux Héros Arabe.' Het stuk werd verdeeld over 3 aktes opgevoerd in het 'théatre Oriental au quartier Syrien.'" .
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <https://colonialcollections.nl/schema#material> "Leer ; ijzer ; wol" .
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6ba2a9e74e36c6e7d16ed6237fd9b056> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

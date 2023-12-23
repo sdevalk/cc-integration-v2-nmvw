@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#identifier> "WM-435759" .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#description> "Kanon aan de waterkant bij fort Zeelandia." .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#material> "ontwikkelgelatinezilverdruk" .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#creator> "Vogel, W." .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4c855a88d7e4c540d67364c54c199897> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
