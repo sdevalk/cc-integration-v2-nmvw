@@ -1,0 +1,13 @@
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#identifier> "AM-293-2" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#name> "Masker" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nVrij plat masker met een antropomorf gezicht. De ogen zijn klein en smal. De randen zijn dikker dan de rest van het masker. Over de ogen tot aan de wenkbrauwen zit gedeeltelijk een witte stof en onder de ogen is het roodachtig van kleur.\r\nHet masker heeft een korte neus en een geopende mond. Zowel bovenlangs het masker als onderlangs is zwart glad haar bevestigd.\r\nAan de achterzijde van het masker zit een stuk touw met daarin een knoop." .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#material> "Olifantshuid; haar" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#alternateName> "Moyen-Congo" .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#alternateName> "Congo (Brazzaville)"@en .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
+<https://n2t.net/ark:/27023/4af48ab0c4206014375439b4a3156aea> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .

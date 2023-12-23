@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3bfff1e1539a699bdea235043a20b30b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3bfff1e1539a699bdea235043a20b30b> <https://colonialcollections.nl/schema#identifier> "TM-4113-706" .
+<https://n2t.net/ark:/27023/3bfff1e1539a699bdea235043a20b30b> <https://colonialcollections.nl/schema#name> "GIPSEN VOTIEFBEELDJE WAARSCHIJNLIJK GODIN VAN DE VOORSPOED VOORSTELLENDE" .
+<https://n2t.net/ark:/27023/3bfff1e1539a699bdea235043a20b30b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3bfff1e1539a699bdea235043a20b30b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

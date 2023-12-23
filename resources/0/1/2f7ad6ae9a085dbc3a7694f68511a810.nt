@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#identifier> "WM-940131-24-3" .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#name> "INTÉRIEUR MAURESQUE" .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#description> "reisfotografie & tapijtfabricage & vrouw (groep van vier) & pilaar" .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3d098487bae85ecb6881b795fe7b68f6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

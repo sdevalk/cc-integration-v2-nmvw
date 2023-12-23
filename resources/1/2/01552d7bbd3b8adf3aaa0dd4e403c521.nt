@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <https://colonialcollections.nl/schema#identifier> "WM-28504" .
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <https://colonialcollections.nl/schema#description> "Hermafrodiet met plat gezicht, kopspijker in voorhoofd, ogen (kopspijkers), hoefijzervormige oren, verticale richels als haardracht (achterhoofd) en afstaande bundel als nek." .
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <https://colonialcollections.nl/schema#material> "hout, katoen, messing (kopspijker)\r\n1892 (voor)" .
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <https://colonialcollections.nl/schema#yearCreatedStart> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4c12a6ad72340d67d0071c03b516e599> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4a7869705a9aab3d88f2c9278bd7bf7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a7869705a9aab3d88f2c9278bd7bf7f> <https://colonialcollections.nl/schema#identifier> "TM-H-3053b" .
+<https://n2t.net/ark:/27023/4a7869705a9aab3d88f2c9278bd7bf7f> <https://colonialcollections.nl/schema#name> "VOGELPIJL MET RIETEN SCHACHT EN HOUTEN SCHIJFVORMIG BOVENEINDE" .
+<https://n2t.net/ark:/27023/4a7869705a9aab3d88f2c9278bd7bf7f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4a7869705a9aab3d88f2c9278bd7bf7f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

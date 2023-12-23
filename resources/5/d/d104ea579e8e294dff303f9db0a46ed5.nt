@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4362bb8d9cf42d3a5a1e60fd365358c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4362bb8d9cf42d3a5a1e60fd365358c3> <https://colonialcollections.nl/schema#identifier> "RV-384-19" .
+<https://n2t.net/ark:/27023/4362bb8d9cf42d3a5a1e60fd365358c3> <https://colonialcollections.nl/schema#name> "Mand" .
+<https://n2t.net/ark:/27023/4362bb8d9cf42d3a5a1e60fd365358c3> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/4362bb8d9cf42d3a5a1e60fd365358c3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

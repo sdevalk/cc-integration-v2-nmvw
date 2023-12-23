@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3a71d2b88b6ace7c276e08eceba4750a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a71d2b88b6ace7c276e08eceba4750a> <https://colonialcollections.nl/schema#identifier> "RV-3830-3a" .
+<https://n2t.net/ark:/27023/3a71d2b88b6ace7c276e08eceba4750a> <https://colonialcollections.nl/schema#name> "ZIJDEN MANTEL MET GOUDDRAAD VERSIERD" .
+<https://n2t.net/ark:/27023/3a71d2b88b6ace7c276e08eceba4750a> <https://colonialcollections.nl/schema#material> "Zijde ; gouddraad" .
+<https://n2t.net/ark:/27023/3a71d2b88b6ace7c276e08eceba4750a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3a71d2b88b6ace7c276e08eceba4750a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

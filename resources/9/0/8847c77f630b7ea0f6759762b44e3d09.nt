@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4378f69b9a0fbd1be38f747715d94f8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4378f69b9a0fbd1be38f747715d94f8b> <https://colonialcollections.nl/schema#identifier> "WM-901348" .
+<https://n2t.net/ark:/27023/4378f69b9a0fbd1be38f747715d94f8b> <https://colonialcollections.nl/schema#description> "personenbus  \r\nopgraving\r\narcheologische-vindplaats & bandenspoor & woestijn" .
+<https://n2t.net/ark:/27023/4378f69b9a0fbd1be38f747715d94f8b> <https://colonialcollections.nl/schema#material> "[MT] papier : Ridax\r\n[TK] ontwikkelgelatinezilverdruk\r\n[SD] contactafdruk\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/4378f69b9a0fbd1be38f747715d94f8b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4378f69b9a0fbd1be38f747715d94f8b> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .

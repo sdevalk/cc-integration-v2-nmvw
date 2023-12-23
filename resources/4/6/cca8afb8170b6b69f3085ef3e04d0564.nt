@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3c6b903377c7d84ac6f47a5983bf7589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3c6b903377c7d84ac6f47a5983bf7589> <https://colonialcollections.nl/schema#identifier> "TM-5579-29" .
+<https://n2t.net/ark:/27023/3c6b903377c7d84ac6f47a5983bf7589> <https://colonialcollections.nl/schema#name> "IJZEREN BETELNOTENKRAKER MET VERSIERD SCHARNIER, VOORSTELLENDE EEN TERUGKIJKENDE VOGELKOP" .
+<https://n2t.net/ark:/27023/3c6b903377c7d84ac6f47a5983bf7589> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3c6b903377c7d84ac6f47a5983bf7589> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .

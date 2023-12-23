@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/449e2ed6704b8049f96b0a7c0cfed62e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/449e2ed6704b8049f96b0a7c0cfed62e> <https://colonialcollections.nl/schema#identifier> "RV-1200-21" .
+<https://n2t.net/ark:/27023/449e2ed6704b8049f96b0a7c0cfed62e> <https://colonialcollections.nl/schema#name> "Knots" .
+<https://n2t.net/ark:/27023/449e2ed6704b8049f96b0a7c0cfed62e> <https://colonialcollections.nl/schema#material> "hout ; riet ; katoentouw" .
+<https://n2t.net/ark:/27023/449e2ed6704b8049f96b0a7c0cfed62e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

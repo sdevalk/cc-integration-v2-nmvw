@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#identifier> "RV-1045-8" .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#name> "Kledingdoek" .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#description> "Kledingdoek gemaakt van verschillende stukken. Gedragen rond hoofd en bovenlichaam." .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3d21d2b7c0634c11b1b6f429da8ab4ef> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

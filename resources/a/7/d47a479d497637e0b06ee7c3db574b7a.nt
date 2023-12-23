@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/44f95aa48ae0a221a5cbe716cf831bae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44f95aa48ae0a221a5cbe716cf831bae> <https://colonialcollections.nl/schema#identifier> "WM-4811" .
+<https://n2t.net/ark:/27023/44f95aa48ae0a221a5cbe716cf831bae> <https://colonialcollections.nl/schema#material> "palmpit : maripa-pit" .
+<https://n2t.net/ark:/27023/44f95aa48ae0a221a5cbe716cf831bae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/44f95aa48ae0a221a5cbe716cf831bae> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/44f95aa48ae0a221a5cbe716cf831bae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

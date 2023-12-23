@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <https://colonialcollections.nl/schema#identifier> "WM-68277" .
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <https://colonialcollections.nl/schema#name> "DE PULP WORDT AAN DE ZON BLOOTGESTELD ZODAT HET SAP VOOR DE OPIUM TEVOORSCHIJN KOMT. DE BEZOEKERS KIJKEN TOE." .
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <https://colonialcollections.nl/schema#material> "lak op papier-maché" .
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/49cefee62e3a61683128db4c271577af> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

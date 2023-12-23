@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/453ad6f44a36ad4403f6e6e8aaec4dcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/453ad6f44a36ad4403f6e6e8aaec4dcd> <https://colonialcollections.nl/schema#identifier> "WM-900908" .
+<https://n2t.net/ark:/27023/453ad6f44a36ad4403f6e6e8aaec4dcd> <https://colonialcollections.nl/schema#description> "strohut : Noualahut" .
+<https://n2t.net/ark:/27023/453ad6f44a36ad4403f6e6e8aaec4dcd> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/453ad6f44a36ad4403f6e6e8aaec4dcd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/453ad6f44a36ad4403f6e6e8aaec4dcd> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .

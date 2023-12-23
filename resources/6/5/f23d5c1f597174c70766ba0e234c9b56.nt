@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3a0a299e5107596c8b55b64316202722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a0a299e5107596c8b55b64316202722> <https://colonialcollections.nl/schema#identifier> "TM-H-2762-1" .
+<https://n2t.net/ark:/27023/3a0a299e5107596c8b55b64316202722> <https://colonialcollections.nl/schema#name> "PIJL MET RIETEN SCHACHT EN BAMBOE PUNT" .
+<https://n2t.net/ark:/27023/3a0a299e5107596c8b55b64316202722> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3a0a299e5107596c8b55b64316202722> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/49ea449446c1fe140e5a4bb0b4056ce3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/49ea449446c1fe140e5a4bb0b4056ce3> <https://colonialcollections.nl/schema#identifier> "WM-47854" .
+<https://n2t.net/ark:/27023/49ea449446c1fe140e5a4bb0b4056ce3> <https://colonialcollections.nl/schema#description> "[ST] punt : weerhaken & stekels" .
+<https://n2t.net/ark:/27023/49ea449446c1fe140e5a4bb0b4056ce3> <https://colonialcollections.nl/schema#material> "riet, bamboe (punt), papegaaienveer, katoen" .
+<https://n2t.net/ark:/27023/49ea449446c1fe140e5a4bb0b4056ce3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

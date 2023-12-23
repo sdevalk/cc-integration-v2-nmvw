@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4a022e180c9726c816c343436074de44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a022e180c9726c816c343436074de44> <https://colonialcollections.nl/schema#identifier> "TM-4313-125" .
+<https://n2t.net/ark:/27023/4a022e180c9726c816c343436074de44> <https://colonialcollections.nl/schema#name> "TANG OM SNOEP TE MAKEN" .
+<https://n2t.net/ark:/27023/4a022e180c9726c816c343436074de44> <https://colonialcollections.nl/schema#description> "Voor het maken van kandijsnoepjes." .
+<https://n2t.net/ark:/27023/4a022e180c9726c816c343436074de44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4a022e180c9726c816c343436074de44> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

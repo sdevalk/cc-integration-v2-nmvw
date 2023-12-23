@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/421ff21ebe1b2183bd28fa6c1c32f622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/421ff21ebe1b2183bd28fa6c1c32f622> <https://colonialcollections.nl/schema#identifier> "TM-2459-30d" .
+<https://n2t.net/ark:/27023/421ff21ebe1b2183bd28fa6c1c32f622> <https://colonialcollections.nl/schema#name> "BRONZEN VOGEL, GEBRUIKT ALS BETAALMIDDEL" .
+<https://n2t.net/ark:/27023/421ff21ebe1b2183bd28fa6c1c32f622> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/421ff21ebe1b2183bd28fa6c1c32f622> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

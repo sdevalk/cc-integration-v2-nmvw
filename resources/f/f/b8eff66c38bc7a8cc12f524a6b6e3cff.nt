@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <https://colonialcollections.nl/schema#identifier> "RV-503-210a" .
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <https://colonialcollections.nl/schema#name> "Pijp" .
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <https://colonialcollections.nl/schema#description> "Deel van een pijp." .
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/42ea8c020b9c1f2fc4ccd38242db302c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

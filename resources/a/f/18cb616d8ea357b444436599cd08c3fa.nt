@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#identifier> "WM-940133-1-6" .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#name> "LAGHOUAT 1928" .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#description> "reisfotografie & stadsgezicht & weg : zandweg & kameel (3) & ezel & ezelrijder" .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/452e03167a5c30739bfb4e6d23584a52> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

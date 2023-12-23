@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/44c59141399c8edf0c57ce10c2bcee1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44c59141399c8edf0c57ce10c2bcee1c> <https://colonialcollections.nl/schema#identifier> "TM-A-6403" .
+<https://n2t.net/ark:/27023/44c59141399c8edf0c57ce10c2bcee1c> <https://colonialcollections.nl/schema#name> "VAN EEN TAK VERVAARDIGDE ARMBAND DIE BESCHERMING BIEDT TEGEN KROKODILLENBETEN" .
+<https://n2t.net/ark:/27023/44c59141399c8edf0c57ce10c2bcee1c> <https://colonialcollections.nl/schema#description> "Amuletten bieden bescherming tegen ziekte, onheil en hekserij. De gebruikte materialen zijn altijd anders, omdat ze telkens voor een andere god of geest gelden. Ze worden gemaakt door religieus specialisten, obiamannen of -vrouwen al naar gelang de wens van de cliënt." .
+<https://n2t.net/ark:/27023/44c59141399c8edf0c57ce10c2bcee1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/44c59141399c8edf0c57ce10c2bcee1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

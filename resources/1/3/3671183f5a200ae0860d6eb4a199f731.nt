@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4380ddb885fbf09ff70ecae13babc900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4380ddb885fbf09ff70ecae13babc900> <https://colonialcollections.nl/schema#identifier> "RV-2668-2376" .
+<https://n2t.net/ark:/27023/4380ddb885fbf09ff70ecae13babc900> <https://colonialcollections.nl/schema#name> "Werkmes" .
+<https://n2t.net/ark:/27023/4380ddb885fbf09ff70ecae13babc900> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://n2t.net/ark:/27023/4380ddb885fbf09ff70ecae13babc900> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

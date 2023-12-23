@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <https://colonialcollections.nl/schema#identifier> "RV-389-19" .
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <https://colonialcollections.nl/schema#name> "HALSSIERAAD" .
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <https://colonialcollections.nl/schema#description> "Dit sieraad dat bestaat uit de hoorns van kleine antilopes werd door mannen gedragen." .
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <https://colonialcollections.nl/schema#material> "hoorn ; kralen ; vezel" .
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4a107c55ae3c088a3dcbae8e495c8fc2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

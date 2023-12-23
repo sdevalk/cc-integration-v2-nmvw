@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3d032f54a3adf167a8d8fdded3a0b6ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d032f54a3adf167a8d8fdded3a0b6ee> <https://colonialcollections.nl/schema#identifier> "AM-30-6" .
+<https://n2t.net/ark:/27023/3d032f54a3adf167a8d8fdded3a0b6ee> <https://colonialcollections.nl/schema#name> "Kapmes" .
+<https://n2t.net/ark:/27023/3d032f54a3adf167a8d8fdded3a0b6ee> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nMes met een houten heft een een ijzeren gehaakt lemmet." .
+<https://n2t.net/ark:/27023/3d032f54a3adf167a8d8fdded3a0b6ee> <https://colonialcollections.nl/schema#material> "IJzer; hout" .
+<https://n2t.net/ark:/27023/3d032f54a3adf167a8d8fdded3a0b6ee> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4bca06a7d8819f1fd7787d58634daf65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4bca06a7d8819f1fd7787d58634daf65> <https://colonialcollections.nl/schema#identifier> "WM-17219" .
+<https://n2t.net/ark:/27023/4bca06a7d8819f1fd7787d58634daf65> <https://colonialcollections.nl/schema#description> "[KL] grijs & groen & blauw & geel & bruin\r\n[DE] cirkel & ruit & bloem" .
+<https://n2t.net/ark:/27023/4bca06a7d8819f1fd7787d58634daf65> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngedraaid & gebakken & beschilderd & geglazuurd" .
+<https://n2t.net/ark:/27023/4bca06a7d8819f1fd7787d58634daf65> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

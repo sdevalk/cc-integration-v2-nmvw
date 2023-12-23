@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3d1fd0d9f9629bdf5fcbad835a73c5fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d1fd0d9f9629bdf5fcbad835a73c5fd> <https://colonialcollections.nl/schema#identifier> "TM-3401-471" .
+<https://n2t.net/ark:/27023/3d1fd0d9f9629bdf5fcbad835a73c5fd> <https://colonialcollections.nl/schema#name> "AVONDCAPE VAN LILA GEVERFDE STRUISVOGELVEREN" .
+<https://n2t.net/ark:/27023/3d1fd0d9f9629bdf5fcbad835a73c5fd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3d1fd0d9f9629bdf5fcbad835a73c5fd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

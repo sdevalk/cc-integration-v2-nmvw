@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/43de50b9762b11b2564758447335074d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43de50b9762b11b2564758447335074d> <https://colonialcollections.nl/schema#identifier> "AM-17-142" .
+<https://n2t.net/ark:/27023/43de50b9762b11b2564758447335074d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSierbijl waarvan het handvat knotsvormig is en beslagen met kopspijkers. Het blad is relatief klein en vervaardigd uit ijzer." .
+<https://n2t.net/ark:/27023/43de50b9762b11b2564758447335074d> <https://colonialcollections.nl/schema#material> "IJzer; hout" .
+<https://n2t.net/ark:/27023/43de50b9762b11b2564758447335074d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3a196cf087c72192772970cbef5a0678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a196cf087c72192772970cbef5a0678> <https://colonialcollections.nl/schema#identifier> "TM-2674-1e" .
+<https://n2t.net/ark:/27023/3a196cf087c72192772970cbef5a0678> <https://colonialcollections.nl/schema#name> "HOOFDDOEK ALS ONDERDEEL VAN KOTOMISI-THEEMUTS" .
+<https://n2t.net/ark:/27023/3a196cf087c72192772970cbef5a0678> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3a196cf087c72192772970cbef5a0678> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

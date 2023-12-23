@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3d66073ad892da01ec880c62fad9a1ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d66073ad892da01ec880c62fad9a1ff> <https://colonialcollections.nl/schema#identifier> "TM-A-9033" .
+<https://n2t.net/ark:/27023/3d66073ad892da01ec880c62fad9a1ff> <https://colonialcollections.nl/schema#name> "MONDORGEL VAN HOUT MET VEERTIEN BUIZEN VAN RIET" .
+<https://n2t.net/ark:/27023/3d66073ad892da01ec880c62fad9a1ff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3d66073ad892da01ec880c62fad9a1ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

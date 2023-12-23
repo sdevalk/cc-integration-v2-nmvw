@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/43184667b2ec35489ef290e9a242fd9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43184667b2ec35489ef290e9a242fd9e> <https://colonialcollections.nl/schema#identifier> "TM-4275-3" .
+<https://n2t.net/ark:/27023/43184667b2ec35489ef290e9a242fd9e> <https://colonialcollections.nl/schema#name> "SIERNAP VAN BESCHILDERDE KALEBASSCHAAL MET KATOENEN OPHANGKOORD" .
+<https://n2t.net/ark:/27023/43184667b2ec35489ef290e9a242fd9e> <https://colonialcollections.nl/schema#description> "Op de kalebas staat geschreven \"De liefde is klein maar zwaar om te dragen\"" .
+<https://n2t.net/ark:/27023/43184667b2ec35489ef290e9a242fd9e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/43184667b2ec35489ef290e9a242fd9e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

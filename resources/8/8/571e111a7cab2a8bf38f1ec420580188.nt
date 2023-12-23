@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/42951bbfb258b1b6dd8f8005bc077ef6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/42951bbfb258b1b6dd8f8005bc077ef6> <https://colonialcollections.nl/schema#identifier> "WM-15159" .
+<https://n2t.net/ark:/27023/42951bbfb258b1b6dd8f8005bc077ef6> <https://colonialcollections.nl/schema#material> "plantenvezel\r\ngevlochten" .
+<https://n2t.net/ark:/27023/42951bbfb258b1b6dd8f8005bc077ef6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

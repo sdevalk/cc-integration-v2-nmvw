@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/428b7759ef070c90d753d7aa89e0f420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/428b7759ef070c90d753d7aa89e0f420> <https://colonialcollections.nl/schema#identifier> "WM-52332" .
+<https://n2t.net/ark:/27023/428b7759ef070c90d753d7aa89e0f420> <https://colonialcollections.nl/schema#description> "[KL] bruin\r\n[VO] aan buitenzijde scherpe rand, aan binnenzijde rond." .
+<https://n2t.net/ark:/27023/428b7759ef070c90d753d7aa89e0f420> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/428b7759ef070c90d753d7aa89e0f420> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/44898ebdd06ab40fb260d6a8163cbc88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44898ebdd06ab40fb260d6a8163cbc88> <https://colonialcollections.nl/schema#identifier> "TM-3912-100b" .
+<https://n2t.net/ark:/27023/44898ebdd06ab40fb260d6a8163cbc88> <https://colonialcollections.nl/schema#name> "BROEK BEHOREND BIJ JAK, ONDERDEEL VAN DANSKLEDING" .
+<https://n2t.net/ark:/27023/44898ebdd06ab40fb260d6a8163cbc88> <https://colonialcollections.nl/schema#description> "De inheemse naam 'Banjè kursi' betekent 'broek van een masker'. Het is niet bekend tijdens welke maskerdans het kostuum werd gedragen." .
+<https://n2t.net/ark:/27023/44898ebdd06ab40fb260d6a8163cbc88> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/44898ebdd06ab40fb260d6a8163cbc88> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

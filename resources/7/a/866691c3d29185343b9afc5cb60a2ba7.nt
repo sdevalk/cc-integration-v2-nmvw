@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4202fb6c1f56afb5da3c34a5a5de4d68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4202fb6c1f56afb5da3c34a5a5de4d68> <https://colonialcollections.nl/schema#identifier> "TM-118-104" .
+<https://n2t.net/ark:/27023/4202fb6c1f56afb5da3c34a5a5de4d68> <https://colonialcollections.nl/schema#name> "LANS MET WEERHAKEN" .
+<https://n2t.net/ark:/27023/4202fb6c1f56afb5da3c34a5a5de4d68> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4202fb6c1f56afb5da3c34a5a5de4d68> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .

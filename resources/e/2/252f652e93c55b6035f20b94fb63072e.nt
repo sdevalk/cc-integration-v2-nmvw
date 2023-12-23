@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4a8fb0f54e8a2e00fa5caf67d212672b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a8fb0f54e8a2e00fa5caf67d212672b> <https://colonialcollections.nl/schema#identifier> "TM-2345-49" .
+<https://n2t.net/ark:/27023/4a8fb0f54e8a2e00fa5caf67d212672b> <https://colonialcollections.nl/schema#name> "AARDEWERKEN POT VOOR HET GISTEN VAN CASSAVE" .
+<https://n2t.net/ark:/27023/4a8fb0f54e8a2e00fa5caf67d212672b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4a8fb0f54e8a2e00fa5caf67d212672b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

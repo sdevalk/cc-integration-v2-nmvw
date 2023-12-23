@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/44a7ee53d5c1be165d67611609aeb4fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44a7ee53d5c1be165d67611609aeb4fd> <https://colonialcollections.nl/schema#identifier> "TM-3981-418" .
+<https://n2t.net/ark:/27023/44a7ee53d5c1be165d67611609aeb4fd> <https://colonialcollections.nl/schema#name> "DRAAGCONSTRUCTIE VOOR BRANDHOUT" .
+<https://n2t.net/ark:/27023/44a7ee53d5c1be165d67611609aeb4fd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/44a7ee53d5c1be165d67611609aeb4fd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

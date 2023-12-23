@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3bfbf28e202974a3bda8ff058198a1f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3bfbf28e202974a3bda8ff058198a1f9> <https://colonialcollections.nl/schema#identifier> "RV-5364-4" .
+<https://n2t.net/ark:/27023/3bfbf28e202974a3bda8ff058198a1f9> <https://colonialcollections.nl/schema#name> "Peddel" .
+<https://n2t.net/ark:/27023/3bfbf28e202974a3bda8ff058198a1f9> <https://colonialcollections.nl/schema#description> "inventariskaart ontbreekt" .
+<https://n2t.net/ark:/27023/3bfbf28e202974a3bda8ff058198a1f9> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/3bfbf28e202974a3bda8ff058198a1f9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4b82741703daa556665bd5f87d4178c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b82741703daa556665bd5f87d4178c2> <https://colonialcollections.nl/schema#identifier> "WM-22818" .
+<https://n2t.net/ark:/27023/4b82741703daa556665bd5f87d4178c2> <https://colonialcollections.nl/schema#description> "[ST] 2-delig & franje rondom\r\n[MO] driehoek\r\n[KL] roodbruin (2 tinten)" .
+<https://n2t.net/ark:/27023/4b82741703daa556665bd5f87d4178c2> <https://colonialcollections.nl/schema#material> "raffia, verf (tukula)\r\ngeweven (linnenbinding & pool), handgenaaid" .
+<https://n2t.net/ark:/27023/4b82741703daa556665bd5f87d4178c2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

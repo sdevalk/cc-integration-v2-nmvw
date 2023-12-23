@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3d13c6c924552992ac5d68377005cbaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3d13c6c924552992ac5d68377005cbaf> <https://colonialcollections.nl/schema#identifier> "TM-4960-66" .
+<https://n2t.net/ark:/27023/3d13c6c924552992ac5d68377005cbaf> <https://colonialcollections.nl/schema#name> "OOGSTBESCHERMER" .
+<https://n2t.net/ark:/27023/3d13c6c924552992ac5d68377005cbaf> <https://colonialcollections.nl/schema#description> "Deze korf werd om dadeltrossen in een boom gehangen zodat dieren er niet aan konden knabbelen." .
+<https://n2t.net/ark:/27023/3d13c6c924552992ac5d68377005cbaf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3d13c6c924552992ac5d68377005cbaf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/495fef11a8127d159f73d7e15b1d674d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/495fef11a8127d159f73d7e15b1d674d> <https://colonialcollections.nl/schema#identifier> "AM-17-1325" .
+<https://n2t.net/ark:/27023/495fef11a8127d159f73d7e15b1d674d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nStokje dat aan beide uiteinden is omwikkeld met vezel." .
+<https://n2t.net/ark:/27023/495fef11a8127d159f73d7e15b1d674d> <https://colonialcollections.nl/schema#material> "Hout; vezel" .
+<https://n2t.net/ark:/27023/495fef11a8127d159f73d7e15b1d674d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

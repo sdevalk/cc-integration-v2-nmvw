@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/423ef8b378cedb43c6a7951c9c881291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/423ef8b378cedb43c6a7951c9c881291> <https://colonialcollections.nl/schema#identifier> "RV-00-420" .
+<https://n2t.net/ark:/27023/423ef8b378cedb43c6a7951c9c881291> <https://colonialcollections.nl/schema#name> "Haspel met pees" .
+<https://n2t.net/ark:/27023/423ef8b378cedb43c6a7951c9c881291> <https://colonialcollections.nl/schema#description> "haspel (voor pees van boog?)" .
+<https://n2t.net/ark:/27023/423ef8b378cedb43c6a7951c9c881291> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

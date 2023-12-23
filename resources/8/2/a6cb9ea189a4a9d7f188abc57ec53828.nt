@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4b4de9498e046b2f0fb1dd12da2e80e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b4de9498e046b2f0fb1dd12da2e80e9> <https://colonialcollections.nl/schema#identifier> "TM-4066-6" .
+<https://n2t.net/ark:/27023/4b4de9498e046b2f0fb1dd12da2e80e9> <https://colonialcollections.nl/schema#name> "KATOENEN FEESTMANTEL VOOR VROUWEN, VOORZIEN VAN BORDUURWERK" .
+<https://n2t.net/ark:/27023/4b4de9498e046b2f0fb1dd12da2e80e9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4b4de9498e046b2f0fb1dd12da2e80e9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

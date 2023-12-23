@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#identifier> "AM-17-462" .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#name> "Doos voor het opbergen van sieraden" .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#description> "Doet dienst als sieraaddoos\r\n\r\nBeschrijving\r\nRechthoekige gevlochten doos met deksel." .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#material> "Plantaardige vezels" .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4ba79cc7f2a6fa64c7e81517cc5856d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

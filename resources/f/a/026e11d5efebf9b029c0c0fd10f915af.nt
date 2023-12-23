@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <https://colonialcollections.nl/schema#identifier> "RV-503-155c" .
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <https://colonialcollections.nl/schema#name> "Krant: Farhang, uitgegeven te Isfâhân, 4de jaargang, nr. 175, gedateerd: 14 Dhî-l-Qa da 1299/28 september 1882" .
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <https://colonialcollections.nl/schema#description> "Farhang, uitgegeven te Isfâhân, 4de jaargang, nr. 175, gedateerd: 14 Dhî-l-Qa da 1299/28 september 1882" .
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <https://colonialcollections.nl/schema#material> "papier" .
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4b4f310495a7a95a5f6bd9808c360f98> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

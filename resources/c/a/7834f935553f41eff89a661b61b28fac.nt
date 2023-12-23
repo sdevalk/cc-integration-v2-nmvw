@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/442b82457d78e3afc5fe2c00c76b8ad6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/442b82457d78e3afc5fe2c00c76b8ad6> <https://colonialcollections.nl/schema#identifier> "RV-4399-101" .
+<https://n2t.net/ark:/27023/442b82457d78e3afc5fe2c00c76b8ad6> <https://colonialcollections.nl/schema#name> "Kruithoorn" .
+<https://n2t.net/ark:/27023/442b82457d78e3afc5fe2c00c76b8ad6> <https://colonialcollections.nl/schema#description> "Inv.kaart: De hals is van been gemaakt en wordt afgesloten met een koperen stop, waarin een prop leer steekt.\r\nGebruik: vanuit de houder wordt kruit gegoten in het voorlaadgeweer,waarna het kruit aangestamtp wordt en een kogel in de loop gaat." .
+<https://n2t.net/ark:/27023/442b82457d78e3afc5fe2c00c76b8ad6> <https://colonialcollections.nl/schema#material> "hoorn ; leer ; koper" .
+<https://n2t.net/ark:/27023/442b82457d78e3afc5fe2c00c76b8ad6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

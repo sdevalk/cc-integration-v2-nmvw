@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e226019131f580e93413272af88ef1cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e226019131f580e93413272af88ef1cd> <https://colonialcollections.nl/schema#identifier> "WM-41285" .
+<https://n2t.net/ark:/27023/e226019131f580e93413272af88ef1cd> <https://colonialcollections.nl/schema#description> "[KL] bruin & rood" .
+<https://n2t.net/ark:/27023/e226019131f580e93413272af88ef1cd> <https://colonialcollections.nl/schema#material> "leer, suede (bovenzijde), rubber (hak)\r\ngesneden;gespijkerd (hak)" .
+<https://n2t.net/ark:/27023/e226019131f580e93413272af88ef1cd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

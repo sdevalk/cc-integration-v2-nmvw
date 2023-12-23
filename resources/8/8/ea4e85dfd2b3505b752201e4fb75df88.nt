@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4bf6b75df127d0ea76f450c24a36c9c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4bf6b75df127d0ea76f450c24a36c9c5> <https://colonialcollections.nl/schema#identifier> "WM-75509" .
+<https://n2t.net/ark:/27023/4bf6b75df127d0ea76f450c24a36c9c5> <https://colonialcollections.nl/schema#description> "[KL] geelkoper\r\n[DE] bloem & plant" .
+<https://n2t.net/ark:/27023/4bf6b75df127d0ea76f450c24a36c9c5> <https://colonialcollections.nl/schema#material> "koperlegering\r\ngegraveerd" .
+<https://n2t.net/ark:/27023/4bf6b75df127d0ea76f450c24a36c9c5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

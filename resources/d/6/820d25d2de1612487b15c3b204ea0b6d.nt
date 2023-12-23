@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/443aeaed5018cb1e0adbccc693211ccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/443aeaed5018cb1e0adbccc693211ccf> <https://colonialcollections.nl/schema#identifier> "TM-3245-10" .
+<https://n2t.net/ark:/27023/443aeaed5018cb1e0adbccc693211ccf> <https://colonialcollections.nl/schema#name> "PLACEMAT" .
+<https://n2t.net/ark:/27023/443aeaed5018cb1e0adbccc693211ccf> <https://colonialcollections.nl/schema#description> "Een rechthoekige mat, een placemat, gemaakt  van gevlochten palmbladvezels. De mat is met brede repen rechthoekig gevlochten. De mat is in de korte uiteinden versierd met schuinstaande a jour vierkanten. Gevlochten volgens de eenslagmethode." .
+<https://n2t.net/ark:/27023/443aeaed5018cb1e0adbccc693211ccf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/443aeaed5018cb1e0adbccc693211ccf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

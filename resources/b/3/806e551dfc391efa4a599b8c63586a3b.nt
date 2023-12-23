@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3b0fed66234ca2b026d82b7afaaf00dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3b0fed66234ca2b026d82b7afaaf00dd> <https://colonialcollections.nl/schema#identifier> "RV-3835-534a" .
+<https://n2t.net/ark:/27023/3b0fed66234ca2b026d82b7afaaf00dd> <https://colonialcollections.nl/schema#name> "Trompet" .
+<https://n2t.net/ark:/27023/3b0fed66234ca2b026d82b7afaaf00dd> <https://colonialcollections.nl/schema#material> "bamboe ; kalebas ; pek ; merg (moriche palm - Mauritia flexuosa)" .
+<https://n2t.net/ark:/27023/3b0fed66234ca2b026d82b7afaaf00dd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

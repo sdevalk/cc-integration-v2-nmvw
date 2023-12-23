@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3a026a41ea7a192ed35003315601ab94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3a026a41ea7a192ed35003315601ab94> <https://colonialcollections.nl/schema#identifier> "RV-1354-104" .
+<https://n2t.net/ark:/27023/3a026a41ea7a192ed35003315601ab94> <https://colonialcollections.nl/schema#name> "Bord" .
+<https://n2t.net/ark:/27023/3a026a41ea7a192ed35003315601ab94> <https://colonialcollections.nl/schema#material> "palmblad" .
+<https://n2t.net/ark:/27023/3a026a41ea7a192ed35003315601ab94> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

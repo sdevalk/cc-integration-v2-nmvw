@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#identifier> "TM-6433-1" .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#name> "'THE LIVING LEGEND'" .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#description> "Schilderij met drie verbeeldingen van Amitabh Bachan op verschillende leeftijden, India's grootste superster uit de filmwereld. Vandaar de titel." .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#material> "olieverf op doek" .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#creator> "Nishar Khodabaks" .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4a185495ce7d2b608d24696643f63324> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

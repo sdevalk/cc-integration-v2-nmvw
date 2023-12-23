@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/418a33c8996b94e400d326689593f95d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/418a33c8996b94e400d326689593f95d> <https://colonialcollections.nl/schema#identifier> "TM-A-6373" .
+<https://n2t.net/ark:/27023/418a33c8996b94e400d326689593f95d> <https://colonialcollections.nl/schema#name> "HOUTEN RIJSTVIJZEL" .
+<https://n2t.net/ark:/27023/418a33c8996b94e400d326689593f95d> <https://colonialcollections.nl/schema#description> "Ruw afgewerkt in de vorm van een halve cilinder op en voetstuk. Er is een komvormige opening aangebracht voor het stampen.\r\nDit object is verzameld tijdens de Zuidwest-Nieuw-Guinea-Expeditie van 1904 -1905." .
+<https://n2t.net/ark:/27023/418a33c8996b94e400d326689593f95d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/418a33c8996b94e400d326689593f95d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

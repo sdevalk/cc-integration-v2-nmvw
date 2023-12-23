@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <https://colonialcollections.nl/schema#identifier> "TM-5323-4" .
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <https://colonialcollections.nl/schema#name> "EEN ZITTENDE FIGUUR" .
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <https://colonialcollections.nl/schema#description> "Een van opzij gezien magere, negeroide(?) en schamel gekleed gehurkt zittend figuur. Omlijst door een egaal donkere achtegrond. Alles in rood/bruine verf." .
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <https://colonialcollections.nl/schema#creator> "J. Chin A Foeng" .
+<https://n2t.net/ark:/27023/49431736a5889cd31a89d4df73a68d11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

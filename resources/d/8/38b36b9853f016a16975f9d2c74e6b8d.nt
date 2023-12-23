@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#identifier> "RV-A45-85" .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#name> "PORTRET VAN EEN MAN UIT BAILUNDO ZUIDELIJK VAN DE QUANZA" .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: op karton geplakt" .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#creator> "J.A. (José Augusto) da Cunha Moraes" .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/44b1f53e369f6ff435a68288bab84aa9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3c7e9bd428f3f87efefe10cf97eb5ac5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3c7e9bd428f3f87efefe10cf97eb5ac5> <https://colonialcollections.nl/schema#identifier> "AM-17-877" .
+<https://n2t.net/ark:/27023/3c7e9bd428f3f87efefe10cf97eb5ac5> <https://colonialcollections.nl/schema#name> "Vaas" .
+<https://n2t.net/ark:/27023/3c7e9bd428f3f87efefe10cf97eb5ac5> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nKalebas versierd met diverse strengen, blauw en wit gekleurde kralen." .
+<https://n2t.net/ark:/27023/3c7e9bd428f3f87efefe10cf97eb5ac5> <https://colonialcollections.nl/schema#material> "Kalebas; kralen" .
+<https://n2t.net/ark:/27023/3c7e9bd428f3f87efefe10cf97eb5ac5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

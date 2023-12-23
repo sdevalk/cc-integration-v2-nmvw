@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/448c436c1dbdf6a0dc00b5a94bb02701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/448c436c1dbdf6a0dc00b5a94bb02701> <https://colonialcollections.nl/schema#identifier> "AM-16-26" .
+<https://n2t.net/ark:/27023/448c436c1dbdf6a0dc00b5a94bb02701> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nOnderdeel van kalebas; stop. Stukje hout met verdikking aan één zijde." .
+<https://n2t.net/ark:/27023/448c436c1dbdf6a0dc00b5a94bb02701> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/448c436c1dbdf6a0dc00b5a94bb02701> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#identifier> "RV-IB2013-47-1" .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#name> "MAGISCHE SCHAAL MET IJZEREN AANHANGELS" .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#description> "Magische schaal met ijzeren aanhangels (zog. Sleuteltjes), van messing, met inscripties." .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#material> "messing" .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4c27cf9e9e10a4fa230b04a8341e8df1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

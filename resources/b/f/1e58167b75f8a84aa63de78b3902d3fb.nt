@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e20765f54a6ac20247e38469b0383d90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e20765f54a6ac20247e38469b0383d90> <https://colonialcollections.nl/schema#identifier> "WM-64195" .
+<https://n2t.net/ark:/27023/e20765f54a6ac20247e38469b0383d90> <https://colonialcollections.nl/schema#description> "[VO] band van gevlochten koord;\r\n[KL] oranje, plaatselijk omwoeld met zijde en katoen in de kleuren\r\n        grijs & créme & wit & zwart." .
+<https://n2t.net/ark:/27023/e20765f54a6ac20247e38469b0383d90> <https://colonialcollections.nl/schema#material> "katoen\r\ngevlochten" .
+<https://n2t.net/ark:/27023/e20765f54a6ac20247e38469b0383d90> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

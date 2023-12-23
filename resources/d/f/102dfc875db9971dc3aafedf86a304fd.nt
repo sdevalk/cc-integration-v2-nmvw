@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/424450840e85da46601962e8516b19c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/424450840e85da46601962e8516b19c1> <https://colonialcollections.nl/schema#identifier> "WM-50433" .
+<https://n2t.net/ark:/27023/424450840e85da46601962e8516b19c1> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://n2t.net/ark:/27023/424450840e85da46601962e8516b19c1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

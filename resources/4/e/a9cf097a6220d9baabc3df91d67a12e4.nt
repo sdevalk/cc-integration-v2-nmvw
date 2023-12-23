@@ -1,0 +1,14 @@
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#identifier> "WM-3747" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#name> "TEKI" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#material> "hout, spiegelglas" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#alternateName> "Moyen-Congo" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#alternateName> "Congo (Brazzaville)"@en .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
+<https://n2t.net/ark:/27023/4c1c26d9b5cd2167c123c123dd16e2d2> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .

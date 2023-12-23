@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/43a94d32814c03036eafd7c23b598224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/43a94d32814c03036eafd7c23b598224> <https://colonialcollections.nl/schema#identifier> "TM-H-2386" .
+<https://n2t.net/ark:/27023/43a94d32814c03036eafd7c23b598224> <https://colonialcollections.nl/schema#name> "HALSSNOER VAN AFROEKRALEN" .
+<https://n2t.net/ark:/27023/43a94d32814c03036eafd7c23b598224> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/43a94d32814c03036eafd7c23b598224> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

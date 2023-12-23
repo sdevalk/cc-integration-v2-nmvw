@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4b37b53995411b7d5b8e01fb9a0bd7f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b37b53995411b7d5b8e01fb9a0bd7f5> <https://colonialcollections.nl/schema#identifier> "RV-2352-29" .
+<https://n2t.net/ark:/27023/4b37b53995411b7d5b8e01fb9a0bd7f5> <https://colonialcollections.nl/schema#name> "Polsband" .
+<https://n2t.net/ark:/27023/4b37b53995411b7d5b8e01fb9a0bd7f5> <https://colonialcollections.nl/schema#material> "vezels ; katoen" .
+<https://n2t.net/ark:/27023/4b37b53995411b7d5b8e01fb9a0bd7f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

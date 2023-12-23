@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4a9808282b9acd82d32b24d600b6fad1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4a9808282b9acd82d32b24d600b6fad1> <https://colonialcollections.nl/schema#identifier> "WM-71475" .
+<https://n2t.net/ark:/27023/4a9808282b9acd82d32b24d600b6fad1> <https://colonialcollections.nl/schema#description> "[KL] ondergrond : donkerblauw \r\n        motief : naturel" .
+<https://n2t.net/ark:/27023/4a9808282b9acd82d32b24d600b6fad1> <https://colonialcollections.nl/schema#material> "natuurzijde\r\ngeweven, batik, tulis" .
+<https://n2t.net/ark:/27023/4a9808282b9acd82d32b24d600b6fad1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

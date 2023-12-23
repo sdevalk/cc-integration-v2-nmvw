@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4497f1855431de8f0a9ef523119ca62d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4497f1855431de8f0a9ef523119ca62d> <https://colonialcollections.nl/schema#identifier> "TM-4991-253" .
+<https://n2t.net/ark:/27023/4497f1855431de8f0a9ef523119ca62d> <https://colonialcollections.nl/schema#name> "KATOENEN BIDMUTS VOOR MOSLIMMANNEN" .
+<https://n2t.net/ark:/27023/4497f1855431de8f0a9ef523119ca62d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4497f1855431de8f0a9ef523119ca62d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/499a55ae09055a30e8bfb6c3d8fcd410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/499a55ae09055a30e8bfb6c3d8fcd410> <https://colonialcollections.nl/schema#identifier> "TM-3290-85b" .
+<https://n2t.net/ark:/27023/499a55ae09055a30e8bfb6c3d8fcd410> <https://colonialcollections.nl/schema#name> "DEKSEL BEHORENDE BIJ GELAKTE ROUGEDOOS" .
+<https://n2t.net/ark:/27023/499a55ae09055a30e8bfb6c3d8fcd410> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/499a55ae09055a30e8bfb6c3d8fcd410> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

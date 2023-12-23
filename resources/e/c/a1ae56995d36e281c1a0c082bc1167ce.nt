@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4981dafaad3ac03ff90117149996f63d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4981dafaad3ac03ff90117149996f63d> <https://colonialcollections.nl/schema#identifier> "TM-6182-8" .
+<https://n2t.net/ark:/27023/4981dafaad3ac03ff90117149996f63d> <https://colonialcollections.nl/schema#name> "KALEBASSCHAAL" .
+<https://n2t.net/ark:/27023/4981dafaad3ac03ff90117149996f63d> <https://colonialcollections.nl/schema#description> "Kalebasschaal met zwart gemaakte binnenkant; de buitenkant is versierd met grof geschilderde, gestileerde figuren eveneens in zwart. \r\nIn de rand van de schaal zit een barst en is een lusvormig koordje aangebracht om de kalebas te kunnen ophangen." .
+<https://n2t.net/ark:/27023/4981dafaad3ac03ff90117149996f63d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4981dafaad3ac03ff90117149996f63d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

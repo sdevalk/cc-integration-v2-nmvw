@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3af1c218ed6d6f60f6ce43d55821a61b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3af1c218ed6d6f60f6ce43d55821a61b> <https://colonialcollections.nl/schema#identifier> "TM-2992-12" .
+<https://n2t.net/ark:/27023/3af1c218ed6d6f60f6ce43d55821a61b> <https://colonialcollections.nl/schema#name> "FRAGMENT OOR V.E. POT AARDEWERK" .
+<https://n2t.net/ark:/27023/3af1c218ed6d6f60f6ce43d55821a61b> <https://colonialcollections.nl/schema#description> "Herk: Vindpl. bij Lima Huancho Culto Peru Zuid Amerika" .
+<https://n2t.net/ark:/27023/3af1c218ed6d6f60f6ce43d55821a61b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3af1c218ed6d6f60f6ce43d55821a61b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

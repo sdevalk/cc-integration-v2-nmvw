@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <https://colonialcollections.nl/schema#identifier> "RV-503-196" .
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <https://colonialcollections.nl/schema#name> "FLUWELEN KLEED" .
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <https://colonialcollections.nl/schema#description> "Lap fluweel versierd met smalle stroken geometrische en bloemenmotieven die erg lijken op die men op kirman aantreft. Vlakbij de randen van het kleed is een brede strook met aaneengesloten ojieven om gestileerde geometrische vormen. De lange zijden van het kleed hebben brede paarse strepen tot aan de rand. (Het is niet zeker of dit kleed uit Iran komt.) (GVE, 2002)" .
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <https://colonialcollections.nl/schema#material> "Zijdefluweel" .
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3c538f00ee4a5745ef0c559832c29d34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

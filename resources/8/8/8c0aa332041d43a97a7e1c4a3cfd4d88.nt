@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#identifier> "WM-940127-38-1" .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#description> "GE: architectuurfotografie, documentaire\r\nHM: [PT] gezichtspunt vanuit binnenplaats; [VS] paleis met arkades, palmbomen" .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#creator> "Keller van Hoorn, J. H." .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4b60314cdf007447a14b6eef411de863> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

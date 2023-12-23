@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4988d60908ab1493fc05369f8347c0ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4988d60908ab1493fc05369f8347c0ba> <https://colonialcollections.nl/schema#identifier> "RV-3600-2508b" .
+<https://n2t.net/ark:/27023/4988d60908ab1493fc05369f8347c0ba> <https://colonialcollections.nl/schema#description> "Een bundeltje van 5 strootjes die gevuld zijn met obat oerawan, een kruidenmedicijn tegen mondzweren." .
+<https://n2t.net/ark:/27023/4988d60908ab1493fc05369f8347c0ba> <https://colonialcollections.nl/schema#material> "blad ; obat oerawan" .
+<https://n2t.net/ark:/27023/4988d60908ab1493fc05369f8347c0ba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

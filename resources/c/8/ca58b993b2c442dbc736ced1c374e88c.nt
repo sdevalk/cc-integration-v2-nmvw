@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/421a830ac643e1e59b58aae69d87c4ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/421a830ac643e1e59b58aae69d87c4ad> <https://colonialcollections.nl/schema#identifier> "RV-1768-2" .
+<https://n2t.net/ark:/27023/421a830ac643e1e59b58aae69d87c4ad> <https://colonialcollections.nl/schema#name> "Vingerring" .
+<https://n2t.net/ark:/27023/421a830ac643e1e59b58aae69d87c4ad> <https://colonialcollections.nl/schema#material> "gouddraad" .
+<https://n2t.net/ark:/27023/421a830ac643e1e59b58aae69d87c4ad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
