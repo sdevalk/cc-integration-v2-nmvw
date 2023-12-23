@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <https://colonialcollections.nl/schema#identifier> "TM-3782-780b" .
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <https://colonialcollections.nl/schema#name> "HOUTEN STEEL VAN DE KIFPIJP, BESTAANDE UIT TWEE DELEN." .
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <https://colonialcollections.nl/schema#description> "Vervaardigd door de houtdraaier. Eveneens sterk geprofileerd cilindervormig als de andere deel; met een uiteinde waarin het smalle deel van a past, is met een messing bandje verstevigd. Het uiteinde loopt smaller uit en hierop wordt een pijpkopje geschoven." .
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <https://colonialcollections.nl/schema#material> "hout ; messing" .
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/97f0fde1cc36ad752cc1c6a52023ec46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

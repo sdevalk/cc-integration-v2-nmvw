@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/905155b6a00e22b48f097bd2789e82b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/905155b6a00e22b48f097bd2789e82b5> <https://colonialcollections.nl/schema#identifier> "TM-A-6078a" .
+<https://n2t.net/ark:/27023/905155b6a00e22b48f097bd2789e82b5> <https://colonialcollections.nl/schema#name> "KOM VAN ROODBRUIN AARDEWERK" .
+<https://n2t.net/ark:/27023/905155b6a00e22b48f097bd2789e82b5> <https://colonialcollections.nl/schema#description> "Lampetkan." .
+<https://n2t.net/ark:/27023/905155b6a00e22b48f097bd2789e82b5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/905155b6a00e22b48f097bd2789e82b5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

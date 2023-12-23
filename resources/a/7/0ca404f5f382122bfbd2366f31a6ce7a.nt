@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/96055f7cfa053c56e9590c53b77a4c2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/96055f7cfa053c56e9590c53b77a4c2e> <https://colonialcollections.nl/schema#identifier> "RV-2645-6" .
+<https://n2t.net/ark:/27023/96055f7cfa053c56e9590c53b77a4c2e> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://n2t.net/ark:/27023/96055f7cfa053c56e9590c53b77a4c2e> <https://colonialcollections.nl/schema#material> "hout ; touw ; vezel" .
+<https://n2t.net/ark:/27023/96055f7cfa053c56e9590c53b77a4c2e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

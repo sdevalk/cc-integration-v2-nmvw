@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/95b3bac6b922ce30a389336582b35064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/95b3bac6b922ce30a389336582b35064> <https://colonialcollections.nl/schema#identifier> "TM-3572-2" .
+<https://n2t.net/ark:/27023/95b3bac6b922ce30a389336582b35064> <https://colonialcollections.nl/schema#name> "OPENGEVLOCHTEN MAND" .
+<https://n2t.net/ark:/27023/95b3bac6b922ce30a389336582b35064> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/95b3bac6b922ce30a389336582b35064> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

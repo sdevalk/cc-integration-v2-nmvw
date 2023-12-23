@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8f46f004dd1b4dcb01b8794563544dbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f46f004dd1b4dcb01b8794563544dbd> <https://colonialcollections.nl/schema#identifier> "RV-565-16b" .
+<https://n2t.net/ark:/27023/8f46f004dd1b4dcb01b8794563544dbd> <https://colonialcollections.nl/schema#name> "Gordel" .
+<https://n2t.net/ark:/27023/8f46f004dd1b4dcb01b8794563544dbd> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/8f46f004dd1b4dcb01b8794563544dbd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

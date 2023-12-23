@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/960bd7362887d3a072741d03a8477d6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/960bd7362887d3a072741d03a8477d6c> <https://colonialcollections.nl/schema#identifier> "TM-62-23" .
+<https://n2t.net/ark:/27023/960bd7362887d3a072741d03a8477d6c> <https://colonialcollections.nl/schema#name> "IJZEREN LANS MET HOUTEN STEEL" .
+<https://n2t.net/ark:/27023/960bd7362887d3a072741d03a8477d6c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/960bd7362887d3a072741d03a8477d6c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .

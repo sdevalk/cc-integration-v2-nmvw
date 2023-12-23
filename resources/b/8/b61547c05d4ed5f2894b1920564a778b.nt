@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b565ecd2dc168e2b9cb3680d7ff46037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b565ecd2dc168e2b9cb3680d7ff46037> <https://colonialcollections.nl/schema#identifier> "AM-105-14" .
+<https://n2t.net/ark:/27023/b565ecd2dc168e2b9cb3680d7ff46037> <https://colonialcollections.nl/schema#name> "Schaal" .
+<https://n2t.net/ark:/27023/b565ecd2dc168e2b9cb3680d7ff46037> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nRonde schaal met een driehoekig handvat." .
+<https://n2t.net/ark:/27023/b565ecd2dc168e2b9cb3680d7ff46037> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/b565ecd2dc168e2b9cb3680d7ff46037> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

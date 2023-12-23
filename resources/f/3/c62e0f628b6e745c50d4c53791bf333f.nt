@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/979eeacb12ce35c0a810ccfa0db356b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/979eeacb12ce35c0a810ccfa0db356b3> <https://colonialcollections.nl/schema#identifier> "WM-61422" .
+<https://n2t.net/ark:/27023/979eeacb12ce35c0a810ccfa0db356b3> <https://colonialcollections.nl/schema#material> "porselein, leer" .
+<https://n2t.net/ark:/27023/979eeacb12ce35c0a810ccfa0db356b3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/95cc5d0598f696330aadd2c717221ea8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/95cc5d0598f696330aadd2c717221ea8> <https://colonialcollections.nl/schema#identifier> "TM-2416-20a" .
+<https://n2t.net/ark:/27023/95cc5d0598f696330aadd2c717221ea8> <https://colonialcollections.nl/schema#name> "ZWAARD" .
+<https://n2t.net/ark:/27023/95cc5d0598f696330aadd2c717221ea8> <https://colonialcollections.nl/schema#description> "Aan beide zijden van het ijzeren lemmet bevinden zich twee gleuven, één rechtsboven en één linksonder. Het houten heft is met ijzer en leer bekleed. Bovenop het heft bevindt zich een kroontje van koperdraad." .
+<https://n2t.net/ark:/27023/95cc5d0598f696330aadd2c717221ea8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/95cc5d0598f696330aadd2c717221ea8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

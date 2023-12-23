@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/97ca4a1c2c1fefa4636b8fecc98ba2ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/97ca4a1c2c1fefa4636b8fecc98ba2ed> <https://colonialcollections.nl/schema#identifier> "TM-4956-323" .
+<https://n2t.net/ark:/27023/97ca4a1c2c1fefa4636b8fecc98ba2ed> <https://colonialcollections.nl/schema#name> "CURATIEF BLAD VOOR MONDHYGIËNE" .
+<https://n2t.net/ark:/27023/97ca4a1c2c1fefa4636b8fecc98ba2ed> <https://colonialcollections.nl/schema#description> "Men kauwt op het gedroogde blad ter verkoming en genezing van ontstoken tandvlees." .
+<https://n2t.net/ark:/27023/97ca4a1c2c1fefa4636b8fecc98ba2ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/97ca4a1c2c1fefa4636b8fecc98ba2ed> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

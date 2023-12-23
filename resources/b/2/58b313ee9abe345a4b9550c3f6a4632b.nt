@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b6db98ec23a00d4c31f94a93ef2b01ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b6db98ec23a00d4c31f94a93ef2b01ec> <https://colonialcollections.nl/schema#identifier> "TM-3602-11" .
+<https://n2t.net/ark:/27023/b6db98ec23a00d4c31f94a93ef2b01ec> <https://colonialcollections.nl/schema#name> "HOUTEN SPATEL VOORZIEN VAN SIERNAGELS" .
+<https://n2t.net/ark:/27023/b6db98ec23a00d4c31f94a93ef2b01ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b6db98ec23a00d4c31f94a93ef2b01ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

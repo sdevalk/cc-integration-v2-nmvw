@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8f0c798bbcf5731bff6c615cb3b8ea44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f0c798bbcf5731bff6c615cb3b8ea44> <https://colonialcollections.nl/schema#identifier> "TM-3782-154" .
+<https://n2t.net/ark:/27023/8f0c798bbcf5731bff6c615cb3b8ea44> <https://colonialcollections.nl/schema#name> "HOUTEN BLOK WAARIN HET IJZEREN AAMBEELD PAST, BEHOORT BIJ DE KOPERSLAGER" .
+<https://n2t.net/ark:/27023/8f0c798bbcf5731bff6c615cb3b8ea44> <https://colonialcollections.nl/schema#description> "In het blok wordt het onderste stuk van het ijzeren aambeeld gestoken, zodat dit rechtop staat en de metalen voorwerpen daarop bewerkt kunnen worden." .
+<https://n2t.net/ark:/27023/8f0c798bbcf5731bff6c615cb3b8ea44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8f0c798bbcf5731bff6c615cb3b8ea44> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

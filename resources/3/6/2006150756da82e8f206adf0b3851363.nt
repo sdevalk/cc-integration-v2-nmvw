@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8ea2a67811e87116ba318597025a81d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8ea2a67811e87116ba318597025a81d6> <https://colonialcollections.nl/schema#identifier> "WM-54345" .
+<https://n2t.net/ark:/27023/8ea2a67811e87116ba318597025a81d6> <https://colonialcollections.nl/schema#description> "[ST] 1) kan & 2) schotel & 3) stop\r\n[KL] naturel & rood & zwart\r\n[DE] golf & zigzag & arcering (schuin) & lijn & stip" .
+<https://n2t.net/ark:/27023/8ea2a67811e87116ba318597025a81d6> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & beschilderd" .
+<https://n2t.net/ark:/27023/8ea2a67811e87116ba318597025a81d6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5b621f64abeb0e7d8e52f5772f3f187f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b621f64abeb0e7d8e52f5772f3f187f> <https://colonialcollections.nl/schema#identifier> "AM-74-23" .
+<https://n2t.net/ark:/27023/5b621f64abeb0e7d8e52f5772f3f187f> <https://colonialcollections.nl/schema#name> "Snuifdoos" .
+<https://n2t.net/ark:/27023/5b621f64abeb0e7d8e52f5772f3f187f> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nBuisje aan een koord. Het buisje is voorzien van geometrische patronen." .
+<https://n2t.net/ark:/27023/5b621f64abeb0e7d8e52f5772f3f187f> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/5b621f64abeb0e7d8e52f5772f3f187f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

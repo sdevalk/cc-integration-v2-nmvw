@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b5257aa1dd6eb8eadaa8c19c19b2ab32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5257aa1dd6eb8eadaa8c19c19b2ab32> <https://colonialcollections.nl/schema#identifier> "WM-27003" .
+<https://n2t.net/ark:/27023/b5257aa1dd6eb8eadaa8c19c19b2ab32> <https://colonialcollections.nl/schema#description> "[KL] egaal donker rood (schering & inslag) & blauw (einde & \r\n        franje) & geel (plangiplek);\r\n[VO] weefsel sterk verschil tussen inslag en schering, behalve de \r\n        einden die blauw zijn (met franje), en dicht bij drie grote \r\n        plangiplekken." .
+<https://n2t.net/ark:/27023/b5257aa1dd6eb8eadaa8c19c19b2ab32> <https://colonialcollections.nl/schema#material> "los, ruig katoen (?)\r\ngeweven" .
+<https://n2t.net/ark:/27023/b5257aa1dd6eb8eadaa8c19c19b2ab32> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b5257aa1dd6eb8eadaa8c19c19b2ab32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

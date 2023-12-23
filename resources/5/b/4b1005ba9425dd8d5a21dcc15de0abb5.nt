@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5aea389a966661b60d0e489911fb5ca8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5aea389a966661b60d0e489911fb5ca8> <https://colonialcollections.nl/schema#identifier> "TM-4182-13a" .
+<https://n2t.net/ark:/27023/5aea389a966661b60d0e489911fb5ca8> <https://colonialcollections.nl/schema#name> "HOUTEN VIJZEL VOOR KOFFIE MET STAMPER" .
+<https://n2t.net/ark:/27023/5aea389a966661b60d0e489911fb5ca8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5aea389a966661b60d0e489911fb5ca8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

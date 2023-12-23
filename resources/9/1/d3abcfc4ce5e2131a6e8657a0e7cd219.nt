@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5b76407e42f45e18799d8b51d6a90c12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b76407e42f45e18799d8b51d6a90c12> <https://colonialcollections.nl/schema#identifier> "TM-3179-8" .
+<https://n2t.net/ark:/27023/5b76407e42f45e18799d8b51d6a90c12> <https://colonialcollections.nl/schema#name> "HOUTEN SIERSPATEL IN DE VORM VAN EEN ROEISPAAN" .
+<https://n2t.net/ark:/27023/5b76407e42f45e18799d8b51d6a90c12> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5b76407e42f45e18799d8b51d6a90c12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

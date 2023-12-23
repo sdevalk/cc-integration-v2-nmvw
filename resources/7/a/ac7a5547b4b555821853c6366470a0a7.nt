@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b5e39e6d4e2e35389e9ce5bbd9847ed9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5e39e6d4e2e35389e9ce5bbd9847ed9> <https://colonialcollections.nl/schema#identifier> "AM-17-1228" .
+<https://n2t.net/ark:/27023/b5e39e6d4e2e35389e9ce5bbd9847ed9> <https://colonialcollections.nl/schema#name> "Beulszwaard" .
+<https://n2t.net/ark:/27023/b5e39e6d4e2e35389e9ce5bbd9847ed9> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSikkelvormig zwaard met een ijzeren lemmet. Het handvat is van hout en met een koperen band omwonden. Aan de zijkant van het lemmet steken een viertal pinnetjes uit." .
+<https://n2t.net/ark:/27023/b5e39e6d4e2e35389e9ce5bbd9847ed9> <https://colonialcollections.nl/schema#material> "IJzer; hout; koperband" .
+<https://n2t.net/ark:/27023/b5e39e6d4e2e35389e9ce5bbd9847ed9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

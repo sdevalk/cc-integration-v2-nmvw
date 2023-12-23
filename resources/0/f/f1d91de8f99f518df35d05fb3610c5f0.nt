@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b63489c7debb108d8e6549c6c6e888ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b63489c7debb108d8e6549c6c6e888ef> <https://colonialcollections.nl/schema#identifier> "TM-3401-248" .
+<https://n2t.net/ark:/27023/b63489c7debb108d8e6549c6c6e888ef> <https://colonialcollections.nl/schema#name> "KATOENEN PARASOL MET HOUTEN STEEL" .
+<https://n2t.net/ark:/27023/b63489c7debb108d8e6549c6c6e888ef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b63489c7debb108d8e6549c6c6e888ef> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

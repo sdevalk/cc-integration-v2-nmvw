@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b5230af78696b762db26112b447a69ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5230af78696b762db26112b447a69ac> <https://colonialcollections.nl/schema#identifier> "RV-IB2013-12-1" .
+<https://n2t.net/ark:/27023/b5230af78696b762db26112b447a69ac> <https://colonialcollections.nl/schema#name> "Achterglasschildering Medina" .
+<https://n2t.net/ark:/27023/b5230af78696b762db26112b447a69ac> <https://colonialcollections.nl/schema#description> "Achterglasschildering Medina" .
+<https://n2t.net/ark:/27023/b5230af78696b762db26112b447a69ac> <https://colonialcollections.nl/schema#material> "Glas ; papier" .
+<https://n2t.net/ark:/27023/b5230af78696b762db26112b447a69ac> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

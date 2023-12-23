@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b659525175d960c278d8078f7b33bcdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b659525175d960c278d8078f7b33bcdc> <https://colonialcollections.nl/schema#identifier> "TM-1770-987" .
+<https://n2t.net/ark:/27023/b659525175d960c278d8078f7b33bcdc> <https://colonialcollections.nl/schema#name> "KRISLEMMET" .
+<https://n2t.net/ark:/27023/b659525175d960c278d8078f7b33bcdc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b659525175d960c278d8078f7b33bcdc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

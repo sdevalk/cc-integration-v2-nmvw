@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/967cd3917d04aeaa6e216e812b25e456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/967cd3917d04aeaa6e216e812b25e456> <https://colonialcollections.nl/schema#identifier> "TM-3325-138g" .
+<https://n2t.net/ark:/27023/967cd3917d04aeaa6e216e812b25e456> <https://colonialcollections.nl/schema#name> "DRIETAL PIJLEN MET RIETEN SCHACHTEN EN HOUTEN PUNTEN VOORZIEN VAN WEERHAKEN" .
+<https://n2t.net/ark:/27023/967cd3917d04aeaa6e216e812b25e456> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/967cd3917d04aeaa6e216e812b25e456> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

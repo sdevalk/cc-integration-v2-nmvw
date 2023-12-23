@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/969d5d0d9dd8223ac6946aa6516e756e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/969d5d0d9dd8223ac6946aa6516e756e> <https://colonialcollections.nl/schema#identifier> "WM-70659" .
+<https://n2t.net/ark:/27023/969d5d0d9dd8223ac6946aa6516e756e> <https://colonialcollections.nl/schema#description> "[ST] kraal\r\n[VO] baluster & geprofileerd (kralen)" .
+<https://n2t.net/ark:/27023/969d5d0d9dd8223ac6946aa6516e756e> <https://colonialcollections.nl/schema#material> "zilver\r\ngevlochten (ketting)" .
+<https://n2t.net/ark:/27023/969d5d0d9dd8223ac6946aa6516e756e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

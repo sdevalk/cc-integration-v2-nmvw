@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9886e9c76206c111c042761b57a3e287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9886e9c76206c111c042761b57a3e287> <https://colonialcollections.nl/schema#identifier> "RV-4918-66" .
+<https://n2t.net/ark:/27023/9886e9c76206c111c042761b57a3e287> <https://colonialcollections.nl/schema#name> "Gordel" .
+<https://n2t.net/ark:/27023/9886e9c76206c111c042761b57a3e287> <https://colonialcollections.nl/schema#material> "apenhaar (zwarte spinaap) ; urawaito" .
+<https://n2t.net/ark:/27023/9886e9c76206c111c042761b57a3e287> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

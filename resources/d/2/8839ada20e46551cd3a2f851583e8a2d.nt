@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#identifier> "WM-940130-6-4" .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#description> "reisfotografie & 1 man & 3 vrouwen (waaronder Mies Rombach) &  zittend & en face & volwassene & graftombe & ruine" .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/90e3c3e4f9eb799cb3b3bb207e31b807> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

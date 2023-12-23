@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/969b92c90b19a1c22d1948d1545f226b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/969b92c90b19a1c22d1948d1545f226b> <https://colonialcollections.nl/schema#identifier> "WM-301917" .
+<https://n2t.net/ark:/27023/969b92c90b19a1c22d1948d1545f226b> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://n2t.net/ark:/27023/969b92c90b19a1c22d1948d1545f226b> <https://colonialcollections.nl/schema#description> "Mangit" .
+<https://n2t.net/ark:/27023/969b92c90b19a1c22d1948d1545f226b> <https://colonialcollections.nl/schema#material> "onedel metaal" .
+<https://n2t.net/ark:/27023/969b92c90b19a1c22d1948d1545f226b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

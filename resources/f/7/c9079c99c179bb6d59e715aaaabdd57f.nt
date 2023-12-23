@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b5d677a3e86e6066059f870e8077436b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5d677a3e86e6066059f870e8077436b> <https://colonialcollections.nl/schema#identifier> "TM-3725-3" .
+<https://n2t.net/ark:/27023/b5d677a3e86e6066059f870e8077436b> <https://colonialcollections.nl/schema#name> "HOUTEN SPATEL GEBRUIKT BIJ DE BEREIDING VAN CASSAVEDRANK" .
+<https://n2t.net/ark:/27023/b5d677a3e86e6066059f870e8077436b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b5d677a3e86e6066059f870e8077436b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

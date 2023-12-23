@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <https://colonialcollections.nl/schema#identifier> "RV-503-250" .
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <https://colonialcollections.nl/schema#name> "MAN'S ROBE (FARMER)" .
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <https://colonialcollections.nl/schema#description> "Gedragen door een landbouwer." .
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5c01d594687f9157bd257333de6637be> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

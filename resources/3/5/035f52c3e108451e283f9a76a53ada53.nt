@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/98fb98dc7e33805c8d4a740a85af8138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/98fb98dc7e33805c8d4a740a85af8138> <https://colonialcollections.nl/schema#identifier> "RV-4399-153" .
+<https://n2t.net/ark:/27023/98fb98dc7e33805c8d4a740a85af8138> <https://colonialcollections.nl/schema#name> "Inktpot" .
+<https://n2t.net/ark:/27023/98fb98dc7e33805c8d4a740a85af8138> <https://colonialcollections.nl/schema#description> "Stenen inktpot." .
+<https://n2t.net/ark:/27023/98fb98dc7e33805c8d4a740a85af8138> <https://colonialcollections.nl/schema#material> "steen" .
+<https://n2t.net/ark:/27023/98fb98dc7e33805c8d4a740a85af8138> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5b68e1a94eadf1effc5a886ed2320dbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b68e1a94eadf1effc5a886ed2320dbf> <https://colonialcollections.nl/schema#identifier> "RV-5496-22b" .
+<https://n2t.net/ark:/27023/5b68e1a94eadf1effc5a886ed2320dbf> <https://colonialcollections.nl/schema#name> "Haarsieraad" .
+<https://n2t.net/ark:/27023/5b68e1a94eadf1effc5a886ed2320dbf> <https://colonialcollections.nl/schema#description> "Krullerige versiering op haarrand van de bruid." .
+<https://n2t.net/ark:/27023/5b68e1a94eadf1effc5a886ed2320dbf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

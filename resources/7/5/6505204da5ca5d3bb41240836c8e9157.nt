@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <https://colonialcollections.nl/schema#identifier> "TM-5721-14" .
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <https://colonialcollections.nl/schema#name> "ONDERDEEL VAN EEN SPIEGEL IN EEN HOUTEN LIJST" .
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <https://colonialcollections.nl/schema#description> "Attribuut van een Ruhani-genezer." .
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <https://colonialcollections.nl/schema#material> "Glas ; hout ; snijden ; met de hand vervaardigen ; zagen ; polijsten ; machinaal vervaardigen" .
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b50d929c9bba805929e29f5df41288c0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

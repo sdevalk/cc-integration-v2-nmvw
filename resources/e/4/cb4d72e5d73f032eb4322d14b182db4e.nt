@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9196f7247ebe84940a761795ddd068ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9196f7247ebe84940a761795ddd068ac> <https://colonialcollections.nl/schema#identifier> "TM-2500-35a" .
+<https://n2t.net/ark:/27023/9196f7247ebe84940a761795ddd068ac> <https://colonialcollections.nl/schema#name> "ZILVEREN ARMBAND VOOR EEN HINDOESTAANSE VROUW" .
+<https://n2t.net/ark:/27023/9196f7247ebe84940a761795ddd068ac> <https://colonialcollections.nl/schema#description> "Ronde armband, bijna gesloten, met aan de uiteinden bewerkte bolletjes. De armbanden zijn gekocht in een 'pawnshop', een particulier pandjeshuis, tevens winkel." .
+<https://n2t.net/ark:/27023/9196f7247ebe84940a761795ddd068ac> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9196f7247ebe84940a761795ddd068ac> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b4efc68732082cd66fdfe8542d678333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b4efc68732082cd66fdfe8542d678333> <https://colonialcollections.nl/schema#identifier> "TM-2345-111" .
+<https://n2t.net/ark:/27023/b4efc68732082cd66fdfe8542d678333> <https://colonialcollections.nl/schema#name> "RIJSTSTOOMMAND" .
+<https://n2t.net/ark:/27023/b4efc68732082cd66fdfe8542d678333> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b4efc68732082cd66fdfe8542d678333> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

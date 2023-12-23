@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b500a936cff907162bca3a25e810e583> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b500a936cff907162bca3a25e810e583> <https://colonialcollections.nl/schema#identifier> "TM-5703-59" .
+<https://n2t.net/ark:/27023/b500a936cff907162bca3a25e810e583> <https://colonialcollections.nl/schema#name> "GLAZEN KAST MET EEN AFBEELDING VAN EEN GODHEID EN VOORZIEN VAN ELEKTRISCHE LAMPJES" .
+<https://n2t.net/ark:/27023/b500a936cff907162bca3a25e810e583> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b500a936cff907162bca3a25e810e583> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .

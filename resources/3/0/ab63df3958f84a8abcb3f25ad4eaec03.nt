@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b5c880df2473ae304f069ca09aab8ad3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5c880df2473ae304f069ca09aab8ad3> <https://colonialcollections.nl/schema#identifier> "TM-H-2800" .
+<https://n2t.net/ark:/27023/b5c880df2473ae304f069ca09aab8ad3> <https://colonialcollections.nl/schema#name> "PALMHOUTEN SPINTOL MET KALEBASSCHIJF EN GAREN" .
+<https://n2t.net/ark:/27023/b5c880df2473ae304f069ca09aab8ad3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b5c880df2473ae304f069ca09aab8ad3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

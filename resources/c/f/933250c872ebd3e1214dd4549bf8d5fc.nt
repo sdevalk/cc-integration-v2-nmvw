@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b7012b65c6aecbad9e0b5b8405fbd5d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7012b65c6aecbad9e0b5b8405fbd5d4> <https://colonialcollections.nl/schema#identifier> "TM-1681-1" .
+<https://n2t.net/ark:/27023/b7012b65c6aecbad9e0b5b8405fbd5d4> <https://colonialcollections.nl/schema#name> "PANFLUIT VAN BAMBOE MET ZEVEN BUIZEN" .
+<https://n2t.net/ark:/27023/b7012b65c6aecbad9e0b5b8405fbd5d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b7012b65c6aecbad9e0b5b8405fbd5d4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

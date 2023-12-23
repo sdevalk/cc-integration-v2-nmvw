@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b48ec74b883e8fb9e9517a1c236911ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b48ec74b883e8fb9e9517a1c236911ed> <https://colonialcollections.nl/schema#identifier> "TM-A-6091b" .
+<https://n2t.net/ark:/27023/b48ec74b883e8fb9e9517a1c236911ed> <https://colonialcollections.nl/schema#name> "SET VAN ELF IN ELKAAR PASSENDE MANDEN" .
+<https://n2t.net/ark:/27023/b48ec74b883e8fb9e9517a1c236911ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b48ec74b883e8fb9e9517a1c236911ed> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

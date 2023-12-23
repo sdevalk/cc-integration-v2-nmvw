@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b572e8b8c1e769b3a693319904d1f323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b572e8b8c1e769b3a693319904d1f323> <https://colonialcollections.nl/schema#identifier> "RV-370-924" .
+<https://n2t.net/ark:/27023/b572e8b8c1e769b3a693319904d1f323> <https://colonialcollections.nl/schema#description> "oorspronkelijk 2 stuks x?" .
+<https://n2t.net/ark:/27023/b572e8b8c1e769b3a693319904d1f323> <https://colonialcollections.nl/schema#material> "steen" .
+<https://n2t.net/ark:/27023/b572e8b8c1e769b3a693319904d1f323> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

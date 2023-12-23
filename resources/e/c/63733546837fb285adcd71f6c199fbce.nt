@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <https://colonialcollections.nl/schema#identifier> "WM-22153" .
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <https://colonialcollections.nl/schema#description> "[VO] panter" .
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken" .
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8e05e81f1bc4cd657c0e0c62714f8fba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

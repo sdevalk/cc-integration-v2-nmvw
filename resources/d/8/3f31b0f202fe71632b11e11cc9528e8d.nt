@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/90a67ed6ba87f62a709b9d1d7474e3e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/90a67ed6ba87f62a709b9d1d7474e3e3> <https://colonialcollections.nl/schema#identifier> "WM-61086" .
+<https://n2t.net/ark:/27023/90a67ed6ba87f62a709b9d1d7474e3e3> <https://colonialcollections.nl/schema#description> "[KL] wit (katoen)\r\n[VO] geborduurd uiteinde 26 cm lang\r\n[PA] drie rijen samengesteld streeppatroon afgewisseld door drie rijen bloem- en bladornament." .
+<https://n2t.net/ark:/27023/90a67ed6ba87f62a709b9d1d7474e3e3> <https://colonialcollections.nl/schema#material> "katoen\r\ngeborduurd." .
+<https://n2t.net/ark:/27023/90a67ed6ba87f62a709b9d1d7474e3e3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

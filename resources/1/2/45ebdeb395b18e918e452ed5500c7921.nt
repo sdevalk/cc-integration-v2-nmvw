@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/96d85bba39c64a0f434d432395d2ebe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/96d85bba39c64a0f434d432395d2ebe2> <https://colonialcollections.nl/schema#identifier> "TM-3290-202b" .
+<https://n2t.net/ark:/27023/96d85bba39c64a0f434d432395d2ebe2> <https://colonialcollections.nl/schema#name> "ZILVEREN ARMBAND VOOR HINDOESTAANSE VROUW" .
+<https://n2t.net/ark:/27023/96d85bba39c64a0f434d432395d2ebe2> <https://colonialcollections.nl/schema#description> "Het zilver is van laag gehalte, hetgeen af te leiden valt uit de verkleuring, dofheid en tekenen van oxidatie. Vermoedelijk zijn deze armbanden door de gebruikster uit India meegenomen naar Suriname." .
+<https://n2t.net/ark:/27023/96d85bba39c64a0f434d432395d2ebe2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/96d85bba39c64a0f434d432395d2ebe2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

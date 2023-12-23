@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/8ef808c05c4efa703e6f8da2549e7dff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8ef808c05c4efa703e6f8da2549e7dff> <https://colonialcollections.nl/schema#identifier> "WM-32239" .
+<https://n2t.net/ark:/27023/8ef808c05c4efa703e6f8da2549e7dff> <https://colonialcollections.nl/schema#material> "vezel, katoen" .
+<https://n2t.net/ark:/27023/8ef808c05c4efa703e6f8da2549e7dff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

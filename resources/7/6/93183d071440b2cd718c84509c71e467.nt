@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/968defe3055eaf7812701774f7d52bd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/968defe3055eaf7812701774f7d52bd1> <https://colonialcollections.nl/schema#identifier> "TM-3232-217" .
+<https://n2t.net/ark:/27023/968defe3055eaf7812701774f7d52bd1> <https://colonialcollections.nl/schema#name> "ALBUM MET FOTO'S DOOR HR. HALBERTSMA GENOMEN TIJDENS ZIJN VERBLIJF IN COLOMBIA, OVERGEDRAGEN AAN FOTOCOLLECTIE ONDER ALBUMNUMMER 1340" .
+<https://n2t.net/ark:/27023/968defe3055eaf7812701774f7d52bd1> <https://colonialcollections.nl/schema#description> "Herk: Colombia" .
+<https://n2t.net/ark:/27023/968defe3055eaf7812701774f7d52bd1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/968defe3055eaf7812701774f7d52bd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

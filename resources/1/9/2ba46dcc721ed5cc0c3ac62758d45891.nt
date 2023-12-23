@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/96bf3da25548e7eecc2cd890b182ae93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/96bf3da25548e7eecc2cd890b182ae93> <https://colonialcollections.nl/schema#identifier> "RV-733-29" .
+<https://n2t.net/ark:/27023/96bf3da25548e7eecc2cd890b182ae93> <https://colonialcollections.nl/schema#name> "Boog" .
+<https://n2t.net/ark:/27023/96bf3da25548e7eecc2cd890b182ae93> <https://colonialcollections.nl/schema#description> "Inv.kaart: zie no. 733-28, Kasai" .
+<https://n2t.net/ark:/27023/96bf3da25548e7eecc2cd890b182ae93> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/96bf3da25548e7eecc2cd890b182ae93> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

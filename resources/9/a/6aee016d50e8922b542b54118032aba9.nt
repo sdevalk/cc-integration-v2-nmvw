@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8e1ed589570d7cf3b47a314b168c071b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8e1ed589570d7cf3b47a314b168c071b> <https://colonialcollections.nl/schema#identifier> "TM-A-6222" .
+<https://n2t.net/ark:/27023/8e1ed589570d7cf3b47a314b168c071b> <https://colonialcollections.nl/schema#name> "SPATEL IN DE VORM VAN EEN ROEISPAAN" .
+<https://n2t.net/ark:/27023/8e1ed589570d7cf3b47a314b168c071b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8e1ed589570d7cf3b47a314b168c071b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

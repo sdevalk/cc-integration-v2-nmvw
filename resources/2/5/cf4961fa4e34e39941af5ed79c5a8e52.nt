@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b7437356479d78ed861e53ca69d49b2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7437356479d78ed861e53ca69d49b2d> <https://colonialcollections.nl/schema#identifier> "WM-668" .
+<https://n2t.net/ark:/27023/b7437356479d78ed861e53ca69d49b2d> <https://colonialcollections.nl/schema#description> "[KL] rood & goud" .
+<https://n2t.net/ark:/27023/b7437356479d78ed861e53ca69d49b2d> <https://colonialcollections.nl/schema#material> "hout, verf, metaal (spijkers)\r\ngesneden & gelijmd & geverfd" .
+<https://n2t.net/ark:/27023/b7437356479d78ed861e53ca69d49b2d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

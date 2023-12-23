@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/966763ed9bdb7d44bec81180e0c8f60e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/966763ed9bdb7d44bec81180e0c8f60e> <https://colonialcollections.nl/schema#identifier> "TM-4113-448b" .
+<https://n2t.net/ark:/27023/966763ed9bdb7d44bec81180e0c8f60e> <https://colonialcollections.nl/schema#name> "GELAKT HOUTEN DEKSEL BEHORENDE BIJ EEN BOEKENKIST" .
+<https://n2t.net/ark:/27023/966763ed9bdb7d44bec81180e0c8f60e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/966763ed9bdb7d44bec81180e0c8f60e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

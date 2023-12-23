@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/908cc9a4b1d3b41a2ae91927e0012c6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/908cc9a4b1d3b41a2ae91927e0012c6b> <https://colonialcollections.nl/schema#identifier> "TM-3401-295" .
+<https://n2t.net/ark:/27023/908cc9a4b1d3b41a2ae91927e0012c6b> <https://colonialcollections.nl/schema#name> "KARTONNEN KAART MET 15 KNOPEN" .
+<https://n2t.net/ark:/27023/908cc9a4b1d3b41a2ae91927e0012c6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/908cc9a4b1d3b41a2ae91927e0012c6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

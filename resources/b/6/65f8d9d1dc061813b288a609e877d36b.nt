@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#identifier> "WM-940130-21-1" .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#description> "reisfotografie & schip & stadsgezicht & zee & passagier (groep)" .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b7553e8f4763f6418496bc9b972a972d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

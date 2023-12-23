@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/98df59d60b26bbd7fcb93e015e04223b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/98df59d60b26bbd7fcb93e015e04223b> <https://colonialcollections.nl/schema#identifier> "TM-3401-43" .
+<https://n2t.net/ark:/27023/98df59d60b26bbd7fcb93e015e04223b> <https://colonialcollections.nl/schema#name> "WATERSCHEP" .
+<https://n2t.net/ark:/27023/98df59d60b26bbd7fcb93e015e04223b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/98df59d60b26bbd7fcb93e015e04223b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

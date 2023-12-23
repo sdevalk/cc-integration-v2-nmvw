@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8fa286c04e9b184d6e16b8aabd42a965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8fa286c04e9b184d6e16b8aabd42a965> <https://colonialcollections.nl/schema#identifier> "TM-3925-252" .
+<https://n2t.net/ark:/27023/8fa286c04e9b184d6e16b8aabd42a965> <https://colonialcollections.nl/schema#name> "IJZEREN BEITEL GEBRUIKT BIJ HET VERVAARDIGEN VAN TABAKSPIJPEN" .
+<https://n2t.net/ark:/27023/8fa286c04e9b184d6e16b8aabd42a965> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8fa286c04e9b184d6e16b8aabd42a965> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

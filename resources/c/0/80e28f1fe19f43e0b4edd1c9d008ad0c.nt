@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5b840942f7b754e73b649cabf6d0ff46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5b840942f7b754e73b649cabf6d0ff46> <https://colonialcollections.nl/schema#identifier> "TM-4743-23" .
+<https://n2t.net/ark:/27023/5b840942f7b754e73b649cabf6d0ff46> <https://colonialcollections.nl/schema#name> "HOUTEN EMMER MET IJZERBESLAG" .
+<https://n2t.net/ark:/27023/5b840942f7b754e73b649cabf6d0ff46> <https://colonialcollections.nl/schema#description> "Waarschijnlijk een maatbeker voor graan" .
+<https://n2t.net/ark:/27023/5b840942f7b754e73b649cabf6d0ff46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5b840942f7b754e73b649cabf6d0ff46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b59df3d1cd9f06b6e3b5b9c9b0e793dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b59df3d1cd9f06b6e3b5b9c9b0e793dc> <https://colonialcollections.nl/schema#identifier> "RV-3835-327" .
+<https://n2t.net/ark:/27023/b59df3d1cd9f06b6e3b5b9c9b0e793dc> <https://colonialcollections.nl/schema#name> "Vaas" .
+<https://n2t.net/ark:/27023/b59df3d1cd9f06b6e3b5b9c9b0e793dc> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/b59df3d1cd9f06b6e3b5b9c9b0e793dc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b5f30f43210d5109ed12b9bed7181a16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5f30f43210d5109ed12b9bed7181a16> <https://colonialcollections.nl/schema#identifier> "WM-7726" .
+<https://n2t.net/ark:/27023/b5f30f43210d5109ed12b9bed7181a16> <https://colonialcollections.nl/schema#description> "[PA] bloem\r\n[VO] rechthoek\r\n[ST] kartelrand" .
+<https://n2t.net/ark:/27023/b5f30f43210d5109ed12b9bed7181a16> <https://colonialcollections.nl/schema#material> "perehout of pruimehout\r\nBlok is opgebouwd uit segmenten. Hout is zoals bij de andere drukblokken niet geolied en gepolijst." .
+<https://n2t.net/ark:/27023/b5f30f43210d5109ed12b9bed7181a16> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

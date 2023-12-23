@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/90e109b9581d1b9946bb501225102462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/90e109b9581d1b9946bb501225102462> <https://colonialcollections.nl/schema#identifier> "TM-2515-5a" .
+<https://n2t.net/ark:/27023/90e109b9581d1b9946bb501225102462> <https://colonialcollections.nl/schema#name> "BORSTBOOM WAARAAN GEDEELTELIJK VERWEVEN RAFFIA VIA SCHERINGDRADEN IS VERBONDEN, ONDERDEEL VAN EEN INCOMPLEET WEEFGETOUW" .
+<https://n2t.net/ark:/27023/90e109b9581d1b9946bb501225102462> <https://colonialcollections.nl/schema#material> "Palmbladsteel ; raffia ; snijden ; weven" .
+<https://n2t.net/ark:/27023/90e109b9581d1b9946bb501225102462> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/90e109b9581d1b9946bb501225102462> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

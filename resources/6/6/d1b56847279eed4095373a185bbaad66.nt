@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8f6b9a4ba2930c1958fd0d5e9974277d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f6b9a4ba2930c1958fd0d5e9974277d> <https://colonialcollections.nl/schema#identifier> "AM-29-349" .
+<https://n2t.net/ark:/27023/8f6b9a4ba2930c1958fd0d5e9974277d> <https://colonialcollections.nl/schema#name> "Kam" .
+<https://n2t.net/ark:/27023/8f6b9a4ba2930c1958fd0d5e9974277d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nKam gemaakt van met dun riet bij elkaar gebonden houten pennen." .
+<https://n2t.net/ark:/27023/8f6b9a4ba2930c1958fd0d5e9974277d> <https://colonialcollections.nl/schema#material> "Hout; riet" .
+<https://n2t.net/ark:/27023/8f6b9a4ba2930c1958fd0d5e9974277d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

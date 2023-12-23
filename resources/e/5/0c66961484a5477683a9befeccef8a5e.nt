@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8e92891a3d907c864af9c7494c89000b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8e92891a3d907c864af9c7494c89000b> <https://colonialcollections.nl/schema#identifier> "TM-3290-2" .
+<https://n2t.net/ark:/27023/8e92891a3d907c864af9c7494c89000b> <https://colonialcollections.nl/schema#name> "ZINKEN MAATBEKER" .
+<https://n2t.net/ark:/27023/8e92891a3d907c864af9c7494c89000b> <https://colonialcollections.nl/schema#description> "De maatbeker heeft een inhoud van ½ liter en wordt gebruikt door venters van melk.\r\nOnder de schenkrand staat in een laagje lood de letter \"B\", en daaronder ligt, eveneens in lood, een roodkoperen plaatje met de tekst \"Y II T ½L-\"" .
+<https://n2t.net/ark:/27023/8e92891a3d907c864af9c7494c89000b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8e92891a3d907c864af9c7494c89000b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

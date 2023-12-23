@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#identifier> "AM-29-511" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#name> "Krachtobject" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#description> "Vroeger als geld, nu als ritueel voorwerp gebruikt.\r\n\r\nBeschrijving\r\nKrachtobject vervaardigd uit twee stukken touw." .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#material> "Touw" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .
+<https://n2t.net/ark:/27023/8f045254c7038b84fc1727655bacb915> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .

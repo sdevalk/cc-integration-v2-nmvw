@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b5f23cbd4d0b0855bae82cc9e55c2c06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b5f23cbd4d0b0855bae82cc9e55c2c06> <https://colonialcollections.nl/schema#identifier> "WM-60214" .
+<https://n2t.net/ark:/27023/b5f23cbd4d0b0855bae82cc9e55c2c06> <https://colonialcollections.nl/schema#description> "[VO] snoer geurende kralen - kralen gemaakt uit wortel van \r\n        een kruid, tumlah." .
+<https://n2t.net/ark:/27023/b5f23cbd4d0b0855bae82cc9e55c2c06> <https://colonialcollections.nl/schema#material> "wortel (tumlah)" .
+<https://n2t.net/ark:/27023/b5f23cbd4d0b0855bae82cc9e55c2c06> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
