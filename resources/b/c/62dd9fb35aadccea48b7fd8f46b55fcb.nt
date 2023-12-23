@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#identifier> "WM-940122-19" .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#description> "GE: landschapsfotografie, documentaire\r\nHM: [PT] uitzicht op ravijn; [VS] boogbrug" .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9e91197f51cf83dfeaace0851a421dff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

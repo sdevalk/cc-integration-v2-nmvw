@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#identifier> "AM-709-53" .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#name> "KLAUW" .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#description> "Viertandige klauw van ijzer met dito steel. Het stelt de klauw van een luipaard voor. De tovenaar, <aniota>, in een luipaardhuid gehuld,  bediende er zich van om zijn slachtoffer te vermoorden."^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#HTML> .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#material> "ijzer, gesmeed" .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a082b01b6b0715dcc67a64c90d9ca124> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a0ad47c3736ea12d1f083664151b1f4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a0ad47c3736ea12d1f083664151b1f4b> <https://colonialcollections.nl/schema#identifier> "TM-4318-268" .
+<https://n2t.net/ark:/27023/a0ad47c3736ea12d1f083664151b1f4b> <https://colonialcollections.nl/schema#name> "ZADELTAS" .
+<https://n2t.net/ark:/27023/a0ad47c3736ea12d1f083664151b1f4b> <https://colonialcollections.nl/schema#description> "dorp nabij Aydin (plaats)" .
+<https://n2t.net/ark:/27023/a0ad47c3736ea12d1f083664151b1f4b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a0ad47c3736ea12d1f083664151b1f4b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9f8a5f1f97a206a81377b5d39f67af39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9f8a5f1f97a206a81377b5d39f67af39> <https://colonialcollections.nl/schema#identifier> "TM-1634-7" .
+<https://n2t.net/ark:/27023/9f8a5f1f97a206a81377b5d39f67af39> <https://colonialcollections.nl/schema#name> "HALSSNOER VAN ZADEN" .
+<https://n2t.net/ark:/27023/9f8a5f1f97a206a81377b5d39f67af39> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9f8a5f1f97a206a81377b5d39f67af39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .

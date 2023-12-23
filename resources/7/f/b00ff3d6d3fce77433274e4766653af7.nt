@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d2ab71f45e7ca2c1b58e925ec3d35fae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2ab71f45e7ca2c1b58e925ec3d35fae> <https://colonialcollections.nl/schema#identifier> "RV-05-44" .
+<https://n2t.net/ark:/27023/d2ab71f45e7ca2c1b58e925ec3d35fae> <https://colonialcollections.nl/schema#name> "LEREN DOOS MET GEBORDUURDE MOTIEVEN" .
+<https://n2t.net/ark:/27023/d2ab71f45e7ca2c1b58e925ec3d35fae> <https://colonialcollections.nl/schema#description> "Met onbekende inhoud." .
+<https://n2t.net/ark:/27023/d2ab71f45e7ca2c1b58e925ec3d35fae> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/d2ab71f45e7ca2c1b58e925ec3d35fae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

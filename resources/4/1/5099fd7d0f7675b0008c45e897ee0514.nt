@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a74f6264c8b32556aba715fe6abdc300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a74f6264c8b32556aba715fe6abdc300> <https://colonialcollections.nl/schema#identifier> "RV-4470-31b" .
+<https://n2t.net/ark:/27023/a74f6264c8b32556aba715fe6abdc300> <https://colonialcollections.nl/schema#name> "Stamper" .
+<https://n2t.net/ark:/27023/a74f6264c8b32556aba715fe6abdc300> <https://colonialcollections.nl/schema#description> "Gebruikt als stamper behorend bij de vijzel 4470-31a. Vergelijkbaar met 4470-30b, maar groter." .
+<https://n2t.net/ark:/27023/a74f6264c8b32556aba715fe6abdc300> <https://colonialcollections.nl/schema#material> "brons" .
+<https://n2t.net/ark:/27023/a74f6264c8b32556aba715fe6abdc300> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

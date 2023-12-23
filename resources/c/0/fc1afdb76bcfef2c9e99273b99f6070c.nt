@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a67fcb0742647b609fad71db93c22dfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a67fcb0742647b609fad71db93c22dfd> <https://colonialcollections.nl/schema#identifier> "WM-63492" .
+<https://n2t.net/ark:/27023/a67fcb0742647b609fad71db93c22dfd> <https://colonialcollections.nl/schema#description> "Wordt gebruikt voor het maken van papier." .
+<https://n2t.net/ark:/27023/a67fcb0742647b609fad71db93c22dfd> <https://colonialcollections.nl/schema#material> "moerbeiboombast" .
+<https://n2t.net/ark:/27023/a67fcb0742647b609fad71db93c22dfd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d05c0879a8086c6982f4599997ed1549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d05c0879a8086c6982f4599997ed1549> <https://colonialcollections.nl/schema#identifier> "TM-3833-250a" .
+<https://n2t.net/ark:/27023/d05c0879a8086c6982f4599997ed1549> <https://colonialcollections.nl/schema#name> "ANTIMOON POEDER IN EEN GLAZEN FLES MET BENEN STIFT" .
+<https://n2t.net/ark:/27023/d05c0879a8086c6982f4599997ed1549> <https://colonialcollections.nl/schema#description> "Het antimoonpoeder wordt door de vrouwen gebruikt om de ogen mee op te maken, waarbij het met behulp van de stift opgebracht wordt. Het dient om de schoonheid te verhogen en het werkt eveneens tegen ziekten en boze geesten. Het wordt al in de vroegste kinderjaren gebruikt." .
+<https://n2t.net/ark:/27023/d05c0879a8086c6982f4599997ed1549> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d05c0879a8086c6982f4599997ed1549> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

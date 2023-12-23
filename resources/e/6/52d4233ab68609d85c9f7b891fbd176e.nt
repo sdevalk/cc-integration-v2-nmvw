@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a51cfa99ad96b6b95afb3c720684a0ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a51cfa99ad96b6b95afb3c720684a0ca> <https://colonialcollections.nl/schema#identifier> "TM-3782-772" .
+<https://n2t.net/ark:/27023/a51cfa99ad96b6b95afb3c720684a0ca> <https://colonialcollections.nl/schema#name> "GESTREEPT OVERKLEED VOOR KINDEREN" .
+<https://n2t.net/ark:/27023/a51cfa99ad96b6b95afb3c720684a0ca> <https://colonialcollections.nl/schema#description> "Deze Djellaba wordt vooral op het platteland door kinderen gedragen." .
+<https://n2t.net/ark:/27023/a51cfa99ad96b6b95afb3c720684a0ca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a51cfa99ad96b6b95afb3c720684a0ca> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

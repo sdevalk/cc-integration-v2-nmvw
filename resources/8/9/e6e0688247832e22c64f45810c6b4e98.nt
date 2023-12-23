@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a846d02619ddf39ce92603c39f644a89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a846d02619ddf39ce92603c39f644a89> <https://colonialcollections.nl/schema#identifier> "AM-74-42" .
+<https://n2t.net/ark:/27023/a846d02619ddf39ce92603c39f644a89> <https://colonialcollections.nl/schema#name> "Amulet" .
+<https://n2t.net/ark:/27023/a846d02619ddf39ce92603c39f644a89> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nAmulet bestaande uit een stukje hout met daardoorheen een touwtje. Het houten gedeelte lijkt op een schildpadschild." .
+<https://n2t.net/ark:/27023/a846d02619ddf39ce92603c39f644a89> <https://colonialcollections.nl/schema#material> "Hout; touw" .
+<https://n2t.net/ark:/27023/a846d02619ddf39ce92603c39f644a89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

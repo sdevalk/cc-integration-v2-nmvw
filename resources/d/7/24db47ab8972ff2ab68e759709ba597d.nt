@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d2c4f8869c09c1508aa205eae2bfca02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2c4f8869c09c1508aa205eae2bfca02> <https://colonialcollections.nl/schema#identifier> "TM-3782-375" .
+<https://n2t.net/ark:/27023/d2c4f8869c09c1508aa205eae2bfca02> <https://colonialcollections.nl/schema#name> "PRIEMNAALD MET HOUTEN HANDVAT VOOR HET NAAIEN VAN LAGEN VILT" .
+<https://n2t.net/ark:/27023/d2c4f8869c09c1508aa205eae2bfca02> <https://colonialcollections.nl/schema#description> "De priemnaald wordt door de zadelmaker gebruikt om lagen vilt op elkaar te naaien." .
+<https://n2t.net/ark:/27023/d2c4f8869c09c1508aa205eae2bfca02> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d2c4f8869c09c1508aa205eae2bfca02> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

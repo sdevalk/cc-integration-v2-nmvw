@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/63b0cedaa881df68f995b7d9f2614b77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/63b0cedaa881df68f995b7d9f2614b77> <https://colonialcollections.nl/schema#identifier> "TM-H-2061a" .
+<https://n2t.net/ark:/27023/63b0cedaa881df68f995b7d9f2614b77> <https://colonialcollections.nl/schema#name> "RAMMELDOOS VAN GEVLOCHTEN LONTARBLAD" .
+<https://n2t.net/ark:/27023/63b0cedaa881df68f995b7d9f2614b77> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/63b0cedaa881df68f995b7d9f2614b77> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

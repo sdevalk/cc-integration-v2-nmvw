@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a5f28fb178257228f257b13a00c8a793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a5f28fb178257228f257b13a00c8a793> <https://colonialcollections.nl/schema#identifier> "TM-5122-903d" .
+<https://n2t.net/ark:/27023/a5f28fb178257228f257b13a00c8a793> <https://colonialcollections.nl/schema#name> "SJERP (D) VAN PRIESTERKOSTUUM BESTAANDE UIT (HOOFDBAND A HOOFDSIERAAD B VEST C SJERP(EN) D/E ROK F WIKKELROK F)" .
+<https://n2t.net/ark:/27023/a5f28fb178257228f257b13a00c8a793> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Noord Thailand Mien Yao (bergstam)" .
+<https://n2t.net/ark:/27023/a5f28fb178257228f257b13a00c8a793> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a5f28fb178257228f257b13a00c8a793> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

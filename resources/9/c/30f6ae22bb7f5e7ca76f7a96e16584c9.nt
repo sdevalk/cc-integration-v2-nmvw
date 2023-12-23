@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#identifier> "WM-940130-8-3" .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#description> "reisfotografie & groepsportret & 5 vrouwen (waaronder mevr. Saliège) & 2 mannen & leeftijdscategorie : volwassene & lichaamshouding : staand & lichaamshouding : zittend &  en face" .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a53ef6cade2f67c846a77271895dfd47> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

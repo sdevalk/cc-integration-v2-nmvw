@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a79486ac05d4ce6cfa452a0b5fd050f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a79486ac05d4ce6cfa452a0b5fd050f1> <https://colonialcollections.nl/schema#identifier> "RV-2839-23" .
+<https://n2t.net/ark:/27023/a79486ac05d4ce6cfa452a0b5fd050f1> <https://colonialcollections.nl/schema#name> "Amulet" .
+<https://n2t.net/ark:/27023/a79486ac05d4ce6cfa452a0b5fd050f1> <https://colonialcollections.nl/schema#material> "tak" .
+<https://n2t.net/ark:/27023/a79486ac05d4ce6cfa452a0b5fd050f1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

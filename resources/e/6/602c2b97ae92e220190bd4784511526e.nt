@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/cf138527859867265346ba35966f5a1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cf138527859867265346ba35966f5a1c> <https://colonialcollections.nl/schema#identifier> "AM-12-10" .
+<https://n2t.net/ark:/27023/cf138527859867265346ba35966f5a1c> <https://colonialcollections.nl/schema#name> "Mat" .
+<https://n2t.net/ark:/27023/cf138527859867265346ba35966f5a1c> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nNaturelkleurige, gevlochten mat met franje." .
+<https://n2t.net/ark:/27023/cf138527859867265346ba35966f5a1c> <https://colonialcollections.nl/schema#material> "Riet" .
+<https://n2t.net/ark:/27023/cf138527859867265346ba35966f5a1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

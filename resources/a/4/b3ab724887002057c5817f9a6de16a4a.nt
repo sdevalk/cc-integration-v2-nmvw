@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9e7859b76f261c4586bc1b628e9d50c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9e7859b76f261c4586bc1b628e9d50c5> <https://colonialcollections.nl/schema#identifier> "WM-59395" .
+<https://n2t.net/ark:/27023/9e7859b76f261c4586bc1b628e9d50c5> <https://colonialcollections.nl/schema#description> "[VO] twee ronde bellen  (als 59366) aan katoenendraad met \r\n        diverse blauwe kralen." .
+<https://n2t.net/ark:/27023/9e7859b76f261c4586bc1b628e9d50c5> <https://colonialcollections.nl/schema#material> "brons, katoen\r\ngegoten (a-cire-perdue)" .
+<https://n2t.net/ark:/27023/9e7859b76f261c4586bc1b628e9d50c5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

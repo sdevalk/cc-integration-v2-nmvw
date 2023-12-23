@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a4d06edbeb8122e48bcccf589f9c5371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a4d06edbeb8122e48bcccf589f9c5371> <https://colonialcollections.nl/schema#identifier> "TM-5213-26h" .
+<https://n2t.net/ark:/27023/a4d06edbeb8122e48bcccf589f9c5371> <https://colonialcollections.nl/schema#name> "LINKER SANDAAL, ONDERDEEL VAN MUZIKANTENKOSTUUM" .
+<https://n2t.net/ark:/27023/a4d06edbeb8122e48bcccf589f9c5371> <https://colonialcollections.nl/schema#description> "De sandalen zijn gemaakt van een oude autoband." .
+<https://n2t.net/ark:/27023/a4d06edbeb8122e48bcccf589f9c5371> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a4d06edbeb8122e48bcccf589f9c5371> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

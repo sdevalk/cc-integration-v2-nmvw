@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9ff0481f872cc8720775bb47e6c5add5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ff0481f872cc8720775bb47e6c5add5> <https://colonialcollections.nl/schema#identifier> "WM-61020" .
+<https://n2t.net/ark:/27023/9ff0481f872cc8720775bb47e6c5add5> <https://colonialcollections.nl/schema#description> "Met inscriptie van een gebed in het Arabisch." .
+<https://n2t.net/ark:/27023/9ff0481f872cc8720775bb47e6c5add5> <https://colonialcollections.nl/schema#material> "edelsteen (?)" .
+<https://n2t.net/ark:/27023/9ff0481f872cc8720775bb47e6c5add5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

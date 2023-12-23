@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9f53b21ef5684e193d64a87cd2e83614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9f53b21ef5684e193d64a87cd2e83614> <https://colonialcollections.nl/schema#identifier> "TM-3401-637" .
+<https://n2t.net/ark:/27023/9f53b21ef5684e193d64a87cd2e83614> <https://colonialcollections.nl/schema#name> "BOOMBASTKLOPPER VAN STEEN MET ROTAN HANDVAT" .
+<https://n2t.net/ark:/27023/9f53b21ef5684e193d64a87cd2e83614> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9f53b21ef5684e193d64a87cd2e83614> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <https://colonialcollections.nl/schema#identifier> "TM-3401-687" .
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <https://colonialcollections.nl/schema#name> "STRENG VERVAADIGD UIT HENNEPTOUW" .
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <https://colonialcollections.nl/schema#description> "De streng henneptouw is een product van de touwslager." .
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <https://colonialcollections.nl/schema#material> "hennep" .
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d16c63a6ba08d5330eff5fc168a52960> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

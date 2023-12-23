@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a0b2e30d28c6d7eb9981643b61ec9085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a0b2e30d28c6d7eb9981643b61ec9085> <https://colonialcollections.nl/schema#identifier> "WM-62332" .
+<https://n2t.net/ark:/27023/a0b2e30d28c6d7eb9981643b61ec9085> <https://colonialcollections.nl/schema#description> "[VO] Lajang Kalimasada (brief)" .
+<https://n2t.net/ark:/27023/a0b2e30d28c6d7eb9981643b61ec9085> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/a0b2e30d28c6d7eb9981643b61ec9085> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

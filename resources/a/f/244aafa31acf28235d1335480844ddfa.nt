@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a723da7ac6fe99aa7a78389e81f7f0d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a723da7ac6fe99aa7a78389e81f7f0d3> <https://colonialcollections.nl/schema#identifier> "WM-73859" .
+<https://n2t.net/ark:/27023/a723da7ac6fe99aa7a78389e81f7f0d3> <https://colonialcollections.nl/schema#description> "[KL] blauw (ogen)\r\n[VO] kronkelende slang" .
+<https://n2t.net/ark:/27023/a723da7ac6fe99aa7a78389e81f7f0d3> <https://colonialcollections.nl/schema#material> "hout, metaal-ijzerlegering, glas" .
+<https://n2t.net/ark:/27023/a723da7ac6fe99aa7a78389e81f7f0d3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

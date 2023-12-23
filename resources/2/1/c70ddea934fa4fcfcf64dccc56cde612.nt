@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/a601e50cb7c5b3ea5ab6aeb33d1c60c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a601e50cb7c5b3ea5ab6aeb33d1c60c1> <https://colonialcollections.nl/schema#identifier> "WM-33596" .
+<https://n2t.net/ark:/27023/a601e50cb7c5b3ea5ab6aeb33d1c60c1> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/a601e50cb7c5b3ea5ab6aeb33d1c60c1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

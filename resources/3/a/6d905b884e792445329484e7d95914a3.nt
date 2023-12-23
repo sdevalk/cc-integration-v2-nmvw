@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9d9386a9fa3ea1ed6b1ac4c2b6a16249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9d9386a9fa3ea1ed6b1ac4c2b6a16249> <https://colonialcollections.nl/schema#identifier> "RV-1828-6" .
+<https://n2t.net/ark:/27023/9d9386a9fa3ea1ed6b1ac4c2b6a16249> <https://colonialcollections.nl/schema#name> "Lepel" .
+<https://n2t.net/ark:/27023/9d9386a9fa3ea1ed6b1ac4c2b6a16249> <https://colonialcollections.nl/schema#material> "hout ; noot , kokos" .
+<https://n2t.net/ark:/27023/9d9386a9fa3ea1ed6b1ac4c2b6a16249> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/9ffee1981cb9500588e8ac2a5c32d666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ffee1981cb9500588e8ac2a5c32d666> <https://colonialcollections.nl/schema#identifier> "WM-63977" .
+<https://n2t.net/ark:/27023/9ffee1981cb9500588e8ac2a5c32d666> <https://colonialcollections.nl/schema#material> "palmvezel, leer\r\ngevlochten" .
+<https://n2t.net/ark:/27023/9ffee1981cb9500588e8ac2a5c32d666> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

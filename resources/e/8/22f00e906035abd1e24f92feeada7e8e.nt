@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a096f53f56cc3b7514b708029300cebb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a096f53f56cc3b7514b708029300cebb> <https://colonialcollections.nl/schema#identifier> "RV-03-1077" .
+<https://n2t.net/ark:/27023/a096f53f56cc3b7514b708029300cebb> <https://colonialcollections.nl/schema#name> "Spatel" .
+<https://n2t.net/ark:/27023/a096f53f56cc3b7514b708029300cebb> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/a096f53f56cc3b7514b708029300cebb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

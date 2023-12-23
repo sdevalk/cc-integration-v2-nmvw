@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a51e687f4fd65e0c50bd95df98988225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a51e687f4fd65e0c50bd95df98988225> <https://colonialcollections.nl/schema#identifier> "AM-167-2" .
+<https://n2t.net/ark:/27023/a51e687f4fd65e0c50bd95df98988225> <https://colonialcollections.nl/schema#name> "Halsketting" .
+<https://n2t.net/ark:/27023/a51e687f4fd65e0c50bd95df98988225> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nKetting vervaardigd uit vezels waaraan een zevenentwintigtal tanden is bevestigd." .
+<https://n2t.net/ark:/27023/a51e687f4fd65e0c50bd95df98988225> <https://colonialcollections.nl/schema#material> "Vezels; tanden" .
+<https://n2t.net/ark:/27023/a51e687f4fd65e0c50bd95df98988225> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

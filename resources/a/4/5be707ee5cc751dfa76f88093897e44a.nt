@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#identifier> "WM-904014" .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#name> "247, LE GRAND PRÊTRE CHIRETA" .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, portret van een groep geestelijken en ambtenaren." .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk" .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#creator> "Toumanoff, S.B." .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#inscription> "negatiefnummer 247 met inkt geschreven in negatief\r\ntitel (2,3) met inkt geschreven op achterzijde karton [handschrift Ten Kate]" .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a5eb21b5dac6799392ec74838e52fc56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .

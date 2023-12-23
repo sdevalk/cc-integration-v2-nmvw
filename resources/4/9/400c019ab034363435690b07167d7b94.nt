@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a528790d4ade69c88a56ee28e6c9df92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a528790d4ade69c88a56ee28e6c9df92> <https://colonialcollections.nl/schema#identifier> "WM-75195" .
+<https://n2t.net/ark:/27023/a528790d4ade69c88a56ee28e6c9df92> <https://colonialcollections.nl/schema#description> "[DE] geometrische figuren" .
+<https://n2t.net/ark:/27023/a528790d4ade69c88a56ee28e6c9df92> <https://colonialcollections.nl/schema#material> "metaal\r\ngegraveerd" .
+<https://n2t.net/ark:/27023/a528790d4ade69c88a56ee28e6c9df92> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

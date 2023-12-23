@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a4fe309fccb87d1385f5c28e6e9e8797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a4fe309fccb87d1385f5c28e6e9e8797> <https://colonialcollections.nl/schema#identifier> "TM-4321-8a" .
+<https://n2t.net/ark:/27023/a4fe309fccb87d1385f5c28e6e9e8797> <https://colonialcollections.nl/schema#name> "ZIJDEN BLOUSE" .
+<https://n2t.net/ark:/27023/a4fe309fccb87d1385f5c28e6e9e8797> <https://colonialcollections.nl/schema#description> "Kostuum van een koopman, 19e eeuw." .
+<https://n2t.net/ark:/27023/a4fe309fccb87d1385f5c28e6e9e8797> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a4fe309fccb87d1385f5c28e6e9e8797> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

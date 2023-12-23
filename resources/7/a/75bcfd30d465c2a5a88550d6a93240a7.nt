@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9f25f1956efa90eeb64eeb1eca2faa37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9f25f1956efa90eeb64eeb1eca2faa37> <https://colonialcollections.nl/schema#identifier> "WM-318490" .
+<https://n2t.net/ark:/27023/9f25f1956efa90eeb64eeb1eca2faa37> <https://colonialcollections.nl/schema#name> "MEDAILLE" .
+<https://n2t.net/ark:/27023/9f25f1956efa90eeb64eeb1eca2faa37> <https://colonialcollections.nl/schema#description> "Medaile Krim-oorlog 1855." .
+<https://n2t.net/ark:/27023/9f25f1956efa90eeb64eeb1eca2faa37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#identifier> "RV-5821-22" .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#name> "GEWICHT IN DE VORM VAN EEN LEEUW" .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#description> "gewicht in de vorm van een mythologische leeuw  (chinthe); type ' brede borst / hoge staart '" .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#material> "brons" .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1650"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9fb5c5b6ec51eb5f4b415d66d7df06ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1650"^^<http://www.w3.org/2001/XMLSchema#integer> .

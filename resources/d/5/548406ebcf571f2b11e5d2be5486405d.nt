@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9d6fe8c8b1217a094b02aa575af5455a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9d6fe8c8b1217a094b02aa575af5455a> <https://colonialcollections.nl/schema#identifier> "TM-1632-8" .
+<https://n2t.net/ark:/27023/9d6fe8c8b1217a094b02aa575af5455a> <https://colonialcollections.nl/schema#name> "SLAGZWAARD MET HOORNEN GREEP EN HOUTEN SCHEDE" .
+<https://n2t.net/ark:/27023/9d6fe8c8b1217a094b02aa575af5455a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9d6fe8c8b1217a094b02aa575af5455a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .

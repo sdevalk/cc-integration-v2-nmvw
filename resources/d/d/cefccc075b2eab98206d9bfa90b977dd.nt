@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a61e5943191cf580c22c67d6ec6edbe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a61e5943191cf580c22c67d6ec6edbe3> <https://colonialcollections.nl/schema#identifier> "TM-3981-197" .
+<https://n2t.net/ark:/27023/a61e5943191cf580c22c67d6ec6edbe3> <https://colonialcollections.nl/schema#name> "HOUTEN HELM" .
+<https://n2t.net/ark:/27023/a61e5943191cf580c22c67d6ec6edbe3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a61e5943191cf580c22c67d6ec6edbe3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

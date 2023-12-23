@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9d66a5e843b7a098f293b207659d4c8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9d66a5e843b7a098f293b207659d4c8c> <https://colonialcollections.nl/schema#identifier> "RV-42-11" .
+<https://n2t.net/ark:/27023/9d66a5e843b7a098f293b207659d4c8c> <https://colonialcollections.nl/schema#name> "BEDIENDE UIT EEN BRUIDSSTOET (MODEL)" .
+<https://n2t.net/ark:/27023/9d66a5e843b7a098f293b207659d4c8c> <https://colonialcollections.nl/schema#description> "Bediende (model) met kwispedoor, uit een bruidstoet." .
+<https://n2t.net/ark:/27023/9d66a5e843b7a098f293b207659d4c8c> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/9d66a5e843b7a098f293b207659d4c8c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

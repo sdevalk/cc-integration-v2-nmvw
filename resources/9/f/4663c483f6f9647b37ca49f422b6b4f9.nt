@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d249addc9519d83c6eb743b913cb7167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d249addc9519d83c6eb743b913cb7167> <https://colonialcollections.nl/schema#identifier> "TM-4957-1c" .
+<https://n2t.net/ark:/27023/d249addc9519d83c6eb743b913cb7167> <https://colonialcollections.nl/schema#name> "ARMBAND (C) VAN PRIESTERKLEDING BESTAANDE UIT (VOORSCHOOT A MUTS B ARMBANDEN C/D)" .
+<https://n2t.net/ark:/27023/d249addc9519d83c6eb743b913cb7167> <https://colonialcollections.nl/schema#description> "Herk: Zuid Azie Nepal (land) Kathmandu (plaats)" .
+<https://n2t.net/ark:/27023/d249addc9519d83c6eb743b913cb7167> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d249addc9519d83c6eb743b913cb7167> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

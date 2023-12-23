@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a89f209d74f9941c9a02b0cb7d56fdbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a89f209d74f9941c9a02b0cb7d56fdbf> <https://colonialcollections.nl/schema#identifier> "TM-ib-2006-43-6" .
+<https://n2t.net/ark:/27023/a89f209d74f9941c9a02b0cb7d56fdbf> <https://colonialcollections.nl/schema#name> "DANSSTAF MET KRALEN VAN EEN MOEDER" .
+<https://n2t.net/ark:/27023/a89f209d74f9941c9a02b0cb7d56fdbf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a89f209d74f9941c9a02b0cb7d56fdbf> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .

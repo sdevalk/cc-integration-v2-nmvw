@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a5219e7f676ccf2bfee329565401801e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a5219e7f676ccf2bfee329565401801e> <https://colonialcollections.nl/schema#identifier> "TM-3925-194d" .
+<https://n2t.net/ark:/27023/a5219e7f676ccf2bfee329565401801e> <https://colonialcollections.nl/schema#name> "EZELSKOP VAN EEN VOETSTUK WAAROP EEN HOUTEN CEREMONIËLE VOEDSELSCHAAL IS GEPLAATST" .
+<https://n2t.net/ark:/27023/a5219e7f676ccf2bfee329565401801e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a5219e7f676ccf2bfee329565401801e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

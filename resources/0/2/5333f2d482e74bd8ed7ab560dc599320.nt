@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cf2591d33d4bdc372f239266c0e2243d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cf2591d33d4bdc372f239266c0e2243d> <https://colonialcollections.nl/schema#identifier> "RV-3600-1857" .
+<https://n2t.net/ark:/27023/cf2591d33d4bdc372f239266c0e2243d> <https://colonialcollections.nl/schema#name> "SABEL" .
+<https://n2t.net/ark:/27023/cf2591d33d4bdc372f239266c0e2243d> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; leer ; hoorn" .
+<https://n2t.net/ark:/27023/cf2591d33d4bdc372f239266c0e2243d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

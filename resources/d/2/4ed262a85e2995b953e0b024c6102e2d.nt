@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <https://colonialcollections.nl/schema#identifier> "TM-2531-11" .
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <https://colonialcollections.nl/schema#name> "VAASVORMIG FOENICISCHE POT VAN AARDEWERK MET RODE BANDEN" .
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <https://colonialcollections.nl/schema#description> "Uit archeologische opgravingen te Carthago in Tunesië. In eigen atelier opnieuw gerestaureerd." .
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <https://colonialcollections.nl/schema#material> "aardewerk ; verf" .
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9f69c758ec36077c9473b465e616311f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a07265891594a46057061c9ea8a58927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a07265891594a46057061c9ea8a58927> <https://colonialcollections.nl/schema#identifier> "TM-3290-223" .
+<https://n2t.net/ark:/27023/a07265891594a46057061c9ea8a58927> <https://colonialcollections.nl/schema#name> "KATOENEN BROEK" .
+<https://n2t.net/ark:/27023/a07265891594a46057061c9ea8a58927> <https://colonialcollections.nl/schema#description> "De broek is gemaakt van een op satinet gelijkende stof, die in Suriname \"sanella\" heet. Ze wordt gedragen door Javaanse mannen in Suriname." .
+<https://n2t.net/ark:/27023/a07265891594a46057061c9ea8a58927> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a07265891594a46057061c9ea8a58927> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

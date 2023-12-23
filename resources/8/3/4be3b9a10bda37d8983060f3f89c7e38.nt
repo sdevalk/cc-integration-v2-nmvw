@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9fa06ac5d5d17b31c11f94c6ecf5f66e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9fa06ac5d5d17b31c11f94c6ecf5f66e> <https://colonialcollections.nl/schema#identifier> "TM-3070-15" .
+<https://n2t.net/ark:/27023/9fa06ac5d5d17b31c11f94c6ecf5f66e> <https://colonialcollections.nl/schema#name> "HOUTEN STEMPEL VOOR HET BEDRUKKEN VAN TEXTIEL" .
+<https://n2t.net/ark:/27023/9fa06ac5d5d17b31c11f94c6ecf5f66e> <https://colonialcollections.nl/schema#description> "Stempel die wordt gebruikt voor het bedrukken van textiel in de zg. qalamkar-techniek. Dit is een druktechniek waarbij een ontwerp met een houten stempel of drukblok (qalab) op het textiel wordt aangebracht." .
+<https://n2t.net/ark:/27023/9fa06ac5d5d17b31c11f94c6ecf5f66e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9fa06ac5d5d17b31c11f94c6ecf5f66e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

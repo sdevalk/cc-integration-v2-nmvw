@@ -1,0 +1,13 @@
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#identifier> "AM-679-1" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#name> "Doos" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nUit hoorn vervaardigd, taps toelopend doosje met deksel. Op het doosje zijn cirkelvormige geometrische motieven aangebracht. Op het smalste punt van het doosje is de deksel bevestigd middels een spijker. De deksel opent al het ware als een waaier. Het doosje zelf is voorzien van een zestal kleine vakjes." .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#material> "Hoorn" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#alternateName> "Moyen-Congo" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#alternateName> "Congo (Brazzaville)"@en .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
+<https://n2t.net/ark:/27023/a56eb6a97652d364549ae176d037d1cb> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .

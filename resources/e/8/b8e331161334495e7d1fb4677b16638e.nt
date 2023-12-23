@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9f75e679f99d775ef2e2f7c1e0748cdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9f75e679f99d775ef2e2f7c1e0748cdc> <https://colonialcollections.nl/schema#identifier> "RV-4470-42" .
+<https://n2t.net/ark:/27023/9f75e679f99d775ef2e2f7c1e0748cdc> <https://colonialcollections.nl/schema#name> "Speelgoed: bal" .
+<https://n2t.net/ark:/27023/9f75e679f99d775ef2e2f7c1e0748cdc> <https://colonialcollections.nl/schema#description> "Speelgoed. Materiaal: rond een harde kern waar vermoedelijk zaden in rammelen, zijn stijf touwtjes gewikkeld." .
+<https://n2t.net/ark:/27023/9f75e679f99d775ef2e2f7c1e0748cdc> <https://colonialcollections.nl/schema#material> "zaad x? ; touw" .
+<https://n2t.net/ark:/27023/9f75e679f99d775ef2e2f7c1e0748cdc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

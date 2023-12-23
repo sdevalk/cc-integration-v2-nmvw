@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a758b813c69e5394cf09e1e707308169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a758b813c69e5394cf09e1e707308169> <https://colonialcollections.nl/schema#identifier> "TM-4113-541d" .
+<https://n2t.net/ark:/27023/a758b813c69e5394cf09e1e707308169> <https://colonialcollections.nl/schema#name> "DEEL DRAAGTAS VAN BEDELNAP MET DEKSEL, VOETJE EN DRAAGTAS, VOOR TREKKENDE MONNIK" .
+<https://n2t.net/ark:/27023/a758b813c69e5394cf09e1e707308169> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a758b813c69e5394cf09e1e707308169> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

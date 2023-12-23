@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9fe74e839751559c67dccf4c87f5e386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9fe74e839751559c67dccf4c87f5e386> <https://colonialcollections.nl/schema#identifier> "TM-4113-643" .
+<https://n2t.net/ark:/27023/9fe74e839751559c67dccf4c87f5e386> <https://colonialcollections.nl/schema#name> "SCHEPNET, BESTAANDE UIT HOUTEN KLOS TWEE BAMBOE STOKKEN EN EEN KATOENEN NET" .
+<https://n2t.net/ark:/27023/9fe74e839751559c67dccf4c87f5e386> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9fe74e839751559c67dccf4c87f5e386> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

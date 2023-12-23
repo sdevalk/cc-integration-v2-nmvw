@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d11b5c26b42e23b9ba22308ac7358916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d11b5c26b42e23b9ba22308ac7358916> <https://colonialcollections.nl/schema#identifier> "TM-3782-768" .
+<https://n2t.net/ark:/27023/d11b5c26b42e23b9ba22308ac7358916> <https://colonialcollections.nl/schema#name> "KAFTAN VOOR VROUWEN VAN BROKAAT" .
+<https://n2t.net/ark:/27023/d11b5c26b42e23b9ba22308ac7358916> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d11b5c26b42e23b9ba22308ac7358916> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

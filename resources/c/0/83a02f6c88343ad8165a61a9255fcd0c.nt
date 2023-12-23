@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a0284398ed9928a5ee84269607fd3ffb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a0284398ed9928a5ee84269607fd3ffb> <https://colonialcollections.nl/schema#identifier> "TM-2386-11" .
+<https://n2t.net/ark:/27023/a0284398ed9928a5ee84269607fd3ffb> <https://colonialcollections.nl/schema#name> "BAMBOE BOOG VOORZIEN SNIJWERK VERSIERING" .
+<https://n2t.net/ark:/27023/a0284398ed9928a5ee84269607fd3ffb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a0284398ed9928a5ee84269607fd3ffb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

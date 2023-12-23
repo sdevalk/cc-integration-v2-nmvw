@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#identifier> "AM-17-369" .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#name> "Snuifdoos" .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#description> "Waarschijnlijkt gebruikt voor bewaren van snuiftabak e.d.\r\n\r\nBeschrijving\r\nKleine, niet geornamenteerde kalebas. Om de insnijding is een stukje touw gewonden, waaraan een leren draagriempje is bevestigd." .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#material> "Kalebas; leer; touw" .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#yearCreatedStart> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a053994fa49ea5926e068a726eeb2b35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

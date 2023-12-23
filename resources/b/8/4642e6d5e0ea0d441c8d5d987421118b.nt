@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#identifier> "RV-1971-769" .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#name> "Oorlogspijlen" .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#description> "negen oorlogspijlen" .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#material> "bamboe ; hout, palmhout ; rotan" .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d1f319657d158b3f6fc98d11d5e3ade0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
