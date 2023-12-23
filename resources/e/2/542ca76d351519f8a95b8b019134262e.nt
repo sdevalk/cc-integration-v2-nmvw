@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/175c92cf2eeac0017b75df4fc3fd7dba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/175c92cf2eeac0017b75df4fc3fd7dba> <https://colonialcollections.nl/schema#identifier> "WM-49456" .
+<https://n2t.net/ark:/27023/175c92cf2eeac0017b75df4fc3fd7dba> <https://colonialcollections.nl/schema#material> "goud-legering\r\ngegoten & gesmeed" .
+<https://n2t.net/ark:/27023/175c92cf2eeac0017b75df4fc3fd7dba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0c02b2fc1dfba88cde25582b5df7deaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c02b2fc1dfba88cde25582b5df7deaf> <https://colonialcollections.nl/schema#identifier> "TM-3357-44b" .
+<https://n2t.net/ark:/27023/0c02b2fc1dfba88cde25582b5df7deaf> <https://colonialcollections.nl/schema#name> "HANDGESNEDEN HOUTEN LEPEL" .
+<https://n2t.net/ark:/27023/0c02b2fc1dfba88cde25582b5df7deaf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0c02b2fc1dfba88cde25582b5df7deaf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

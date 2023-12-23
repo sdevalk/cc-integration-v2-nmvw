@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#identifier> "WM-940132-2-4" .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#name> "AANKOMST VOOR ALGIERS, 24 NOV. 7 UUR S MORGENS" .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#description> "reisfotografie & zee & pier & boot & vuurtoren" .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/054ae8d0135c956cfe2bb338f7b81c53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

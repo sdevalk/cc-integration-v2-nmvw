@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/080d203cd31be7953fb1a4dfa7485b09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/080d203cd31be7953fb1a4dfa7485b09> <https://colonialcollections.nl/schema#identifier> "WM-62586" .
+<https://n2t.net/ark:/27023/080d203cd31be7953fb1a4dfa7485b09> <https://colonialcollections.nl/schema#description> "[KL] zwart (binnenkant)\r\n[VO] man : prins" .
+<https://n2t.net/ark:/27023/080d203cd31be7953fb1a4dfa7485b09> <https://colonialcollections.nl/schema#material> "papier, glas\r\nVervaardigd in z.g. Bangkok-stijl." .
+<https://n2t.net/ark:/27023/080d203cd31be7953fb1a4dfa7485b09> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

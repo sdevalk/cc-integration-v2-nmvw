@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0766b2f4b7c60cc42827f3c5428034f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0766b2f4b7c60cc42827f3c5428034f5> <https://colonialcollections.nl/schema#identifier> "TM-5414-7a-9" .
+<https://n2t.net/ark:/27023/0766b2f4b7c60cc42827f3c5428034f5> <https://colonialcollections.nl/schema#name> "MONSTERKOP BEHOREND BIJ EEN TENORXYLOFOON VAN EEN JEGOG GAMELAN" .
+<https://n2t.net/ark:/27023/0766b2f4b7c60cc42827f3c5428034f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0766b2f4b7c60cc42827f3c5428034f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

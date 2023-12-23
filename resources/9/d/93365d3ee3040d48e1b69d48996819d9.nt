@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/14a21a2b5f19477002bac5cab1d3e95d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/14a21a2b5f19477002bac5cab1d3e95d> <https://colonialcollections.nl/schema#identifier> "WM-35575" .
+<https://n2t.net/ark:/27023/14a21a2b5f19477002bac5cab1d3e95d> <https://colonialcollections.nl/schema#material> "koper, leer" .
+<https://n2t.net/ark:/27023/14a21a2b5f19477002bac5cab1d3e95d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1b5173bb1ce00a7c29eb1a73774fddcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1b5173bb1ce00a7c29eb1a73774fddcc> <https://colonialcollections.nl/schema#identifier> "RV-4585-4a" .
+<https://n2t.net/ark:/27023/1b5173bb1ce00a7c29eb1a73774fddcc> <https://colonialcollections.nl/schema#name> "Schoen" .
+<https://n2t.net/ark:/27023/1b5173bb1ce00a7c29eb1a73774fddcc> <https://colonialcollections.nl/schema#description> "Schoen voor jongens of vrouwen?" .
+<https://n2t.net/ark:/27023/1b5173bb1ce00a7c29eb1a73774fddcc> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/1b5173bb1ce00a7c29eb1a73774fddcc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

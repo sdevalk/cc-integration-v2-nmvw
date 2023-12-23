@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0bf3b5e79fee5a01006c843ca468037c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0bf3b5e79fee5a01006c843ca468037c> <https://colonialcollections.nl/schema#identifier> "WM-75192" .
+<https://n2t.net/ark:/27023/0bf3b5e79fee5a01006c843ca468037c> <https://colonialcollections.nl/schema#description> "[DE] Arabisch schrift & boom & bloem" .
+<https://n2t.net/ark:/27023/0bf3b5e79fee5a01006c843ca468037c> <https://colonialcollections.nl/schema#material> "metaal\r\ngegraveerd" .
+<https://n2t.net/ark:/27023/0bf3b5e79fee5a01006c843ca468037c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

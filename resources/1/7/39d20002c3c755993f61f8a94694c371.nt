@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/169ddbb8367b6308a417f92c3f73b55f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/169ddbb8367b6308a417f92c3f73b55f> <https://colonialcollections.nl/schema#identifier> "TM-2283-14" .
+<https://n2t.net/ark:/27023/169ddbb8367b6308a417f92c3f73b55f> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAND MET OPSCHRIFT  \"TAQUAN\" EN \"ALASKA\"" .
+<https://n2t.net/ark:/27023/169ddbb8367b6308a417f92c3f73b55f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/169ddbb8367b6308a417f92c3f73b55f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

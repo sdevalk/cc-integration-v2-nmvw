@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1bc9827a8604f75f73d6f569d6124a9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1bc9827a8604f75f73d6f569d6124a9e> <https://colonialcollections.nl/schema#identifier> "WM-50865" .
+<https://n2t.net/ark:/27023/1bc9827a8604f75f73d6f569d6124a9e> <https://colonialcollections.nl/schema#description> "[DE] dier : paard & zadel" .
+<https://n2t.net/ark:/27023/1bc9827a8604f75f73d6f569d6124a9e> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/1bc9827a8604f75f73d6f569d6124a9e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

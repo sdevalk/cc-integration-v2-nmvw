@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1c3a8a8b3df8e51c4a01a2a56f938ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c3a8a8b3df8e51c4a01a2a56f938ba3> <https://colonialcollections.nl/schema#identifier> "TM-A-5475b" .
+<https://n2t.net/ark:/27023/1c3a8a8b3df8e51c4a01a2a56f938ba3> <https://colonialcollections.nl/schema#name> "PIJL MET HOUTEN PUNT MET WEERHAKEN AAN BEIDE ZIJDEN" .
+<https://n2t.net/ark:/27023/1c3a8a8b3df8e51c4a01a2a56f938ba3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1c3a8a8b3df8e51c4a01a2a56f938ba3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

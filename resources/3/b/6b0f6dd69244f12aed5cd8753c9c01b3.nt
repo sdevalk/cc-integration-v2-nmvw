@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/16f5bbe6c5c9a432944645e7313d776a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16f5bbe6c5c9a432944645e7313d776a> <https://colonialcollections.nl/schema#identifier> "WM-32211" .
+<https://n2t.net/ark:/27023/16f5bbe6c5c9a432944645e7313d776a> <https://colonialcollections.nl/schema#description> "driehoekig, opengewerkt, geschulpte rand." .
+<https://n2t.net/ark:/27023/16f5bbe6c5c9a432944645e7313d776a> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/16f5bbe6c5c9a432944645e7313d776a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

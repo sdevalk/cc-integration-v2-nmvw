@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0d400907bcf3974739ee9a237e44f669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d400907bcf3974739ee9a237e44f669> <https://colonialcollections.nl/schema#identifier> "TM-3981-46a" .
+<https://n2t.net/ark:/27023/0d400907bcf3974739ee9a237e44f669> <https://colonialcollections.nl/schema#name> "HOUTEN SCHOEN" .
+<https://n2t.net/ark:/27023/0d400907bcf3974739ee9a237e44f669> <https://colonialcollections.nl/schema#description> "Volgens Lit. I, bl. 19 vooral in regentijd gebruikt. In de overige tijd loopt men blootvoets (in vroeger tijden althans). Tegenwoordig worden veel rubber en plastic sandalen (respectievelijk van oude autobanden gemaakt en fabrieksproduct) gedragen. Tijdens de jacht draagt met nog wel sandalen van ossenhuid." .
+<https://n2t.net/ark:/27023/0d400907bcf3974739ee9a237e44f669> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0d400907bcf3974739ee9a237e44f669> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

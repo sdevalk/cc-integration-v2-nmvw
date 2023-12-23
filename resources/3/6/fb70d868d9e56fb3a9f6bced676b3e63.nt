@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/13db721f46efe8e4698363e0b3d17ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/13db721f46efe8e4698363e0b3d17ac9> <https://colonialcollections.nl/schema#identifier> "RV-4399-131" .
+<https://n2t.net/ark:/27023/13db721f46efe8e4698363e0b3d17ac9> <https://colonialcollections.nl/schema#name> "Fluit" .
+<https://n2t.net/ark:/27023/13db721f46efe8e4698363e0b3d17ac9> <https://colonialcollections.nl/schema#description> "gegevens kladinv." .
+<https://n2t.net/ark:/27023/13db721f46efe8e4698363e0b3d17ac9> <https://colonialcollections.nl/schema#material> "onbekend" .
+<https://n2t.net/ark:/27023/13db721f46efe8e4698363e0b3d17ac9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

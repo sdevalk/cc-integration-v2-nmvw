@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/066994a94cecc92d471a443265c8785a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/066994a94cecc92d471a443265c8785a> <https://colonialcollections.nl/schema#identifier> "TM-111-475" .
+<https://n2t.net/ark:/27023/066994a94cecc92d471a443265c8785a> <https://colonialcollections.nl/schema#name> "SIERAAD VAN KRALEN, SCHIJFJES VAN NASSASCHELP EN TWEE SLAGTANDEN" .
+<https://n2t.net/ark:/27023/066994a94cecc92d471a443265c8785a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/066994a94cecc92d471a443265c8785a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

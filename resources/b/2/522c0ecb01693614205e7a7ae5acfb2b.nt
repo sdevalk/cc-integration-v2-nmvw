@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1483935ee61cb906b2a079403c1e0ad4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1483935ee61cb906b2a079403c1e0ad4> <https://colonialcollections.nl/schema#identifier> "TM-1400-4" .
+<https://n2t.net/ark:/27023/1483935ee61cb906b2a079403c1e0ad4> <https://colonialcollections.nl/schema#name> "HOUTSNIJWERK UIT ÉÉN STUK, IN DE VORM VAN EEN MES EN EEN LEPEL VERBONDEN DOOR EEN SCHAKELKETTING" .
+<https://n2t.net/ark:/27023/1483935ee61cb906b2a079403c1e0ad4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1483935ee61cb906b2a079403c1e0ad4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

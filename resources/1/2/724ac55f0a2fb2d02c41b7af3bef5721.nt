@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/16f4af4d5380db5006f261d6eff67170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16f4af4d5380db5006f261d6eff67170> <https://colonialcollections.nl/schema#identifier> "TM-3981-85b" .
+<https://n2t.net/ark:/27023/16f4af4d5380db5006f261d6eff67170> <https://colonialcollections.nl/schema#name> "BOL BIJENWAS BEHOREND BIJ EEN PRIEM" .
+<https://n2t.net/ark:/27023/16f4af4d5380db5006f261d6eff67170> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/16f4af4d5380db5006f261d6eff67170> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

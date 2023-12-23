@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#identifier> "WM-940129-8-5" .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#description> "reisfotografie & ruïnes & pilaar" .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0d7c7f854e72c00a918eca8e92ead014> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <https://colonialcollections.nl/schema#identifier> "RV-5709-9" .
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <https://colonialcollections.nl/schema#name> "Blokdruk" .
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <https://colonialcollections.nl/schema#description> "Een blokdruk met Amitzyus in het paradijs. Polychroom." .
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <https://colonialcollections.nl/schema#material> "papier" .
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0ca73a794cd61e9e8883441cfbe7070a> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/0cc5c7c56a4502f1b43a1abe06f95fb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0cc5c7c56a4502f1b43a1abe06f95fb5> <https://colonialcollections.nl/schema#identifier> "RV-2970-1579" .
+<https://n2t.net/ark:/27023/0cc5c7c56a4502f1b43a1abe06f95fb5> <https://colonialcollections.nl/schema#material> "steen" .
+<https://n2t.net/ark:/27023/0cc5c7c56a4502f1b43a1abe06f95fb5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

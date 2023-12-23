@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/14335d4ef3732c98ea9c8e14408e3706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/14335d4ef3732c98ea9c8e14408e3706> <https://colonialcollections.nl/schema#identifier> "RV-1337-1" .
+<https://n2t.net/ark:/27023/14335d4ef3732c98ea9c8e14408e3706> <https://colonialcollections.nl/schema#name> "Strijdbijl" .
+<https://n2t.net/ark:/27023/14335d4ef3732c98ea9c8e14408e3706> <https://colonialcollections.nl/schema#description> "Inv.kaart: Cat.Bom no.7, vergelijk Ethnogr.Album Congo 1916 plaat 72 fig.1-4, voor de vorm van lemmet vooral fig.3 en 4." .
+<https://n2t.net/ark:/27023/14335d4ef3732c98ea9c8e14408e3706> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/14335d4ef3732c98ea9c8e14408e3706> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

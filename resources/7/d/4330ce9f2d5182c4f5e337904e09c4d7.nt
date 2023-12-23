@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/15230702d27b0df615fa390ccb1c4903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/15230702d27b0df615fa390ccb1c4903> <https://colonialcollections.nl/schema#identifier> "WM-V-915" .
+<https://n2t.net/ark:/27023/15230702d27b0df615fa390ccb1c4903> <https://colonialcollections.nl/schema#description> "Inwendig Om karakter." .
+<https://n2t.net/ark:/27023/15230702d27b0df615fa390ccb1c4903> <https://colonialcollections.nl/schema#material> "mensenschedel" .
+<https://n2t.net/ark:/27023/15230702d27b0df615fa390ccb1c4903> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

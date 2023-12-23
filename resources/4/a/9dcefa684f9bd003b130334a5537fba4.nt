@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0d1b314b48f5c981d5d1ad18c07da55f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d1b314b48f5c981d5d1ad18c07da55f> <https://colonialcollections.nl/schema#identifier> "TM-brl-1071-10" .
+<https://n2t.net/ark:/27023/0d1b314b48f5c981d5d1ad18c07da55f> <https://colonialcollections.nl/schema#name> "BOEK MET OP DE VOORKANT EEN DANSERES CQ. DIENARES VAN DE DUIVEL" .
+<https://n2t.net/ark:/27023/0d1b314b48f5c981d5d1ad18c07da55f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0d1b314b48f5c981d5d1ad18c07da55f> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

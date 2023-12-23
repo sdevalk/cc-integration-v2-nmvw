@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1b4215777feaa53614fdf48de2bae5ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1b4215777feaa53614fdf48de2bae5ab> <https://colonialcollections.nl/schema#identifier> "RV-2535-65" .
+<https://n2t.net/ark:/27023/1b4215777feaa53614fdf48de2bae5ab> <https://colonialcollections.nl/schema#name> "Kunstbloem" .
+<https://n2t.net/ark:/27023/1b4215777feaa53614fdf48de2bae5ab> <https://colonialcollections.nl/schema#material> "veren (papegaai)" .
+<https://n2t.net/ark:/27023/1b4215777feaa53614fdf48de2bae5ab> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

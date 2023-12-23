@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1c172d58ae0097c62866ea9eb65bb806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c172d58ae0097c62866ea9eb65bb806> <https://colonialcollections.nl/schema#identifier> "WM-31481" .
+<https://n2t.net/ark:/27023/1c172d58ae0097c62866ea9eb65bb806> <https://colonialcollections.nl/schema#description> "[KL] naturel & donkerbruin" .
+<https://n2t.net/ark:/27023/1c172d58ae0097c62866ea9eb65bb806> <https://colonialcollections.nl/schema#material> "raffia" .
+<https://n2t.net/ark:/27023/1c172d58ae0097c62866ea9eb65bb806> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

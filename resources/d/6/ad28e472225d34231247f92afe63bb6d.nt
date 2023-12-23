@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1be7d75b4670c030df09f2723e295c0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1be7d75b4670c030df09f2723e295c0f> <https://colonialcollections.nl/schema#identifier> "TM-3122-2" .
+<https://n2t.net/ark:/27023/1be7d75b4670c030df09f2723e295c0f> <https://colonialcollections.nl/schema#name> "MESSINGEN VOORSTELLING VAN HET UITVOEREN VAN EEN BUIKPUNCTIE" .
+<https://n2t.net/ark:/27023/1be7d75b4670c030df09f2723e295c0f> <https://colonialcollections.nl/schema#material> "Messing ; vormgieten ; vijlen" .
+<https://n2t.net/ark:/27023/1be7d75b4670c030df09f2723e295c0f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1be7d75b4670c030df09f2723e295c0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

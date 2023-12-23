@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/07531480503d3f72c54433000f24ffc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07531480503d3f72c54433000f24ffc0> <https://colonialcollections.nl/schema#identifier> "TM-2006-14" .
+<https://n2t.net/ark:/27023/07531480503d3f72c54433000f24ffc0> <https://colonialcollections.nl/schema#name> "MET ZILVER OVERTROKKEN DOLK VERSIERD MET KORAAL EN TURKOOIS" .
+<https://n2t.net/ark:/27023/07531480503d3f72c54433000f24ffc0> <https://colonialcollections.nl/schema#description> "Met schede." .
+<https://n2t.net/ark:/27023/07531480503d3f72c54433000f24ffc0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/07531480503d3f72c54433000f24ffc0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/05c054daebff7ddb7acffbdb9a43dedc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/05c054daebff7ddb7acffbdb9a43dedc> <https://colonialcollections.nl/schema#identifier> "RV-4312-5b2" .
+<https://n2t.net/ark:/27023/05c054daebff7ddb7acffbdb9a43dedc> <https://colonialcollections.nl/schema#name> "Kom met deksel" .
+<https://n2t.net/ark:/27023/05c054daebff7ddb7acffbdb9a43dedc> <https://colonialcollections.nl/schema#material> "porselein" .
+<https://n2t.net/ark:/27023/05c054daebff7ddb7acffbdb9a43dedc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/077f615bf67a0e5ea04f9a244f35c679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/077f615bf67a0e5ea04f9a244f35c679> <https://colonialcollections.nl/schema#identifier> "WM-59387" .
+<https://n2t.net/ark:/27023/077f615bf67a0e5ea04f9a244f35c679> <https://colonialcollections.nl/schema#description> "[VO] klein, gesleten belletje van type 59366." .
+<https://n2t.net/ark:/27023/077f615bf67a0e5ea04f9a244f35c679> <https://colonialcollections.nl/schema#material> "brons\r\ngegoten (a-cire-perdue)" .
+<https://n2t.net/ark:/27023/077f615bf67a0e5ea04f9a244f35c679> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

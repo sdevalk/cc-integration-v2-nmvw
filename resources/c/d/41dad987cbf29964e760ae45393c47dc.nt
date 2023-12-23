@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/17533c8fe54f1cbdc057de374fd2762f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/17533c8fe54f1cbdc057de374fd2762f> <https://colonialcollections.nl/schema#identifier> "WM-22803" .
+<https://n2t.net/ark:/27023/17533c8fe54f1cbdc057de374fd2762f> <https://colonialcollections.nl/schema#material> "plantenvezel (ananasvezel ?)\r\ngevlochten" .
+<https://n2t.net/ark:/27023/17533c8fe54f1cbdc057de374fd2762f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

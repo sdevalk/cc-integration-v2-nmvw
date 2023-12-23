@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <https://colonialcollections.nl/schema#identifier> "RV-503-346" .
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <https://colonialcollections.nl/schema#name> "RIJSTMEEL" .
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <https://colonialcollections.nl/schema#description> "Glazen stolp met rijstemeel" .
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <https://colonialcollections.nl/schema#material> "rijstemeel ; glas" .
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0f458ad5fab491bb8ff29b2df62ad2b1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

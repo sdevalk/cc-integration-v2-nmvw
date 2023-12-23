@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/07ff2952e7b04339a415f25894f8c0fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07ff2952e7b04339a415f25894f8c0fc> <https://colonialcollections.nl/schema#identifier> "RV-1146-6a" .
+<https://n2t.net/ark:/27023/07ff2952e7b04339a415f25894f8c0fc> <https://colonialcollections.nl/schema#name> "Attribuut van een poppenspelpop" .
+<https://n2t.net/ark:/27023/07ff2952e7b04339a415f25894f8c0fc> <https://colonialcollections.nl/schema#description> "Attribuut voor een pop, behorend tot een poppenspel van een poppenspeler." .
+<https://n2t.net/ark:/27023/07ff2952e7b04339a415f25894f8c0fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

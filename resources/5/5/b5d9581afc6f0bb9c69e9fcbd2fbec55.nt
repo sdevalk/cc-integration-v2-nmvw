@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/15a140fdf4df8f50d992c6ff31277bb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/15a140fdf4df8f50d992c6ff31277bb7> <https://colonialcollections.nl/schema#identifier> "TM-3224-1b" .
+<https://n2t.net/ark:/27023/15a140fdf4df8f50d992c6ff31277bb7> <https://colonialcollections.nl/schema#name> "PLECTRUM VAN LANGHALSLUIT" .
+<https://n2t.net/ark:/27023/15a140fdf4df8f50d992c6ff31277bb7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/15a140fdf4df8f50d992c6ff31277bb7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

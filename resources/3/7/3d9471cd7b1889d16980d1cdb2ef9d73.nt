@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/173291ad8ef255edee33206a639251a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/173291ad8ef255edee33206a639251a8> <https://colonialcollections.nl/schema#identifier> "WM-318489" .
+<https://n2t.net/ark:/27023/173291ad8ef255edee33206a639251a8> <https://colonialcollections.nl/schema#name> "MEDAILLE" .
+<https://n2t.net/ark:/27023/173291ad8ef255edee33206a639251a8> <https://colonialcollections.nl/schema#description> "Medaile ter herdenking van de verovering van Kreta." .
+<https://n2t.net/ark:/27023/173291ad8ef255edee33206a639251a8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

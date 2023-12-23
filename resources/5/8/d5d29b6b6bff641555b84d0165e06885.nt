@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/080c4a9b22623d3b287fd23d23e4c7fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/080c4a9b22623d3b287fd23d23e4c7fc> <https://colonialcollections.nl/schema#identifier> "RV-175-77" .
+<https://n2t.net/ark:/27023/080c4a9b22623d3b287fd23d23e4c7fc> <https://colonialcollections.nl/schema#name> "Polsband" .
+<https://n2t.net/ark:/27023/080c4a9b22623d3b287fd23d23e4c7fc> <https://colonialcollections.nl/schema#description> "Gevlochten van zwarte bastvezels. Wordt door mannen en vrouwen gedragen." .
+<https://n2t.net/ark:/27023/080c4a9b22623d3b287fd23d23e4c7fc> <https://colonialcollections.nl/schema#material> "bastvezel" .
+<https://n2t.net/ark:/27023/080c4a9b22623d3b287fd23d23e4c7fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

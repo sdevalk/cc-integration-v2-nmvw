@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0e2c17b017e39dd5475a2390c80b6148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0e2c17b017e39dd5475a2390c80b6148> <https://colonialcollections.nl/schema#identifier> "TM-4113-545a" .
+<https://n2t.net/ark:/27023/0e2c17b017e39dd5475a2390c80b6148> <https://colonialcollections.nl/schema#name> "PARASOL TEGEN DE ZON,  VOOR CEREMONIEEL GEBRUIK" .
+<https://n2t.net/ark:/27023/0e2c17b017e39dd5475a2390c80b6148> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0e2c17b017e39dd5475a2390c80b6148> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

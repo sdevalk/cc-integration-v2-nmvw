@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/175c42e6df4c3de34b22d18739cc36d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/175c42e6df4c3de34b22d18739cc36d8> <https://colonialcollections.nl/schema#identifier> "WM-61369" .
+<https://n2t.net/ark:/27023/175c42e6df4c3de34b22d18739cc36d8> <https://colonialcollections.nl/schema#description> "[KL] groen & geel" .
+<https://n2t.net/ark:/27023/175c42e6df4c3de34b22d18739cc36d8> <https://colonialcollections.nl/schema#material> "porcelein" .
+<https://n2t.net/ark:/27023/175c42e6df4c3de34b22d18739cc36d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

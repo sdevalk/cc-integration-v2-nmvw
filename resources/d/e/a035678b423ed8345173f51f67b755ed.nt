@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0e946aebdfff1162e0d5420b31cf7511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0e946aebdfff1162e0d5420b31cf7511> <https://colonialcollections.nl/schema#identifier> "TM-3400-18" .
+<https://n2t.net/ark:/27023/0e946aebdfff1162e0d5420b31cf7511> <https://colonialcollections.nl/schema#name> "ZWART AARDEWERK KOOKPOT MET INGEGRIFTE VERSIERING" .
+<https://n2t.net/ark:/27023/0e946aebdfff1162e0d5420b31cf7511> <https://colonialcollections.nl/schema#material> "Aardewerk ; met de hand vormen ; drogen ; bakken ; versieren van aardewerk" .
+<https://n2t.net/ark:/27023/0e946aebdfff1162e0d5420b31cf7511> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0e946aebdfff1162e0d5420b31cf7511> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

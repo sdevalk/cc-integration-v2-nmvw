@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#identifier> "TM-5134-1" .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#name> "POLITIEKE POSTER" .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#description> "Poster voorstellende de Rotskoepel in Jeruzalem waarboven een mitrailleur door twee handen vastgehouden.\r\nUitgegeven door de Islamic Propagation Organization (Art Bureau)." .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#creator> "Islamic Propagation Organization" .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#creator> "A. (Abulfazl) Aali" .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/13a071b9159bb0731199b4dbd3874353> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

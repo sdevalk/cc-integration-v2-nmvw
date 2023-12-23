@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <https://colonialcollections.nl/schema#identifier> "TM-20043774" .
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <https://colonialcollections.nl/schema#name> "PORTRET VAN GENERAAL LYAUTEY" .
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <https://colonialcollections.nl/schema#creator> "Office national marocain du tourisme" .
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0ead72c44b51c020b018dacfd3205ca5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .

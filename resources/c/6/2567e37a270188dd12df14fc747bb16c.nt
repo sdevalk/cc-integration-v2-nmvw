@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/06cbc3487c19f109c5c0239a56ffb923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/06cbc3487c19f109c5c0239a56ffb923> <https://colonialcollections.nl/schema#identifier> "TM-3912-250" .
+<https://n2t.net/ark:/27023/06cbc3487c19f109c5c0239a56ffb923> <https://colonialcollections.nl/schema#name> "STRIJDBIJL" .
+<https://n2t.net/ark:/27023/06cbc3487c19f109c5c0239a56ffb923> <https://colonialcollections.nl/schema#description> "De strijdbijl wordt door de Mossi gebruikt als oorlogswapen en is waarschijnlijk afgeleid van het wapen met houten steel en ijzeren kop, casse-tête. Ook bij de Samo zijn dergelijke bijlen te vinden." .
+<https://n2t.net/ark:/27023/06cbc3487c19f109c5c0239a56ffb923> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/06cbc3487c19f109c5c0239a56ffb923> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

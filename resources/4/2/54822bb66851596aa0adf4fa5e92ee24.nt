@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/14ed1cbc0f45d9c0a5ff0301c0f256dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/14ed1cbc0f45d9c0a5ff0301c0f256dd> <https://colonialcollections.nl/schema#identifier> "RV-1042-22c" .
+<https://n2t.net/ark:/27023/14ed1cbc0f45d9c0a5ff0301c0f256dd> <https://colonialcollections.nl/schema#name> "Onderdeel van een weefgetouw" .
+<https://n2t.net/ark:/27023/14ed1cbc0f45d9c0a5ff0301c0f256dd> <https://colonialcollections.nl/schema#material> "Hoorn" .
+<https://n2t.net/ark:/27023/14ed1cbc0f45d9c0a5ff0301c0f256dd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/14ed1cbc0f45d9c0a5ff0301c0f256dd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

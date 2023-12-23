@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#identifier> "WM-435838" .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#description> "Expeditiefotografie" .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#material> "acetaat" .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#inscription> "negatiefnummer D3852" .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/04bad9a9d7af702cd66a875ade95b17c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

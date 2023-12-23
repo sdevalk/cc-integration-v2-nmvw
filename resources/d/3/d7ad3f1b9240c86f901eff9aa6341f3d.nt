@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0e4235539a7d0c2ea8a5f656d639680a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0e4235539a7d0c2ea8a5f656d639680a> <https://colonialcollections.nl/schema#identifier> "TM-2616-3b" .
+<https://n2t.net/ark:/27023/0e4235539a7d0c2ea8a5f656d639680a> <https://colonialcollections.nl/schema#name> "DEKSEL BEHORENDE BIJ HOUTEN PIJLENDOOS VOOR BOOG MET VIJF PIJLEN" .
+<https://n2t.net/ark:/27023/0e4235539a7d0c2ea8a5f656d639680a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0e4235539a7d0c2ea8a5f656d639680a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

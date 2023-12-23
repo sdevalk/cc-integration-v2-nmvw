@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#identifier> "WM-940132-4-4" .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#name> "REIS NAAR HET ZUIDEN MET CHRIS, RIEK EN MIEK PLUYGERS VAN 15 APRIL 1936 TOT EN MET 25 APRIL" .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#description> "reisfotografie & straatbeeld & markt & gebouw (mv) & persoon (groep) & lichaamshouding : zittend" .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/04b28ac27494176a63d0d2986c4a4642> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1593afba5813fbda79f7d7ec335dfc18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1593afba5813fbda79f7d7ec335dfc18> <https://colonialcollections.nl/schema#identifier> "WM-60222" .
+<https://n2t.net/ark:/27023/1593afba5813fbda79f7d7ec335dfc18> <https://colonialcollections.nl/schema#description> "[VO] bijtstokje" .
+<https://n2t.net/ark:/27023/1593afba5813fbda79f7d7ec335dfc18> <https://colonialcollections.nl/schema#material> "been" .
+<https://n2t.net/ark:/27023/1593afba5813fbda79f7d7ec335dfc18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

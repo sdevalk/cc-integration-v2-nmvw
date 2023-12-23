@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/07d9675159fc814958d1c35965f58a59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07d9675159fc814958d1c35965f58a59> <https://colonialcollections.nl/schema#identifier> "AM-29-459" .
+<https://n2t.net/ark:/27023/07d9675159fc814958d1c35965f58a59> <https://colonialcollections.nl/schema#name> "Schelpengeld" .
+<https://n2t.net/ark:/27023/07d9675159fc814958d1c35965f58a59> <https://colonialcollections.nl/schema#description> "Betaalmiddel.\r\n\r\nBeschrijving\r\nEen vijfentwintigtal schelpjes." .
+<https://n2t.net/ark:/27023/07d9675159fc814958d1c35965f58a59> <https://colonialcollections.nl/schema#material> "Kaurischelp" .
+<https://n2t.net/ark:/27023/07d9675159fc814958d1c35965f58a59> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

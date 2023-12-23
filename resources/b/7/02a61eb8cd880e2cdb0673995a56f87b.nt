@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/078d846c6cf5b1f0e8c98bb5cc37a187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/078d846c6cf5b1f0e8c98bb5cc37a187> <https://colonialcollections.nl/schema#identifier> "RV-4399-47" .
+<https://n2t.net/ark:/27023/078d846c6cf5b1f0e8c98bb5cc37a187> <https://colonialcollections.nl/schema#name> "Blaasbalg" .
+<https://n2t.net/ark:/27023/078d846c6cf5b1f0e8c98bb5cc37a187> <https://colonialcollections.nl/schema#material> "ijzer ; leer ; koper ; hout ; linnen ; plastic" .
+<https://n2t.net/ark:/27023/078d846c6cf5b1f0e8c98bb5cc37a187> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

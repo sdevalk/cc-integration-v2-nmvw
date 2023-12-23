@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <https://colonialcollections.nl/schema#identifier> "RV-4778-70" .
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <https://colonialcollections.nl/schema#name> "Hoofddoek met zilverdraad versierd" .
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <https://colonialcollections.nl/schema#description> "De hoofddoek is afkomstig uit de omgeving van Sukne, ten noordoosten van Tadmur. Dit type hoofddoek kan zowel door mannen als door vrouwen gedragen worden. De doek is machinaal geweven maar met de hand omzoomd." .
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <https://colonialcollections.nl/schema#material> "Textiel ; zilverdraad" .
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/146c172cc3c93b1d79e902bc88a47722> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

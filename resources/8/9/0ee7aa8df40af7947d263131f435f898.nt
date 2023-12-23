@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/05c0217042ba7182cb245876236826f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/05c0217042ba7182cb245876236826f9> <https://colonialcollections.nl/schema#identifier> "WM-420376" .
+<https://n2t.net/ark:/27023/05c0217042ba7182cb245876236826f9> <https://colonialcollections.nl/schema#material> "[MT] agfa\r\n[TK] *\r\n @@" .
+<https://n2t.net/ark:/27023/05c0217042ba7182cb245876236826f9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/05c0217042ba7182cb245876236826f9> <https://colonialcollections.nl/schema#creator> "Manoug" .

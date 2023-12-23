@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/15dd9caf41fc8e4524a0f317b8b4605d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/15dd9caf41fc8e4524a0f317b8b4605d> <https://colonialcollections.nl/schema#identifier> "TM-3782-538a" .
+<https://n2t.net/ark:/27023/15dd9caf41fc8e4524a0f317b8b4605d> <https://colonialcollections.nl/schema#name> "BUNDEL SISALVEZELS" .
+<https://n2t.net/ark:/27023/15dd9caf41fc8e4524a0f317b8b4605d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/15dd9caf41fc8e4524a0f317b8b4605d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/154b8e6eb2488b1c97ff3985ab37995d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/154b8e6eb2488b1c97ff3985ab37995d> <https://colonialcollections.nl/schema#identifier> "AM-649-58" .
+<https://n2t.net/ark:/27023/154b8e6eb2488b1c97ff3985ab37995d> <https://colonialcollections.nl/schema#name> "Bel" .
+<https://n2t.net/ark:/27023/154b8e6eb2488b1c97ff3985ab37995d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSmeedijzeren bel, aan de onderkant voor éénderde afgebroken." .
+<https://n2t.net/ark:/27023/154b8e6eb2488b1c97ff3985ab37995d> <https://colonialcollections.nl/schema#material> "Smeedijzer" .
+<https://n2t.net/ark:/27023/154b8e6eb2488b1c97ff3985ab37995d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/05d23572c11131214d3373dd42746e67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/05d23572c11131214d3373dd42746e67> <https://colonialcollections.nl/schema#identifier> "TM-4214-304" .
+<https://n2t.net/ark:/27023/05d23572c11131214d3373dd42746e67> <https://colonialcollections.nl/schema#name> "EENTANDIGE HOUTEN VORK" .
+<https://n2t.net/ark:/27023/05d23572c11131214d3373dd42746e67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/05d23572c11131214d3373dd42746e67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

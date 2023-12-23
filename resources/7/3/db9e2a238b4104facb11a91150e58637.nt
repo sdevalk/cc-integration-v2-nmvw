@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1761321a0b239a78656a5f2a1244ace5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1761321a0b239a78656a5f2a1244ace5> <https://colonialcollections.nl/schema#identifier> "AM-609-84" .
+<https://n2t.net/ark:/27023/1761321a0b239a78656a5f2a1244ace5> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSpeelgoed trein vervaardigd uit blik en bestaande uit een zestal locomotiefjes, waarvan de eerste is voorzien van een gezichtje." .
+<https://n2t.net/ark:/27023/1761321a0b239a78656a5f2a1244ace5> <https://colonialcollections.nl/schema#material> "Metaal; verf" .
+<https://n2t.net/ark:/27023/1761321a0b239a78656a5f2a1244ace5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

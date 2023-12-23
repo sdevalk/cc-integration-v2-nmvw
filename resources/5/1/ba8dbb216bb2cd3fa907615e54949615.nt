@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/07e77571c709651990d24c8a3fdf3ca4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/07e77571c709651990d24c8a3fdf3ca4> <https://colonialcollections.nl/schema#identifier> "RV-4921-22a" .
+<https://n2t.net/ark:/27023/07e77571c709651990d24c8a3fdf3ca4> <https://colonialcollections.nl/schema#name> "KOOKPOT" .
+<https://n2t.net/ark:/27023/07e77571c709651990d24c8a3fdf3ca4> <https://colonialcollections.nl/schema#description> "kookpot met deksel (22a en 22 b)" .
+<https://n2t.net/ark:/27023/07e77571c709651990d24c8a3fdf3ca4> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/07e77571c709651990d24c8a3fdf3ca4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

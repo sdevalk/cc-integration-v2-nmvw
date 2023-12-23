@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/079056c62c56cad3b4ce1273ceea6f50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/079056c62c56cad3b4ce1273ceea6f50> <https://colonialcollections.nl/schema#identifier> "TM-5938-4a" .
+<https://n2t.net/ark:/27023/079056c62c56cad3b4ce1273ceea6f50> <https://colonialcollections.nl/schema#name> "BESNIJDENISMES MET BIJBEHORENDE SCHEDE" .
+<https://n2t.net/ark:/27023/079056c62c56cad3b4ce1273ceea6f50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/079056c62c56cad3b4ce1273ceea6f50> <https://colonialcollections.nl/schema#yearCreatedEnd> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .

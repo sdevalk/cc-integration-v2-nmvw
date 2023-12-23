@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0501231dff4e32c1f79c91d84f06b30c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0501231dff4e32c1f79c91d84f06b30c> <https://colonialcollections.nl/schema#identifier> "TM-3134-4" .
+<https://n2t.net/ark:/27023/0501231dff4e32c1f79c91d84f06b30c> <https://colonialcollections.nl/schema#name> "HOUTEN NAP" .
+<https://n2t.net/ark:/27023/0501231dff4e32c1f79c91d84f06b30c> <https://colonialcollections.nl/schema#description> "Oud-Egyptisch." .
+<https://n2t.net/ark:/27023/0501231dff4e32c1f79c91d84f06b30c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

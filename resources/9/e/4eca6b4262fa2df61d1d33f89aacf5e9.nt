@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/16de3ed7fdd6537f81bf667677d2c6df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/16de3ed7fdd6537f81bf667677d2c6df> <https://colonialcollections.nl/schema#identifier> "TM-401-40a" .
+<https://n2t.net/ark:/27023/16de3ed7fdd6537f81bf667677d2c6df> <https://colonialcollections.nl/schema#name> "KATOENEN KNIEBAND VOOR MANNEN, ALS ONDERDEEL VAN PAAR" .
+<https://n2t.net/ark:/27023/16de3ed7fdd6537f81bf667677d2c6df> <https://colonialcollections.nl/schema#description> "Dit object is verzameld tijdens de Gonini Expeditie van 1903." .
+<https://n2t.net/ark:/27023/16de3ed7fdd6537f81bf667677d2c6df> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/16de3ed7fdd6537f81bf667677d2c6df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

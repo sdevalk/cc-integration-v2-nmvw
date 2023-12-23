@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0d895f665f02b9a5fc03cc6ca7084bbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d895f665f02b9a5fc03cc6ca7084bbf> <https://colonialcollections.nl/schema#identifier> "RV-2452-539" .
+<https://n2t.net/ark:/27023/0d895f665f02b9a5fc03cc6ca7084bbf> <https://colonialcollections.nl/schema#name> "Armband" .
+<https://n2t.net/ark:/27023/0d895f665f02b9a5fc03cc6ca7084bbf> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/0d895f665f02b9a5fc03cc6ca7084bbf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

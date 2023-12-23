@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/06b298c3122d4b161238803252975599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/06b298c3122d4b161238803252975599> <https://colonialcollections.nl/schema#identifier> "TM-4397-46e" .
+<https://n2t.net/ark:/27023/06b298c3122d4b161238803252975599> <https://colonialcollections.nl/schema#name> "HOUTEN BLOKJE, ONDERDEEL VAN PUZZEL" .
+<https://n2t.net/ark:/27023/06b298c3122d4b161238803252975599> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/06b298c3122d4b161238803252975599> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

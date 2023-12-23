@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/04b2a8983b85ce464020fb07c5b508b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/04b2a8983b85ce464020fb07c5b508b4> <https://colonialcollections.nl/schema#identifier> "RV-1375-26" .
+<https://n2t.net/ark:/27023/04b2a8983b85ce464020fb07c5b508b4> <https://colonialcollections.nl/schema#name> "Lontar handschrift" .
+<https://n2t.net/ark:/27023/04b2a8983b85ce464020fb07c5b508b4> <https://colonialcollections.nl/schema#description> "Geschrift op lontarblad: Pâcittiya, fase 13" .
+<https://n2t.net/ark:/27023/04b2a8983b85ce464020fb07c5b508b4> <https://colonialcollections.nl/schema#material> "blad, lontar-" .
+<https://n2t.net/ark:/27023/04b2a8983b85ce464020fb07c5b508b4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

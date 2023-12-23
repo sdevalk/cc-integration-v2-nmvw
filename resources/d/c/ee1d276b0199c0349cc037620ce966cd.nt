@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0eca607c7fc25303b1bf30d874e3b48d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0eca607c7fc25303b1bf30d874e3b48d> <https://colonialcollections.nl/schema#identifier> "TM-4589-12c" .
+<https://n2t.net/ark:/27023/0eca607c7fc25303b1bf30d874e3b48d> <https://colonialcollections.nl/schema#name> "ONDERDEEL WEEFGETOUW" .
+<https://n2t.net/ark:/27023/0eca607c7fc25303b1bf30d874e3b48d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0eca607c7fc25303b1bf30d874e3b48d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

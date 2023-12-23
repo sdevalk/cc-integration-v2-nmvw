@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <https://colonialcollections.nl/schema#identifier> "TM-5350-123" .
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <https://colonialcollections.nl/schema#name> "HULPSTUK VOOR HET VERSTEVIGEN VAN EEN KAPSEL" .
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <https://colonialcollections.nl/schema#description> "Bundel riet, omwikkeld met katoen." .
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <https://colonialcollections.nl/schema#material> "riet ; katoen ; omwinden" .
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/06cc49b368d87b67c873bc70d809b25f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0eb77bfa04bf62e20d358a2f3078e506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0eb77bfa04bf62e20d358a2f3078e506> <https://colonialcollections.nl/schema#identifier> "TM-3425-1" .
+<https://n2t.net/ark:/27023/0eb77bfa04bf62e20d358a2f3078e506> <https://colonialcollections.nl/schema#name> "BOVENSTUK VAN EEN ZWEEP VAN BALATA-HOUT" .
+<https://n2t.net/ark:/27023/0eb77bfa04bf62e20d358a2f3078e506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0eb77bfa04bf62e20d358a2f3078e506> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

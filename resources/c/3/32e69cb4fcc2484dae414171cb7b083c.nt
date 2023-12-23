@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/0c07373d1c133278c8220b7f03340967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0c07373d1c133278c8220b7f03340967> <https://colonialcollections.nl/schema#identifier> "RV-4547-3" .
+<https://n2t.net/ark:/27023/0c07373d1c133278c8220b7f03340967> <https://colonialcollections.nl/schema#name> "Draagmand" .
+<https://n2t.net/ark:/27023/0c07373d1c133278c8220b7f03340967> <https://colonialcollections.nl/schema#material> "rotan ; katoen ; hout" .
+<https://n2t.net/ark:/27023/0c07373d1c133278c8220b7f03340967> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0d744cc1e31903ac2bcce1b52f77730c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0d744cc1e31903ac2bcce1b52f77730c> <https://colonialcollections.nl/schema#identifier> "AM-29-176" .
+<https://n2t.net/ark:/27023/0d744cc1e31903ac2bcce1b52f77730c> <https://colonialcollections.nl/schema#name> "Lepel" .
+<https://n2t.net/ark:/27023/0d744cc1e31903ac2bcce1b52f77730c> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nEenvoudige houten lepel." .
+<https://n2t.net/ark:/27023/0d744cc1e31903ac2bcce1b52f77730c> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/0d744cc1e31903ac2bcce1b52f77730c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

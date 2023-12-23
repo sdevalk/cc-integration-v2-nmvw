@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1594c9a5286d5d1a3f391acb1a77e6d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1594c9a5286d5d1a3f391acb1a77e6d4> <https://colonialcollections.nl/schema#identifier> "RV-2027-363" .
+<https://n2t.net/ark:/27023/1594c9a5286d5d1a3f391acb1a77e6d4> <https://colonialcollections.nl/schema#name> "Pijl met rieten schacht" .
+<https://n2t.net/ark:/27023/1594c9a5286d5d1a3f391acb1a77e6d4> <https://colonialcollections.nl/schema#material> "riet ; hout, palmhout" .
+<https://n2t.net/ark:/27023/1594c9a5286d5d1a3f391acb1a77e6d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

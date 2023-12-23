@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/079f4228522f2b4ae9e6623c62df9275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/079f4228522f2b4ae9e6623c62df9275> <https://colonialcollections.nl/schema#identifier> "WM-15528" .
+<https://n2t.net/ark:/27023/079f4228522f2b4ae9e6623c62df9275> <https://colonialcollections.nl/schema#material> "walvistand" .
+<https://n2t.net/ark:/27023/079f4228522f2b4ae9e6623c62df9275> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

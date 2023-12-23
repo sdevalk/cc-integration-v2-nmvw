@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/04e8ced40a036027cfc58f53d72252ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/04e8ced40a036027cfc58f53d72252ed> <https://colonialcollections.nl/schema#identifier> "AM-29-42" .
+<https://n2t.net/ark:/27023/04e8ced40a036027cfc58f53d72252ed> <https://colonialcollections.nl/schema#name> "Kruk" .
+<https://n2t.net/ark:/27023/04e8ced40a036027cfc58f53d72252ed> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nKruk, gemaakt zonder spijkers maar met houten pennen." .
+<https://n2t.net/ark:/27023/04e8ced40a036027cfc58f53d72252ed> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/04e8ced40a036027cfc58f53d72252ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
