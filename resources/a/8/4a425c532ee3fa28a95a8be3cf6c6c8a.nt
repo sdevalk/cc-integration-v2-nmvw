@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/bcb8e988fd6a513724d8837e1464cc9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bcb8e988fd6a513724d8837e1464cc9c> <https://colonialcollections.nl/schema#identifier> "TM-3290-161" .
+<https://n2t.net/ark:/27023/bcb8e988fd6a513724d8837e1464cc9c> <https://colonialcollections.nl/schema#name> "GESTREEPT MANNENOVERHEMD" .
+<https://n2t.net/ark:/27023/bcb8e988fd6a513724d8837e1464cc9c> <https://colonialcollections.nl/schema#description> "Gestreept mannenoverhemd, gedragen door alle niet in het bos wonende Surinamers." .
+<https://n2t.net/ark:/27023/bcb8e988fd6a513724d8837e1464cc9c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bcb8e988fd6a513724d8837e1464cc9c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

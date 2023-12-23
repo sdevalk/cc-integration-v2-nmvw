@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#identifier> "WM-412934" .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#name> "STRAATBEELD MET WINKELS" .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#description> "genrescene : ambacht\r\nwinkel : bakkerij" .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#material> "karton, papier, albuminedruk" .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#creator> "Zangaki" .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bf276ec9d53d130938a9fde65079c6d0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cd1d28ebef3f1bfb155744640ef4c59d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cd1d28ebef3f1bfb155744640ef4c59d> <https://colonialcollections.nl/schema#identifier> "TM-H-2774" .
+<https://n2t.net/ark:/27023/cd1d28ebef3f1bfb155744640ef4c59d> <https://colonialcollections.nl/schema#name> "HARPOEN MET RIETEN SCHACHT EN HOUTEN PUNT MET ZES WEERHAKEN" .
+<https://n2t.net/ark:/27023/cd1d28ebef3f1bfb155744640ef4c59d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/cd1d28ebef3f1bfb155744640ef4c59d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

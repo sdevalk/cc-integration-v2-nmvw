@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#identifier> "WM-904690" .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#name> "PORTRET VAN GESLUIERDE VROUW" .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#description> "Studioportret van gesluierde vrouw." .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#material> "karton, papier, albuminedruk, witrand om foto" .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#creator> "Moulin, F." .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#creator> "ND Phot" .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c6ad9d9d5c9eebce029f757a5899af2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .

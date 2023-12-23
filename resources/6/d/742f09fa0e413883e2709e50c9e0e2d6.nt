@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cedb44a76c1794cbb9ad063b069e22ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cedb44a76c1794cbb9ad063b069e22ac> <https://colonialcollections.nl/schema#identifier> "RV-360-7213" .
+<https://n2t.net/ark:/27023/cedb44a76c1794cbb9ad063b069e22ac> <https://colonialcollections.nl/schema#name> "Vaartuig (model)" .
+<https://n2t.net/ark:/27023/cedb44a76c1794cbb9ad063b069e22ac> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/cedb44a76c1794cbb9ad063b069e22ac> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

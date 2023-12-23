@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c625caa1ec346613d77a8b9e10c3c887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c625caa1ec346613d77a8b9e10c3c887> <https://colonialcollections.nl/schema#identifier> "TM-3325-27a" .
+<https://n2t.net/ark:/27023/c625caa1ec346613d77a8b9e10c3c887> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAND MET BIJBEHOREND DEKSEL EN GEKLEURDE LINTEN" .
+<https://n2t.net/ark:/27023/c625caa1ec346613d77a8b9e10c3c887> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c625caa1ec346613d77a8b9e10c3c887> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

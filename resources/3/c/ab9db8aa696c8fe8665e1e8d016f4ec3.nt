@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <https://colonialcollections.nl/schema#identifier> "TM-A-8830" .
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <https://colonialcollections.nl/schema#name> "LANDSCHAP" .
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <https://colonialcollections.nl/schema#description> "De schildering zit in een bruin houten lijst met smal verguld randje binnenin." .
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <https://colonialcollections.nl/schema#material> "Verf, papier en parelmoer op glas" .
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/cbfaae5661f704b4aafbdec021c0f705> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

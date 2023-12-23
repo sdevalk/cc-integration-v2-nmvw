@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/c47c503a3ccfdd25d09f178c6ff81f40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c47c503a3ccfdd25d09f178c6ff81f40> <https://colonialcollections.nl/schema#identifier> "TM-5904-1B" .
+<https://n2t.net/ark:/27023/c47c503a3ccfdd25d09f178c6ff81f40> <https://colonialcollections.nl/schema#name> "GEBORDUURD JAK MET KRALEN, ONDERDEEL VAN EEN VROUWENKOSTUUM" .
+<https://n2t.net/ark:/27023/c47c503a3ccfdd25d09f178c6ff81f40> <https://colonialcollections.nl/schema#description> "Door de schenkster in 1976 gekocht in Huanuco." .
+<https://n2t.net/ark:/27023/c47c503a3ccfdd25d09f178c6ff81f40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c47c503a3ccfdd25d09f178c6ff81f40> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c4fa06f42a7aa7fa7777d1fb3d18d385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4fa06f42a7aa7fa7777d1fb3d18d385> <https://colonialcollections.nl/schema#identifier> "TM-3782-200" .
+<https://n2t.net/ark:/27023/c4fa06f42a7aa7fa7777d1fb3d18d385> <https://colonialcollections.nl/schema#name> "IJZEREN GEWEERSLOT" .
+<https://n2t.net/ark:/27023/c4fa06f42a7aa7fa7777d1fb3d18d385> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c4fa06f42a7aa7fa7777d1fb3d18d385> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

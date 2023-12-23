@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bdcf550dfb12a8f792294960b4a35885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bdcf550dfb12a8f792294960b4a35885> <https://colonialcollections.nl/schema#identifier> "TM-789-7" .
+<https://n2t.net/ark:/27023/bdcf550dfb12a8f792294960b4a35885> <https://colonialcollections.nl/schema#name> "GOUDEN HALSSIERAAD MET EEN HARTVORMIG MEDAILLON MET EEN PAREL" .
+<https://n2t.net/ark:/27023/bdcf550dfb12a8f792294960b4a35885> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bdcf550dfb12a8f792294960b4a35885> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#identifier> "RV-1973-67" .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#name> "WATERKRUIK" .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#description> "Kruik met deksel. Behalve als waterkruik ook gebruikt in de ramadan bij het eindigen van de dagelijkse vasten. Hij staat dan voor de plaatsen van de bezoekers van de moskee. Ook wordt er afgekoeld water in gedaan waarin vruchten worden toegevoegd, zodat het water de smaak daarvan aanneemt." .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#material> "Ongeglazuurd aardewerk" .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ce4a61f69bf161b6b40af7f15d9468d0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .

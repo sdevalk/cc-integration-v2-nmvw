@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bec6e88f7ffa8b2a04fe5c90e341c1b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bec6e88f7ffa8b2a04fe5c90e341c1b3> <https://colonialcollections.nl/schema#identifier> "RV-1509-15" .
+<https://n2t.net/ark:/27023/bec6e88f7ffa8b2a04fe5c90e341c1b3> <https://colonialcollections.nl/schema#name> "Gordel" .
+<https://n2t.net/ark:/27023/bec6e88f7ffa8b2a04fe5c90e341c1b3> <https://colonialcollections.nl/schema#description> "gordel in kladinv. een hoofddeksel ?" .
+<https://n2t.net/ark:/27023/bec6e88f7ffa8b2a04fe5c90e341c1b3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

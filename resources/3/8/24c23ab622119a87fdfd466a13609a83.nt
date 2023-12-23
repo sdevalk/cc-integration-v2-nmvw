@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <https://colonialcollections.nl/schema#identifier> "RV-503-273" .
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <https://colonialcollections.nl/schema#name> "OVERJAS, GEDRAGEN DOOR EEN SCHRIJVER" .
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <https://colonialcollections.nl/schema#description> "Een door een schrijver gedragen overjas." .
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <https://colonialcollections.nl/schema#material> "katoen ; zijde" .
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bd1e0e02458fd5fa347900bfb10f7482> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

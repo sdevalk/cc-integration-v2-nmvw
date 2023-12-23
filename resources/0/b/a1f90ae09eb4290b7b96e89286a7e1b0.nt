@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c4f6384dcd8939a19b484a0dcd7d5713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4f6384dcd8939a19b484a0dcd7d5713> <https://colonialcollections.nl/schema#identifier> "WM-317126" .
+<https://n2t.net/ark:/27023/c4f6384dcd8939a19b484a0dcd7d5713> <https://colonialcollections.nl/schema#description> "Ayyubids-2" .
+<https://n2t.net/ark:/27023/c4f6384dcd8939a19b484a0dcd7d5713> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c4f6384dcd8939a19b484a0dcd7d5713> <https://colonialcollections.nl/schema#creator> "Koninklijk Penningkabinet" .

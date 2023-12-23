@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/be597b70992a3a1e45f8189c9811badf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be597b70992a3a1e45f8189c9811badf> <https://colonialcollections.nl/schema#identifier> "WM-59441" .
+<https://n2t.net/ark:/27023/be597b70992a3a1e45f8189c9811badf> <https://colonialcollections.nl/schema#description> "[VO] elke schel 'n lange dierenhuid waarop (met ijzerdraad) drie\r\n        lange ijzeren \"peulen\"waaraan ijzeren ringetjes, zijn \r\n        bevestigd." .
+<https://n2t.net/ark:/27023/be597b70992a3a1e45f8189c9811badf> <https://colonialcollections.nl/schema#material> "huid, ijzer, plantenvezel, staaldraad" .
+<https://n2t.net/ark:/27023/be597b70992a3a1e45f8189c9811badf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

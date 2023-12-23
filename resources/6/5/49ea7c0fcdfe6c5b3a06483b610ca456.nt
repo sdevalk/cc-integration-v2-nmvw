@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/bfa806b20672c2c81ae2fd60c3a43911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bfa806b20672c2c81ae2fd60c3a43911> <https://colonialcollections.nl/schema#identifier> "RV-B76-111" .
+<https://n2t.net/ark:/27023/bfa806b20672c2c81ae2fd60c3a43911> <https://colonialcollections.nl/schema#name> "Medaillon met afbeelding van Trimurti" .
+<https://n2t.net/ark:/27023/bfa806b20672c2c81ae2fd60c3a43911> <https://colonialcollections.nl/schema#description> "Medaillon met afbeelding van Trimurti, in relief." .
+<https://n2t.net/ark:/27023/bfa806b20672c2c81ae2fd60c3a43911> <https://colonialcollections.nl/schema#material> "onbekend ; glas" .
+<https://n2t.net/ark:/27023/bfa806b20672c2c81ae2fd60c3a43911> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

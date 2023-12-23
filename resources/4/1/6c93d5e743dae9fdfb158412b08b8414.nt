@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bf9d00dbfde141c00c74b1f24c9823a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bf9d00dbfde141c00c74b1f24c9823a1> <https://colonialcollections.nl/schema#identifier> "RV-399-4" .
+<https://n2t.net/ark:/27023/bf9d00dbfde141c00c74b1f24c9823a1> <https://colonialcollections.nl/schema#name> "Halssnoer" .
+<https://n2t.net/ark:/27023/bf9d00dbfde141c00c74b1f24c9823a1> <https://colonialcollections.nl/schema#material> "schelpen" .
+<https://n2t.net/ark:/27023/bf9d00dbfde141c00c74b1f24c9823a1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

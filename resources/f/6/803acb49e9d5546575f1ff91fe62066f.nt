@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bd9e71792e61a5f544060f1369c43f7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bd9e71792e61a5f544060f1369c43f7b> <https://colonialcollections.nl/schema#identifier> "WM-302688" .
+<https://n2t.net/ark:/27023/bd9e71792e61a5f544060f1369c43f7b> <https://colonialcollections.nl/schema#description> "Munten der VOC-5" .
+<https://n2t.net/ark:/27023/bd9e71792e61a5f544060f1369c43f7b> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/bd9e71792e61a5f544060f1369c43f7b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

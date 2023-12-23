@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bc329f0ab00b44af49784866ee0ba47d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bc329f0ab00b44af49784866ee0ba47d> <https://colonialcollections.nl/schema#identifier> "RV-2002-13a" .
+<https://n2t.net/ark:/27023/bc329f0ab00b44af49784866ee0ba47d> <https://colonialcollections.nl/schema#name> "Trommelstok" .
+<https://n2t.net/ark:/27023/bc329f0ab00b44af49784866ee0ba47d> <https://colonialcollections.nl/schema#material> "hout ?" .
+<https://n2t.net/ark:/27023/bc329f0ab00b44af49784866ee0ba47d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

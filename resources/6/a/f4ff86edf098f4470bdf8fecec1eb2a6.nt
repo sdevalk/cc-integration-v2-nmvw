@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c3ebf2b8d96ad8d7de92c9fb46ab79da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c3ebf2b8d96ad8d7de92c9fb46ab79da> <https://colonialcollections.nl/schema#identifier> "TM-A-6280" .
+<https://n2t.net/ark:/27023/c3ebf2b8d96ad8d7de92c9fb46ab79da> <https://colonialcollections.nl/schema#name> "HOUTEN DOOS MET BOL DEKSEL" .
+<https://n2t.net/ark:/27023/c3ebf2b8d96ad8d7de92c9fb46ab79da> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c3ebf2b8d96ad8d7de92c9fb46ab79da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

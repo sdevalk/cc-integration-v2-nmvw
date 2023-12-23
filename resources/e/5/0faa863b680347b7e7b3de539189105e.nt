@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bee77849959b1c9b45d49f62f1f08daf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bee77849959b1c9b45d49f62f1f08daf> <https://colonialcollections.nl/schema#identifier> "RV-2668-1644" .
+<https://n2t.net/ark:/27023/bee77849959b1c9b45d49f62f1f08daf> <https://colonialcollections.nl/schema#name> "Mand" .
+<https://n2t.net/ark:/27023/bee77849959b1c9b45d49f62f1f08daf> <https://colonialcollections.nl/schema#material> "vlechtwerk" .
+<https://n2t.net/ark:/27023/bee77849959b1c9b45d49f62f1f08daf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

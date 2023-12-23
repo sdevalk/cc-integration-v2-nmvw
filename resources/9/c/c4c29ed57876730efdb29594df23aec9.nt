@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/c44c5b14f579dd48397cead1b603c14d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c44c5b14f579dd48397cead1b603c14d> <https://colonialcollections.nl/schema#identifier> "WM-28581" .
+<https://n2t.net/ark:/27023/c44c5b14f579dd48397cead1b603c14d> <https://colonialcollections.nl/schema#material> "ivoor" .
+<https://n2t.net/ark:/27023/c44c5b14f579dd48397cead1b603c14d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

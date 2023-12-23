@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b7cf225e0f5ac69ef4754ece574466fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7cf225e0f5ac69ef4754ece574466fa> <https://colonialcollections.nl/schema#identifier> "TM-H-1420" .
+<https://n2t.net/ark:/27023/b7cf225e0f5ac69ef4754ece574466fa> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN SIRIHMANDJE MET DEKSEL EN KATOENEN DRAAGBAND" .
+<https://n2t.net/ark:/27023/b7cf225e0f5ac69ef4754ece574466fa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b7cf225e0f5ac69ef4754ece574466fa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .

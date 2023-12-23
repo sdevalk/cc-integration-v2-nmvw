@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bddf07fe38f120ed667271fd0823beed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bddf07fe38f120ed667271fd0823beed> <https://colonialcollections.nl/schema#identifier> "RV-4470-3" .
+<https://n2t.net/ark:/27023/bddf07fe38f120ed667271fd0823beed> <https://colonialcollections.nl/schema#name> "Halfprodukt van een pijp" .
+<https://n2t.net/ark:/27023/bddf07fe38f120ed667271fd0823beed> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/bddf07fe38f120ed667271fd0823beed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

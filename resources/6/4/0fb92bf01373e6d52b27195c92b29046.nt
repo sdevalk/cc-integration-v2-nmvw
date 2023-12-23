@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/be5d37753fb0372f74f881156d563484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be5d37753fb0372f74f881156d563484> <https://colonialcollections.nl/schema#identifier> "RV-503-2" .
+<https://n2t.net/ark:/27023/be5d37753fb0372f74f881156d563484> <https://colonialcollections.nl/schema#name> "DRAG NET" .
+<https://n2t.net/ark:/27023/be5d37753fb0372f74f881156d563484> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/be5d37753fb0372f74f881156d563484> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

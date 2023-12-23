@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cdbd7c508a028d885e217f44def48ac2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cdbd7c508a028d885e217f44def48ac2> <https://colonialcollections.nl/schema#identifier> "WM-10603" .
+<https://n2t.net/ark:/27023/cdbd7c508a028d885e217f44def48ac2> <https://colonialcollections.nl/schema#description> "[ST] kraal & knoop" .
+<https://n2t.net/ark:/27023/cdbd7c508a028d885e217f44def48ac2> <https://colonialcollections.nl/schema#material> "plantenvezel, pees, glas (?)" .
+<https://n2t.net/ark:/27023/cdbd7c508a028d885e217f44def48ac2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

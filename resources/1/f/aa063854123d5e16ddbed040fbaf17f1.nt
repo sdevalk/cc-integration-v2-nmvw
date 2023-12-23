@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bece3ca68cc1a663a1820fd88c78d95c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bece3ca68cc1a663a1820fd88c78d95c> <https://colonialcollections.nl/schema#identifier> "WM-39256" .
+<https://n2t.net/ark:/27023/bece3ca68cc1a663a1820fd88c78d95c> <https://colonialcollections.nl/schema#description> "[KL] groen & bruin\r\n[ST] voetstuk" .
+<https://n2t.net/ark:/27023/bece3ca68cc1a663a1820fd88c78d95c> <https://colonialcollections.nl/schema#material> "aardewerk, glazuur, hout\r\ngebakken & geglazuurd" .
+<https://n2t.net/ark:/27023/bece3ca68cc1a663a1820fd88c78d95c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c44b37c43b56a91874efd06dabdb6f72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c44b37c43b56a91874efd06dabdb6f72> <https://colonialcollections.nl/schema#identifier> "TM-H-2333" .
+<https://n2t.net/ark:/27023/c44b37c43b56a91874efd06dabdb6f72> <https://colonialcollections.nl/schema#name> "HOUTEN SPATEL IN DE VORM VAN EEN ROEISPAAN" .
+<https://n2t.net/ark:/27023/c44b37c43b56a91874efd06dabdb6f72> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c44b37c43b56a91874efd06dabdb6f72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .

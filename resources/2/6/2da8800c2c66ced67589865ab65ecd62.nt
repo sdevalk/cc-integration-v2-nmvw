@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/c612160e9b5fabaa7eba9549eafe1dca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c612160e9b5fabaa7eba9549eafe1dca> <https://colonialcollections.nl/schema#identifier> "RV-1973-71" .
+<https://n2t.net/ark:/27023/c612160e9b5fabaa7eba9549eafe1dca> <https://colonialcollections.nl/schema#name> "BAKJE" .
+<https://n2t.net/ark:/27023/c612160e9b5fabaa7eba9549eafe1dca> <https://colonialcollections.nl/schema#description> "zie 1973- 71 t/m 71c" .
+<https://n2t.net/ark:/27023/c612160e9b5fabaa7eba9549eafe1dca> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/c612160e9b5fabaa7eba9549eafe1dca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

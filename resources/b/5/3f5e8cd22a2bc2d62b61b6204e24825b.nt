@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cd86db7cfcbad1e1324f9f83b3a1b2b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cd86db7cfcbad1e1324f9f83b3a1b2b1> <https://colonialcollections.nl/schema#identifier> "TM-3317-61" .
+<https://n2t.net/ark:/27023/cd86db7cfcbad1e1324f9f83b3a1b2b1> <https://colonialcollections.nl/schema#name> "HERDERSKNOTS MET ROTAN STEEL EN IJZEREN KOP" .
+<https://n2t.net/ark:/27023/cd86db7cfcbad1e1324f9f83b3a1b2b1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/cd86db7cfcbad1e1324f9f83b3a1b2b1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

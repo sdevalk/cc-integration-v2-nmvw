@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c68a6dd6af87bab9c0b294c33d0dbc33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c68a6dd6af87bab9c0b294c33d0dbc33> <https://colonialcollections.nl/schema#identifier> "WM-11940" .
+<https://n2t.net/ark:/27023/c68a6dd6af87bab9c0b294c33d0dbc33> <https://colonialcollections.nl/schema#description> "[KL] donkerbruin" .
+<https://n2t.net/ark:/27023/c68a6dd6af87bab9c0b294c33d0dbc33> <https://colonialcollections.nl/schema#material> "hout, plantenvezel\r\ngesneden & getwijnd" .
+<https://n2t.net/ark:/27023/c68a6dd6af87bab9c0b294c33d0dbc33> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

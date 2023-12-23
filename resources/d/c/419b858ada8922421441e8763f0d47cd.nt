@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/be133a5be38cb4495525776b7c07ac3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be133a5be38cb4495525776b7c07ac3e> <https://colonialcollections.nl/schema#identifier> "RV-2866-394" .
+<https://n2t.net/ark:/27023/be133a5be38cb4495525776b7c07ac3e> <https://colonialcollections.nl/schema#name> "Speer" .
+<https://n2t.net/ark:/27023/be133a5be38cb4495525776b7c07ac3e> <https://colonialcollections.nl/schema#material> "hout ; dierenhuid" .
+<https://n2t.net/ark:/27023/be133a5be38cb4495525776b7c07ac3e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b7d73c374862c229146b8f30fbc3f142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b7d73c374862c229146b8f30fbc3f142> <https://colonialcollections.nl/schema#identifier> "TM-3903-123" .
+<https://n2t.net/ark:/27023/b7d73c374862c229146b8f30fbc3f142> <https://colonialcollections.nl/schema#name> "KOPEREN ARMBAND MET LANGE DOORNACHTIGE PUNTEN" .
+<https://n2t.net/ark:/27023/b7d73c374862c229146b8f30fbc3f142> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b7d73c374862c229146b8f30fbc3f142> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

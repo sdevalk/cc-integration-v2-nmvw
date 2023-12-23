@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bc54240552c40ab0df3987a65799bd68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bc54240552c40ab0df3987a65799bd68> <https://colonialcollections.nl/schema#identifier> "RV-5436-6" .
+<https://n2t.net/ark:/27023/bc54240552c40ab0df3987a65799bd68> <https://colonialcollections.nl/schema#name> "Drukblok" .
+<https://n2t.net/ark:/27023/bc54240552c40ab0df3987a65799bd68> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/bc54240552c40ab0df3987a65799bd68> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

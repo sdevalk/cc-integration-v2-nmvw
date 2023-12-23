@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/cdb28d2f7139f92cb52004f435d7da45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cdb28d2f7139f92cb52004f435d7da45> <https://colonialcollections.nl/schema#identifier> "TM-H-2399" .
+<https://n2t.net/ark:/27023/cdb28d2f7139f92cb52004f435d7da45> <https://colonialcollections.nl/schema#name> "HALSSNOER VAN SCHELPEN" .
+<https://n2t.net/ark:/27023/cdb28d2f7139f92cb52004f435d7da45> <https://colonialcollections.nl/schema#description> "De uit schelpen gesneden witte ringetjes waarvan dit sieraad gemaakt is worden arewepi genoemd." .
+<https://n2t.net/ark:/27023/cdb28d2f7139f92cb52004f435d7da45> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/cdb28d2f7139f92cb52004f435d7da45> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

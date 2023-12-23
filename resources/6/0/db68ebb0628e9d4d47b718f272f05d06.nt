@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#identifier> "WM-301934" .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#description> "Osmanen-3 Egypte" .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#yearCreatedStart> "1293"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b762dee487f513ba513fab10058cccba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1293"^^<http://www.w3.org/2001/XMLSchema#integer> .

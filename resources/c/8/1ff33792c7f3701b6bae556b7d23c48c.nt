@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ce4a784b896b8378f1a250a5317ed27d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ce4a784b896b8378f1a250a5317ed27d> <https://colonialcollections.nl/schema#identifier> "TM-4113-403" .
+<https://n2t.net/ark:/27023/ce4a784b896b8378f1a250a5317ed27d> <https://colonialcollections.nl/schema#name> "SCHOOLBOEK MET LANDKAARTEN EN FOTO'S VAN THAISE KONINGEN, VERMOEDELIJK EEN GESCHIEDENISBOEK" .
+<https://n2t.net/ark:/27023/ce4a784b896b8378f1a250a5317ed27d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ce4a784b896b8378f1a250a5317ed27d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

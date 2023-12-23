@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ce1fbaf3de3c9bd0ab5dca94a0fd2ac2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ce1fbaf3de3c9bd0ab5dca94a0fd2ac2> <https://colonialcollections.nl/schema#identifier> "RV-B106-79" .
+<https://n2t.net/ark:/27023/ce1fbaf3de3c9bd0ab5dca94a0fd2ac2> <https://colonialcollections.nl/schema#name> "Kleitablet" .
+<https://n2t.net/ark:/27023/ce1fbaf3de3c9bd0ab5dca94a0fd2ac2> <https://colonialcollections.nl/schema#material> "klei" .
+<https://n2t.net/ark:/27023/ce1fbaf3de3c9bd0ab5dca94a0fd2ac2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

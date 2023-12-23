@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c68ee696aa04e49e58b2323d16414d54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c68ee696aa04e49e58b2323d16414d54> <https://colonialcollections.nl/schema#identifier> "TM-A-6430ooo" .
+<https://n2t.net/ark:/27023/c68ee696aa04e49e58b2323d16414d54> <https://colonialcollections.nl/schema#name> "ZILVEREN 10-SENSTUK UIT DE MEYI PERIODE" .
+<https://n2t.net/ark:/27023/c68ee696aa04e49e58b2323d16414d54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c68ee696aa04e49e58b2323d16414d54> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .

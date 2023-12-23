@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#identifier> "WM-940131-19-1" .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#name> "MARKT TE MAISON CARRÉE" .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#description> "reisfotografie & straatbeeld & markt & ezel & paard & persoon (groep) & gebouw" .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cc22f141d23b0112d452e94930c2bda3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

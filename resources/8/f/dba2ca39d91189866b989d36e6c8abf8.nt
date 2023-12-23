@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cd57bc7a1e0f25382c609a779cd0bbc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cd57bc7a1e0f25382c609a779cd0bbc9> <https://colonialcollections.nl/schema#identifier> "TM-2899-47" .
+<https://n2t.net/ark:/27023/cd57bc7a1e0f25382c609a779cd0bbc9> <https://colonialcollections.nl/schema#name> "GOUDKLEURIGE LAKDOOS MET EEN AFBEELDING VAN EEN LANDSCHAP" .
+<https://n2t.net/ark:/27023/cd57bc7a1e0f25382c609a779cd0bbc9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/cd57bc7a1e0f25382c609a779cd0bbc9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

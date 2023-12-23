@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c49a1fb2d11b40122724538223882979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c49a1fb2d11b40122724538223882979> <https://colonialcollections.nl/schema#identifier> "TM-4133-212" .
+<https://n2t.net/ark:/27023/c49a1fb2d11b40122724538223882979> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER UIT EEN SARCOFAAG" .
+<https://n2t.net/ark:/27023/c49a1fb2d11b40122724538223882979> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c49a1fb2d11b40122724538223882979> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

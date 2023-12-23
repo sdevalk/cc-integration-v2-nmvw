@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#identifier> "RV-15134-3-14" .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#description> "De duiven worden gehouden voor de mest en voor de slacht." .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c4f0a7656beddc44adc5a18ba65a0965> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

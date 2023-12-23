@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bc74eb0c9c95c894a74c7ebaca82dafc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bc74eb0c9c95c894a74c7ebaca82dafc> <https://colonialcollections.nl/schema#identifier> "RV-5439-35b" .
+<https://n2t.net/ark:/27023/bc74eb0c9c95c894a74c7ebaca82dafc> <https://colonialcollections.nl/schema#name> "Dienblad" .
+<https://n2t.net/ark:/27023/bc74eb0c9c95c894a74c7ebaca82dafc> <https://colonialcollections.nl/schema#material> "lakwerk" .
+<https://n2t.net/ark:/27023/bc74eb0c9c95c894a74c7ebaca82dafc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

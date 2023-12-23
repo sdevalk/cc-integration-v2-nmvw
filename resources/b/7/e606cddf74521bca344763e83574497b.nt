@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <https://colonialcollections.nl/schema#identifier> "TM-5633-160" .
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <https://colonialcollections.nl/schema#name> "LENDENSCHORT VOOR VROUWEN OF MEISJES" .
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <https://colonialcollections.nl/schema#description> "Het schortje is getwijnd en geknoopt van grashalmen." .
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <https://colonialcollections.nl/schema#material> "gras ; bewerking van plantaardige materialen" .
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c66fae904b3cf70e043ae1a159c96828> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

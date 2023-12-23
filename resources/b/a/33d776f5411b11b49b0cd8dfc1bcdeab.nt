@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c6129c06b3f211e46589b9af83c74ef6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c6129c06b3f211e46589b9af83c74ef6> <https://colonialcollections.nl/schema#identifier> "TM-2658-92" .
+<https://n2t.net/ark:/27023/c6129c06b3f211e46589b9af83c74ef6> <https://colonialcollections.nl/schema#name> "KATOENEN WEEFSEL BESTEMD OM EEN VROUWENROK VAN TE MAKEN, VERSIERD MET SUPPLETOIRE INSLAGEN IN LANCÉ EN GOBELIN-TECHNIEK" .
+<https://n2t.net/ark:/27023/c6129c06b3f211e46589b9af83c74ef6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c6129c06b3f211e46589b9af83c74ef6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/c3abd3c89850bc09a970265b80ac9609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c3abd3c89850bc09a970265b80ac9609> <https://colonialcollections.nl/schema#identifier> "RV-4573-48" .
+<https://n2t.net/ark:/27023/c3abd3c89850bc09a970265b80ac9609> <https://colonialcollections.nl/schema#name> "Reliekhouder" .
+<https://n2t.net/ark:/27023/c3abd3c89850bc09a970265b80ac9609> <https://colonialcollections.nl/schema#description> "Het doosje wordt wel gebruikt om een reliek of amulet te bewaren." .
+<https://n2t.net/ark:/27023/c3abd3c89850bc09a970265b80ac9609> <https://colonialcollections.nl/schema#material> "messing ; katoen" .
+<https://n2t.net/ark:/27023/c3abd3c89850bc09a970265b80ac9609> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

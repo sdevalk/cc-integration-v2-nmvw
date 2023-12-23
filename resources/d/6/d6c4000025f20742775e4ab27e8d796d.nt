@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/c432d3e6855c96b3ff43d0495044cd40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c432d3e6855c96b3ff43d0495044cd40> <https://colonialcollections.nl/schema#identifier> "WM-10701" .
+<https://n2t.net/ark:/27023/c432d3e6855c96b3ff43d0495044cd40> <https://colonialcollections.nl/schema#material> "bamboe, ijzer, hars" .
+<https://n2t.net/ark:/27023/c432d3e6855c96b3ff43d0495044cd40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

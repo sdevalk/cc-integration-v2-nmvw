@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/bfa1f2a05246fe48ec840bcf7792a19e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bfa1f2a05246fe48ec840bcf7792a19e> <https://colonialcollections.nl/schema#identifier> "RV-2120-142" .
+<https://n2t.net/ark:/27023/bfa1f2a05246fe48ec840bcf7792a19e> <https://colonialcollections.nl/schema#name> "OORLOGSPIJL" .
+<https://n2t.net/ark:/27023/bfa1f2a05246fe48ec840bcf7792a19e> <https://colonialcollections.nl/schema#material> "hout (palm) ; rotan ; riet ; kleefstof ; kalk ; bast (orchideestengel) ; bloed (varken)" .
+<https://n2t.net/ark:/27023/bfa1f2a05246fe48ec840bcf7792a19e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bfa1f2a05246fe48ec840bcf7792a19e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

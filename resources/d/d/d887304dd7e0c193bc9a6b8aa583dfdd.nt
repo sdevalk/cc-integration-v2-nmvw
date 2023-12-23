@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c684d3ee9d66cc6f1a2eafdbeb5c2c3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c684d3ee9d66cc6f1a2eafdbeb5c2c3f> <https://colonialcollections.nl/schema#identifier> "TM-4313-12c" .
+<https://n2t.net/ark:/27023/c684d3ee9d66cc6f1a2eafdbeb5c2c3f> <https://colonialcollections.nl/schema#name> "VERTIND ROODKOPEREN KANDELAAR" .
+<https://n2t.net/ark:/27023/c684d3ee9d66cc6f1a2eafdbeb5c2c3f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c684d3ee9d66cc6f1a2eafdbeb5c2c3f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

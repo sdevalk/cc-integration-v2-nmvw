@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/bfa309163883bca6a31e2aba3dd944d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bfa309163883bca6a31e2aba3dd944d6> <https://colonialcollections.nl/schema#identifier> "RV-503-114" .
+<https://n2t.net/ark:/27023/bfa309163883bca6a31e2aba3dd944d6> <https://colonialcollections.nl/schema#name> "SCHOENMAKERSPRIEM" .
+<https://n2t.net/ark:/27023/bfa309163883bca6a31e2aba3dd944d6> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/bfa309163883bca6a31e2aba3dd944d6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bfa309163883bca6a31e2aba3dd944d6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/be1f1cbaa249c076004cfb782b2dae6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/be1f1cbaa249c076004cfb782b2dae6b> <https://colonialcollections.nl/schema#identifier> "WM-49823" .
+<https://n2t.net/ark:/27023/be1f1cbaa249c076004cfb782b2dae6b> <https://colonialcollections.nl/schema#description> "[VO] voorouderhoofd" .
+<https://n2t.net/ark:/27023/be1f1cbaa249c076004cfb782b2dae6b> <https://colonialcollections.nl/schema#material> "hout, kleurstof, lygodium-vezel\r\ngevlochten" .
+<https://n2t.net/ark:/27023/be1f1cbaa249c076004cfb782b2dae6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/bdaf360ed9e008072ecc8a168a5b18b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bdaf360ed9e008072ecc8a168a5b18b0> <https://colonialcollections.nl/schema#identifier> "RV-1233-14" .
+<https://n2t.net/ark:/27023/bdaf360ed9e008072ecc8a168a5b18b0> <https://colonialcollections.nl/schema#name> "Fles voor citroensap" .
+<https://n2t.net/ark:/27023/bdaf360ed9e008072ecc8a168a5b18b0> <https://colonialcollections.nl/schema#description> "Een fles met een stop voor citroensap." .
+<https://n2t.net/ark:/27023/bdaf360ed9e008072ecc8a168a5b18b0> <https://colonialcollections.nl/schema#material> "glas" .
+<https://n2t.net/ark:/27023/bdaf360ed9e008072ecc8a168a5b18b0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

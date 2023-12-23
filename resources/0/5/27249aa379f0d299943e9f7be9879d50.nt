@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bd68e771a67a7322dc3ad7717ce0cbe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bd68e771a67a7322dc3ad7717ce0cbe2> <https://colonialcollections.nl/schema#identifier> "WM-17100" .
+<https://n2t.net/ark:/27023/bd68e771a67a7322dc3ad7717ce0cbe2> <https://colonialcollections.nl/schema#description> "[ST] voet\r\n[VO] cilinder" .
+<https://n2t.net/ark:/27023/bd68e771a67a7322dc3ad7717ce0cbe2> <https://colonialcollections.nl/schema#material> "ivoor (nijlpaardentand), neushoorn\r\ngedraaid, gegroefd" .
+<https://n2t.net/ark:/27023/bd68e771a67a7322dc3ad7717ce0cbe2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

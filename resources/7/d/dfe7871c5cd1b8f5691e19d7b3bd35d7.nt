@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/c558e747a7ce24a146ec9093173c125b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c558e747a7ce24a146ec9093173c125b> <https://colonialcollections.nl/schema#identifier> "WM-3040" .
+<https://n2t.net/ark:/27023/c558e747a7ce24a146ec9093173c125b> <https://colonialcollections.nl/schema#name> "OLIFANTSTAND IN REISVERPAKKING" .
+<https://n2t.net/ark:/27023/c558e747a7ce24a146ec9093173c125b> <https://colonialcollections.nl/schema#material> "ivoor (olifantstand), hout, rotan, palmblad (reisverpakking)" .
+<https://n2t.net/ark:/27023/c558e747a7ce24a146ec9093173c125b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c558e747a7ce24a146ec9093173c125b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
