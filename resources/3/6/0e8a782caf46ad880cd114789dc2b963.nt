@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f87290f5769a9189437003ed79bcee75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f87290f5769a9189437003ed79bcee75> <https://colonialcollections.nl/schema#identifier> "WM-63509" .
+<https://n2t.net/ark:/27023/f87290f5769a9189437003ed79bcee75> <https://colonialcollections.nl/schema#description> "[KL] goud (pailetten) & cantille goud & goud- & zilverdraad &\r\n        zilverkleurig (metaalband);\r\n        zwart & goudgeel & mosgroen & rood;\r\n[PA] driehoek & ster & zigzaglijn & boog." .
+<https://n2t.net/ark:/27023/f87290f5769a9189437003ed79bcee75> <https://colonialcollections.nl/schema#material> "linnen, zijde, katoen\r\nborduurwerk" .
+<https://n2t.net/ark:/27023/f87290f5769a9189437003ed79bcee75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

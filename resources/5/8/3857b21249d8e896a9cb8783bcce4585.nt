@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/56be34a23fda4ee1515b2a312d8bf700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56be34a23fda4ee1515b2a312d8bf700> <https://colonialcollections.nl/schema#identifier> "TM-400-119" .
+<https://n2t.net/ark:/27023/56be34a23fda4ee1515b2a312d8bf700> <https://colonialcollections.nl/schema#name> "BEELDEN UIT HET VOLKSLEVEN" .
+<https://n2t.net/ark:/27023/56be34a23fda4ee1515b2a312d8bf700> <https://colonialcollections.nl/schema#description> "Waterverf op zijde. De aquarellen zitten in een met verguld papieren passe-partout in een geprofileerde zwarte lijst achter glas." .
+<https://n2t.net/ark:/27023/56be34a23fda4ee1515b2a312d8bf700> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/56be34a23fda4ee1515b2a312d8bf700> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

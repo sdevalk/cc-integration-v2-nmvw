@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/55c169ec5a15098f1c4f123457bccd59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/55c169ec5a15098f1c4f123457bccd59> <https://colonialcollections.nl/schema#identifier> "TM-3912-955" .
+<https://n2t.net/ark:/27023/55c169ec5a15098f1c4f123457bccd59> <https://colonialcollections.nl/schema#name> "BED VAN AANEEN GEVLOCHTEN RIETSTENGELS" .
+<https://n2t.net/ark:/27023/55c169ec5a15098f1c4f123457bccd59> <https://colonialcollections.nl/schema#description> "Bij het bed hoort ook een rieten slaapmat, zie daarvoor inventarisnummer 3912-842a t/m c.\r\n\r\nVervaardiging\r\nRietstengels zijn met behulp van plantaardige vezels aan elkaar gevlochten." .
+<https://n2t.net/ark:/27023/55c169ec5a15098f1c4f123457bccd59> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/55c169ec5a15098f1c4f123457bccd59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f58b69f3fb39a2c3e1886dad0c97e4cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f58b69f3fb39a2c3e1886dad0c97e4cb> <https://colonialcollections.nl/schema#identifier> "TM-4133-276" .
+<https://n2t.net/ark:/27023/f58b69f3fb39a2c3e1886dad0c97e4cb> <https://colonialcollections.nl/schema#name> "MINIATUUR MET HET STERRENBEELD KLEINE BEER" .
+<https://n2t.net/ark:/27023/f58b69f3fb39a2c3e1886dad0c97e4cb> <https://colonialcollections.nl/schema#description> "Tweezijdige miniatuur met de Kleine Beer (ursa minor) als teken van de dierenriem, afkomstig uit Kitab suwar al-kawakib al-thabita (Boek met afbeeldingen van de vastgestelde sterren), dat rond 964 werd geschreven door de Perzische auteur Abd al-Rahman al-Sufi. Dit boek combineerde de ideeën van Ptolemaeus over de schijnbare bewegingen van sterren en planeten met de Arabische wetenschap op dit terrein. Het boek beschrijft 48 sterrenbeelden ('vastgestelde sterren')." .
+<https://n2t.net/ark:/27023/f58b69f3fb39a2c3e1886dad0c97e4cb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f58b69f3fb39a2c3e1886dad0c97e4cb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6abf352a01b9eb24b00ab17d2122efd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6abf352a01b9eb24b00ab17d2122efd7> <https://colonialcollections.nl/schema#identifier> "WM-23090" .
+<https://n2t.net/ark:/27023/6abf352a01b9eb24b00ab17d2122efd7> <https://colonialcollections.nl/schema#description> "[DE] geometrische figuren\r\n[ST] bevestiging membraam met spankoord en 8 spieen" .
+<https://n2t.net/ark:/27023/6abf352a01b9eb24b00ab17d2122efd7> <https://colonialcollections.nl/schema#material> "hout, jaguarhuid" .
+<https://n2t.net/ark:/27023/6abf352a01b9eb24b00ab17d2122efd7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

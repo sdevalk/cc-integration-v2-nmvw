@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f8a24c9213df9ee1099b9621798b71c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f8a24c9213df9ee1099b9621798b71c6> <https://colonialcollections.nl/schema#identifier> "TM-3290-137" .
+<https://n2t.net/ark:/27023/f8a24c9213df9ee1099b9621798b71c6> <https://colonialcollections.nl/schema#name> "BREDE BEWERKTE ZILVEREN ARMBAND VOOR HINDOESTAANSE EN CREOOLSE VROUWEN" .
+<https://n2t.net/ark:/27023/f8a24c9213df9ee1099b9621798b71c6> <https://colonialcollections.nl/schema#description> "Het gebruik van deze armbanden, die in het algemeen door inheemse zilversmeden worden gemaakt, is niet tot een bepaalde bevolkingsgroep beperkt; ze komen evenwel het meest voor bij Hindoestanen en Creolen. Vermoedelijk zijn ze van oorsprong Hindoestaans." .
+<https://n2t.net/ark:/27023/f8a24c9213df9ee1099b9621798b71c6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f8a24c9213df9ee1099b9621798b71c6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

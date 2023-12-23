@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f75e30cd7da24c55176549ea5d2dba26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f75e30cd7da24c55176549ea5d2dba26> <https://colonialcollections.nl/schema#identifier> "WM-10233" .
+<https://n2t.net/ark:/27023/f75e30cd7da24c55176549ea5d2dba26> <https://colonialcollections.nl/schema#description> "[VO] schijf (kraal)" .
+<https://n2t.net/ark:/27023/f75e30cd7da24c55176549ea5d2dba26> <https://colonialcollections.nl/schema#material> "schelp, plantenvezel (garen)\r\ngeslepen, geregen" .
+<https://n2t.net/ark:/27023/f75e30cd7da24c55176549ea5d2dba26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

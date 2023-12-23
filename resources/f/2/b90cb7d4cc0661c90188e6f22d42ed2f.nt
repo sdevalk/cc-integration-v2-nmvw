@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/57e32438ba7d4cbd1de3ab3e0a44f959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/57e32438ba7d4cbd1de3ab3e0a44f959> <https://colonialcollections.nl/schema#identifier> "TM-0-654" .
+<https://n2t.net/ark:/27023/57e32438ba7d4cbd1de3ab3e0a44f959> <https://colonialcollections.nl/schema#name> "GEBORDUURD KLEED" .
+<https://n2t.net/ark:/27023/57e32438ba7d4cbd1de3ab3e0a44f959> <https://colonialcollections.nl/schema#description> "Tegengevoerd met jute." .
+<https://n2t.net/ark:/27023/57e32438ba7d4cbd1de3ab3e0a44f959> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/57e32438ba7d4cbd1de3ab3e0a44f959> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

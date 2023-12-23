@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/54e2c69b846b1d58d8c1df6dcf35d158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54e2c69b846b1d58d8c1df6dcf35d158> <https://colonialcollections.nl/schema#identifier> "TM-3912-828" .
+<https://n2t.net/ark:/27023/54e2c69b846b1d58d8c1df6dcf35d158> <https://colonialcollections.nl/schema#name> "LAMP VAN AARDEWERK" .
+<https://n2t.net/ark:/27023/54e2c69b846b1d58d8c1df6dcf35d158> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/54e2c69b846b1d58d8c1df6dcf35d158> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

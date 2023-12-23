@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6914e41cb45bd2b6f372ab737e9a826c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6914e41cb45bd2b6f372ab737e9a826c> <https://colonialcollections.nl/schema#identifier> "TM-3912-650b" .
+<https://n2t.net/ark:/27023/6914e41cb45bd2b6f372ab737e9a826c> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN DEKSEL BEHORENDE BIJ CYLINDERVORMIGE KIPPENMAND" .
+<https://n2t.net/ark:/27023/6914e41cb45bd2b6f372ab737e9a826c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6914e41cb45bd2b6f372ab737e9a826c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

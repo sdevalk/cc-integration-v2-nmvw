@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <https://colonialcollections.nl/schema#identifier> "TM-3912-126" .
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <https://colonialcollections.nl/schema#name> "BRONZEN ARMBAND AAN DE UITEINDEN GEDECOREERD MET TWEE LIJNEN DIE ELKAAR IN EEN PUNT RAKEN" .
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <https://colonialcollections.nl/schema#description> "De inheemse naam 'Zan' betekent 'armband'." .
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <https://colonialcollections.nl/schema#material> "brons ; verlorenwasgietprocedé" .
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f6513a2ebfb97d797980e84269a9277e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

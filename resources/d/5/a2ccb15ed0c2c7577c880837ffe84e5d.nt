@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/693b98db75298a4705ec3a4c43da1f91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/693b98db75298a4705ec3a4c43da1f91> <https://colonialcollections.nl/schema#identifier> "RV-1873-1" .
+<https://n2t.net/ark:/27023/693b98db75298a4705ec3a4c43da1f91> <https://colonialcollections.nl/schema#name> "Koffiekan" .
+<https://n2t.net/ark:/27023/693b98db75298a4705ec3a4c43da1f91> <https://colonialcollections.nl/schema#material> "koper ; tin" .
+<https://n2t.net/ark:/27023/693b98db75298a4705ec3a4c43da1f91> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

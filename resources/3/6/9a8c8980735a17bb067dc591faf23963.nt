@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f57631a15654b95845bc3d49ae273789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f57631a15654b95845bc3d49ae273789> <https://colonialcollections.nl/schema#identifier> "WM-904109" .
+<https://n2t.net/ark:/27023/f57631a15654b95845bc3d49ae273789> <https://colonialcollections.nl/schema#description> "berg" .
+<https://n2t.net/ark:/27023/f57631a15654b95845bc3d49ae273789> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] albuminedruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/f57631a15654b95845bc3d49ae273789> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f57631a15654b95845bc3d49ae273789> <https://colonialcollections.nl/schema#creator> "Geiser, J." .

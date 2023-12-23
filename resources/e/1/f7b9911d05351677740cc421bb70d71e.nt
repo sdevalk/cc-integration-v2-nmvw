@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6983eea2b2b98dc7f0378526c47ce986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6983eea2b2b98dc7f0378526c47ce986> <https://colonialcollections.nl/schema#identifier> "TM-3357-39a" .
+<https://n2t.net/ark:/27023/6983eea2b2b98dc7f0378526c47ce986> <https://colonialcollections.nl/schema#name> "BEWERKTE GOUDKLEURIGE KOPEREN OORHANGER" .
+<https://n2t.net/ark:/27023/6983eea2b2b98dc7f0378526c47ce986> <https://colonialcollections.nl/schema#description> "Verguld koperen moderne oorhanger, bewerkt met fijne motieven, waarvan enkele en reliëf. De hanger dient door de doorboorde oorlel gestoken te worden.\r\n\r\nVervaardiging\r\nFiligraan handwerk. Enkele staten in Mexico zijn bekend om dit filigraanwerk: Yucatan en Chiapas." .
+<https://n2t.net/ark:/27023/6983eea2b2b98dc7f0378526c47ce986> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6983eea2b2b98dc7f0378526c47ce986> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

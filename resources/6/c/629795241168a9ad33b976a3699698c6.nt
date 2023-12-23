@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/000ce6cf1c79dc2b3a4efc791471eeb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/000ce6cf1c79dc2b3a4efc791471eeb3> <https://colonialcollections.nl/schema#identifier> "RV-5565-15a" .
+<https://n2t.net/ark:/27023/000ce6cf1c79dc2b3a4efc791471eeb3> <https://colonialcollections.nl/schema#name> "Kist" .
+<https://n2t.net/ark:/27023/000ce6cf1c79dc2b3a4efc791471eeb3> <https://colonialcollections.nl/schema#material> "hout ; blik" .
+<https://n2t.net/ark:/27023/000ce6cf1c79dc2b3a4efc791471eeb3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/68ebb96e95941ad6edd18707ba74f5b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/68ebb96e95941ad6edd18707ba74f5b4> <https://colonialcollections.nl/schema#identifier> "TM-1772-698" .
+<https://n2t.net/ark:/27023/68ebb96e95941ad6edd18707ba74f5b4> <https://colonialcollections.nl/schema#name> "WAJANGFIGUUR VAN KARBOUWENHUID, DE GODENFIGUUR BATARA GURU VOORSTELLEND" .
+<https://n2t.net/ark:/27023/68ebb96e95941ad6edd18707ba74f5b4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/68ebb96e95941ad6edd18707ba74f5b4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

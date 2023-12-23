@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f88f8c95a85eb1cb09983b14f76aafc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f88f8c95a85eb1cb09983b14f76aafc6> <https://colonialcollections.nl/schema#identifier> "WM-61642" .
+<https://n2t.net/ark:/27023/f88f8c95a85eb1cb09983b14f76aafc6> <https://colonialcollections.nl/schema#description> "[VO] dier : vogel" .
+<https://n2t.net/ark:/27023/f88f8c95a85eb1cb09983b14f76aafc6> <https://colonialcollections.nl/schema#material> "messing" .
+<https://n2t.net/ark:/27023/f88f8c95a85eb1cb09983b14f76aafc6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

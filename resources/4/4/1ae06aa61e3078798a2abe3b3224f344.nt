@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f8584cda0707b482b7391c56fd1bda36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f8584cda0707b482b7391c56fd1bda36> <https://colonialcollections.nl/schema#identifier> "WM-60244" .
+<https://n2t.net/ark:/27023/f8584cda0707b482b7391c56fd1bda36> <https://colonialcollections.nl/schema#description> "inhoud : steenzout (geklopt)" .
+<https://n2t.net/ark:/27023/f8584cda0707b482b7391c56fd1bda36> <https://colonialcollections.nl/schema#material> "riet (zakje)\r\ngevlochten" .
+<https://n2t.net/ark:/27023/f8584cda0707b482b7391c56fd1bda36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

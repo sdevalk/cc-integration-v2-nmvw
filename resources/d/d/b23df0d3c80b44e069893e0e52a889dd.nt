@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <https://colonialcollections.nl/schema#identifier> "RV-503-219" .
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <https://colonialcollections.nl/schema#name> "LEATHER CLOTH (HORSE)" .
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <https://colonialcollections.nl/schema#description> "Gebruikt als rugbedekking voor een paard om het geweer op te laten rusten zodat men het paard niet kan bezeren en men zijn kleding niet vuil hoeft te maken. Herkomst: Perzië of India." .
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <https://colonialcollections.nl/schema#material> "leer ; stof x? ; koper" .
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/693a538cc69466dac397e52029af1a1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#identifier> "RV-15140-2-19" .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#description> "Gesticht in de 12e eeuw. Een Newar-dorp,welke in 1770 werd veroverd door de Gorkha strijders.de Gorkha heerser liet de oren en neus afsnijden van alle mannelijke inwoners, behalve van diegenen, die een blaasinstrument konden bespelen." .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#material> "dia in glasloos kunststof GePe raam" .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/54efffb62711561c7cb7a77888c88459> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .

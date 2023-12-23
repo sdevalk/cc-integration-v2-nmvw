@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6ae01aca5efacf980bcca282f5920f1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6ae01aca5efacf980bcca282f5920f1b> <https://colonialcollections.nl/schema#identifier> "RV-1378-29" .
+<https://n2t.net/ark:/27023/6ae01aca5efacf980bcca282f5920f1b> <https://colonialcollections.nl/schema#name> "Tegel (fragment)" .
+<https://n2t.net/ark:/27023/6ae01aca5efacf980bcca282f5920f1b> <https://colonialcollections.nl/schema#description> "Fragment van een tegel." .
+<https://n2t.net/ark:/27023/6ae01aca5efacf980bcca282f5920f1b> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur" .
+<https://n2t.net/ark:/27023/6ae01aca5efacf980bcca282f5920f1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

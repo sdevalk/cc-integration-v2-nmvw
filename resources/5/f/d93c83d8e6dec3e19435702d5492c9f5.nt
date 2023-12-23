@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/67e65066b5de5ce711a18cd605bdba44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67e65066b5de5ce711a18cd605bdba44> <https://colonialcollections.nl/schema#identifier> "RV-3835-427" .
+<https://n2t.net/ark:/27023/67e65066b5de5ce711a18cd605bdba44> <https://colonialcollections.nl/schema#name> "Armsieraad" .
+<https://n2t.net/ark:/27023/67e65066b5de5ce711a18cd605bdba44> <https://colonialcollections.nl/schema#material> "kalebas ; vezels ; huid" .
+<https://n2t.net/ark:/27023/67e65066b5de5ce711a18cd605bdba44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

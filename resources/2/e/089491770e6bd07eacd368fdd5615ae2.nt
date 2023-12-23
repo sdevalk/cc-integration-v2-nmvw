@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/693b84c906bee67034295790a104cdfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/693b84c906bee67034295790a104cdfb> <https://colonialcollections.nl/schema#identifier> "TM-4107-44" .
+<https://n2t.net/ark:/27023/693b84c906bee67034295790a104cdfb> <https://colonialcollections.nl/schema#name> "IJZEREN SCHAAR" .
+<https://n2t.net/ark:/27023/693b84c906bee67034295790a104cdfb> <https://colonialcollections.nl/schema#description> "Om papier te knippen." .
+<https://n2t.net/ark:/27023/693b84c906bee67034295790a104cdfb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/693b84c906bee67034295790a104cdfb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

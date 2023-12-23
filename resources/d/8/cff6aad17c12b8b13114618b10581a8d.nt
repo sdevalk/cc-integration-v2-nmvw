@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#identifier> "RV-497-31" .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#name> "Kam" .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#description> "Zie ook no. 337-29.\r\n\r\nVolgens inv.kaart en serieboek zouden er 2 stuks zijn, het dubbele exemplaar is geruild op 15 november 1909 met het Stadt-Museum, Frankfurt, zie serie 1723." .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#material> "hout ; bies" .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#yearCreatedStart> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/68d40abd7f9a7fafd91f815f8c111eaa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

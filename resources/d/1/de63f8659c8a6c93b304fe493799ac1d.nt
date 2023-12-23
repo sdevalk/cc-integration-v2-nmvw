@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6a5677aa0b71d6f097062a93b861750f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6a5677aa0b71d6f097062a93b861750f> <https://colonialcollections.nl/schema#identifier> "TM-5473-14c" .
+<https://n2t.net/ark:/27023/6a5677aa0b71d6f097062a93b861750f> <https://colonialcollections.nl/schema#name> "HOUTEN TUSSENSTUK VAN PIJP" .
+<https://n2t.net/ark:/27023/6a5677aa0b71d6f097062a93b861750f> <https://colonialcollections.nl/schema#description> "De pijp is samengesteld uit drie delen en heeft daarmee de vorm van een waterpijp. Misschien bevatte het kalebasgedeelte water om de rook te koelen. De pijp is afkomstig uit Noord-Kenya of Uganda." .
+<https://n2t.net/ark:/27023/6a5677aa0b71d6f097062a93b861750f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6a5677aa0b71d6f097062a93b861750f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .

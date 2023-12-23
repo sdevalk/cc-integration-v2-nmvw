@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/581b300c16dc4a2bfbb536491f147247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/581b300c16dc4a2bfbb536491f147247> <https://colonialcollections.nl/schema#identifier> "TM-2724-18a" .
+<https://n2t.net/ark:/27023/581b300c16dc4a2bfbb536491f147247> <https://colonialcollections.nl/schema#name> "MES MET SCHEDE" .
+<https://n2t.net/ark:/27023/581b300c16dc4a2bfbb536491f147247> <https://colonialcollections.nl/schema#description> "Het heft is vervaardigd uit lichtbruin hout waarop ter versiering lijnen en stippen aan de boven- en onderzijde zijn gebrand. De beide zijkanten zijn in z'n geheel donkerbruin gebrand." .
+<https://n2t.net/ark:/27023/581b300c16dc4a2bfbb536491f147247> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/581b300c16dc4a2bfbb536491f147247> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

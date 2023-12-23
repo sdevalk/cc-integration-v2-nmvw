@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <https://colonialcollections.nl/schema#identifier> "RV-503-169" .
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <https://colonialcollections.nl/schema#name> "BLACK SHOES (SCRIBE'S)" .
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <https://colonialcollections.nl/schema#description> "Gedragen door een schrijver." .
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <https://colonialcollections.nl/schema#material> "leder" .
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/689ec46fbf314191aa7a1dd1365c00c3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

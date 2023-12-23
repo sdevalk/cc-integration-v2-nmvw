@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/57f63427897468397a648ba68a47f983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/57f63427897468397a648ba68a47f983> <https://colonialcollections.nl/schema#identifier> "TM-3317-102" .
+<https://n2t.net/ark:/27023/57f63427897468397a648ba68a47f983> <https://colonialcollections.nl/schema#name> "METALEN SUIKERHAMER" .
+<https://n2t.net/ark:/27023/57f63427897468397a648ba68a47f983> <https://colonialcollections.nl/schema#description> "Suikerhamer van geelkoper met een zilverlaag, ingelegd met stukjes turkoois en bloedkoraal. Op de kop van de hamer is de kop van een hert-achtig dier met gewei aangebracht. De hamer wordt gebruikt om grote stukken suiker klein te hakken." .
+<https://n2t.net/ark:/27023/57f63427897468397a648ba68a47f983> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/57f63427897468397a648ba68a47f983> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

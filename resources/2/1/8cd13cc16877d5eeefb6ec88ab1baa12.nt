@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#identifier> "TM-5969-153" .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#name> "TEKENING VAN EEN JONGEMAN GENAAMD LOFO NGO DOOR PATER P. VERTENTEN" .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#description> "Tekening in inkt en potlood door Pater P. Vertenten. Afgebeeld is het portret en face van een jongeman genaamd Lofo Ngo. Gesigneerd rechtsonder: \"P. Vert. msc Bokuma 15/8/27\"." .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/691f05eb932eef47a445e5ab8700981a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

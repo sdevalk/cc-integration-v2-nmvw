@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6997e02102bf65b55e630185692987f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6997e02102bf65b55e630185692987f4> <https://colonialcollections.nl/schema#identifier> "AM-14-13" .
+<https://n2t.net/ark:/27023/6997e02102bf65b55e630185692987f4> <https://colonialcollections.nl/schema#name> "Korfratelaar" .
+<https://n2t.net/ark:/27023/6997e02102bf65b55e630185692987f4> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nVan pitriet gevlochten, dubbele dansratelaar, met harde vruchten in beide bollen." .
+<https://n2t.net/ark:/27023/6997e02102bf65b55e630185692987f4> <https://colonialcollections.nl/schema#material> "Pitriet; vruchten" .
+<https://n2t.net/ark:/27023/6997e02102bf65b55e630185692987f4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

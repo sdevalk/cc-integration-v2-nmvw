@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/681920d24eef9e05f06549482a6e8461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/681920d24eef9e05f06549482a6e8461> <https://colonialcollections.nl/schema#identifier> "RV-61-27" .
+<https://n2t.net/ark:/27023/681920d24eef9e05f06549482a6e8461> <https://colonialcollections.nl/schema#name> "Hoed" .
+<https://n2t.net/ark:/27023/681920d24eef9e05f06549482a6e8461> <https://colonialcollections.nl/schema#material> "palmblad ; touw" .
+<https://n2t.net/ark:/27023/681920d24eef9e05f06549482a6e8461> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

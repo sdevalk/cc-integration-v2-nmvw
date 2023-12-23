@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f596025a575bca5bb370a2c4adda2935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f596025a575bca5bb370a2c4adda2935> <https://colonialcollections.nl/schema#identifier> "TM-2884-21" .
+<https://n2t.net/ark:/27023/f596025a575bca5bb370a2c4adda2935> <https://colonialcollections.nl/schema#name> "HALSKETTING VAN BLAUW-WITTE KRALEN" .
+<https://n2t.net/ark:/27023/f596025a575bca5bb370a2c4adda2935> <https://colonialcollections.nl/schema#description> "Halssieraad met blauw-witte kraaltjes, die de naam \"conkroeman n'a bangi\" dragen: \"een roddelaar heeft geen bankje\"." .
+<https://n2t.net/ark:/27023/f596025a575bca5bb370a2c4adda2935> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f596025a575bca5bb370a2c4adda2935> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

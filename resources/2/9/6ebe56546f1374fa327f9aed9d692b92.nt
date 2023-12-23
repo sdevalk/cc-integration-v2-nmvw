@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f7aa9f44609583c067fc75d1df7d8f04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f7aa9f44609583c067fc75d1df7d8f04> <https://colonialcollections.nl/schema#identifier> "TM-2309-55" .
+<https://n2t.net/ark:/27023/f7aa9f44609583c067fc75d1df7d8f04> <https://colonialcollections.nl/schema#name> "HOUTEN ZETEL GEDRAGEN DOOR EEN ZITTENDE VROUW" .
+<https://n2t.net/ark:/27023/f7aa9f44609583c067fc75d1df7d8f04> <https://colonialcollections.nl/schema#description> "De vrouw draagt de voor de Luba kenmerkende littekentatoeages en haardracht. Om de hals is een ketting van geregen glaskralen aangebracht." .
+<https://n2t.net/ark:/27023/f7aa9f44609583c067fc75d1df7d8f04> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f7aa9f44609583c067fc75d1df7d8f04> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

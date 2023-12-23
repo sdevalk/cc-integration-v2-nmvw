@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <https://colonialcollections.nl/schema#identifier> "TM-3793-49" .
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <https://colonialcollections.nl/schema#name> "HALSKETTING VAN KRALEN" .
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <https://colonialcollections.nl/schema#description> "Het halssnoer bestaat uit kleine buisvormige en schijfvormige keramische kralen. De halsketting is een imitatie van een mummiekralensnoer." .
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <https://colonialcollections.nl/schema#material> "keramisch ; glas" .
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/54e1c7328b89ccef2239672a4fc1ab03> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

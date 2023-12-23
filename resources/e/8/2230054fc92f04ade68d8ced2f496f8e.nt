@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f646ca0b538bcb852cc31944a13e85fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f646ca0b538bcb852cc31944a13e85fe> <https://colonialcollections.nl/schema#identifier> "TM-3401-278a" .
+<https://n2t.net/ark:/27023/f646ca0b538bcb852cc31944a13e85fe> <https://colonialcollections.nl/schema#name> "ZILVEREN KLOKVORMIGE OORBEL, ONDERDEEL VAN EEN PAAR" .
+<https://n2t.net/ark:/27023/f646ca0b538bcb852cc31944a13e85fe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f646ca0b538bcb852cc31944a13e85fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

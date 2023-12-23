@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/68280a3e5059fe44b471083af4ceb823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/68280a3e5059fe44b471083af4ceb823> <https://colonialcollections.nl/schema#identifier> "TM-4113-526" .
+<https://n2t.net/ark:/27023/68280a3e5059fe44b471083af4ceb823> <https://colonialcollections.nl/schema#name> "KLEDING VAN EEN MONNIK" .
+<https://n2t.net/ark:/27023/68280a3e5059fe44b471083af4ceb823> <https://colonialcollections.nl/schema#description> "Wordt bij wijding ten geschenke gegeven." .
+<https://n2t.net/ark:/27023/68280a3e5059fe44b471083af4ceb823> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/68280a3e5059fe44b471083af4ceb823> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

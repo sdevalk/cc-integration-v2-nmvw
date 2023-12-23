@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#identifier> "WM-940131-17-2" .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#name> "MARKT TE TIPAZA OP ZONDAG" .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#description> "reisfotografie & straatbeeld & markt & koopman & persoon (groep) & tent" .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6adf16d287507d2b9b09b1474f0f32a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

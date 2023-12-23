@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6f8cd02123157cbcf3d08c4dde8961f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f8cd02123157cbcf3d08c4dde8961f7> <https://colonialcollections.nl/schema#identifier> "AM-115-2" .
+<https://n2t.net/ark:/27023/6f8cd02123157cbcf3d08c4dde8961f7> <https://colonialcollections.nl/schema#name> "Gifhoorn" .
+<https://n2t.net/ark:/27023/6f8cd02123157cbcf3d08c4dde8961f7> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHoorn met aan het uiteinde een verdikking waarin een stukje been en kaurieschelpen zijn aangebracht. Aan beide zijden van de verdikking bevinden zich metalen banden." .
+<https://n2t.net/ark:/27023/6f8cd02123157cbcf3d08c4dde8961f7> <https://colonialcollections.nl/schema#material> "Been; kaurischelpen" .
+<https://n2t.net/ark:/27023/6f8cd02123157cbcf3d08c4dde8961f7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

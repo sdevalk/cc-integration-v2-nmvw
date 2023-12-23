@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6f8fadb13a21b82dff94764cb03432cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6f8fadb13a21b82dff94764cb03432cb> <https://colonialcollections.nl/schema#identifier> "WM-61168" .
+<https://n2t.net/ark:/27023/6f8fadb13a21b82dff94764cb03432cb> <https://colonialcollections.nl/schema#description> "Van een kooktent." .
+<https://n2t.net/ark:/27023/6f8fadb13a21b82dff94764cb03432cb> <https://colonialcollections.nl/schema#material> "geitenhaar" .
+<https://n2t.net/ark:/27023/6f8fadb13a21b82dff94764cb03432cb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/56225f3974226f1b21ba6bc07b6a932c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56225f3974226f1b21ba6bc07b6a932c> <https://colonialcollections.nl/schema#identifier> "WM-302738" .
+<https://n2t.net/ark:/27023/56225f3974226f1b21ba6bc07b6a932c> <https://colonialcollections.nl/schema#description> "VOC+ NedIndië" .
+<https://n2t.net/ark:/27023/56225f3974226f1b21ba6bc07b6a932c> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/56225f3974226f1b21ba6bc07b6a932c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

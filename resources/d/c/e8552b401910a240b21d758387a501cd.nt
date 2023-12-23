@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/67dcfb1e9bca73d01577a58db081b24d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67dcfb1e9bca73d01577a58db081b24d> <https://colonialcollections.nl/schema#identifier> "RV-733-12" .
+<https://n2t.net/ark:/27023/67dcfb1e9bca73d01577a58db081b24d> <https://colonialcollections.nl/schema#name> "Pijpenkop" .
+<https://n2t.net/ark:/27023/67dcfb1e9bca73d01577a58db081b24d> <https://colonialcollections.nl/schema#description> "Lijst Sanders:  aarden pijpekop van de Bateke." .
+<https://n2t.net/ark:/27023/67dcfb1e9bca73d01577a58db081b24d> <https://colonialcollections.nl/schema#material> "steen" .
+<https://n2t.net/ark:/27023/67dcfb1e9bca73d01577a58db081b24d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

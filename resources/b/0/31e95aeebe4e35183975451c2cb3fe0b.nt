@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/69fd9095587dc8c70279ee9e3c392d41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/69fd9095587dc8c70279ee9e3c392d41> <https://colonialcollections.nl/schema#identifier> "TM-H-588" .
+<https://n2t.net/ark:/27023/69fd9095587dc8c70279ee9e3c392d41> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN VISMAND" .
+<https://n2t.net/ark:/27023/69fd9095587dc8c70279ee9e3c392d41> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/69fd9095587dc8c70279ee9e3c392d41> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f80b51420f07a2b7f87a8539449c83c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f80b51420f07a2b7f87a8539449c83c2> <https://colonialcollections.nl/schema#identifier> "RV-IB2013-44-1" .
+<https://n2t.net/ark:/27023/f80b51420f07a2b7f87a8539449c83c2> <https://colonialcollections.nl/schema#name> "KLOK IN VORM VAN BOEK" .
+<https://n2t.net/ark:/27023/f80b51420f07a2b7f87a8539449c83c2> <https://colonialcollections.nl/schema#description> "vorm van een boek" .
+<https://n2t.net/ark:/27023/f80b51420f07a2b7f87a8539449c83c2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

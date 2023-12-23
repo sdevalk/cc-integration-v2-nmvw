@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/697ef8b22b8dc0d0569adb89dc5b1040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/697ef8b22b8dc0d0569adb89dc5b1040> <https://colonialcollections.nl/schema#identifier> "RV-5777-128I" .
+<https://n2t.net/ark:/27023/697ef8b22b8dc0d0569adb89dc5b1040> <https://colonialcollections.nl/schema#name> "Verfbak" .
+<https://n2t.net/ark:/27023/697ef8b22b8dc0d0569adb89dc5b1040> <https://colonialcollections.nl/schema#material> "kokosnoot" .
+<https://n2t.net/ark:/27023/697ef8b22b8dc0d0569adb89dc5b1040> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

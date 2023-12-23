@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/54d85ae3edbcfec9daa4832ffb02365a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/54d85ae3edbcfec9daa4832ffb02365a> <https://colonialcollections.nl/schema#identifier> "TM-3290-24" .
+<https://n2t.net/ark:/27023/54d85ae3edbcfec9daa4832ffb02365a> <https://colonialcollections.nl/schema#name> "SLEEVORMIGE GEVLOCHTEN MANNENDRAAGMAND BESTEMD VOOR DE JACHTBUIT" .
+<https://n2t.net/ark:/27023/54d85ae3edbcfec9daa4832ffb02365a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/54d85ae3edbcfec9daa4832ffb02365a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/56db2501de4e5a99ce052d11a30d55d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/56db2501de4e5a99ce052d11a30d55d2> <https://colonialcollections.nl/schema#identifier> "WM-73877" .
+<https://n2t.net/ark:/27023/56db2501de4e5a99ce052d11a30d55d2> <https://colonialcollections.nl/schema#description> "[ST] 1 = bovenstuk  2 = voet\r\n[VO] concaaf trechter op peervorm & concaaf konische voet" .
+<https://n2t.net/ark:/27023/56db2501de4e5a99ce052d11a30d55d2> <https://colonialcollections.nl/schema#material> "metaal\r\nanjourbewerkt & geciseleerd (?)" .
+<https://n2t.net/ark:/27023/56db2501de4e5a99ce052d11a30d55d2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

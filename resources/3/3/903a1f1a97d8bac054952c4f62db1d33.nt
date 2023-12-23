@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/680c9d8242eebe540c0c08f37f400839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/680c9d8242eebe540c0c08f37f400839> <https://colonialcollections.nl/schema#identifier> "RV-4418-1" .
+<https://n2t.net/ark:/27023/680c9d8242eebe540c0c08f37f400839> <https://colonialcollections.nl/schema#name> "Reukfles" .
+<https://n2t.net/ark:/27023/680c9d8242eebe540c0c08f37f400839> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/680c9d8242eebe540c0c08f37f400839> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

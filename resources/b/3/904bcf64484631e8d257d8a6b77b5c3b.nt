@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f609049d2e602629ed6efa871cb9f873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f609049d2e602629ed6efa871cb9f873> <https://colonialcollections.nl/schema#identifier> "TM-4714-53j" .
+<https://n2t.net/ark:/27023/f609049d2e602629ed6efa871cb9f873> <https://colonialcollections.nl/schema#name> "ONDERDEEL VAN EEN HANDSCHRIFT, MET BIJBEHORENDE BOEKDEKSELS" .
+<https://n2t.net/ark:/27023/f609049d2e602629ed6efa871cb9f873> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f609049d2e602629ed6efa871cb9f873> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

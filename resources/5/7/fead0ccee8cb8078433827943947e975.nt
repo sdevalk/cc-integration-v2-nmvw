@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/550fba305819e94d2144d5f65647363c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/550fba305819e94d2144d5f65647363c> <https://colonialcollections.nl/schema#identifier> "TM-5388-14b" .
+<https://n2t.net/ark:/27023/550fba305819e94d2144d5f65647363c> <https://colonialcollections.nl/schema#name> "REEP KATOEN VOOR HET MAKEN VAN EEN MODDERDOEK" .
+<https://n2t.net/ark:/27023/550fba305819e94d2144d5f65647363c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/550fba305819e94d2144d5f65647363c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
