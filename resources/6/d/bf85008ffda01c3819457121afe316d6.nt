@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/66008f3d3b7daf2b99b5100fccfe15da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66008f3d3b7daf2b99b5100fccfe15da> <https://colonialcollections.nl/schema#identifier> "TM-A-9546" .
+<https://n2t.net/ark:/27023/66008f3d3b7daf2b99b5100fccfe15da> <https://colonialcollections.nl/schema#name> "KATOENEN OVERJAS VOOR MANNEN" .
+<https://n2t.net/ark:/27023/66008f3d3b7daf2b99b5100fccfe15da> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/66008f3d3b7daf2b99b5100fccfe15da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

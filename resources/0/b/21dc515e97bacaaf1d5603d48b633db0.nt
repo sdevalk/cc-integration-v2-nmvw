@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5c4796a295f10d9ff0a24bf5483ff615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c4796a295f10d9ff0a24bf5483ff615> <https://colonialcollections.nl/schema#identifier> "TM-3782-225a" .
+<https://n2t.net/ark:/27023/5c4796a295f10d9ff0a24bf5483ff615> <https://colonialcollections.nl/schema#name> "HOUTEN VERFBAK GEBRUIKT DOOR DE MOZAÏEKMAKER" .
+<https://n2t.net/ark:/27023/5c4796a295f10d9ff0a24bf5483ff615> <https://colonialcollections.nl/schema#description> "Verfbak waarmee, met behulp van bamboe stokje, tekeningen worden gemaakt op geglazuurde tegels, waarlangs deze worden uitgebeiteld voor het maken van mozaïekstukken." .
+<https://n2t.net/ark:/27023/5c4796a295f10d9ff0a24bf5483ff615> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5c4796a295f10d9ff0a24bf5483ff615> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

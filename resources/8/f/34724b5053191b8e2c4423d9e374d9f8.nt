@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e59b124adaf2b82be4a1738ca3480a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e59b124adaf2b82be4a1738ca3480a7e> <https://colonialcollections.nl/schema#identifier> "RV-1239-335b2" .
+<https://n2t.net/ark:/27023/e59b124adaf2b82be4a1738ca3480a7e> <https://colonialcollections.nl/schema#name> "Schotel" .
+<https://n2t.net/ark:/27023/e59b124adaf2b82be4a1738ca3480a7e> <https://colonialcollections.nl/schema#material> "porselein" .
+<https://n2t.net/ark:/27023/e59b124adaf2b82be4a1738ca3480a7e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5e52528c5e8d66e6a5a1df8d1ad90bb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5e52528c5e8d66e6a5a1df8d1ad90bb6> <https://colonialcollections.nl/schema#identifier> "TM-A-6364b" .
+<https://n2t.net/ark:/27023/5e52528c5e8d66e6a5a1df8d1ad90bb6> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN GEVLOCHTEN CASSAVEZEEF" .
+<https://n2t.net/ark:/27023/5e52528c5e8d66e6a5a1df8d1ad90bb6> <https://colonialcollections.nl/schema#description> "De zeef is gevlochten van repen warimbo" .
+<https://n2t.net/ark:/27023/5e52528c5e8d66e6a5a1df8d1ad90bb6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5e52528c5e8d66e6a5a1df8d1ad90bb6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

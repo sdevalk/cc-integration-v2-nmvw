@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/66ec2d5fef8da33534bb5f103c26fc57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66ec2d5fef8da33534bb5f103c26fc57> <https://colonialcollections.nl/schema#identifier> "TM-A-6032e" .
+<https://n2t.net/ark:/27023/66ec2d5fef8da33534bb5f103c26fc57> <https://colonialcollections.nl/schema#name> "DRINKNAP VAN KALEBAS" .
+<https://n2t.net/ark:/27023/66ec2d5fef8da33534bb5f103c26fc57> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/66ec2d5fef8da33534bb5f103c26fc57> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/67ab36cd91238b52d9d4cbc97ac3b338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67ab36cd91238b52d9d4cbc97ac3b338> <https://colonialcollections.nl/schema#identifier> "IB2015-40-F-1982-12.9" .
+<https://n2t.net/ark:/27023/67ab36cd91238b52d9d4cbc97ac3b338> <https://colonialcollections.nl/schema#name> "MUMMIE: VALK" .
+<https://n2t.net/ark:/27023/67ab36cd91238b52d9d4cbc97ac3b338> <https://colonialcollections.nl/schema#material> "linnen ; hars ; mummie" .
+<https://n2t.net/ark:/27023/67ab36cd91238b52d9d4cbc97ac3b338> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/67ab36cd91238b52d9d4cbc97ac3b338> <https://colonialcollections.nl/schema#yearCreatedEnd> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6775bea781ec23c88ca3e54e9e859f19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6775bea781ec23c88ca3e54e9e859f19> <https://colonialcollections.nl/schema#identifier> "RV-1217-8" .
+<https://n2t.net/ark:/27023/6775bea781ec23c88ca3e54e9e859f19> <https://colonialcollections.nl/schema#name> "Oorhanger" .
+<https://n2t.net/ark:/27023/6775bea781ec23c88ca3e54e9e859f19> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/6775bea781ec23c88ca3e54e9e859f19> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

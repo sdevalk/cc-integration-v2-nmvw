@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <https://colonialcollections.nl/schema#identifier> "TM-3782-788" .
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <https://colonialcollections.nl/schema#name> "KOPEREN KETEL VOOR HET KOKEN VAN HET WATER VOOR DE THEE" .
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <https://colonialcollections.nl/schema#description> "De ketel wordt door de \"Blauwe mannen\" (Touaregs) gebruikt, maar niet door hen vervaardigd." .
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <https://colonialcollections.nl/schema#material> "koper ; messing" .
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/67b75d10be865a721933d541f176af43> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

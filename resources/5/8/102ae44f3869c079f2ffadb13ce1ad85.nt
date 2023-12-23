@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <https://colonialcollections.nl/schema#identifier> "AM-336-2" .
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <https://colonialcollections.nl/schema#name> "AMULET, GEBRUIKT BIJ EEN BEGRAFENIS" .
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <https://colonialcollections.nl/schema#description> "Het begrip Muntu zou mens, man, kop betekenen. Waarschijnlijk symboliseert dit voorwerp het hoofd van de vader die dood is. Gebruikt bij begrafenis.\r\n\r\nBeschrijving\r\nDonkergekleurd ivoren antropomorfe figuur met een relatief groot hoofd, brede neus en mond, ogen in hoog-reliëf aangebracht. De romp is helemaal glad en langwerpig, met aanduiding van armen die geheel tegen de romp aanliggen. De romp loopt uit in een kort cylindervormig onderstuk. De benen ontbreken." .
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <https://colonialcollections.nl/schema#material> "Ivoor ; snijden" .
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/63ed91e1251a83da94183328bff8125b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

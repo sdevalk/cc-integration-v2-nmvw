@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5f82df5c733d80e0bbeb69ed5a922e67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5f82df5c733d80e0bbeb69ed5a922e67> <https://colonialcollections.nl/schema#identifier> "RV-PROBLEEM594" .
+<https://n2t.net/ark:/27023/5f82df5c733d80e0bbeb69ed5a922e67> <https://colonialcollections.nl/schema#description> "1 map met stuk papier met daarop afbeeldingen van spreekwoorden en gezegdes. Op de map geschreven: \"Pakpier met afbeeldingen van spreekwoorden en gezegdes\", \"Voorzichtig!\" \"Zeldzaam!\" en \"Cabinda? R[ogier]\".\r\n\r\n1 map met aquarellen en tekeningen in passepartouts. Op de map geschreven: \"Aquarellen en tekeningen van professor Wout Goddijn, Genetica\" en \"Zd. Afrika? R[ogier]\"." .
+<https://n2t.net/ark:/27023/5f82df5c733d80e0bbeb69ed5a922e67> <https://colonialcollections.nl/schema#material> "papier ; karton" .
+<https://n2t.net/ark:/27023/5f82df5c733d80e0bbeb69ed5a922e67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5f82df5c733d80e0bbeb69ed5a922e67> <https://colonialcollections.nl/schema#creator> "prof. W.A. (Wouter Adriaan) Goddijn" .

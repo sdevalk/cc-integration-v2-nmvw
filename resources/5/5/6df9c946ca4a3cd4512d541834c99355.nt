@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e5e503a393c91f20ddb3629e1729e44c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5e503a393c91f20ddb3629e1729e44c> <https://colonialcollections.nl/schema#identifier> "RV-1042-12" .
+<https://n2t.net/ark:/27023/e5e503a393c91f20ddb3629e1729e44c> <https://colonialcollections.nl/schema#name> "BEWERKTE LEREN DOOS MET DAARIN DRIE PORSELEINEN KOPJES" .
+<https://n2t.net/ark:/27023/e5e503a393c91f20ddb3629e1729e44c> <https://colonialcollections.nl/schema#material> "Leer ; goud ;  porselein" .
+<https://n2t.net/ark:/27023/e5e503a393c91f20ddb3629e1729e44c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e5e503a393c91f20ddb3629e1729e44c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5ca0582e0a496253dfea69d717bcb79d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5ca0582e0a496253dfea69d717bcb79d> <https://colonialcollections.nl/schema#identifier> "WM-64115" .
+<https://n2t.net/ark:/27023/5ca0582e0a496253dfea69d717bcb79d> <https://colonialcollections.nl/schema#description> "Voor het afwerken van het bronzen beeldje." .
+<https://n2t.net/ark:/27023/5ca0582e0a496253dfea69d717bcb79d> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/5ca0582e0a496253dfea69d717bcb79d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

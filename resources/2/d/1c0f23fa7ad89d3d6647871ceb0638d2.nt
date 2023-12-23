@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5f7726f3db16916d6ca6df0a6915f466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5f7726f3db16916d6ca6df0a6915f466> <https://colonialcollections.nl/schema#identifier> "TM-3782-719c" .
+<https://n2t.net/ark:/27023/5f7726f3db16916d6ca6df0a6915f466> <https://colonialcollections.nl/schema#name> "WOLLEN FOEDRAAL, BEHOREND BIJ DUBBELRIET VAN HOUT" .
+<https://n2t.net/ark:/27023/5f7726f3db16916d6ca6df0a6915f466> <https://colonialcollections.nl/schema#description> "Foedraal voor dubbelriet (schalmei). Gemaakt van aan elkaar genaaide wollen en katoenen lapjes met stukjes band, veelkleurig, gevoerd met ongeverfde katoen." .
+<https://n2t.net/ark:/27023/5f7726f3db16916d6ca6df0a6915f466> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5f7726f3db16916d6ca6df0a6915f466> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

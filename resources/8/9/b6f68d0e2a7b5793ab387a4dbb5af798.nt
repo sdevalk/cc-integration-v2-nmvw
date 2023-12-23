@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5d05b8dd244b6d12fbe563576519ca96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5d05b8dd244b6d12fbe563576519ca96> <https://colonialcollections.nl/schema#identifier> "TM-3782-4" .
+<https://n2t.net/ark:/27023/5d05b8dd244b6d12fbe563576519ca96> <https://colonialcollections.nl/schema#name> "AAMBEELD VAN DE ALGEMENE IJZERSMID" .
+<https://n2t.net/ark:/27023/5d05b8dd244b6d12fbe563576519ca96> <https://colonialcollections.nl/schema#description> "Dit is van een algemene smid die werktuigen en ander gebruiksijzerwerk maakt." .
+<https://n2t.net/ark:/27023/5d05b8dd244b6d12fbe563576519ca96> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5d05b8dd244b6d12fbe563576519ca96> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/65717f9af588ba20760dd8eb434b133f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65717f9af588ba20760dd8eb434b133f> <https://colonialcollections.nl/schema#identifier> "RV-5006-16" .
+<https://n2t.net/ark:/27023/65717f9af588ba20760dd8eb434b133f> <https://colonialcollections.nl/schema#name> "Asbak" .
+<https://n2t.net/ark:/27023/65717f9af588ba20760dd8eb434b133f> <https://colonialcollections.nl/schema#material> "bauxiet" .
+<https://n2t.net/ark:/27023/65717f9af588ba20760dd8eb434b133f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

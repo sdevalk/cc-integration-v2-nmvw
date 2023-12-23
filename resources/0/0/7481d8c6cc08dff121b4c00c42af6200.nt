@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e6035dbcacad9709314d792647724502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6035dbcacad9709314d792647724502> <https://colonialcollections.nl/schema#identifier> "TM-3290-89" .
+<https://n2t.net/ark:/27023/e6035dbcacad9709314d792647724502> <https://colonialcollections.nl/schema#name> "BLIKKEN SPAARPOT" .
+<https://n2t.net/ark:/27023/e6035dbcacad9709314d792647724502> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e6035dbcacad9709314d792647724502> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

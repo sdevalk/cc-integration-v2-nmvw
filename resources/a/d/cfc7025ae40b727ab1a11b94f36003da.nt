@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5f049ced106ba93f6e983ac19b83a2bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5f049ced106ba93f6e983ac19b83a2bc> <https://colonialcollections.nl/schema#identifier> "TM-3981-20f" .
+<https://n2t.net/ark:/27023/5f049ced106ba93f6e983ac19b83a2bc> <https://colonialcollections.nl/schema#name> "TERRACOTTA KOM, ONDERDEEL VAN POTTENBAKKERSGEREEDSCHAP" .
+<https://n2t.net/ark:/27023/5f049ced106ba93f6e983ac19b83a2bc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5f049ced106ba93f6e983ac19b83a2bc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

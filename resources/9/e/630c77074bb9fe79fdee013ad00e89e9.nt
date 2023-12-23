@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/65ffaf9a4afec1a7c68ff6bd82056564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65ffaf9a4afec1a7c68ff6bd82056564> <https://colonialcollections.nl/schema#identifier> "RV-5217-4" .
+<https://n2t.net/ark:/27023/65ffaf9a4afec1a7c68ff6bd82056564> <https://colonialcollections.nl/schema#name> "Sieraad" .
+<https://n2t.net/ark:/27023/65ffaf9a4afec1a7c68ff6bd82056564> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/65ffaf9a4afec1a7c68ff6bd82056564> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

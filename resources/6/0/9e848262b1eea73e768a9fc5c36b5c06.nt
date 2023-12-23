@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e5d1dc23c6888fb29c07d8ccb2330a14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5d1dc23c6888fb29c07d8ccb2330a14> <https://colonialcollections.nl/schema#identifier> "WM-900817" .
+<https://n2t.net/ark:/27023/e5d1dc23c6888fb29c07d8ccb2330a14> <https://colonialcollections.nl/schema#description> "markt" .
+<https://n2t.net/ark:/27023/e5d1dc23c6888fb29c07d8ccb2330a14> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/e5d1dc23c6888fb29c07d8ccb2330a14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e5d1dc23c6888fb29c07d8ccb2330a14> <https://colonialcollections.nl/schema#creator> "H. Haan-Fischer" .

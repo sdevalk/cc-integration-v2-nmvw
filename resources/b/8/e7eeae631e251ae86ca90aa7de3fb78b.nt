@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <https://colonialcollections.nl/schema#identifier> "TM-4991-226" .
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <https://colonialcollections.nl/schema#name> "LAP VAN KUNSTVEZEL OM KLEDING VAN TE MAKEN" .
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <https://colonialcollections.nl/schema#description> "In goud staat op de doek: 'Kingtex, Karishma, Shamuze deluxe back satin, screen printed chameuse palace'. Dit betekent dat de patronen zijn aangebracht door middel van screenen, een zeefdruktechniek." .
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <https://colonialcollections.nl/schema#material> "kunstvezel ; weven ; drukken ; machinaal vervaardigen" .
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/653cbe223f97d84b6f7bca4be35c17a6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

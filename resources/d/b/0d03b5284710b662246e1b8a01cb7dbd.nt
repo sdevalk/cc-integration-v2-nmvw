@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5d288c655abc5df1215b76df821c9c25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5d288c655abc5df1215b76df821c9c25> <https://colonialcollections.nl/schema#identifier> "TM-6308-8" .
+<https://n2t.net/ark:/27023/5d288c655abc5df1215b76df821c9c25> <https://colonialcollections.nl/schema#name> "KATOENEN HOOFDDOEK MET OPDRUK OVER DE YWCA, 25 JAAR IN SURINAME" .
+<https://n2t.net/ark:/27023/5d288c655abc5df1215b76df821c9c25> <https://colonialcollections.nl/schema#description> "YWCA, Young Women's Christian Association, bestond ten tijde van deze herinneringsdoek 25 jaar in Suriname." .
+<https://n2t.net/ark:/27023/5d288c655abc5df1215b76df821c9c25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5d288c655abc5df1215b76df821c9c25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

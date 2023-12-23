@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e561dbf153dec6d89c4267f1a57ba8fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e561dbf153dec6d89c4267f1a57ba8fd> <https://colonialcollections.nl/schema#identifier> "RV-288-2" .
+<https://n2t.net/ark:/27023/e561dbf153dec6d89c4267f1a57ba8fd> <https://colonialcollections.nl/schema#name> "Pijp" .
+<https://n2t.net/ark:/27023/e561dbf153dec6d89c4267f1a57ba8fd> <https://colonialcollections.nl/schema#material> "hout ; barnsteen ; aardewerk ; email ; messing" .
+<https://n2t.net/ark:/27023/e561dbf153dec6d89c4267f1a57ba8fd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

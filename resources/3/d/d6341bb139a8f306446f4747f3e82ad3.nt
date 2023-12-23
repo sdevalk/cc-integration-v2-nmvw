@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c87608426f615e3daa0c35025d0f31c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c87608426f615e3daa0c35025d0f31c6> <https://colonialcollections.nl/schema#identifier> "RV-1889-248" .
+<https://n2t.net/ark:/27023/c87608426f615e3daa0c35025d0f31c6> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://n2t.net/ark:/27023/c87608426f615e3daa0c35025d0f31c6> <https://colonialcollections.nl/schema#material> "boomvaren" .
+<https://n2t.net/ark:/27023/c87608426f615e3daa0c35025d0f31c6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c86f18462e06ef052ca6c8e0c2c09fa6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c86f18462e06ef052ca6c8e0c2c09fa6> <https://colonialcollections.nl/schema#identifier> "WM-68003" .
+<https://n2t.net/ark:/27023/c86f18462e06ef052ca6c8e0c2c09fa6> <https://colonialcollections.nl/schema#material> "wol, linnen" .
+<https://n2t.net/ark:/27023/c86f18462e06ef052ca6c8e0c2c09fa6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c86f18462e06ef052ca6c8e0c2c09fa6> <https://colonialcollections.nl/schema#inscription> "[B] Inscripties." .

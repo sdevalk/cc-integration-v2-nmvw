@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#identifier> "WM-CIC-1994-1" .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#description> "[KL] kalligrafie : groen & bruin (ondergrond) & blauw & donkerblauw & rose & oranje & geel & zwart & kaki & rood & lijst : bruin & goud\r\n[AF] kalligrafie : losse letters" .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#material> "canvas, verfstof, hout\r\ngekalligrafeerd\r\nPrijs in kalligrafie-wedstrijd, CIC-1/94 t/m CIC-10/94." .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#creator> "Ibrahim Mohammed Al-Buwárdi" .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c960085b3b455f4fd869347ec112bbdb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

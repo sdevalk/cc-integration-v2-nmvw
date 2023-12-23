@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/659d854e1bc2cd4a79048697ab44218d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/659d854e1bc2cd4a79048697ab44218d> <https://colonialcollections.nl/schema#identifier> "TM-4345-134" .
+<https://n2t.net/ark:/27023/659d854e1bc2cd4a79048697ab44218d> <https://colonialcollections.nl/schema#name> "HOUTEN STEMPEL GEBRUIKT BIJ VOEDSELBEREIDING" .
+<https://n2t.net/ark:/27023/659d854e1bc2cd4a79048697ab44218d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/659d854e1bc2cd4a79048697ab44218d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

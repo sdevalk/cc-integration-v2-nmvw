@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <https://colonialcollections.nl/schema#identifier> "TM-2379-3" .
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <https://colonialcollections.nl/schema#name> "HOUTEN NEKSTEUN" .
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <https://colonialcollections.nl/schema#description> "Het voetje is aan de buitenrand versierd met ingesneden driehoekmotieven van evenwijdige lijnen. De voet en de bovenzijde zijn versierd met koperen kopspijkers." .
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <https://colonialcollections.nl/schema#material> "hout ; koperlegering" .
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e5f847646c647f1703f485b93640a1c2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

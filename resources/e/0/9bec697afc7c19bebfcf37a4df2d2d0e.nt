@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/67803c6de0b4bf2207f8be92b7397cff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67803c6de0b4bf2207f8be92b7397cff> <https://colonialcollections.nl/schema#identifier> "TM-2069-16d" .
+<https://n2t.net/ark:/27023/67803c6de0b4bf2207f8be92b7397cff> <https://colonialcollections.nl/schema#name> "RIETEN PIJL MET ZWART HOUTEN PUNT EN WEERHAKEN" .
+<https://n2t.net/ark:/27023/67803c6de0b4bf2207f8be92b7397cff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/67803c6de0b4bf2207f8be92b7397cff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

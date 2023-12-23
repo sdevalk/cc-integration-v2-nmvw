@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/64a03d6f5b8de892d3d3b3d40a5ed50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/64a03d6f5b8de892d3d3b3d40a5ed50a> <https://colonialcollections.nl/schema#identifier> "TM-3290-90" .
+<https://n2t.net/ark:/27023/64a03d6f5b8de892d3d3b3d40a5ed50a> <https://colonialcollections.nl/schema#name> "HOUTEN SCHAAL VOORZIEN VAN SIERSNIJWERK" .
+<https://n2t.net/ark:/27023/64a03d6f5b8de892d3d3b3d40a5ed50a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/64a03d6f5b8de892d3d3b3d40a5ed50a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

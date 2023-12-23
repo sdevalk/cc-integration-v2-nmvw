@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <https://colonialcollections.nl/schema#identifier> "TM-3026-11b" .
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <https://colonialcollections.nl/schema#name> "HANGER BEHORENDE BIJ EEN HALSSIERAAD VAN KRALENWERK" .
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <https://colonialcollections.nl/schema#description> "De hanger is onderdeel van een halssieraad en bestaat uit een houten staafje omhuld met blauwe en roze kralen. Misschien gehangen aan het halssnoer van een Zulu genezer." .
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <https://colonialcollections.nl/schema#material> "hout ; glas" .
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5c84345c4c517e6153dfe700dd34105e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5ea6d6037a88a6273a0102a516853926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5ea6d6037a88a6273a0102a516853926> <https://colonialcollections.nl/schema#identifier> "TM-6325-88" .
+<https://n2t.net/ark:/27023/5ea6d6037a88a6273a0102a516853926> <https://colonialcollections.nl/schema#name> "DOEK MINISTER UIT YATENGA, BURKINA FASO" .
+<https://n2t.net/ark:/27023/5ea6d6037a88a6273a0102a516853926> <https://colonialcollections.nl/schema#description> "Rassam Naaba Koutou du Yatenga la famille Bangbatiembo. De rassam naaba is de post van minister van financiën onder de Mossi van Burkina Faso. De afgebeelde persoon kwam uit de Bangbatiembo familie, uit het gebiedsdeel Yatenga." .
+<https://n2t.net/ark:/27023/5ea6d6037a88a6273a0102a516853926> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5ea6d6037a88a6273a0102a516853926> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .

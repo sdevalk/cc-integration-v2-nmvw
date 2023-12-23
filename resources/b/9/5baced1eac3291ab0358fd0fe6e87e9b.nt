@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/cacb62a05c46b8747ee0a9f5ac4e3d0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/cacb62a05c46b8747ee0a9f5ac4e3d0d> <https://colonialcollections.nl/schema#identifier> "RV-2579-2" .
+<https://n2t.net/ark:/27023/cacb62a05c46b8747ee0a9f5ac4e3d0d> <https://colonialcollections.nl/schema#name> "Boogharp" .
+<https://n2t.net/ark:/27023/cacb62a05c46b8747ee0a9f5ac4e3d0d> <https://colonialcollections.nl/schema#material> "ebbenhout ; plantenvezel ; slangenhuid" .
+<https://n2t.net/ark:/27023/cacb62a05c46b8747ee0a9f5ac4e3d0d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

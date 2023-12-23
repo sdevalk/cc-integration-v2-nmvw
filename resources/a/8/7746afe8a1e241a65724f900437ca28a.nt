@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/67b6098fe477ba67d84e8bfaf4f2a8d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/67b6098fe477ba67d84e8bfaf4f2a8d8> <https://colonialcollections.nl/schema#identifier> "AM-85-3" .
+<https://n2t.net/ark:/27023/67b6098fe477ba67d84e8bfaf4f2a8d8> <https://colonialcollections.nl/schema#name> "Lepel" .
+<https://n2t.net/ark:/27023/67b6098fe477ba67d84e8bfaf4f2a8d8> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHouten lepel, bestaande uit een lange, ronde staaf die aan een uiteinde breed uitloopt in een spatel." .
+<https://n2t.net/ark:/27023/67b6098fe477ba67d84e8bfaf4f2a8d8> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/67b6098fe477ba67d84e8bfaf4f2a8d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

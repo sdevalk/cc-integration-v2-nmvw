@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ca723133c95e4712c285cd857e0e1d92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ca723133c95e4712c285cd857e0e1d92> <https://colonialcollections.nl/schema#identifier> "TM-3401-275a" .
+<https://n2t.net/ark:/27023/ca723133c95e4712c285cd857e0e1d92> <https://colonialcollections.nl/schema#name> "ZILVEREN OORSIERAAD, ONDERDEEL VAN EEN PAAR" .
+<https://n2t.net/ark:/27023/ca723133c95e4712c285cd857e0e1d92> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ca723133c95e4712c285cd857e0e1d92> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

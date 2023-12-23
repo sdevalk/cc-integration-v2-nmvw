@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5f3aa520e51ff37733ca86827001ad5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5f3aa520e51ff37733ca86827001ad5d> <https://colonialcollections.nl/schema#identifier> "WM-22812" .
+<https://n2t.net/ark:/27023/5f3aa520e51ff37733ca86827001ad5d> <https://colonialcollections.nl/schema#description> "[ST] fragment (8) & franje (aan 3 zijden: aan één zijde in\r\n        plukjes samengebonden)" .
+<https://n2t.net/ark:/27023/5f3aa520e51ff37733ca86827001ad5d> <https://colonialcollections.nl/schema#material> "raffia\r\ngeweven (linnenbinding), handgenaaid" .
+<https://n2t.net/ark:/27023/5f3aa520e51ff37733ca86827001ad5d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

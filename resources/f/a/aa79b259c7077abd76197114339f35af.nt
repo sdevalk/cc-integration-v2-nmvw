@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/66db97fa594ff76d6d38aa89046a04ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66db97fa594ff76d6d38aa89046a04ad> <https://colonialcollections.nl/schema#identifier> "RV-503-79" .
+<https://n2t.net/ark:/27023/66db97fa594ff76d6d38aa89046a04ad> <https://colonialcollections.nl/schema#name> "Bak" .
+<https://n2t.net/ark:/27023/66db97fa594ff76d6d38aa89046a04ad> <https://colonialcollections.nl/schema#material> "koper, geelkoper x? ; pasta x?" .
+<https://n2t.net/ark:/27023/66db97fa594ff76d6d38aa89046a04ad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/66db97fa594ff76d6d38aa89046a04ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

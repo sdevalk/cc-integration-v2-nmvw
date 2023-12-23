@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/65eda84c592fc3394e2a7e175e792ccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/65eda84c592fc3394e2a7e175e792ccb> <https://colonialcollections.nl/schema#identifier> "WM-72805" .
+<https://n2t.net/ark:/27023/65eda84c592fc3394e2a7e175e792ccb> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://n2t.net/ark:/27023/65eda84c592fc3394e2a7e175e792ccb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

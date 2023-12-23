@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ca897f42e3ad93c99de2a9bb6938b377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ca897f42e3ad93c99de2a9bb6938b377> <https://colonialcollections.nl/schema#identifier> "RV-1-934" .
+<https://n2t.net/ark:/27023/ca897f42e3ad93c99de2a9bb6938b377> <https://colonialcollections.nl/schema#name> "Zak" .
+<https://n2t.net/ark:/27023/ca897f42e3ad93c99de2a9bb6938b377> <https://colonialcollections.nl/schema#description> "inventariskaart ontbreekt\r\nopschrift zak: viki ivi, d.i. gemalen gekookte rijst" .
+<https://n2t.net/ark:/27023/ca897f42e3ad93c99de2a9bb6938b377> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

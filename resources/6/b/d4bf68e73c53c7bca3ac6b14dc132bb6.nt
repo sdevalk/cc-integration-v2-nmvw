@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5d009635cf16339a6c9d5cfb090c3055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5d009635cf16339a6c9d5cfb090c3055> <https://colonialcollections.nl/schema#identifier> "RV-1233-10" .
+<https://n2t.net/ark:/27023/5d009635cf16339a6c9d5cfb090c3055> <https://colonialcollections.nl/schema#name> "Melkkom en melkschotel" .
+<https://n2t.net/ark:/27023/5d009635cf16339a6c9d5cfb090c3055> <https://colonialcollections.nl/schema#description> "Melkkom (of schotel x?) en een schotel." .
+<https://n2t.net/ark:/27023/5d009635cf16339a6c9d5cfb090c3055> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/5d009635cf16339a6c9d5cfb090c3055> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

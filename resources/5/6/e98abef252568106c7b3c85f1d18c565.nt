@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/66bcc59cc5dae203dfaeb52c7d6d3544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/66bcc59cc5dae203dfaeb52c7d6d3544> <https://colonialcollections.nl/schema#identifier> "TM-2438-18" .
+<https://n2t.net/ark:/27023/66bcc59cc5dae203dfaeb52c7d6d3544> <https://colonialcollections.nl/schema#name> "WATERKRUIK VAN AARDEWERK" .
+<https://n2t.net/ark:/27023/66bcc59cc5dae203dfaeb52c7d6d3544> <https://colonialcollections.nl/schema#description> "Deze waterkruik werd door Berbervrouwen over de schouder gedragen om water vanaf de put of de waterbron naar huis te vervoeren." .
+<https://n2t.net/ark:/27023/66bcc59cc5dae203dfaeb52c7d6d3544> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/66bcc59cc5dae203dfaeb52c7d6d3544> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

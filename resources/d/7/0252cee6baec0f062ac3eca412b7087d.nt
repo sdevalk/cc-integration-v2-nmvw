@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/653673c9a77021d9ecd06daacc741c18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/653673c9a77021d9ecd06daacc741c18> <https://colonialcollections.nl/schema#identifier> "RV-1153-14" .
+<https://n2t.net/ark:/27023/653673c9a77021d9ecd06daacc741c18> <https://colonialcollections.nl/schema#name> "Pijp" .
+<https://n2t.net/ark:/27023/653673c9a77021d9ecd06daacc741c18> <https://colonialcollections.nl/schema#description> "Zie inventarisboek ; pijpenkop." .
+<https://n2t.net/ark:/27023/653673c9a77021d9ecd06daacc741c18> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://n2t.net/ark:/27023/653673c9a77021d9ecd06daacc741c18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

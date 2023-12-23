@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#identifier> "WM-47129" .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#description> "[ST] 1 = doos & 2 = schuifdeksel (?) & 3 = inktpot & scharnierend deksel & 4 & 5 = pennen\r\n[AF] portretten van vrouwen en mannen (in medaillons) & bloem & bloemrank (doos)" .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#material> "papier-maché, lak, goudverf, verf, zilver (inktpot),  riet (pennen)\r\ngelakt & beschilderd" .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#creator> "Ustad Djaffa" .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#inscription> "[B] Invocatie gesigneerd door Baqir, en gedateerd op 1127 H (= 1716 A.D.) in Arabisch schrift" .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#yearCreatedStart> "1715"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5dc01438fb030f3b96a23f3029958d6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1715"^^<http://www.w3.org/2001/XMLSchema#integer> .

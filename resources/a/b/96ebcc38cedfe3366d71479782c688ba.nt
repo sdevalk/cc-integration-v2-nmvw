@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6559e0b0dd5fccfb687193cbad97702c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6559e0b0dd5fccfb687193cbad97702c> <https://colonialcollections.nl/schema#identifier> "AM-74-49" .
+<https://n2t.net/ark:/27023/6559e0b0dd5fccfb687193cbad97702c> <https://colonialcollections.nl/schema#name> "Amulet" .
+<https://n2t.net/ark:/27023/6559e0b0dd5fccfb687193cbad97702c> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nBundeltje vezels, omvlochten met donkere vezel." .
+<https://n2t.net/ark:/27023/6559e0b0dd5fccfb687193cbad97702c> <https://colonialcollections.nl/schema#material> "Plantaardige vezels" .
+<https://n2t.net/ark:/27023/6559e0b0dd5fccfb687193cbad97702c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
