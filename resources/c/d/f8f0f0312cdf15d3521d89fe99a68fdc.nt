@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <https://colonialcollections.nl/schema#identifier> "RV-1025-71" .
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <https://colonialcollections.nl/schema#name> "LEREN KNAPZAK MET KAURISCHELPEN EN KRALEN VERSIERD, ONDERDEEL VAN EEN THEATERKOSTUUM" .
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <https://colonialcollections.nl/schema#description> "Maakt deel uit van het kostuum van een herder (geldt voor de nummers 69 tot en met 78 uit deze serie). Het kostuum is gedragen tijdens een theatervoorstelling op de Wereldtentoonstelling te Antwerpen in 1894 getiteld 'Le drame d'Anthar. Le Fameux Héros Arabe.' Het stuk werd verdeeld over 3 aktes opgevoerd in het 'théatre Oriental au quartier Syrien.'" .
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <https://colonialcollections.nl/schema#material> "Leer ; kaurischelp ; glas (kraal, verm)" .
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dc15a42cf9cad1c2551a05d6c63b1977> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

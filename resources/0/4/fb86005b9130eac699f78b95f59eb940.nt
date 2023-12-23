@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/47874c5c6cd1d5b624c3f2a92ea80cc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/47874c5c6cd1d5b624c3f2a92ea80cc5> <https://colonialcollections.nl/schema#identifier> "RV-370-551" .
+<https://n2t.net/ark:/27023/47874c5c6cd1d5b624c3f2a92ea80cc5> <https://colonialcollections.nl/schema#name> "Pijl" .
+<https://n2t.net/ark:/27023/47874c5c6cd1d5b624c3f2a92ea80cc5> <https://colonialcollections.nl/schema#material> "riet ; hout ; ijzer ; zeilgrastouw ; hars (mani)" .
+<https://n2t.net/ark:/27023/47874c5c6cd1d5b624c3f2a92ea80cc5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e4d0c1f42bec0c266f427f6d75a56d55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e4d0c1f42bec0c266f427f6d75a56d55> <https://colonialcollections.nl/schema#identifier> "RV-2210-60" .
+<https://n2t.net/ark:/27023/e4d0c1f42bec0c266f427f6d75a56d55> <https://colonialcollections.nl/schema#name> "Spiegel" .
+<https://n2t.net/ark:/27023/e4d0c1f42bec0c266f427f6d75a56d55> <https://colonialcollections.nl/schema#material> "hout ; been" .
+<https://n2t.net/ark:/27023/e4d0c1f42bec0c266f427f6d75a56d55> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

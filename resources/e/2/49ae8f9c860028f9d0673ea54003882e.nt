@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <https://colonialcollections.nl/schema#identifier> "RV-2668-573" .
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <https://colonialcollections.nl/schema#name> "Speer" .
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <https://colonialcollections.nl/schema#description> "Inv.kaart: Kongo bekken, O.c.N.A.M. 142-32e J.C.Cremer, Congo gebied, inl.naam: Lionge" .
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <https://colonialcollections.nl/schema#material> "ijzer ; hout" .
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e462e7321d13716418c3ebc4461ea3fa> <https://colonialcollections.nl/schema#creator> "J.C.W.H. (Jan Willem Henri Constant) Cremer" .

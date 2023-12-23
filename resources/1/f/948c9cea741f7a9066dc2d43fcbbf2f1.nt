@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dd7d7b11552f62e6fd9f61c21e38efde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd7d7b11552f62e6fd9f61c21e38efde> <https://colonialcollections.nl/schema#identifier> "TM-A-3517" .
+<https://n2t.net/ark:/27023/dd7d7b11552f62e6fd9f61c21e38efde> <https://colonialcollections.nl/schema#name> "WERPLANS, VOORZIEN VAN PLATTE IJZEREN PUNT" .
+<https://n2t.net/ark:/27023/dd7d7b11552f62e6fd9f61c21e38efde> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dd7d7b11552f62e6fd9f61c21e38efde> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

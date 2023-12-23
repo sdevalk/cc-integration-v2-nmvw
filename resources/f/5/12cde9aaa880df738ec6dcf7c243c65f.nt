@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e3e3b57792b898615ef1a90d93360d5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e3e3b57792b898615ef1a90d93360d5a> <https://colonialcollections.nl/schema#identifier> "RV-597-50" .
+<https://n2t.net/ark:/27023/e3e3b57792b898615ef1a90d93360d5a> <https://colonialcollections.nl/schema#name> "OPSCHEPLEPEL" .
+<https://n2t.net/ark:/27023/e3e3b57792b898615ef1a90d93360d5a> <https://colonialcollections.nl/schema#material> "kalebas" .
+<https://n2t.net/ark:/27023/e3e3b57792b898615ef1a90d93360d5a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e3e3b57792b898615ef1a90d93360d5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

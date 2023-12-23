@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/dbfed0dcbc5144f111f8469b57409847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dbfed0dcbc5144f111f8469b57409847> <https://colonialcollections.nl/schema#identifier> "TM-5633-159" .
+<https://n2t.net/ark:/27023/dbfed0dcbc5144f111f8469b57409847> <https://colonialcollections.nl/schema#name> "GEWICHT VOOR EEN GRAAFSTOK" .
+<https://n2t.net/ark:/27023/dbfed0dcbc5144f111f8469b57409847> <https://colonialcollections.nl/schema#description> "Het object fungeert als verzwaring van een graafstok en als voetsteun voor de landbouwer." .
+<https://n2t.net/ark:/27023/dbfed0dcbc5144f111f8469b57409847> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dbfed0dcbc5144f111f8469b57409847> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .

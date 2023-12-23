@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e278c328f6ccd32a20ed2ec3b230b681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e278c328f6ccd32a20ed2ec3b230b681> <https://colonialcollections.nl/schema#identifier> "TM-3325-138h" .
+<https://n2t.net/ark:/27023/e278c328f6ccd32a20ed2ec3b230b681> <https://colonialcollections.nl/schema#name> "VIJFTAL PIJLEN MET RIETEN SCHACHTEN EN HOUTEN OF RIETEN PUNTEN" .
+<https://n2t.net/ark:/27023/e278c328f6ccd32a20ed2ec3b230b681> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e278c328f6ccd32a20ed2ec3b230b681> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

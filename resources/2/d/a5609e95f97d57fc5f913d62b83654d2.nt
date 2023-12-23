@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e34334d222e8620a1baf94f180ca119d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e34334d222e8620a1baf94f180ca119d> <https://colonialcollections.nl/schema#identifier> "AM-17-978" .
+<https://n2t.net/ark:/27023/e34334d222e8620a1baf94f180ca119d> <https://colonialcollections.nl/schema#name> "Doek" .
+<https://n2t.net/ark:/27023/e34334d222e8620a1baf94f180ca119d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nBlauwe doek, bestaande uit allemaal kleine baantjes." .
+<https://n2t.net/ark:/27023/e34334d222e8620a1baf94f180ca119d> <https://colonialcollections.nl/schema#material> "Textiel" .
+<https://n2t.net/ark:/27023/e34334d222e8620a1baf94f180ca119d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

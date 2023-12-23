@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#identifier> "RV-6084-26" .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#name> "ANSICHTKAART: MARIA, FAMOUS POTTERY MAKER OF SAN ILDEFONSO PUEBLO" .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#description> "letterlijke tekst verso:\r\n569-Maria, Famous Pottery Maker\r\nSan Ildefonso Pueblo, New Mexico\r\nA basket or piece of old pottery is used as a foundation form. The clay is worked into strips, which are coiled spirally upward to form the new pottery vessel. The clay is smoothed down with the fingers. After drying, it is ready for decorations and then firing.\r\nColor by N.M. Dept. of Development\r\nDistributed by southwest Post card co., Albuquerque, N.M." .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#material> "fotopapier ; karton" .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4b05b223e1937a9dbd76580782dc6ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

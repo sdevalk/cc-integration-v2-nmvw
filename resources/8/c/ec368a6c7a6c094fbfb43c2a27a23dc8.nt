@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/486a494906389d5d906ed49bac5bf13d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/486a494906389d5d906ed49bac5bf13d> <https://colonialcollections.nl/schema#identifier> "TM-1654-26" .
+<https://n2t.net/ark:/27023/486a494906389d5d906ed49bac5bf13d> <https://colonialcollections.nl/schema#name> "BEWERKT ZILVEREN KROMZWAARD" .
+<https://n2t.net/ark:/27023/486a494906389d5d906ed49bac5bf13d> <https://colonialcollections.nl/schema#description> "Rijk versierd kromzwaard. Op het lemmet staan afgebeeld aan de ene zijde twee olifanten tussen bloem- en bladranken, aan de andere zijde een jager te paard die met zijn lans naar een hert steekt." .
+<https://n2t.net/ark:/27023/486a494906389d5d906ed49bac5bf13d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/486a494906389d5d906ed49bac5bf13d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .

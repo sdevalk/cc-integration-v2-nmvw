@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/dd6e5165bbc0072c44f74fe4c217591e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd6e5165bbc0072c44f74fe4c217591e> <https://colonialcollections.nl/schema#identifier> "TM-5144-25" .
+<https://n2t.net/ark:/27023/dd6e5165bbc0072c44f74fe4c217591e> <https://colonialcollections.nl/schema#name> "PIJP" .
+<https://n2t.net/ark:/27023/dd6e5165bbc0072c44f74fe4c217591e> <https://colonialcollections.nl/schema#material> "hout ; koperdraad ; snijden" .
+<https://n2t.net/ark:/27023/dd6e5165bbc0072c44f74fe4c217591e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dd6e5165bbc0072c44f74fe4c217591e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

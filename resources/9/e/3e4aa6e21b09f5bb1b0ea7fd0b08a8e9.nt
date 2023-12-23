@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <https://colonialcollections.nl/schema#identifier> "WM-28506" .
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <https://colonialcollections.nl/schema#description> "Mensfiguur met cilindervormig gezicht met kopspijker in voorhoofd, ogen (kopspijkers) en hoog opgekamd afhangende haardracht, kralensnoer (rose, blauw, wit en geel), geruite doek (rood en blauw) en onderrok." .
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <https://colonialcollections.nl/schema#material> "hout, katoen, messing (kopspijker), glas (kraal), verf versleten onderrok en doek is sterk verkleurd\r\nBestoven met tukula (rood) (?)." .
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <https://colonialcollections.nl/schema#yearCreatedStart> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e2f7e8f07d8c3ec033505a7ff165ee6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

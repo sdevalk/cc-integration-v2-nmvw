@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/db4ce969083510d1abea8ce144cf4fa5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db4ce969083510d1abea8ce144cf4fa5> <https://colonialcollections.nl/schema#identifier> "RV-B106-13" .
+<https://n2t.net/ark:/27023/db4ce969083510d1abea8ce144cf4fa5> <https://colonialcollections.nl/schema#name> "Veldfles of kruithoorn" .
+<https://n2t.net/ark:/27023/db4ce969083510d1abea8ce144cf4fa5> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/db4ce969083510d1abea8ce144cf4fa5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

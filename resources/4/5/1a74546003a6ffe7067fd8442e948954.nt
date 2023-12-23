@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/db66808c99dde07c0909ebb5f2e9817f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db66808c99dde07c0909ebb5f2e9817f> <https://colonialcollections.nl/schema#identifier> "RV-2383-13" .
+<https://n2t.net/ark:/27023/db66808c99dde07c0909ebb5f2e9817f> <https://colonialcollections.nl/schema#name> "Veebel" .
+<https://n2t.net/ark:/27023/db66808c99dde07c0909ebb5f2e9817f> <https://colonialcollections.nl/schema#description> "Veebel met een ronde kogel als klepel." .
+<https://n2t.net/ark:/27023/db66808c99dde07c0909ebb5f2e9817f> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/db66808c99dde07c0909ebb5f2e9817f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dbeb9ee95b026ba3ddb01d0065f0235e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dbeb9ee95b026ba3ddb01d0065f0235e> <https://colonialcollections.nl/schema#identifier> "RV-1893-111" .
+<https://n2t.net/ark:/27023/dbeb9ee95b026ba3ddb01d0065f0235e> <https://colonialcollections.nl/schema#name> "Hoofdsieraad" .
+<https://n2t.net/ark:/27023/dbeb9ee95b026ba3ddb01d0065f0235e> <https://colonialcollections.nl/schema#material> "dier, vogel" .
+<https://n2t.net/ark:/27023/dbeb9ee95b026ba3ddb01d0065f0235e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

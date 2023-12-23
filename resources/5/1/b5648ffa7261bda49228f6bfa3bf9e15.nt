@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/e4162610971cb0ffde7cd5b7ca2bd332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e4162610971cb0ffde7cd5b7ca2bd332> <https://colonialcollections.nl/schema#identifier> "WM-9235" .
+<https://n2t.net/ark:/27023/e4162610971cb0ffde7cd5b7ca2bd332> <https://colonialcollections.nl/schema#material> "palmhout" .
+<https://n2t.net/ark:/27023/e4162610971cb0ffde7cd5b7ca2bd332> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

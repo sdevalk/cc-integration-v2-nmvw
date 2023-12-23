@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#identifier> "WM-940128-20-1" .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#description> "GE: groepsportret\r\nHM: 2 mannen & 4 vrouwen; [PT] naast weg onder boom" .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c0801632e8e06b195f647296fc9360cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .

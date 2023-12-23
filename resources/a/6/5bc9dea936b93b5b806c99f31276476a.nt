@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <https://colonialcollections.nl/schema#identifier> "TM-3279-20" .
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <https://colonialcollections.nl/schema#name> "HOUTEN HOOFDSTEUN" .
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <https://colonialcollections.nl/schema#description> "Dient ter ondersteuning van het hoofd tijdens slaap en rust.\r\nUit één stuk hout gesneden. Om het voetstuk is een gevlochten snoer van plantenvezels gewonden waaraan houten kralen zijn geregen." .
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <https://colonialcollections.nl/schema#material> "hout ; plantenvezel" .
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e38f00533e87d0e3043923a8f6ff9333> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

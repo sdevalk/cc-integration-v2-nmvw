@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e25796e63f7cd9e529a4445d6c004883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e25796e63f7cd9e529a4445d6c004883> <https://colonialcollections.nl/schema#identifier> "TM-5246-1a" .
+<https://n2t.net/ark:/27023/e25796e63f7cd9e529a4445d6c004883> <https://colonialcollections.nl/schema#name> "KLEPPER VAN HOUT" .
+<https://n2t.net/ark:/27023/e25796e63f7cd9e529a4445d6c004883> <https://colonialcollections.nl/schema#description> "Deze (set van 2) kleppers worden gebruikt door vrouwen om zichzelf ritmisch te begeleiden bij hun gezang, tijdens het jaarlijkse maskerfeest. Op de met wit, zwart en rood beschilderde klepper is in bas-reliëf een krokodil afgebeeld." .
+<https://n2t.net/ark:/27023/e25796e63f7cd9e529a4445d6c004883> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e25796e63f7cd9e529a4445d6c004883> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

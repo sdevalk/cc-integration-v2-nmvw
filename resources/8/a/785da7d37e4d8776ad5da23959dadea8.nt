@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e3afc51fc5ea3a6f97d9e8aa68c1eeeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e3afc51fc5ea3a6f97d9e8aa68c1eeeb> <https://colonialcollections.nl/schema#identifier> "WM-24019" .
+<https://n2t.net/ark:/27023/e3afc51fc5ea3a6f97d9e8aa68c1eeeb> <https://colonialcollections.nl/schema#description> "[ST] ringen met vlechtwerkknoop" .
+<https://n2t.net/ark:/27023/e3afc51fc5ea3a6f97d9e8aa68c1eeeb> <https://colonialcollections.nl/schema#material> "hout, huid  (pees), bast (ringen)" .
+<https://n2t.net/ark:/27023/e3afc51fc5ea3a6f97d9e8aa68c1eeeb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

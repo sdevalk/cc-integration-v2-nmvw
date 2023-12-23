@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c2609a28a769b0297fd5c111ce03dcac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c2609a28a769b0297fd5c111ce03dcac> <https://colonialcollections.nl/schema#identifier> "RV-306-20" .
+<https://n2t.net/ark:/27023/c2609a28a769b0297fd5c111ce03dcac> <https://colonialcollections.nl/schema#name> "Boog" .
+<https://n2t.net/ark:/27023/c2609a28a769b0297fd5c111ce03dcac> <https://colonialcollections.nl/schema#material> "hout ; touw" .
+<https://n2t.net/ark:/27023/c2609a28a769b0297fd5c111ce03dcac> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dba8de58455badd32389aca42ddbba5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dba8de58455badd32389aca42ddbba5f> <https://colonialcollections.nl/schema#identifier> "TM-3981-215" .
+<https://n2t.net/ark:/27023/dba8de58455badd32389aca42ddbba5f> <https://colonialcollections.nl/schema#name> "KOOKPOT VAN AARDEWERK" .
+<https://n2t.net/ark:/27023/dba8de58455badd32389aca42ddbba5f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dba8de58455badd32389aca42ddbba5f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

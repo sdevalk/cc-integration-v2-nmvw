@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <https://colonialcollections.nl/schema#identifier> "RV-503-46" .
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <https://colonialcollections.nl/schema#name> "LEATHER OIL FLASK" .
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <https://colonialcollections.nl/schema#description> "Fles voor verf of olie. Behoort tot de uitrusting van de aanvoerder van een karavaan." .
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e40e8df83a4198b13df90811b18c4a3a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

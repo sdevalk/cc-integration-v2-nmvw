@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <https://colonialcollections.nl/schema#identifier> "RV-4399-151" .
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <https://colonialcollections.nl/schema#name> "SOEPLEPEL" .
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <https://colonialcollections.nl/schema#description> "Koperen pollepel voor het opscheppen van soep." .
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e43174ab09a1d3b07d6cd5dcc58b26aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

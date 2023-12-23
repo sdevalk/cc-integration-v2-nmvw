@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e329d6615aa6dc5f3deb6c25abf16cbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e329d6615aa6dc5f3deb6c25abf16cbd> <https://colonialcollections.nl/schema#identifier> "WM-200097" .
+<https://n2t.net/ark:/27023/e329d6615aa6dc5f3deb6c25abf16cbd> <https://colonialcollections.nl/schema#description> "[KL] lichtbruin & geel & rood & groen & wit\r\n[VO] hengel & schuifknoopsluiting\r\n[DE] bloem & golf & ster" .
+<https://n2t.net/ark:/27023/e329d6615aa6dc5f3deb6c25abf16cbd> <https://colonialcollections.nl/schema#material> "leer\r\ngevlochten" .
+<https://n2t.net/ark:/27023/e329d6615aa6dc5f3deb6c25abf16cbd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

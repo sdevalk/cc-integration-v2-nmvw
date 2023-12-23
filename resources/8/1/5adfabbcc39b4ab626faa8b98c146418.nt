@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dd2184648e3f575563a9ccd63e67b535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd2184648e3f575563a9ccd63e67b535> <https://colonialcollections.nl/schema#identifier> "TM-3464-5" .
+<https://n2t.net/ark:/27023/dd2184648e3f575563a9ccd63e67b535> <https://colonialcollections.nl/schema#name> "BESCHILDERD HOUTEN BLAASBALG MET METALEN MONDSTUK" .
+<https://n2t.net/ark:/27023/dd2184648e3f575563a9ccd63e67b535> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dd2184648e3f575563a9ccd63e67b535> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

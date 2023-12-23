@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c093323b7b380cbc5bf56d2b798c0290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c093323b7b380cbc5bf56d2b798c0290> <https://colonialcollections.nl/schema#identifier> "TM-4991-288" .
+<https://n2t.net/ark:/27023/c093323b7b380cbc5bf56d2b798c0290> <https://colonialcollections.nl/schema#name> "KATOENEN LAP IN EEN STADIUM VAN BEWERKING MET INDIGO" .
+<https://n2t.net/ark:/27023/c093323b7b380cbc5bf56d2b798c0290> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c093323b7b380cbc5bf56d2b798c0290> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

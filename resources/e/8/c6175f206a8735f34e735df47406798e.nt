@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <https://colonialcollections.nl/schema#identifier> "TM-4313-18" .
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAND VOOR EEN DRINKBEKER" .
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <https://colonialcollections.nl/schema#description> "De kaurischelpen zijn een vruchtbaarheidssymbool. Tegenwoordig hebben ze ook een meer algemene betekenis als bescherming tegen het boze oog.\r\nDe mand is gevlochten in de 'coiling'-methode." .
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <https://colonialcollections.nl/schema#material> "raffia ; leer ; kaurischelp ; vlechten" .
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4838d1b8f188edc6ebec09036bfa483c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

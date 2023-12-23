@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/c2a3c2e379569c4d4dbe119a492dd8a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c2a3c2e379569c4d4dbe119a492dd8a6> <https://colonialcollections.nl/schema#identifier> "WM-76688" .
+<https://n2t.net/ark:/27023/c2a3c2e379569c4d4dbe119a492dd8a6> <https://colonialcollections.nl/schema#material> "vezel" .
+<https://n2t.net/ark:/27023/c2a3c2e379569c4d4dbe119a492dd8a6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

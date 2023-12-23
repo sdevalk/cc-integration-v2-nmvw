@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e298baa7b9edcf00dc292a260cdd4479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e298baa7b9edcf00dc292a260cdd4479> <https://colonialcollections.nl/schema#identifier> "TM-3215-66" .
+<https://n2t.net/ark:/27023/e298baa7b9edcf00dc292a260cdd4479> <https://colonialcollections.nl/schema#name> "ROODGELE CILINDRISCHE GLASKRAAL" .
+<https://n2t.net/ark:/27023/e298baa7b9edcf00dc292a260cdd4479> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e298baa7b9edcf00dc292a260cdd4479> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

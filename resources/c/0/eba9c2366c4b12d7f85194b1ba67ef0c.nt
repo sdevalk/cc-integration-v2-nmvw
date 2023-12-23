@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <https://colonialcollections.nl/schema#identifier> "TM-5473-15a" .
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <https://colonialcollections.nl/schema#name> "HOUTEN LEPEL BEHOREND BIJ BAMBOE STAMPER (B)" .
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <https://colonialcollections.nl/schema#description> "De lepel werd volgens de schenker gebruikt door een ritueel genezer om zijn patiënten mee te voeren." .
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <https://colonialcollections.nl/schema#material> "Hout ; snijden ; boren ; houtbewerken" .
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e3a365584de1396456275fa522043202> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

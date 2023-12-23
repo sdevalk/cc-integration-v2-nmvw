@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/dae036d18fd8fedb0b816c52aacd349b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dae036d18fd8fedb0b816c52aacd349b> <https://colonialcollections.nl/schema#identifier> "TM-5866-4" .
+<https://n2t.net/ark:/27023/dae036d18fd8fedb0b816c52aacd349b> <https://colonialcollections.nl/schema#name> "SCHILDERING VAN EEN LUIPAARD, OP KATOENEN MEELZAK" .
+<https://n2t.net/ark:/27023/dae036d18fd8fedb0b816c52aacd349b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dae036d18fd8fedb0b816c52aacd349b> <https://colonialcollections.nl/schema#creator> "Kabuika" .
+<https://n2t.net/ark:/27023/dae036d18fd8fedb0b816c52aacd349b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <https://colonialcollections.nl/schema#identifier> "TM-2337-1" .
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <https://colonialcollections.nl/schema#name> "KATOENEN WEEFSELFRAGMENT" .
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <https://colonialcollections.nl/schema#description> "Opgegraven in Egypte, vervaardigd in Jemen." .
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <https://colonialcollections.nl/schema#yearCreatedStart> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dce3811c0db43ca21a6df4a3b2ee1c97> <https://colonialcollections.nl/schema#yearCreatedEnd> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .

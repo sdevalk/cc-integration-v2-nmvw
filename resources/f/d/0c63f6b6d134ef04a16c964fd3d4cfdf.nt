@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e458c0983e7e3239f0f192ebbf037f42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e458c0983e7e3239f0f192ebbf037f42> <https://colonialcollections.nl/schema#identifier> "TM-5195-38b" .
+<https://n2t.net/ark:/27023/e458c0983e7e3239f0f192ebbf037f42> <https://colonialcollections.nl/schema#name> "SOKKEL BIJ EEN HOUTEN VROUWENFIGUUR" .
+<https://n2t.net/ark:/27023/e458c0983e7e3239f0f192ebbf037f42> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e458c0983e7e3239f0f192ebbf037f42> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .

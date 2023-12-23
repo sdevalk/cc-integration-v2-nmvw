@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dba68f10fa823cf0f36663450972865c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dba68f10fa823cf0f36663450972865c> <https://colonialcollections.nl/schema#identifier> "WM-61665" .
+<https://n2t.net/ark:/27023/dba68f10fa823cf0f36663450972865c> <https://colonialcollections.nl/schema#description> "[DE] twee zittende figuren" .
+<https://n2t.net/ark:/27023/dba68f10fa823cf0f36663450972865c> <https://colonialcollections.nl/schema#material> "ijzer, koper" .
+<https://n2t.net/ark:/27023/dba68f10fa823cf0f36663450972865c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dc7a5edd89db0cb05c69a2e7d0af0fea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc7a5edd89db0cb05c69a2e7d0af0fea> <https://colonialcollections.nl/schema#identifier> "WM-58236" .
+<https://n2t.net/ark:/27023/dc7a5edd89db0cb05c69a2e7d0af0fea> <https://colonialcollections.nl/schema#description> "[VO]  brief[leer in bamboe]" .
+<https://n2t.net/ark:/27023/dc7a5edd89db0cb05c69a2e7d0af0fea> <https://colonialcollections.nl/schema#material> "leer , bamboe" .
+<https://n2t.net/ark:/27023/dc7a5edd89db0cb05c69a2e7d0af0fea> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

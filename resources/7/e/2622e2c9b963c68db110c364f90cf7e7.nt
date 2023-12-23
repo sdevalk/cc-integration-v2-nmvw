@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dd29609afd7c74cb62cd3c904d123360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd29609afd7c74cb62cd3c904d123360> <https://colonialcollections.nl/schema#identifier> "TM-4849-98b" .
+<https://n2t.net/ark:/27023/dd29609afd7c74cb62cd3c904d123360> <https://colonialcollections.nl/schema#name> "IJZEREN DEKSEL BEHORENDE BIJ EEN OVEN" .
+<https://n2t.net/ark:/27023/dd29609afd7c74cb62cd3c904d123360> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dd29609afd7c74cb62cd3c904d123360> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .

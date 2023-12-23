@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/c2b54734a4188af7db11aca5b2e0011d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c2b54734a4188af7db11aca5b2e0011d> <https://colonialcollections.nl/schema#identifier> "TM-3317-88a" .
+<https://n2t.net/ark:/27023/c2b54734a4188af7db11aca5b2e0011d> <https://colonialcollections.nl/schema#name> "ZILVEREN HAARSIERAAD" .
+<https://n2t.net/ark:/27023/c2b54734a4188af7db11aca5b2e0011d> <https://colonialcollections.nl/schema#description> "Dit haarsieraad is onderdeel van twee zilveren haarsieraden bestaande uit een driehoekig plaatje met daaraan kettinkjes en munten." .
+<https://n2t.net/ark:/27023/c2b54734a4188af7db11aca5b2e0011d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c2b54734a4188af7db11aca5b2e0011d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

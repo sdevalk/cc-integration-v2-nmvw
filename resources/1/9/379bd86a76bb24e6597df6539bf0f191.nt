@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <https://colonialcollections.nl/schema#identifier> "TM-2742-10" .
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <https://colonialcollections.nl/schema#name> "HALSSNOER VAN AANEENGEREGEN STUKJES HOUT" .
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <https://colonialcollections.nl/schema#description> "Van kleine stukjes hout is een halssnoer geregen. De stukjes hout hebben een lichte kern en zijn aan de randen donker gekleurd." .
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <https://colonialcollections.nl/schema#material> "hout ; plantenvezel" .
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dbe908fbaa43de63d3fca5426267a7f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

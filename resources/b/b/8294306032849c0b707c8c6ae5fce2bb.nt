@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ddc3c905cfca126eb0e6b77260e790d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddc3c905cfca126eb0e6b77260e790d9> <https://colonialcollections.nl/schema#identifier> "TM-2189-4" .
+<https://n2t.net/ark:/27023/ddc3c905cfca126eb0e6b77260e790d9> <https://colonialcollections.nl/schema#name> "ROOD AARDEWERKEN KOMMETJE" .
+<https://n2t.net/ark:/27023/ddc3c905cfca126eb0e6b77260e790d9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ddc3c905cfca126eb0e6b77260e790d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

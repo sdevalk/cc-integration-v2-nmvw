@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dd8296cfd58890ec6f9f7b6b6c95a625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dd8296cfd58890ec6f9f7b6b6c95a625> <https://colonialcollections.nl/schema#identifier> "TM-4161-33" .
+<https://n2t.net/ark:/27023/dd8296cfd58890ec6f9f7b6b6c95a625> <https://colonialcollections.nl/schema#name> "ZILVEREN KETTING MET PARFUMHOUDER" .
+<https://n2t.net/ark:/27023/dd8296cfd58890ec6f9f7b6b6c95a625> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dd8296cfd58890ec6f9f7b6b6c95a625> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

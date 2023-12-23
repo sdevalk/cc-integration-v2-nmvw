@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/db99674d4d8e880bcdead277f0c0b217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/db99674d4d8e880bcdead277f0c0b217> <https://colonialcollections.nl/schema#identifier> "WM-33649" .
+<https://n2t.net/ark:/27023/db99674d4d8e880bcdead277f0c0b217> <https://colonialcollections.nl/schema#material> "hout, leer" .
+<https://n2t.net/ark:/27023/db99674d4d8e880bcdead277f0c0b217> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

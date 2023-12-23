@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dc59f8dda3454cc6d3810ab073437dad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc59f8dda3454cc6d3810ab073437dad> <https://colonialcollections.nl/schema#identifier> "TM-A-8006b" .
+<https://n2t.net/ark:/27023/dc59f8dda3454cc6d3810ab073437dad> <https://colonialcollections.nl/schema#name> "PORSELEINEN SAKEKOPJE MET BLOEMMOTIEVEN" .
+<https://n2t.net/ark:/27023/dc59f8dda3454cc6d3810ab073437dad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dc59f8dda3454cc6d3810ab073437dad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

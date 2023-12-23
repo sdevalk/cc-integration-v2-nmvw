@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#identifier> "WM-28473" .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#name> "MBWECI" .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#description> "[DE] snijwerk\r\n[ST] kralensnoer (om nek) & gat (2)\r\n[KL] rood (kralensnoer)\r\n[VO] staande vrouw (bovenzijde) met gebogen knieën en handen op onderbuik" .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#material> "hout, glas" .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4429c54ec6ae61db79a2639484996e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

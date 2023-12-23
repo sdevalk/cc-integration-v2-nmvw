@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/ddea5a45ff0e4cd09dc25ed9a6565ea7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ddea5a45ff0e4cd09dc25ed9a6565ea7> <https://colonialcollections.nl/schema#identifier> "WM-2973" .
+<https://n2t.net/ark:/27023/ddea5a45ff0e4cd09dc25ed9a6565ea7> <https://colonialcollections.nl/schema#name> "SCHAAL & DEKSEL" .
+<https://n2t.net/ark:/27023/ddea5a45ff0e4cd09dc25ed9a6565ea7> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/ddea5a45ff0e4cd09dc25ed9a6565ea7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ddea5a45ff0e4cd09dc25ed9a6565ea7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e43a0df58c8886fa497d1e8aa64c7b31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e43a0df58c8886fa497d1e8aa64c7b31> <https://colonialcollections.nl/schema#identifier> "TM-3981-435o" .
+<https://n2t.net/ark:/27023/e43a0df58c8886fa497d1e8aa64c7b31> <https://colonialcollections.nl/schema#name> "ROL IJZERDRAAD, ONDERDEEL VAN MATERIALEN DIE GEBRUIKT WORDEN VOOR HET VERVAARDIGEN VAN RUBBEREN TEENSLIPPERS" .
+<https://n2t.net/ark:/27023/e43a0df58c8886fa497d1e8aa64c7b31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e43a0df58c8886fa497d1e8aa64c7b31> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

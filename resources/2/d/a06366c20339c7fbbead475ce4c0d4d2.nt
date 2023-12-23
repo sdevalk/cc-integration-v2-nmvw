@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dba8e6b5d3823271b0fd5394edde579a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dba8e6b5d3823271b0fd5394edde579a> <https://colonialcollections.nl/schema#identifier> "TM-5683-89" .
+<https://n2t.net/ark:/27023/dba8e6b5d3823271b0fd5394edde579a> <https://colonialcollections.nl/schema#name> "SCHENKKAN VAN SPEKSTEEN" .
+<https://n2t.net/ark:/27023/dba8e6b5d3823271b0fd5394edde579a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/dba8e6b5d3823271b0fd5394edde579a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

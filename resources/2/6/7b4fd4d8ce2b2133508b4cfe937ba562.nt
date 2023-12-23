@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/dc1c02b6091294f708f096e94a84bcaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/dc1c02b6091294f708f096e94a84bcaf> <https://colonialcollections.nl/schema#identifier> "WM-55683" .
+<https://n2t.net/ark:/27023/dc1c02b6091294f708f096e94a84bcaf> <https://colonialcollections.nl/schema#description> "[VO] van rond aluminiumdraad gebogen." .
+<https://n2t.net/ark:/27023/dc1c02b6091294f708f096e94a84bcaf> <https://colonialcollections.nl/schema#material> "aluminiumdraad" .
+<https://n2t.net/ark:/27023/dc1c02b6091294f708f096e94a84bcaf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

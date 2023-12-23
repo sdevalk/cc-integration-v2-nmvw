@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/c13b17aacb0ce2bdace80f7cca9a81b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/c13b17aacb0ce2bdace80f7cca9a81b1> <https://colonialcollections.nl/schema#identifier> "TM-402-437" .
+<https://n2t.net/ark:/27023/c13b17aacb0ce2bdace80f7cca9a81b1> <https://colonialcollections.nl/schema#name> "ENKELRAMMELAAR VAN ZADEN" .
+<https://n2t.net/ark:/27023/c13b17aacb0ce2bdace80f7cca9a81b1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/c13b17aacb0ce2bdace80f7cca9a81b1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e31242e85df4d20e6354a293cba2b39a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e31242e85df4d20e6354a293cba2b39a> <https://colonialcollections.nl/schema#identifier> "WM-57874" .
+<https://n2t.net/ark:/27023/e31242e85df4d20e6354a293cba2b39a> <https://colonialcollections.nl/schema#description> "[DE] bloem\r\n[KL] imari-blauw" .
+<https://n2t.net/ark:/27023/e31242e85df4d20e6354a293cba2b39a> <https://colonialcollections.nl/schema#material> "porselein\r\ngeglazuurd" .
+<https://n2t.net/ark:/27023/e31242e85df4d20e6354a293cba2b39a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

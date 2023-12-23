@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e43d8796637047010b261eec2fdfb7ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e43d8796637047010b261eec2fdfb7ec> <https://colonialcollections.nl/schema#identifier> "RV-B133-30" .
+<https://n2t.net/ark:/27023/e43d8796637047010b261eec2fdfb7ec> <https://colonialcollections.nl/schema#name> "Buikband" .
+<https://n2t.net/ark:/27023/e43d8796637047010b261eec2fdfb7ec> <https://colonialcollections.nl/schema#description> "Gevlochten buikband gedragen door een baby." .
+<https://n2t.net/ark:/27023/e43d8796637047010b261eec2fdfb7ec> <https://colonialcollections.nl/schema#material> "schil" .
+<https://n2t.net/ark:/27023/e43d8796637047010b261eec2fdfb7ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
