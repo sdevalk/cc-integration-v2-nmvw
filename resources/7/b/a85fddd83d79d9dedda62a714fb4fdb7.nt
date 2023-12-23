@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fa543c13feee515e9fbb2cacf55cd020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa543c13feee515e9fbb2cacf55cd020> <https://colonialcollections.nl/schema#identifier> "TM-4602-2b" .
+<https://n2t.net/ark:/27023/fa543c13feee515e9fbb2cacf55cd020> <https://colonialcollections.nl/schema#name> "FRAGMENT VAN EEN FRESCO" .
+<https://n2t.net/ark:/27023/fa543c13feee515e9fbb2cacf55cd020> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fa543c13feee515e9fbb2cacf55cd020> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

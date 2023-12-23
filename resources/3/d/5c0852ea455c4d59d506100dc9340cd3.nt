@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f44bddc5879e3702d2a016f1483ef3bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f44bddc5879e3702d2a016f1483ef3bf> <https://colonialcollections.nl/schema#identifier> "RV-1226-1" .
+<https://n2t.net/ark:/27023/f44bddc5879e3702d2a016f1483ef3bf> <https://colonialcollections.nl/schema#name> "Weefgetouw" .
+<https://n2t.net/ark:/27023/f44bddc5879e3702d2a016f1483ef3bf> <https://colonialcollections.nl/schema#description> "zie bijv. 1226-2" .
+<https://n2t.net/ark:/27023/f44bddc5879e3702d2a016f1483ef3bf> <https://colonialcollections.nl/schema#material> "hout ; grasvezel" .
+<https://n2t.net/ark:/27023/f44bddc5879e3702d2a016f1483ef3bf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

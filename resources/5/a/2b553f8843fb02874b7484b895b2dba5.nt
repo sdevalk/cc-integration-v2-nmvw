@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/ec500c31b3c5d5d7a90d85f213a27219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec500c31b3c5d5d7a90d85f213a27219> <https://colonialcollections.nl/schema#identifier> "TM-3782-340" .
+<https://n2t.net/ark:/27023/ec500c31b3c5d5d7a90d85f213a27219> <https://colonialcollections.nl/schema#name> "KLOS HENNEPGAREN VAN DE TASSENMAKER" .
+<https://n2t.net/ark:/27023/ec500c31b3c5d5d7a90d85f213a27219> <https://colonialcollections.nl/schema#description> "Gebruikt door de tassenmaker om met behulp van een naald de leren tasonderdelen aan elkaar te naaien." .
+<https://n2t.net/ark:/27023/ec500c31b3c5d5d7a90d85f213a27219> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ec500c31b3c5d5d7a90d85f213a27219> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

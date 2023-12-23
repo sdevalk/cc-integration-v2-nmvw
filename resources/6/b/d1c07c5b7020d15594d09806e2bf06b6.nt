@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <https://colonialcollections.nl/schema#identifier> "TM-4241-251a" .
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <https://colonialcollections.nl/schema#name> "PAAR ROSE LEREN MUILTJES (BABOUCHES)" .
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <https://colonialcollections.nl/schema#description> "De muiltjes zijn met behulp van de naaimachine vervaardigd. De zolen zijn van zwart plastic; de binnenzool, van karton, is geplakt." .
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <https://colonialcollections.nl/schema#material> "leer ; karton ; kunststof ; leerbewerken" .
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fb9fd8d7bc18609b1392daa5b566f7e9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#identifier> "WM-904062" .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#name> "8 PERZISCHE VROUWEN IN HUISGEWAAD." .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, studiofotografie, portretfotografie, groepsportret van ten voeten uit staande en liggende vrouw." .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#material> "papier, albuminedruk" .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#creator> "Antoin Sevruguin" .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#inscription> "nummer met potlood geschreven op foto /\r\ntitel (1) met inkt geschreven op voorzijde karton /\r\nnummer en titel (2) met inkt geschreven op etiket op achterzijde karton" .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ec558070c72cd7e9a3ee8fd139f72b28> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .

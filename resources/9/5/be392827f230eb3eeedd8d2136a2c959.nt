@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ec5677eb29e6cff36473f8e6b83ab6ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec5677eb29e6cff36473f8e6b83ab6ec> <https://colonialcollections.nl/schema#identifier> "TM-4318-286" .
+<https://n2t.net/ark:/27023/ec5677eb29e6cff36473f8e6b83ab6ec> <https://colonialcollections.nl/schema#name> "GEWEVEN WOLLEN KUSSENBEKLEDING MET GEOMETRISCHE MOTIEVEN" .
+<https://n2t.net/ark:/27023/ec5677eb29e6cff36473f8e6b83ab6ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ec5677eb29e6cff36473f8e6b83ab6ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/046b72b6a0494e64caafc98f39ab6090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/046b72b6a0494e64caafc98f39ab6090> <https://colonialcollections.nl/schema#identifier> "RV-1375-60" .
+<https://n2t.net/ark:/27023/046b72b6a0494e64caafc98f39ab6090> <https://colonialcollections.nl/schema#name> "Lontar handschrift" .
+<https://n2t.net/ark:/27023/046b72b6a0494e64caafc98f39ab6090> <https://colonialcollections.nl/schema#description> "Geschrift op lontarblad: Mahâ-Vessantara-Jâtaka Kumârapabbam" .
+<https://n2t.net/ark:/27023/046b72b6a0494e64caafc98f39ab6090> <https://colonialcollections.nl/schema#material> "blad, lontar-" .
+<https://n2t.net/ark:/27023/046b72b6a0494e64caafc98f39ab6090> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/fb19f7f4026e52af2f6b02644afc9d09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb19f7f4026e52af2f6b02644afc9d09> <https://colonialcollections.nl/schema#identifier> "TM-90000434" .
+<https://n2t.net/ark:/27023/fb19f7f4026e52af2f6b02644afc9d09> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"DEGETO ZA BOSNEGERS\"" .
+<https://n2t.net/ark:/27023/fb19f7f4026e52af2f6b02644afc9d09> <https://colonialcollections.nl/schema#description> "Degeto ZA. Het is een 16 mm film." .
+<https://n2t.net/ark:/27023/fb19f7f4026e52af2f6b02644afc9d09> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fb19f7f4026e52af2f6b02644afc9d09> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

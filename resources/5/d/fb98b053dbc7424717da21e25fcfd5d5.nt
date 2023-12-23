@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f54831b8c07bbe72143e8d798e18ebc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f54831b8c07bbe72143e8d798e18ebc1> <https://colonialcollections.nl/schema#identifier> "AM-190-4" .
+<https://n2t.net/ark:/27023/f54831b8c07bbe72143e8d798e18ebc1> <https://colonialcollections.nl/schema#name> "Hak" .
+<https://n2t.net/ark:/27023/f54831b8c07bbe72143e8d798e18ebc1> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nHak bestaande uit een afgebroken houten steel en een breed plat ijzeren blad." .
+<https://n2t.net/ark:/27023/f54831b8c07bbe72143e8d798e18ebc1> <https://colonialcollections.nl/schema#material> "Hout; ijzer" .
+<https://n2t.net/ark:/27023/f54831b8c07bbe72143e8d798e18ebc1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

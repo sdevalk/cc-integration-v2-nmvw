@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ed1c9c452b88f77e36fea6c2ee902608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ed1c9c452b88f77e36fea6c2ee902608> <https://colonialcollections.nl/schema#identifier> "WM-61516" .
+<https://n2t.net/ark:/27023/ed1c9c452b88f77e36fea6c2ee902608> <https://colonialcollections.nl/schema#material> "brons, roodkoper\r\n\r\nGegraveerd met roodkoperen inlegwerk." .
+<https://n2t.net/ark:/27023/ed1c9c452b88f77e36fea6c2ee902608> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ed1c9c452b88f77e36fea6c2ee902608> <https://colonialcollections.nl/schema#inscription> "[B] Arabische inscriptie in de Koefische schriftstijl." .

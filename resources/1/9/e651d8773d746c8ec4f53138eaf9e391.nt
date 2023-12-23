@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f9a8bc5b64df67034327a6fa46297e46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f9a8bc5b64df67034327a6fa46297e46> <https://colonialcollections.nl/schema#identifier> "WM-V-935" .
+<https://n2t.net/ark:/27023/f9a8bc5b64df67034327a6fa46297e46> <https://colonialcollections.nl/schema#description> "Op stand V-936." .
+<https://n2t.net/ark:/27023/f9a8bc5b64df67034327a6fa46297e46> <https://colonialcollections.nl/schema#material> "mensenschedel" .
+<https://n2t.net/ark:/27023/f9a8bc5b64df67034327a6fa46297e46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

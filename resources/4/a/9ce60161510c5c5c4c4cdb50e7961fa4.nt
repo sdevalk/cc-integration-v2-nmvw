@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <https://colonialcollections.nl/schema#identifier> "RV-503-251" .
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <https://colonialcollections.nl/schema#name> "LANG GEWAAD VOOR VROUWEN" .
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <https://colonialcollections.nl/schema#description> "Grote 'sob'  van middenblauwe zijdedamask met kleine driehoekige inzetstukken onder de oksel van rode zijdedamask. De halsstreek is gevoerd met blauwe zijde. Vooral op de rug heeft de zijde sterk verkleurde stukken. Dit type kledingstuk wordt in verband gebracht met vrouwen van Arabische afkomst. Tegenwoordig wordt het gedragen door vrouwen uit de Ahwaz- en Bandar-regio's van Iran. Hij wordt ook veel gedragen door vrouwen in Saoedi-Arabië en de Golfstaten, met name in Oman. (GVE, 2002)" .
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f4900e5bc5c0da490364aac0753ab84a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

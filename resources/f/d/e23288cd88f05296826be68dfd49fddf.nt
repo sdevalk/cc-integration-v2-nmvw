@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fb9dff2cedaceb5a9708c77da4f5401f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb9dff2cedaceb5a9708c77da4f5401f> <https://colonialcollections.nl/schema#identifier> "TM-1016-3h" .
+<https://n2t.net/ark:/27023/fb9dff2cedaceb5a9708c77da4f5401f> <https://colonialcollections.nl/schema#name> "HANDGESCHREVEN BLAD UIT DE KORAN, IN ARABISCH SCHRIFT" .
+<https://n2t.net/ark:/27023/fb9dff2cedaceb5a9708c77da4f5401f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fb9dff2cedaceb5a9708c77da4f5401f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f41ee8a05e7728d8c6bffc72ec15acb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f41ee8a05e7728d8c6bffc72ec15acb4> <https://colonialcollections.nl/schema#identifier> "RV-399-5" .
+<https://n2t.net/ark:/27023/f41ee8a05e7728d8c6bffc72ec15acb4> <https://colonialcollections.nl/schema#name> "Halssnoer" .
+<https://n2t.net/ark:/27023/f41ee8a05e7728d8c6bffc72ec15acb4> <https://colonialcollections.nl/schema#material> "pitten (awarra palm)" .
+<https://n2t.net/ark:/27023/f41ee8a05e7728d8c6bffc72ec15acb4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

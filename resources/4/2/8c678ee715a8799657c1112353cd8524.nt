@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/eb648e431f92ed506516d5c7da19674d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb648e431f92ed506516d5c7da19674d> <https://colonialcollections.nl/schema#identifier> "TM-A-6317" .
+<https://n2t.net/ark:/27023/eb648e431f92ed506516d5c7da19674d> <https://colonialcollections.nl/schema#name> "CACAOPIT VAN PAPIER-MACHÉ" .
+<https://n2t.net/ark:/27023/eb648e431f92ed506516d5c7da19674d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/eb648e431f92ed506516d5c7da19674d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

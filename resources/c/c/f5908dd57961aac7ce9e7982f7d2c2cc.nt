@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f1d60c52da825fc5d3548874c3209552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f1d60c52da825fc5d3548874c3209552> <https://colonialcollections.nl/schema#identifier> "WM-50316" .
+<https://n2t.net/ark:/27023/f1d60c52da825fc5d3548874c3209552> <https://colonialcollections.nl/schema#description> "[KL] wit & blauw (kraal)" .
+<https://n2t.net/ark:/27023/f1d60c52da825fc5d3548874c3209552> <https://colonialcollections.nl/schema#material> "kaurischelp, glas, katoen (of raffia*)" .
+<https://n2t.net/ark:/27023/f1d60c52da825fc5d3548874c3209552> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

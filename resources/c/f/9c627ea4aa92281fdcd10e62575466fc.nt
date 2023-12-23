@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fb3613924a16daa7cd0e3ab6955aa8d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb3613924a16daa7cd0e3ab6955aa8d0> <https://colonialcollections.nl/schema#identifier> "RV-5660-10" .
+<https://n2t.net/ark:/27023/fb3613924a16daa7cd0e3ab6955aa8d0> <https://colonialcollections.nl/schema#name> "Paneel met glasplaat" .
+<https://n2t.net/ark:/27023/fb3613924a16daa7cd0e3ab6955aa8d0> <https://colonialcollections.nl/schema#material> "hout ; glas" .
+<https://n2t.net/ark:/27023/fb3613924a16daa7cd0e3ab6955aa8d0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

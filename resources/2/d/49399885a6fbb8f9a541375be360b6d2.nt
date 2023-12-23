@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fc3c3269937c9e48775650592bc5430b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc3c3269937c9e48775650592bc5430b> <https://colonialcollections.nl/schema#identifier> "TM-3323-87" .
+<https://n2t.net/ark:/27023/fc3c3269937c9e48775650592bc5430b> <https://colonialcollections.nl/schema#name> "KLEURIG HOUTEN HELMMASKER" .
+<https://n2t.net/ark:/27023/fc3c3269937c9e48775650592bc5430b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fc3c3269937c9e48775650592bc5430b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

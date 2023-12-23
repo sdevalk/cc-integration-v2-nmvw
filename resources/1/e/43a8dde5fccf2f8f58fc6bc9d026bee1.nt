@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f3008a037cb615106a4dc6226becdd34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f3008a037cb615106a4dc6226becdd34> <https://colonialcollections.nl/schema#identifier> "TM-4956-293b" .
+<https://n2t.net/ark:/27023/f3008a037cb615106a4dc6226becdd34> <https://colonialcollections.nl/schema#name> "CHROMEN TUSSENSTUK" .
+<https://n2t.net/ark:/27023/f3008a037cb615106a4dc6226becdd34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f3008a037cb615106a4dc6226becdd34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/edb1e0386d72567fbcd0b7464b195ebb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/edb1e0386d72567fbcd0b7464b195ebb> <https://colonialcollections.nl/schema#identifier> "RV-2292-103" .
+<https://n2t.net/ark:/27023/edb1e0386d72567fbcd0b7464b195ebb> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://n2t.net/ark:/27023/edb1e0386d72567fbcd0b7464b195ebb> <https://colonialcollections.nl/schema#material> "hout ; katoen" .
+<https://n2t.net/ark:/27023/edb1e0386d72567fbcd0b7464b195ebb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

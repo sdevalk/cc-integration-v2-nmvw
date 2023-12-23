@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f2971dc63629d5a40864b5f9cd2a573d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2971dc63629d5a40864b5f9cd2a573d> <https://colonialcollections.nl/schema#identifier> "RV-5720-7" .
+<https://n2t.net/ark:/27023/f2971dc63629d5a40864b5f9cd2a573d> <https://colonialcollections.nl/schema#name> "ZILVEREN BORSTSIERAAD MET GLAS EN HALFEDELSTENEN" .
+<https://n2t.net/ark:/27023/f2971dc63629d5a40864b5f9cd2a573d> <https://colonialcollections.nl/schema#material> "Zilver ; glas ; halfedelstenen (verm) ; textiel ; verguld (verm)" .
+<https://n2t.net/ark:/27023/f2971dc63629d5a40864b5f9cd2a573d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f2971dc63629d5a40864b5f9cd2a573d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <https://colonialcollections.nl/schema#identifier> "RV-5482-7" .
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <https://colonialcollections.nl/schema#name> "Bord" .
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <https://colonialcollections.nl/schema#description> "Koperen bord." .
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/faab9572af26b4f8998545ae85c6469d> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

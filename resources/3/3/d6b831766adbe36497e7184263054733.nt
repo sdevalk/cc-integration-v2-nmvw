@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/eabf59dcbbeb2f9f9b5425815425f058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eabf59dcbbeb2f9f9b5425815425f058> <https://colonialcollections.nl/schema#identifier> "TM-4788-3" .
+<https://n2t.net/ark:/27023/eabf59dcbbeb2f9f9b5425815425f058> <https://colonialcollections.nl/schema#name> "BLIKKEN ZEEF" .
+<https://n2t.net/ark:/27023/eabf59dcbbeb2f9f9b5425815425f058> <https://colonialcollections.nl/schema#description> "Gemaakt van een blik keukenolie." .
+<https://n2t.net/ark:/27023/eabf59dcbbeb2f9f9b5425815425f058> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/eabf59dcbbeb2f9f9b5425815425f058> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

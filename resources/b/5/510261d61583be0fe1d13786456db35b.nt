@@ -1,0 +1,25 @@
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#identifier> "TM-90000027" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"TRADITIONAL WORLD OF ISLAM: KNOWLEDGE OF THE WORLD\"" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#description> "Documentaire over traditioneeel onderwijs en wetenschap in de wereld van de islam. Film nummer vijf. (J. de Jonge, 1975)\r\n\r\nDe film is in kleur en bevat optisch geluid. De film is Engels gesproken.\r\nHet is een 16mm film." .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#creator> "Dhr. S. (Stephen) Cross" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#creator> "Dhr. P. (Paul) Keeler" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#locationCreated> "Cairo" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#locationCreated> "Baghdad" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Baghdād" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Misr" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "El Kahira" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "El Kahirah" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Baghdad"@en .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Masr" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Le Caire" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Bagdad" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "El-Qâhira" .
+<https://n2t.net/ark:/27023/fa91605d3e4603d638df3ea8ae344545> <https://colonialcollections.nl/schema#alternateName> "Al Qāhirah" .

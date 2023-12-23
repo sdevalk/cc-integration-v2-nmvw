@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fae1ce9c7755be2f9acaa38cab0842c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fae1ce9c7755be2f9acaa38cab0842c0> <https://colonialcollections.nl/schema#identifier> "RV-678-23" .
+<https://n2t.net/ark:/27023/fae1ce9c7755be2f9acaa38cab0842c0> <https://colonialcollections.nl/schema#name> "Strijdbijl" .
+<https://n2t.net/ark:/27023/fae1ce9c7755be2f9acaa38cab0842c0> <https://colonialcollections.nl/schema#description> "Inv.kaart: Gangella, dit is de Ngangela stam, tussen de boven Cuito en de Cubango; v.d.Kellen vermeldt de Okavango." .
+<https://n2t.net/ark:/27023/fae1ce9c7755be2f9acaa38cab0842c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

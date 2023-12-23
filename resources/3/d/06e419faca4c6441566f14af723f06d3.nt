@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f5054f28d2fc83473bae2f5f591c2bd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f5054f28d2fc83473bae2f5f591c2bd6> <https://colonialcollections.nl/schema#identifier> "TM-4318-456b" .
+<https://n2t.net/ark:/27023/f5054f28d2fc83473bae2f5f591c2bd6> <https://colonialcollections.nl/schema#name> "HOUTEN LEPEL VOOR HET FIJNMAKEN VAN KOFFIE" .
+<https://n2t.net/ark:/27023/f5054f28d2fc83473bae2f5f591c2bd6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f5054f28d2fc83473bae2f5f591c2bd6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#identifier> "TM-4849-357" .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#name> "PRENT MET ALS THEMA DE PROFEET MOHAMMED" .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#description> "Polychrome prent met de namen van de profeet Mohammed. Uitgegeven door Taj Company in Lahore, Pakistan." .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#creator> "Taj Company Ltd" .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ecb17ed59d34d8aac99f3e4483633b21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .

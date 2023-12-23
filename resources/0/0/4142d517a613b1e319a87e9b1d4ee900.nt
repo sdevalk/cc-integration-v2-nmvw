@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/eacfe7b4713e57bf4fbe49ad3d5b583d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eacfe7b4713e57bf4fbe49ad3d5b583d> <https://colonialcollections.nl/schema#identifier> "RV-2880-5" .
+<https://n2t.net/ark:/27023/eacfe7b4713e57bf4fbe49ad3d5b583d> <https://colonialcollections.nl/schema#name> "Beeld" .
+<https://n2t.net/ark:/27023/eacfe7b4713e57bf4fbe49ad3d5b583d> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/eacfe7b4713e57bf4fbe49ad3d5b583d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

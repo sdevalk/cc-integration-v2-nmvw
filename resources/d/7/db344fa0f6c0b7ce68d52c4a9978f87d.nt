@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ebf1f7d4dfc3b2f39aeca0fecadb3b70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ebf1f7d4dfc3b2f39aeca0fecadb3b70> <https://colonialcollections.nl/schema#identifier> "TM-3134-23" .
+<https://n2t.net/ark:/27023/ebf1f7d4dfc3b2f39aeca0fecadb3b70> <https://colonialcollections.nl/schema#name> "KOPEREN KOFFIEKAN MET HOUTEN STEEL" .
+<https://n2t.net/ark:/27023/ebf1f7d4dfc3b2f39aeca0fecadb3b70> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ebf1f7d4dfc3b2f39aeca0fecadb3b70> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .

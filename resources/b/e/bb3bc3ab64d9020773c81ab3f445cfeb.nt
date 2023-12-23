@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f9e395704eacacc9c4a3bc7b9143e971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f9e395704eacacc9c4a3bc7b9143e971> <https://colonialcollections.nl/schema#identifier> "TM-6424-96" .
+<https://n2t.net/ark:/27023/f9e395704eacacc9c4a3bc7b9143e971> <https://colonialcollections.nl/schema#name> "BEELD VAN EEN VROUW MET HOOFDTOOI, OOR- EN HALSSIERADEN" .
+<https://n2t.net/ark:/27023/f9e395704eacacc9c4a3bc7b9143e971> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f9e395704eacacc9c4a3bc7b9143e971> <https://colonialcollections.nl/schema#yearCreatedStart> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .

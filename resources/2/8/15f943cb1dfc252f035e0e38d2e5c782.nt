@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f9ecd96cf88bdad5460d3e1ae026ba1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f9ecd96cf88bdad5460d3e1ae026ba1b> <https://colonialcollections.nl/schema#identifier> "RV-5578-90" .
+<https://n2t.net/ark:/27023/f9ecd96cf88bdad5460d3e1ae026ba1b> <https://colonialcollections.nl/schema#name> "Halssnoer" .
+<https://n2t.net/ark:/27023/f9ecd96cf88bdad5460d3e1ae026ba1b> <https://colonialcollections.nl/schema#material> "kraal" .
+<https://n2t.net/ark:/27023/f9ecd96cf88bdad5460d3e1ae026ba1b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

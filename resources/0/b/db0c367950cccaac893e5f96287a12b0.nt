@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f4859921ab9803368b029731e61a4edd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f4859921ab9803368b029731e61a4edd> <https://colonialcollections.nl/schema#identifier> "RV-3600-366a" .
+<https://n2t.net/ark:/27023/f4859921ab9803368b029731e61a4edd> <https://colonialcollections.nl/schema#name> "Versiering voor mand" .
+<https://n2t.net/ark:/27023/f4859921ab9803368b029731e61a4edd> <https://colonialcollections.nl/schema#description> "Stukken blad ter versiering van draagmanden." .
+<https://n2t.net/ark:/27023/f4859921ab9803368b029731e61a4edd> <https://colonialcollections.nl/schema#material> "sagopalmblad" .
+<https://n2t.net/ark:/27023/f4859921ab9803368b029731e61a4edd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

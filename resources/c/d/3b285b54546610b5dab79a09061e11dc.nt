@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ec974f5d44bb127d1822ee8f2d377d15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec974f5d44bb127d1822ee8f2d377d15> <https://colonialcollections.nl/schema#identifier> "TM-3925-110" .
+<https://n2t.net/ark:/27023/ec974f5d44bb127d1822ee8f2d377d15> <https://colonialcollections.nl/schema#name> "HAK VOOR GRONDBEWERKING" .
+<https://n2t.net/ark:/27023/ec974f5d44bb127d1822ee8f2d377d15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ec974f5d44bb127d1822ee8f2d377d15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

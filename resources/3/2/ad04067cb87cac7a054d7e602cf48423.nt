@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#identifier> "WM-940137-1" .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#description> "In rood leer gebonden tekstboek van de \"Description de l'Egypte\". Gouden opdruk op de rug. Voorwoord en uitleg bij de platen" .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#material> "papier, inkt, leer\r\nkopergravure" .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#creator> "Impériale" .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#yearCreatedStart> "1809"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fcb41981a29b509096bd7f485412fc88> <https://colonialcollections.nl/schema#yearCreatedEnd> "1828"^^<http://www.w3.org/2001/XMLSchema#integer> .

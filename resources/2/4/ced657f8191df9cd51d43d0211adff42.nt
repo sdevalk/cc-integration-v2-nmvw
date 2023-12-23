@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ec6b82734a00b61ba2e107bd7d2a4fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec6b82734a00b61ba2e107bd7d2a4fa1> <https://colonialcollections.nl/schema#identifier> "WM-62724-3" .
+<https://n2t.net/ark:/27023/ec6b82734a00b61ba2e107bd7d2a4fa1> <https://colonialcollections.nl/schema#description> "[KL] azuurblauw" .
+<https://n2t.net/ark:/27023/ec6b82734a00b61ba2e107bd7d2a4fa1> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/ec6b82734a00b61ba2e107bd7d2a4fa1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

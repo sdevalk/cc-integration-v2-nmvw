@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fb63583db2d36a900491b60909c9bccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fb63583db2d36a900491b60909c9bccc> <https://colonialcollections.nl/schema#identifier> "RV-503-130" .
+<https://n2t.net/ark:/27023/fb63583db2d36a900491b60909c9bccc> <https://colonialcollections.nl/schema#name> "SAW" .
+<https://n2t.net/ark:/27023/fb63583db2d36a900491b60909c9bccc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fb63583db2d36a900491b60909c9bccc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

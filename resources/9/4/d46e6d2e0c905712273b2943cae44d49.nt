@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <https://colonialcollections.nl/schema#identifier> "WM-75154" .
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <https://colonialcollections.nl/schema#description> "blauw & turkoois & wit & groen\r\ntulp & wijnrank" .
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <https://colonialcollections.nl/schema#material> "aardewerk; geglazuurd" .
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <https://colonialcollections.nl/schema#yearCreatedStart> "1575"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f1f3654ce5ecf2bf6c14b598d46aea34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1599"^^<http://www.w3.org/2001/XMLSchema#integer> .

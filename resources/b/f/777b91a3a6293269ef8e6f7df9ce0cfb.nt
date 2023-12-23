@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f43a93665f390d3b661e812ce73e286e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f43a93665f390d3b661e812ce73e286e> <https://colonialcollections.nl/schema#identifier> "TM-3572-27a" .
+<https://n2t.net/ark:/27023/f43a93665f390d3b661e812ce73e286e> <https://colonialcollections.nl/schema#name> "TAFEREEL VAN EEN KOKOSNOOTPLUKKER IN EEN PALM, GEMAAKT VAN BALATA" .
+<https://n2t.net/ark:/27023/f43a93665f390d3b661e812ce73e286e> <https://colonialcollections.nl/schema#description> "Het melksap van de balata, waaruit dit voorwerp is geboetseerd, is geheel uitgedroogd en verbrokkeld." .
+<https://n2t.net/ark:/27023/f43a93665f390d3b661e812ce73e286e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f43a93665f390d3b661e812ce73e286e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

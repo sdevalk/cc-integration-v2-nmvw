@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/fbd582cfa2a0b316a0feccc09a65872e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fbd582cfa2a0b316a0feccc09a65872e> <https://colonialcollections.nl/schema#identifier> "TM-4170-2n" .
+<https://n2t.net/ark:/27023/fbd582cfa2a0b316a0feccc09a65872e> <https://colonialcollections.nl/schema#name> "BESCHILDERDE SPEELKAART" .
+<https://n2t.net/ark:/27023/fbd582cfa2a0b316a0feccc09a65872e> <https://colonialcollections.nl/schema#description> "Vermoedelijk met een voorspellende functie." .
+<https://n2t.net/ark:/27023/fbd582cfa2a0b316a0feccc09a65872e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fbd582cfa2a0b316a0feccc09a65872e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

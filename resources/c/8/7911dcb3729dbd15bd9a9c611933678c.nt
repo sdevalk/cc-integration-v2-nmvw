@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f327ec8dad439b31ad6bca727ef39492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f327ec8dad439b31ad6bca727ef39492> <https://colonialcollections.nl/schema#identifier> "WM-61929" .
+<https://n2t.net/ark:/27023/f327ec8dad439b31ad6bca727ef39492> <https://colonialcollections.nl/schema#description> "[DE] reepjes (blik of tin)\r\n[ST] knoopsluiting" .
+<https://n2t.net/ark:/27023/f327ec8dad439b31ad6bca727ef39492> <https://colonialcollections.nl/schema#material> "ijzer, leer" .
+<https://n2t.net/ark:/27023/f327ec8dad439b31ad6bca727ef39492> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

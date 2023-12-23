@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/eb3b92f302c7908b7a49de87aef5a47b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb3b92f302c7908b7a49de87aef5a47b> <https://colonialcollections.nl/schema#identifier> "AM-102-11" .
+<https://n2t.net/ark:/27023/eb3b92f302c7908b7a49de87aef5a47b> <https://colonialcollections.nl/schema#name> "Rok" .
+<https://n2t.net/ark:/27023/eb3b92f302c7908b7a49de87aef5a47b> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nRok bestaande uit verschillende gekleurde vezels." .
+<https://n2t.net/ark:/27023/eb3b92f302c7908b7a49de87aef5a47b> <https://colonialcollections.nl/schema#material> "Plantaardige vezels" .
+<https://n2t.net/ark:/27023/eb3b92f302c7908b7a49de87aef5a47b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f28a1c0187e822516a2476927adecd89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f28a1c0187e822516a2476927adecd89> <https://colonialcollections.nl/schema#identifier> "WM-76745" .
+<https://n2t.net/ark:/27023/f28a1c0187e822516a2476927adecd89> <https://colonialcollections.nl/schema#description> "[KL] metaal & goud & rood & zwart\r\n[DE] bloem & blad & Arabisch schrift" .
+<https://n2t.net/ark:/27023/f28a1c0187e822516a2476927adecd89> <https://colonialcollections.nl/schema#material> "metaal, goud\r\ngegraveerd" .
+<https://n2t.net/ark:/27023/f28a1c0187e822516a2476927adecd89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

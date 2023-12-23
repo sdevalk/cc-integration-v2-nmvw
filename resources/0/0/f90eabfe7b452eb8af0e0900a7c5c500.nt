@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ec63645c3922506c894fddb35308784d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ec63645c3922506c894fddb35308784d> <https://colonialcollections.nl/schema#identifier> "WM-38860" .
+<https://n2t.net/ark:/27023/ec63645c3922506c894fddb35308784d> <https://colonialcollections.nl/schema#description> "[VO] geruit." .
+<https://n2t.net/ark:/27023/ec63645c3922506c894fddb35308784d> <https://colonialcollections.nl/schema#material> "geweven" .
+<https://n2t.net/ark:/27023/ec63645c3922506c894fddb35308784d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

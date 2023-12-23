@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f2cab4a5ff7e7d329db99875bb2d6664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2cab4a5ff7e7d329db99875bb2d6664> <https://colonialcollections.nl/schema#identifier> "TM-3833-321" .
+<https://n2t.net/ark:/27023/f2cab4a5ff7e7d329db99875bb2d6664> <https://colonialcollections.nl/schema#name> "INDIGO VERFSTOF IN BROKEN GEBRUIKT VOOR HET VERVEN VAN WEEFSELS" .
+<https://n2t.net/ark:/27023/f2cab4a5ff7e7d329db99875bb2d6664> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f2cab4a5ff7e7d329db99875bb2d6664> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

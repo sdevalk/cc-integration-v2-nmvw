@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fce5637cf3ee86b741c8230c46a6ceeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fce5637cf3ee86b741c8230c46a6ceeb> <https://colonialcollections.nl/schema#identifier> "TM-3401-218" .
+<https://n2t.net/ark:/27023/fce5637cf3ee86b741c8230c46a6ceeb> <https://colonialcollections.nl/schema#name> "BROCHE VAN PARELMOER, IN DE VORM VAN EEN ZITTENDE LEEUW" .
+<https://n2t.net/ark:/27023/fce5637cf3ee86b741c8230c46a6ceeb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fce5637cf3ee86b741c8230c46a6ceeb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

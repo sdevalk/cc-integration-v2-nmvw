@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f99393636676af2b0a553dc2069ef091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f99393636676af2b0a553dc2069ef091> <https://colonialcollections.nl/schema#identifier> "TM-3964-12" .
+<https://n2t.net/ark:/27023/f99393636676af2b0a553dc2069ef091> <https://colonialcollections.nl/schema#name> "AARDEWERKEN SCHAAL MET VISMOTIEF" .
+<https://n2t.net/ark:/27023/f99393636676af2b0a553dc2069ef091> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f99393636676af2b0a553dc2069ef091> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

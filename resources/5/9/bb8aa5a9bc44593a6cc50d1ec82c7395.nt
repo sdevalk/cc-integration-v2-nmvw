@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/eb98d303d412f1a6c8ce1e5954555e49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb98d303d412f1a6c8ce1e5954555e49> <https://colonialcollections.nl/schema#identifier> "WM-16420" .
+<https://n2t.net/ark:/27023/eb98d303d412f1a6c8ce1e5954555e49> <https://colonialcollections.nl/schema#description> "[ST] touwtje & triltong\r\n\r\nDe trillende middentong heet ana mongua." .
+<https://n2t.net/ark:/27023/eb98d303d412f1a6c8ce1e5954555e49> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://n2t.net/ark:/27023/eb98d303d412f1a6c8ce1e5954555e49> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

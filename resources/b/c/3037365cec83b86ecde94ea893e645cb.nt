@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f336123c94ffda2563d4abf34e4dd372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f336123c94ffda2563d4abf34e4dd372> <https://colonialcollections.nl/schema#identifier> "TM-2308-1q" .
+<https://n2t.net/ark:/27023/f336123c94ffda2563d4abf34e4dd372> <https://colonialcollections.nl/schema#name> "SERIE VAN (NEGENTIEN) FOTO'S VAN KUNSTVOORWERPEN." .
+<https://n2t.net/ark:/27023/f336123c94ffda2563d4abf34e4dd372> <https://colonialcollections.nl/schema#description> "Herk: Tibet en Nepal." .
+<https://n2t.net/ark:/27023/f336123c94ffda2563d4abf34e4dd372> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f336123c94ffda2563d4abf34e4dd372> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

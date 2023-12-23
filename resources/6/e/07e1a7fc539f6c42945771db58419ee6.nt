@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#identifier> "TM-90000028" .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"TRADITIONAL WORLD OF ISLAM: MAN AND NATURE\"" .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#description> "Documentaire over traditionele techniek en bouwkunst in de wereld van de islam. Film nummer drie.  (J. de Jonge, 1975)\r\n\r\nDe film is in kleur en bevat optisch geluid. De film is Engels gesproken.\r\nHet is een 16mm film." .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#creator> "Dhr. P. (Paul) Keeler" .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#creator> "Dhr. S. (Stephen) Cross" .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/edcafef5db925087a74dda80913e8bb0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

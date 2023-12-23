@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/f502fe7cead7d461f3a0e72878e0bd74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f502fe7cead7d461f3a0e72878e0bd74> <https://colonialcollections.nl/schema#identifier> "WM-32411" .
+<https://n2t.net/ark:/27023/f502fe7cead7d461f3a0e72878e0bd74> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/f502fe7cead7d461f3a0e72878e0bd74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

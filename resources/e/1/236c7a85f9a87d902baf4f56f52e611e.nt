@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f4f9deb5ae784a477d3e8cae019cb2ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f4f9deb5ae784a477d3e8cae019cb2ed> <https://colonialcollections.nl/schema#identifier> "RV-1282-120" .
+<https://n2t.net/ark:/27023/f4f9deb5ae784a477d3e8cae019cb2ed> <https://colonialcollections.nl/schema#name> "Zwaardstootplaat" .
+<https://n2t.net/ark:/27023/f4f9deb5ae784a477d3e8cae019cb2ed> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/f4f9deb5ae784a477d3e8cae019cb2ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

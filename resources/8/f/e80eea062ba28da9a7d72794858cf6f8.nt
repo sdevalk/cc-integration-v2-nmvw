@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/fa71ca826f20b9b459c081f9fb67a2fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa71ca826f20b9b459c081f9fb67a2fa> <https://colonialcollections.nl/schema#identifier> "WM-901272" .
+<https://n2t.net/ark:/27023/fa71ca826f20b9b459c081f9fb67a2fa> <https://colonialcollections.nl/schema#description> "dorp & woonhuis & gebergte & weg" .
+<https://n2t.net/ark:/27023/fa71ca826f20b9b459c081f9fb67a2fa> <https://colonialcollections.nl/schema#material> "[MT] papier : Agfa Brovira\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/fa71ca826f20b9b459c081f9fb67a2fa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fa71ca826f20b9b459c081f9fb67a2fa> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .

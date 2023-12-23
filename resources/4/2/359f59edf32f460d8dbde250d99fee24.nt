@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/ece8a004e4ca288073082d8bd5d58181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ece8a004e4ca288073082d8bd5d58181> <https://colonialcollections.nl/schema#identifier> "RV-1307-18" .
+<https://n2t.net/ark:/27023/ece8a004e4ca288073082d8bd5d58181> <https://colonialcollections.nl/schema#name> "Snuifkoker" .
+<https://n2t.net/ark:/27023/ece8a004e4ca288073082d8bd5d58181> <https://colonialcollections.nl/schema#description> "Inv.kaart: Snuifkokertje met deksel, in antropomorfe uitvoering." .
+<https://n2t.net/ark:/27023/ece8a004e4ca288073082d8bd5d58181> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/ece8a004e4ca288073082d8bd5d58181> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ebc74d9b18eb18b89a3815b4098efcb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ebc74d9b18eb18b89a3815b4098efcb3> <https://colonialcollections.nl/schema#identifier> "TM-R-431" .
+<https://n2t.net/ark:/27023/ebc74d9b18eb18b89a3815b4098efcb3> <https://colonialcollections.nl/schema#name> "VIERTAL VOORSTELLINGEN VAN DE HEL" .
+<https://n2t.net/ark:/27023/ebc74d9b18eb18b89a3815b4098efcb3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ebc74d9b18eb18b89a3815b4098efcb3> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

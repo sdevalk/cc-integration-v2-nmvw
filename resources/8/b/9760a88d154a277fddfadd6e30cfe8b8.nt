@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/0438af17143887a9751de2adc7d32be5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/0438af17143887a9751de2adc7d32be5> <https://colonialcollections.nl/schema#identifier> "TM-3912-372b" .
+<https://n2t.net/ark:/27023/0438af17143887a9751de2adc7d32be5> <https://colonialcollections.nl/schema#name> "KAARDE, GEBRUIKT VOOR HET KAMMEN VAN KATOEN" .
+<https://n2t.net/ark:/27023/0438af17143887a9751de2adc7d32be5> <https://colonialcollections.nl/schema#material> "Hout ; katoen ; ijzer ; kunststof ; machinaal vervaardigen" .
+<https://n2t.net/ark:/27023/0438af17143887a9751de2adc7d32be5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/0438af17143887a9751de2adc7d32be5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

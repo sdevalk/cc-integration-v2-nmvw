@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ece1f7f4cd8abb843e6a04ea07742a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ece1f7f4cd8abb843e6a04ea07742a98> <https://colonialcollections.nl/schema#identifier> "TM-A-6290" .
+<https://n2t.net/ark:/27023/ece1f7f4cd8abb843e6a04ea07742a98> <https://colonialcollections.nl/schema#name> "OPSCHEPLEPEL VAN KOKOSNOOT MET HOUTEN STEEL" .
+<https://n2t.net/ark:/27023/ece1f7f4cd8abb843e6a04ea07742a98> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ece1f7f4cd8abb843e6a04ea07742a98> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

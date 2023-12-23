@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fafe2043c78f9a50377d4388ae8b9dbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fafe2043c78f9a50377d4388ae8b9dbb> <https://colonialcollections.nl/schema#identifier> "TM-H-2600" .
+<https://n2t.net/ark:/27023/fafe2043c78f9a50377d4388ae8b9dbb> <https://colonialcollections.nl/schema#name> "HOUTEN ZEEPBAK, VERSIERD MET STOFFEERNAGELS" .
+<https://n2t.net/ark:/27023/fafe2043c78f9a50377d4388ae8b9dbb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fafe2043c78f9a50377d4388ae8b9dbb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

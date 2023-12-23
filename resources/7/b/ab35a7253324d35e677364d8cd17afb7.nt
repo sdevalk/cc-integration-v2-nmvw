@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <https://colonialcollections.nl/schema#identifier> "TM-4107-51" .
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <https://colonialcollections.nl/schema#name> "VILTEN MUTS VOOR MANNEN" .
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <https://colonialcollections.nl/schema#description> "Met behulp van een mal in model gebracht." .
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <https://colonialcollections.nl/schema#material> "vilt ; metaal ; vervilten" .
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fa219398dc23ec3de3c0d77bbc5eb660> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

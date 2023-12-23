@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f2e6eb55ac1fd85d956437b67d3075c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2e6eb55ac1fd85d956437b67d3075c0> <https://colonialcollections.nl/schema#identifier> "RV-1973-63" .
+<https://n2t.net/ark:/27023/f2e6eb55ac1fd85d956437b67d3075c0> <https://colonialcollections.nl/schema#name> "Drinkkom" .
+<https://n2t.net/ark:/27023/f2e6eb55ac1fd85d956437b67d3075c0> <https://colonialcollections.nl/schema#material> "verf x?" .
+<https://n2t.net/ark:/27023/f2e6eb55ac1fd85d956437b67d3075c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

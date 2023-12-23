@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <https://colonialcollections.nl/schema#identifier> "RV-4778-26" .
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <https://colonialcollections.nl/schema#name> "Katoenen broek met borduurwerk versierd" .
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <https://colonialcollections.nl/schema#description> "De broek is afkomstig uit Quteifa / Al Qutayfah ten noordoosten van Damascus." .
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <https://colonialcollections.nl/schema#material> "Katoen" .
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/eb1e617a28ac0337bb85e116689666b9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f244b6ac444b2f4a96b0b974141bb505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f244b6ac444b2f4a96b0b974141bb505> <https://colonialcollections.nl/schema#identifier> "TM-702-137" .
+<https://n2t.net/ark:/27023/f244b6ac444b2f4a96b0b974141bb505> <https://colonialcollections.nl/schema#name> "LODEN MUNT" .
+<https://n2t.net/ark:/27023/f244b6ac444b2f4a96b0b974141bb505> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f244b6ac444b2f4a96b0b974141bb505> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

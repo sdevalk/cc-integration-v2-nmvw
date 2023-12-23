@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f34693e50e60d578ce09f1f20b8de649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f34693e50e60d578ce09f1f20b8de649> <https://colonialcollections.nl/schema#identifier> "WM-32393" .
+<https://n2t.net/ark:/27023/f34693e50e60d578ce09f1f20b8de649> <https://colonialcollections.nl/schema#material> "staal, messing, leer, wol, koper" .
+<https://n2t.net/ark:/27023/f34693e50e60d578ce09f1f20b8de649> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f34693e50e60d578ce09f1f20b8de649> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f34693e50e60d578ce09f1f20b8de649> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ed10c5e1d865112673112909efef55e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ed10c5e1d865112673112909efef55e5> <https://colonialcollections.nl/schema#identifier> "WM-62175" .
+<https://n2t.net/ark:/27023/ed10c5e1d865112673112909efef55e5> <https://colonialcollections.nl/schema#description> "[VO] nar ; Semar." .
+<https://n2t.net/ark:/27023/ed10c5e1d865112673112909efef55e5> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/ed10c5e1d865112673112909efef55e5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

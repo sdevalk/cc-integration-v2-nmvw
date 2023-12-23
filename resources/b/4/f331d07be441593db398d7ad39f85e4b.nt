@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fc74915d93e8e0401fe4ab5e4c44bd47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fc74915d93e8e0401fe4ab5e4c44bd47> <https://colonialcollections.nl/schema#identifier> "WM-302892" .
+<https://n2t.net/ark:/27023/fc74915d93e8e0401fe4ab5e4c44bd47> <https://colonialcollections.nl/schema#description> "Bonken VOC" .
+<https://n2t.net/ark:/27023/fc74915d93e8e0401fe4ab5e4c44bd47> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/fc74915d93e8e0401fe4ab5e4c44bd47> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

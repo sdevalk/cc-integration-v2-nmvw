@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#identifier> "RV-337-68" .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#name> "Halskraag" .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#description> "Deze halskraag werd gedragen door prinsen, dorpshoofden zowel op de Congo rivier en verderop aan de kust en is vervaardigd van het binnenste van de bladeren van de waaierpalm. Lokale naam is \"Zinzemba\"." .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#material> "palmblad (waaierpalm)" .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#yearCreatedStart> "1833"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ebb428c07dde544dd5eb3ba8100c04f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

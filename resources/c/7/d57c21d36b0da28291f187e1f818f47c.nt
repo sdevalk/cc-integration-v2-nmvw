@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/ea56e592492a5d385132b44c7e432bd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ea56e592492a5d385132b44c7e432bd4> <https://colonialcollections.nl/schema#identifier> "WM-900890" .
+<https://n2t.net/ark:/27023/ea56e592492a5d385132b44c7e432bd4> <https://colonialcollections.nl/schema#description> "mannenkleding : djellaba\r\nman\r\nhuttenbouw\r\nstrohut : Noualahut" .
+<https://n2t.net/ark:/27023/ea56e592492a5d385132b44c7e432bd4> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/ea56e592492a5d385132b44c7e432bd4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ea56e592492a5d385132b44c7e432bd4> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .

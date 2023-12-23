@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/eaa1145040d786a7438f49810cd65976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eaa1145040d786a7438f49810cd65976> <https://colonialcollections.nl/schema#identifier> "RV-4921-14b" .
+<https://n2t.net/ark:/27023/eaa1145040d786a7438f49810cd65976> <https://colonialcollections.nl/schema#name> "THEEKOM MET STANDAARD" .
+<https://n2t.net/ark:/27023/eaa1145040d786a7438f49810cd65976> <https://colonialcollections.nl/schema#description> "Zie kladinventaris ; Voet van theekom." .
+<https://n2t.net/ark:/27023/eaa1145040d786a7438f49810cd65976> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://n2t.net/ark:/27023/eaa1145040d786a7438f49810cd65976> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f2491fcb9a570c0c2ad2ca1c1aa53ebf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f2491fcb9a570c0c2ad2ca1c1aa53ebf> <https://colonialcollections.nl/schema#identifier> "RV-1358-25" .
+<https://n2t.net/ark:/27023/f2491fcb9a570c0c2ad2ca1c1aa53ebf> <https://colonialcollections.nl/schema#name> "Schommel" .
+<https://n2t.net/ark:/27023/f2491fcb9a570c0c2ad2ca1c1aa53ebf> <https://colonialcollections.nl/schema#description> "Kinderspeelgoed: schommel ; 3 st. doublet." .
+<https://n2t.net/ark:/27023/f2491fcb9a570c0c2ad2ca1c1aa53ebf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fac3ad919663efad1ddf87a6d0525db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fac3ad919663efad1ddf87a6d0525db7> <https://colonialcollections.nl/schema#identifier> "TM-3912-614c" .
+<https://n2t.net/ark:/27023/fac3ad919663efad1ddf87a6d0525db7> <https://colonialcollections.nl/schema#name> "VIER VOGELPOTEN EN EEN ROOFVOGELKOP AAN ELKAAR GEBONDEN MET EEN TOUW, ONDERDEEL VAN EEN KRACHTOBJECT VOOR DE JACHT" .
+<https://n2t.net/ark:/27023/fac3ad919663efad1ddf87a6d0525db7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fac3ad919663efad1ddf87a6d0525db7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
