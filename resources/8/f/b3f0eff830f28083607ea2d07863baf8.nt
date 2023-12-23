@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7c86205649b7661d4fb5af450b7f33bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7c86205649b7661d4fb5af450b7f33bf> <https://colonialcollections.nl/schema#identifier> "TM-5683-75" .
+<https://n2t.net/ark:/27023/7c86205649b7661d4fb5af450b7f33bf> <https://colonialcollections.nl/schema#name> "GEGLAZUURDE AARDEWERKEN KRUIK" .
+<https://n2t.net/ark:/27023/7c86205649b7661d4fb5af450b7f33bf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7c86205649b7661d4fb5af450b7f33bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

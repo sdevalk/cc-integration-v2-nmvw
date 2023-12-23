@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/267c4251713d7f06efd7bffe0c9b3940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/267c4251713d7f06efd7bffe0c9b3940> <https://colonialcollections.nl/schema#identifier> "WM-Azie-VI-8" .
+<https://n2t.net/ark:/27023/267c4251713d7f06efd7bffe0c9b3940> <https://colonialcollections.nl/schema#description> "stad" .
+<https://n2t.net/ark:/27023/267c4251713d7f06efd7bffe0c9b3940> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/267c4251713d7f06efd7bffe0c9b3940> <https://colonialcollections.nl/schema#creator> "Wim Mulder" .

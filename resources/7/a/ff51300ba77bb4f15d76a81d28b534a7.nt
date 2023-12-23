@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#identifier> "RV-1045-5" .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#name> "Sieraad" .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#description> "Voor de rug van een kameel?" .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#material> "niet vermeld" .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/235a8708c5bd9409f1fd0a475939bcb6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

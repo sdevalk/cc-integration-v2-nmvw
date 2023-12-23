@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1de9e6a7766cce0e819503d0f503df29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1de9e6a7766cce0e819503d0f503df29> <https://colonialcollections.nl/schema#identifier> "TM-1772-895b" .
+<https://n2t.net/ark:/27023/1de9e6a7766cce0e819503d0f503df29> <https://colonialcollections.nl/schema#name> "ZILVEREN STEELRING" .
+<https://n2t.net/ark:/27023/1de9e6a7766cce0e819503d0f503df29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1de9e6a7766cce0e819503d0f503df29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

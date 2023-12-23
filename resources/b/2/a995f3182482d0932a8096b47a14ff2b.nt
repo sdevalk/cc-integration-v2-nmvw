@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2e571790b7f39d1b7705df8f061642ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2e571790b7f39d1b7705df8f061642ee> <https://colonialcollections.nl/schema#identifier> "WM-76746" .
+<https://n2t.net/ark:/27023/2e571790b7f39d1b7705df8f061642ee> <https://colonialcollections.nl/schema#description> "[DE] cirkel & driehoek" .
+<https://n2t.net/ark:/27023/2e571790b7f39d1b7705df8f061642ee> <https://colonialcollections.nl/schema#material> "metaal\r\ngegraveerd" .
+<https://n2t.net/ark:/27023/2e571790b7f39d1b7705df8f061642ee> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

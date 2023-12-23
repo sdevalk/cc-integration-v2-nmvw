@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1dc1370e470e0de78a6b7ab83e05bacb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1dc1370e470e0de78a6b7ab83e05bacb> <https://colonialcollections.nl/schema#identifier> "RV-3835-38" .
+<https://n2t.net/ark:/27023/1dc1370e470e0de78a6b7ab83e05bacb> <https://colonialcollections.nl/schema#name> "Cassavezeef" .
+<https://n2t.net/ark:/27023/1dc1370e470e0de78a6b7ab83e05bacb> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/1dc1370e470e0de78a6b7ab83e05bacb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

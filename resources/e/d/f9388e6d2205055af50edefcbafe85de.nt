@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2d76743a3d9ca439a0c25d03b2399016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d76743a3d9ca439a0c25d03b2399016> <https://colonialcollections.nl/schema#identifier> "RV-370-514a" .
+<https://n2t.net/ark:/27023/2d76743a3d9ca439a0c25d03b2399016> <https://colonialcollections.nl/schema#name> "Zweep" .
+<https://n2t.net/ark:/27023/2d76743a3d9ca439a0c25d03b2399016> <https://colonialcollections.nl/schema#material> "guttapercha" .
+<https://n2t.net/ark:/27023/2d76743a3d9ca439a0c25d03b2399016> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

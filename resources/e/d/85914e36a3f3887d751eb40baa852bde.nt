@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/24892e34f45f720e3d782ef1bda333f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/24892e34f45f720e3d782ef1bda333f5> <https://colonialcollections.nl/schema#identifier> "RV-4516-26" .
+<https://n2t.net/ark:/27023/24892e34f45f720e3d782ef1bda333f5> <https://colonialcollections.nl/schema#name> "Houtskoolbrander" .
+<https://n2t.net/ark:/27023/24892e34f45f720e3d782ef1bda333f5> <https://colonialcollections.nl/schema#description> "Brander indien sterk genoeg, gebruikt als houtskoolbrander." .
+<https://n2t.net/ark:/27023/24892e34f45f720e3d782ef1bda333f5> <https://colonialcollections.nl/schema#material> "aardewerk?" .
+<https://n2t.net/ark:/27023/24892e34f45f720e3d782ef1bda333f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

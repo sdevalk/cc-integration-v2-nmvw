@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1d56656ac37ac377d8ae8d833239ed1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d56656ac37ac377d8ae8d833239ed1c> <https://colonialcollections.nl/schema#identifier> "WM-76669" .
+<https://n2t.net/ark:/27023/1d56656ac37ac377d8ae8d833239ed1c> <https://colonialcollections.nl/schema#description> "[KL] zilver & wit\r\n[VO] pensluiting & rechthoek & belletje" .
+<https://n2t.net/ark:/27023/1d56656ac37ac377d8ae8d833239ed1c> <https://colonialcollections.nl/schema#material> "metaal & textiel\r\ngranulering" .
+<https://n2t.net/ark:/27023/1d56656ac37ac377d8ae8d833239ed1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

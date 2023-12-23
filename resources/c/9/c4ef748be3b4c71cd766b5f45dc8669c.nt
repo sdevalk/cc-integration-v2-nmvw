@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2dffc3a6e12a7ec1def118bb0101ff23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2dffc3a6e12a7ec1def118bb0101ff23> <https://colonialcollections.nl/schema#identifier> "RV-503-99" .
+<https://n2t.net/ark:/27023/2dffc3a6e12a7ec1def118bb0101ff23> <https://colonialcollections.nl/schema#name> "TONGS" .
+<https://n2t.net/ark:/27023/2dffc3a6e12a7ec1def118bb0101ff23> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/2dffc3a6e12a7ec1def118bb0101ff23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2dffc3a6e12a7ec1def118bb0101ff23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

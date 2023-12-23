@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <https://colonialcollections.nl/schema#identifier> "RV-4470-54" .
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <https://colonialcollections.nl/schema#name> "Bidsnoer" .
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <https://colonialcollections.nl/schema#description> "Bidsnoer van 99 kralen met zes zwart-witfoto's van de heilige plaatsen in en rond Mekka en Medina. In het snoer bevinden zich onder andere kleine uitstekende kralen, imam genoemd, en langwerpige kralen, yad genoemd." .
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <https://colonialcollections.nl/schema#material> "plastic" .
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/24b587f0ad1f8e9cdec44aa1274ae5b5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/236299b06a191c861be07e86f6b55892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/236299b06a191c861be07e86f6b55892> <https://colonialcollections.nl/schema#identifier> "WM-60250" .
+<https://n2t.net/ark:/27023/236299b06a191c861be07e86f6b55892> <https://colonialcollections.nl/schema#description> "[KL] groen & blauw & rood & wit\r\n[ST] kraal" .
+<https://n2t.net/ark:/27023/236299b06a191c861be07e86f6b55892> <https://colonialcollections.nl/schema#material> "glas, stro \r\ngeregen" .
+<https://n2t.net/ark:/27023/236299b06a191c861be07e86f6b55892> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

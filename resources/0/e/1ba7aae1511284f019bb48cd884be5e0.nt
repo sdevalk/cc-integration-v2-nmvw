@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2d9179cc210021944aea650cd80ff2ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d9179cc210021944aea650cd80ff2ba> <https://colonialcollections.nl/schema#identifier> "WM-15535" .
+<https://n2t.net/ark:/27023/2d9179cc210021944aea650cd80ff2ba> <https://colonialcollections.nl/schema#description> "[KL] bruin" .
+<https://n2t.net/ark:/27023/2d9179cc210021944aea650cd80ff2ba> <https://colonialcollections.nl/schema#material> "plantenvezel" .
+<https://n2t.net/ark:/27023/2d9179cc210021944aea650cd80ff2ba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

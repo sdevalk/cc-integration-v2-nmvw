@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2bd7b831943fb4170d2b332fc1fd31fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2bd7b831943fb4170d2b332fc1fd31fa> <https://colonialcollections.nl/schema#identifier> "RV-432-30" .
+<https://n2t.net/ark:/27023/2bd7b831943fb4170d2b332fc1fd31fa> <https://colonialcollections.nl/schema#name> "Waterschep" .
+<https://n2t.net/ark:/27023/2bd7b831943fb4170d2b332fc1fd31fa> <https://colonialcollections.nl/schema#description> "waterschepper \nvan rotting gevlochten en met hars besmeerd" .
+<https://n2t.net/ark:/27023/2bd7b831943fb4170d2b332fc1fd31fa> <https://colonialcollections.nl/schema#material> "rotan" .
+<https://n2t.net/ark:/27023/2bd7b831943fb4170d2b332fc1fd31fa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

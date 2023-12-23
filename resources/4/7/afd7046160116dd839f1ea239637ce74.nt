@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2db8a71ef1701841a0bccea6c778cbff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2db8a71ef1701841a0bccea6c778cbff> <https://colonialcollections.nl/schema#identifier> "RV-1973-42b" .
+<https://n2t.net/ark:/27023/2db8a71ef1701841a0bccea6c778cbff> <https://colonialcollections.nl/schema#name> "HOUTEN KOFFIEKOPJE" .
+<https://n2t.net/ark:/27023/2db8a71ef1701841a0bccea6c778cbff> <https://colonialcollections.nl/schema#description> "zie 1973-42 t/m 41c. Eén van de koffiekopjes is verdwenen." .
+<https://n2t.net/ark:/27023/2db8a71ef1701841a0bccea6c778cbff> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/2db8a71ef1701841a0bccea6c778cbff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

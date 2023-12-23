@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#identifier> "WM-910813" .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#description> "mannenkleding & vrouwenkleding & meelzeef & brandhout\r\nman & vrouw & kind (3)\r\nwoonhuis & binnenplaats @@" .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#material> "[MT] papier & PVC\r\n[TK] albuminedruk\r\n @@ \r\n[OM]  @@ passepartout" .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#creator> "Geiser, J." .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1eb98919b558385e8660bf65f9f7dd3c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

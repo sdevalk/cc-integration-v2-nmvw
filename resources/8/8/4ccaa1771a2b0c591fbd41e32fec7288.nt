@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/23bb9ed4fe1852e00442ed44961a349b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/23bb9ed4fe1852e00442ed44961a349b> <https://colonialcollections.nl/schema#identifier> "WM-21828" .
+<https://n2t.net/ark:/27023/23bb9ed4fe1852e00442ed44961a349b> <https://colonialcollections.nl/schema#description> "Om couscous te bereiden." .
+<https://n2t.net/ark:/27023/23bb9ed4fe1852e00442ed44961a349b> <https://colonialcollections.nl/schema#material> "plantaardig materiaal (alfa)" .
+<https://n2t.net/ark:/27023/23bb9ed4fe1852e00442ed44961a349b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

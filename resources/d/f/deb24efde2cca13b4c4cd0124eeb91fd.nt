@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2b7b3c90acf68ae04d7e32dcff1d9291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b7b3c90acf68ae04d7e32dcff1d9291> <https://colonialcollections.nl/schema#identifier> "TM-4672-20" .
+<https://n2t.net/ark:/27023/2b7b3c90acf68ae04d7e32dcff1d9291> <https://colonialcollections.nl/schema#name> "POLSBANDJE VAN KRALENWERK" .
+<https://n2t.net/ark:/27023/2b7b3c90acf68ae04d7e32dcff1d9291> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2b7b3c90acf68ae04d7e32dcff1d9291> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

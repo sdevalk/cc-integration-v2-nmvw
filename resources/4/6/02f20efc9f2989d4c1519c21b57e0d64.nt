@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1d656802e92a76101578ba9aab15757d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d656802e92a76101578ba9aab15757d> <https://colonialcollections.nl/schema#identifier> "TM-3912-959" .
+<https://n2t.net/ark:/27023/1d656802e92a76101578ba9aab15757d> <https://colonialcollections.nl/schema#name> "LEREN AMULETHOUDER AAN KOORD" .
+<https://n2t.net/ark:/27023/1d656802e92a76101578ba9aab15757d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1d656802e92a76101578ba9aab15757d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2ce1f1276bfc1ca4be9ce82b2c9892fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ce1f1276bfc1ca4be9ce82b2c9892fa> <https://colonialcollections.nl/schema#identifier> "RV-2452-640" .
+<https://n2t.net/ark:/27023/2ce1f1276bfc1ca4be9ce82b2c9892fa> <https://colonialcollections.nl/schema#name> "PAAR KUITRAMMELAARS" .
+<https://n2t.net/ark:/27023/2ce1f1276bfc1ca4be9ce82b2c9892fa> <https://colonialcollections.nl/schema#material> "katoen ; noten" .
+<https://n2t.net/ark:/27023/2ce1f1276bfc1ca4be9ce82b2c9892fa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

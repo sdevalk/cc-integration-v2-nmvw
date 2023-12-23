@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2bf03d10ff3937c7fbacdedf6f88e5ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2bf03d10ff3937c7fbacdedf6f88e5ed> <https://colonialcollections.nl/schema#identifier> "WM-19017" .
+<https://n2t.net/ark:/27023/2bf03d10ff3937c7fbacdedf6f88e5ed> <https://colonialcollections.nl/schema#description> "[ST] handgreep & schijf\r\n[VO] punt (schijf)" .
+<https://n2t.net/ark:/27023/2bf03d10ff3937c7fbacdedf6f88e5ed> <https://colonialcollections.nl/schema#material> "riet, hout, bamboe, ijzer, leer (reptiel), plantenvezel\r\ngevlochten" .
+<https://n2t.net/ark:/27023/2bf03d10ff3937c7fbacdedf6f88e5ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

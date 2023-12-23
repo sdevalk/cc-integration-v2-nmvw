@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/1e9dda7cf474a47dd93308556bd9b46a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e9dda7cf474a47dd93308556bd9b46a> <https://colonialcollections.nl/schema#identifier> "WM-26523" .
+<https://n2t.net/ark:/27023/1e9dda7cf474a47dd93308556bd9b46a> <https://colonialcollections.nl/schema#material> "kwarts : chalcedon\r\nPrehistorisch." .
+<https://n2t.net/ark:/27023/1e9dda7cf474a47dd93308556bd9b46a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

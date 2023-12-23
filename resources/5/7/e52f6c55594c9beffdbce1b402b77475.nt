@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/253c2005721e345ac08c4294c256fcb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/253c2005721e345ac08c4294c256fcb0> <https://colonialcollections.nl/schema#identifier> "TM-2160-128" .
+<https://n2t.net/ark:/27023/253c2005721e345ac08c4294c256fcb0> <https://colonialcollections.nl/schema#name> "WAYANG PURWAPOP VROUW." .
+<https://n2t.net/ark:/27023/253c2005721e345ac08c4294c256fcb0> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Indonesie Java" .
+<https://n2t.net/ark:/27023/253c2005721e345ac08c4294c256fcb0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/253c2005721e345ac08c4294c256fcb0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

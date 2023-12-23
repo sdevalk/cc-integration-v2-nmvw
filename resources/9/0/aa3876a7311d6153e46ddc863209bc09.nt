@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2bb45bf28505dea8f26433bbe01108e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2bb45bf28505dea8f26433bbe01108e2> <https://colonialcollections.nl/schema#identifier> "AM-33-1" .
+<https://n2t.net/ark:/27023/2bb45bf28505dea8f26433bbe01108e2> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://n2t.net/ark:/27023/2bb45bf28505dea8f26433bbe01108e2> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nMes met een in een knop uitlopend houten handvat. Het lemmet is van ijzer versierd met eenvoudige geometrische motieven en loopt uit in een sikkelvorm." .
+<https://n2t.net/ark:/27023/2bb45bf28505dea8f26433bbe01108e2> <https://colonialcollections.nl/schema#material> "IJzer" .
+<https://n2t.net/ark:/27023/2bb45bf28505dea8f26433bbe01108e2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

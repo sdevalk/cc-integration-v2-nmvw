@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2c100b52f2a407f5d944834c992c1a21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c100b52f2a407f5d944834c992c1a21> <https://colonialcollections.nl/schema#identifier> "TM-H-2927" .
+<https://n2t.net/ark:/27023/2c100b52f2a407f5d944834c992c1a21> <https://colonialcollections.nl/schema#name> "SIGNAALHOORN VAN AARDEWERK" .
+<https://n2t.net/ark:/27023/2c100b52f2a407f5d944834c992c1a21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2c100b52f2a407f5d944834c992c1a21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .

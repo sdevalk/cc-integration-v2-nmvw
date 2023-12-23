@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/1c7596f7d598ae35ff6f2cb849cc3f81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c7596f7d598ae35ff6f2cb849cc3f81> <https://colonialcollections.nl/schema#identifier> "WM-7804" .
+<https://n2t.net/ark:/27023/1c7596f7d598ae35ff6f2cb849cc3f81> <https://colonialcollections.nl/schema#material> "katoen\r\ngeborduurd" .
+<https://n2t.net/ark:/27023/1c7596f7d598ae35ff6f2cb849cc3f81> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

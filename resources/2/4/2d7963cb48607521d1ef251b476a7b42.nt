@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/25fb52d9c8d9d43c4b541fbe760103bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/25fb52d9c8d9d43c4b541fbe760103bb> <https://colonialcollections.nl/schema#identifier> "TM-246-2" .
+<https://n2t.net/ark:/27023/25fb52d9c8d9d43c4b541fbe760103bb> <https://colonialcollections.nl/schema#name> "ZONNEHOED VAN PALMBLADEREN" .
+<https://n2t.net/ark:/27023/25fb52d9c8d9d43c4b541fbe760103bb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/25fb52d9c8d9d43c4b541fbe760103bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

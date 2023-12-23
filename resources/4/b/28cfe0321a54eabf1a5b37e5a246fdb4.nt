@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#identifier> "RV-1043-11" .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#name> "Schild" .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#description> "Schild voor derwishen, versierd met twee repen ijzer." .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#material> "schildpad ; leer ; ijzer" .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7af5c78f6ff6235e24b851163ad47c1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

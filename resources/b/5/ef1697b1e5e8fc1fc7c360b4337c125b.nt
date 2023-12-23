@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2488907eef673269e5c38be7d21cbd3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2488907eef673269e5c38be7d21cbd3b> <https://colonialcollections.nl/schema#identifier> "TM-3572-23" .
+<https://n2t.net/ark:/27023/2488907eef673269e5c38be7d21cbd3b> <https://colonialcollections.nl/schema#name> "AARDEWERKEN MEDICIJNPOT" .
+<https://n2t.net/ark:/27023/2488907eef673269e5c38be7d21cbd3b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2488907eef673269e5c38be7d21cbd3b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1cd4b757d2496a57e64b860c5b81cfdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1cd4b757d2496a57e64b860c5b81cfdb> <https://colonialcollections.nl/schema#identifier> "TM-5683-47" .
+<https://n2t.net/ark:/27023/1cd4b757d2496a57e64b860c5b81cfdb> <https://colonialcollections.nl/schema#name> "OLIELAMP" .
+<https://n2t.net/ark:/27023/1cd4b757d2496a57e64b860c5b81cfdb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1cd4b757d2496a57e64b860c5b81cfdb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

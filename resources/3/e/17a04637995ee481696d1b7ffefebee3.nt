@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1c6b6cbbbcd4667461fe3aaf4cb19b0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c6b6cbbbcd4667461fe3aaf4cb19b0a> <https://colonialcollections.nl/schema#identifier> "RV-2452-726" .
+<https://n2t.net/ark:/27023/1c6b6cbbbcd4667461fe3aaf4cb19b0a> <https://colonialcollections.nl/schema#name> "Wespennest" .
+<https://n2t.net/ark:/27023/1c6b6cbbbcd4667461fe3aaf4cb19b0a> <https://colonialcollections.nl/schema#material> "hout ; was" .
+<https://n2t.net/ark:/27023/1c6b6cbbbcd4667461fe3aaf4cb19b0a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

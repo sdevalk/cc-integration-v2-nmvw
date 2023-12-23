@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <https://colonialcollections.nl/schema#identifier> "TM-4313-71" .
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <https://colonialcollections.nl/schema#name> "GEBORDUURDE JURK" .
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <https://colonialcollections.nl/schema#description> "Voor vrouwen." .
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <https://colonialcollections.nl/schema#material> "katoen ; nylon ; gouddraad ; zilverdraad ; borduren ; met de hand vervaardigen" .
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2acab7c9ff51d86db07cdf702bac9537> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

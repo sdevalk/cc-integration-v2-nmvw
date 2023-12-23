@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2aaf7224435630fd7fc06692ff30cb80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2aaf7224435630fd7fc06692ff30cb80> <https://colonialcollections.nl/schema#identifier> "TM-3317-184" .
+<https://n2t.net/ark:/27023/2aaf7224435630fd7fc06692ff30cb80> <https://colonialcollections.nl/schema#name> "FRAGMENT VAN EEN GEGLAZUURDE AARDEWERKEN SCHAAL" .
+<https://n2t.net/ark:/27023/2aaf7224435630fd7fc06692ff30cb80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2aaf7224435630fd7fc06692ff30cb80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

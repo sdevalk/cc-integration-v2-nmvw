@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1cab4df9d2fb9cbeccf140f2cef30b3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1cab4df9d2fb9cbeccf140f2cef30b3d> <https://colonialcollections.nl/schema#identifier> "TM-H-334bb" .
+<https://n2t.net/ark:/27023/1cab4df9d2fb9cbeccf140f2cef30b3d> <https://colonialcollections.nl/schema#name> "KOPEREN WASPEN MET HANDVAT VAN RIET" .
+<https://n2t.net/ark:/27023/1cab4df9d2fb9cbeccf140f2cef30b3d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1cab4df9d2fb9cbeccf140f2cef30b3d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

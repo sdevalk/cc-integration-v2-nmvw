@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1e79cec675c84d22db54bfbccc767073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e79cec675c84d22db54bfbccc767073> <https://colonialcollections.nl/schema#identifier> "TM-A-3719" .
+<https://n2t.net/ark:/27023/1e79cec675c84d22db54bfbccc767073> <https://colonialcollections.nl/schema#name> "EEN PAAR HOUTEN VOETKLOSSEN INGELEGD MET PARELMOER" .
+<https://n2t.net/ark:/27023/1e79cec675c84d22db54bfbccc767073> <https://colonialcollections.nl/schema#description> "De voetklossen bestaan uit een houten voetbed met onder de zolen hoge platte plankjes (klossen) aan voor- en achterzijde. Het bovenvlak is versierd met hars waarin vierkante stukjes parelmoer zijn ingelegd. Ook de klossen zijn ingelegd met parelmoer." .
+<https://n2t.net/ark:/27023/1e79cec675c84d22db54bfbccc767073> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1e79cec675c84d22db54bfbccc767073> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

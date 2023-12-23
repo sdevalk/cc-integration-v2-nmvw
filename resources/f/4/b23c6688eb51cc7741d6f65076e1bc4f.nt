@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <https://colonialcollections.nl/schema#identifier> "TM-A-11206" .
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <https://colonialcollections.nl/schema#name> "RAFFIA KLEED" .
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <https://colonialcollections.nl/schema#description> "Het gebruik van de doek is onbekend, vermoedelijk werd het als kleding gedragen.\r\n\r\nVervaardiging\r\nDe doek bestaat uit twee weefbreedtes die met de hand aan elkaar genaaid zijn. Om lange raffia draden te krijgen zijn deze steeds aan elkaar geknoopt. Sommige franjes zijn gevlochten." .
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/24a0bcc58fd38dbac78b895450acaa90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .

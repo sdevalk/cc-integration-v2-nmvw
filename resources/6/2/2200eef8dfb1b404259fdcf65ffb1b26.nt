@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7c9b79a803399f799946366039e9e387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7c9b79a803399f799946366039e9e387> <https://colonialcollections.nl/schema#identifier> "RV-2668-1494" .
+<https://n2t.net/ark:/27023/7c9b79a803399f799946366039e9e387> <https://colonialcollections.nl/schema#name> "Vaas" .
+<https://n2t.net/ark:/27023/7c9b79a803399f799946366039e9e387> <https://colonialcollections.nl/schema#material> "aardewerk ? ; steen ?" .
+<https://n2t.net/ark:/27023/7c9b79a803399f799946366039e9e387> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

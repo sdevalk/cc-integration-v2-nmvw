@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1d1992662680d7f2220abe9d7c17b786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d1992662680d7f2220abe9d7c17b786> <https://colonialcollections.nl/schema#identifier> "WM-940005-53" .
+<https://n2t.net/ark:/27023/1d1992662680d7f2220abe9d7c17b786> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk" .
+<https://n2t.net/ark:/27023/1d1992662680d7f2220abe9d7c17b786> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1d1992662680d7f2220abe9d7c17b786> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .

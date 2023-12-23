@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7af83a6712caca82b7e31524813a46c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7af83a6712caca82b7e31524813a46c3> <https://colonialcollections.nl/schema#identifier> "RV-414-24" .
+<https://n2t.net/ark:/27023/7af83a6712caca82b7e31524813a46c3> <https://colonialcollections.nl/schema#name> "CHUMMUCH" .
+<https://n2t.net/ark:/27023/7af83a6712caca82b7e31524813a46c3> <https://colonialcollections.nl/schema#description> "Schuimspaan voor suiker." .
+<https://n2t.net/ark:/27023/7af83a6712caca82b7e31524813a46c3> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/7af83a6712caca82b7e31524813a46c3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

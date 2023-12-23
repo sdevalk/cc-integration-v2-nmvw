@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2d5b5458ca9c1bd6534e08285f6930f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2d5b5458ca9c1bd6534e08285f6930f5> <https://colonialcollections.nl/schema#identifier> "RV-3600-3469" .
+<https://n2t.net/ark:/27023/2d5b5458ca9c1bd6534e08285f6930f5> <https://colonialcollections.nl/schema#name> "Zeef" .
+<https://n2t.net/ark:/27023/2d5b5458ca9c1bd6534e08285f6930f5> <https://colonialcollections.nl/schema#material> "bamboe ; rotan" .
+<https://n2t.net/ark:/27023/2d5b5458ca9c1bd6534e08285f6930f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

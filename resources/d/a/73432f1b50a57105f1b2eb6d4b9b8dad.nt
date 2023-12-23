@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1d5217e7a5dda72f3db4dcb9bf678723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d5217e7a5dda72f3db4dcb9bf678723> <https://colonialcollections.nl/schema#identifier> "RV-2059-73" .
+<https://n2t.net/ark:/27023/1d5217e7a5dda72f3db4dcb9bf678723> <https://colonialcollections.nl/schema#name> "Blaasinstrument" .
+<https://n2t.net/ark:/27023/1d5217e7a5dda72f3db4dcb9bf678723> <https://colonialcollections.nl/schema#material> "koehoorn ; koperdraad" .
+<https://n2t.net/ark:/27023/1d5217e7a5dda72f3db4dcb9bf678723> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

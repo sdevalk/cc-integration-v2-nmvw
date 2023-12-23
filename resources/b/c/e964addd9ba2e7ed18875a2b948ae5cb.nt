@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <https://colonialcollections.nl/schema#identifier> "TM-3317-175" .
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <https://colonialcollections.nl/schema#name> "BODEMFRAGMENT VAN EEN GEGLAZUURDE SCHAAL" .
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <https://colonialcollections.nl/schema#description> "Waarschijnlijk afkomstig uit Nishapur, ong. 12e eeuw." .
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2c3dc0d51fd427de47ed114298c83987> <https://colonialcollections.nl/schema#yearCreatedEnd> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .

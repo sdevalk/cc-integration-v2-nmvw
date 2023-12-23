@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1e5dd756523a271ad4ef2c6e667b7fc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e5dd756523a271ad4ef2c6e667b7fc5> <https://colonialcollections.nl/schema#identifier> "RV-5715-2076" .
+<https://n2t.net/ark:/27023/1e5dd756523a271ad4ef2c6e667b7fc5> <https://colonialcollections.nl/schema#name> "Roltong" .
+<https://n2t.net/ark:/27023/1e5dd756523a271ad4ef2c6e667b7fc5> <https://colonialcollections.nl/schema#material> "onbekend" .
+<https://n2t.net/ark:/27023/1e5dd756523a271ad4ef2c6e667b7fc5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

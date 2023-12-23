@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/238b6762cd7fa7b18ac0f9407f2bdb31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/238b6762cd7fa7b18ac0f9407f2bdb31> <https://colonialcollections.nl/schema#identifier> "RV-1108-14c" .
+<https://n2t.net/ark:/27023/238b6762cd7fa7b18ac0f9407f2bdb31> <https://colonialcollections.nl/schema#name> "Pop" .
+<https://n2t.net/ark:/27023/238b6762cd7fa7b18ac0f9407f2bdb31> <https://colonialcollections.nl/schema#material> "katoen ; messing ; hout" .
+<https://n2t.net/ark:/27023/238b6762cd7fa7b18ac0f9407f2bdb31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

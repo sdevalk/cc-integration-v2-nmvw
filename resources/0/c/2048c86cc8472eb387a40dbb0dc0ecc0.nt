@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2591da6490e29817b77d6a5edd764565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2591da6490e29817b77d6a5edd764565> <https://colonialcollections.nl/schema#identifier> "TM-3505-2" .
+<https://n2t.net/ark:/27023/2591da6490e29817b77d6a5edd764565> <https://colonialcollections.nl/schema#name> "GEBORDUURD FRAGMENT VAN EEN CEINTUUR" .
+<https://n2t.net/ark:/27023/2591da6490e29817b77d6a5edd764565> <https://colonialcollections.nl/schema#description> "Geschatte ouderdom: eind 18de eeuw." .
+<https://n2t.net/ark:/27023/2591da6490e29817b77d6a5edd764565> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2591da6490e29817b77d6a5edd764565> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

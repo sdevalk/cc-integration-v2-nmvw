@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1e3d3810c9f47be7f4179588ca9670c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1e3d3810c9f47be7f4179588ca9670c0> <https://colonialcollections.nl/schema#identifier> "WM-59725" .
+<https://n2t.net/ark:/27023/1e3d3810c9f47be7f4179588ca9670c0> <https://colonialcollections.nl/schema#description> "[DE] mens : man & vrouw" .
+<https://n2t.net/ark:/27023/1e3d3810c9f47be7f4179588ca9670c0> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/1e3d3810c9f47be7f4179588ca9670c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

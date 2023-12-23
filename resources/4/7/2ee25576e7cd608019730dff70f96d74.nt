@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2549190a4e21a42e20326041c5b2b603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2549190a4e21a42e20326041c5b2b603> <https://colonialcollections.nl/schema#identifier> "TM-5122-228" .
+<https://n2t.net/ark:/27023/2549190a4e21a42e20326041c5b2b603> <https://colonialcollections.nl/schema#name> "JACHTGEWEER" .
+<https://n2t.net/ark:/27023/2549190a4e21a42e20326041c5b2b603> <https://colonialcollections.nl/schema#description> "Jachtgeweer voorzien van percussieslot met haan, een houten kolf en een laadstok" .
+<https://n2t.net/ark:/27023/2549190a4e21a42e20326041c5b2b603> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2549190a4e21a42e20326041c5b2b603> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

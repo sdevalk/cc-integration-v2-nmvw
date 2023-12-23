@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/24264543b71c8c0133cb87c718a537fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/24264543b71c8c0133cb87c718a537fb> <https://colonialcollections.nl/schema#identifier> "RV-2352-67" .
+<https://n2t.net/ark:/27023/24264543b71c8c0133cb87c718a537fb> <https://colonialcollections.nl/schema#name> "Mat voor het drogen van peper" .
+<https://n2t.net/ark:/27023/24264543b71c8c0133cb87c718a537fb> <https://colonialcollections.nl/schema#description> "Mat voor het drogen van peper." .
+<https://n2t.net/ark:/27023/24264543b71c8c0133cb87c718a537fb> <https://colonialcollections.nl/schema#material> "riet ; hout" .
+<https://n2t.net/ark:/27023/24264543b71c8c0133cb87c718a537fb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

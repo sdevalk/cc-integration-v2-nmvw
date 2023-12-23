@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#identifier> "AM-527-16" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#name> "'OPENHANDVRUCHT'" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#description> "Dit is de openhandvrucht die symbool staat voor gastvrijheid. Men vindt dit motief veelvuldig terug op spreekwoorddeksels.\r\n\r\nBeschrijving\r\nDoorgesneden halve vrucht." .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#material> "Vrucht" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .
+<https://n2t.net/ark:/27023/2b201f64c4e9fae1f5a17d15f7a9ae3b> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .

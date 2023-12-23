@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1ebee4d8389416cbff3ff2c17babfcd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1ebee4d8389416cbff3ff2c17babfcd7> <https://colonialcollections.nl/schema#identifier> "RV-4918-59" .
+<https://n2t.net/ark:/27023/1ebee4d8389416cbff3ff2c17babfcd7> <https://colonialcollections.nl/schema#name> "Tas met mes" .
+<https://n2t.net/ark:/27023/1ebee4d8389416cbff3ff2c17babfcd7> <https://colonialcollections.nl/schema#material> "palmblad ; schelp" .
+<https://n2t.net/ark:/27023/1ebee4d8389416cbff3ff2c17babfcd7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

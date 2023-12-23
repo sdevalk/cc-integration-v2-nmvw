@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/255fffb3ef388786e827979e3edf1fe8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/255fffb3ef388786e827979e3edf1fe8> <https://colonialcollections.nl/schema#identifier> "TM-4714-53q" .
+<https://n2t.net/ark:/27023/255fffb3ef388786e827979e3edf1fe8> <https://colonialcollections.nl/schema#name> "GELAKT HOUTEN BOEKDEKSEL VOORZIEN VAN GLAS EN SIERSNIJWERK, BEHORENDE BIJ EEN HANDSCHRIFT" .
+<https://n2t.net/ark:/27023/255fffb3ef388786e827979e3edf1fe8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/255fffb3ef388786e827979e3edf1fe8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

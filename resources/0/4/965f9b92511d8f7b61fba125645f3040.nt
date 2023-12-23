@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/23d4ffeedb06359669750cfbd70c5eb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/23d4ffeedb06359669750cfbd70c5eb2> <https://colonialcollections.nl/schema#identifier> "WM-60563" .
+<https://n2t.net/ark:/27023/23d4ffeedb06359669750cfbd70c5eb2> <https://colonialcollections.nl/schema#description> "[KL] lila (hoofddoek) & lichtbllauw & roze & wit (gehaakte rand);\r\n[PA] langs de rand, in stempeldruk een bloeiende plant 10 keer\r\n        herhaald." .
+<https://n2t.net/ark:/27023/23d4ffeedb06359669750cfbd70c5eb2> <https://colonialcollections.nl/schema#material> "gaas (hoofddoek), katoen (rand)\r\nstempeldruk & gehaakt." .
+<https://n2t.net/ark:/27023/23d4ffeedb06359669750cfbd70c5eb2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1d26fe12afedf9c19b57d3f6c892269b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1d26fe12afedf9c19b57d3f6c892269b> <https://colonialcollections.nl/schema#identifier> "RV-4921-34" .
+<https://n2t.net/ark:/27023/1d26fe12afedf9c19b57d3f6c892269b> <https://colonialcollections.nl/schema#name> "BORD" .
+<https://n2t.net/ark:/27023/1d26fe12afedf9c19b57d3f6c892269b> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/1d26fe12afedf9c19b57d3f6c892269b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

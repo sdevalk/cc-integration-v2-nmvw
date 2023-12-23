@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/2631920965145346ee2ab8d24a94697f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2631920965145346ee2ab8d24a94697f> <https://colonialcollections.nl/schema#identifier> "TM-4345-132a" .
+<https://n2t.net/ark:/27023/2631920965145346ee2ab8d24a94697f> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KRUIK MET TWEE OREN EN BIJBEHOREND ONDERSTEL" .
+<https://n2t.net/ark:/27023/2631920965145346ee2ab8d24a94697f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2631920965145346ee2ab8d24a94697f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

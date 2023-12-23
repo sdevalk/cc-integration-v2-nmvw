@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1ed661fa412c248579e3a4ad9d3f1fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1ed661fa412c248579e3a4ad9d3f1fb6> <https://colonialcollections.nl/schema#identifier> "WM-30340" .
+<https://n2t.net/ark:/27023/1ed661fa412c248579e3a4ad9d3f1fb6> <https://colonialcollections.nl/schema#description> "[ST] oor (2)" .
+<https://n2t.net/ark:/27023/1ed661fa412c248579e3a4ad9d3f1fb6> <https://colonialcollections.nl/schema#material> "brons, hout" .
+<https://n2t.net/ark:/27023/1ed661fa412c248579e3a4ad9d3f1fb6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

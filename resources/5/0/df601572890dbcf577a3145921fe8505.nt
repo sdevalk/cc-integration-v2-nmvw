@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/2b949151c4b1a2b3fe87cb8370998759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b949151c4b1a2b3fe87cb8370998759> <https://colonialcollections.nl/schema#identifier> "RV-4955-17b" .
+<https://n2t.net/ark:/27023/2b949151c4b1a2b3fe87cb8370998759> <https://colonialcollections.nl/schema#name> "Olielamp" .
+<https://n2t.net/ark:/27023/2b949151c4b1a2b3fe87cb8370998759> <https://colonialcollections.nl/schema#description> "Een olielamp op een demontabel voetstuk." .
+<https://n2t.net/ark:/27023/2b949151c4b1a2b3fe87cb8370998759> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/2b949151c4b1a2b3fe87cb8370998759> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

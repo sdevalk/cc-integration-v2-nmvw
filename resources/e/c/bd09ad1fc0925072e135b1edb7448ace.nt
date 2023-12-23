@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#identifier> "WM-940132-20-1" .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#name> "PALMEN, TUINEN EN ZOMERHUIZEN VAN GHARDAJA" .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#description> "reisfotografie & pad: wandelpad & put & ezel & man (3) & bossage" .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2477ee0933ce7829a7ae05680cc3f3c3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

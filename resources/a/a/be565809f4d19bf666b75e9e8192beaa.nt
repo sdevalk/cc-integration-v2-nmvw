@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/1c8c152b54877f840675a2dac1dd614a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c8c152b54877f840675a2dac1dd614a> <https://colonialcollections.nl/schema#identifier> "TM-3903-53" .
+<https://n2t.net/ark:/27023/1c8c152b54877f840675a2dac1dd614a> <https://colonialcollections.nl/schema#name> "MASKER" .
+<https://n2t.net/ark:/27023/1c8c152b54877f840675a2dac1dd614a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1c8c152b54877f840675a2dac1dd614a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

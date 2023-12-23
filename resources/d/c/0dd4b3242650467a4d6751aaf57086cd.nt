@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/239fbe380079cf7c5e3bf7c68acc8e45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/239fbe380079cf7c5e3bf7c68acc8e45> <https://colonialcollections.nl/schema#identifier> "TM-4133-100" .
+<https://n2t.net/ark:/27023/239fbe380079cf7c5e3bf7c68acc8e45> <https://colonialcollections.nl/schema#name> "HOUTEN HAARSPELD IN DE VORM VAN EEN MENSFIGUUR" .
+<https://n2t.net/ark:/27023/239fbe380079cf7c5e3bf7c68acc8e45> <https://colonialcollections.nl/schema#description> "De Mangbetu verlengen kunstmatig hun schedel. De haarstijlen van de volwassen vrouwen zijn bedoeld om dit effect nog eens te vergroten. Geliefd is het bekerkapsel dat vaak is afgebeeld op de gebruiksvoorwerpen van de Mangbetu. Hiervoor vlecht men een gedeelte van het haar rond het hoofd, waarna het haar van de kruin met riet wordt samengeweven tot een cylinder- of bekervormige haarwrong, die in een schijf eindigt." .
+<https://n2t.net/ark:/27023/239fbe380079cf7c5e3bf7c68acc8e45> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/239fbe380079cf7c5e3bf7c68acc8e45> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

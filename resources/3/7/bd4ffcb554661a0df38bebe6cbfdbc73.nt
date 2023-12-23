@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/25233b668b6cc302891ec33ee244c5bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/25233b668b6cc302891ec33ee244c5bc> <https://colonialcollections.nl/schema#identifier> "RV-4955-111" .
+<https://n2t.net/ark:/27023/25233b668b6cc302891ec33ee244c5bc> <https://colonialcollections.nl/schema#name> "Zak" .
+<https://n2t.net/ark:/27023/25233b668b6cc302891ec33ee244c5bc> <https://colonialcollections.nl/schema#material> "onbekend" .
+<https://n2t.net/ark:/27023/25233b668b6cc302891ec33ee244c5bc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

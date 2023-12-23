@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#identifier> "WM-940132-1-1" .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#description> "Notitie (Hierin - Algiers met de ville d'Alger 1935 de Chauzy met de Fam. Pluygers. Reis naar het Zuiden 15 - 25 April 1936 Chréa, Les Issers en Chabet el Ameur Bouzaréa. Thuisreis met de Marnix Gibraltar Hamman Melouane Vergrootingen.)" .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1c7b65284244dbfde13e7a907bcbc61b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/25adffc5884270c7f76ecf5fdce430b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/25adffc5884270c7f76ecf5fdce430b0> <https://colonialcollections.nl/schema#identifier> "WM-22807" .
+<https://n2t.net/ark:/27023/25adffc5884270c7f76ecf5fdce430b0> <https://colonialcollections.nl/schema#description> "[ST] kinband\r\n[KL] naturel & geel & bruin (2 tinten)" .
+<https://n2t.net/ark:/27023/25adffc5884270c7f76ecf5fdce430b0> <https://colonialcollections.nl/schema#material> "plantenvezel, leer (band)\r\ngevlochten" .
+<https://n2t.net/ark:/27023/25adffc5884270c7f76ecf5fdce430b0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

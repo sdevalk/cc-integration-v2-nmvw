@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <https://colonialcollections.nl/schema#identifier> "TM-2291-16" .
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <https://colonialcollections.nl/schema#name> "KOOKPOT VAN STEENROOD, GEGLAZUURD AARDEWERK." .
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <https://colonialcollections.nl/schema#description> "Een ronde kookpot gemaakt van steenrood geglazuurd aardewerk. De pot heeft een buikige vorm en een bovenrand die wijder uitloopt." .
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <https://colonialcollections.nl/schema#material> "aardewerk ; glazuur" .
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/260c5088f71d0f982d7ba498262c226c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .

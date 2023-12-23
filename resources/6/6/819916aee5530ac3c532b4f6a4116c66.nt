@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1ebd2b99894ef39134a4b72cb290b932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1ebd2b99894ef39134a4b72cb290b932> <https://colonialcollections.nl/schema#identifier> "RV-503-315" .
+<https://n2t.net/ark:/27023/1ebd2b99894ef39134a4b72cb290b932> <https://colonialcollections.nl/schema#name> "COPPER DRINKING BOWL" .
+<https://n2t.net/ark:/27023/1ebd2b99894ef39134a4b72cb290b932> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/1ebd2b99894ef39134a4b72cb290b932> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/1ebd2b99894ef39134a4b72cb290b932> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

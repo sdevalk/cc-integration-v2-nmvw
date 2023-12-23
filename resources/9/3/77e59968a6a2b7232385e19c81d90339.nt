@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/263acdb9f45e96666111869a66bf38de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/263acdb9f45e96666111869a66bf38de> <https://colonialcollections.nl/schema#identifier> "RV-1054-26" .
+<https://n2t.net/ark:/27023/263acdb9f45e96666111869a66bf38de> <https://colonialcollections.nl/schema#name> "Sigaar" .
+<https://n2t.net/ark:/27023/263acdb9f45e96666111869a66bf38de> <https://colonialcollections.nl/schema#material> "tabak" .
+<https://n2t.net/ark:/27023/263acdb9f45e96666111869a66bf38de> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

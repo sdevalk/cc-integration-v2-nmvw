@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#identifier> "WM-940132-24-3" .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#name> "BOU SAADA" .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#description> "reisfotografie & plein & fontein & persoon (groep) & boom :  loofboom" .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/265f98a1224888af8a32a6e5f09cfffe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

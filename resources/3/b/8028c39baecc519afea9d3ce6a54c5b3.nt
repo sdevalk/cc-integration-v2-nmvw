@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/1ec08d3a040852b7882c7e6299560c74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/1ec08d3a040852b7882c7e6299560c74> <https://colonialcollections.nl/schema#identifier> "RV-1375-21" .
+<https://n2t.net/ark:/27023/1ec08d3a040852b7882c7e6299560c74> <https://colonialcollections.nl/schema#name> "Lontar handschrift" .
+<https://n2t.net/ark:/27023/1ec08d3a040852b7882c7e6299560c74> <https://colonialcollections.nl/schema#description> "Geschrift op lontarblad: Dasavara" .
+<https://n2t.net/ark:/27023/1ec08d3a040852b7882c7e6299560c74> <https://colonialcollections.nl/schema#material> "blad, lontar-" .
+<https://n2t.net/ark:/27023/1ec08d3a040852b7882c7e6299560c74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/254d046c5c2d7a3e982d499e2ad4e87a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/254d046c5c2d7a3e982d499e2ad4e87a> <https://colonialcollections.nl/schema#identifier> "TM-A-8018a" .
+<https://n2t.net/ark:/27023/254d046c5c2d7a3e982d499e2ad4e87a> <https://colonialcollections.nl/schema#name> "ONDERSTUK VAN EEN ONDERSTEL VAN EEN SAKEKOPJE" .
+<https://n2t.net/ark:/27023/254d046c5c2d7a3e982d499e2ad4e87a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/254d046c5c2d7a3e982d499e2ad4e87a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

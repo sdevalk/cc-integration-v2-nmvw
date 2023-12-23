@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/238b4a64dd4f2b0947bcb91191625aca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/238b4a64dd4f2b0947bcb91191625aca> <https://colonialcollections.nl/schema#identifier> "WM-14727" .
+<https://n2t.net/ark:/27023/238b4a64dd4f2b0947bcb91191625aca> <https://colonialcollections.nl/schema#description> "[DE] geometrische figuren" .
+<https://n2t.net/ark:/27023/238b4a64dd4f2b0947bcb91191625aca> <https://colonialcollections.nl/schema#material> "messing" .
+<https://n2t.net/ark:/27023/238b4a64dd4f2b0947bcb91191625aca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

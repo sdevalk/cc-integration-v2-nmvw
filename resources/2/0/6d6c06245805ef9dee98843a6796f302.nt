@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <https://colonialcollections.nl/schema#identifier> "RV-4778-90" .
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <https://colonialcollections.nl/schema#name> "Katoenen onderjurk met borduurwerk versierd" .
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <https://colonialcollections.nl/schema#description> "De onderjurk van ongebleekt katoen is vermoedelijk afkomstig uit Centraal of Zuid Syrië." .
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <https://colonialcollections.nl/schema#material> "Katoen" .
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2c6bd04d7808e7e5b1898da0a13eb2c0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

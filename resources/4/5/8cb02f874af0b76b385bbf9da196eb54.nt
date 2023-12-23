@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#identifier> "WM-910793" .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#name> "BERBER-MANNEN MET SCHAAKSPEL, ALGERIJE (1890-1901)" .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#description> "Genrescène van twee mannen met schaakspel, gezeten op geweven tapijten." .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#material> "papier, PVC, albuminedruk" .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#creator> "ND Phot" .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2b1754c8787f0b6dc1902c4b7a451c0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
