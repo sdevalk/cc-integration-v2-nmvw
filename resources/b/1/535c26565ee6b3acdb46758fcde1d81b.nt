@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3070657ee1942ae54d79410535af1a65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3070657ee1942ae54d79410535af1a65> <https://colonialcollections.nl/schema#identifier> "TM-3401-599a" .
+<https://n2t.net/ark:/27023/3070657ee1942ae54d79410535af1a65> <https://colonialcollections.nl/schema#name> "HOUTEN ONDERSTEL VAN TAFEL" .
+<https://n2t.net/ark:/27023/3070657ee1942ae54d79410535af1a65> <https://colonialcollections.nl/schema#description> "Het tafeltje is onderdeel van een koffieset." .
+<https://n2t.net/ark:/27023/3070657ee1942ae54d79410535af1a65> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3070657ee1942ae54d79410535af1a65> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

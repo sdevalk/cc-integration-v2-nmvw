@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <https://colonialcollections.nl/schema#identifier> "RV-503-69" .
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <https://colonialcollections.nl/schema#name> "VUURSLAG EN VUURSTEEN" .
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <https://colonialcollections.nl/schema#description> "vuurslag en vuursteen voor het maken van vuur." .
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <https://colonialcollections.nl/schema#material> "staal ; vuursteen" .
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3001c91212993a2995df50680308751b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

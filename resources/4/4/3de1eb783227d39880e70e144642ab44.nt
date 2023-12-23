@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/388542625193088a942b3e06944d0468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/388542625193088a942b3e06944d0468> <https://colonialcollections.nl/schema#identifier> "TM-H-2253b" .
+<https://n2t.net/ark:/27023/388542625193088a942b3e06944d0468> <https://colonialcollections.nl/schema#name> "DOLKMES IN SCHEDE" .
+<https://n2t.net/ark:/27023/388542625193088a942b3e06944d0468> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/388542625193088a942b3e06944d0468> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

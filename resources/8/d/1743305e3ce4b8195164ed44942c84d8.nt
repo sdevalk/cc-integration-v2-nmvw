@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3779b6f9f2433e94dd24937debf1db6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3779b6f9f2433e94dd24937debf1db6f> <https://colonialcollections.nl/schema#identifier> "TM-ib-2006-66-2" .
+<https://n2t.net/ark:/27023/3779b6f9f2433e94dd24937debf1db6f> <https://colonialcollections.nl/schema#name> "ROK VERSIERD MET KNOPEN" .
+<https://n2t.net/ark:/27023/3779b6f9f2433e94dd24937debf1db6f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3779b6f9f2433e94dd24937debf1db6f> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .

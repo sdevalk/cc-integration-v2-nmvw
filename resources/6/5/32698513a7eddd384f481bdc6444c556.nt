@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <https://colonialcollections.nl/schema#identifier> "RV-1042-42" .
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <https://colonialcollections.nl/schema#name> "Een paar zilveren armbanden" .
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <https://colonialcollections.nl/schema#description> "De armbanden werden als set gedragen door een Bedoeïnen vrouw." .
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <https://colonialcollections.nl/schema#material> "Zilver ; zilverdraad ; kralen" .
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3e603fbcc15c8e939fb6dbc0cc55350d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

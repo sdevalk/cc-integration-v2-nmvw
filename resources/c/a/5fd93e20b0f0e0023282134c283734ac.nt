@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4550e076b21cdff9495cb3a8a0050b8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4550e076b21cdff9495cb3a8a0050b8d> <https://colonialcollections.nl/schema#identifier> "TM-4142-1a" .
+<https://n2t.net/ark:/27023/4550e076b21cdff9495cb3a8a0050b8d> <https://colonialcollections.nl/schema#name> "JURK VAN EEN VROUWENKOSTUUM" .
+<https://n2t.net/ark:/27023/4550e076b21cdff9495cb3a8a0050b8d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4550e076b21cdff9495cb3a8a0050b8d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

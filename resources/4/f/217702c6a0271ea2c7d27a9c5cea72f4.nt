@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/412a0c393f99b1ee8e60d2e393341de3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/412a0c393f99b1ee8e60d2e393341de3> <https://colonialcollections.nl/schema#identifier> "RV-B55-114" .
+<https://n2t.net/ark:/27023/412a0c393f99b1ee8e60d2e393341de3> <https://colonialcollections.nl/schema#name> "Tas" .
+<https://n2t.net/ark:/27023/412a0c393f99b1ee8e60d2e393341de3> <https://colonialcollections.nl/schema#material> "kralen" .
+<https://n2t.net/ark:/27023/412a0c393f99b1ee8e60d2e393341de3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

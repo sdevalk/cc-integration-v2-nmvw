@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <https://colonialcollections.nl/schema#identifier> "TM-4960-95" .
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <https://colonialcollections.nl/schema#name> "LAP KATOEN" .
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <https://colonialcollections.nl/schema#description> "Laatste stadium van bewerking van het verven met indigo." .
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <https://colonialcollections.nl/schema#material> "katoen ; indigo ; machinaal vervaardigen ; verven ; glansen" .
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3047a5c9045b496506774617eaf9ccb3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

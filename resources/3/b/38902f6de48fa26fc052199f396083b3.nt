@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4737eebfbd444c1fa0692a7782ee72c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4737eebfbd444c1fa0692a7782ee72c0> <https://colonialcollections.nl/schema#identifier> "WM-72489" .
+<https://n2t.net/ark:/27023/4737eebfbd444c1fa0692a7782ee72c0> <https://colonialcollections.nl/schema#description> "[KL] zwart (hoofdkleur) & rood &  wit & geel (textiel) & rood & geel & lichtgroen & zilverdraad & wit" .
+<https://n2t.net/ark:/27023/4737eebfbd444c1fa0692a7782ee72c0> <https://colonialcollections.nl/schema#material> "katoen\r\ngenaaid & geborduurd" .
+<https://n2t.net/ark:/27023/4737eebfbd444c1fa0692a7782ee72c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

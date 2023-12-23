@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3dba591a9be13b3b71e2b9fcf2ab6e71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3dba591a9be13b3b71e2b9fcf2ab6e71> <https://colonialcollections.nl/schema#identifier> "WM-V-167" .
+<https://n2t.net/ark:/27023/3dba591a9be13b3b71e2b9fcf2ab6e71> <https://colonialcollections.nl/schema#description> "[KL] rood & goud" .
+<https://n2t.net/ark:/27023/3dba591a9be13b3b71e2b9fcf2ab6e71> <https://colonialcollections.nl/schema#material> "gelakt hout" .
+<https://n2t.net/ark:/27023/3dba591a9be13b3b71e2b9fcf2ab6e71> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

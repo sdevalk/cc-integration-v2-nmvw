@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/40f71454e33a7966e5d4aa5b262a6198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/40f71454e33a7966e5d4aa5b262a6198> <https://colonialcollections.nl/schema#identifier> "WM-21829" .
+<https://n2t.net/ark:/27023/40f71454e33a7966e5d4aa5b262a6198> <https://colonialcollections.nl/schema#description> "Voor koeken" .
+<https://n2t.net/ark:/27023/40f71454e33a7966e5d4aa5b262a6198> <https://colonialcollections.nl/schema#material> "plantaardig materiaal (alfa)" .
+<https://n2t.net/ark:/27023/40f71454e33a7966e5d4aa5b262a6198> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

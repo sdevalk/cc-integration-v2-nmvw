@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#identifier> "TM-674-341a" .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#name> "MESSINGEN VAASJE VOOR HET BEWAREN VAN OGENZWART POEDER" .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#description> "Kohlhouder met Arabische inscriptie, mogelijk قمر الدين (maan van de godsdienst) wat dan zou verwijzen naar de zegeningen van de hadj. Meegebracht door pelgrims (hadji's) vanuit het Arabisch Schiereiland." .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Seulimeum" .
+<https://n2t.net/ark:/27023/401c6011307f7a8b8ed6be3c191d91bf> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

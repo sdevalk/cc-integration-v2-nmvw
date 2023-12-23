@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4567fa682adfdff7bfd418962c1889ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4567fa682adfdff7bfd418962c1889ad> <https://colonialcollections.nl/schema#identifier> "AM-107-30" .
+<https://n2t.net/ark:/27023/4567fa682adfdff7bfd418962c1889ad> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://n2t.net/ark:/27023/4567fa682adfdff7bfd418962c1889ad> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nMes met een houten heft dat gedeeltelijk is omwonden met dik metaaldraad. Het lemmet is vervaardigd uit ijzer en loopt krom." .
+<https://n2t.net/ark:/27023/4567fa682adfdff7bfd418962c1889ad> <https://colonialcollections.nl/schema#material> "IJzer; hout" .
+<https://n2t.net/ark:/27023/4567fa682adfdff7bfd418962c1889ad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/40027c1ea9a49a61e7553d7b2cb3148d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/40027c1ea9a49a61e7553d7b2cb3148d> <https://colonialcollections.nl/schema#identifier> "WM-35600" .
+<https://n2t.net/ark:/27023/40027c1ea9a49a61e7553d7b2cb3148d> <https://colonialcollections.nl/schema#material> "riet" .
+<https://n2t.net/ark:/27023/40027c1ea9a49a61e7553d7b2cb3148d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

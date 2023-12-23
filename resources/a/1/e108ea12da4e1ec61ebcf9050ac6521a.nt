@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3140c6e4b24f13682437e5e789338c21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3140c6e4b24f13682437e5e789338c21> <https://colonialcollections.nl/schema#identifier> "WM-32271" .
+<https://n2t.net/ark:/27023/3140c6e4b24f13682437e5e789338c21> <https://colonialcollections.nl/schema#description> "decoratie met repen leer" .
+<https://n2t.net/ark:/27023/3140c6e4b24f13682437e5e789338c21> <https://colonialcollections.nl/schema#material> "plantenvezel (bladrepen van de 'medemia argun'), leer\r\nhandwerk, vlechtwerk: spiraaltechniek" .
+<https://n2t.net/ark:/27023/3140c6e4b24f13682437e5e789338c21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/31daa09966c809c6ca4444d57f45b61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/31daa09966c809c6ca4444d57f45b61d> <https://colonialcollections.nl/schema#identifier> "WM-30337" .
+<https://n2t.net/ark:/27023/31daa09966c809c6ca4444d57f45b61d> <https://colonialcollections.nl/schema#description> "[ST] handvat & tuit" .
+<https://n2t.net/ark:/27023/31daa09966c809c6ca4444d57f45b61d> <https://colonialcollections.nl/schema#material> "brons" .
+<https://n2t.net/ark:/27023/31daa09966c809c6ca4444d57f45b61d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

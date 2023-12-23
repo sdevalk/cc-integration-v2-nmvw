@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3ead0a56f06ed154812cc8bf3c41adf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3ead0a56f06ed154812cc8bf3c41adf2> <https://colonialcollections.nl/schema#identifier> "AM-17-741" .
+<https://n2t.net/ark:/27023/3ead0a56f06ed154812cc8bf3c41adf2> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nLans bestaande uit twee ijzeren delen. Het gedeelte met de punt is lichter van kleur dan het handvat." .
+<https://n2t.net/ark:/27023/3ead0a56f06ed154812cc8bf3c41adf2> <https://colonialcollections.nl/schema#material> "IJzer" .
+<https://n2t.net/ark:/27023/3ead0a56f06ed154812cc8bf3c41adf2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

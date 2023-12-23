@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/38af6d9858f41b2d774e53cb66dd64d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38af6d9858f41b2d774e53cb66dd64d8> <https://colonialcollections.nl/schema#identifier> "WM-50284" .
+<https://n2t.net/ark:/27023/38af6d9858f41b2d774e53cb66dd64d8> <https://colonialcollections.nl/schema#description> "[DE] leren banden\r\nkaurischelp\r\nknoop [ST] houder met deksel, amulethouder aan band" .
+<https://n2t.net/ark:/27023/38af6d9858f41b2d774e53cb66dd64d8> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/38af6d9858f41b2d774e53cb66dd64d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

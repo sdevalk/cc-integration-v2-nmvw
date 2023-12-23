@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/3067d3e20b7c804b26e277d10e2f5a23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3067d3e20b7c804b26e277d10e2f5a23> <https://colonialcollections.nl/schema#identifier> "WM-60082" .
+<https://n2t.net/ark:/27023/3067d3e20b7c804b26e277d10e2f5a23> <https://colonialcollections.nl/schema#material> "bladvezel\r\ngevlochten" .
+<https://n2t.net/ark:/27023/3067d3e20b7c804b26e277d10e2f5a23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

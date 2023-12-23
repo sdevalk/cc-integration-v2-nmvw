@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/361392a801b42c9f4bc26ec955566923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/361392a801b42c9f4bc26ec955566923> <https://colonialcollections.nl/schema#identifier> "TM-3782-71" .
+<https://n2t.net/ark:/27023/361392a801b42c9f4bc26ec955566923> <https://colonialcollections.nl/schema#name> "IJZEREN HAAK WAARMEE DE BEIGNETS UIT DE PAN WORDEN GEHAALD" .
+<https://n2t.net/ark:/27023/361392a801b42c9f4bc26ec955566923> <https://colonialcollections.nl/schema#description> "Het wordt gebruikt om beignets mee uit de hete olie te halen. Deze beignets zijn ringvormige, luchtige baksels, die in een pan met olie worden gebakken, en daarna met behulp van deze haak eruit worden gehaald.\r\n\r\nVervaardiging\r\nHet is een lange, recht en plat ijzer eindigend in een gebogen haak. Aan het achtereinde is een rond oog waarin een ijzeren ring bevestigd is." .
+<https://n2t.net/ark:/27023/361392a801b42c9f4bc26ec955566923> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/361392a801b42c9f4bc26ec955566923> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

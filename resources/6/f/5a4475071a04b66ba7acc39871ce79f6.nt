@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/31f833eeb170ba99491d4ad9675eadc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/31f833eeb170ba99491d4ad9675eadc3> <https://colonialcollections.nl/schema#identifier> "TM-H-2376" .
+<https://n2t.net/ark:/27023/31f833eeb170ba99491d4ad9675eadc3> <https://colonialcollections.nl/schema#name> "HOUTEN HAARSIERAAD, GEDRAGEN TIJDENS FEESTELIJKE AANGELEGENHEDEN" .
+<https://n2t.net/ark:/27023/31f833eeb170ba99491d4ad9675eadc3> <https://colonialcollections.nl/schema#description> "Houtsnijwerk, vermoedelijk gedragen als haarsieraad door Marron vrouwen bij feestelijkheden." .
+<https://n2t.net/ark:/27023/31f833eeb170ba99491d4ad9675eadc3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/31f833eeb170ba99491d4ad9675eadc3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

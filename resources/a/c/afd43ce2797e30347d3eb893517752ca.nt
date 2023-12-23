@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/321d36fc9d31513197dc5b62e33e6bca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/321d36fc9d31513197dc5b62e33e6bca> <https://colonialcollections.nl/schema#identifier> "RV-860-2" .
+<https://n2t.net/ark:/27023/321d36fc9d31513197dc5b62e33e6bca> <https://colonialcollections.nl/schema#name> "Strijdbijl" .
+<https://n2t.net/ark:/27023/321d36fc9d31513197dc5b62e33e6bca> <https://colonialcollections.nl/schema#material> "steen" .
+<https://n2t.net/ark:/27023/321d36fc9d31513197dc5b62e33e6bca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

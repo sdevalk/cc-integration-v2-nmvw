@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/37af97fac8ef9302b0ba4c82e8c4803c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/37af97fac8ef9302b0ba4c82e8c4803c> <https://colonialcollections.nl/schema#identifier> "TM-5509-1h" .
+<https://n2t.net/ark:/27023/37af97fac8ef9302b0ba4c82e8c4803c> <https://colonialcollections.nl/schema#name> "SPOELSTOK VOOR GRONDWEEFSEL, ONDERDEEL VAN ROLLER-OPHALERGETOUW MET WEEFSEL" .
+<https://n2t.net/ark:/27023/37af97fac8ef9302b0ba4c82e8c4803c> <https://colonialcollections.nl/schema#material> "Hout ; snijden" .
+<https://n2t.net/ark:/27023/37af97fac8ef9302b0ba4c82e8c4803c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/37af97fac8ef9302b0ba4c82e8c4803c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .

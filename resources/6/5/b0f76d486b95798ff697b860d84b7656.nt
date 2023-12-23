@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3e00d023cbbb8e6ac2503b443b700472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e00d023cbbb8e6ac2503b443b700472> <https://colonialcollections.nl/schema#identifier> "RV-465-15" .
+<https://n2t.net/ark:/27023/3e00d023cbbb8e6ac2503b443b700472> <https://colonialcollections.nl/schema#name> "Gordel" .
+<https://n2t.net/ark:/27023/3e00d023cbbb8e6ac2503b443b700472> <https://colonialcollections.nl/schema#material> "leer ; zilverdraad" .
+<https://n2t.net/ark:/27023/3e00d023cbbb8e6ac2503b443b700472> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

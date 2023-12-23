@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#identifier> "RV-607-29" .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#name> "Waardigheidsstaf" .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#description> "Described on inventory card as: Bruine houten besneden (staf) waardigheidsteken, gedeeltelijk met zwart gekleurd snijwerk." .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#yearCreatedStart> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/38e6beff555af3bcbca01e3022592a04> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

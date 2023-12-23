@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/366e882e0f820f4f5cccdd163ffb65b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/366e882e0f820f4f5cccdd163ffb65b2> <https://colonialcollections.nl/schema#identifier> "TM-3981-102d" .
+<https://n2t.net/ark:/27023/366e882e0f820f4f5cccdd163ffb65b2> <https://colonialcollections.nl/schema#name> "SCHACHT MET TRAPPER, ONDERDEEL VAN EEN TWEESCHACHTS WEEFGETOUW" .
+<https://n2t.net/ark:/27023/366e882e0f820f4f5cccdd163ffb65b2> <https://colonialcollections.nl/schema#description> "Het tweeschachts weefgetouw bestaat uit verschillende onderdelen (inventarisnummers 3981-102a tot en met k). De stokken die de ombouw vormen en de stok waarover de schering naar de schachten loopt ontbreken." .
+<https://n2t.net/ark:/27023/366e882e0f820f4f5cccdd163ffb65b2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/366e882e0f820f4f5cccdd163ffb65b2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

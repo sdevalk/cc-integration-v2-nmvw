@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3785797d8815b9ee4b1e7c23b43327dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3785797d8815b9ee4b1e7c23b43327dc> <https://colonialcollections.nl/schema#identifier> "RV-B216-12" .
+<https://n2t.net/ark:/27023/3785797d8815b9ee4b1e7c23b43327dc> <https://colonialcollections.nl/schema#name> "Tweelingbeeld" .
+<https://n2t.net/ark:/27023/3785797d8815b9ee4b1e7c23b43327dc> <https://colonialcollections.nl/schema#material> "messing" .
+<https://n2t.net/ark:/27023/3785797d8815b9ee4b1e7c23b43327dc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3785797d8815b9ee4b1e7c23b43327dc> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

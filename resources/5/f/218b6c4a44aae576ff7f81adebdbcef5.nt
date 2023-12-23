@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <https://colonialcollections.nl/schema#identifier> "TM-5323-48" .
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <https://colonialcollections.nl/schema#name> "HOUTSNEDE IN HOUTEN LIJST \"DORPSHOOFD\"" .
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <https://colonialcollections.nl/schema#creator> "dhr. E.J. (Erwin Jules) de Vries" .
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <https://colonialcollections.nl/schema#yearCreatedStart> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3018de24ec08edc666a66f5c7e8b3fae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

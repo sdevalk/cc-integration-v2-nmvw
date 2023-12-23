@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/30ab2670b9cab14907c10e12cbd87c31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30ab2670b9cab14907c10e12cbd87c31> <https://colonialcollections.nl/schema#identifier> "WM-32247" .
+<https://n2t.net/ark:/27023/30ab2670b9cab14907c10e12cbd87c31> <https://colonialcollections.nl/schema#description> "[KL] rood & zwart (bies) & paars (zool)" .
+<https://n2t.net/ark:/27023/30ab2670b9cab14907c10e12cbd87c31> <https://colonialcollections.nl/schema#material> "leer\r\ngenaaid;geverfd;ingesneden;gestanst\r\nZool is ongelooid en het bovenwerk is gelooid." .
+<https://n2t.net/ark:/27023/30ab2670b9cab14907c10e12cbd87c31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <https://colonialcollections.nl/schema#identifier> "WM-66288" .
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <https://colonialcollections.nl/schema#description> "[ST] voet & tuit & handgreep\r\n[VO] peer\r\n[KL] oranje-rood (fond) & roodbruin (lijnen) & zwart\r\n[DE] lijn" .
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <https://colonialcollections.nl/schema#material> "aardewerk\r\ngebakken & geengobeerd & gevernist (?)\r\nCreme ondergrond wordt gevormd door een engobelaag. Decoratie is na het bakken aangebracht. Met de hand gevormd. In open vuur gebakken." .
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4020768b8a5160205dbcfe26e19a5495> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

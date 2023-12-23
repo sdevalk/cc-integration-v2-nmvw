@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3002d92a0fc6bd1e95c3468a9579e07c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3002d92a0fc6bd1e95c3468a9579e07c> <https://colonialcollections.nl/schema#identifier> "TM-2345-127" .
+<https://n2t.net/ark:/27023/3002d92a0fc6bd1e95c3468a9579e07c> <https://colonialcollections.nl/schema#name> "HOUTEN SPINTOL MET TWEE KALEBASSCHIJVEN EN GAREN" .
+<https://n2t.net/ark:/27023/3002d92a0fc6bd1e95c3468a9579e07c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3002d92a0fc6bd1e95c3468a9579e07c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

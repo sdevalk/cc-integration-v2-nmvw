@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3e2e6bbd637a77a760b02ba1ccee1ede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3e2e6bbd637a77a760b02ba1ccee1ede> <https://colonialcollections.nl/schema#identifier> "RV-1042-25" .
+<https://n2t.net/ark:/27023/3e2e6bbd637a77a760b02ba1ccee1ede> <https://colonialcollections.nl/schema#name> "Dubbele rietfluit met drie losse verlengstukken" .
+<https://n2t.net/ark:/27023/3e2e6bbd637a77a760b02ba1ccee1ede> <https://colonialcollections.nl/schema#material> "Riet" .
+<https://n2t.net/ark:/27023/3e2e6bbd637a77a760b02ba1ccee1ede> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3e2e6bbd637a77a760b02ba1ccee1ede> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

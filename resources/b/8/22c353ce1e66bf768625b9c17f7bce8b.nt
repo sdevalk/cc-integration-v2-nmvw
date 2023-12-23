@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/45cda737b3fb101bd05ff5adc64fcfc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/45cda737b3fb101bd05ff5adc64fcfc5> <https://colonialcollections.nl/schema#identifier> "RV-5769-9" .
+<https://n2t.net/ark:/27023/45cda737b3fb101bd05ff5adc64fcfc5> <https://colonialcollections.nl/schema#name> "Pop" .
+<https://n2t.net/ark:/27023/45cda737b3fb101bd05ff5adc64fcfc5> <https://colonialcollections.nl/schema#material> "niet vermeld" .
+<https://n2t.net/ark:/27023/45cda737b3fb101bd05ff5adc64fcfc5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

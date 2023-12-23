@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/2ffad3ef03b01c4d730427c74e328961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/2ffad3ef03b01c4d730427c74e328961> <https://colonialcollections.nl/schema#identifier> "WM-32744" .
+<https://n2t.net/ark:/27023/2ffad3ef03b01c4d730427c74e328961> <https://colonialcollections.nl/schema#material> "ijzer, hout" .
+<https://n2t.net/ark:/27023/2ffad3ef03b01c4d730427c74e328961> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

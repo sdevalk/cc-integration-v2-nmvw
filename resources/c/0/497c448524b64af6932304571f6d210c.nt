@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/403426597326aed0c5ab137938d00a5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/403426597326aed0c5ab137938d00a5b> <https://colonialcollections.nl/schema#identifier> "TM-4107-6" .
+<https://n2t.net/ark:/27023/403426597326aed0c5ab137938d00a5b> <https://colonialcollections.nl/schema#name> "SPIEGEL MET BLADZILVER BEKLEED" .
+<https://n2t.net/ark:/27023/403426597326aed0c5ab137938d00a5b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/403426597326aed0c5ab137938d00a5b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

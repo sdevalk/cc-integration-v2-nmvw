@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/300f4eda95a101e8645db021428af95c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/300f4eda95a101e8645db021428af95c> <https://colonialcollections.nl/schema#identifier> "RV-4282-1" .
+<https://n2t.net/ark:/27023/300f4eda95a101e8645db021428af95c> <https://colonialcollections.nl/schema#name> "Schaduwpop" .
+<https://n2t.net/ark:/27023/300f4eda95a101e8645db021428af95c> <https://colonialcollections.nl/schema#description> "N.B.: het kladinventaris vermeldt: schimmenfiguur zgn. Nang" .
+<https://n2t.net/ark:/27023/300f4eda95a101e8645db021428af95c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

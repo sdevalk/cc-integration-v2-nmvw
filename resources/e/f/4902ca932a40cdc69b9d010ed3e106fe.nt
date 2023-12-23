@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/310e0510b99adf7512c75e8211dc6c70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/310e0510b99adf7512c75e8211dc6c70> <https://colonialcollections.nl/schema#identifier> "TM-3751-718b" .
+<https://n2t.net/ark:/27023/310e0510b99adf7512c75e8211dc6c70> <https://colonialcollections.nl/schema#name> "BOS PAUWENVEREN, BEHOREND BIJ STAAFCITER" .
+<https://n2t.net/ark:/27023/310e0510b99adf7512c75e8211dc6c70> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/310e0510b99adf7512c75e8211dc6c70> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

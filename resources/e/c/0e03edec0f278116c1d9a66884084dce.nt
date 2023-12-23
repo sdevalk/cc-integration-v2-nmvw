@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/3dc31089eeb3a17d79decfbb3960f6c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3dc31089eeb3a17d79decfbb3960f6c5> <https://colonialcollections.nl/schema#identifier> "WM-900807" .
+<https://n2t.net/ark:/27023/3dc31089eeb3a17d79decfbb3960f6c5> <https://colonialcollections.nl/schema#description> "groente & mannenkleding : djellaba\r\nman (mv)\r\nmarkt & groentemarkt & tent" .
+<https://n2t.net/ark:/27023/3dc31089eeb3a17d79decfbb3960f6c5> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/3dc31089eeb3a17d79decfbb3960f6c5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3dc31089eeb3a17d79decfbb3960f6c5> <https://colonialcollections.nl/schema#creator> "H. Haan-Fischer" .

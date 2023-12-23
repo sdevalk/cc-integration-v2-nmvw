@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/30ea1ffbcf38a4d4c52ed40bf6cbc8c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30ea1ffbcf38a4d4c52ed40bf6cbc8c1> <https://colonialcollections.nl/schema#identifier> "RV-497-156" .
+<https://n2t.net/ark:/27023/30ea1ffbcf38a4d4c52ed40bf6cbc8c1> <https://colonialcollections.nl/schema#name> "Kruik" .
+<https://n2t.net/ark:/27023/30ea1ffbcf38a4d4c52ed40bf6cbc8c1> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/30ea1ffbcf38a4d4c52ed40bf6cbc8c1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

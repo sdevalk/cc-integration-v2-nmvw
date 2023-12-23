@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/30145fce81b63eb6512e41b93a744d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/30145fce81b63eb6512e41b93a744d2d> <https://colonialcollections.nl/schema#identifier> "WM-904127" .
+<https://n2t.net/ark:/27023/30145fce81b63eb6512e41b93a744d2d> <https://colonialcollections.nl/schema#description> "kameel (mv)\r\nvervoer door dieren" .
+<https://n2t.net/ark:/27023/30145fce81b63eb6512e41b93a744d2d> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] albuminedruk\r\n[FN] carte-de-visite\r\n[OM] karton" .
+<https://n2t.net/ark:/27023/30145fce81b63eb6512e41b93a744d2d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/30145fce81b63eb6512e41b93a744d2d> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
