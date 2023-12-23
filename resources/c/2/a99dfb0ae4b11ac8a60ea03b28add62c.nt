@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8c95c00aeeec4bd081047c4bca2cca60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c95c00aeeec4bd081047c4bca2cca60> <https://colonialcollections.nl/schema#identifier> "RV-2269-1-22" .
+<https://n2t.net/ark:/27023/8c95c00aeeec4bd081047c4bca2cca60> <https://colonialcollections.nl/schema#name> "Koekschaal (model)" .
+<https://n2t.net/ark:/27023/8c95c00aeeec4bd081047c4bca2cca60> <https://colonialcollections.nl/schema#material> "hout ; lak ; lakwerk (in zwart en goudlak)" .
+<https://n2t.net/ark:/27023/8c95c00aeeec4bd081047c4bca2cca60> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

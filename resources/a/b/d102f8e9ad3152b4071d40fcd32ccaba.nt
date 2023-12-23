@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/92699b2c4106b6e0120ffbf13dee8ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/92699b2c4106b6e0120ffbf13dee8ba4> <https://colonialcollections.nl/schema#identifier> "RV-429-8" .
+<https://n2t.net/ark:/27023/92699b2c4106b6e0120ffbf13dee8ba4> <https://colonialcollections.nl/schema#name> "Hoofdsieraad" .
+<https://n2t.net/ark:/27023/92699b2c4106b6e0120ffbf13dee8ba4> <https://colonialcollections.nl/schema#description> "Hoofdsieraad dat door vrouwen gedragen wordt." .
+<https://n2t.net/ark:/27023/92699b2c4106b6e0120ffbf13dee8ba4> <https://colonialcollections.nl/schema#material> "koper ; email" .
+<https://n2t.net/ark:/27023/92699b2c4106b6e0120ffbf13dee8ba4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

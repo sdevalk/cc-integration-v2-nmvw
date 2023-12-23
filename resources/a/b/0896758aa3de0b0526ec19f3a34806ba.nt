@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9398fd0c73cb12c111866c6c47d7549c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9398fd0c73cb12c111866c6c47d7549c> <https://colonialcollections.nl/schema#identifier> "TM-A-6284c" .
+<https://n2t.net/ark:/27023/9398fd0c73cb12c111866c6c47d7549c> <https://colonialcollections.nl/schema#name> "HOUTEN SERVETRING" .
+<https://n2t.net/ark:/27023/9398fd0c73cb12c111866c6c47d7549c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9398fd0c73cb12c111866c6c47d7549c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

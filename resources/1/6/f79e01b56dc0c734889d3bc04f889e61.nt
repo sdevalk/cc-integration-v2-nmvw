@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <https://colonialcollections.nl/schema#identifier> "RV-1029-2" .
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <https://colonialcollections.nl/schema#name> "Hemd" .
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <https://colonialcollections.nl/schema#description> "Kledingstuk dat door vrouwen wordt gedragen als hemd onder de kaftan." .
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <https://colonialcollections.nl/schema#material> "zijde" .
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/80c1f3dd43b2d3fbd1d83022ff391b89> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

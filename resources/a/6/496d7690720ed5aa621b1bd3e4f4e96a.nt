@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/997c1844dd91763d6916f0938b52a425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/997c1844dd91763d6916f0938b52a425> <https://colonialcollections.nl/schema#identifier> "WM-71301" .
+<https://n2t.net/ark:/27023/997c1844dd91763d6916f0938b52a425> <https://colonialcollections.nl/schema#material> "rotan\r\ngevlochten" .
+<https://n2t.net/ark:/27023/997c1844dd91763d6916f0938b52a425> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/80396c5e854708213eb0d3b8a21cf316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80396c5e854708213eb0d3b8a21cf316> <https://colonialcollections.nl/schema#identifier> "RV-4921-25" .
+<https://n2t.net/ark:/27023/80396c5e854708213eb0d3b8a21cf316> <https://colonialcollections.nl/schema#name> "BAKPAN" .
+<https://n2t.net/ark:/27023/80396c5e854708213eb0d3b8a21cf316> <https://colonialcollections.nl/schema#material> "ijzer" .
+<https://n2t.net/ark:/27023/80396c5e854708213eb0d3b8a21cf316> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

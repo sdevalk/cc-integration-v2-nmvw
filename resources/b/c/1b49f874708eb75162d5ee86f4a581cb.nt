@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/935f87c4b0aa740c2dcdd366ff41394d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/935f87c4b0aa740c2dcdd366ff41394d> <https://colonialcollections.nl/schema#identifier> "TM-3482-1c" .
+<https://n2t.net/ark:/27023/935f87c4b0aa740c2dcdd366ff41394d> <https://colonialcollections.nl/schema#name> "STEL HOUTEN POTEN BEHORENDE BIJ RECHTHOEKIGE TAFEL" .
+<https://n2t.net/ark:/27023/935f87c4b0aa740c2dcdd366ff41394d> <https://colonialcollections.nl/schema#description> "Twee poten zijn met een verbindingslat aan elkaar bevestigd. Het bijbehorende tafelblad steunt op twee van deze stellen." .
+<https://n2t.net/ark:/27023/935f87c4b0aa740c2dcdd366ff41394d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/935f87c4b0aa740c2dcdd366ff41394d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .

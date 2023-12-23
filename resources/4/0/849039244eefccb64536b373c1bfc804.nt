@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8262ca709a8d168e2019dea7988b5e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8262ca709a8d168e2019dea7988b5e18> <https://colonialcollections.nl/schema#identifier> "TM-2511-22s" .
+<https://n2t.net/ark:/27023/8262ca709a8d168e2019dea7988b5e18> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN HOUTEN ZITBANK BEHORENDE BIJ HUISMODEL" .
+<https://n2t.net/ark:/27023/8262ca709a8d168e2019dea7988b5e18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8262ca709a8d168e2019dea7988b5e18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

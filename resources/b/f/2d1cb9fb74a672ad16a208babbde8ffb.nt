@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/940727b724223197cac751beb93362aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/940727b724223197cac751beb93362aa> <https://colonialcollections.nl/schema#identifier> "RV-5579-19" .
+<https://n2t.net/ark:/27023/940727b724223197cac751beb93362aa> <https://colonialcollections.nl/schema#name> "Vetpot of boterpot" .
+<https://n2t.net/ark:/27023/940727b724223197cac751beb93362aa> <https://colonialcollections.nl/schema#material> "hout ; leer" .
+<https://n2t.net/ark:/27023/940727b724223197cac751beb93362aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

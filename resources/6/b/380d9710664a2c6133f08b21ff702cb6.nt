@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/99f62d1c263541134d73a83938815c24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/99f62d1c263541134d73a83938815c24> <https://colonialcollections.nl/schema#identifier> "TM-H-2540" .
+<https://n2t.net/ark:/27023/99f62d1c263541134d73a83938815c24> <https://colonialcollections.nl/schema#name> "RONDE PLATTE MAND" .
+<https://n2t.net/ark:/27023/99f62d1c263541134d73a83938815c24> <https://colonialcollections.nl/schema#description> "Op een inmiddels verdwenen etiket op deze mand stond gedrukt \"P\"" .
+<https://n2t.net/ark:/27023/99f62d1c263541134d73a83938815c24> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/99f62d1c263541134d73a83938815c24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

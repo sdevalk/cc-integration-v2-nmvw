@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8c455b3585956ae41d8cedb6fc1ced79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c455b3585956ae41d8cedb6fc1ced79> <https://colonialcollections.nl/schema#identifier> "RV-3981-1" .
+<https://n2t.net/ark:/27023/8c455b3585956ae41d8cedb6fc1ced79> <https://colonialcollections.nl/schema#name> "KRUIK MET STOP" .
+<https://n2t.net/ark:/27023/8c455b3585956ae41d8cedb6fc1ced79> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/8c455b3585956ae41d8cedb6fc1ced79> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/94b84739a8734e7cda5eafeb431388f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/94b84739a8734e7cda5eafeb431388f1> <https://colonialcollections.nl/schema#identifier> "WM-910806" .
+<https://n2t.net/ark:/27023/94b84739a8734e7cda5eafeb431388f1> <https://colonialcollections.nl/schema#description> "handelswaar\r\nman (mv)\r\nhandel\r\nbinnenplaats & karavanserai" .
+<https://n2t.net/ark:/27023/94b84739a8734e7cda5eafeb431388f1> <https://colonialcollections.nl/schema#material> "[MT] papier & PVC\r\n[TK] albuminedruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/94b84739a8734e7cda5eafeb431388f1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/94b84739a8734e7cda5eafeb431388f1> <https://colonialcollections.nl/schema#creator> "ND Phot" .

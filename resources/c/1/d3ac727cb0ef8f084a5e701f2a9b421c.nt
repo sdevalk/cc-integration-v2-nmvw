@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8cefcfc16b02ca1bf35b074be8d14baa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8cefcfc16b02ca1bf35b074be8d14baa> <https://colonialcollections.nl/schema#identifier> "TM-2885-9" .
+<https://n2t.net/ark:/27023/8cefcfc16b02ca1bf35b074be8d14baa> <https://colonialcollections.nl/schema#name> "DRAAGMANDJE VAN OPEN VLECHTWERK, BESTEMD VOOR KATOEN" .
+<https://n2t.net/ark:/27023/8cefcfc16b02ca1bf35b074be8d14baa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8cefcfc16b02ca1bf35b074be8d14baa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

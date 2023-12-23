@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/94d08f558e839c220e3ec8322418073d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/94d08f558e839c220e3ec8322418073d> <https://colonialcollections.nl/schema#identifier> "RV-5706-1" .
+<https://n2t.net/ark:/27023/94d08f558e839c220e3ec8322418073d> <https://colonialcollections.nl/schema#name> "Tegeltableau" .
+<https://n2t.net/ark:/27023/94d08f558e839c220e3ec8322418073d> <https://colonialcollections.nl/schema#description> "Bestaande uit 21 tegels. Centraal medaillon met Perzische tekst." .
+<https://n2t.net/ark:/27023/94d08f558e839c220e3ec8322418073d> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/94d08f558e839c220e3ec8322418073d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

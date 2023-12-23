@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <https://colonialcollections.nl/schema#identifier> "RV-1042-41" .
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <https://colonialcollections.nl/schema#name> "ZILVEREN HALSKETTING" .
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <https://colonialcollections.nl/schema#description> "De halsketting werd volgens de informatie niet alleen als sieraad maar ook als amulet gedragen door de Bedoeïnen vrouwen." .
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <https://colonialcollections.nl/schema#material> "Zilver" .
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7fa19023b7617edc2b1e2ec5d4299c05> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

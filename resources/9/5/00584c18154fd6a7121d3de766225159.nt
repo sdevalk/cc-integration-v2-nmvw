@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7fe6ee61c7018ea4222f280b5430ffef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fe6ee61c7018ea4222f280b5430ffef> <https://colonialcollections.nl/schema#identifier> "WM-77420-3282" .
+<https://n2t.net/ark:/27023/7fe6ee61c7018ea4222f280b5430ffef> <https://colonialcollections.nl/schema#description> "[VO]" .
+<https://n2t.net/ark:/27023/7fe6ee61c7018ea4222f280b5430ffef> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/7fe6ee61c7018ea4222f280b5430ffef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

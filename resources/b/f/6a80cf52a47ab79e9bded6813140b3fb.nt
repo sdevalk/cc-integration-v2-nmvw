@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9332fe620a6214047aee8e5dccb7ff2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9332fe620a6214047aee8e5dccb7ff2e> <https://colonialcollections.nl/schema#identifier> "TM-3912-682" .
+<https://n2t.net/ark:/27023/9332fe620a6214047aee8e5dccb7ff2e> <https://colonialcollections.nl/schema#name> "JACHTFETISJ VAN GEDROOGDE VOGELKOPPEN" .
+<https://n2t.net/ark:/27023/9332fe620a6214047aee8e5dccb7ff2e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9332fe620a6214047aee8e5dccb7ff2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/8b840aa18c7a135e202c4ff72f67e354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8b840aa18c7a135e202c4ff72f67e354> <https://colonialcollections.nl/schema#identifier> "WM-44537" .
+<https://n2t.net/ark:/27023/8b840aa18c7a135e202c4ff72f67e354> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/8b840aa18c7a135e202c4ff72f67e354> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

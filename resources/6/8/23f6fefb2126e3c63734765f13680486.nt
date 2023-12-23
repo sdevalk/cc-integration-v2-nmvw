@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/805f871927ec8e7ff9905063983d91bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/805f871927ec8e7ff9905063983d91bd> <https://colonialcollections.nl/schema#identifier> "RV-3835-543" .
+<https://n2t.net/ark:/27023/805f871927ec8e7ff9905063983d91bd> <https://colonialcollections.nl/schema#name> "CASSAVERASP" .
+<https://n2t.net/ark:/27023/805f871927ec8e7ff9905063983d91bd> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/805f871927ec8e7ff9905063983d91bd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

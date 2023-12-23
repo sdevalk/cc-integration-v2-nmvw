@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8dd9043fc909802d3e033b1ef48b18a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8dd9043fc909802d3e033b1ef48b18a0> <https://colonialcollections.nl/schema#identifier> "TM-6325-64" .
+<https://n2t.net/ark:/27023/8dd9043fc909802d3e033b1ef48b18a0> <https://colonialcollections.nl/schema#name> "HERINNERINGSDOEK KARDINAAL MALULA" .
+<https://n2t.net/ark:/27023/8dd9043fc909802d3e033b1ef48b18a0> <https://colonialcollections.nl/schema#description> "Op deze doek wordt de Congolese kardinaal Joseph Malula herinnerd. De data van zijn loopbaan worden genoemd: in 1946 priester, in 1959 bisschop en in 1969 kardinaal, en zijn geboorte en sterftedatum: 17-12-1917 en 14-6-1989." .
+<https://n2t.net/ark:/27023/8dd9043fc909802d3e033b1ef48b18a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8dd9043fc909802d3e033b1ef48b18a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

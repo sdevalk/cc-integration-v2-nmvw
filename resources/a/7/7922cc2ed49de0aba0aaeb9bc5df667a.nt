@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8225cbc823767c23f5c3dbb1414600d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8225cbc823767c23f5c3dbb1414600d4> <https://colonialcollections.nl/schema#identifier> "RV-4921-76" .
+<https://n2t.net/ark:/27023/8225cbc823767c23f5c3dbb1414600d4> <https://colonialcollections.nl/schema#name> "Zak" .
+<https://n2t.net/ark:/27023/8225cbc823767c23f5c3dbb1414600d4> <https://colonialcollections.nl/schema#description> "Zak van bruine jute met blauwe lengtestreep ; gebruikt voor het bewaren van voorraden in huis." .
+<https://n2t.net/ark:/27023/8225cbc823767c23f5c3dbb1414600d4> <https://colonialcollections.nl/schema#material> "jute" .
+<https://n2t.net/ark:/27023/8225cbc823767c23f5c3dbb1414600d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

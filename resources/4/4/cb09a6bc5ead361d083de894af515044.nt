@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7fd75733afdb9892b3d3d3132829b115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7fd75733afdb9892b3d3d3132829b115> <https://colonialcollections.nl/schema#identifier> "TM-A-8746c" .
+<https://n2t.net/ark:/27023/7fd75733afdb9892b3d3d3132829b115> <https://colonialcollections.nl/schema#name> "HOUTEN DOOS, GEHEEL GEVULD MET BLOKJES VAN VERSCHILLENDE VORM, DIE BIJ ELKAAR GELEGD EEN KUBUS VORMEN" .
+<https://n2t.net/ark:/27023/7fd75733afdb9892b3d3d3132829b115> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7fd75733afdb9892b3d3d3132829b115> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

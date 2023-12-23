@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#identifier> "RV-497-171" .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#name> "DEKSCHAAL" .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#description> "Houten dekschaal naar Europees model, met in reliëf gesneden sierranden en ingekerfd decor." .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#material> "hout ; gesneden ; gekerfd" .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/92cbe46f4509de01bd089af436f9b57f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .

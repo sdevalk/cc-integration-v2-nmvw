@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/81c38c87b8eefec60f843cb430dbac78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/81c38c87b8eefec60f843cb430dbac78> <https://colonialcollections.nl/schema#identifier> "RV-IB2003-13-106" .
+<https://n2t.net/ark:/27023/81c38c87b8eefec60f843cb430dbac78> <https://colonialcollections.nl/schema#material> "wol ; katoen" .
+<https://n2t.net/ark:/27023/81c38c87b8eefec60f843cb430dbac78> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

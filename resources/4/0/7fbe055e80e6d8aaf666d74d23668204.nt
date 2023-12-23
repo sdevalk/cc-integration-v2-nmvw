@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/92889f143aac807ea5591f430582307a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/92889f143aac807ea5591f430582307a> <https://colonialcollections.nl/schema#identifier> "RV-4470-36b" .
+<https://n2t.net/ark:/27023/92889f143aac807ea5591f430582307a> <https://colonialcollections.nl/schema#name> "Kaars" .
+<https://n2t.net/ark:/27023/92889f143aac807ea5591f430582307a> <https://colonialcollections.nl/schema#description> "Lamp (4470-36a) met kaars (4470-36b)." .
+<https://n2t.net/ark:/27023/92889f143aac807ea5591f430582307a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

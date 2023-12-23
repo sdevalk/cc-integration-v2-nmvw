@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#identifier> "TM-5969-150" .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#name> "TEKENING VAN EEN MEISJE GENAAMD THERESIA BUJA DOOR PATER P. VERTENTEN" .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#description> "Tekening in inkt en potlood door Pater P. Vertenten. Afgebeeld is het portret en profil van een meisje genaamd Theresia Buja. Rechtsonder gesigneerd: \"P. Vert. msc Wafania 5/9/27\"." .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#material> "papier ; potlood" .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9a0d22376f8be5d2d4939f028b9737c0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

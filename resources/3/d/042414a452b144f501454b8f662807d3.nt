@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <https://colonialcollections.nl/schema#identifier> "TM-5323-34" .
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <https://colonialcollections.nl/schema#name> "GOUACHE OOST-INDISCHE INKT IN HOUTEN LIJST \"DE VERRIJZENIS\"" .
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <https://colonialcollections.nl/schema#creator> "Wil Man A Hing" .
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <https://colonialcollections.nl/schema#yearCreatedStart> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/94390b49ccae958175783156f4593540> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

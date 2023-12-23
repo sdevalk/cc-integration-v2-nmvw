@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/806af796d8432f1bc6aee648c24c6723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/806af796d8432f1bc6aee648c24c6723> <https://colonialcollections.nl/schema#identifier> "TM-6377-4" .
+<https://n2t.net/ark:/27023/806af796d8432f1bc6aee648c24c6723> <https://colonialcollections.nl/schema#name> "T-SHIRT MET EEN AFBEELDING VAN KÉRÉKOU" .
+<https://n2t.net/ark:/27023/806af796d8432f1bc6aee648c24c6723> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/806af796d8432f1bc6aee648c24c6723> <https://colonialcollections.nl/schema#inscription> "VOTEZ KEREKOU VOTRE AVENIR" .
+<https://n2t.net/ark:/27023/806af796d8432f1bc6aee648c24c6723> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

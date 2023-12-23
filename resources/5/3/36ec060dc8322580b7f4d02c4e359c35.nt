@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9991825e1e22dd26c714ee858f945450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9991825e1e22dd26c714ee858f945450> <https://colonialcollections.nl/schema#identifier> "TM-2416-35b" .
+<https://n2t.net/ark:/27023/9991825e1e22dd26c714ee858f945450> <https://colonialcollections.nl/schema#name> "MET LEER OVERTROKKEN HOUTEN SCHEDE" .
+<https://n2t.net/ark:/27023/9991825e1e22dd26c714ee858f945450> <https://colonialcollections.nl/schema#description> "De binnenschede bestaat uit twee houten lengtehelften die aan de binnenzijde licht uitgehold zijn. Ze worden omsloten door een hoes van leer die geen naad vertoont (vermoedelijk de huid van een dierenpoot). De hoes is over het hout geschoven terwijl het leer nog zacht en elastisch was. De punt is omwikkeld met ijzerdraad." .
+<https://n2t.net/ark:/27023/9991825e1e22dd26c714ee858f945450> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9991825e1e22dd26c714ee858f945450> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

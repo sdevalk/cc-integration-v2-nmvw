@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8a20749acb8b8b20b806742c86e02f63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8a20749acb8b8b20b806742c86e02f63> <https://colonialcollections.nl/schema#identifier> "TM-A-2544" .
+<https://n2t.net/ark:/27023/8a20749acb8b8b20b806742c86e02f63> <https://colonialcollections.nl/schema#name> "SCHAAMBEDEKKING VAN GEVLOCHTEN ROTAN MET RUITMOTIEF" .
+<https://n2t.net/ark:/27023/8a20749acb8b8b20b806742c86e02f63> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8a20749acb8b8b20b806742c86e02f63> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

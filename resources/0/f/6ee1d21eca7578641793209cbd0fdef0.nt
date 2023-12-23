@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8b414cea9368d6404dbf197707d5c481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8b414cea9368d6404dbf197707d5c481> <https://colonialcollections.nl/schema#identifier> "RV-1352-90" .
+<https://n2t.net/ark:/27023/8b414cea9368d6404dbf197707d5c481> <https://colonialcollections.nl/schema#name> "Boog" .
+<https://n2t.net/ark:/27023/8b414cea9368d6404dbf197707d5c481> <https://colonialcollections.nl/schema#description> "Inv.kaart: Centr.Urundi, zie ook no. 1162-76." .
+<https://n2t.net/ark:/27023/8b414cea9368d6404dbf197707d5c481> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/8b414cea9368d6404dbf197707d5c481> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

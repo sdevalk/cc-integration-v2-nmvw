@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <https://colonialcollections.nl/schema#identifier> "RV-503-333" .
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <https://colonialcollections.nl/schema#name> "LAMSMAAG" .
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <https://colonialcollections.nl/schema#description> "Glazen stolp met lamsmaag" .
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <https://colonialcollections.nl/schema#material> "maag (lam) ; glas" .
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/947c23dbf26e2e554977e39a4ff241b8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

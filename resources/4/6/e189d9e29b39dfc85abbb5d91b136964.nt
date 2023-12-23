@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8a1e7e7c1c5b2095a1de3f011aa0e0aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8a1e7e7c1c5b2095a1de3f011aa0e0aa> <https://colonialcollections.nl/schema#identifier> "TM-H-2395" .
+<https://n2t.net/ark:/27023/8a1e7e7c1c5b2095a1de3f011aa0e0aa> <https://colonialcollections.nl/schema#name> "HALSKETTING VAN TAPOE-TAPOEKRALEN" .
+<https://n2t.net/ark:/27023/8a1e7e7c1c5b2095a1de3f011aa0e0aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8a1e7e7c1c5b2095a1de3f011aa0e0aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

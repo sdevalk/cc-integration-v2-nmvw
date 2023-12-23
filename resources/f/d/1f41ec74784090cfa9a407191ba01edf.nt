@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/80af656048f3df80cc859d420a498ed3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80af656048f3df80cc859d420a498ed3> <https://colonialcollections.nl/schema#identifier> "RV-B59-89" .
+<https://n2t.net/ark:/27023/80af656048f3df80cc859d420a498ed3> <https://colonialcollections.nl/schema#description> "diep ; herkomst voornamelijk China en Japan (vlg. Jaarverslag)" .
+<https://n2t.net/ark:/27023/80af656048f3df80cc859d420a498ed3> <https://colonialcollections.nl/schema#material> "porselein" .
+<https://n2t.net/ark:/27023/80af656048f3df80cc859d420a498ed3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

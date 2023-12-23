@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#identifier> "WM-74536" .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#name> "TEGEL MET FLORALE ARABESKEN" .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#description> "[KL] rood & wit & zwart\r\n[DE] cirkelvormige florale arabesken" .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#material> "aardewerk; mangaan-glazuur, verf / pleister\r\ngebakken & geglazuurd" .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#yearCreatedStart> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91cf71fdbc8dffc33296ef643ce1c461> <https://colonialcollections.nl/schema#yearCreatedEnd> "1399"^^<http://www.w3.org/2001/XMLSchema#integer> .

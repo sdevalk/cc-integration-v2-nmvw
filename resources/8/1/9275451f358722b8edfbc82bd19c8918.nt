@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/99d5d22c42cb5880796beac9d63139c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/99d5d22c42cb5880796beac9d63139c4> <https://colonialcollections.nl/schema#identifier> "RV-B226-452" .
+<https://n2t.net/ark:/27023/99d5d22c42cb5880796beac9d63139c4> <https://colonialcollections.nl/schema#name> "GEWICHT VOOR EEN HANGROLSCHILDERING" .
+<https://n2t.net/ark:/27023/99d5d22c42cb5880796beac9d63139c4> <https://colonialcollections.nl/schema#material> "marmer ; zijde ; hout" .
+<https://n2t.net/ark:/27023/99d5d22c42cb5880796beac9d63139c4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

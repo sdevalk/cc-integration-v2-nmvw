@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/800886646884f5a01b95dc90886f4360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/800886646884f5a01b95dc90886f4360> <https://colonialcollections.nl/schema#identifier> "WM-49455" .
+<https://n2t.net/ark:/27023/800886646884f5a01b95dc90886f4360> <https://colonialcollections.nl/schema#material> "goud-legering\r\ngegoten & gesmeed" .
+<https://n2t.net/ark:/27023/800886646884f5a01b95dc90886f4360> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7f607ea6e7a5e00e598eb354fb4c2c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7f607ea6e7a5e00e598eb354fb4c2c87> <https://colonialcollections.nl/schema#identifier> "WM-V-104" .
+<https://n2t.net/ark:/27023/7f607ea6e7a5e00e598eb354fb4c2c87> <https://colonialcollections.nl/schema#description> "[ST] lotusvoet" .
+<https://n2t.net/ark:/27023/7f607ea6e7a5e00e598eb354fb4c2c87> <https://colonialcollections.nl/schema#material> "gepatineerd brons" .
+<https://n2t.net/ark:/27023/7f607ea6e7a5e00e598eb354fb4c2c87> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/92fe53e4686f3c94b72b10699eff86f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/92fe53e4686f3c94b72b10699eff86f9> <https://colonialcollections.nl/schema#identifier> "RV-2183-11" .
+<https://n2t.net/ark:/27023/92fe53e4686f3c94b72b10699eff86f9> <https://colonialcollections.nl/schema#name> "Gordel" .
+<https://n2t.net/ark:/27023/92fe53e4686f3c94b72b10699eff86f9> <https://colonialcollections.nl/schema#material> "ivoor ; hoorn ; zilver" .
+<https://n2t.net/ark:/27023/92fe53e4686f3c94b72b10699eff86f9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

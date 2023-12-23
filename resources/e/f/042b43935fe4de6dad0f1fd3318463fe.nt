@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/80a23cbd061a6bdca4700dfd58140bc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80a23cbd061a6bdca4700dfd58140bc8> <https://colonialcollections.nl/schema#identifier> "TM-4991-168" .
+<https://n2t.net/ark:/27023/80a23cbd061a6bdca4700dfd58140bc8> <https://colonialcollections.nl/schema#name> "TERRACOTTA KRUIK" .
+<https://n2t.net/ark:/27023/80a23cbd061a6bdca4700dfd58140bc8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/80a23cbd061a6bdca4700dfd58140bc8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

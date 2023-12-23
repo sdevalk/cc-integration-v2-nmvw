@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/8c957846a5233fb686364c79e03e04e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8c957846a5233fb686364c79e03e04e7> <https://colonialcollections.nl/schema#identifier> "RV-4399-124" .
+<https://n2t.net/ark:/27023/8c957846a5233fb686364c79e03e04e7> <https://colonialcollections.nl/schema#name> "KOMFOOR" .
+<https://n2t.net/ark:/27023/8c957846a5233fb686364c79e03e04e7> <https://colonialcollections.nl/schema#description> "Aardewerken komfoor gebruikt in het huishouden voor het bereiden van de maaltijd." .
+<https://n2t.net/ark:/27023/8c957846a5233fb686364c79e03e04e7> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/8c957846a5233fb686364c79e03e04e7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

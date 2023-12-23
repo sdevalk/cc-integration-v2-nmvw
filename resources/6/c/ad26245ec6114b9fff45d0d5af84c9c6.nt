@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <https://colonialcollections.nl/schema#identifier> "RV-503-143" .
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <https://colonialcollections.nl/schema#name> "KAM" .
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <https://colonialcollections.nl/schema#description> "Houten kam met brede tanden en een ronde kop. De kop is aan beide zijden versierd met een ingesneden inscriptie. Aan beide zijdes de namen van de Ahl al-Bayt (Mohammad, Ali, Fatima, Hassan, Hussein)." .
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9222e4947dfda7a38e89e9a8ef9da653> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/80a4a89b352c708efb3938fa3fa22ad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80a4a89b352c708efb3938fa3fa22ad5> <https://colonialcollections.nl/schema#identifier> "TM-3912-650a" .
+<https://n2t.net/ark:/27023/80a4a89b352c708efb3938fa3fa22ad5> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN CYLINDERVORMIGE KIPPENMAND MET DRAAGKOORD EN TWEE BIJBEHORENDE DEKSELS" .
+<https://n2t.net/ark:/27023/80a4a89b352c708efb3938fa3fa22ad5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/80a4a89b352c708efb3938fa3fa22ad5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

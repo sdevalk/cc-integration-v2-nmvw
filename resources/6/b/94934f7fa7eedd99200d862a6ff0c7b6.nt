@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#identifier> "WM-427134" .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#description> "Het fort (toevluchtsoord) van de fransen (mei 1907)." .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#material> "ontwikkelgelatinezilverdruk" .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#yearCreatedStart> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91de7e9571afa2d7bf97b63c6a45ae82> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .

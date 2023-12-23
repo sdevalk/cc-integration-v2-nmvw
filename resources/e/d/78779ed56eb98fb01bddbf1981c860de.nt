@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/93b33162fcbf4a4a51c89600ae29357a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/93b33162fcbf4a4a51c89600ae29357a> <https://colonialcollections.nl/schema#identifier> "TM-A-5750q" .
+<https://n2t.net/ark:/27023/93b33162fcbf4a4a51c89600ae29357a> <https://colonialcollections.nl/schema#name> "BESCHILDERD KARTON MET EEN MENSFIGUUR VAN VEREN" .
+<https://n2t.net/ark:/27023/93b33162fcbf4a4a51c89600ae29357a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/93b33162fcbf4a4a51c89600ae29357a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

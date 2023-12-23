@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/941d176144b2b1a39293e39e270b0664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/941d176144b2b1a39293e39e270b0664> <https://colonialcollections.nl/schema#identifier> "TM-3782-109" .
+<https://n2t.net/ark:/27023/941d176144b2b1a39293e39e270b0664> <https://colonialcollections.nl/schema#name> "IJZEREN KLING VAN EEN DISSELBIJL VOOR HET BEWERKEN VAN HOUT" .
+<https://n2t.net/ark:/27023/941d176144b2b1a39293e39e270b0664> <https://colonialcollections.nl/schema#description> "Het voorwerp wordt gebruikt om stukken ruw hout uit de boom te kappen, die vervolgens worden gebruikt door de diverse houtverwerkende ambachtslieden." .
+<https://n2t.net/ark:/27023/941d176144b2b1a39293e39e270b0664> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/941d176144b2b1a39293e39e270b0664> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/80eb5d779e379e28ff461e3d9870174b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80eb5d779e379e28ff461e3d9870174b> <https://colonialcollections.nl/schema#identifier> "WM-46755" .
+<https://n2t.net/ark:/27023/80eb5d779e379e28ff461e3d9870174b> <https://colonialcollections.nl/schema#description> "[ST] greep" .
+<https://n2t.net/ark:/27023/80eb5d779e379e28ff461e3d9870174b> <https://colonialcollections.nl/schema#material> "ijzer, hout" .
+<https://n2t.net/ark:/27023/80eb5d779e379e28ff461e3d9870174b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

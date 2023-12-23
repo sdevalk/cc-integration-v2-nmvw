@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/824581fe05154877c0980769c7f6e35e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/824581fe05154877c0980769c7f6e35e> <https://colonialcollections.nl/schema#identifier> "TM-A-159b" .
+<https://n2t.net/ark:/27023/824581fe05154877c0980769c7f6e35e> <https://colonialcollections.nl/schema#name> "ARMBAND UIT SCHELP GESLEPEN" .
+<https://n2t.net/ark:/27023/824581fe05154877c0980769c7f6e35e> <https://colonialcollections.nl/schema#material> "Waarschijnlijk geslepen door rotatie van een bamboestengeldeel met vochtig zand." .
+<https://n2t.net/ark:/27023/824581fe05154877c0980769c7f6e35e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/824581fe05154877c0980769c7f6e35e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .

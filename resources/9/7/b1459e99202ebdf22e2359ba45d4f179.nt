@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/80a05861207f57e30322bdc833834dcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/80a05861207f57e30322bdc833834dcd> <https://colonialcollections.nl/schema#identifier> "RV-5816-20" .
+<https://n2t.net/ark:/27023/80a05861207f57e30322bdc833834dcd> <https://colonialcollections.nl/schema#name> "Rammelaar" .
+<https://n2t.net/ark:/27023/80a05861207f57e30322bdc833834dcd> <https://colonialcollections.nl/schema#material> "vezels ; bamboe ; veren" .
+<https://n2t.net/ark:/27023/80a05861207f57e30322bdc833834dcd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

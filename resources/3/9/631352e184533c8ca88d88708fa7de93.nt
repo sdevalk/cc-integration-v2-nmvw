@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <https://colonialcollections.nl/schema#identifier> "RV-2452-187" .
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <https://colonialcollections.nl/schema#name> "ZITBANK" .
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <https://colonialcollections.nl/schema#material> "hout ; kaurischelp" .
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9523d0d214045af1f96451df8d2ab309> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

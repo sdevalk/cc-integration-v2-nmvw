@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/99f3a2d89254e69b97a9102ab2f40d4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/99f3a2d89254e69b97a9102ab2f40d4e> <https://colonialcollections.nl/schema#identifier> "TM-407-4" .
+<https://n2t.net/ark:/27023/99f3a2d89254e69b97a9102ab2f40d4e> <https://colonialcollections.nl/schema#name> "MENSENHOOFD VERVAARDIGD VAN KOKOSNOOT" .
+<https://n2t.net/ark:/27023/99f3a2d89254e69b97a9102ab2f40d4e> <https://colonialcollections.nl/schema#material> "kokosnoot, verf, bewerking van plantaardige materialen, polychromie" .
+<https://n2t.net/ark:/27023/99f3a2d89254e69b97a9102ab2f40d4e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/99f3a2d89254e69b97a9102ab2f40d4e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

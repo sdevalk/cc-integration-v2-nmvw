@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/953b4c8b2bd9cd45dc25e3eede15ca6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/953b4c8b2bd9cd45dc25e3eede15ca6d> <https://colonialcollections.nl/schema#identifier> "TM-3317-167j" .
+<https://n2t.net/ark:/27023/953b4c8b2bd9cd45dc25e3eede15ca6d> <https://colonialcollections.nl/schema#name> "FRAGMENT VAN EEN KLING VAN OBSIDIAAN" .
+<https://n2t.net/ark:/27023/953b4c8b2bd9cd45dc25e3eede15ca6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/953b4c8b2bd9cd45dc25e3eede15ca6d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

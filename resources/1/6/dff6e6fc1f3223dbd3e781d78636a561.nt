@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/81392c35eb96a57a2154ed80da0273db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/81392c35eb96a57a2154ed80da0273db> <https://colonialcollections.nl/schema#identifier> "TM-3401-600k" .
+<https://n2t.net/ark:/27023/81392c35eb96a57a2154ed80da0273db> <https://colonialcollections.nl/schema#name> "KOPEREN BAKJE, ONDERDEEL VAN ZES BAKJES MET PORSELEINEN KOPJES" .
+<https://n2t.net/ark:/27023/81392c35eb96a57a2154ed80da0273db> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/81392c35eb96a57a2154ed80da0273db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/94b33a290899c29e65c4461ddc8dd35a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/94b33a290899c29e65c4461ddc8dd35a> <https://colonialcollections.nl/schema#identifier> "WM-18994" .
+<https://n2t.net/ark:/27023/94b33a290899c29e65c4461ddc8dd35a> <https://colonialcollections.nl/schema#material> "bamboe, raffia" .
+<https://n2t.net/ark:/27023/94b33a290899c29e65c4461ddc8dd35a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/94b33a290899c29e65c4461ddc8dd35a> <https://colonialcollections.nl/schema#inscription> "[T] 274" .

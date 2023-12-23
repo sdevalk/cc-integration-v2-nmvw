@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/93e1c167eab3d52b3e50b06d33acadf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/93e1c167eab3d52b3e50b06d33acadf0> <https://colonialcollections.nl/schema#identifier> "WM-59667" .
+<https://n2t.net/ark:/27023/93e1c167eab3d52b3e50b06d33acadf0> <https://colonialcollections.nl/schema#description> "[KL] steenrood & geel & oranje & zwart & groen & wit & lila\r\n        hoofdkleur is rood\r\n[VO] grote, rijk geborduurde hoog opgewerkte muts." .
+<https://n2t.net/ark:/27023/93e1c167eab3d52b3e50b06d33acadf0> <https://colonialcollections.nl/schema#material> "?\r\ngeborduurd" .
+<https://n2t.net/ark:/27023/93e1c167eab3d52b3e50b06d33acadf0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
