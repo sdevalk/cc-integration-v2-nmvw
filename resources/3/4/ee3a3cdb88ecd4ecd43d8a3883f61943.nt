@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9afe2d6db6fa40e908aad7b3310ee52e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9afe2d6db6fa40e908aad7b3310ee52e> <https://colonialcollections.nl/schema#identifier> "RV-4615-1a" .
+<https://n2t.net/ark:/27023/9afe2d6db6fa40e908aad7b3310ee52e> <https://colonialcollections.nl/schema#name> "Harnachement" .
+<https://n2t.net/ark:/27023/9afe2d6db6fa40e908aad7b3310ee52e> <https://colonialcollections.nl/schema#material> "huid" .
+<https://n2t.net/ark:/27023/9afe2d6db6fa40e908aad7b3310ee52e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

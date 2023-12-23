@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9c5626ed8cdaf8911a2d11a567da8279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9c5626ed8cdaf8911a2d11a567da8279> <https://colonialcollections.nl/schema#identifier> "WM-7795" .
+<https://n2t.net/ark:/27023/9c5626ed8cdaf8911a2d11a567da8279> <https://colonialcollections.nl/schema#description> "[PA] palm \r\n[KL] effen blauw (sjaal) & goudkleurig (palm)" .
+<https://n2t.net/ark:/27023/9c5626ed8cdaf8911a2d11a567da8279> <https://colonialcollections.nl/schema#material> "zijde, gouddraad, zijdegaren" .
+<https://n2t.net/ark:/27023/9c5626ed8cdaf8911a2d11a567da8279> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

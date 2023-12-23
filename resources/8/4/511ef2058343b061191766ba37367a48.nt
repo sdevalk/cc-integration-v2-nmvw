@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9a64f5f40e169d33408546e93cbedeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a64f5f40e169d33408546e93cbedeed> <https://colonialcollections.nl/schema#identifier> "RV-4955-22" .
+<https://n2t.net/ark:/27023/9a64f5f40e169d33408546e93cbedeed> <https://colonialcollections.nl/schema#name> "Waterkan" .
+<https://n2t.net/ark:/27023/9a64f5f40e169d33408546e93cbedeed> <https://colonialcollections.nl/schema#material> "koper" .
+<https://n2t.net/ark:/27023/9a64f5f40e169d33408546e93cbedeed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

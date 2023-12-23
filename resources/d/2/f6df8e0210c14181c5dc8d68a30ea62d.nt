@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9afb7d0390242bb09118154bf78b32ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9afb7d0390242bb09118154bf78b32ca> <https://colonialcollections.nl/schema#identifier> "RV-1-2929" .
+<https://n2t.net/ark:/27023/9afb7d0390242bb09118154bf78b32ca> <https://colonialcollections.nl/schema#description> "Met opschrift:  yau san (d.i. overzese nl. Amerikaanse) gin seng = wortel van Panax quin qua folium L" .
+<https://n2t.net/ark:/27023/9afb7d0390242bb09118154bf78b32ca> <https://colonialcollections.nl/schema#material> "glas ; ginseng" .
+<https://n2t.net/ark:/27023/9afb7d0390242bb09118154bf78b32ca> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9be7d5161eb8f09d7e0f9f50f2f20f14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9be7d5161eb8f09d7e0f9f50f2f20f14> <https://colonialcollections.nl/schema#identifier> "RV-4399-104" .
+<https://n2t.net/ark:/27023/9be7d5161eb8f09d7e0f9f50f2f20f14> <https://colonialcollections.nl/schema#name> "Schrijfpen" .
+<https://n2t.net/ark:/27023/9be7d5161eb8f09d7e0f9f50f2f20f14> <https://colonialcollections.nl/schema#description> "Houten schrijfpen." .
+<https://n2t.net/ark:/27023/9be7d5161eb8f09d7e0f9f50f2f20f14> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/9be7d5161eb8f09d7e0f9f50f2f20f14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

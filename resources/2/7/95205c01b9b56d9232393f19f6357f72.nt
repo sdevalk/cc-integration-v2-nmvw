@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#identifier> "WM-940132-13-3" .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#name> "SCHORPIOEN BEZWEERDER TEMACINE" .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#description> "reisfotografie & schorpioenbezweerder & kind (4) & persoon (2) & gebouw" .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#material> "[MT] papier" .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9cbc523bc7f7e73a11f42c9c9f9fd09d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

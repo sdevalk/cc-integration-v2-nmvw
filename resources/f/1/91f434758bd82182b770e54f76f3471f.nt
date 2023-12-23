@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b1912a9415d2f936f4cd8c36ec230348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b1912a9415d2f936f4cd8c36ec230348> <https://colonialcollections.nl/schema#identifier> "RV-2452-569" .
+<https://n2t.net/ark:/27023/b1912a9415d2f936f4cd8c36ec230348> <https://colonialcollections.nl/schema#name> "Halssieraad" .
+<https://n2t.net/ark:/27023/b1912a9415d2f936f4cd8c36ec230348> <https://colonialcollections.nl/schema#material> "kralen ; vruchtenpitten" .
+<https://n2t.net/ark:/27023/b1912a9415d2f936f4cd8c36ec230348> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

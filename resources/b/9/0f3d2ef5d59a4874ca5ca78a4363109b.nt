@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a186b95de099d5beb7a3648e53b743cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a186b95de099d5beb7a3648e53b743cd> <https://colonialcollections.nl/schema#identifier> "TM-H-3049c" .
+<https://n2t.net/ark:/27023/a186b95de099d5beb7a3648e53b743cd> <https://colonialcollections.nl/schema#name> "HOUTEN BOOG MET TOUWOMWINDING" .
+<https://n2t.net/ark:/27023/a186b95de099d5beb7a3648e53b743cd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a186b95de099d5beb7a3648e53b743cd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

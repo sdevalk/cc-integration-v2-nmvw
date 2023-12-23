@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9ce1f4486085413ebc6bd9ffdcb5f3b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ce1f4486085413ebc6bd9ffdcb5f3b4> <https://colonialcollections.nl/schema#identifier> "RV-B27-1" .
+<https://n2t.net/ark:/27023/9ce1f4486085413ebc6bd9ffdcb5f3b4> <https://colonialcollections.nl/schema#name> "Borstplaat" .
+<https://n2t.net/ark:/27023/9ce1f4486085413ebc6bd9ffdcb5f3b4> <https://colonialcollections.nl/schema#material> "goudblik" .
+<https://n2t.net/ark:/27023/9ce1f4486085413ebc6bd9ffdcb5f3b4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

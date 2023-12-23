@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b12af2ebd49261f4393d61b20940babe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b12af2ebd49261f4393d61b20940babe> <https://colonialcollections.nl/schema#identifier> "TM-A-8257" .
+<https://n2t.net/ark:/27023/b12af2ebd49261f4393d61b20940babe> <https://colonialcollections.nl/schema#name> "BAMBOE MANDJE MET DEKSEL" .
+<https://n2t.net/ark:/27023/b12af2ebd49261f4393d61b20940babe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b12af2ebd49261f4393d61b20940babe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a3338ad9378c5660b90c8d40ccab67f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a3338ad9378c5660b90c8d40ccab67f6> <https://colonialcollections.nl/schema#identifier> "TM-3864-30" .
+<https://n2t.net/ark:/27023/a3338ad9378c5660b90c8d40ccab67f6> <https://colonialcollections.nl/schema#name> "IJZEREN SPEERPUNT MET KAMELEONFIGUUR" .
+<https://n2t.net/ark:/27023/a3338ad9378c5660b90c8d40ccab67f6> <https://colonialcollections.nl/schema#material> "De kameleon is uit een ijzeren plaat geknipt en met een nagel aan de speerpunt geklonken." .
+<https://n2t.net/ark:/27023/a3338ad9378c5660b90c8d40ccab67f6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a3338ad9378c5660b90c8d40ccab67f6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

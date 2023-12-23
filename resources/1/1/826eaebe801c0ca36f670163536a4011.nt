@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <https://colonialcollections.nl/schema#identifier> "TM-4991-222" .
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <https://colonialcollections.nl/schema#name> "POLYESTER LAP OM KLEDING VAN TE MAKEN" .
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <https://colonialcollections.nl/schema#description> "Op de zelfkant staat: '100% polyester voile, made in Thailand'." .
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <https://colonialcollections.nl/schema#material> "polyester ; weven ; drukken ; machinaal vervaardigen" .
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/aab87594f09603735a9a1f3ba93061ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

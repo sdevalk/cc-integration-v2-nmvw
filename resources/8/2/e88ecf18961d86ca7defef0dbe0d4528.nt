@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <https://colonialcollections.nl/schema#identifier> "RV-1782-1" .
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <https://colonialcollections.nl/schema#name> "VAN RIET GEVLOCHTEN DOOSJE" .
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <https://colonialcollections.nl/schema#description> "Het doosje is vervaardigd door gevangenen te Akka (het huidige Akko)." .
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <https://colonialcollections.nl/schema#material> "Riet" .
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a2871e24415e91846819a7d52d8f064d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .

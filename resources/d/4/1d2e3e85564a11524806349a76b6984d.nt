@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9bb0cb63182a1f17a800a30191fed4a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9bb0cb63182a1f17a800a30191fed4a0> <https://colonialcollections.nl/schema#identifier> "TM-3782-507c" .
+<https://n2t.net/ark:/27023/9bb0cb63182a1f17a800a30191fed4a0> <https://colonialcollections.nl/schema#name> "HOUTEN ZITPLANK WAAROP DE WEVER EN ZIJN HELPERS ZITTEN BIJ HET MATTENVLECHTEN" .
+<https://n2t.net/ark:/27023/9bb0cb63182a1f17a800a30191fed4a0> <https://colonialcollections.nl/schema#description> "De zitplanken liggen op twee houten blokken en de vlechter zit gehurkt op de plank onder het invlechten van de biezen inslagrepen." .
+<https://n2t.net/ark:/27023/9bb0cb63182a1f17a800a30191fed4a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9bb0cb63182a1f17a800a30191fed4a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

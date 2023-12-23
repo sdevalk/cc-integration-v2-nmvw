@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9bfc04e6816824b6211f1688e7db502a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9bfc04e6816824b6211f1688e7db502a> <https://colonialcollections.nl/schema#identifier> "WM-36802" .
+<https://n2t.net/ark:/27023/9bfc04e6816824b6211f1688e7db502a> <https://colonialcollections.nl/schema#description> "[VO] pijlkoker met gevlochten tasje." .
+<https://n2t.net/ark:/27023/9bfc04e6816824b6211f1688e7db502a> <https://colonialcollections.nl/schema#material> "hout\r\nvlechtwerk" .
+<https://n2t.net/ark:/27023/9bfc04e6816824b6211f1688e7db502a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

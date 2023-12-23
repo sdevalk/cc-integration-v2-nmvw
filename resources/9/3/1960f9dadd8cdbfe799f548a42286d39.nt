@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a8ac3def5248464637263ce30fc4e1df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a8ac3def5248464637263ce30fc4e1df> <https://colonialcollections.nl/schema#identifier> "TM-3912-519" .
+<https://n2t.net/ark:/27023/a8ac3def5248464637263ce30fc4e1df> <https://colonialcollections.nl/schema#name> "SCHILDPADSCHILD DOOR KINDEREN GEBRUIKT OM MEE TE SPELEN" .
+<https://n2t.net/ark:/27023/a8ac3def5248464637263ce30fc4e1df> <https://colonialcollections.nl/schema#material> "schildpad" .
+<https://n2t.net/ark:/27023/a8ac3def5248464637263ce30fc4e1df> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a8ac3def5248464637263ce30fc4e1df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

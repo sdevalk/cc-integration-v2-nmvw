@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b0be2512ee166dd09a962d0b7bd4c0cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b0be2512ee166dd09a962d0b7bd4c0cb> <https://colonialcollections.nl/schema#identifier> "RV-2452-650" .
+<https://n2t.net/ark:/27023/b0be2512ee166dd09a962d0b7bd4c0cb> <https://colonialcollections.nl/schema#name> "HAAKPEN MET MONSTER" .
+<https://n2t.net/ark:/27023/b0be2512ee166dd09a962d0b7bd4c0cb> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; katoen" .
+<https://n2t.net/ark:/27023/b0be2512ee166dd09a962d0b7bd4c0cb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

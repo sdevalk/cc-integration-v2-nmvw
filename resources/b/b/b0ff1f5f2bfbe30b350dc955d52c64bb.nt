@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9b90c1a741d0ffa1462659d754a13a9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9b90c1a741d0ffa1462659d754a13a9c> <https://colonialcollections.nl/schema#identifier> "TM-4575-3" .
+<https://n2t.net/ark:/27023/9b90c1a741d0ffa1462659d754a13a9c> <https://colonialcollections.nl/schema#name> "HOUTEN HOBO, DUBBELRIET" .
+<https://n2t.net/ark:/27023/9b90c1a741d0ffa1462659d754a13a9c> <https://colonialcollections.nl/schema#description> "Deze instrumenten worden altijd als paar bespeeld (zie 4575-4). In veel Tibetaans-boeddhistische kloosters wordt er, staande op het platte dak boven de centrale gebedsruimte, bij zonsopkomst en -ondergang op geblazen, afwisselend met de lange hoorns (ra-dun). Ze worden ook bij cham-mysterieën (zie 4575-1 en 2) bespeeld." .
+<https://n2t.net/ark:/27023/9b90c1a741d0ffa1462659d754a13a9c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9b90c1a741d0ffa1462659d754a13a9c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .

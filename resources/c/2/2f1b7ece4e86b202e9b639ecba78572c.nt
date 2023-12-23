@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b098c9b149c52881bb7efbf8bef61782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b098c9b149c52881bb7efbf8bef61782> <https://colonialcollections.nl/schema#identifier> "TM-2064-1" .
+<https://n2t.net/ark:/27023/b098c9b149c52881bb7efbf8bef61782> <https://colonialcollections.nl/schema#name> "GROTE, ZWARE STEEN MET INDIAANSE SLIJPGROEVEN, AFKOMSTIG VAN DE NEW STAR SOELA, OOST VAN HET GELIJKNAMIGE EILANDJE IN DE SURINAME RIVIER" .
+<https://n2t.net/ark:/27023/b098c9b149c52881bb7efbf8bef61782> <https://colonialcollections.nl/schema#description> "Herk: Suriname" .
+<https://n2t.net/ark:/27023/b098c9b149c52881bb7efbf8bef61782> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b098c9b149c52881bb7efbf8bef61782> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

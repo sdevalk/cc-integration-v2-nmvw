@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a1a7c824b245823c737721f6431444f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a1a7c824b245823c737721f6431444f2> <https://colonialcollections.nl/schema#identifier> "WM-75245" .
+<https://n2t.net/ark:/27023/a1a7c824b245823c737721f6431444f2> <https://colonialcollections.nl/schema#description> "[KL] bruin & parelmoer & wit\r\n[VO] uiteinde bolvormig met uitsteeksel\r\n[DE] maansikkel & band (3) & cirkel\r\nDe loop is van metaal dat aan de onderzijde in hout gevat is." .
+<https://n2t.net/ark:/27023/a1a7c824b245823c737721f6431444f2> <https://colonialcollections.nl/schema#material> "metaal & hout & parelmoer & been\r\ningelegd" .
+<https://n2t.net/ark:/27023/a1a7c824b245823c737721f6431444f2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a1a7c824b245823c737721f6431444f2> <https://colonialcollections.nl/schema#inscription> "[T] ELG* &\r\n[B] onleesbaar" .

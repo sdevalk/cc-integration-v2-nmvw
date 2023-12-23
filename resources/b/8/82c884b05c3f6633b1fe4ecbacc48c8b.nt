@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <https://colonialcollections.nl/schema#identifier> "RV-503-328" .
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <https://colonialcollections.nl/schema#name> "GOESTÉ" .
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <https://colonialcollections.nl/schema#description> "monster jute, gebruikt om touw voor het vissen te maken" .
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <https://colonialcollections.nl/schema#material> "jute (vezelstof)" .
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/abe3eeb3f47fd2b43822b907a2ef43df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

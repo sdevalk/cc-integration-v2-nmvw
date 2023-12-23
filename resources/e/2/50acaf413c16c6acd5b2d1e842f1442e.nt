@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9b299fc41c3477d10977ced90c504d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9b299fc41c3477d10977ced90c504d31> <https://colonialcollections.nl/schema#identifier> "RV-3600-2616" .
+<https://n2t.net/ark:/27023/9b299fc41c3477d10977ced90c504d31> <https://colonialcollections.nl/schema#name> "Waterschepper" .
+<https://n2t.net/ark:/27023/9b299fc41c3477d10977ced90c504d31> <https://colonialcollections.nl/schema#material> "blik" .
+<https://n2t.net/ark:/27023/9b299fc41c3477d10977ced90c504d31> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

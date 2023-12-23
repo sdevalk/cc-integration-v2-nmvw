@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <https://colonialcollections.nl/schema#identifier> "TM-4765-164" .
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <https://colonialcollections.nl/schema#name> "EEN FOTOSCHOOLPLAAT VAN SURINAME" .
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <https://colonialcollections.nl/schema#description> "Vermoedelijk gedrukt door l.o. Kleyenberg & Co. Haarlem." .
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <https://colonialcollections.nl/schema#material> "drukwerk" .
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9ab02e995d27c94e903c25bf37dfadce> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

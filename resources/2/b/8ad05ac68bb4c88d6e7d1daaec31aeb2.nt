@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9cc7e2149813b6329523bf2ec52f4a90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9cc7e2149813b6329523bf2ec52f4a90> <https://colonialcollections.nl/schema#identifier> "WM-28556" .
+<https://n2t.net/ark:/27023/9cc7e2149813b6329523bf2ec52f4a90> <https://colonialcollections.nl/schema#description> "[ST] knop\r\n[DE] snijwerk\r\n[VO] mensfiguur (2) & voorwerpen (w.o. dubbelbel en mes)" .
+<https://n2t.net/ark:/27023/9cc7e2149813b6329523bf2ec52f4a90> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/9cc7e2149813b6329523bf2ec52f4a90> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

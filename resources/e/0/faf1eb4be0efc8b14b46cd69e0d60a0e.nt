@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b06585867ef9f0b2e8fd27b477832075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b06585867ef9f0b2e8fd27b477832075> <https://colonialcollections.nl/schema#identifier> "WM-421834" .
+<https://n2t.net/ark:/27023/b06585867ef9f0b2e8fd27b477832075> <https://colonialcollections.nl/schema#description> "stad & straat & bergen" .
+<https://n2t.net/ark:/27023/b06585867ef9f0b2e8fd27b477832075> <https://colonialcollections.nl/schema#material> "[MT] gevaert\r\n[TK] *" .
+<https://n2t.net/ark:/27023/b06585867ef9f0b2e8fd27b477832075> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b06585867ef9f0b2e8fd27b477832075> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .

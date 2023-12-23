@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/aba36b8076540b750c8fa956f97d0240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aba36b8076540b750c8fa956f97d0240> <https://colonialcollections.nl/schema#identifier> "TM-A-6323" .
+<https://n2t.net/ark:/27023/aba36b8076540b750c8fa956f97d0240> <https://colonialcollections.nl/schema#name> "IJZEREN GRENDEL" .
+<https://n2t.net/ark:/27023/aba36b8076540b750c8fa956f97d0240> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/aba36b8076540b750c8fa956f97d0240> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

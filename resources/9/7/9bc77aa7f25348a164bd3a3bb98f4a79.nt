@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ac6545691d7bc7afba53b62f3a5e0506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ac6545691d7bc7afba53b62f3a5e0506> <https://colonialcollections.nl/schema#identifier> "TM-2412-12b" .
+<https://n2t.net/ark:/27023/ac6545691d7bc7afba53b62f3a5e0506> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN PAREL BEHORENDE BIJ KORJAAL" .
+<https://n2t.net/ark:/27023/ac6545691d7bc7afba53b62f3a5e0506> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ac6545691d7bc7afba53b62f3a5e0506> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

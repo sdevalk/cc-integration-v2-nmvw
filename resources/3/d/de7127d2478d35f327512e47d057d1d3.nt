@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9ab13d7e424efa7f4bcb91f641e5e29d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9ab13d7e424efa7f4bcb91f641e5e29d> <https://colonialcollections.nl/schema#identifier> "WM-53703" .
+<https://n2t.net/ark:/27023/9ab13d7e424efa7f4bcb91f641e5e29d> <https://colonialcollections.nl/schema#description> "[KL] blauwgroen\r\n[ST] voetstuk" .
+<https://n2t.net/ark:/27023/9ab13d7e424efa7f4bcb91f641e5e29d> <https://colonialcollections.nl/schema#material> "faience\r\ngebakken & geglazuurd" .
+<https://n2t.net/ark:/27023/9ab13d7e424efa7f4bcb91f641e5e29d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

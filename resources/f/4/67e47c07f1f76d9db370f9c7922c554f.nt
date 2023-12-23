@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/9a95dcdb66cbe2d2db0c8f9de47f5853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a95dcdb66cbe2d2db0c8f9de47f5853> <https://colonialcollections.nl/schema#identifier> "WM-302212" .
+<https://n2t.net/ark:/27023/9a95dcdb66cbe2d2db0c8f9de47f5853> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://n2t.net/ark:/27023/9a95dcdb66cbe2d2db0c8f9de47f5853> <https://colonialcollections.nl/schema#material> "onedel metaal" .
+<https://n2t.net/ark:/27023/9a95dcdb66cbe2d2db0c8f9de47f5853> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

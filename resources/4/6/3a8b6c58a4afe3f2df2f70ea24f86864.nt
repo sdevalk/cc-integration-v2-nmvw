@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#identifier> "TM-6384-16" .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#name> "GEBORDUURDE ZAKDOEK WAAROP AFGEBEELD EEN KOTOMISI MET DAARBOVEN DE TEKST SURINAME" .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#description> "Geborduurd en voorzien van sierrand." .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#material> "katoen ; borduren in steelsteek, satijnsteek en lazy Daisy: lussteek." .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#inscription> "Suriname" .
+<https://n2t.net/ark:/27023/a980bbd73bfce0b40a66af00ba6ebbf5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

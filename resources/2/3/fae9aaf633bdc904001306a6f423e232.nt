@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/aae2e079116db76a260919eafdfeb6c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/aae2e079116db76a260919eafdfeb6c9> <https://colonialcollections.nl/schema#identifier> "RV-2431-4" .
+<https://n2t.net/ark:/27023/aae2e079116db76a260919eafdfeb6c9> <https://colonialcollections.nl/schema#name> "Gordel" .
+<https://n2t.net/ark:/27023/aae2e079116db76a260919eafdfeb6c9> <https://colonialcollections.nl/schema#description> "Leren gordel bekleed met blauwe wollen stof en met zijden opstiksels. Met gesp-sluiting." .
+<https://n2t.net/ark:/27023/aae2e079116db76a260919eafdfeb6c9> <https://colonialcollections.nl/schema#material> "leer ; wol ; zijde" .
+<https://n2t.net/ark:/27023/aae2e079116db76a260919eafdfeb6c9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

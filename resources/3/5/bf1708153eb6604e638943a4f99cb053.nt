@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9a5c18ef7e9dba40b35f4305d46fa031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9a5c18ef7e9dba40b35f4305d46fa031> <https://colonialcollections.nl/schema#identifier> "WM-30422" .
+<https://n2t.net/ark:/27023/9a5c18ef7e9dba40b35f4305d46fa031> <https://colonialcollections.nl/schema#description> "[ST] ketting" .
+<https://n2t.net/ark:/27023/9a5c18ef7e9dba40b35f4305d46fa031> <https://colonialcollections.nl/schema#material> "brons, koper (beslag en ketting)\r\ngesmeed" .
+<https://n2t.net/ark:/27023/9a5c18ef7e9dba40b35f4305d46fa031> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/9a5c18ef7e9dba40b35f4305d46fa031> <https://colonialcollections.nl/schema#inscription> "[T] CAPS" .

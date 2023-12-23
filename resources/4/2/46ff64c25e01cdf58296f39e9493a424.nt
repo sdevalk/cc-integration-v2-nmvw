@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a943ea96866e7dd00effcd57180cca8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a943ea96866e7dd00effcd57180cca8e> <https://colonialcollections.nl/schema#identifier> "TM-3232-4" .
+<https://n2t.net/ark:/27023/a943ea96866e7dd00effcd57180cca8e> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN WAAIERTJE OM VUUR AAN TE WAAIEN EN DIENT OOK ALS LEPEL" .
+<https://n2t.net/ark:/27023/a943ea96866e7dd00effcd57180cca8e> <https://colonialcollections.nl/schema#description> "De waaier wordt dient ook als lepel, om de maniockoek af te ronden en rond te draaien." .
+<https://n2t.net/ark:/27023/a943ea96866e7dd00effcd57180cca8e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a943ea96866e7dd00effcd57180cca8e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

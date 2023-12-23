@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/b069e4e84fcb5e1f189f939790c093cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b069e4e84fcb5e1f189f939790c093cc> <https://colonialcollections.nl/schema#identifier> "WM-71793" .
+<https://n2t.net/ark:/27023/b069e4e84fcb5e1f189f939790c093cc> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/b069e4e84fcb5e1f189f939790c093cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

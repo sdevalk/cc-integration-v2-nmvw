@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/abef1589cc3f6a73197464adc06248e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/abef1589cc3f6a73197464adc06248e0> <https://colonialcollections.nl/schema#identifier> "WM-50473" .
+<https://n2t.net/ark:/27023/abef1589cc3f6a73197464adc06248e0> <https://colonialcollections.nl/schema#description> "Geelbruin zand." .
+<https://n2t.net/ark:/27023/abef1589cc3f6a73197464adc06248e0> <https://colonialcollections.nl/schema#material> "glas, zand" .
+<https://n2t.net/ark:/27023/abef1589cc3f6a73197464adc06248e0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

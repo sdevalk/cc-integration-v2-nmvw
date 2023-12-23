@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/ab69236529eb8c94a6a7fed6194591a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ab69236529eb8c94a6a7fed6194591a9> <https://colonialcollections.nl/schema#identifier> "TM-0-483" .
+<https://n2t.net/ark:/27023/ab69236529eb8c94a6a7fed6194591a9> <https://colonialcollections.nl/schema#name> "BEKFLUIT" .
+<https://n2t.net/ark:/27023/ab69236529eb8c94a6a7fed6194591a9> <https://colonialcollections.nl/schema#description> "Een bekfluit gemaakt van een lengte bamboe. De fluit heeft drie ronde vingergaten. In een uiteinde een halvecirkelvormig blaasgat. Dit uiteinde is met een plug dichtgemaakt." .
+<https://n2t.net/ark:/27023/ab69236529eb8c94a6a7fed6194591a9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ab69236529eb8c94a6a7fed6194591a9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b0c50b5331949c448bd42c93cc364d0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b0c50b5331949c448bd42c93cc364d0c> <https://colonialcollections.nl/schema#identifier> "TM-5122-544a-2" .
+<https://n2t.net/ark:/27023/b0c50b5331949c448bd42c93cc364d0c> <https://colonialcollections.nl/schema#name> "VERSIERDE KATOENEN MUTS BEHORENDE BIJ EEN VROUWENKOSTUUM" .
+<https://n2t.net/ark:/27023/b0c50b5331949c448bd42c93cc364d0c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b0c50b5331949c448bd42c93cc364d0c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

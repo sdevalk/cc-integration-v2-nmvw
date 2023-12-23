@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/a38952bba7377f17863d719295500d60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a38952bba7377f17863d719295500d60> <https://colonialcollections.nl/schema#identifier> "TM-5455-62f" .
+<https://n2t.net/ark:/27023/a38952bba7377f17863d719295500d60> <https://colonialcollections.nl/schema#name> "STEUN VAN EEN BED" .
+<https://n2t.net/ark:/27023/a38952bba7377f17863d719295500d60> <https://colonialcollections.nl/schema#description> "Op de uiteinden van het onderdeel staan twee nummers vermeld (VII en VIII), welke waarschijnlijk duiden op de wijze van bevestiging." .
+<https://n2t.net/ark:/27023/a38952bba7377f17863d719295500d60> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a38952bba7377f17863d719295500d60> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

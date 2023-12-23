@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/a8e3dfdbe3032f7bd957cbb4c1230577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/a8e3dfdbe3032f7bd957cbb4c1230577> <https://colonialcollections.nl/schema#identifier> "TM-1400-7" .
+<https://n2t.net/ark:/27023/a8e3dfdbe3032f7bd957cbb4c1230577> <https://colonialcollections.nl/schema#name> "HOUTSNIJWERK UIT ÉÉN STUK, IN DE VORM VAN TWEE PAGAAIEN VERBONDEN DOOR EEN SCHAKEL" .
+<https://n2t.net/ark:/27023/a8e3dfdbe3032f7bd957cbb4c1230577> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/a8e3dfdbe3032f7bd957cbb4c1230577> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

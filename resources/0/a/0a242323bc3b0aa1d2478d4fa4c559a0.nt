@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/9c18d69c72e5335455fb8c8cff09c725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/9c18d69c72e5335455fb8c8cff09c725> <https://colonialcollections.nl/schema#identifier> "RV-5715-3531" .
+<https://n2t.net/ark:/27023/9c18d69c72e5335455fb8c8cff09c725> <https://colonialcollections.nl/schema#name> "Lepel" .
+<https://n2t.net/ark:/27023/9c18d69c72e5335455fb8c8cff09c725> <https://colonialcollections.nl/schema#description> "Beschilderde lepel." .
+<https://n2t.net/ark:/27023/9c18d69c72e5335455fb8c8cff09c725> <https://colonialcollections.nl/schema#material> "hout ; verf" .
+<https://n2t.net/ark:/27023/9c18d69c72e5335455fb8c8cff09c725> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
