@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b37e93c6fdcff7e62e97c94fa4593b53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b37e93c6fdcff7e62e97c94fa4593b53> <https://colonialcollections.nl/schema#identifier> "TM-3793-106" .
+<https://n2t.net/ark:/27023/b37e93c6fdcff7e62e97c94fa4593b53> <https://colonialcollections.nl/schema#name> "IJZEREN SCHAAR" .
+<https://n2t.net/ark:/27023/b37e93c6fdcff7e62e97c94fa4593b53> <https://colonialcollections.nl/schema#description> "Schaar o.a. voor het knippen van patronen in ezelvachten. De schaar wordt door kappers gebruikt." .
+<https://n2t.net/ark:/27023/b37e93c6fdcff7e62e97c94fa4593b53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b37e93c6fdcff7e62e97c94fa4593b53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

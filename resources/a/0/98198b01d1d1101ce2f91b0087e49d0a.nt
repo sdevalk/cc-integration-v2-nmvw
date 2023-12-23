@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5a70e4c0117a37db17a7e97b0d54849f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a70e4c0117a37db17a7e97b0d54849f> <https://colonialcollections.nl/schema#identifier> "AM-14-81" .
+<https://n2t.net/ark:/27023/5a70e4c0117a37db17a7e97b0d54849f> <https://colonialcollections.nl/schema#name> "Speer" .
+<https://n2t.net/ark:/27023/5a70e4c0117a37db17a7e97b0d54849f> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nSpeer met ijzeren, gesmede blad met een S-vormige doorsnede. Over de lengte van het blad lopen enige gleuven. Het blad is aan de houten schacht bevestigd met dun touw, waaroverheen gedeeltelijk een smalle ijzeren strip is gedraaid. De schacht loopt uit in een ijzeren punt." .
+<https://n2t.net/ark:/27023/5a70e4c0117a37db17a7e97b0d54849f> <https://colonialcollections.nl/schema#material> "IJzer; touw" .
+<https://n2t.net/ark:/27023/5a70e4c0117a37db17a7e97b0d54849f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/59ef33d3b953e1b7dd40baa9cb04b98a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59ef33d3b953e1b7dd40baa9cb04b98a> <https://colonialcollections.nl/schema#identifier> "TM-3401-476d" .
+<https://n2t.net/ark:/27023/59ef33d3b953e1b7dd40baa9cb04b98a> <https://colonialcollections.nl/schema#name> "KATOENEN LAP MET MOHAIR" .
+<https://n2t.net/ark:/27023/59ef33d3b953e1b7dd40baa9cb04b98a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/59ef33d3b953e1b7dd40baa9cb04b98a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

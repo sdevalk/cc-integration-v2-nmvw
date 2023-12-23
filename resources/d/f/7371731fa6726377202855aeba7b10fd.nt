@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b9d66607c961ac9e12f184ef5b1c7b53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9d66607c961ac9e12f184ef5b1c7b53> <https://colonialcollections.nl/schema#identifier> "WM-940148" .
+<https://n2t.net/ark:/27023/b9d66607c961ac9e12f184ef5b1c7b53> <https://colonialcollections.nl/schema#description> "Vijf delen in zes banden, tekst met ingeplakte foto's van diverse fotografen." .
+<https://n2t.net/ark:/27023/b9d66607c961ac9e12f184ef5b1c7b53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b9d66607c961ac9e12f184ef5b1c7b53> <https://colonialcollections.nl/schema#creator> "Dr. H.F. (Hendrik Freerk) Tillema" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5a4d3da39028f9b58335e72e404cf2bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a4d3da39028f9b58335e72e404cf2bc> <https://colonialcollections.nl/schema#identifier> "RV-4823-1" .
+<https://n2t.net/ark:/27023/5a4d3da39028f9b58335e72e404cf2bc> <https://colonialcollections.nl/schema#name> "Hangmat" .
+<https://n2t.net/ark:/27023/5a4d3da39028f9b58335e72e404cf2bc> <https://colonialcollections.nl/schema#description> "Hangmat wieg." .
+<https://n2t.net/ark:/27023/5a4d3da39028f9b58335e72e404cf2bc> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/5a4d3da39028f9b58335e72e404cf2bc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

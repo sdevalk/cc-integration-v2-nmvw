@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d9fedf27de3e80649e168d2cce185f3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d9fedf27de3e80649e168d2cce185f3a> <https://colonialcollections.nl/schema#identifier> "AM-85-15" .
+<https://n2t.net/ark:/27023/d9fedf27de3e80649e168d2cce185f3a> <https://colonialcollections.nl/schema#name> "Amulet" .
+<https://n2t.net/ark:/27023/d9fedf27de3e80649e168d2cce185f3a> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nAmulet bestaande uit een stukje touw waaraan vijf kleine blokjes hout hangen. De stukjes hout zijn heel eenvoudig bewerkt." .
+<https://n2t.net/ark:/27023/d9fedf27de3e80649e168d2cce185f3a> <https://colonialcollections.nl/schema#material> "Hout; touw" .
+<https://n2t.net/ark:/27023/d9fedf27de3e80649e168d2cce185f3a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

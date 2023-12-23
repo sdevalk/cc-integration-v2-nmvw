@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b3f292272afeefeca6700a1d96d8c422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b3f292272afeefeca6700a1d96d8c422> <https://colonialcollections.nl/schema#identifier> "TM-4131-8" .
+<https://n2t.net/ark:/27023/b3f292272afeefeca6700a1d96d8c422> <https://colonialcollections.nl/schema#name> "ZAKDOEK" .
+<https://n2t.net/ark:/27023/b3f292272afeefeca6700a1d96d8c422> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Indonesie West Sumatra Padangse Bovenlanden" .
+<https://n2t.net/ark:/27023/b3f292272afeefeca6700a1d96d8c422> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b3f292272afeefeca6700a1d96d8c422> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

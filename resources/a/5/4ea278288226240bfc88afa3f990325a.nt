@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5a66eb6876b4e67810cb1314aca90e6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a66eb6876b4e67810cb1314aca90e6d> <https://colonialcollections.nl/schema#identifier> "WM-59522" .
+<https://n2t.net/ark:/27023/5a66eb6876b4e67810cb1314aca90e6d> <https://colonialcollections.nl/schema#description> "[VO] lange pijp - houten roer, gedeeltelijk bedekt met metaalverf;\r\n        gebakken kop. (kop ontbreekt)" .
+<https://n2t.net/ark:/27023/5a66eb6876b4e67810cb1314aca90e6d> <https://colonialcollections.nl/schema#material> "hout ; metaalverf\r\ngebakken" .
+<https://n2t.net/ark:/27023/5a66eb6876b4e67810cb1314aca90e6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

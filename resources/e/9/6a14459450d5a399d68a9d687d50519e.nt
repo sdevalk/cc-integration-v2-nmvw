@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/59d7c79e8c7810151b80597df84f2d75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59d7c79e8c7810151b80597df84f2d75> <https://colonialcollections.nl/schema#identifier> "RV-4921-1" .
+<https://n2t.net/ark:/27023/59d7c79e8c7810151b80597df84f2d75> <https://colonialcollections.nl/schema#name> "WATERVAT" .
+<https://n2t.net/ark:/27023/59d7c79e8c7810151b80597df84f2d75> <https://colonialcollections.nl/schema#material> "hout ; leer" .
+<https://n2t.net/ark:/27023/59d7c79e8c7810151b80597df84f2d75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

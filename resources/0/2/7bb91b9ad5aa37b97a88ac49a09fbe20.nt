@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b29f30d2917ae7a42cc1d418ab46abcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b29f30d2917ae7a42cc1d418ab46abcd> <https://colonialcollections.nl/schema#identifier> "TM-A-6359" .
+<https://n2t.net/ark:/27023/b29f30d2917ae7a42cc1d418ab46abcd> <https://colonialcollections.nl/schema#name> "GEPREPAREERDE BOOMMIERENETER" .
+<https://n2t.net/ark:/27023/b29f30d2917ae7a42cc1d418ab46abcd> <https://colonialcollections.nl/schema#description> "Miereneter met lange puntige bek met opgerolde tong, klein zadel en zeer lange dunne staart." .
+<https://n2t.net/ark:/27023/b29f30d2917ae7a42cc1d418ab46abcd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b29f30d2917ae7a42cc1d418ab46abcd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .

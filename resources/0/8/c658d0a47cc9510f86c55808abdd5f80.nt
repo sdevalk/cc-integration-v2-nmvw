@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#identifier> "RV-5720-6" .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#name> "AMULET VOOR DE BOVENARM" .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#description> "Amulet met invocaties en korancitaten die de drager moeten beschermen. Het amulet werd aan de bovenarm gedragen." .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#material> "Zilver" .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#yearCreatedStart> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d7586c185c972b0aef31c9cb21f105ac> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .

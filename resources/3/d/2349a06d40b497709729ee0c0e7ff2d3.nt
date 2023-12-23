@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#identifier> "WM-412873" .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#description> "landschapsfotografie\r\noase & palmboom & vrouw & kruik" .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#material> "papier & karton, albuminedruk" .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#creator> "Lekegian & Co., G." .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#inscription> "nummer & titel ; geschreven in negatief" .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#yearCreatedStart> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/58c5f90c75a0ef32d051a53b7392bfbc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .

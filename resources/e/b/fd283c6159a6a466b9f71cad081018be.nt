@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <https://colonialcollections.nl/schema#identifier> "RV-5676-2094" .
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <https://colonialcollections.nl/schema#name> "ROLKOORD VOOR VERSIERING VAN AARDEWERK" .
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <https://colonialcollections.nl/schema#description> "Rolkoord voor het aanbrengen van repeterend decor op aardewerk (voor het bakken)." .
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <https://colonialcollections.nl/schema#material> "vezel" .
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ba53606eff6df785539d511d8024d299> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

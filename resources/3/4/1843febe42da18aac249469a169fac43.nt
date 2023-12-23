@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5a3f3dd7b44864901039f97910d658fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a3f3dd7b44864901039f97910d658fe> <https://colonialcollections.nl/schema#identifier> "TM-A-6032c" .
+<https://n2t.net/ark:/27023/5a3f3dd7b44864901039f97910d658fe> <https://colonialcollections.nl/schema#name> "DRINKNAP VAN KALEBAS" .
+<https://n2t.net/ark:/27023/5a3f3dd7b44864901039f97910d658fe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5a3f3dd7b44864901039f97910d658fe> <https://colonialcollections.nl/schema#inscription> "Vaart met en gedenk aan mij" .
+<https://n2t.net/ark:/27023/5a3f3dd7b44864901039f97910d658fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

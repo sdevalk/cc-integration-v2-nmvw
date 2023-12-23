@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5ac547cf6ef8f9e944a399e2c85d676b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5ac547cf6ef8f9e944a399e2c85d676b> <https://colonialcollections.nl/schema#identifier> "TM-1585-136b" .
+<https://n2t.net/ark:/27023/5ac547cf6ef8f9e944a399e2c85d676b> <https://colonialcollections.nl/schema#name> "DEKSEL VAN KOKOSNOOT BEHORENDE BIJ BOKAAL OP VOETSTUK" .
+<https://n2t.net/ark:/27023/5ac547cf6ef8f9e944a399e2c85d676b> <https://colonialcollections.nl/schema#description> "Op het deksel is een peervormig houten knopje geschroefd" .
+<https://n2t.net/ark:/27023/5ac547cf6ef8f9e944a399e2c85d676b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5ac547cf6ef8f9e944a399e2c85d676b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .

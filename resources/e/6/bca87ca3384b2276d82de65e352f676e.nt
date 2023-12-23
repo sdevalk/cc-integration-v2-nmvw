@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/59db722cd7a34698f483eda0d60ccfc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59db722cd7a34698f483eda0d60ccfc3> <https://colonialcollections.nl/schema#identifier> "WM-61005" .
+<https://n2t.net/ark:/27023/59db722cd7a34698f483eda0d60ccfc3> <https://colonialcollections.nl/schema#description> "[ST] snaar (6) & hals\r\n[VO] hart (klankbodem)\r\nToonladderaanduiding in Perzisch schrift op de hals." .
+<https://n2t.net/ark:/27023/59db722cd7a34698f483eda0d60ccfc3> <https://colonialcollections.nl/schema#material> "hout, been, parelmoer, perkament" .
+<https://n2t.net/ark:/27023/59db722cd7a34698f483eda0d60ccfc3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

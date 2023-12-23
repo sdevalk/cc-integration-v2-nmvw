@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/59c27d50e15a084f8248487943037a21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59c27d50e15a084f8248487943037a21> <https://colonialcollections.nl/schema#identifier> "RV-898-28" .
+<https://n2t.net/ark:/27023/59c27d50e15a084f8248487943037a21> <https://colonialcollections.nl/schema#name> "Mat" .
+<https://n2t.net/ark:/27023/59c27d50e15a084f8248487943037a21> <https://colonialcollections.nl/schema#description> "Een rechthoekige mat gemaakt van diagonaal gevlochten Lontarbladrepen. De mat bestaat uit twee lagen. De onderste laag is onversierd. De bovenlaag is versierd met diagonale banen, die elkaar kruisen. De gebruikte kleuren is rood. De randen zijn ongekleurd." .
+<https://n2t.net/ark:/27023/59c27d50e15a084f8248487943037a21> <https://colonialcollections.nl/schema#material> "lontarblad" .
+<https://n2t.net/ark:/27023/59c27d50e15a084f8248487943037a21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

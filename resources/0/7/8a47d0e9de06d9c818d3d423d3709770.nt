@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/58b2a3f047bc6542d1c571de2f2b52db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/58b2a3f047bc6542d1c571de2f2b52db> <https://colonialcollections.nl/schema#identifier> "RV-3475-44" .
+<https://n2t.net/ark:/27023/58b2a3f047bc6542d1c571de2f2b52db> <https://colonialcollections.nl/schema#name> "Masker" .
+<https://n2t.net/ark:/27023/58b2a3f047bc6542d1c571de2f2b52db> <https://colonialcollections.nl/schema#material> "hars of was, hout," .
+<https://n2t.net/ark:/27023/58b2a3f047bc6542d1c571de2f2b52db> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

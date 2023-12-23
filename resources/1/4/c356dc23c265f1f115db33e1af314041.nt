@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/bacd12201a038e6e65907a91f5fb4948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bacd12201a038e6e65907a91f5fb4948> <https://colonialcollections.nl/schema#identifier> "TM-3215-49" .
+<https://n2t.net/ark:/27023/bacd12201a038e6e65907a91f5fb4948> <https://colonialcollections.nl/schema#name> "BEDRUKTE KATOENEN DOEK MET FRANJES, GEBRUIKT BIJ WINTI-DANSEN" .
+<https://n2t.net/ark:/27023/bacd12201a038e6e65907a91f5fb4948> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bacd12201a038e6e65907a91f5fb4948> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

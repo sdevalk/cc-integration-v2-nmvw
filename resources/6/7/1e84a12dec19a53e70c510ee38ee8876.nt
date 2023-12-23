@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <https://colonialcollections.nl/schema#identifier> "RV-2120-343" .
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <https://colonialcollections.nl/schema#name> "AMULETTAS" .
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <https://colonialcollections.nl/schema#description> "In dit tasje werden waarschijnlijk amuletten en andere magische of kostbare zaken bewaard." .
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <https://colonialcollections.nl/schema#material> "vezelkoord" .
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d73c980f345c0529e9ed705688446778> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

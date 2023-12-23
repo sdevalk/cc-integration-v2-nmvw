@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5ac254add3b7cdf4844da8b1c50ea83a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5ac254add3b7cdf4844da8b1c50ea83a> <https://colonialcollections.nl/schema#identifier> "RV-B132-82a" .
+<https://n2t.net/ark:/27023/5ac254add3b7cdf4844da8b1c50ea83a> <https://colonialcollections.nl/schema#name> "Borstplaat" .
+<https://n2t.net/ark:/27023/5ac254add3b7cdf4844da8b1c50ea83a> <https://colonialcollections.nl/schema#material> "brons" .
+<https://n2t.net/ark:/27023/5ac254add3b7cdf4844da8b1c50ea83a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/da245d1b98592429795f01382ceeba54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/da245d1b98592429795f01382ceeba54> <https://colonialcollections.nl/schema#identifier> "WM-60258" .
+<https://n2t.net/ark:/27023/da245d1b98592429795f01382ceeba54> <https://colonialcollections.nl/schema#description> "[VO] rond mand met vlakke bodem, gevlochten van smalle \r\n        bamboestrips (vier vertikaal op 1 horizontaal) - rand\r\n        omwonden met baststroken." .
+<https://n2t.net/ark:/27023/da245d1b98592429795f01382ceeba54> <https://colonialcollections.nl/schema#material> "bamboe, bast\r\ngevlochten" .
+<https://n2t.net/ark:/27023/da245d1b98592429795f01382ceeba54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

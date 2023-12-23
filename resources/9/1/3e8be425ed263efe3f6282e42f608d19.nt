@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/baf82521837971984d178a8be5867b48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/baf82521837971984d178a8be5867b48> <https://colonialcollections.nl/schema#identifier> "WM-19412" .
+<https://n2t.net/ark:/27023/baf82521837971984d178a8be5867b48> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/baf82521837971984d178a8be5867b48> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d874b596a92bdbfd0328380d1007860e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d874b596a92bdbfd0328380d1007860e> <https://colonialcollections.nl/schema#identifier> "TM-1848-202" .
+<https://n2t.net/ark:/27023/d874b596a92bdbfd0328380d1007860e> <https://colonialcollections.nl/schema#name> "WANDELSTOK VAN WERVELS AAN EEN STOK GEREGEN" .
+<https://n2t.net/ark:/27023/d874b596a92bdbfd0328380d1007860e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d874b596a92bdbfd0328380d1007860e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1948"^^<http://www.w3.org/2001/XMLSchema#integer> .

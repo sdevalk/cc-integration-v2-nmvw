@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b2c8665b3d2e32e25c2bac63fbf7203e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b2c8665b3d2e32e25c2bac63fbf7203e> <https://colonialcollections.nl/schema#identifier> "RV-2540-4" .
+<https://n2t.net/ark:/27023/b2c8665b3d2e32e25c2bac63fbf7203e> <https://colonialcollections.nl/schema#name> "Koranstandaard" .
+<https://n2t.net/ark:/27023/b2c8665b3d2e32e25c2bac63fbf7203e> <https://colonialcollections.nl/schema#description> "Lessenaar om een boek, spec. Koran op te leggen." .
+<https://n2t.net/ark:/27023/b2c8665b3d2e32e25c2bac63fbf7203e> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/b2c8665b3d2e32e25c2bac63fbf7203e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

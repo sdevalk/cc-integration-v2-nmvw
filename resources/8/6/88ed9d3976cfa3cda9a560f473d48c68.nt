@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/5a06d23c5a878ba1d72b0e7fb5c2d3d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a06d23c5a878ba1d72b0e7fb5c2d3d4> <https://colonialcollections.nl/schema#identifier> "TM-H-2858" .
+<https://n2t.net/ark:/27023/5a06d23c5a878ba1d72b0e7fb5c2d3d4> <https://colonialcollections.nl/schema#name> "GLAZEN SCHAAL MET VERHARDE STAAL AARDEWERK, ONTSTAAN UIT EEN MENGSEL VAN KLEI EN KWEPI-BAST" .
+<https://n2t.net/ark:/27023/5a06d23c5a878ba1d72b0e7fb5c2d3d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5a06d23c5a878ba1d72b0e7fb5c2d3d4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

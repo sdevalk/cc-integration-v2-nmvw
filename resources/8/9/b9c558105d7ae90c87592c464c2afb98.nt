@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b9e8e1778dce76269a5ab44c686d0f1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b9e8e1778dce76269a5ab44c686d0f1c> <https://colonialcollections.nl/schema#identifier> "TM-2334-5" .
+<https://n2t.net/ark:/27023/b9e8e1778dce76269a5ab44c686d0f1c> <https://colonialcollections.nl/schema#name> "RAFFIA WEEFSEL MET EEN ZIGZAG PATROON IN ORNAMENTBINDING" .
+<https://n2t.net/ark:/27023/b9e8e1778dce76269a5ab44c686d0f1c> <https://colonialcollections.nl/schema#material> "Raffia ; weven ; naaien ; knopen ; linnenbinding" .
+<https://n2t.net/ark:/27023/b9e8e1778dce76269a5ab44c686d0f1c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b9e8e1778dce76269a5ab44c686d0f1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

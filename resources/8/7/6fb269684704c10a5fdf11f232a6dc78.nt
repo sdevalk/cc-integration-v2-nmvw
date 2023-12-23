@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b42e64c9b85b2e42e2d2bfdf6dd7f006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b42e64c9b85b2e42e2d2bfdf6dd7f006> <https://colonialcollections.nl/schema#identifier> "RV-B227-1" .
+<https://n2t.net/ark:/27023/b42e64c9b85b2e42e2d2bfdf6dd7f006> <https://colonialcollections.nl/schema#description> "Ko-Satsuma aardewerk." .
+<https://n2t.net/ark:/27023/b42e64c9b85b2e42e2d2bfdf6dd7f006> <https://colonialcollections.nl/schema#material> "aardewerk of steengoed ; geglazuurd (bovenglazuur)" .
+<https://n2t.net/ark:/27023/b42e64c9b85b2e42e2d2bfdf6dd7f006> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b42e64c9b85b2e42e2d2bfdf6dd7f006> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

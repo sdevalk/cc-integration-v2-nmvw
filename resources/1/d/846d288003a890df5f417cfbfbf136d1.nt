@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/bb74cd4f80343ba0fcfdf8f71d36eb4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/bb74cd4f80343ba0fcfdf8f71d36eb4f> <https://colonialcollections.nl/schema#identifier> "TM-2760-48a" .
+<https://n2t.net/ark:/27023/bb74cd4f80343ba0fcfdf8f71d36eb4f> <https://colonialcollections.nl/schema#name> "PINCET MET PRIEM IN LEREN FOEDRAAL VOOR DE VERZORGING VAN KAMELEN" .
+<https://n2t.net/ark:/27023/bb74cd4f80343ba0fcfdf8f71d36eb4f> <https://colonialcollections.nl/schema#description> "Wordt gebruikt voor het verwijderen van doorns uit de voetzool van de kamelen." .
+<https://n2t.net/ark:/27023/bb74cd4f80343ba0fcfdf8f71d36eb4f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/bb74cd4f80343ba0fcfdf8f71d36eb4f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

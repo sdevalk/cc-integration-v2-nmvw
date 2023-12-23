@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/b347d724b057a892bf4703cf041e4a88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b347d724b057a892bf4703cf041e4a88> <https://colonialcollections.nl/schema#identifier> "WM-57473" .
+<https://n2t.net/ark:/27023/b347d724b057a892bf4703cf041e4a88> <https://colonialcollections.nl/schema#description> "[ST] ring (7) & kraal (6) & steen (1)\r\n[KL] blauw & rood & roze (steen)" .
+<https://n2t.net/ark:/27023/b347d724b057a892bf4703cf041e4a88> <https://colonialcollections.nl/schema#material> "zilver, glas (?)\r\nTotale lengte van de steen en kralen." .
+<https://n2t.net/ark:/27023/b347d724b057a892bf4703cf041e4a88> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

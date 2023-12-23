@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <https://colonialcollections.nl/schema#identifier> "IB2015-40-F-1982-12.7" .
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <https://colonialcollections.nl/schema#name> "MUMMIE: VALK" .
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <https://colonialcollections.nl/schema#description> "Op de röntgenfoto is te zien dat de mummie geen botmateriaal bevat, maar alleen vulmateriaal." .
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <https://colonialcollections.nl/schema#material> "linnen ; hars ; zand" .
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5a59b19cca4a4df40ccc234910cac9da> <https://colonialcollections.nl/schema#yearCreatedEnd> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <https://colonialcollections.nl/schema#identifier> "RV-2597-37" .
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <https://colonialcollections.nl/schema#name> "SANZA" .
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <https://colonialcollections.nl/schema#description> "De sanza is een muziekinstrument waarbij metalen lipjes zijn bevestigd op een houten plankje en een houten doos of kalebas dienst doet als klankkast. De “sansa” wordt bespeeld door met de duimen de metalen lipjes te beroeren. De lengte het lipje is bepalend voor de toonhoogte. Het geluid van de “sansa” is erg zacht en begeleidt gewoonlijk zang en soms dans. Kinderen bespelen eenvoudige versies van het instrument tijdens spelletjes." .
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <https://colonialcollections.nl/schema#material> "hout ; ijzer ; blik ; vezel" .
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/59f3fef3bac05689e38f8a1a8899dbfc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

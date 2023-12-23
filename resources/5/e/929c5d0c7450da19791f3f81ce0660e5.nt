@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b3b3c2366cea850bf4249d82ff84f83c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b3b3c2366cea850bf4249d82ff84f83c> <https://colonialcollections.nl/schema#identifier> "TM-3782-14" .
+<https://n2t.net/ark:/27023/b3b3c2366cea850bf4249d82ff84f83c> <https://colonialcollections.nl/schema#name> "IJZEREN DREVEL, WERKTUIGEN VAN DE GEWONE SMID" .
+<https://n2t.net/ark:/27023/b3b3c2366cea850bf4249d82ff84f83c> <https://colonialcollections.nl/schema#description> "Door de gewone smid gebruikt om tandingen in sikkels te slaan. De sikkel wordt daarbij op een bot gelegd, waarna met behulp van een hamer en een drevel tandingen in de sikkel worden geslagen." .
+<https://n2t.net/ark:/27023/b3b3c2366cea850bf4249d82ff84f83c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b3b3c2366cea850bf4249d82ff84f83c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

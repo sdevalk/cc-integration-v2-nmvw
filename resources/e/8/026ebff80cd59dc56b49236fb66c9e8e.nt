@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <https://colonialcollections.nl/schema#identifier> "TM-3134-25" .
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <https://colonialcollections.nl/schema#name> "HOUTEN KAM" .
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <https://colonialcollections.nl/schema#description> "Het object is een weefinstrument, een houten kan voor het aanslaan van de inslag van weefsels." .
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <https://colonialcollections.nl/schema#yearCreatedStart> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5aa3fbb603215e52aba87e3b176dc3d1> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .

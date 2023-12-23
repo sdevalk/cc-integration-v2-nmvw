@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/b94ad5116867770b5e2feb01145526cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b94ad5116867770b5e2feb01145526cc> <https://colonialcollections.nl/schema#identifier> "RV-5676-0-70" .
+<https://n2t.net/ark:/27023/b94ad5116867770b5e2feb01145526cc> <https://colonialcollections.nl/schema#name> "[NI]" .
+<https://n2t.net/ark:/27023/b94ad5116867770b5e2feb01145526cc> <https://colonialcollections.nl/schema#material> "Title" .
+<https://n2t.net/ark:/27023/b94ad5116867770b5e2feb01145526cc> <https://colonialcollections.nl/schema#material> "[NI]" .
+<https://n2t.net/ark:/27023/b94ad5116867770b5e2feb01145526cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

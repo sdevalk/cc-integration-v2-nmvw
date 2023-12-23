@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5937ce9d339e39cc5bd4dc0e7b3b602c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5937ce9d339e39cc5bd4dc0e7b3b602c> <https://colonialcollections.nl/schema#identifier> "AM-660-19" .
+<https://n2t.net/ark:/27023/5937ce9d339e39cc5bd4dc0e7b3b602c> <https://colonialcollections.nl/schema#name> "Ring" .
+<https://n2t.net/ark:/27023/5937ce9d339e39cc5bd4dc0e7b3b602c> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nRing vervaardigd uit koperlegering met een zoömorfe figuur in de vorm van een sprinkhaan." .
+<https://n2t.net/ark:/27023/5937ce9d339e39cc5bd4dc0e7b3b602c> <https://colonialcollections.nl/schema#material> "Koperlegering" .
+<https://n2t.net/ark:/27023/5937ce9d339e39cc5bd4dc0e7b3b602c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <https://colonialcollections.nl/schema#identifier> "RV-6205-15" .
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <https://colonialcollections.nl/schema#name> "HADJ-INSTRUCTIEBOEKJE" .
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <https://colonialcollections.nl/schema#description> "Franstalig instructieboekje voor de hadj, met als titel 'Messages aux pelerins & aux visiteurs'." .
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <https://colonialcollections.nl/schema#yearCreatedStart> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b94a83bd45983b7f797fd7877a65ee80> <https://colonialcollections.nl/schema#yearCreatedEnd> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .

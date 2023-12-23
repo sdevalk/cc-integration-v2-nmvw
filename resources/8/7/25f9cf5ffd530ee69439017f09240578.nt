@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/5a977ee1a25d2a5fdae6287981a65366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/5a977ee1a25d2a5fdae6287981a65366> <https://colonialcollections.nl/schema#identifier> "RV-1442-9" .
+<https://n2t.net/ark:/27023/5a977ee1a25d2a5fdae6287981a65366> <https://colonialcollections.nl/schema#name> "Sigaar" .
+<https://n2t.net/ark:/27023/5a977ee1a25d2a5fdae6287981a65366> <https://colonialcollections.nl/schema#description> "Sigaar voor vrouwen ; 3 stuks, 2 doublet." .
+<https://n2t.net/ark:/27023/5a977ee1a25d2a5fdae6287981a65366> <https://colonialcollections.nl/schema#material> "tabak" .
+<https://n2t.net/ark:/27023/5a977ee1a25d2a5fdae6287981a65366> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
