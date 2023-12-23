@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7291e028971bdc2c8bf6ad98949bb7ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7291e028971bdc2c8bf6ad98949bb7ae> <https://colonialcollections.nl/schema#identifier> "AM-107-31" .
+<https://n2t.net/ark:/27023/7291e028971bdc2c8bf6ad98949bb7ae> <https://colonialcollections.nl/schema#name> "Mes" .
+<https://n2t.net/ark:/27023/7291e028971bdc2c8bf6ad98949bb7ae> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nMes waarbij het heft ontbreekt. Het lemmet is vervaardigd uit ijzer en loopt krom." .
+<https://n2t.net/ark:/27023/7291e028971bdc2c8bf6ad98949bb7ae> <https://colonialcollections.nl/schema#material> "IJzer" .
+<https://n2t.net/ark:/27023/7291e028971bdc2c8bf6ad98949bb7ae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

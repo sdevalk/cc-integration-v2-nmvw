@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d3d1b85bfe8f5b31d831325420b4bfc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3d1b85bfe8f5b31d831325420b4bfc9> <https://colonialcollections.nl/schema#identifier> "TM-978-1" .
+<https://n2t.net/ark:/27023/d3d1b85bfe8f5b31d831325420b4bfc9> <https://colonialcollections.nl/schema#name> "BOEDDHISTISCH SCHRIFT IN LAO-THAM, OP LONTARBLAD" .
+<https://n2t.net/ark:/27023/d3d1b85bfe8f5b31d831325420b4bfc9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d3d1b85bfe8f5b31d831325420b4bfc9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

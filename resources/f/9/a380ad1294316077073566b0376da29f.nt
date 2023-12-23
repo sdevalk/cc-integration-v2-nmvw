@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/85ce19de296b019923bed33a6a99f304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/85ce19de296b019923bed33a6a99f304> <https://colonialcollections.nl/schema#identifier> "RV-2798-46" .
+<https://n2t.net/ark:/27023/85ce19de296b019923bed33a6a99f304> <https://colonialcollections.nl/schema#name> "Waaier" .
+<https://n2t.net/ark:/27023/85ce19de296b019923bed33a6a99f304> <https://colonialcollections.nl/schema#material> "pawenveren" .
+<https://n2t.net/ark:/27023/85ce19de296b019923bed33a6a99f304> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

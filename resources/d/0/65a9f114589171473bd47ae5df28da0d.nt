@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/79243b32b8d33da4e8d0f0b1c8b11785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/79243b32b8d33da4e8d0f0b1c8b11785> <https://colonialcollections.nl/schema#identifier> "WM-57694" .
+<https://n2t.net/ark:/27023/79243b32b8d33da4e8d0f0b1c8b11785> <https://colonialcollections.nl/schema#description> "[VO]  Kentjabarupa." .
+<https://n2t.net/ark:/27023/79243b32b8d33da4e8d0f0b1c8b11785> <https://colonialcollections.nl/schema#material> "leer\r\nstijl Solo" .
+<https://n2t.net/ark:/27023/79243b32b8d33da4e8d0f0b1c8b11785> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

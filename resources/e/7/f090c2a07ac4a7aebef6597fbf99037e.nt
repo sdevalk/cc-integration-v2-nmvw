@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7859d75db3a2c01854b83419e69d7717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7859d75db3a2c01854b83419e69d7717> <https://colonialcollections.nl/schema#identifier> "TM-5238-1" .
+<https://n2t.net/ark:/27023/7859d75db3a2c01854b83419e69d7717> <https://colonialcollections.nl/schema#name> "HOUTEN ANTILOPENMASKER" .
+<https://n2t.net/ark:/27023/7859d75db3a2c01854b83419e69d7717> <https://colonialcollections.nl/schema#material> "Hout ; verf ; houtbewerken ; boren ; beschilderen ; uithollen" .
+<https://n2t.net/ark:/27023/7859d75db3a2c01854b83419e69d7717> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7859d75db3a2c01854b83419e69d7717> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .

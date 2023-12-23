@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/770f0bd333aa6f481b86eb64747028ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/770f0bd333aa6f481b86eb64747028ac> <https://colonialcollections.nl/schema#identifier> "TM-5127-14" .
+<https://n2t.net/ark:/27023/770f0bd333aa6f481b86eb64747028ac> <https://colonialcollections.nl/schema#name> "MESSINGEN LEPEL MET EEN STEEL IN DE VORM VAN EEN MAN MET BAARD" .
+<https://n2t.net/ark:/27023/770f0bd333aa6f481b86eb64747028ac> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/770f0bd333aa6f481b86eb64747028ac> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

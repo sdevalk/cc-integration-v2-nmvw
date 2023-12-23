@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/70f3feb7663378c134f4cc75473b4daa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/70f3feb7663378c134f4cc75473b4daa> <https://colonialcollections.nl/schema#identifier> "RV-5216-10a" .
+<https://n2t.net/ark:/27023/70f3feb7663378c134f4cc75473b4daa> <https://colonialcollections.nl/schema#name> "Kruik" .
+<https://n2t.net/ark:/27023/70f3feb7663378c134f4cc75473b4daa> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/70f3feb7663378c134f4cc75473b4daa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

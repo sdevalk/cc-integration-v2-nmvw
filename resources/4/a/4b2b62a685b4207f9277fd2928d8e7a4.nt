@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <https://colonialcollections.nl/schema#identifier> "WM-318539" .
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <https://colonialcollections.nl/schema#description> "20 bath, portret Koning Bhumipol" .
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/706b99342595e85fdb1f2ff565a0a90a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .

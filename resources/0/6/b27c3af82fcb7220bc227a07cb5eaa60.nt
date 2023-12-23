@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7969b6eb8109a91a14a7d7b3f3f7a791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7969b6eb8109a91a14a7d7b3f3f7a791> <https://colonialcollections.nl/schema#identifier> "TM-4313-14" .
+<https://n2t.net/ark:/27023/7969b6eb8109a91a14a7d7b3f3f7a791> <https://colonialcollections.nl/schema#name> "IJZEREN KAARSENSCHAAR" .
+<https://n2t.net/ark:/27023/7969b6eb8109a91a14a7d7b3f3f7a791> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7969b6eb8109a91a14a7d7b3f3f7a791> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

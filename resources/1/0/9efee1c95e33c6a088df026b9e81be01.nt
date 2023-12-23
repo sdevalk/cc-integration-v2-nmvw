@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/72dc35246643887f6ded73697578240d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/72dc35246643887f6ded73697578240d> <https://colonialcollections.nl/schema#identifier> "WM-27448" .
+<https://n2t.net/ark:/27023/72dc35246643887f6ded73697578240d> <https://colonialcollections.nl/schema#description> "[KL] rood\r\n[ST] sluitplaatjes" .
+<https://n2t.net/ark:/27023/72dc35246643887f6ded73697578240d> <https://colonialcollections.nl/schema#material> "ijzer, rotan, messing\r\ngesmeed & geklonken" .
+<https://n2t.net/ark:/27023/72dc35246643887f6ded73697578240d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

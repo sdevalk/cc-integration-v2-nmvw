@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/782a65e67f752623ab958b20427f2262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/782a65e67f752623ab958b20427f2262> <https://colonialcollections.nl/schema#identifier> "TM-5866-11" .
+<https://n2t.net/ark:/27023/782a65e67f752623ab958b20427f2262> <https://colonialcollections.nl/schema#name> "SCHILDERING VAN GEWAPENDE STRIJD, OP KATOENEN MEELZAK" .
+<https://n2t.net/ark:/27023/782a65e67f752623ab958b20427f2262> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/782a65e67f752623ab958b20427f2262> <https://colonialcollections.nl/schema#creator> "Ilunga Beya" .
+<https://n2t.net/ark:/27023/782a65e67f752623ab958b20427f2262> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .

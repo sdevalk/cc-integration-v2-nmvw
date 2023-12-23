@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/72bc95aebe59dd4a60ae759b0af53bfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/72bc95aebe59dd4a60ae759b0af53bfc> <https://colonialcollections.nl/schema#identifier> "TM-4214-41" .
+<https://n2t.net/ark:/27023/72bc95aebe59dd4a60ae759b0af53bfc> <https://colonialcollections.nl/schema#name> "DEKSEL VAN WATERBEKKEN" .
+<https://n2t.net/ark:/27023/72bc95aebe59dd4a60ae759b0af53bfc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/72bc95aebe59dd4a60ae759b0af53bfc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

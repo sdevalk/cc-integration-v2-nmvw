@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/781e19ecbd4fd630c5786299fb96879c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/781e19ecbd4fd630c5786299fb96879c> <https://colonialcollections.nl/schema#identifier> "TM-1468-56b" .
+<https://n2t.net/ark:/27023/781e19ecbd4fd630c5786299fb96879c> <https://colonialcollections.nl/schema#name> "LANS MET VERSIERING VAN CASUARISNAGEL EN DEELS VIERKANTE SCHACHT" .
+<https://n2t.net/ark:/27023/781e19ecbd4fd630c5786299fb96879c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/781e19ecbd4fd630c5786299fb96879c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

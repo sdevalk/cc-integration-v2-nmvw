@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/79fa51c12c7e6c932e12e8f38c5b7f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/79fa51c12c7e6c932e12e8f38c5b7f6d> <https://colonialcollections.nl/schema#identifier> "TM-3715-43" .
+<https://n2t.net/ark:/27023/79fa51c12c7e6c932e12e8f38c5b7f6d> <https://colonialcollections.nl/schema#name> "HOUTEN STAF MET VROUWENFIGUUR" .
+<https://n2t.net/ark:/27023/79fa51c12c7e6c932e12e8f38c5b7f6d> <https://colonialcollections.nl/schema#description> "Herk: Nieuw Guinea Geelvinkbaaigebied" .
+<https://n2t.net/ark:/27023/79fa51c12c7e6c932e12e8f38c5b7f6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/79fa51c12c7e6c932e12e8f38c5b7f6d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

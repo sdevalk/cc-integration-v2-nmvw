@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/725bb9d951882f7a4c9e9b85c406cb29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/725bb9d951882f7a4c9e9b85c406cb29> <https://colonialcollections.nl/schema#identifier> "RV-1307-10" .
+<https://n2t.net/ark:/27023/725bb9d951882f7a4c9e9b85c406cb29> <https://colonialcollections.nl/schema#name> "Pijp" .
+<https://n2t.net/ark:/27023/725bb9d951882f7a4c9e9b85c406cb29> <https://colonialcollections.nl/schema#material> "hout ; metaal" .
+<https://n2t.net/ark:/27023/725bb9d951882f7a4c9e9b85c406cb29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

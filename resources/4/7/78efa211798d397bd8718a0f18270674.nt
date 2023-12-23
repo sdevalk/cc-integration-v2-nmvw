@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7238eda5ada08f6649a62a1e6670c22d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7238eda5ada08f6649a62a1e6670c22d> <https://colonialcollections.nl/schema#identifier> "RV-2668-1168" .
+<https://n2t.net/ark:/27023/7238eda5ada08f6649a62a1e6670c22d> <https://colonialcollections.nl/schema#name> "Oorsieraad" .
+<https://n2t.net/ark:/27023/7238eda5ada08f6649a62a1e6670c22d> <https://colonialcollections.nl/schema#material> "koper ;  ijzer ; vezel" .
+<https://n2t.net/ark:/27023/7238eda5ada08f6649a62a1e6670c22d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

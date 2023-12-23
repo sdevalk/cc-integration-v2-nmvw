@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/716d178cf2b67afc6373d5477ec1dc21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/716d178cf2b67afc6373d5477ec1dc21> <https://colonialcollections.nl/schema#identifier> "AM-12-5" .
+<https://n2t.net/ark:/27023/716d178cf2b67afc6373d5477ec1dc21> <https://colonialcollections.nl/schema#name> "Sierzwaard" .
+<https://n2t.net/ark:/27023/716d178cf2b67afc6373d5477ec1dc21> <https://colonialcollections.nl/schema#description> "Gebruikt als sierzwaard.\r\n\r\nBeschrijving\r\nZwaard met houten greep en krullend smeedijzeren blad." .
+<https://n2t.net/ark:/27023/716d178cf2b67afc6373d5477ec1dc21> <https://colonialcollections.nl/schema#material> "IJzer" .
+<https://n2t.net/ark:/27023/716d178cf2b67afc6373d5477ec1dc21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7072118fcbb9e09eb14d9e9c7ccc2a74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7072118fcbb9e09eb14d9e9c7ccc2a74> <https://colonialcollections.nl/schema#identifier> "WM-300928" .
+<https://n2t.net/ark:/27023/7072118fcbb9e09eb14d9e9c7ccc2a74> <https://colonialcollections.nl/schema#name> "Munt" .
+<https://n2t.net/ark:/27023/7072118fcbb9e09eb14d9e9c7ccc2a74> <https://colonialcollections.nl/schema#description> "Birma" .
+<https://n2t.net/ark:/27023/7072118fcbb9e09eb14d9e9c7ccc2a74> <https://colonialcollections.nl/schema#material> "zilver" .
+<https://n2t.net/ark:/27023/7072118fcbb9e09eb14d9e9c7ccc2a74> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d2f807ffb09f2df86b140ef5d648533e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d2f807ffb09f2df86b140ef5d648533e> <https://colonialcollections.nl/schema#identifier> "TM-4108-427" .
+<https://n2t.net/ark:/27023/d2f807ffb09f2df86b140ef5d648533e> <https://colonialcollections.nl/schema#name> "AARDEWERKEN KOOKPOT MET OREN" .
+<https://n2t.net/ark:/27023/d2f807ffb09f2df86b140ef5d648533e> <https://colonialcollections.nl/schema#description> "Zonder nummer aangetroffen bij verplaatsing depot Brussel naar depot 3" .
+<https://n2t.net/ark:/27023/d2f807ffb09f2df86b140ef5d648533e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d2f807ffb09f2df86b140ef5d648533e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

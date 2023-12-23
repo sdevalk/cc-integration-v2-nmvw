@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#identifier> "TM-3912-974" .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#name> "GEDROOGDE VOGELKOP WAARSCHIJNLIJK EEN JACHTFETISJ" .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#description> "De kop is afkomstig van een zwarte vogel, waarschijnlijk een kraai-achtige. Het object is waarschijnlijk bedoeld als jachtfetisj en vormt het het begin van een zogenaamde Kakarè. Dit is een fetisj die is samengesteld uit een aantal jachttrofeeën, zoals een vogelkop, een reep huid, slangenkoppen e.d." .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#material> "schedel (vogel) ; huid (vogel) ; touw" .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/77558797a40e945ac6b31fef572b1a86> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#identifier> "WM-940120" .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#description> "album met beige en blauwe omslag,  bruine bladen" .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#material> "[MT] papier & inkt" .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/794cdc6637a0ed1edd86be7c020618a9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

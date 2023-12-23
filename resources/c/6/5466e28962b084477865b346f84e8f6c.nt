@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/773d10511f18707b0041ecde44eb9bdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/773d10511f18707b0041ecde44eb9bdc> <https://colonialcollections.nl/schema#identifier> "RV-4949-61" .
+<https://n2t.net/ark:/27023/773d10511f18707b0041ecde44eb9bdc> <https://colonialcollections.nl/schema#name> "PIJL" .
+<https://n2t.net/ark:/27023/773d10511f18707b0041ecde44eb9bdc> <https://colonialcollections.nl/schema#material> "bamboe, riet ; hout ; schilreep" .
+<https://n2t.net/ark:/27023/773d10511f18707b0041ecde44eb9bdc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

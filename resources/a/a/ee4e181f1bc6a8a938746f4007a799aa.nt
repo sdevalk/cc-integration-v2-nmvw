@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6fe7ca288c11910f88f4630a94096685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6fe7ca288c11910f88f4630a94096685> <https://colonialcollections.nl/schema#identifier> "TM-6182-58" .
+<https://n2t.net/ark:/27023/6fe7ca288c11910f88f4630a94096685> <https://colonialcollections.nl/schema#name> "VEELKLEURIG GEVLOCHTEN DRAAGMANDJE" .
+<https://n2t.net/ark:/27023/6fe7ca288c11910f88f4630a94096685> <https://colonialcollections.nl/schema#description> "Veelkleurig gevlochten draagmandje met deksel, draagriem en knoopsluiting." .
+<https://n2t.net/ark:/27023/6fe7ca288c11910f88f4630a94096685> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6fe7ca288c11910f88f4630a94096685> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .

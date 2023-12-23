@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7a48bfa404ad0912afd73a124c1e8fef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7a48bfa404ad0912afd73a124c1e8fef> <https://colonialcollections.nl/schema#identifier> "TM-3401-600b" .
+<https://n2t.net/ark:/27023/7a48bfa404ad0912afd73a124c1e8fef> <https://colonialcollections.nl/schema#name> "PORSELEINEN KOPJE, ONDERDEEL VAN ZES PORSELEINEN KOPJES IN KOPEREN BAKJES" .
+<https://n2t.net/ark:/27023/7a48bfa404ad0912afd73a124c1e8fef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7a48bfa404ad0912afd73a124c1e8fef> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/829a006960e7e4c60da00264d13e0895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/829a006960e7e4c60da00264d13e0895> <https://colonialcollections.nl/schema#identifier> "TM-3325-227" .
+<https://n2t.net/ark:/27023/829a006960e7e4c60da00264d13e0895> <https://colonialcollections.nl/schema#name> "WIT KATOENEN SERVET" .
+<https://n2t.net/ark:/27023/829a006960e7e4c60da00264d13e0895> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/829a006960e7e4c60da00264d13e0895> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

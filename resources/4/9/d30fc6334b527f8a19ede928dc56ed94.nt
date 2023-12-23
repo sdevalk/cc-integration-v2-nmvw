@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/731fc82bb7b596f07dac737be106a34d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/731fc82bb7b596f07dac737be106a34d> <https://colonialcollections.nl/schema#identifier> "TM-A-9526" .
+<https://n2t.net/ark:/27023/731fc82bb7b596f07dac737be106a34d> <https://colonialcollections.nl/schema#name> "PAAR SCHOENEN" .
+<https://n2t.net/ark:/27023/731fc82bb7b596f07dac737be106a34d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/731fc82bb7b596f07dac737be106a34d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

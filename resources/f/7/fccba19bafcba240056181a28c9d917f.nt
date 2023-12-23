@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/712e30c7edc80dcf7cb90514c5f01b41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/712e30c7edc80dcf7cb90514c5f01b41> <https://colonialcollections.nl/schema#identifier> "TM-A-2382" .
+<https://n2t.net/ark:/27023/712e30c7edc80dcf7cb90514c5f01b41> <https://colonialcollections.nl/schema#name> "DIT IS NUMMER A-6362 GEWORDEN" .
+<https://n2t.net/ark:/27023/712e30c7edc80dcf7cb90514c5f01b41> <https://colonialcollections.nl/schema#description> "Herk: Zuid Amerika Suriname" .
+<https://n2t.net/ark:/27023/712e30c7edc80dcf7cb90514c5f01b41> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/712e30c7edc80dcf7cb90514c5f01b41> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7031cef47a62be3f5b02b4804e7200da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7031cef47a62be3f5b02b4804e7200da> <https://colonialcollections.nl/schema#identifier> "TM-2760-103" .
+<https://n2t.net/ark:/27023/7031cef47a62be3f5b02b4804e7200da> <https://colonialcollections.nl/schema#name> "ZWEEP VAN GEITENLEER MET LEDEREN SIERKWAST" .
+<https://n2t.net/ark:/27023/7031cef47a62be3f5b02b4804e7200da> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7031cef47a62be3f5b02b4804e7200da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

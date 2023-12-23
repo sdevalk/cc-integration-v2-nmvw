@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/719d3d53e6d2e10ce207f8124ea95c57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/719d3d53e6d2e10ce207f8124ea95c57> <https://colonialcollections.nl/schema#identifier> "TM-A-2708d" .
+<https://n2t.net/ark:/27023/719d3d53e6d2e10ce207f8124ea95c57> <https://colonialcollections.nl/schema#name> "BETELDOOSJE VAN GEVLOCHTEN LONTARBLAD, VOOR HET BEWAREN VAN BETELPRUIM BENODIGDHEDEN" .
+<https://n2t.net/ark:/27023/719d3d53e6d2e10ce207f8124ea95c57> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/719d3d53e6d2e10ce207f8124ea95c57> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

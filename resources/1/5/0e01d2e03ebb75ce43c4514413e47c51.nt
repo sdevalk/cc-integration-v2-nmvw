@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/786c926e03cd93c6baa995ca011de5a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/786c926e03cd93c6baa995ca011de5a8> <https://colonialcollections.nl/schema#identifier> "IB2019-14-1" .
+<https://n2t.net/ark:/27023/786c926e03cd93c6baa995ca011de5a8> <https://colonialcollections.nl/schema#name> "BOEK: KORAN IN LEREN FOEDRAAL" .
+<https://n2t.net/ark:/27023/786c926e03cd93c6baa995ca011de5a8> <https://colonialcollections.nl/schema#description> "Koran in leren tasje, geproduceerd in Damascus, maar gekocht in Mekka." .
+<https://n2t.net/ark:/27023/786c926e03cd93c6baa995ca011de5a8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

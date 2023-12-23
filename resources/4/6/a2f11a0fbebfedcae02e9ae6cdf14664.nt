@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/712e3813e6c5088d7ace51f8e77c635b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/712e3813e6c5088d7ace51f8e77c635b> <https://colonialcollections.nl/schema#identifier> "WM-7813" .
+<https://n2t.net/ark:/27023/712e3813e6c5088d7ace51f8e77c635b> <https://colonialcollections.nl/schema#description> "[PA] palm \r\n[KL] wit (doek) & zilverkleurig (palm)" .
+<https://n2t.net/ark:/27023/712e3813e6c5088d7ace51f8e77c635b> <https://colonialcollections.nl/schema#material> "katoen (doek),  zilverdraad (palm)" .
+<https://n2t.net/ark:/27023/712e3813e6c5088d7ace51f8e77c635b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

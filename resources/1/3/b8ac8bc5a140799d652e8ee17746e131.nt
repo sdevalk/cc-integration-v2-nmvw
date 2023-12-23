@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7294f6b325f124b0004b618932568608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7294f6b325f124b0004b618932568608> <https://colonialcollections.nl/schema#identifier> "TM-4964-37" .
+<https://n2t.net/ark:/27023/7294f6b325f124b0004b618932568608> <https://colonialcollections.nl/schema#name> "STANDAARD" .
+<https://n2t.net/ark:/27023/7294f6b325f124b0004b618932568608> <https://colonialcollections.nl/schema#description> "Een ronde standaard gemaakt van zigzagvormig gevlochten rotanrepen. De standaard is bestemd voor een pot aardewerken pot." .
+<https://n2t.net/ark:/27023/7294f6b325f124b0004b618932568608> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7294f6b325f124b0004b618932568608> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

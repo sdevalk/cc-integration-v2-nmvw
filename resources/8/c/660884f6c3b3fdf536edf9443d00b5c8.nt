@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/8376b0507c3abc05239ac91614479003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/8376b0507c3abc05239ac91614479003> <https://colonialcollections.nl/schema#identifier> "TM-4714-11j" .
+<https://n2t.net/ark:/27023/8376b0507c3abc05239ac91614479003> <https://colonialcollections.nl/schema#name> "KOPEREN MENSFIGUUR, BEHORENDE BIJ EEN TAFEREEL OVER DE DOOD VAN BOEDDHA" .
+<https://n2t.net/ark:/27023/8376b0507c3abc05239ac91614479003> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/8376b0507c3abc05239ac91614479003> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7a574c8ed5ccfd7db4252c8ad60ab866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7a574c8ed5ccfd7db4252c8ad60ab866> <https://colonialcollections.nl/schema#identifier> "WM-61070" .
+<https://n2t.net/ark:/27023/7a574c8ed5ccfd7db4252c8ad60ab866> <https://colonialcollections.nl/schema#description> "[KL] wit\r\n[VO] mannenhemd = pirahan. Sluiting opzij rechts." .
+<https://n2t.net/ark:/27023/7a574c8ed5ccfd7db4252c8ad60ab866> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/7a574c8ed5ccfd7db4252c8ad60ab866> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

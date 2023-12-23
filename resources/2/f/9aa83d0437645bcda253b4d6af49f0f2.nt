@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <https://colonialcollections.nl/schema#identifier> "RV-503-15" .
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <https://colonialcollections.nl/schema#name> "KETTLEDRUM" .
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <https://colonialcollections.nl/schema#description> "twee trommen" .
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <https://colonialcollections.nl/schema#material> "keramiek, aardewerk ; varkensblaas ; pees x?" .
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7750a3ea6ab661c17a0ad1734e9d52b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

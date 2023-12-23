@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/83b939e4fa68726e93075f37addc344d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/83b939e4fa68726e93075f37addc344d> <https://colonialcollections.nl/schema#identifier> "TM-3925-282d" .
+<https://n2t.net/ark:/27023/83b939e4fa68726e93075f37addc344d> <https://colonialcollections.nl/schema#name> "STRIK VOOR HET VANGEN VAN PARELHOEDERS, BEHOREND BIJ ZES GELIJKSOORTIGE STRIKKEN" .
+<https://n2t.net/ark:/27023/83b939e4fa68726e93075f37addc344d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/83b939e4fa68726e93075f37addc344d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

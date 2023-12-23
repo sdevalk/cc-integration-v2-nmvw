@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/7777f5cb39ffbce8d4b4482d55025dfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7777f5cb39ffbce8d4b4482d55025dfd> <https://colonialcollections.nl/schema#identifier> "WM-10232" .
+<https://n2t.net/ark:/27023/7777f5cb39ffbce8d4b4482d55025dfd> <https://colonialcollections.nl/schema#description> "[KL] wit & rood & blauw" .
+<https://n2t.net/ark:/27023/7777f5cb39ffbce8d4b4482d55025dfd> <https://colonialcollections.nl/schema#material> "schelp, glas, plantenvezel (garen)" .
+<https://n2t.net/ark:/27023/7777f5cb39ffbce8d4b4482d55025dfd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

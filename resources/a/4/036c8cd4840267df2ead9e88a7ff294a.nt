@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/78f9e1ffcce769e789f302c5cf01a93b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/78f9e1ffcce769e789f302c5cf01a93b> <https://colonialcollections.nl/schema#identifier> "TM-3912-282" .
+<https://n2t.net/ark:/27023/78f9e1ffcce769e789f302c5cf01a93b> <https://colonialcollections.nl/schema#name> "IJZEREN SPEERPUNT" .
+<https://n2t.net/ark:/27023/78f9e1ffcce769e789f302c5cf01a93b> <https://colonialcollections.nl/schema#description> "De speer waar de speerpunt afkomstig van is kan als jacht- of oorlogswapen hebben gediend. Daarnaast kent men echter ook de speer als verdedigingswapen, bijvoorbeeld op reis. Welk type welke vorm heeft is onbekend.\r\n\r\nVervaardiging\r\nDe speerpunten worden maar voor een deel door de Samo zelf vervaardigd. De speerpunt is gesmeed. De mooi bewerkte punten worden wel door hen gebruikt, maar zijn afkomstig van de Mossi of Touareg." .
+<https://n2t.net/ark:/27023/78f9e1ffcce769e789f302c5cf01a93b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/78f9e1ffcce769e789f302c5cf01a93b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

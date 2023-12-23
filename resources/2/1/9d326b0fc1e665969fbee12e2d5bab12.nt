@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/71bbe2d6d95c8fe2a45115c84eda230d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/71bbe2d6d95c8fe2a45115c84eda230d> <https://colonialcollections.nl/schema#identifier> "TM-889-66" .
+<https://n2t.net/ark:/27023/71bbe2d6d95c8fe2a45115c84eda230d> <https://colonialcollections.nl/schema#name> "HOUTEN LANS MET IJZEREN PUNT" .
+<https://n2t.net/ark:/27023/71bbe2d6d95c8fe2a45115c84eda230d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/71bbe2d6d95c8fe2a45115c84eda230d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/71694e68b0afcbeb188481a1b1176c75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/71694e68b0afcbeb188481a1b1176c75> <https://colonialcollections.nl/schema#identifier> "TM-A-6147" .
+<https://n2t.net/ark:/27023/71694e68b0afcbeb188481a1b1176c75> <https://colonialcollections.nl/schema#name> "HALSKETTING VAN KLEINE STUKKEN BEEN" .
+<https://n2t.net/ark:/27023/71694e68b0afcbeb188481a1b1176c75> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/71694e68b0afcbeb188481a1b1176c75> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

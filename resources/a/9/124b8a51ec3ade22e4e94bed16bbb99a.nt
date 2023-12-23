@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/71761b1fac78ca4f1a89ca39d9af65b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/71761b1fac78ca4f1a89ca39d9af65b7> <https://colonialcollections.nl/schema#identifier> "TM-A-602b" .
+<https://n2t.net/ark:/27023/71761b1fac78ca4f1a89ca39d9af65b7> <https://colonialcollections.nl/schema#name> "NIBOENGHOUTEN SPATEL" .
+<https://n2t.net/ark:/27023/71761b1fac78ca4f1a89ca39d9af65b7> <https://colonialcollections.nl/schema#description> "Dit object is verzameld tijdens de Wichmann Expeditie Noord-Nieuw-Guinea van 1903.\r\n\r\nVervaardiging\r\nDit soort spatels wordt gebruikt als eetlepel en om kokosnoten te openen." .
+<https://n2t.net/ark:/27023/71761b1fac78ca4f1a89ca39d9af65b7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/71761b1fac78ca4f1a89ca39d9af65b7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .

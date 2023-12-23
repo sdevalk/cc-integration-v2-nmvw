@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/72d4d125baea57c4feb18d9aa43551ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/72d4d125baea57c4feb18d9aa43551ff> <https://colonialcollections.nl/schema#identifier> "TM-5455-62l" .
+<https://n2t.net/ark:/27023/72d4d125baea57c4feb18d9aa43551ff> <https://colonialcollections.nl/schema#name> "STEUN VAN EEN BED" .
+<https://n2t.net/ark:/27023/72d4d125baea57c4feb18d9aa43551ff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/72d4d125baea57c4feb18d9aa43551ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .

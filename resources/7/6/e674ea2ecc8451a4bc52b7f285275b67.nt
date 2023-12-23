@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/70c28daa408b947537b73b882f08b9bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/70c28daa408b947537b73b882f08b9bb> <https://colonialcollections.nl/schema#identifier> "WM-62052" .
+<https://n2t.net/ark:/27023/70c28daa408b947537b73b882f08b9bb> <https://colonialcollections.nl/schema#description> "[KL] bruin  & groen & blauw & zwart ( stempeldruk) & wit (cartouche) &\r\nzwart (middenveld met invocatie)\r\n[VO] driehoekig vaandel" .
+<https://n2t.net/ark:/27023/70c28daa408b947537b73b882f08b9bb> <https://colonialcollections.nl/schema#material> "katoen\r\nstempeldruk" .
+<https://n2t.net/ark:/27023/70c28daa408b947537b73b882f08b9bb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

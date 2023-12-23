@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d3451cd62d640a35f7bf6e7ed72c8e6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3451cd62d640a35f7bf6e7ed72c8e6f> <https://colonialcollections.nl/schema#identifier> "TM-5810-1b" .
+<https://n2t.net/ark:/27023/d3451cd62d640a35f7bf6e7ed72c8e6f> <https://colonialcollections.nl/schema#name> "HOUTEN HANDKLOPPER VOOR HET KLOPPEN VAN MATRASSEN" .
+<https://n2t.net/ark:/27023/d3451cd62d640a35f7bf6e7ed72c8e6f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d3451cd62d640a35f7bf6e7ed72c8e6f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .

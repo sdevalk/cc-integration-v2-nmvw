@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <https://colonialcollections.nl/schema#identifier> "RV-4778-69" .
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <https://colonialcollections.nl/schema#name> "Jurk met borduurwerk versierd" .
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <https://colonialcollections.nl/schema#description> "De jurk is afkomstig uit de omgeving van Sukne, ten noordoosten van Tadmur." .
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <https://colonialcollections.nl/schema#material> "Katoen (verm) ; satijn" .
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/831d40c48b3c6b3de12b45ae5e969062> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

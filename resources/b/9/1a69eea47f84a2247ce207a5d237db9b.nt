@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/7837d90c2414ad972d1ee5727e8976c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7837d90c2414ad972d1ee5727e8976c6> <https://colonialcollections.nl/schema#identifier> "RV-811-3" .
+<https://n2t.net/ark:/27023/7837d90c2414ad972d1ee5727e8976c6> <https://colonialcollections.nl/schema#name> "Kwasten" .
+<https://n2t.net/ark:/27023/7837d90c2414ad972d1ee5727e8976c6> <https://colonialcollections.nl/schema#description> "meerdere stuks, gedragen door een dier" .
+<https://n2t.net/ark:/27023/7837d90c2414ad972d1ee5727e8976c6> <https://colonialcollections.nl/schema#material> "katoen ; zilverdraad" .
+<https://n2t.net/ark:/27023/7837d90c2414ad972d1ee5727e8976c6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

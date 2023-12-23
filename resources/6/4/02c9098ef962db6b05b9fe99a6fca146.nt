@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/721d89f6c313e4659440a733c2d3b49a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/721d89f6c313e4659440a733c2d3b49a> <https://colonialcollections.nl/schema#identifier> "RV-07-454" .
+<https://n2t.net/ark:/27023/721d89f6c313e4659440a733c2d3b49a> <https://colonialcollections.nl/schema#name> "Trom" .
+<https://n2t.net/ark:/27023/721d89f6c313e4659440a733c2d3b49a> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/721d89f6c313e4659440a733c2d3b49a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

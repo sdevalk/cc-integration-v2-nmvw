@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/79199234720d68caf1dcf47c69897554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/79199234720d68caf1dcf47c69897554> <https://colonialcollections.nl/schema#identifier> "RV-796-15" .
+<https://n2t.net/ark:/27023/79199234720d68caf1dcf47c69897554> <https://colonialcollections.nl/schema#name> "Sikkel of sabelmes" .
+<https://n2t.net/ark:/27023/79199234720d68caf1dcf47c69897554> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; koper" .
+<https://n2t.net/ark:/27023/79199234720d68caf1dcf47c69897554> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

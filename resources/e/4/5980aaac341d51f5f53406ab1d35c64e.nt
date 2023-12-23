@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/70f5f1cf971cf4da5933ee967f743d18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/70f5f1cf971cf4da5933ee967f743d18> <https://colonialcollections.nl/schema#identifier> "TM-4318-361" .
+<https://n2t.net/ark:/27023/70f5f1cf971cf4da5933ee967f743d18> <https://colonialcollections.nl/schema#name> "WOLLEN VROUWENSOK MET SIERPATRONEN" .
+<https://n2t.net/ark:/27023/70f5f1cf971cf4da5933ee967f743d18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/70f5f1cf971cf4da5933ee967f743d18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

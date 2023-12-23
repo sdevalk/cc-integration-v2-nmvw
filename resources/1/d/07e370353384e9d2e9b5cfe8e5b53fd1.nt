@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/70618b2689b93c6fa0b40d0211275842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/70618b2689b93c6fa0b40d0211275842> <https://colonialcollections.nl/schema#identifier> "TM-A-8509" .
+<https://n2t.net/ark:/27023/70618b2689b93c6fa0b40d0211275842> <https://colonialcollections.nl/schema#name> "INKTSTEEN" .
+<https://n2t.net/ark:/27023/70618b2689b93c6fa0b40d0211275842> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/70618b2689b93c6fa0b40d0211275842> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

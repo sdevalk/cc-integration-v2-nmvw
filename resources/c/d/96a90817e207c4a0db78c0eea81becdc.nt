@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d3f0e3b0ec50a0b24ce1f975d8d3570f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d3f0e3b0ec50a0b24ce1f975d8d3570f> <https://colonialcollections.nl/schema#identifier> "WM-68000" .
+<https://n2t.net/ark:/27023/d3f0e3b0ec50a0b24ce1f975d8d3570f> <https://colonialcollections.nl/schema#name> "TEXTIELFRAGMENT" .
+<https://n2t.net/ark:/27023/d3f0e3b0ec50a0b24ce1f975d8d3570f> <https://colonialcollections.nl/schema#material> "linnen, wol" .
+<https://n2t.net/ark:/27023/d3f0e3b0ec50a0b24ce1f975d8d3570f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/786a9720c62e8de1f4c2e472001dc1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/786a9720c62e8de1f4c2e472001dc1eb> <https://colonialcollections.nl/schema#identifier> "RV-5042-19" .
+<https://n2t.net/ark:/27023/786a9720c62e8de1f4c2e472001dc1eb> <https://colonialcollections.nl/schema#name> "Executiemes" .
+<https://n2t.net/ark:/27023/786a9720c62e8de1f4c2e472001dc1eb> <https://colonialcollections.nl/schema#material> "hout; messing;koper" .
+<https://n2t.net/ark:/27023/786a9720c62e8de1f4c2e472001dc1eb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

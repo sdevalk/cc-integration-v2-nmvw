@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/72807e0f1c387e2c4e910ef54d9c90e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/72807e0f1c387e2c4e910ef54d9c90e8> <https://colonialcollections.nl/schema#identifier> "TM-A-6321" .
+<https://n2t.net/ark:/27023/72807e0f1c387e2c4e910ef54d9c90e8> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BEELD VAN DE GOD DER AARDE IN DE VORM VAN EEN HOOFD" .
+<https://n2t.net/ark:/27023/72807e0f1c387e2c4e910ef54d9c90e8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/72807e0f1c387e2c4e910ef54d9c90e8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

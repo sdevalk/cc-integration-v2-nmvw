@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/829794d11876cf03919982f1a4394d6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/829794d11876cf03919982f1a4394d6a> <https://colonialcollections.nl/schema#identifier> "TM-30-6" .
+<https://n2t.net/ark:/27023/829794d11876cf03919982f1a4394d6a> <https://colonialcollections.nl/schema#name> "RECHTE KRIS MET HOUT GREEP EN HOUTEN SCHEDE MET GOUDEN OVERSCHEDE" .
+<https://n2t.net/ark:/27023/829794d11876cf03919982f1a4394d6a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/829794d11876cf03919982f1a4394d6a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

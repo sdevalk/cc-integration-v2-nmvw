@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/776cc99a4dc10daf4d08fd2c1173acda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/776cc99a4dc10daf4d08fd2c1173acda> <https://colonialcollections.nl/schema#identifier> "RV-370-1985" .
+<https://n2t.net/ark:/27023/776cc99a4dc10daf4d08fd2c1173acda> <https://colonialcollections.nl/schema#name> "Prauw (model)" .
+<https://n2t.net/ark:/27023/776cc99a4dc10daf4d08fd2c1173acda> <https://colonialcollections.nl/schema#material> "hout ; bamboe" .
+<https://n2t.net/ark:/27023/776cc99a4dc10daf4d08fd2c1173acda> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

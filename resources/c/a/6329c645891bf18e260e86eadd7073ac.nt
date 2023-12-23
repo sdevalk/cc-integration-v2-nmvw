@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <https://colonialcollections.nl/schema#identifier> "RV-503-259" .
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <https://colonialcollections.nl/schema#name> "OVERJAS VOOR MANNEN" .
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <https://colonialcollections.nl/schema#description> "Mannenjas van donkerblauwe katoen, gevoerd met een katoen van iets lichter blauw. De jas heeft lange mouwen die vanaf de ellebogen open zijn. De oksels zijn open. Het kledingstuk is licht getailleerd. Het kledingstuk zal waarschijnlijk tot de kuiten zijn gekomen. Volgens de oorspronkelijke registratiekaart werd dit soort overjas gedragen door boeren. (GVE, 2002)" .
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <https://colonialcollections.nl/schema#material> "Handgesponnen en geweven katoen" .
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/7188dc14e07aa0ebca1375bbd4956207> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

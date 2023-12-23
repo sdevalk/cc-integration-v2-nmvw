@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/776ae4f8b1c636cecd3f15fc6330c34f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/776ae4f8b1c636cecd3f15fc6330c34f> <https://colonialcollections.nl/schema#identifier> "TM-3232-163b" .
+<https://n2t.net/ark:/27023/776ae4f8b1c636cecd3f15fc6330c34f> <https://colonialcollections.nl/schema#name> "STOKJE (B) VAN (KALEBAS ALS KALKDOOS GEBRUIKT A)" .
+<https://n2t.net/ark:/27023/776ae4f8b1c636cecd3f15fc6330c34f> <https://colonialcollections.nl/schema#description> "Herk: Kogi Indianen Colombia" .
+<https://n2t.net/ark:/27023/776ae4f8b1c636cecd3f15fc6330c34f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/776ae4f8b1c636cecd3f15fc6330c34f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
