@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#identifier> "WM-940124-13" .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#description> "GE: landschapsfotografie, stadsgezicht\r\nHM: [PT] aan rand van stad en kerkhof; [VS] palmbomen, stadswal huizen, toren" .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d67acdb233cbea2c4167b4c5c6dc047a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

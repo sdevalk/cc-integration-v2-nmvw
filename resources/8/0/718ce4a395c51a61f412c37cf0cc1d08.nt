@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <https://colonialcollections.nl/schema#identifier> "TM-3912-104" .
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <https://colonialcollections.nl/schema#name> "ALUMINIUM ARMBAND MET GEDECOREERDE ZIJKANTEN" .
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <https://colonialcollections.nl/schema#description> "De armband is zodanig vervaardigd dat het lijkt alsof het aluminium eenmaal in de lengterichting gedraaid is. De zijkanten zijn versierd met een dubbele lijn, waarin kleine streepjes zijn afgebeeld." .
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <https://colonialcollections.nl/schema#material> "aluminium ; verlorenwasgietprocedé (vermoedelijk)" .
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fd98596611d6cf8a18973282698bbc22> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

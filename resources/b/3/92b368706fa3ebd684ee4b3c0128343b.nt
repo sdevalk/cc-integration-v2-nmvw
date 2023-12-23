@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#identifier> "RV-A198-107" .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#name> "SERIE J.F. HOLLEMAN" .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#description> "Photo depicting an older Zulu woman." .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#material> "Materiaal: papier (Agfa Brovia) ; Techniek: ontwikkelgelatinezilverdruk" .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#creator> "J.F. (Johan Frederik) Holleman" .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d526b3df0ecf7f5d185f5f7c460ce5c9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .

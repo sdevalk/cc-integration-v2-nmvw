@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d4fe16f4cd6977673a0beaa875fe3c38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d4fe16f4cd6977673a0beaa875fe3c38> <https://colonialcollections.nl/schema#identifier> "WM-75209" .
+<https://n2t.net/ark:/27023/d4fe16f4cd6977673a0beaa875fe3c38> <https://colonialcollections.nl/schema#description> "[DE] archering & geometische figuren" .
+<https://n2t.net/ark:/27023/d4fe16f4cd6977673a0beaa875fe3c38> <https://colonialcollections.nl/schema#material> "metaal\r\ngesmeed, gedreven, gegraveerd" .
+<https://n2t.net/ark:/27023/d4fe16f4cd6977673a0beaa875fe3c38> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

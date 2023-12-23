@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#identifier> "WM-940120-13" .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#description> "GE: documentaire, landschapsfotografie\r\nHM: [PE] groepje mannen; [PT] in buitelucht; [VS] twee ezels, put, palmbomen" .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#material> "[MT] papier \r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#yearCreatedStart> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e8e8dd1988ed3b50af865289649c8fd7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

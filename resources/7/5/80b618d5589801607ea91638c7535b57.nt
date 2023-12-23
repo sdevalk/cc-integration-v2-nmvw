@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/eedaab98dc9f5c0fd99d17e433c5a979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/eedaab98dc9f5c0fd99d17e433c5a979> <https://colonialcollections.nl/schema#identifier> "RV-2962-24" .
+<https://n2t.net/ark:/27023/eedaab98dc9f5c0fd99d17e433c5a979> <https://colonialcollections.nl/schema#name> "Sieraad: hanger" .
+<https://n2t.net/ark:/27023/eedaab98dc9f5c0fd99d17e433c5a979> <https://colonialcollections.nl/schema#material> "zilver ; koper" .
+<https://n2t.net/ark:/27023/eedaab98dc9f5c0fd99d17e433c5a979> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

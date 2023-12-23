@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d4f77fa39131c13a4b8409d2249eaedc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d4f77fa39131c13a4b8409d2249eaedc> <https://colonialcollections.nl/schema#identifier> "RV-414-36" .
+<https://n2t.net/ark:/27023/d4f77fa39131c13a4b8409d2249eaedc> <https://colonialcollections.nl/schema#name> "Wol (monster)" .
+<https://n2t.net/ark:/27023/d4f77fa39131c13a4b8409d2249eaedc> <https://colonialcollections.nl/schema#material> "wol, geitenwol" .
+<https://n2t.net/ark:/27023/d4f77fa39131c13a4b8409d2249eaedc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

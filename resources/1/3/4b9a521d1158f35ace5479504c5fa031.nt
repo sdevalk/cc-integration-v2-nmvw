@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#identifier> "RV-6047-7" .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#name> "Gravure" .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#description> "Le puissant roi de Congo, chez P. Bertran, Paris, 18e eeuw. Portret van een Mani Kongo, vermoedelijk Afonso I (1509-1545)." .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#material> "papier" .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e94a58793373ca62b2141f382b1fa2cb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .

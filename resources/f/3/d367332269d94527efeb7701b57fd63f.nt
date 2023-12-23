@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f0a872ac011bddc173e0c83f00280a2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f0a872ac011bddc173e0c83f00280a2e> <https://colonialcollections.nl/schema#identifier> "TM-2011-10a" .
+<https://n2t.net/ark:/27023/f0a872ac011bddc173e0c83f00280a2e> <https://colonialcollections.nl/schema#name> "ZILVER FILIGRAAN VRUCHTENMAND, GEVULD MET ZES VRUCHTEN" .
+<https://n2t.net/ark:/27023/f0a872ac011bddc173e0c83f00280a2e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/f0a872ac011bddc173e0c83f00280a2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

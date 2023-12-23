@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d413ac3e891662f2c7fc74020b0e51df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d413ac3e891662f2c7fc74020b0e51df> <https://colonialcollections.nl/schema#identifier> "WM-38084" .
+<https://n2t.net/ark:/27023/d413ac3e891662f2c7fc74020b0e51df> <https://colonialcollections.nl/schema#description> "[ST] punt" .
+<https://n2t.net/ark:/27023/d413ac3e891662f2c7fc74020b0e51df> <https://colonialcollections.nl/schema#material> "riet, ijzer (punt), vogelveer, verf\r\ngesneden & beschilderd (schacht)" .
+<https://n2t.net/ark:/27023/d413ac3e891662f2c7fc74020b0e51df> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d4a137d78e6bac21611e54044325c686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d4a137d78e6bac21611e54044325c686> <https://colonialcollections.nl/schema#identifier> "RV-497-64" .
+<https://n2t.net/ark:/27023/d4a137d78e6bac21611e54044325c686> <https://colonialcollections.nl/schema#name> "Tabakspijp" .
+<https://n2t.net/ark:/27023/d4a137d78e6bac21611e54044325c686> <https://colonialcollections.nl/schema#description> "Volgens inv.kaart moet er een roer zijn!!" .
+<https://n2t.net/ark:/27023/d4a137d78e6bac21611e54044325c686> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/d4a137d78e6bac21611e54044325c686> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

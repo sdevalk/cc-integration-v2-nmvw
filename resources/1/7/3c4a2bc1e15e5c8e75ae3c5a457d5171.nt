@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/fdee8f6da351dfaf22808cb44a45208d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fdee8f6da351dfaf22808cb44a45208d> <https://colonialcollections.nl/schema#identifier> "TM-3215-30" .
+<https://n2t.net/ark:/27023/fdee8f6da351dfaf22808cb44a45208d> <https://colonialcollections.nl/schema#name> "KATOENEN SURINAAMS-CREOOLSE HOOFDDOEK" .
+<https://n2t.net/ark:/27023/fdee8f6da351dfaf22808cb44a45208d> <https://colonialcollections.nl/schema#description> "Surinaamse hoofddoek met blauwe motieven die zoveel betekent als: \"De een zijn brood is de ander zijn dood\" (\"Switi bi doendoen meki kraukrau opo free\"; zowel 'doendoen' als 'kraukrau' waren bekende dieven. Doendoen zette een kraakje, maar kraukrau ging er met de buit vandoor)." .
+<https://n2t.net/ark:/27023/fdee8f6da351dfaf22808cb44a45208d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fdee8f6da351dfaf22808cb44a45208d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

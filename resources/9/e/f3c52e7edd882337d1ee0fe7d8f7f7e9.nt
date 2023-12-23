@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e6e3ec00ba94871af1d56cf909c11a15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6e3ec00ba94871af1d56cf909c11a15> <https://colonialcollections.nl/schema#identifier> "RV-884-1" .
+<https://n2t.net/ark:/27023/e6e3ec00ba94871af1d56cf909c11a15> <https://colonialcollections.nl/schema#name> "Waterpijp met koperbeslag" .
+<https://n2t.net/ark:/27023/e6e3ec00ba94871af1d56cf909c11a15> <https://colonialcollections.nl/schema#material> "Kokosnoot ; metaal ; geelkoper ; hout ; wol ; fluweel ; ijzer ; tin" .
+<https://n2t.net/ark:/27023/e6e3ec00ba94871af1d56cf909c11a15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e6e3ec00ba94871af1d56cf909c11a15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

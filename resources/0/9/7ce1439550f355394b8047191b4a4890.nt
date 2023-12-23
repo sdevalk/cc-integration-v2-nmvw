@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fdced77b6465b116b53b6af8ad4e80c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fdced77b6465b116b53b6af8ad4e80c3> <https://colonialcollections.nl/schema#identifier> "WM-68012" .
+<https://n2t.net/ark:/27023/fdced77b6465b116b53b6af8ad4e80c3> <https://colonialcollections.nl/schema#name> "TEXTIELFRAGMENT" .
+<https://n2t.net/ark:/27023/fdced77b6465b116b53b6af8ad4e80c3> <https://colonialcollections.nl/schema#material> "linnen, wol" .
+<https://n2t.net/ark:/27023/fdced77b6465b116b53b6af8ad4e80c3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

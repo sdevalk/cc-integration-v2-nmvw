@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#identifier> "WM-940123-23" .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#description> "GE: landschapsfotografie, stadsgezicht\r\nHM: [PT] blik op Bon Saada; [VS] huizen, bomen, bergtop" .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#material> "[MT] papier\r\n[TK] onbekend" .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#creator> "Rombach, M.A." .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d6ab8936723afb76cc25c5baf16d384f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

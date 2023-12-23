@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <https://colonialcollections.nl/schema#identifier> "TM-1400-11" .
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <https://colonialcollections.nl/schema#name> "HOUTEN HAARKAM" .
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <https://colonialcollections.nl/schema#description> "Houten haarkam.\r\nDergelijke kammen worden gebruikt voor het kammen van het haar van Marronvrouwen. Grotere exemplaren dienen tevens ter decoratie van een woning." .
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <https://colonialcollections.nl/schema#material> "hout ; snijden ; versiering inbranden" .
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e62937075b3c30bf4dccd8ab23c09277> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

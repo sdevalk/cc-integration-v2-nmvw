@@ -1,0 +1,4 @@
+<https://n2t.net/ark:/27023/f1016ec99075054ffb8e57d0cdb332a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f1016ec99075054ffb8e57d0cdb332a0> <https://colonialcollections.nl/schema#identifier> "WM-27731" .
+<https://n2t.net/ark:/27023/f1016ec99075054ffb8e57d0cdb332a0> <https://colonialcollections.nl/schema#material> "steen (lydiet ?)\r\nPrehistorisch : paleolitisch" .
+<https://n2t.net/ark:/27023/f1016ec99075054ffb8e57d0cdb332a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

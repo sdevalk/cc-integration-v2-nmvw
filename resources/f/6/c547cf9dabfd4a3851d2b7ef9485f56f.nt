@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/d434698ef3dce0b988f0a1bac0fb85ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d434698ef3dce0b988f0a1bac0fb85ed> <https://colonialcollections.nl/schema#identifier> "RV-289-2" .
+<https://n2t.net/ark:/27023/d434698ef3dce0b988f0a1bac0fb85ed> <https://colonialcollections.nl/schema#name> "Waskom" .
+<https://n2t.net/ark:/27023/d434698ef3dce0b988f0a1bac0fb85ed> <https://colonialcollections.nl/schema#material> "vertint plaatijzer" .
+<https://n2t.net/ark:/27023/d434698ef3dce0b988f0a1bac0fb85ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

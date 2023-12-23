@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e6789e383f239b9e411f7e4b0dce04b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6789e383f239b9e411f7e4b0dce04b6> <https://colonialcollections.nl/schema#identifier> "TM-2656-27" .
+<https://n2t.net/ark:/27023/e6789e383f239b9e411f7e4b0dce04b6> <https://colonialcollections.nl/schema#name> "GELAKTE BAMBOE SIGARENDOOS MET GOUDKLEURIGE VOORSTELLING EN SCHARNIEREND DEKSEL" .
+<https://n2t.net/ark:/27023/e6789e383f239b9e411f7e4b0dce04b6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e6789e383f239b9e411f7e4b0dce04b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

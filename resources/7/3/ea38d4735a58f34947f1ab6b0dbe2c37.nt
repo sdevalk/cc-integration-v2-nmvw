@@ -1,0 +1,8 @@
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#identifier> "RV-2211-359" .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#name> "Resonator" .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#description> "Een klankkast. Behoort bij sansa inv.nr. 2211-105." .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#material> "kalebas ; baldrepen ; kralen/ schelpen" .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e89c98c812bdeb00bba1df3fabfab41f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

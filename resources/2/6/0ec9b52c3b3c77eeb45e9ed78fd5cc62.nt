@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e81bc1cda6b114209a0ee5e271d03360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e81bc1cda6b114209a0ee5e271d03360> <https://colonialcollections.nl/schema#identifier> "TM-4214-198a" .
+<https://n2t.net/ark:/27023/e81bc1cda6b114209a0ee5e271d03360> <https://colonialcollections.nl/schema#name> "GEBREIDE WOLLEN SOK MET KLEURIGE MOTIEVEN" .
+<https://n2t.net/ark:/27023/e81bc1cda6b114209a0ee5e271d03360> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e81bc1cda6b114209a0ee5e271d03360> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .

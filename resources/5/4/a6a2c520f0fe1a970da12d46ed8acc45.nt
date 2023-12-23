@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e94a87c2b377eff55c32a11c6dd7b6ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e94a87c2b377eff55c32a11c6dd7b6ad> <https://colonialcollections.nl/schema#identifier> "WM-901398" .
+<https://n2t.net/ark:/27023/e94a87c2b377eff55c32a11c6dd7b6ad> <https://colonialcollections.nl/schema#description> "olie boren\r\nboortoren" .
+<https://n2t.net/ark:/27023/e94a87c2b377eff55c32a11c6dd7b6ad> <https://colonialcollections.nl/schema#material> "[MT] papier : Agfa Brovira\r\n[TK] ontwikkelgelatinezilverdruk\r\n\r\n[OM] passepartout" .
+<https://n2t.net/ark:/27023/e94a87c2b377eff55c32a11c6dd7b6ad> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e94a87c2b377eff55c32a11c6dd7b6ad> <https://colonialcollections.nl/schema#creator> "H.P.C. (Herman Petrus Coenraad) Haan" .

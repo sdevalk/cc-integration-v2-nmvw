@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fddc49c62bf8a1c1381281b875d36a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fddc49c62bf8a1c1381281b875d36a8d> <https://colonialcollections.nl/schema#identifier> "TM-4294-31" .
+<https://n2t.net/ark:/27023/fddc49c62bf8a1c1381281b875d36a8d> <https://colonialcollections.nl/schema#name> "TASJE VOOR COCABLAADJES" .
+<https://n2t.net/ark:/27023/fddc49c62bf8a1c1381281b875d36a8d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/fddc49c62bf8a1c1381281b875d36a8d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

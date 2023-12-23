@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e8413bb4df8da4086ba362528a8eb8ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e8413bb4df8da4086ba362528a8eb8ee> <https://colonialcollections.nl/schema#identifier> "TM-5683-61" .
+<https://n2t.net/ark:/27023/e8413bb4df8da4086ba362528a8eb8ee> <https://colonialcollections.nl/schema#name> "AARDEWERKEN OLIELAMP" .
+<https://n2t.net/ark:/27023/e8413bb4df8da4086ba362528a8eb8ee> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/e8413bb4df8da4086ba362528a8eb8ee> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d6a8f2659dc0d502067c6fe2f833a053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d6a8f2659dc0d502067c6fe2f833a053> <https://colonialcollections.nl/schema#identifier> "TM-3782-101b" .
+<https://n2t.net/ark:/27023/d6a8f2659dc0d502067c6fe2f833a053> <https://colonialcollections.nl/schema#name> "IJZEREN SLOT VAN EEN KLUISTER VOOR HET VASTBINDEN VAN EZELPOTEN" .
+<https://n2t.net/ark:/27023/d6a8f2659dc0d502067c6fe2f833a053> <https://colonialcollections.nl/schema#description> "Met deze kluister worden de voorpoten van de ezel aan elkaar gebonden, zodat hij zich nog wel kan voortbewegen om te grazen, maar niet snel kan lopen en weglopen." .
+<https://n2t.net/ark:/27023/d6a8f2659dc0d502067c6fe2f833a053> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d6a8f2659dc0d502067c6fe2f833a053> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

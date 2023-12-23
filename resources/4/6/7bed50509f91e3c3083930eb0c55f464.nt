@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/fda1d2940bc0f3cc079b56c0855c914b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fda1d2940bc0f3cc079b56c0855c914b> <https://colonialcollections.nl/schema#identifier> "WM-37997" .
+<https://n2t.net/ark:/27023/fda1d2940bc0f3cc079b56c0855c914b> <https://colonialcollections.nl/schema#description> "[ST] punt" .
+<https://n2t.net/ark:/27023/fda1d2940bc0f3cc079b56c0855c914b> <https://colonialcollections.nl/schema#material> "riet, ijzer (punt), plantenvezel, vogelveer, verf\r\ngesneden" .
+<https://n2t.net/ark:/27023/fda1d2940bc0f3cc079b56c0855c914b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

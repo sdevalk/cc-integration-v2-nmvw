@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/fe87c45529c3d718da2b790312afeaae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/fe87c45529c3d718da2b790312afeaae> <https://colonialcollections.nl/schema#identifier> "RV-2866-34" .
+<https://n2t.net/ark:/27023/fe87c45529c3d718da2b790312afeaae> <https://colonialcollections.nl/schema#name> "Knots" .
+<https://n2t.net/ark:/27023/fe87c45529c3d718da2b790312afeaae> <https://colonialcollections.nl/schema#description> "Knots waarvan het slageinde wordt gevormd door een grillige knoest." .
+<https://n2t.net/ark:/27023/fe87c45529c3d718da2b790312afeaae> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/fe87c45529c3d718da2b790312afeaae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

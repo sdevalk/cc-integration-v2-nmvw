@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e6214d00652df3e033d74d54ef5f4b4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e6214d00652df3e033d74d54ef5f4b4d> <https://colonialcollections.nl/schema#identifier> "RV-4399-132" .
+<https://n2t.net/ark:/27023/e6214d00652df3e033d74d54ef5f4b4d> <https://colonialcollections.nl/schema#name> "Zweep" .
+<https://n2t.net/ark:/27023/e6214d00652df3e033d74d54ef5f4b4d> <https://colonialcollections.nl/schema#description> "Leren zweep." .
+<https://n2t.net/ark:/27023/e6214d00652df3e033d74d54ef5f4b4d> <https://colonialcollections.nl/schema#material> "leer" .
+<https://n2t.net/ark:/27023/e6214d00652df3e033d74d54ef5f4b4d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

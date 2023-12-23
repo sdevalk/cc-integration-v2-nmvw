@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/f04a1965ff54585b5bb110fa4e3c5616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f04a1965ff54585b5bb110fa4e3c5616> <https://colonialcollections.nl/schema#identifier> "WM-74367" .
+<https://n2t.net/ark:/27023/f04a1965ff54585b5bb110fa4e3c5616> <https://colonialcollections.nl/schema#description> "[KL] blauw & creme & zwart\r\n[ST] pop : man & tulband & jas : chapan & broek & ketting" .
+<https://n2t.net/ark:/27023/f04a1965ff54585b5bb110fa4e3c5616> <https://colonialcollections.nl/schema#material> "katoen, zijde (?), metaal; papier-mache" .
+<https://n2t.net/ark:/27023/f04a1965ff54585b5bb110fa4e3c5616> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

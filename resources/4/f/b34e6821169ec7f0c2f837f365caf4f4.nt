@@ -1,0 +1,9 @@
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#identifier> "WM-911133" .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#name> "[RED CLOUD, SIOUX]" .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#description> "Delegatieportret uit Washington D.C. van Oglala Sioux opperhoofd Red Cloud of Mahpiua-luta. Red Cloud was een berucht leider, die zijn volk tot opstanden aanspoorde." .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#material> "papier, karton, albuminedruk, kabinetfoto" .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#creator> "Bell, C.M." .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d5cb0ba6f6aae8e0309c6bead0cb4ec6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .

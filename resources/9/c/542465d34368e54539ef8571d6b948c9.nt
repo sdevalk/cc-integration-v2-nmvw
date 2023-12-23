@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/f03391898ebeeb7c8600a5c1d8ffeba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/f03391898ebeeb7c8600a5c1d8ffeba4> <https://colonialcollections.nl/schema#identifier> "AM-29-431" .
+<https://n2t.net/ark:/27023/f03391898ebeeb7c8600a5c1d8ffeba4> <https://colonialcollections.nl/schema#name> "Maïskolf, gebruikt bij pottenbakken" .
+<https://n2t.net/ark:/27023/f03391898ebeeb7c8600a5c1d8ffeba4> <https://colonialcollections.nl/schema#description> "Gebruikt bij pottenbakken\r\n\r\nBeschrijving\r\nLege maiskolf." .
+<https://n2t.net/ark:/27023/f03391898ebeeb7c8600a5c1d8ffeba4> <https://colonialcollections.nl/schema#material> "Maiskolf" .
+<https://n2t.net/ark:/27023/f03391898ebeeb7c8600a5c1d8ffeba4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

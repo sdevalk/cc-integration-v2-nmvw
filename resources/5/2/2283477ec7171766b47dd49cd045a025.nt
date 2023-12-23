@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/e87bb64b00634471dcf2a1e0a9fb950b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e87bb64b00634471dcf2a1e0a9fb950b> <https://colonialcollections.nl/schema#identifier> "RV-1190-8" .
+<https://n2t.net/ark:/27023/e87bb64b00634471dcf2a1e0a9fb950b> <https://colonialcollections.nl/schema#name> "Fluit" .
+<https://n2t.net/ark:/27023/e87bb64b00634471dcf2a1e0a9fb950b> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/e87bb64b00634471dcf2a1e0a9fb950b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

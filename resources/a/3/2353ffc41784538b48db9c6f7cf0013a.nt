@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/d40a641e3faafdc0e5755e931e2a3ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/d40a641e3faafdc0e5755e931e2a3ae0> <https://colonialcollections.nl/schema#identifier> "WM-73133" .
+<https://n2t.net/ark:/27023/d40a641e3faafdc0e5755e931e2a3ae0> <https://colonialcollections.nl/schema#name> "gezichtsmasker" .
+<https://n2t.net/ark:/27023/d40a641e3faafdc0e5755e931e2a3ae0> <https://colonialcollections.nl/schema#description> "[ST] standaard" .
+<https://n2t.net/ark:/27023/d40a641e3faafdc0e5755e931e2a3ae0> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/d40a641e3faafdc0e5755e931e2a3ae0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

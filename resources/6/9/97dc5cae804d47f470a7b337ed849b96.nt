@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/e68b80066db0c560e20ef58b4b8c850d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/e68b80066db0c560e20ef58b4b8c850d> <https://colonialcollections.nl/schema#identifier> "AM-29-442" .
+<https://n2t.net/ark:/27023/e68b80066db0c560e20ef58b4b8c850d> <https://colonialcollections.nl/schema#name> "Spatel, gebruikt bij pottenbakken" .
+<https://n2t.net/ark:/27023/e68b80066db0c560e20ef58b4b8c850d> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nDunne houten spatel." .
+<https://n2t.net/ark:/27023/e68b80066db0c560e20ef58b4b8c850d> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/e68b80066db0c560e20ef58b4b8c850d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
