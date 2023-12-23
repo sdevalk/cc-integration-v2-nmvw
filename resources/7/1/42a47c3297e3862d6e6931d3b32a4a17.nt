@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6261f532e369ef6985de5fc4fa4f61de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6261f532e369ef6985de5fc4fa4f61de> <https://colonialcollections.nl/schema#identifier> "TM-2452-29" .
+<https://n2t.net/ark:/27023/6261f532e369ef6985de5fc4fa4f61de> <https://colonialcollections.nl/schema#name> "HOUTEN SPEER MET IJZEREN PUNT EN EEN HALVEMAANVORMIGE WEERHAAK" .
+<https://n2t.net/ark:/27023/6261f532e369ef6985de5fc4fa4f61de> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6261f532e369ef6985de5fc4fa4f61de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

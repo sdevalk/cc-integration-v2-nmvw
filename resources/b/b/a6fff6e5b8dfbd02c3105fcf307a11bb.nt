@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ff7549b48dfb2495eef70a02b2c20805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff7549b48dfb2495eef70a02b2c20805> <https://colonialcollections.nl/schema#identifier> "TM-2345-118" .
+<https://n2t.net/ark:/27023/ff7549b48dfb2495eef70a02b2c20805> <https://colonialcollections.nl/schema#name> "LEREN WAJANGPOP" .
+<https://n2t.net/ark:/27023/ff7549b48dfb2495eef70a02b2c20805> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ff7549b48dfb2495eef70a02b2c20805> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

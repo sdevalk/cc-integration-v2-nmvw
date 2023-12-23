@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/ff58e18c4ce72348af5740cccf6ab78c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff58e18c4ce72348af5740cccf6ab78c> <https://colonialcollections.nl/schema#identifier> "TM-403-69" .
+<https://n2t.net/ark:/27023/ff58e18c4ce72348af5740cccf6ab78c> <https://colonialcollections.nl/schema#name> "ARMSIERAAD VAN DRIE ARAVEREN EN EEN STUKS STAART VAN EEN AAP" .
+<https://n2t.net/ark:/27023/ff58e18c4ce72348af5740cccf6ab78c> <https://colonialcollections.nl/schema#description> "Dit object is verzameld tijdens de Toemoekhoemak Expeditie van 1907." .
+<https://n2t.net/ark:/27023/ff58e18c4ce72348af5740cccf6ab78c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ff58e18c4ce72348af5740cccf6ab78c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .

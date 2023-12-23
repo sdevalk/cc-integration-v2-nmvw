@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/635659c112fbbb950ad2c2ddfe05789e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/635659c112fbbb950ad2c2ddfe05789e> <https://colonialcollections.nl/schema#identifier> "TM-3864-56" .
+<https://n2t.net/ark:/27023/635659c112fbbb950ad2c2ddfe05789e> <https://colonialcollections.nl/schema#name> "WOLLEN DEKEN" .
+<https://n2t.net/ark:/27023/635659c112fbbb950ad2c2ddfe05789e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/635659c112fbbb950ad2c2ddfe05789e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

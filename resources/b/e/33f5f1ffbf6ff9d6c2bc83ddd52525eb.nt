@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/50535ace02ee1ad65b9d303a9f73224f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/50535ace02ee1ad65b9d303a9f73224f> <https://colonialcollections.nl/schema#identifier> "TM-4714-16b" .
+<https://n2t.net/ark:/27023/50535ace02ee1ad65b9d303a9f73224f> <https://colonialcollections.nl/schema#name> "KOPEREN ZITTENDE BOEDDHA MET BIJBEHOREND VOETSTUK" .
+<https://n2t.net/ark:/27023/50535ace02ee1ad65b9d303a9f73224f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/50535ace02ee1ad65b9d303a9f73224f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .

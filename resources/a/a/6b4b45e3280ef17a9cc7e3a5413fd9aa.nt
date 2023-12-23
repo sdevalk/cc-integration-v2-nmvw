@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4e6f54ce2aa493049538e34a435f5098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4e6f54ce2aa493049538e34a435f5098> <https://colonialcollections.nl/schema#identifier> "TM-3290-187" .
+<https://n2t.net/ark:/27023/4e6f54ce2aa493049538e34a435f5098> <https://colonialcollections.nl/schema#name> "ZIJDEN ROK" .
+<https://n2t.net/ark:/27023/4e6f54ce2aa493049538e34a435f5098> <https://colonialcollections.nl/schema#description> "Een dergelijke rok wordt als feestelijke kledij gedragen door Hindoestaanse vrouwen en meisjes." .
+<https://n2t.net/ark:/27023/4e6f54ce2aa493049538e34a435f5098> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4e6f54ce2aa493049538e34a435f5098> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

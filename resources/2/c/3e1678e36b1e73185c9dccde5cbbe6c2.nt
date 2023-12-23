@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4cf83286b10c08ca89baa6a7b8ad84f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4cf83286b10c08ca89baa6a7b8ad84f6> <https://colonialcollections.nl/schema#identifier> "TM-400-218" .
+<https://n2t.net/ark:/27023/4cf83286b10c08ca89baa6a7b8ad84f6> <https://colonialcollections.nl/schema#name> "KARTONNEN OMSLAG MET WATERVERFSCHILDERING" .
+<https://n2t.net/ark:/27023/4cf83286b10c08ca89baa6a7b8ad84f6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4cf83286b10c08ca89baa6a7b8ad84f6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

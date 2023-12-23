@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/50bf2e1d13af81a8a6d890d3e7671c52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/50bf2e1d13af81a8a6d890d3e7671c52> <https://colonialcollections.nl/schema#identifier> "RV-5279-7" .
+<https://n2t.net/ark:/27023/50bf2e1d13af81a8a6d890d3e7671c52> <https://colonialcollections.nl/schema#name> "Achterglasschildering" .
+<https://n2t.net/ark:/27023/50bf2e1d13af81a8a6d890d3e7671c52> <https://colonialcollections.nl/schema#material> "glas ; hout" .
+<https://n2t.net/ark:/27023/50bf2e1d13af81a8a6d890d3e7671c52> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

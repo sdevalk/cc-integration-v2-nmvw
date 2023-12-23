@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ff9d092cd0513d191a75ea49189ff87d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff9d092cd0513d191a75ea49189ff87d> <https://colonialcollections.nl/schema#identifier> "TM-ib-2008-04-071" .
+<https://n2t.net/ark:/27023/ff9d092cd0513d191a75ea49189ff87d> <https://colonialcollections.nl/schema#name> "BEELD VOORSTELLENDE TWEE GEVANGEN PERSONAGES" .
+<https://n2t.net/ark:/27023/ff9d092cd0513d191a75ea49189ff87d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ff9d092cd0513d191a75ea49189ff87d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

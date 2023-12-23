@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/35d44a587f474dab4daa7f0fbb1a71aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/35d44a587f474dab4daa7f0fbb1a71aa> <https://colonialcollections.nl/schema#identifier> "TM-3427-40k" .
+<https://n2t.net/ark:/27023/35d44a587f474dab4daa7f0fbb1a71aa> <https://colonialcollections.nl/schema#name> "SPOEL, ONDERDEEL VAN EEN WEEFGETOUW" .
+<https://n2t.net/ark:/27023/35d44a587f474dab4daa7f0fbb1a71aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/35d44a587f474dab4daa7f0fbb1a71aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .

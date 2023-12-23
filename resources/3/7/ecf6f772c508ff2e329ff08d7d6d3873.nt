@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/61fde6c00e3a7ab0b7909925ace77ce5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61fde6c00e3a7ab0b7909925ace77ce5> <https://colonialcollections.nl/schema#identifier> "AM-17-1230" .
+<https://n2t.net/ark:/27023/61fde6c00e3a7ab0b7909925ace77ce5> <https://colonialcollections.nl/schema#name> "Siermes" .
+<https://n2t.net/ark:/27023/61fde6c00e3a7ab0b7909925ace77ce5> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nMes met een ijzeren lemmet dat aan de onderzijde op een tweetal plaatsen is opengewerkt. Het handvat is van hout en met koperdraad omwonden." .
+<https://n2t.net/ark:/27023/61fde6c00e3a7ab0b7909925ace77ce5> <https://colonialcollections.nl/schema#material> "IJzer; hout; koperband" .
+<https://n2t.net/ark:/27023/61fde6c00e3a7ab0b7909925ace77ce5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

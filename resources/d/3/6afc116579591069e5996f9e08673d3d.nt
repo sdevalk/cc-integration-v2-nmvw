@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/62418559b3afb2c0ea1b89d3534f274a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62418559b3afb2c0ea1b89d3534f274a> <https://colonialcollections.nl/schema#identifier> "TM-A-10934" .
+<https://n2t.net/ark:/27023/62418559b3afb2c0ea1b89d3534f274a> <https://colonialcollections.nl/schema#name> "IJZEREN MES MET HOORNEN HEFT, ZONDER SCHEDE" .
+<https://n2t.net/ark:/27023/62418559b3afb2c0ea1b89d3534f274a> <https://colonialcollections.nl/schema#material> "Het mes heeft vermoedelijk een ijzeren heft. In het wit hoornen heft is een gaatje aangebracht." .
+<https://n2t.net/ark:/27023/62418559b3afb2c0ea1b89d3534f274a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/62418559b3afb2c0ea1b89d3534f274a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

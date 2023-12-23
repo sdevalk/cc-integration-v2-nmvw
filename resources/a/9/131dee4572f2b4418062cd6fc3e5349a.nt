@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/631ce2efc94d39664348ab9b09441a46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/631ce2efc94d39664348ab9b09441a46> <https://colonialcollections.nl/schema#identifier> "TM-ib-2009-01-15" .
+<https://n2t.net/ark:/27023/631ce2efc94d39664348ab9b09441a46> <https://colonialcollections.nl/schema#name> "HOUTEN DANSSTAF" .
+<https://n2t.net/ark:/27023/631ce2efc94d39664348ab9b09441a46> <https://colonialcollections.nl/schema#description> "collector: Missionair J. Kersten" .
+<https://n2t.net/ark:/27023/631ce2efc94d39664348ab9b09441a46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/631ce2efc94d39664348ab9b09441a46> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ff90a26b0530658e1161f20da0c66a26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff90a26b0530658e1161f20da0c66a26> <https://colonialcollections.nl/schema#identifier> "TM-3782-534" .
+<https://n2t.net/ark:/27023/ff90a26b0530658e1161f20da0c66a26> <https://colonialcollections.nl/schema#name> "DRAAGNET VAN SISALTOUW VOOR HET VERVOER VAN STRO OP DIEREN" .
+<https://n2t.net/ark:/27023/ff90a26b0530658e1161f20da0c66a26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ff90a26b0530658e1161f20da0c66a26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

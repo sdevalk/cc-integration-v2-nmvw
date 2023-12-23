@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4de4fcd6762e87ee8e16a221822ed007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4de4fcd6762e87ee8e16a221822ed007> <https://colonialcollections.nl/schema#identifier> "TM-3864-16b" .
+<https://n2t.net/ark:/27023/4de4fcd6762e87ee8e16a221822ed007> <https://colonialcollections.nl/schema#name> "DEKSEL VAN EEN CEREMONIËLE VOEDSELSCHAAL" .
+<https://n2t.net/ark:/27023/4de4fcd6762e87ee8e16a221822ed007> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4de4fcd6762e87ee8e16a221822ed007> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

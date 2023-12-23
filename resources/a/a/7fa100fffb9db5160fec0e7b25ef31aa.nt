@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6136b04bc70d641b60cae57d86b34885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6136b04bc70d641b60cae57d86b34885> <https://colonialcollections.nl/schema#identifier> "TM-2345-171c" .
+<https://n2t.net/ark:/27023/6136b04bc70d641b60cae57d86b34885> <https://colonialcollections.nl/schema#name> "GEKARTELDE KRABBER VAN KALEBASSCHAAL" .
+<https://n2t.net/ark:/27023/6136b04bc70d641b60cae57d86b34885> <https://colonialcollections.nl/schema#description> "En dergelijke krabber wordt vermoedelijk gebruikt bij de pottenbakkerij." .
+<https://n2t.net/ark:/27023/6136b04bc70d641b60cae57d86b34885> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6136b04bc70d641b60cae57d86b34885> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .

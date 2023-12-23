@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <https://colonialcollections.nl/schema#identifier> "TM-3782-632d" .
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <https://colonialcollections.nl/schema#name> "HOUTEN BLOK BEHORENDE BIJ HET PERSAPPARAAT VOOR DE HOORNBEWERKING" .
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <https://colonialcollections.nl/schema#description> "Het apparaat is in vorm gebracht met behulp van zagen en schaven." .
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <https://colonialcollections.nl/schema#material> "hout ; snijden" .
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/359818e905c7eb04973731883b863430> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

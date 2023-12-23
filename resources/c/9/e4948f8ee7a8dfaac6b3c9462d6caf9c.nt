@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3363b80ebaa834ff0d232a9bc92a22a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3363b80ebaa834ff0d232a9bc92a22a8> <https://colonialcollections.nl/schema#identifier> "TM-4081-91c" .
+<https://n2t.net/ark:/27023/3363b80ebaa834ff0d232a9bc92a22a8> <https://colonialcollections.nl/schema#name> "STEUNLAT VAN EEN XYLOFOON" .
+<https://n2t.net/ark:/27023/3363b80ebaa834ff0d232a9bc92a22a8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3363b80ebaa834ff0d232a9bc92a22a8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .

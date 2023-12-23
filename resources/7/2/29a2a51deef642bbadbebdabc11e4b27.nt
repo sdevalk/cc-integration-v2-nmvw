@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <https://colonialcollections.nl/schema#identifier> "WM-66315" .
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <https://colonialcollections.nl/schema#description> "[VO] convex-cilindrisch" .
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <https://colonialcollections.nl/schema#material> "hout, rotan, huid, leer" .
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4e804031337978ff32476f8ad3aa2634> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .

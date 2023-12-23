@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6296ced3581b8846a0608ca8b0ae9593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6296ced3581b8846a0608ca8b0ae9593> <https://colonialcollections.nl/schema#identifier> "TM-2403-115" .
+<https://n2t.net/ark:/27023/6296ced3581b8846a0608ca8b0ae9593> <https://colonialcollections.nl/schema#name> "RAMMELAAR VAN BLIK" .
+<https://n2t.net/ark:/27023/6296ced3581b8846a0608ca8b0ae9593> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6296ced3581b8846a0608ca8b0ae9593> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

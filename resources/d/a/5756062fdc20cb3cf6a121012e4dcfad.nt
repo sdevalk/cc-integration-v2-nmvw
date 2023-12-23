@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/33d9987b1b177d8998671337c9c0607f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33d9987b1b177d8998671337c9c0607f> <https://colonialcollections.nl/schema#identifier> "RV-999-8" .
+<https://n2t.net/ark:/27023/33d9987b1b177d8998671337c9c0607f> <https://colonialcollections.nl/schema#description> "Voorstelling: amrtamanthana uit het Adiparwa" .
+<https://n2t.net/ark:/27023/33d9987b1b177d8998671337c9c0607f> <https://colonialcollections.nl/schema#material> "hout, sandelhout" .
+<https://n2t.net/ark:/27023/33d9987b1b177d8998671337c9c0607f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

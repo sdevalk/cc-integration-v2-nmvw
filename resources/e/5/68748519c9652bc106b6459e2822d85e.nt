@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/62ebb0108af8230f393e4a95f20730fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62ebb0108af8230f393e4a95f20730fc> <https://colonialcollections.nl/schema#identifier> "TM-1725-13" .
+<https://n2t.net/ark:/27023/62ebb0108af8230f393e4a95f20730fc> <https://colonialcollections.nl/schema#name> "AARDEWERKEN VUURTEST" .
+<https://n2t.net/ark:/27023/62ebb0108af8230f393e4a95f20730fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/62ebb0108af8230f393e4a95f20730fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .

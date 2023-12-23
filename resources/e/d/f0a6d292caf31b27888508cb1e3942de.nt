@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/62b18b67b64b30719cf61b0b00dcbcfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/62b18b67b64b30719cf61b0b00dcbcfb> <https://colonialcollections.nl/schema#identifier> "WM-11585" .
+<https://n2t.net/ark:/27023/62b18b67b64b30719cf61b0b00dcbcfb> <https://colonialcollections.nl/schema#description> "[ST] gat (5)" .
+<https://n2t.net/ark:/27023/62b18b67b64b30719cf61b0b00dcbcfb> <https://colonialcollections.nl/schema#material> "bamboe" .
+<https://n2t.net/ark:/27023/62b18b67b64b30719cf61b0b00dcbcfb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/62b18b67b64b30719cf61b0b00dcbcfb> <https://colonialcollections.nl/schema#inscription> "[T] UZV 516" .

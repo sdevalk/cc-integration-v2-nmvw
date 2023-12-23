@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/623c7e028eb6e3955993f723d3cec80a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/623c7e028eb6e3955993f723d3cec80a> <https://colonialcollections.nl/schema#identifier> "WM-9800" .
+<https://n2t.net/ark:/27023/623c7e028eb6e3955993f723d3cec80a> <https://colonialcollections.nl/schema#description> "Wordt gebruikt voor cassave." .
+<https://n2t.net/ark:/27023/623c7e028eb6e3955993f723d3cec80a> <https://colonialcollections.nl/schema#material> "hout, plantenblad" .
+<https://n2t.net/ark:/27023/623c7e028eb6e3955993f723d3cec80a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/623c7e028eb6e3955993f723d3cec80a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

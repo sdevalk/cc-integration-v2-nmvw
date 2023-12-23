@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/34e024d6fd99c0bb27a26e8cf04402f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/34e024d6fd99c0bb27a26e8cf04402f2> <https://colonialcollections.nl/schema#identifier> "TM-3981-25" .
+<https://n2t.net/ark:/27023/34e024d6fd99c0bb27a26e8cf04402f2> <https://colonialcollections.nl/schema#name> "POFFERTJES- OF WAFELPAN" .
+<https://n2t.net/ark:/27023/34e024d6fd99c0bb27a26e8cf04402f2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/34e024d6fd99c0bb27a26e8cf04402f2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .

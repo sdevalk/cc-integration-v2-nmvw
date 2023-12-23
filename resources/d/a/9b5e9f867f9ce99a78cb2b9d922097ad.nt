@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4d501b91762e2a7f53e465fbce81b1b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4d501b91762e2a7f53e465fbce81b1b4> <https://colonialcollections.nl/schema#identifier> "TM-5122-603b" .
+<https://n2t.net/ark:/27023/4d501b91762e2a7f53e465fbce81b1b4> <https://colonialcollections.nl/schema#name> "BEENBESCHERMERS (B) VAN (TUNIEK A) VAN VROUWENKOSTUUM" .
+<https://n2t.net/ark:/27023/4d501b91762e2a7f53e465fbce81b1b4> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Noord Thailand Lahu Sheh Leh bergstam" .
+<https://n2t.net/ark:/27023/4d501b91762e2a7f53e465fbce81b1b4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4d501b91762e2a7f53e465fbce81b1b4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/623f35d69d99d8dc5c0ff053d1bc34d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/623f35d69d99d8dc5c0ff053d1bc34d3> <https://colonialcollections.nl/schema#identifier> "WM-61443" .
+<https://n2t.net/ark:/27023/623f35d69d99d8dc5c0ff053d1bc34d3> <https://colonialcollections.nl/schema#description> "Set schrijfmaterialen, bestaande uit een schrijfplank, een pot, twee pennen en krijt (5 stukken)." .
+<https://n2t.net/ark:/27023/623f35d69d99d8dc5c0ff053d1bc34d3> <https://colonialcollections.nl/schema#material> "hout, bamboe" .
+<https://n2t.net/ark:/27023/623f35d69d99d8dc5c0ff053d1bc34d3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

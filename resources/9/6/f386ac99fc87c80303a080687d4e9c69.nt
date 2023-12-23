@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/6108339a1d6462f349248cda319c51b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6108339a1d6462f349248cda319c51b6> <https://colonialcollections.nl/schema#identifier> "RV-3600-3897" .
+<https://n2t.net/ark:/27023/6108339a1d6462f349248cda319c51b6> <https://colonialcollections.nl/schema#name> "Lans" .
+<https://n2t.net/ark:/27023/6108339a1d6462f349248cda319c51b6> <https://colonialcollections.nl/schema#material> "bamboe ; ijzer ; hout ; hars" .
+<https://n2t.net/ark:/27023/6108339a1d6462f349248cda319c51b6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

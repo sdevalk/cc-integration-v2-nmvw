@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4de109a81e5fde029ba0e7881e275778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4de109a81e5fde029ba0e7881e275778> <https://colonialcollections.nl/schema#identifier> "RV-1599-244" .
+<https://n2t.net/ark:/27023/4de109a81e5fde029ba0e7881e275778> <https://colonialcollections.nl/schema#name> "DOEK" .
+<https://n2t.net/ark:/27023/4de109a81e5fde029ba0e7881e275778> <https://colonialcollections.nl/schema#material> "zijde ; gouddraad" .
+<https://n2t.net/ark:/27023/4de109a81e5fde029ba0e7881e275778> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

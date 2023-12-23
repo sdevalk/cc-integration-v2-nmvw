@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3350f825e7a1576e0e8c78a35a1f4ea2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3350f825e7a1576e0e8c78a35a1f4ea2> <https://colonialcollections.nl/schema#identifier> "TM-A-3934a" .
+<https://n2t.net/ark:/27023/3350f825e7a1576e0e8c78a35a1f4ea2> <https://colonialcollections.nl/schema#name> "HOUTEN RIJSTSTAMPBLOK MET BIJBEHORENDE STAMPER" .
+<https://n2t.net/ark:/27023/3350f825e7a1576e0e8c78a35a1f4ea2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3350f825e7a1576e0e8c78a35a1f4ea2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

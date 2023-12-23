@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/346a8528da8ae8cef389fef0e4f954f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/346a8528da8ae8cef389fef0e4f954f3> <https://colonialcollections.nl/schema#identifier> "WM-14389" .
+<https://n2t.net/ark:/27023/346a8528da8ae8cef389fef0e4f954f3> <https://colonialcollections.nl/schema#description> "[ST] tand (3)\r\n[KL] bruin\r\n[DE] mensenhoofd (neus & hoofdbedekking & kam)" .
+<https://n2t.net/ark:/27023/346a8528da8ae8cef389fef0e4f954f3> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/346a8528da8ae8cef389fef0e4f954f3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

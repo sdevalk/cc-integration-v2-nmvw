@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/33bf1ec6554546f6c5f599c342f0fae6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33bf1ec6554546f6c5f599c342f0fae6> <https://colonialcollections.nl/schema#identifier> "RV-5660-27" .
+<https://n2t.net/ark:/27023/33bf1ec6554546f6c5f599c342f0fae6> <https://colonialcollections.nl/schema#name> "Rok" .
+<https://n2t.net/ark:/27023/33bf1ec6554546f6c5f599c342f0fae6> <https://colonialcollections.nl/schema#description> "Deze rok maakt deel uit van kleding voor vrouwen." .
+<https://n2t.net/ark:/27023/33bf1ec6554546f6c5f599c342f0fae6> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/33bf1ec6554546f6c5f599c342f0fae6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

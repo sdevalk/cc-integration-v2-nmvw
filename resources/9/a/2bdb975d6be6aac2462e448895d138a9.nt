@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3578591ab4b80b89018483106fb207b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3578591ab4b80b89018483106fb207b6> <https://colonialcollections.nl/schema#identifier> "RV-503-1" .
+<https://n2t.net/ark:/27023/3578591ab4b80b89018483106fb207b6> <https://colonialcollections.nl/schema#name> "CASTING NET" .
+<https://n2t.net/ark:/27023/3578591ab4b80b89018483106fb207b6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3578591ab4b80b89018483106fb207b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/4d219ee73ef13d955fb88d270ce20af5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4d219ee73ef13d955fb88d270ce20af5> <https://colonialcollections.nl/schema#identifier> "WM-9771" .
+<https://n2t.net/ark:/27023/4d219ee73ef13d955fb88d270ce20af5> <https://colonialcollections.nl/schema#material> "hout, metaal\r\nbeslagen, gebrand" .
+<https://n2t.net/ark:/27023/4d219ee73ef13d955fb88d270ce20af5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/4d219ee73ef13d955fb88d270ce20af5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

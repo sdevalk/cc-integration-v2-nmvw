@@ -1,0 +1,10 @@
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#identifier> "WM-431130" .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#name> "1290 - P'TITE MÈRE" .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#description> "Een moeder houdt haar kind vast op haar zij. Achtergrond; landschap." .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#material> "papier; ingekleurd" .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#creator> "Compagnie Alsacienne des Arts Photomécanique" .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3537a958deae23b2d6933fff3c180c3e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

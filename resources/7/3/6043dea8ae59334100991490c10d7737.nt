@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/61245797ea7c2ea8bfda720d4b77ceb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/61245797ea7c2ea8bfda720d4b77ceb3> <https://colonialcollections.nl/schema#identifier> "WM-901573" .
+<https://n2t.net/ark:/27023/61245797ea7c2ea8bfda720d4b77ceb3> <https://colonialcollections.nl/schema#material> "[MT] papier & karton\r\n[TK] ontwikkel gelatine zilverdruk" .
+<https://n2t.net/ark:/27023/61245797ea7c2ea8bfda720d4b77ceb3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/61245797ea7c2ea8bfda720d4b77ceb3> <https://colonialcollections.nl/schema#creator> "Hahndiek, H.J." .

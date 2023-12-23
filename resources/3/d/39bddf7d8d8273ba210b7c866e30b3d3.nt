@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <https://colonialcollections.nl/schema#identifier> "TM-3290-210" .
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <https://colonialcollections.nl/schema#name> "SIERHAARSPELD VAN HOORN" .
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <https://colonialcollections.nl/schema#description> "Javaanse vrouwen in Suriname gebruik(t)en dit voorwerp als sierspeld voor in het haar. De figuurtjes in de kop van de speld zijn uitgesneden." .
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/60fa89366e0e4ab8910add431a7bd13b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

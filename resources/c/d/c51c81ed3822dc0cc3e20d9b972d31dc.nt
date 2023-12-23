@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/501293cc543d37100fa11a3d49bb2255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/501293cc543d37100fa11a3d49bb2255> <https://colonialcollections.nl/schema#identifier> "RV-1-3222c" .
+<https://n2t.net/ark:/27023/501293cc543d37100fa11a3d49bb2255> <https://colonialcollections.nl/schema#name> "Schede" .
+<https://n2t.net/ark:/27023/501293cc543d37100fa11a3d49bb2255> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/501293cc543d37100fa11a3d49bb2255> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/35a7e3be86f983b0ea0b3c5775e75168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/35a7e3be86f983b0ea0b3c5775e75168> <https://colonialcollections.nl/schema#identifier> "RV-1905-266" .
+<https://n2t.net/ark:/27023/35a7e3be86f983b0ea0b3c5775e75168> <https://colonialcollections.nl/schema#name> "PALI-HANDSCHRIFT OP PALMBLAD" .
+<https://n2t.net/ark:/27023/35a7e3be86f983b0ea0b3c5775e75168> <https://colonialcollections.nl/schema#description> "Een handschrift van lontarbladeren met zes regels Pali-Birmaansch schrift, aan weerszijden." .
+<https://n2t.net/ark:/27023/35a7e3be86f983b0ea0b3c5775e75168> <https://colonialcollections.nl/schema#material> "palmblad (lontarpalm)" .
+<https://n2t.net/ark:/27023/35a7e3be86f983b0ea0b3c5775e75168> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/3445d4730a48e6d0bf9932414de0afff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/3445d4730a48e6d0bf9932414de0afff> <https://colonialcollections.nl/schema#identifier> "RV-1755-10" .
+<https://n2t.net/ark:/27023/3445d4730a48e6d0bf9932414de0afff> <https://colonialcollections.nl/schema#name> "Vaas" .
+<https://n2t.net/ark:/27023/3445d4730a48e6d0bf9932414de0afff> <https://colonialcollections.nl/schema#material> "aardewerk" .
+<https://n2t.net/ark:/27023/3445d4730a48e6d0bf9932414de0afff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

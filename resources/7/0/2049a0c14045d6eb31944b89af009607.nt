@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/32ea6a4e519d23ab0a580f83dc72c8ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32ea6a4e519d23ab0a580f83dc72c8ee> <https://colonialcollections.nl/schema#identifier> "RV-5578-11" .
+<https://n2t.net/ark:/27023/32ea6a4e519d23ab0a580f83dc72c8ee> <https://colonialcollections.nl/schema#name> "Halssieraad" .
+<https://n2t.net/ark:/27023/32ea6a4e519d23ab0a580f83dc72c8ee> <https://colonialcollections.nl/schema#material> "kraal" .
+<https://n2t.net/ark:/27023/32ea6a4e519d23ab0a580f83dc72c8ee> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

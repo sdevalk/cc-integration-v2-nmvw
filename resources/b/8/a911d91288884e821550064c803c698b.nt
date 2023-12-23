@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ffd10808daac2f229d5d4549cbd543cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ffd10808daac2f229d5d4549cbd543cc> <https://colonialcollections.nl/schema#identifier> "TM-2760-1b" .
+<https://n2t.net/ark:/27023/ffd10808daac2f229d5d4549cbd543cc> <https://colonialcollections.nl/schema#name> "DEKSEL VAN LEREN DOOS VOOR HET BEWAREN VAN VASTE REUKSTOFFEN" .
+<https://n2t.net/ark:/27023/ffd10808daac2f229d5d4549cbd543cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/ffd10808daac2f229d5d4549cbd543cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

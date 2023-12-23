@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/33025b2294df31b2262a3003c2a50ebd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33025b2294df31b2262a3003c2a50ebd> <https://colonialcollections.nl/schema#identifier> "WM-63178" .
+<https://n2t.net/ark:/27023/33025b2294df31b2262a3003c2a50ebd> <https://colonialcollections.nl/schema#description> "[ST] houder & pin" .
+<https://n2t.net/ark:/27023/33025b2294df31b2262a3003c2a50ebd> <https://colonialcollections.nl/schema#material> "bamboe, hout (pin), textiel" .
+<https://n2t.net/ark:/27023/33025b2294df31b2262a3003c2a50ebd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

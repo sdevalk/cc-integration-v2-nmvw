@@ -1,0 +1,7 @@
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <https://colonialcollections.nl/schema#identifier> "RV-1025-90" .
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <https://colonialcollections.nl/schema#name> "EEN TENTONDERDEEL, GEBRUIKT TIJDENS EEN THEATERVOORSTELLING" .
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <https://colonialcollections.nl/schema#description> "De tent is gebruikt tijdens een theatervoorstelling op de Wereldtentoonstelling te Antwerpen in 1894 getiteld 'Le drame d'Anthar. Le Fameux Héros Arabe.' Het stuk werd verdeeld over 3 aktes opgevoerd in het 'théatre Oriental au quartier Syrien.' Van de tent is alleen nog de houten pen over, waarschijnlijk diende deze om de tent vast te zetten. In de historische documentatie staat de tent omschreven als een 'Bedruzen tent' van 'kemelshaar'." .
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <https://colonialcollections.nl/schema#material> "Hout" .
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/33e1a929d66daf8500c48cb622bbba5d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .

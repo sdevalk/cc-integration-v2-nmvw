@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/35ac742b4894fbe1c48d52fb059f30db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/35ac742b4894fbe1c48d52fb059f30db> <https://colonialcollections.nl/schema#identifier> "RV-2452-651" .
+<https://n2t.net/ark:/27023/35ac742b4894fbe1c48d52fb059f30db> <https://colonialcollections.nl/schema#name> "Hangmat (model)" .
+<https://n2t.net/ark:/27023/35ac742b4894fbe1c48d52fb059f30db> <https://colonialcollections.nl/schema#material> "katoen" .
+<https://n2t.net/ark:/27023/35ac742b4894fbe1c48d52fb059f30db> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

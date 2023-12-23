@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4d4978c6ad21cc096522578f2432d3fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4d4978c6ad21cc096522578f2432d3fc> <https://colonialcollections.nl/schema#identifier> "RV-1-3436" .
+<https://n2t.net/ark:/27023/4d4978c6ad21cc096522578f2432d3fc> <https://colonialcollections.nl/schema#name> "Model van een vouwstoel" .
+<https://n2t.net/ark:/27023/4d4978c6ad21cc096522578f2432d3fc> <https://colonialcollections.nl/schema#description> "geheel inklapbaar" .
+<https://n2t.net/ark:/27023/4d4978c6ad21cc096522578f2432d3fc> <https://colonialcollections.nl/schema#material> "hoorn" .
+<https://n2t.net/ark:/27023/4d4978c6ad21cc096522578f2432d3fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

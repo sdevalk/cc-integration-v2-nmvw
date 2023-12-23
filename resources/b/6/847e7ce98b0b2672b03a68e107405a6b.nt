@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/ff86d56c5f9a1335c07d13656fa1a467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/ff86d56c5f9a1335c07d13656fa1a467> <https://colonialcollections.nl/schema#identifier> "RV-3288-3" .
+<https://n2t.net/ark:/27023/ff86d56c5f9a1335c07d13656fa1a467> <https://colonialcollections.nl/schema#name> "Deurpaneel" .
+<https://n2t.net/ark:/27023/ff86d56c5f9a1335c07d13656fa1a467> <https://colonialcollections.nl/schema#material> "hout" .
+<https://n2t.net/ark:/27023/ff86d56c5f9a1335c07d13656fa1a467> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

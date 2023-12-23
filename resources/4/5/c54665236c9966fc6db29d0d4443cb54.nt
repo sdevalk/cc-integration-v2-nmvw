@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/4f11ce0cc87ae62fd62d7d959d6af366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/4f11ce0cc87ae62fd62d7d959d6af366> <https://colonialcollections.nl/schema#identifier> "RV-B175-24" .
+<https://n2t.net/ark:/27023/4f11ce0cc87ae62fd62d7d959d6af366> <https://colonialcollections.nl/schema#name> "Grasschort" .
+<https://n2t.net/ark:/27023/4f11ce0cc87ae62fd62d7d959d6af366> <https://colonialcollections.nl/schema#description> "Grasschort met dunne band met daarvan afhangend de grasfranje." .
+<https://n2t.net/ark:/27023/4f11ce0cc87ae62fd62d7d959d6af366> <https://colonialcollections.nl/schema#material> "plantaardig, grasachtig" .
+<https://n2t.net/ark:/27023/4f11ce0cc87ae62fd62d7d959d6af366> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

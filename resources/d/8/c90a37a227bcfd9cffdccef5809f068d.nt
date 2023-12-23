@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/33095535aef4cf4c0df328036e83560c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33095535aef4cf4c0df328036e83560c> <https://colonialcollections.nl/schema#identifier> "WM-75164" .
+<https://n2t.net/ark:/27023/33095535aef4cf4c0df328036e83560c> <https://colonialcollections.nl/schema#description> "[KL] metaalkleurig & goud & zwart\r\n[DE] bloem- & plantmotief" .
+<https://n2t.net/ark:/27023/33095535aef4cf4c0df328036e83560c> <https://colonialcollections.nl/schema#material> "metaal\r\ngegraveerd (niello-techniek ?)" .
+<https://n2t.net/ark:/27023/33095535aef4cf4c0df328036e83560c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

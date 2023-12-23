@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/33b035b574313fab303bb638168ad075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/33b035b574313fab303bb638168ad075> <https://colonialcollections.nl/schema#identifier> "TM-3215-109" .
+<https://n2t.net/ark:/27023/33b035b574313fab303bb638168ad075> <https://colonialcollections.nl/schema#name> "RITUELE BEZEM WAARMEE EEN WINTI PRIESTER GEESTEN VERJAAGT" .
+<https://n2t.net/ark:/27023/33b035b574313fab303bb638168ad075> <https://colonialcollections.nl/schema#description> "Deze magische bezem wordt gebruikt door de obiaman, een veel geraadpleegde ritueel specialist in de winti-religie." .
+<https://n2t.net/ark:/27023/33b035b574313fab303bb638168ad075> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/33b035b574313fab303bb638168ad075> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

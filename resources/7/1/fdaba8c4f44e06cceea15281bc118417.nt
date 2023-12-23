@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/623d371b821f49c7c0fe0eb29893fafc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/623d371b821f49c7c0fe0eb29893fafc> <https://colonialcollections.nl/schema#identifier> "TM-A-1047" .
+<https://n2t.net/ark:/27023/623d371b821f49c7c0fe0eb29893fafc> <https://colonialcollections.nl/schema#name> "KOELKRUIK VAN GEBAKKEN AARDE" .
+<https://n2t.net/ark:/27023/623d371b821f49c7c0fe0eb29893fafc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/623d371b821f49c7c0fe0eb29893fafc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

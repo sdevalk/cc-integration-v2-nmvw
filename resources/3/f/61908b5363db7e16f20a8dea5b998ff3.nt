@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/336554add7befde13ef4b901699d4fb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/336554add7befde13ef4b901699d4fb4> <https://colonialcollections.nl/schema#identifier> "TM-3833-150b" .
+<https://n2t.net/ark:/27023/336554add7befde13ef4b901699d4fb4> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN SCHAAL, ONDERDEEL VAN EEN WEEGSCHAAL VAN DE TOUWSLAGER" .
+<https://n2t.net/ark:/27023/336554add7befde13ef4b901699d4fb4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/336554add7befde13ef4b901699d4fb4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .

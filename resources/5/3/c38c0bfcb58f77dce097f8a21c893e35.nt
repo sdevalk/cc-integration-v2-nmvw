@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/6352671123f775b8062b2ce8bf9af51a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/6352671123f775b8062b2ce8bf9af51a> <https://colonialcollections.nl/schema#identifier> "RV-2668-36" .
+<https://n2t.net/ark:/27023/6352671123f775b8062b2ce8bf9af51a> <https://colonialcollections.nl/schema#name> "Fles" .
+<https://n2t.net/ark:/27023/6352671123f775b8062b2ce8bf9af51a> <https://colonialcollections.nl/schema#material> "glas" .
+<https://n2t.net/ark:/27023/6352671123f775b8062b2ce8bf9af51a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/6352671123f775b8062b2ce8bf9af51a> <https://colonialcollections.nl/schema#creator> "J.J. (Jan Jacob) de Groot" .

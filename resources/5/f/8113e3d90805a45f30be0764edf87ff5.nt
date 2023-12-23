@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/341f5a80e29fab08b1426f9a0839a401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/341f5a80e29fab08b1426f9a0839a401> <https://colonialcollections.nl/schema#identifier> "TM-2118-84" .
+<https://n2t.net/ark:/27023/341f5a80e29fab08b1426f9a0839a401> <https://colonialcollections.nl/schema#name> "BAMBOE BOOG ZONDER PEES" .
+<https://n2t.net/ark:/27023/341f5a80e29fab08b1426f9a0839a401> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
+<https://n2t.net/ark:/27023/341f5a80e29fab08b1426f9a0839a401> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/342316ece1f4ce25eb6e07d541aa1499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/342316ece1f4ce25eb6e07d541aa1499> <https://colonialcollections.nl/schema#identifier> "RV-2602-84" .
+<https://n2t.net/ark:/27023/342316ece1f4ce25eb6e07d541aa1499> <https://colonialcollections.nl/schema#name> "KANAMONO" .
+<https://n2t.net/ark:/27023/342316ece1f4ce25eb6e07d541aa1499> <https://colonialcollections.nl/schema#description> "voorstelling: twee armendrukkers" .
+<https://n2t.net/ark:/27023/342316ece1f4ce25eb6e07d541aa1499> <https://colonialcollections.nl/schema#material> "metaal" .
+<https://n2t.net/ark:/27023/342316ece1f4ce25eb6e07d541aa1499> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

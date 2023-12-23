@@ -1,0 +1,6 @@
+<https://n2t.net/ark:/27023/63103697400e555b553c90ba4a21c681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/63103697400e555b553c90ba4a21c681> <https://colonialcollections.nl/schema#identifier> "AM-353-14" .
+<https://n2t.net/ark:/27023/63103697400e555b553c90ba4a21c681> <https://colonialcollections.nl/schema#name> "Scepter" .
+<https://n2t.net/ark:/27023/63103697400e555b553c90ba4a21c681> <https://colonialcollections.nl/schema#description> "Beschrijving\r\nLang, dun staafje in fallusvorm, vervaardigd uit olifantsbot, met donkerbruin patina." .
+<https://n2t.net/ark:/27023/63103697400e555b553c90ba4a21c681> <https://colonialcollections.nl/schema#material> "Olifantsbot" .
+<https://n2t.net/ark:/27023/63103697400e555b553c90ba4a21c681> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .

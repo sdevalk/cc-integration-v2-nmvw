@@ -1,0 +1,5 @@
+<https://n2t.net/ark:/27023/32dd52d352784eb3c0674e5b41f53672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
+<https://n2t.net/ark:/27023/32dd52d352784eb3c0674e5b41f53672> <https://colonialcollections.nl/schema#identifier> "RV-413-42" .
+<https://n2t.net/ark:/27023/32dd52d352784eb3c0674e5b41f53672> <https://colonialcollections.nl/schema#description> "Op inventariskaart niet veel informatie." .
+<https://n2t.net/ark:/27023/32dd52d352784eb3c0674e5b41f53672> <https://colonialcollections.nl/schema#material> "schellak ; pijplak" .
+<https://n2t.net/ark:/27023/32dd52d352784eb3c0674e5b41f53672> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
