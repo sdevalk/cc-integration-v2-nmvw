@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#inscription> "Eyadema Agbe Wezu Alafia, 1967-1987 20 ans de paix" .
 <https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#locationCreated> "Togo" .
+<https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#alternateName> "Republic of Togo" .
+<https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#alternateName> "Togolese Republic"@en .
+<https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#alternateName> "French Togoland" .
+<https://n2t.net/ark:/27023/0adfa1b9f9a14c93139c41794cdaf710> <https://colonialcollections.nl/schema#countryCreated> "Togo" .

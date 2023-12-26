@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#locationCreated> "Central Kalimantan" .
-<https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Kalimantan Tengah" .
-<https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#alternateName> "Propinsi Kalimantan Tengah" .
-<https://n2t.net/ark:/27023/180bb696d6a7a325d23a81fc69a4ceee> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

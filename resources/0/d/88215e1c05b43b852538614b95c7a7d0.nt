@@ -6,18 +6,3 @@
 <https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#locationCreated> "Aleutian Islands" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Aleutskie Ostrova" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Catherine Archipelago" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Aleutskii Arkhipelag" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Iles Aleoutiennes" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Las Aleutianas" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Aleotskia Isles" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Aleoutiennes" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Aleutian Archipelago" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Aleutian Isles" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Katerina Archipelago" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Billy Mitchell Islands" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Catherine's Archipelago" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Ugaassat" .
-<https://n2t.net/ark:/27023/04124f9ab718450de705c7e094025d23> <https://colonialcollections.nl/schema#alternateName> "Catherina Archipelago" .

@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/00f3ea6e0a05a2e975367f67e96ee9fe> <https://colonialcollections.nl/schema#creator> "Shunkôsai Hokushû" .
 <https://n2t.net/ark:/27023/00f3ea6e0a05a2e975367f67e96ee9fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/00f3ea6e0a05a2e975367f67e96ee9fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/00f3ea6e0a05a2e975367f67e96ee9fe> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/00f3ea6e0a05a2e975367f67e96ee9fe> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/00f3ea6e0a05a2e975367f67e96ee9fe> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

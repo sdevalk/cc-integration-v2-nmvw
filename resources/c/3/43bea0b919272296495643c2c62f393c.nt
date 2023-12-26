@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/17c60a19e6e476317d0a9fa7dae50e8a> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/17c60a19e6e476317d0a9fa7dae50e8a> <https://colonialcollections.nl/schema#yearCreatedStart> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/17c60a19e6e476317d0a9fa7dae50e8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/17c60a19e6e476317d0a9fa7dae50e8a> <https://colonialcollections.nl/schema#locationCreated> "South America" .

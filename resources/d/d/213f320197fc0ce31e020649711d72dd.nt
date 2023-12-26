@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/083568333054c36e00b7b06dbfeb4d6c> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/083568333054c36e00b7b06dbfeb4d6c> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/083568333054c36e00b7b06dbfeb4d6c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/083568333054c36e00b7b06dbfeb4d6c> <https://colonialcollections.nl/schema#locationCreated> "Tlaquepaque" .
-<https://n2t.net/ark:/27023/083568333054c36e00b7b06dbfeb4d6c> <https://colonialcollections.nl/schema#alternateName> "Tlaquepaque"@en .
-<https://n2t.net/ark:/27023/083568333054c36e00b7b06dbfeb4d6c> <https://colonialcollections.nl/schema#alternateName> "Tlaquepaque" .

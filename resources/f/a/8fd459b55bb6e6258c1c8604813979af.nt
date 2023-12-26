@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#creator> "Ada Eyetoak" .
 <https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/098a09f343e6041d85b5cdb6e02eda84> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

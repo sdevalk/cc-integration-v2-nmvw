@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/0068f9178ebb81ea32ddbc0c8a8b7ba5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0068f9178ebb81ea32ddbc0c8a8b7ba5> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0068f9178ebb81ea32ddbc0c8a8b7ba5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0068f9178ebb81ea32ddbc0c8a8b7ba5> <https://colonialcollections.nl/schema#locationCreated> "Negara" .
+<https://n2t.net/ark:/27023/0068f9178ebb81ea32ddbc0c8a8b7ba5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#material> "geklopte boombast (papiermoerbeiboom) ; kleurstof" .
 <https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#locationCreated> "Tonga" .
+<https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Tonga" .
+<https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#alternateName> "Tonga" .
+<https://n2t.net/ark:/27023/0355a0dd43de438b260b8eaccdad57fb> <https://colonialcollections.nl/schema#countryCreated> "Tonga" .

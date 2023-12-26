@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op achterzijde karton" .
 <https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#locationCreated> "Tlemcen" .
+<https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#alternateName> "Tlemcen"@en .
+<https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#alternateName> "Tlemsen" .
+<https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#alternateName> "Tlemcen" .
+<https://n2t.net/ark:/27023/08d30e20d6e4446ea16db7d168647a48> <https://colonialcollections.nl/schema#countryCreated> "Algeria" .

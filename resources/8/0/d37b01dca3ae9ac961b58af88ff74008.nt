@@ -4,3 +4,6 @@
 <https://n2t.net/ark:/27023/02973a80dab73270f4a462f5477b046e> <https://colonialcollections.nl/schema#material> "aardewerk" .
 <https://n2t.net/ark:/27023/02973a80dab73270f4a462f5477b046e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/02973a80dab73270f4a462f5477b046e> <https://colonialcollections.nl/schema#yearCreatedEnd> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/02973a80dab73270f4a462f5477b046e> <https://colonialcollections.nl/schema#locationCreated> "Costa Rica" .
+<https://n2t.net/ark:/27023/02973a80dab73270f4a462f5477b046e> <https://colonialcollections.nl/schema#alternateName> "Republic of Costa Rica"@en .
+<https://n2t.net/ark:/27023/02973a80dab73270f4a462f5477b046e> <https://colonialcollections.nl/schema#countryCreated> "Costa Rica" .

@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/101dae018293f5b1eff0643d021aed9b> <https://colonialcollections.nl/schema#creator> "Southwest Post Card Compagny" .
 <https://n2t.net/ark:/27023/101dae018293f5b1eff0643d021aed9b> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/101dae018293f5b1eff0643d021aed9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/101dae018293f5b1eff0643d021aed9b> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/101dae018293f5b1eff0643d021aed9b> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/101dae018293f5b1eff0643d021aed9b> <https://colonialcollections.nl/schema#countryCreated> "United States" .

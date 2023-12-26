@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/006b115fac21cb80483c3ea5317be133> <https://colonialcollections.nl/schema#countryCreated> "India" .

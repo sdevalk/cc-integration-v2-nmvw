@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/082b540c6d832c1f2d3e2b8dfc69787c> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/082b540c6d832c1f2d3e2b8dfc69787c> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/082b540c6d832c1f2d3e2b8dfc69787c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/082b540c6d832c1f2d3e2b8dfc69787c> <https://colonialcollections.nl/schema#locationCreated> "Acapetlahuaya" .
-<https://n2t.net/ark:/27023/082b540c6d832c1f2d3e2b8dfc69787c> <https://colonialcollections.nl/schema#alternateName> "Acapetlahuaya" .

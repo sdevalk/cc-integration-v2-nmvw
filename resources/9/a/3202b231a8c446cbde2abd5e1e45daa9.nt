@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#inscription> "[T] B 72 212\r\n[T] Br 45" .
 <https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#locationCreated> "Kota Payakumbuh" .
-<https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Pajakumbuh" .
-<https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Pajakumbuh" .
-<https://n2t.net/ark:/27023/12d71726bdc7e75d59a5c5cc28a97f8e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -7,14 +7,29 @@
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#locationCreated> "Russia" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#locationCreated> "Afghanistan" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic" .
-<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Jomhūrī-ye Demowkrātīk-e Afghānestān" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic"@en .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Jomhūrī-ye Afghānestān" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Rossiya" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Doulat i Jumhouri ye Afghanistan" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Jomhūrī-ye Eslāmī-ye Afghānestān" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Republic of Afghanistan" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Afghanistan"@en .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Islamic State of Afghanistan" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Democratic Republic of Afghanistan" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Afghānestān" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Federation"@en .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Federatsiya" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Dowlat-e Pādshāhī-ye Afghānestān" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federated Socialist Republic" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic"@en .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Dowlat-e Eslāmī-ye Afghānestān" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Da Afghānestān Shāhī Dowlat" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Afghanistan" .
 <https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#countryCreated> "Russia" .
+<https://n2t.net/ark:/27023/08724fc1ba4f4db541fb22e9f7f0dceb> <https://colonialcollections.nl/schema#countryCreated> "Afghanistan" .

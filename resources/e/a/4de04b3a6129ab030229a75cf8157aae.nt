@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#inscription> "De tekst op de inktstaaf is Chinees, en vertelt dat inkt een van de vier schatten van de schrijftafel is; dat deze inkt in de mist in een dal is gemaakt door een geleerde man, die daarvoor onder andere pijnboomas en warm water gebruikte. Degene die deze inkt gebruikt zal een geletterd mens zijn. Aan het einde van de tekst staat de naam van de maker vermeld: Getsudo (zz)." .
 <https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/100a41d00748c7747501b889761122a1> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

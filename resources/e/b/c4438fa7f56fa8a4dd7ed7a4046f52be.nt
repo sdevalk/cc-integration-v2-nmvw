@@ -9,3 +9,6 @@
 <https://n2t.net/ark:/27023/12db4eeb1956f8d2741b3452515cc991> <https://colonialcollections.nl/schema#inscription> "m.o.: 1912 WARBIRD" .
 <https://n2t.net/ark:/27023/12db4eeb1956f8d2741b3452515cc991> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/12db4eeb1956f8d2741b3452515cc991> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/12db4eeb1956f8d2741b3452515cc991> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/12db4eeb1956f8d2741b3452515cc991> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/12db4eeb1956f8d2741b3452515cc991> <https://colonialcollections.nl/schema#countryCreated> "United States" .

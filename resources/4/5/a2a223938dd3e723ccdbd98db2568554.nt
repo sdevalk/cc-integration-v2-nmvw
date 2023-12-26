@@ -6,3 +6,4 @@
 <https://n2t.net/ark:/27023/01a3c9f879efc240e3274661ea0b698a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/01a3c9f879efc240e3274661ea0b698a> <https://colonialcollections.nl/schema#yearCreatedStart> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/01a3c9f879efc240e3274661ea0b698a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/01a3c9f879efc240e3274661ea0b698a> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

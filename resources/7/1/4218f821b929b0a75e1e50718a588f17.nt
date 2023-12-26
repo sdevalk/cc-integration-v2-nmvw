@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#inscription> "Puri Taman Sabe" .
 <https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/103000bc23eb42934a771c1b8f49822e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

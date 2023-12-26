@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/138465170e8e3e88cc86c2f4d12e553b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

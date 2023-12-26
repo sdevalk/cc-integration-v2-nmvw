@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/10e75d67e7de4ffc5bd380d93d4e3610> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/10e75d67e7de4ffc5bd380d93d4e3610> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/10e75d67e7de4ffc5bd380d93d4e3610> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/10e75d67e7de4ffc5bd380d93d4e3610> <https://colonialcollections.nl/schema#locationCreated> "South Dakota" .
-<https://n2t.net/ark:/27023/10e75d67e7de4ffc5bd380d93d4e3610> <https://colonialcollections.nl/schema#alternateName> "State of South Dakota"@en .
-<https://n2t.net/ark:/27023/10e75d67e7de4ffc5bd380d93d4e3610> <https://colonialcollections.nl/schema#alternateName> "Coyote State"@en .

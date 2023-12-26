@@ -8,3 +8,5 @@
 <https://n2t.net/ark:/27023/006f5afeffa01743d0500f64055fcf0c> <https://colonialcollections.nl/schema#inscription> "correspondentie; achterzijde; geschreven" .
 <https://n2t.net/ark:/27023/006f5afeffa01743d0500f64055fcf0c> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/006f5afeffa01743d0500f64055fcf0c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/006f5afeffa01743d0500f64055fcf0c> <https://colonialcollections.nl/schema#locationCreated> "Tomohon" .
+<https://n2t.net/ark:/27023/006f5afeffa01743d0500f64055fcf0c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

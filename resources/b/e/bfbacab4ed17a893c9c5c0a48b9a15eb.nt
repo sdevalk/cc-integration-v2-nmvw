@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#inscription> "B 72 406 &\r\nBr 1" .
 <https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#yearCreatedStart> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#yearCreatedEnd> "999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Karanganyar" .
+<https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Karanganjar" .
+<https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Karanganjar" .
+<https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Karanganyar" .
+<https://n2t.net/ark:/27023/112f481921d4b424e9bb4b5c2d1168f4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

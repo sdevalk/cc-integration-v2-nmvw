@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#creator> "Clara Keezer" .
 <https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#locationCreated> "Maine" .
+<https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#alternateName> "State of Maine"@en .
+<https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#alternateName> "Pine Tree State"@en .
+<https://n2t.net/ark:/27023/01322ef76b23c90dfb4d8a2ebddef6df> <https://colonialcollections.nl/schema#countryCreated> "United States" .

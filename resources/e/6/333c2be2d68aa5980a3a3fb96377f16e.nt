@@ -6,3 +6,16 @@
 <https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#inscription> "Miaka 10 ya uhuru\r\n1961 - 1971" .
 <https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#locationCreated> "Tanzania" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Tanzanie" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Tansania" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Tanzania" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanzania" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanganyika and Zanzibar" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .
+<https://n2t.net/ark:/27023/09f284be9d33eb21379bbe9cb1be8c6f> <https://colonialcollections.nl/schema#countryCreated> "Tanzania" .

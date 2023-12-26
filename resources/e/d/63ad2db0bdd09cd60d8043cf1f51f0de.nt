@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#material> "katoen ; brokaat" .
 <https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#locationCreated> "San José Nacahuil" .
-<https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#alternateName> "Nacahuil" .
-<https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#alternateName> "San José Nacahuil" .
-<https://n2t.net/ark:/27023/1177931634fb0cbb292685ac1ba76ffe> <https://colonialcollections.nl/schema#alternateName> "San José Nacagüil" .

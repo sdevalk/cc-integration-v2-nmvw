@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#creator> "Kagaya Yasubei" .
 <https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#yearCreatedStart> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/0b3d170ccda1c2cf0b0a42eb36ba4c5a> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

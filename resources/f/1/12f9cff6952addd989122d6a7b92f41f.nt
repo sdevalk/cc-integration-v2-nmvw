@@ -6,5 +6,6 @@
 <https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#creator> "R.K. schoolboekhandel A.C.P. Nabbe" .
 <https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#locationCreated> "Caribbean" .
-<https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#alternateName> "Caribbean"@en .
+<https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/08e364936858eeeb60419e25440dde26> <https://colonialcollections.nl/schema#countryCreated> "United States" .

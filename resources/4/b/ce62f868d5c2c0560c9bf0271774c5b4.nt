@@ -5,3 +5,10 @@
 <https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#yearCreatedStart> "1620"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#locationCreated> "Ōtsu" .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#alternateName> "Ōtsushi" .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#alternateName> "Ōtsu-shi" .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#alternateName> "Ōtu" .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#alternateName> "Ōtsu"@en .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#alternateName> "Ōtsu" .
+<https://n2t.net/ark:/27023/0a9138ce80d745d2c2516eb6802850cd> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

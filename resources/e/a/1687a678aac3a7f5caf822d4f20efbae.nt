@@ -8,3 +8,5 @@
 <https://n2t.net/ark:/27023/09c664e4d853476eefbfb3319083ea06> <https://colonialcollections.nl/schema#inscription> "titel geschreven op albumblad" .
 <https://n2t.net/ark:/27023/09c664e4d853476eefbfb3319083ea06> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/09c664e4d853476eefbfb3319083ea06> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/09c664e4d853476eefbfb3319083ea06> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Kubutambahan" .
+<https://n2t.net/ark:/27023/09c664e4d853476eefbfb3319083ea06> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

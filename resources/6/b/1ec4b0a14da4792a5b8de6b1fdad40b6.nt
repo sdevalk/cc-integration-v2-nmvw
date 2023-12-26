@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#material> "blad (lontar) ; papier ; metaal" .
 <https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/1187a71f2fa8d05401aa89495e1d4170> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

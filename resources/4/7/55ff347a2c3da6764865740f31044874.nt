@@ -7,10 +7,3 @@
 <https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#inscription> "窮 (poor, destitute)" .
 <https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
-<https://n2t.net/ark:/27023/09b04f3e2e0178d6db9e5e6455728a88> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .

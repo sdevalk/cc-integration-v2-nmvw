@@ -3,5 +3,3 @@
 <https://n2t.net/ark:/27023/118e185f9b2c08cb2865cabc3c115587> <https://colonialcollections.nl/schema#name> "KOPEREN MAATKOM VOOR HET AFMETEN VAN HOEVEELHEDEN" .
 <https://n2t.net/ark:/27023/118e185f9b2c08cb2865cabc3c115587> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/118e185f9b2c08cb2865cabc3c115587> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/118e185f9b2c08cb2865cabc3c115587> <https://colonialcollections.nl/schema#locationCreated> "Bihar" .
-<https://n2t.net/ark:/27023/118e185f9b2c08cb2865cabc3c115587> <https://colonialcollections.nl/schema#alternateName> "Bihar"@en .

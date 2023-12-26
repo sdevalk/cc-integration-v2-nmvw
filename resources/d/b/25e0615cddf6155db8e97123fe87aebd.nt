@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/02fec056511287329308d99a7b0b323a> <https://colonialcollections.nl/schema#creator> "Christobel Daima" .
 <https://n2t.net/ark:/27023/02fec056511287329308d99a7b0b323a> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/02fec056511287329308d99a7b0b323a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/02fec056511287329308d99a7b0b323a> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/02fec056511287329308d99a7b0b323a> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

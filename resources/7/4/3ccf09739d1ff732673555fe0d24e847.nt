@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#creator> "E. (Elijas) Kimambo" .
 <https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#creator> "Ntega" .
 <https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#locationCreated> "Tanzania" .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#alternateName> "Tanzania" .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanganyika and Zanzibar" .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanzania" .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#alternateName> "Tanzanie" .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#alternateName> "Tansania" .
+<https://n2t.net/ark:/27023/10db21e12e08648ed54709fe8e50a50e> <https://colonialcollections.nl/schema#countryCreated> "Tanzania" .

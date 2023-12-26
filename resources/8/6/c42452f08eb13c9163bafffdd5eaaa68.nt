@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#material> "wol, triplex, bijenwas" .
 <https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#locationCreated> "Nayarit" .
-<https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#alternateName> "Nayarit"@en .
-<https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#alternateName> "Estado de Nayarit" .
-<https://n2t.net/ark:/27023/117e76779c477a594e654e3a9a827ff2> <https://colonialcollections.nl/schema#alternateName> "Tepic" .

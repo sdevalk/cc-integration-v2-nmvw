@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/17b7a3da13a080601cdf1b299dc63d3c> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/17b7a3da13a080601cdf1b299dc63d3c> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/17b7a3da13a080601cdf1b299dc63d3c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/17b7a3da13a080601cdf1b299dc63d3c> <https://colonialcollections.nl/schema#locationCreated> "Western Africa" .

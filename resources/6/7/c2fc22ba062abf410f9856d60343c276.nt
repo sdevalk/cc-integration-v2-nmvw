@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#locationCreated> "Departamento del Vaupés" .
+<https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#alternateName> "Comisaría del Vaupés" .
+<https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#alternateName> "Departamento del Vaupés" .
+<https://n2t.net/ark:/27023/0231f8736a3e6ac223109c6622652272> <https://colonialcollections.nl/schema#countryCreated> "Colombia" .

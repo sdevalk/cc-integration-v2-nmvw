@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#inscription> "Bovenzijde: Apach India Hair Cut" .
 <https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/095e30f654e0314730cab2a776f7395d> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

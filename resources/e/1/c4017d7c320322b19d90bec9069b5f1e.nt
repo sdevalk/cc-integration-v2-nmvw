@@ -6,3 +6,11 @@
 <https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#locationCreated> "Saint Michael" .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#alternateName> "Taciq" .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#alternateName> "St. Michael"@en .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#alternateName> "Michaelovski" .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#alternateName> "Saint Michael"@en .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#alternateName> "Redoubt Saint Michael" .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#alternateName> "Saint Michaels" .
+<https://n2t.net/ark:/27023/0adcfb624bacafe17ca19d39eed12f80> <https://colonialcollections.nl/schema#countryCreated> "United States" .

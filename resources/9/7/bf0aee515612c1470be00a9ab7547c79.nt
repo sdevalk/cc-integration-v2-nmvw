@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#locationCreated> "Pemalang Regency" .
+<https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#alternateName> "Pemalang" .
+<https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Pemalang" .
+<https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#alternateName> "Pemalang Regency"@en .
+<https://n2t.net/ark:/27023/1164cc4e0568c1d9b838900ca9c6e669> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

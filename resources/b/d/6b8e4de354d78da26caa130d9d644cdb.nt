@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#creator> "I. Dewa Gedé Tjoekit" .
 <https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/0ba4588fa6020019972417c64f0d6b59> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

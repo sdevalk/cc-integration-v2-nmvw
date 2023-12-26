@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
 <https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#locationCreated> "Colombo" .
-<https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#alternateName> "Columbo" .
-<https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#alternateName> "Colombo"@en .
-<https://n2t.net/ark:/27023/17ebd3e90eb8edcb680b734bfec1149e> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

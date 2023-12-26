@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#creator> "Ohannes Kurkdjian" .
 <https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#locationCreated> "Gunung Tangkubanperahu" .
+<https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#alternateName> "Gunung Tangkubanparahu" .
+<https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#alternateName> "Gunung Tangkubanprahu" .
+<https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#alternateName> "Goenoeng Tangkoebanprahoe" .
+<https://n2t.net/ark:/27023/0af407fe1eb5210e284367e51dfd7e01> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -7,9 +7,3 @@
 <https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#inscription> "titel en nummer geschreven in negatief" .
 <https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#locationCreated> "Dandarah" .
-<https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#alternateName> "Tentyra" .
-<https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#alternateName> "Dandara" .
-<https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#alternateName> "Denderah" .
-<https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#alternateName> "Dendereh" .
-<https://n2t.net/ark:/27023/02d1fdde561222c3625b5bf7eba06576> <https://colonialcollections.nl/schema#alternateName> "Dandarah" .

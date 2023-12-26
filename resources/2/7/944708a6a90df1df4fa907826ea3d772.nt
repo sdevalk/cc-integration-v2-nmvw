@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#inscription> "€ 10/-" .
 <https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/03b50ed2996cb36af4254daf2a701e96> <https://colonialcollections.nl/schema#countryCreated> "India" .

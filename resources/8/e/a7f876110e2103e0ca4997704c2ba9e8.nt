@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#creator> "Panigpak Kissuk" .
 <https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#locationCreated> "North Greenland" .
-<https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#alternateName> "North Greenland"@en .
-<https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#alternateName> "Avanersuaq" .
-<https://n2t.net/ark:/27023/09dbf85638822bc19a82bbfba04e8b2e> <https://colonialcollections.nl/schema#alternateName> "Avannaa" .

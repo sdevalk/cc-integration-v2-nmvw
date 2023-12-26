@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#locationCreated> "Somerset East" .
+<https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#alternateName> "Somerset East" .
+<https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#alternateName> "Somerset-Oos" .
+<https://n2t.net/ark:/27023/116efa84c2fc42d849318408f0467a50> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/02d6388fe252998c27fbd5fa13d2bc41> <https://colonialcollections.nl/schema#creator> "Jill Javisea" .
 <https://n2t.net/ark:/27023/02d6388fe252998c27fbd5fa13d2bc41> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/02d6388fe252998c27fbd5fa13d2bc41> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/02d6388fe252998c27fbd5fa13d2bc41> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/02d6388fe252998c27fbd5fa13d2bc41> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

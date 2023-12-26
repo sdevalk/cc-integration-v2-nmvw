@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#inscription> "titel met inkt op achterzijde karton geschreven [handschrift Ten Kate]" .
 <https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#locationCreated> "Santísima Trinidad" .
+<https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#alternateName> "Santísima Trinidad" .
+<https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#alternateName> "Trinidad" .
+<https://n2t.net/ark:/27023/10b71fb52e7843335881bdc94bbe674d> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

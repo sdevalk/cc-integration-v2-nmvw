@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#creator> "Sunqua" .
 <https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#yearCreatedStart> "1839"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#yearCreatedEnd> "1839"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#locationCreated> "Peru" .
+<https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#alternateName> "Republic of Peru"@en .
+<https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#alternateName> "El Perú" .
+<https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#alternateName> "República del Perú" .
+<https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#alternateName> "Pérou" .
+<https://n2t.net/ark:/27023/11c070afde25ea89096195bac31ef587> <https://colonialcollections.nl/schema#countryCreated> "Peru" .

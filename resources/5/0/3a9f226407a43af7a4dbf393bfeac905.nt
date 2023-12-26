@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/132f6873090d974497615f3b1ab72c2e> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/132f6873090d974497615f3b1ab72c2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/132f6873090d974497615f3b1ab72c2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/132f6873090d974497615f3b1ab72c2e> <https://colonialcollections.nl/schema#locationCreated> "Kota Bukittinggi" .
-<https://n2t.net/ark:/27023/132f6873090d974497615f3b1ab72c2e> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Bukittinggi" .
-<https://n2t.net/ark:/27023/132f6873090d974497615f3b1ab72c2e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

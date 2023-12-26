@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/129f6611918be1576f2d630dcac1cacd> <https://colonialcollections.nl/schema#creator> "Teodora Blanco" .
 <https://n2t.net/ark:/27023/129f6611918be1576f2d630dcac1cacd> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/129f6611918be1576f2d630dcac1cacd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/129f6611918be1576f2d630dcac1cacd> <https://colonialcollections.nl/schema#locationCreated> "Santa María Atzompa" .
-<https://n2t.net/ark:/27023/129f6611918be1576f2d630dcac1cacd> <https://colonialcollections.nl/schema#alternateName> "Santa María Azompa" .
-<https://n2t.net/ark:/27023/129f6611918be1576f2d630dcac1cacd> <https://colonialcollections.nl/schema#alternateName> "Azompa" .

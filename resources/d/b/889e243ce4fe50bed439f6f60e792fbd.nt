@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/08805726dae860a889ed83e6b9179647> <https://colonialcollections.nl/schema#inscription> "Censuurzegel: 'kiwame' plus het zegel van de censor Tsumuraya Saburobei, werkzaam in 1812." .
 <https://n2t.net/ark:/27023/08805726dae860a889ed83e6b9179647> <https://colonialcollections.nl/schema#yearCreatedStart> "1812"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/08805726dae860a889ed83e6b9179647> <https://colonialcollections.nl/schema#yearCreatedEnd> "1812"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/08805726dae860a889ed83e6b9179647> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/08805726dae860a889ed83e6b9179647> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
-<https://n2t.net/ark:/27023/08805726dae860a889ed83e6b9179647> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .

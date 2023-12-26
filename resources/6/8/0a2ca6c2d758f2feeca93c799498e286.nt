@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#name> "HOUTEN BEELD VOORSTELLENDE EEN GEKNIELDE BOOGSCHUTTER, VERMOEDELIJK ARJUNA" .
 <https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/04262cf794b99e88cf3019e6b6e56b46> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

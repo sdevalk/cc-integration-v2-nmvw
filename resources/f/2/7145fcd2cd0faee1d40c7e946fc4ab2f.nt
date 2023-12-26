@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#inscription> "Aan de ene kant van de centrale houder staat een inscriptie in Latijns schrift: L. Banu Mal. Aan de andere kant van de centrale houder staat een inscriptie in Devanagari schrift: Bhānu Mala. Dit lijkt een naam te zijn die waarschijnlijk verwijst naar de zender of bezitter van de sprenkelaar." .
 <https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#locationCreated> "Lucknow" .
+<https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#alternateName> "Lakhnau" .
+<https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#alternateName> "Lucknow" .
+<https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#alternateName> "Lucknow"@en .
+<https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#alternateName> "Lucknow City" .
+<https://n2t.net/ark:/27023/1170973179a029d3d88d2dfd65e41b45> <https://colonialcollections.nl/schema#countryCreated> "India" .

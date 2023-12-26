@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#creator> "King's & Queen's" .
 <https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/02f3e3c8d7b9435182fd01057c02410e> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .
