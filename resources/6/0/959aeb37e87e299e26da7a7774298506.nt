@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#creator> "Curt Teich Compagny" .
 <https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#yearCreatedStart> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#locationCreated> "Florida" .
+<https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#alternateName> "State of Florida"@en .
+<https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#alternateName> "Sunshine State"@en .
+<https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#alternateName> "Tegesta" .
+<https://n2t.net/ark:/27023/ff27df968533d83989371fd2dbca676e> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#creator> "Isidore van Kinsbergen" .
 <https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#yearCreatedStart> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#locationCreated> "Banjarnegara Regency" .
+<https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#alternateName> "Banjarnegara Regency"@en .
+<https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#alternateName> "Banjarnegara" .
+<https://n2t.net/ark:/27023/4d7b3ff2a105e88381786e722b268070> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

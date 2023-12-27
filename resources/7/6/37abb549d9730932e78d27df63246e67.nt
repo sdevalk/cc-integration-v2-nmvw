@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#inscription> "Achterzijde drager: \r\ntekst \"Poera Batoe Karoe Oeboed - Zuid-Bali\"\r\nW.G. Hofker\r\nZomerdijkstraat 30²\r\nA'dam-Z.\r\n\r\n(Twentsch Bank)\r\nv. Baerlestr. \r\nA'dam-Z.\r\n\r\nAchterzijde afbeelding: W.G. Hofker\r\n                                     AMSTERDAM-BALI\r\n\r\nVoorzijde afbeelding:\r\ntekst rechtsonder: Poera Batoe Karoe" .
 <https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/3228d42920c0430aebf5a86fd2d648fe> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

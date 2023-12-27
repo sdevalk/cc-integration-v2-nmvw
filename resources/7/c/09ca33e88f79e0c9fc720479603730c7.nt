@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/61f868637d4296900c2c639c0312c9f6> <https://colonialcollections.nl/schema#creator> "Hughes, C.W." .
 <https://n2t.net/ark:/27023/61f868637d4296900c2c639c0312c9f6> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/61f868637d4296900c2c639c0312c9f6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/61f868637d4296900c2c639c0312c9f6> <https://colonialcollections.nl/schema#locationCreated> "North America" .

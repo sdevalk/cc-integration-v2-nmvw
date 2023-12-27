@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#inscription> "'Bali 17 Aug.-24 Aug. 1922 17 Sept.-2 Oct.' geschreven op albumblad" .
 <https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/4d0c03fe211faed4d470630d07509f5c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

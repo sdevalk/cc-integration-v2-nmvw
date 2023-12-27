@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/603fb2b2adba2328a9cef1306f95489c> <https://colonialcollections.nl/schema#creator> "L.A. (Lucy Anneke) Schouten" .
 <https://n2t.net/ark:/27023/603fb2b2adba2328a9cef1306f95489c> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/603fb2b2adba2328a9cef1306f95489c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/603fb2b2adba2328a9cef1306f95489c> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/603fb2b2adba2328a9cef1306f95489c> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/603fb2b2adba2328a9cef1306f95489c> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/34b1e4aad6529fa66cb88ac47c5b00c6> <https://colonialcollections.nl/schema#creator> "J.W.C. Brennan" .
 <https://n2t.net/ark:/27023/34b1e4aad6529fa66cb88ac47c5b00c6> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/34b1e4aad6529fa66cb88ac47c5b00c6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/34b1e4aad6529fa66cb88ac47c5b00c6> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/34b1e4aad6529fa66cb88ac47c5b00c6> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/34b1e4aad6529fa66cb88ac47c5b00c6> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

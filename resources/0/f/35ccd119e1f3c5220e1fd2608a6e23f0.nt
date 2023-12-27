@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/619a5d3f9496934b57fca06cdea83b16> <https://colonialcollections.nl/schema#inscription> "titel met inkt onder foto geschreven" .
 <https://n2t.net/ark:/27023/619a5d3f9496934b57fca06cdea83b16> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/619a5d3f9496934b57fca06cdea83b16> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/619a5d3f9496934b57fca06cdea83b16> <https://colonialcollections.nl/schema#locationCreated> "Ngadiwono" .
+<https://n2t.net/ark:/27023/619a5d3f9496934b57fca06cdea83b16> <https://colonialcollections.nl/schema#alternateName> "Ngadiwano" .
+<https://n2t.net/ark:/27023/619a5d3f9496934b57fca06cdea83b16> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

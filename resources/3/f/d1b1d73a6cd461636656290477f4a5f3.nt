@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#creator> "N. (Nyurapayia) Nampitjinpa" .
 <https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/338c52b4000101487db76ed6878d602c> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

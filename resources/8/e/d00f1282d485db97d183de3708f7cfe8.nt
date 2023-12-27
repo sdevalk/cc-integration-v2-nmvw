@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/340776d7bb6ac30c2a587a310db1638c> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
 <https://n2t.net/ark:/27023/340776d7bb6ac30c2a587a310db1638c> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/340776d7bb6ac30c2a587a310db1638c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/340776d7bb6ac30c2a587a310db1638c> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
-<https://n2t.net/ark:/27023/340776d7bb6ac30c2a587a310db1638c> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
-<https://n2t.net/ark:/27023/340776d7bb6ac30c2a587a310db1638c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

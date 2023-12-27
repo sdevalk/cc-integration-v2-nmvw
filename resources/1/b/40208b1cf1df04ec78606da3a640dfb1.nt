@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#yearCreatedStart> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#locationCreated> "Kotabumi" .
+<https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#alternateName> "Kotaboemi" .
+<https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#alternateName> "Kotabumi" .
+<https://n2t.net/ark:/27023/35c00c9c4a7293771aa5f903cd9df012> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

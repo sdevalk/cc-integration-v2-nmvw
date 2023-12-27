@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/ff9ce161a48c1a8ef8a67093c670adeb> <https://colonialcollections.nl/schema#inscription> "Isse ichidai, hetgeen aangeeft dat dit een eenmalige vertolking van de rol betrof." .
 <https://n2t.net/ark:/27023/ff9ce161a48c1a8ef8a67093c670adeb> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ff9ce161a48c1a8ef8a67093c670adeb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ff9ce161a48c1a8ef8a67093c670adeb> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/ff9ce161a48c1a8ef8a67093c670adeb> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/ff9ce161a48c1a8ef8a67093c670adeb> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

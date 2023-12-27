@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#creator> "Harold Qarliksaq" .
 <https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/ff878c6cbd99822c277e0a637f2c9524> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

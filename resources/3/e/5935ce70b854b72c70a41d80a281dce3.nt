@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#locationCreated> "Argentina" .
+<https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#alternateName> "La Argentina" .
+<https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#alternateName> "Argentine Republic"@en .
+<https://n2t.net/ark:/27023/62665fe152a333ce43d30dfefd9f6c2e> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .

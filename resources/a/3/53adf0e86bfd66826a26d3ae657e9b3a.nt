@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#creator> "mw. H. (Hennie) Witteman-Bakker" .
 <https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#locationCreated> "La Paz" .
-<https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#alternateName> "Nuestra Señora de La Paz" .
-<https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#alternateName> "La Paz" .
-<https://n2t.net/ark:/27023/33b8f9d9345402cbf9edc12a4ef03521> <https://colonialcollections.nl/schema#alternateName> "Ciudad La Paz" .

@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/34206c344b6c58ae2d7c0998fc51b356> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/34206c344b6c58ae2d7c0998fc51b356> <https://colonialcollections.nl/schema#yearCreatedStart> "1250"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/34206c344b6c58ae2d7c0998fc51b356> <https://colonialcollections.nl/schema#yearCreatedEnd> "1532"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/34206c344b6c58ae2d7c0998fc51b356> <https://colonialcollections.nl/schema#locationCreated> "South America" .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/3536cdca588476da966f4b4f2fd653e7> <https://colonialcollections.nl/schema#creator> "M.D. King" .
 <https://n2t.net/ark:/27023/3536cdca588476da966f4b4f2fd653e7> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3536cdca588476da966f4b4f2fd653e7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3536cdca588476da966f4b4f2fd653e7> <https://colonialcollections.nl/schema#locationCreated> "North Island" .
-<https://n2t.net/ark:/27023/3536cdca588476da966f4b4f2fd653e7> <https://colonialcollections.nl/schema#alternateName> "North Island"@en .

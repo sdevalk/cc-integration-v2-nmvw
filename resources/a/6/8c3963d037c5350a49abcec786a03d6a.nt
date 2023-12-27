@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#creator> "Catharina Carolina van Oosterom" .
 <https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#yearCreatedStart> "1845"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/62189b84134d4448176a7a4c3f679149> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

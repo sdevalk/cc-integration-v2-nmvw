@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/4eeb0464443517a2882bbe6c727409fb> <https://colonialcollections.nl/schema#creator> "Gretel Aburin" .
 <https://n2t.net/ark:/27023/4eeb0464443517a2882bbe6c727409fb> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4eeb0464443517a2882bbe6c727409fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4eeb0464443517a2882bbe6c727409fb> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/4eeb0464443517a2882bbe6c727409fb> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

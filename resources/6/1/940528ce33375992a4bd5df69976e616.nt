@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#creator> "Joe Mautaritnaaq" .
 <https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/634556e4b28613b27c75618ec78d35d5> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

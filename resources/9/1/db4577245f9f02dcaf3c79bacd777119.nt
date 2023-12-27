@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/4e1ed3bca63416f28cdd8d0a23bb7125> <https://colonialcollections.nl/schema#inscription> "Nahualá Brujo, Chocolá" .
 <https://n2t.net/ark:/27023/4e1ed3bca63416f28cdd8d0a23bb7125> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4e1ed3bca63416f28cdd8d0a23bb7125> <https://colonialcollections.nl/schema#yearCreatedEnd> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4e1ed3bca63416f28cdd8d0a23bb7125> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/4e1ed3bca63416f28cdd8d0a23bb7125> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/4e1ed3bca63416f28cdd8d0a23bb7125> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/6380d4cdbf87419253fbb4649cbedafd> <https://colonialcollections.nl/schema#inscription> "[T] Hills Bros Coffee (1) & [T] Red Can Brand (2) & [B] gebruiksaanwijzing;adressen Hills Bros.; kwaliteit en inhoud;copyrights en trademarks (3) & [T] so unbeatable - it's reheatable- drip;gemalen koffie inhoud 454 gr (?);drip grind (4)" .
 <https://n2t.net/ark:/27023/6380d4cdbf87419253fbb4649cbedafd> <https://colonialcollections.nl/schema#yearCreatedStart> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6380d4cdbf87419253fbb4649cbedafd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6380d4cdbf87419253fbb4649cbedafd> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/6380d4cdbf87419253fbb4649cbedafd> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/6380d4cdbf87419253fbb4649cbedafd> <https://colonialcollections.nl/schema#countryCreated> "United States" .

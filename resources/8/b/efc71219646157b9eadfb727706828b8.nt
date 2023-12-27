@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/3287053d2f540222e0cc67f87d8b4034> <https://colonialcollections.nl/schema#material> "hout ; reptielenhuid (leguaan/varaan)" .
 <https://n2t.net/ark:/27023/3287053d2f540222e0cc67f87d8b4034> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3287053d2f540222e0cc67f87d8b4034> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3287053d2f540222e0cc67f87d8b4034> <https://colonialcollections.nl/schema#locationCreated> "Fos" .
+<https://n2t.net/ark:/27023/3287053d2f540222e0cc67f87d8b4034> <https://colonialcollections.nl/schema#alternateName> "Fes" .
+<https://n2t.net/ark:/27023/3287053d2f540222e0cc67f87d8b4034> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

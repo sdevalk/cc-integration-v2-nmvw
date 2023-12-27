@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/634629740d2513279dfe191fa05f7b50> <https://colonialcollections.nl/schema#creator> "Kajima, S." .
 <https://n2t.net/ark:/27023/634629740d2513279dfe191fa05f7b50> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/634629740d2513279dfe191fa05f7b50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/634629740d2513279dfe191fa05f7b50> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/634629740d2513279dfe191fa05f7b50> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

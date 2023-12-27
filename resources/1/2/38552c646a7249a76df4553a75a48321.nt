@@ -6,3 +6,11 @@
 <https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
 <https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#locationCreated> "Georgia" .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#alternateName> "Gruziya" .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#alternateName> "Gruzinskaya Sovetskaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#alternateName> "Georgian Soviet Socialist Republic"@en .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#alternateName> "Republic of Georgia" .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#alternateName> "Sak’art’velos Respublika" .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#alternateName> "Georgian Soviet Socialist Republic" .
+<https://n2t.net/ark:/27023/34b62c0122d25bbfa97fe7dffd9564d7> <https://colonialcollections.nl/schema#countryCreated> "Georgia" .

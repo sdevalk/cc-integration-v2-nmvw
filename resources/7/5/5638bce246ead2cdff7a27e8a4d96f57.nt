@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Jember" .
-<https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#alternateName> "Jember Regency" .
-<https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#alternateName> "Jember" .
-<https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Djember" .
-<https://n2t.net/ark:/27023/32ec55e543304fad0734bf938daa31b2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

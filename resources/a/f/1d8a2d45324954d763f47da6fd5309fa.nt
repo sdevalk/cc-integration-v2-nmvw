@@ -9,3 +9,10 @@
 <https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#inscription> "日本八景 Nihon hakkei\r\n木曽川 Kiso-gawa" .
 <https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/62c1b49fd7be5b847b9aa5c2d5a7553a> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

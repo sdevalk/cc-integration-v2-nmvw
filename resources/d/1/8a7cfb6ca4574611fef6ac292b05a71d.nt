@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/35aea3f01e4a18be96f6e31e95fe64c5> <https://colonialcollections.nl/schema#material> "kokosnoot ; kleurstof (candlenuttree)" .
 <https://n2t.net/ark:/27023/35aea3f01e4a18be96f6e31e95fe64c5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/35aea3f01e4a18be96f6e31e95fe64c5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/35aea3f01e4a18be96f6e31e95fe64c5> <https://colonialcollections.nl/schema#locationCreated> "Asau" .
+<https://n2t.net/ark:/27023/35aea3f01e4a18be96f6e31e95fe64c5> <https://colonialcollections.nl/schema#alternateName> "Asau" .
+<https://n2t.net/ark:/27023/35aea3f01e4a18be96f6e31e95fe64c5> <https://colonialcollections.nl/schema#countryCreated> "Samoa" .

@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/4f18c648df25a4bc66ce516f821aa3fd> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/4f18c648df25a4bc66ce516f821aa3fd> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4f18c648df25a4bc66ce516f821aa3fd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4f18c648df25a4bc66ce516f821aa3fd> <https://colonialcollections.nl/schema#locationCreated> "North America" .

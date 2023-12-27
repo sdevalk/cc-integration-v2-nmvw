@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#creator> "Ibu Sariat Libana" .
 <https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#locationCreated> "Alor Island" .
+<https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#alternateName> "Poelau Ombai" .
+<https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#alternateName> "Eiland Alor" .
+<https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#alternateName> "Ombai Island"@en .
+<https://n2t.net/ark:/27023/ffafe70df6aea96cf32ad36578a2baf5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

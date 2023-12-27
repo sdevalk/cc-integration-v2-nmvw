@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/34ada9eef427732ff8e625ea70141162> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/34ada9eef427732ff8e625ea70141162> <https://colonialcollections.nl/schema#yearCreatedStart> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/34ada9eef427732ff8e625ea70141162> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/34ada9eef427732ff8e625ea70141162> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/34ada9eef427732ff8e625ea70141162> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/34ada9eef427732ff8e625ea70141162> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

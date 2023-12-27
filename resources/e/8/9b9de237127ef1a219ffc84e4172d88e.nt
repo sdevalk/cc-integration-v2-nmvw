@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#inscription> "opschrift in Nagari-schrift bij iedere tekening" .
 <https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/33db9ce9347231443fadc61ce0fa0c35> <https://colonialcollections.nl/schema#countryCreated> "India" .

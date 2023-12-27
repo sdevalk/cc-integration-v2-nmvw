@@ -5,3 +5,10 @@
 <https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#locationCreated> "Nigeria" .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#alternateName> "Naija"@en .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#alternateName> "Nigeria" .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#alternateName> "Republic of Songhai" .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Nigeria" .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#alternateName> "Federation of Nigeria" .
+<https://n2t.net/ark:/27023/329330fce262f14051854fcbb0c99d7c> <https://colonialcollections.nl/schema#countryCreated> "Nigeria" .

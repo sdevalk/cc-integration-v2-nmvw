@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#yearCreatedStart> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#locationCreated> "Huahuaxtla" .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#locationCreated> "Nauzontla" .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#alternateName> "Huahuaxtla" .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#alternateName> "Naozontla" .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#alternateName> "Nauzontla" .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#alternateName> "Huaxtla" .
+<https://n2t.net/ark:/27023/4d3dfe4b9db12e627b0cd12f6e40a3f6> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

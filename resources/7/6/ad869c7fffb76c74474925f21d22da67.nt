@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/6351c19f47083494bc02591210729d83> <https://colonialcollections.nl/schema#creator> "American Photographic Company" .
 <https://n2t.net/ark:/27023/6351c19f47083494bc02591210729d83> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6351c19f47083494bc02591210729d83> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6351c19f47083494bc02591210729d83> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/6351c19f47083494bc02591210729d83> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/6351c19f47083494bc02591210729d83> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

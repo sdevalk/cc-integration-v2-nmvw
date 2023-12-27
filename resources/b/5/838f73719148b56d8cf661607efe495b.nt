@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#creator> "dhr. I. (Isaac) Okyere Azey" .
 <https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#inscription> "r.o. KARIM ZIANI\r\nr.b. DESERT WARRIORS" .
 <https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/ffb9dcaf194d8333aa8300e442d8322d> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

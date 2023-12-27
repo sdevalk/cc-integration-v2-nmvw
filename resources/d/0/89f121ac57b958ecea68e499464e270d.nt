@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#inscription> "titel geschreven in negatief" .
 <https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#locationCreated> "Khāsi Hills" .
+<https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#alternateName> "Khāsi Hills" .
+<https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#alternateName> "Khasia Hills" .
+<https://n2t.net/ark:/27023/34caf2fac7ff4ea07fbf5da2a8f6a073> <https://colonialcollections.nl/schema#countryCreated> "India" .

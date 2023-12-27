@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#inscription> "cijfer 14 en kleurenindicaties in nagari-schrift op de miniatuur. 3 regels tekst in nagari op achterkant vertelt het verhaal" .
 <https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#yearCreatedEnd> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/60884da6d7ee7cdd269fcc793378da80> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#inscription> "titel en datum met inkt geschreven op achterzijde karton" .
 <https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#locationCreated> "Amaicha del Valle" .
+<https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#alternateName> "Amaichá" .
+<https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#alternateName> "Amaichá del Valle" .
+<https://n2t.net/ark:/27023/4d157b407c34942818e486d0903581e9> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .

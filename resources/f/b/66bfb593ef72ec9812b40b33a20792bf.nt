@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#creator> "James Budiyalil Wilson" .
 <https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/61ebe9ceb1c8e6e50635a836e142e9ae> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

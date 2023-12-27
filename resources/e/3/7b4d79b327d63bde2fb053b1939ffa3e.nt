@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#creator> "Tjokorda Rake" .
 <https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#yearCreatedStart> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/349271b61f99265dde718ec29dae55b2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

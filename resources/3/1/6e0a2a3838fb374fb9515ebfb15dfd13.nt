@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/ffa6ea2a8fc6dd6f9b01a3a976086e2c> <https://colonialcollections.nl/schema#material> "ijzer ; nikkel ; zilver ; hout ; messing" .
 <https://n2t.net/ark:/27023/ffa6ea2a8fc6dd6f9b01a3a976086e2c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ffa6ea2a8fc6dd6f9b01a3a976086e2c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ffa6ea2a8fc6dd6f9b01a3a976086e2c> <https://colonialcollections.nl/schema#locationCreated> "Besuki" .
-<https://n2t.net/ark:/27023/ffa6ea2a8fc6dd6f9b01a3a976086e2c> <https://colonialcollections.nl/schema#alternateName> "Besoeki" .
-<https://n2t.net/ark:/27023/ffa6ea2a8fc6dd6f9b01a3a976086e2c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

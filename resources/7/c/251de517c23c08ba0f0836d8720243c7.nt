@@ -8,3 +8,14 @@
 <https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#inscription> "titel, signering en albumdeel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#locationCreated> "Iran" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Iran (Islamic Republic of)" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Keshvar-e Shāhanshāhī-ye Īrān" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Persia" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Iran" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Īrān" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Iran, Islamic Republic Of"@en .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran" .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran"@en .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Iran"@en .
+<https://n2t.net/ark:/27023/3568c1092c7cbee98aafd763834984c6> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

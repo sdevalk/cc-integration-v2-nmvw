@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#locationCreated> "Madurai" .
-<https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#alternateName> "Madurai"@en .
-<https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#alternateName> "Madura" .
-<https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#alternateName> "Madurai" .
-<https://n2t.net/ark:/27023/4d2fd0c7a617dc4b50653468feb7af8f> <https://colonialcollections.nl/schema#alternateName> "Mathurai" .
