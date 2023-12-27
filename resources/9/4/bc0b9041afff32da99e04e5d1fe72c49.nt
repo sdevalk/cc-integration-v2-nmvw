@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/d96d56b16e4684bbac1ab07efb298880> <https://colonialcollections.nl/schema#creator> "Adeline en Lynn Noack" .
 <https://n2t.net/ark:/27023/d96d56b16e4684bbac1ab07efb298880> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d96d56b16e4684bbac1ab07efb298880> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d96d56b16e4684bbac1ab07efb298880> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/d96d56b16e4684bbac1ab07efb298880> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/d96d56b16e4684bbac1ab07efb298880> <https://colonialcollections.nl/schema#countryCreated> "United States" .

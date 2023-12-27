@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#creator> "Verenigde Oost-Indische Compagnie" .
 <https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1755"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1755"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#locationCreated> "Colombo" .
-<https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#alternateName> "Colombo"@en .
-<https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#alternateName> "Columbo" .
-<https://n2t.net/ark:/27023/5a39cb941a60d07d4dd41440781966ad> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

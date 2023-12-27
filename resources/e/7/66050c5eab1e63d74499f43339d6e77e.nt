@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/b91c4e53ce496812e269838a44ff7085> <https://colonialcollections.nl/schema#creator> "Pita Karuma" .
 <https://n2t.net/ark:/27023/b91c4e53ce496812e269838a44ff7085> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b91c4e53ce496812e269838a44ff7085> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b91c4e53ce496812e269838a44ff7085> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/b91c4e53ce496812e269838a44ff7085> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/b91c4e53ce496812e269838a44ff7085> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

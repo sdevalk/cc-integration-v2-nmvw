@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/b397a23760d7ca980f0754303d907723> <https://colonialcollections.nl/schema#creator> "museumfotograaf" .
 <https://n2t.net/ark:/27023/b397a23760d7ca980f0754303d907723> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b397a23760d7ca980f0754303d907723> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b397a23760d7ca980f0754303d907723> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Nias Selatan" .
-<https://n2t.net/ark:/27023/b397a23760d7ca980f0754303d907723> <https://colonialcollections.nl/schema#alternateName> "Nias Regency" .
-<https://n2t.net/ark:/27023/b397a23760d7ca980f0754303d907723> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

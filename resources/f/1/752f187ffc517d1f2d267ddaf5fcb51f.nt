@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#creator> "H.J. van Petersen" .
 <https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#locationCreated> "Uganda" .
+<https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#alternateName> "Republic of Uganda" .
+<https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#alternateName> "Ouganda" .
+<https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#alternateName> "Uganda Protectorate" .
+<https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#alternateName> "Uganda" .
+<https://n2t.net/ark:/27023/d9fbf8928e490b611250abf5fca9fa8e> <https://colonialcollections.nl/schema#countryCreated> "Uganda" .

@@ -11,5 +11,3 @@
 <https://n2t.net/ark:/27023/d796cc8bee1e58be63f2746047266669> <https://colonialcollections.nl/schema#creator> "Warden, D.B." .
 <https://n2t.net/ark:/27023/d796cc8bee1e58be63f2746047266669> <https://colonialcollections.nl/schema#yearCreatedStart> "1805"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d796cc8bee1e58be63f2746047266669> <https://colonialcollections.nl/schema#yearCreatedEnd> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d796cc8bee1e58be63f2746047266669> <https://colonialcollections.nl/schema#locationCreated> "Ruins of Palenque" .
-<https://n2t.net/ark:/27023/d796cc8bee1e58be63f2746047266669> <https://colonialcollections.nl/schema#alternateName> "Ruinas de Palenque" .

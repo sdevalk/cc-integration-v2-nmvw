@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/d7acae33d9cabc61df90f49bd820572f> <https://colonialcollections.nl/schema#creator> "J.P. Kleiweg de Zwaan" .
 <https://n2t.net/ark:/27023/d7acae33d9cabc61df90f49bd820572f> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d7acae33d9cabc61df90f49bd820572f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d7acae33d9cabc61df90f49bd820572f> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
-<https://n2t.net/ark:/27023/d7acae33d9cabc61df90f49bd820572f> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
-<https://n2t.net/ark:/27023/d7acae33d9cabc61df90f49bd820572f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

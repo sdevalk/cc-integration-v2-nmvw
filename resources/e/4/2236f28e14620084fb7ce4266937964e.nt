@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/d9f28c2270df1391e95b45e0b2ce6347> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/d9f28c2270df1391e95b45e0b2ce6347> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d9f28c2270df1391e95b45e0b2ce6347> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d9f28c2270df1391e95b45e0b2ce6347> <https://colonialcollections.nl/schema#locationCreated> "Berastagi" .
-<https://n2t.net/ark:/27023/d9f28c2270df1391e95b45e0b2ce6347> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

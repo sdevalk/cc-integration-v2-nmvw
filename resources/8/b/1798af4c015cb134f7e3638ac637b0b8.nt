@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/b3743bbaead60f0c2011dafd3c0d3c2c> <https://colonialcollections.nl/schema#creator> "Clara van Brakel" .
 <https://n2t.net/ark:/27023/b3743bbaead60f0c2011dafd3c0d3c2c> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b3743bbaead60f0c2011dafd3c0d3c2c> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b3743bbaead60f0c2011dafd3c0d3c2c> <https://colonialcollections.nl/schema#locationCreated> "Sarawak" .
-<https://n2t.net/ark:/27023/b3743bbaead60f0c2011dafd3c0d3c2c> <https://colonialcollections.nl/schema#alternateName> "Sarawak Negeri" .
-<https://n2t.net/ark:/27023/b3743bbaead60f0c2011dafd3c0d3c2c> <https://colonialcollections.nl/schema#alternateName> "Serawak" .

@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#inscription> "Over beide borden bovenzijde: STAFF BON COIFFEUR" .
 <https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#yearCreatedStart> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/bb3391c8b76e4aa3b9704ab49d8e035a> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

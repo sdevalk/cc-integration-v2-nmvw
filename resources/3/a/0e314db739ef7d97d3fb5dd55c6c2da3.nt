@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/5a95ef7fc91cc650c0b421e95001ad0a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/5a95ef7fc91cc650c0b421e95001ad0a> <https://colonialcollections.nl/schema#yearCreatedStart> "-200"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5a95ef7fc91cc650c0b421e95001ad0a> <https://colonialcollections.nl/schema#yearCreatedEnd> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5a95ef7fc91cc650c0b421e95001ad0a> <https://colonialcollections.nl/schema#locationCreated> "Panama" .
+<https://n2t.net/ark:/27023/5a95ef7fc91cc650c0b421e95001ad0a> <https://colonialcollections.nl/schema#alternateName> "Republic of Panama"@en .
+<https://n2t.net/ark:/27023/5a95ef7fc91cc650c0b421e95001ad0a> <https://colonialcollections.nl/schema#countryCreated> "Panama" .

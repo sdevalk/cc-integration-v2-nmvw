@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/5aa4822d469233b5f090a84de2be6f03> <https://colonialcollections.nl/schema#material> "bamboe ; ijzer ; leer ; plantenvezel ; verf ; schilderen ; vlechten" .
 <https://n2t.net/ark:/27023/5aa4822d469233b5f090a84de2be6f03> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/5aa4822d469233b5f090a84de2be6f03> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5aa4822d469233b5f090a84de2be6f03> <https://colonialcollections.nl/schema#locationCreated> "Lelydorp" .
+<https://n2t.net/ark:/27023/5aa4822d469233b5f090a84de2be6f03> <https://colonialcollections.nl/schema#alternateName> "Lelydorp" .
+<https://n2t.net/ark:/27023/5aa4822d469233b5f090a84de2be6f03> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

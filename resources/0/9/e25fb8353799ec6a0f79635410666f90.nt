@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/5a1fac7e70a46cc7f1cd45bd07e9f3b5> <https://colonialcollections.nl/schema#creator> "Barza" .
 <https://n2t.net/ark:/27023/5a1fac7e70a46cc7f1cd45bd07e9f3b5> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5a1fac7e70a46cc7f1cd45bd07e9f3b5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5a1fac7e70a46cc7f1cd45bd07e9f3b5> <https://colonialcollections.nl/schema#locationCreated> "Pará" .
+<https://n2t.net/ark:/27023/5a1fac7e70a46cc7f1cd45bd07e9f3b5> <https://colonialcollections.nl/schema#alternateName> "Estado do Pará" .
+<https://n2t.net/ark:/27023/5a1fac7e70a46cc7f1cd45bd07e9f3b5> <https://colonialcollections.nl/schema#countryCreated> "Brazil" .

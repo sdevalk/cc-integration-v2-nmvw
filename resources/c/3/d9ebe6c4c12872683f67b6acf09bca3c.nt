@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/59a46505484350c7e1d854b904651e7d> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
 <https://n2t.net/ark:/27023/59a46505484350c7e1d854b904651e7d> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/59a46505484350c7e1d854b904651e7d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/59a46505484350c7e1d854b904651e7d> <https://colonialcollections.nl/schema#locationCreated> "Sipaliwini District" .
-<https://n2t.net/ark:/27023/59a46505484350c7e1d854b904651e7d> <https://colonialcollections.nl/schema#alternateName> "Sipaliwini District"@en .
-<https://n2t.net/ark:/27023/59a46505484350c7e1d854b904651e7d> <https://colonialcollections.nl/schema#alternateName> "Distrikt Sipaliwini" .

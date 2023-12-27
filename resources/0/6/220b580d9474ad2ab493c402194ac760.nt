@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/5a606d1b850a0feba4cf7468dc774835> <https://colonialcollections.nl/schema#material> "Machinaal bedrukt, gesteven, gevouwen." .
 <https://n2t.net/ark:/27023/5a606d1b850a0feba4cf7468dc774835> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/5a606d1b850a0feba4cf7468dc774835> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5a606d1b850a0feba4cf7468dc774835> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
-<https://n2t.net/ark:/27023/5a606d1b850a0feba4cf7468dc774835> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

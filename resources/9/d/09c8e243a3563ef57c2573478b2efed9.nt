@@ -5,8 +5,8 @@
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#locationCreated> "Ethiopia" .
-<https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#alternateName> "People’s Democratic Republic of Ethiopia" .
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#alternateName> "Socialist Ethiopia" .
+<https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#alternateName> "People’s Democratic Republic of Ethiopia" .
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#alternateName> "Abyssinie" .
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#alternateName> "Abyssinia" .
 <https://n2t.net/ark:/27023/5ac6ef490c609293ec2b75c3c9862747> <https://colonialcollections.nl/schema#alternateName> "Abissinia" .

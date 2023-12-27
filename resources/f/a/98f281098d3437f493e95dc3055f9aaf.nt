@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#creator> "Jack Britten" .
 <https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/d9a74feee47ee2fb6ec604b8bb24b44a> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
 <https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#yearCreatedEnd> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#locationCreated> "Kandangan" .
+<https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#alternateName> "Kendangan" .
+<https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#alternateName> "Kandangan" .
+<https://n2t.net/ark:/27023/da172bb45724eadb73a0fab05f3bc454> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

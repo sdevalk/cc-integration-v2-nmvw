@@ -5,3 +5,10 @@
 <https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#creator> "Ouwehand, prof. dr C." .
 <https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/d7612cf64f6a0c23ee5b6ac924c5e2d2> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

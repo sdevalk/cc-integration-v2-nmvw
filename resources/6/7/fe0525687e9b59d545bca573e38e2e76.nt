@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#creator> "Beryl Nakamarra Barnes" .
 <https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/ba4c3c63d54f8c02b1a92fffd9488fa5> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

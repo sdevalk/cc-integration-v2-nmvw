@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#inscription> "Vogel's annotation: ''Asaf ud-Dawlah, Nawab of Lakhnau''" .
 <https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/5992e83a4c08475afc7eb057f6aee8eb> <https://colonialcollections.nl/schema#countryCreated> "India" .

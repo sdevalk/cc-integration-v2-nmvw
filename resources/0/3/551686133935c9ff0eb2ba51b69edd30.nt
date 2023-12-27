@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/b4273eec4562dcf424c51241872b277e> <https://colonialcollections.nl/schema#creator> "Big Eagle" .
 <https://n2t.net/ark:/27023/b4273eec4562dcf424c51241872b277e> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b4273eec4562dcf424c51241872b277e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b4273eec4562dcf424c51241872b277e> <https://colonialcollections.nl/schema#locationCreated> "South Dakota" .
-<https://n2t.net/ark:/27023/b4273eec4562dcf424c51241872b277e> <https://colonialcollections.nl/schema#alternateName> "State of South Dakota"@en .
-<https://n2t.net/ark:/27023/b4273eec4562dcf424c51241872b277e> <https://colonialcollections.nl/schema#alternateName> "Coyote State"@en .

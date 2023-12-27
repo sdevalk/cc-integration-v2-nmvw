@@ -6,10 +6,3 @@
 <https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#creator> "Dhr. H. Weener" .
 <https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#locationCreated> "Bonaire Island" .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#alternateName> "Bonaire Island"@en .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#alternateName> "Papiamentu" .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#alternateName> "Buen Ayre" .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#alternateName> "Bonaire" .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#alternateName> "Buon Ayre"@en .
-<https://n2t.net/ark:/27023/d8d4b1c002168b18ee84ca7a3e74d951> <https://colonialcollections.nl/schema#alternateName> "Boneiru" .

@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/d9212996f91d3d5c928705d577a780ba> <https://colonialcollections.nl/schema#creator> "Jacob Ernest Tulleken" .
 <https://n2t.net/ark:/27023/d9212996f91d3d5c928705d577a780ba> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d9212996f91d3d5c928705d577a780ba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d9212996f91d3d5c928705d577a780ba> <https://colonialcollections.nl/schema#locationCreated> "French Guiana" .
+<https://n2t.net/ark:/27023/d9212996f91d3d5c928705d577a780ba> <https://colonialcollections.nl/schema#alternateName> "La Guyane" .
+<https://n2t.net/ark:/27023/d9212996f91d3d5c928705d577a780ba> <https://colonialcollections.nl/schema#alternateName> "La Guyane Française" .

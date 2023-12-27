@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/b375819243857b6b9aba1b32f94b5d19> <https://colonialcollections.nl/schema#creator> "Aaju" .
 <https://n2t.net/ark:/27023/b375819243857b6b9aba1b32f94b5d19> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b375819243857b6b9aba1b32f94b5d19> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b375819243857b6b9aba1b32f94b5d19> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

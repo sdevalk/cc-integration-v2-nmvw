@@ -5,8 +5,8 @@
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#locationCreated> "Ethiopia" .
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "Etiopia" .
-<https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "Federal Democratic Republic of Ethiopia"@en .
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "Socialist Ethiopia" .
+<https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "Federal Democratic Republic of Ethiopia"@en .
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "People’s Democratic Republic of Ethiopia" .
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "Abyssinia" .
 <https://n2t.net/ark:/27023/bbb358365cc3ddb42afd36dd462b9565> <https://colonialcollections.nl/schema#alternateName> "El Habesha" .

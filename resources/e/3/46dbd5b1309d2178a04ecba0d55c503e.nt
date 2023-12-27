@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#creator> "Aoudla Pudlat" .
 <https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/b954bb0210b620ef1adc5f3f8109519a> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

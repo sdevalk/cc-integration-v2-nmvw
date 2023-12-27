@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/d77c01e1b949ee423e8c1b52454d4db4> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/d77c01e1b949ee423e8c1b52454d4db4> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d77c01e1b949ee423e8c1b52454d4db4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d77c01e1b949ee423e8c1b52454d4db4> <https://colonialcollections.nl/schema#locationCreated> "Tozeur" .
-<https://n2t.net/ark:/27023/d77c01e1b949ee423e8c1b52454d4db4> <https://colonialcollections.nl/schema#alternateName> "Tawzar" .
-<https://n2t.net/ark:/27023/d77c01e1b949ee423e8c1b52454d4db4> <https://colonialcollections.nl/schema#alternateName> "Tozeur" .

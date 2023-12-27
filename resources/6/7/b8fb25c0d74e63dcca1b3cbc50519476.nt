@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#creator> "Peter Hilz" .
 <https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#locationCreated> "Bhutan" .
-<https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#alternateName> "Bhutan" .
-<https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Bhutan" .
-<https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#alternateName> "Druk-yul" .
-<https://n2t.net/ark:/27023/bbc0965c9a494e4706d679aca63ea96a> <https://colonialcollections.nl/schema#countryCreated> "Bhutan" .

@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/59da839751d895d41be556b9e2157d5a> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/59da839751d895d41be556b9e2157d5a> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/59da839751d895d41be556b9e2157d5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/59da839751d895d41be556b9e2157d5a> <https://colonialcollections.nl/schema#locationCreated> "Berastagi" .
-<https://n2t.net/ark:/27023/59da839751d895d41be556b9e2157d5a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

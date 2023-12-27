@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#material> "messing ; verlorenwasgietprocedé ; machinaal vervaardigen" .
 <https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#locationCreated> "Madurai" .
-<https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#alternateName> "Mathurai" .
-<https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#alternateName> "Madurai"@en .
-<https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#alternateName> "Madurai" .
-<https://n2t.net/ark:/27023/d9f66a8d2ad9cf53535455a700f74054> <https://colonialcollections.nl/schema#alternateName> "Madura" .

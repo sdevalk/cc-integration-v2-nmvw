@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#inscription> "LOWER TAXES, MORE JOBS AND MORE MONEY IN YOUR POCKETS" .
 <https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#yearCreatedStart> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#locationCreated> "Zambia" .
+<https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia" .
+<https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#alternateName> "Republic of Zambia"@en .
+<https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia"@en .
+<https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#alternateName> "Zambia" .
+<https://n2t.net/ark:/27023/bac948231105e7bf07c64fc8c8ed84aa> <https://colonialcollections.nl/schema#countryCreated> "Zambia" .

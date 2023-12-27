@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/58dcf80822f152af47752c5b59f780ea> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/58dcf80822f152af47752c5b59f780ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1827"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/58dcf80822f152af47752c5b59f780ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/58dcf80822f152af47752c5b59f780ea> <https://colonialcollections.nl/schema#locationCreated> "Sarawak" .
-<https://n2t.net/ark:/27023/58dcf80822f152af47752c5b59f780ea> <https://colonialcollections.nl/schema#alternateName> "Sarawak Negeri" .
-<https://n2t.net/ark:/27023/58dcf80822f152af47752c5b59f780ea> <https://colonialcollections.nl/schema#alternateName> "Serawak" .

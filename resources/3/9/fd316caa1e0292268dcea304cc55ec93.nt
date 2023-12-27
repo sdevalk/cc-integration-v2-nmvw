@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#creator> "I Made Mudra" .
 <https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#yearCreatedStart> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#yearCreatedEnd> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/5a2c992a745d4d9e8bd956b5933ee978> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

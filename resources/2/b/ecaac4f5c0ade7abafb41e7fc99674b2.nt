@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/d77c181f4dd0430e8db0abeed0e3c081> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt op voorzijde karton door G. Verschuur" .
 <https://n2t.net/ark:/27023/d77c181f4dd0430e8db0abeed0e3c081> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d77c181f4dd0430e8db0abeed0e3c081> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d77c181f4dd0430e8db0abeed0e3c081> <https://colonialcollections.nl/schema#locationCreated> "Hanoi" .
-<https://n2t.net/ark:/27023/d77c181f4dd0430e8db0abeed0e3c081> <https://colonialcollections.nl/schema#alternateName> "Keicho" .

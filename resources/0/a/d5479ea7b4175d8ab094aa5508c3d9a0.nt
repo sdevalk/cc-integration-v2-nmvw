@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#locationCreated> "Trinidad" .
-<https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#alternateName> "Trinidad Island"@en .
-<https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#alternateName> "Trinidad" .
-<https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#alternateName> "La Trinite" .
-<https://n2t.net/ark:/27023/bb5ff4bcfc1ac0bf1df9e6de5da53c2f> <https://colonialcollections.nl/schema#countryCreated> "Trinidad and Tobago" .

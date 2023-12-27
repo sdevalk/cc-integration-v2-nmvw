@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/d9e821c40f87c68d473841743aa6e1ad> <https://colonialcollections.nl/schema#creator> "Hernsheim" .
 <https://n2t.net/ark:/27023/d9e821c40f87c68d473841743aa6e1ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d9e821c40f87c68d473841743aa6e1ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d9e821c40f87c68d473841743aa6e1ad> <https://colonialcollections.nl/schema#locationCreated> "Caroline Islands" .
