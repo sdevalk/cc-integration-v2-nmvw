@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#creator> "Wendy Nungurrayi Sims" .
 <https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/641f0b6fea3d7f1aa1e0476422f6ef3a> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

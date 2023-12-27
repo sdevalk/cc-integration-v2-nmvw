@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/5fa280a51dd1b7790b59c4f284958e66> <https://colonialcollections.nl/schema#creator> "Jens Rosing" .
 <https://n2t.net/ark:/27023/5fa280a51dd1b7790b59c4f284958e66> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5fa280a51dd1b7790b59c4f284958e66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5fa280a51dd1b7790b59c4f284958e66> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

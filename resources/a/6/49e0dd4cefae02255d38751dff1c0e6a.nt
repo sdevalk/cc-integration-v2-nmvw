@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#creator> "Stafhell & Kleingrothe" .
 <https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#yearCreatedStart> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#locationCreated> "Kota Medan" .
-<https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Medan" .
-<https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Medan" .
-<https://n2t.net/ark:/27023/c97d442e482f71ac7c26c5f6d38a4443> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

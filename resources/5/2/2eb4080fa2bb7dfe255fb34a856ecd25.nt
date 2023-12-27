@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/caf54057e98178f55c628c6cd2b79bfe> <https://colonialcollections.nl/schema#inscription> "sterling" .
 <https://n2t.net/ark:/27023/caf54057e98178f55c628c6cd2b79bfe> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/caf54057e98178f55c628c6cd2b79bfe> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/caf54057e98178f55c628c6cd2b79bfe> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/caf54057e98178f55c628c6cd2b79bfe> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/caf54057e98178f55c628c6cd2b79bfe> <https://colonialcollections.nl/schema#countryCreated> "United States" .

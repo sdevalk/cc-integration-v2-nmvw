@@ -6,8 +6,8 @@
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#locationCreated> "Indonesia" .
-<https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#alternateName> "Republic of Indonesia"@en .
+<https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#alternateName> "Republik Indonesia Serikat" .
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#alternateName> "United States of Indonesia" .
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#alternateName> "Republiek de Verenigde Staten van Indonesië" .
 <https://n2t.net/ark:/27023/5f3d03e8d26ae99cdb9a9115a859ee56> <https://colonialcollections.nl/schema#alternateName> "Netherlands Indies" .

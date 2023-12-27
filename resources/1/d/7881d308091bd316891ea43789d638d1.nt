@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#inscription> "kyoka gedichten, dwz 31-lettergrepige gedichten met een vrije structuur waarin vaak op grappige wijze klassieke gedichten of themas geparodieerd worden." .
 <https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#yearCreatedStart> "1802"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1804"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/c8ac38face333511a0dbabb34f9710bf> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

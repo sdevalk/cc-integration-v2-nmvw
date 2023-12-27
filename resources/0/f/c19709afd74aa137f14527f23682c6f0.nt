@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/c9b23e0d4825c9ca413cb99392bb1dd1> <https://colonialcollections.nl/schema#creator> "Stanford Derere" .
 <https://n2t.net/ark:/27023/c9b23e0d4825c9ca413cb99392bb1dd1> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c9b23e0d4825c9ca413cb99392bb1dd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c9b23e0d4825c9ca413cb99392bb1dd1> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/c9b23e0d4825c9ca413cb99392bb1dd1> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/c9b23e0d4825c9ca413cb99392bb1dd1> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

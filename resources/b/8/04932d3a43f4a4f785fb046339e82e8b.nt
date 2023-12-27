@@ -5,4 +5,3 @@
 <https://n2t.net/ark:/27023/5e4fa0f7d589d6d82d528518fedb8d82> <https://colonialcollections.nl/schema#inscription> "label: Winnipeg N. Amerika A Lemaire 7-6-59; met verf: A5571" .
 <https://n2t.net/ark:/27023/5e4fa0f7d589d6d82d528518fedb8d82> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5e4fa0f7d589d6d82d528518fedb8d82> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5e4fa0f7d589d6d82d528518fedb8d82> <https://colonialcollections.nl/schema#locationCreated> "North America" .

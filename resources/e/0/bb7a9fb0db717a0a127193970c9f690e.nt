@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#creator> "Mary Iksiktaryuk" .
 <https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/65de41f0c8b6b1080b66c0ad0dfa1217> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

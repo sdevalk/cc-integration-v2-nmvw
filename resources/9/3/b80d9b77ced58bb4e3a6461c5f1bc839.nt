@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/c990f4ef5f6448d588725c1deec4f6fb> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

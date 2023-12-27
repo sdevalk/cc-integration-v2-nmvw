@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/e57e5396b583fce6671d6358c8e40e7b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/e57e5396b583fce6671d6358c8e40e7b> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e57e5396b583fce6671d6358c8e40e7b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e57e5396b583fce6671d6358c8e40e7b> <https://colonialcollections.nl/schema#locationCreated> "Tolimán" .
+<https://n2t.net/ark:/27023/e57e5396b583fce6671d6358c8e40e7b> <https://colonialcollections.nl/schema#alternateName> "Tolimán" .
+<https://n2t.net/ark:/27023/e57e5396b583fce6671d6358c8e40e7b> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

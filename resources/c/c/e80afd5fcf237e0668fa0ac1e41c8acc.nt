@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/657ae2238b574de8d899b3ef8e7bcc37> <https://colonialcollections.nl/schema#material> "hout ; steen ; boombast ; rotan" .
 <https://n2t.net/ark:/27023/657ae2238b574de8d899b3ef8e7bcc37> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/657ae2238b574de8d899b3ef8e7bcc37> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/657ae2238b574de8d899b3ef8e7bcc37> <https://colonialcollections.nl/schema#locationCreated> "Swart Vallei" .
-<https://n2t.net/ark:/27023/657ae2238b574de8d899b3ef8e7bcc37> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

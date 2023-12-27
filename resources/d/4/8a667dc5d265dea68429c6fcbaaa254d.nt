@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/c839e430089476a38f18e594a79aaf12> <https://colonialcollections.nl/schema#creator> "Isidore van Kinsbergen" .
 <https://n2t.net/ark:/27023/c839e430089476a38f18e594a79aaf12> <https://colonialcollections.nl/schema#yearCreatedStart> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c839e430089476a38f18e594a79aaf12> <https://colonialcollections.nl/schema#yearCreatedEnd> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c839e430089476a38f18e594a79aaf12> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/c839e430089476a38f18e594a79aaf12> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/c839e430089476a38f18e594a79aaf12> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

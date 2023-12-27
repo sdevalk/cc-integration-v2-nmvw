@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#inscription> "nummer en titel linksonder in negatief geschreven" .
 <https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#locationCreated> "Nantai-zan" .
+<https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#alternateName> "Nantai-zan" .
+<https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#alternateName> "Dantai-zan" .
+<https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#alternateName> "Nantai-san" .
+<https://n2t.net/ark:/27023/5f1d3367a8b7d79edfe08f05c62ad529> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

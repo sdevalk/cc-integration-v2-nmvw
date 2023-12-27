@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/65954e342cd47352a3cc260f08525f56> <https://colonialcollections.nl/schema#creator> "Hakuju" .
 <https://n2t.net/ark:/27023/65954e342cd47352a3cc260f08525f56> <https://colonialcollections.nl/schema#yearCreatedStart> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/65954e342cd47352a3cc260f08525f56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/65954e342cd47352a3cc260f08525f56> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/65954e342cd47352a3cc260f08525f56> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/65954e342cd47352a3cc260f08525f56> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

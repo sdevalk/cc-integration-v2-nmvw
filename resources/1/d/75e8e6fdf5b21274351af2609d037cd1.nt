@@ -12,5 +12,3 @@
 <https://n2t.net/ark:/27023/6741c5eb53ddb51f4b6549adc6b4313e> <https://colonialcollections.nl/schema#inscription> "10 Varas --- ou 30 pieds, maatbalk middenonder tekening ;\r\npijl met punt naar optisch rechts en N rechts achter pijlpunt, ter richtingaanduiding, midden boven de maatbalk." .
 <https://n2t.net/ark:/27023/6741c5eb53ddb51f4b6549adc6b4313e> <https://colonialcollections.nl/schema#yearCreatedStart> "1805"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6741c5eb53ddb51f4b6549adc6b4313e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6741c5eb53ddb51f4b6549adc6b4313e> <https://colonialcollections.nl/schema#locationCreated> "Ruins of Palenque" .
-<https://n2t.net/ark:/27023/6741c5eb53ddb51f4b6549adc6b4313e> <https://colonialcollections.nl/schema#alternateName> "Ruinas de Palenque" .

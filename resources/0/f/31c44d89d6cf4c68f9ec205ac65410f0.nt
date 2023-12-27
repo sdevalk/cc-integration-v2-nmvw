@@ -6,3 +6,23 @@
 <https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#locationCreated> "Majuro Atoll" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Medjuron" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Majro" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Meduro Island" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Mezyuro To" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Mediuro" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Mejuro-tō" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Majuro" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Majuro Inseln" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Majuro Atoll" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Majuro Island" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Majuruk" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "POSTSCRIPT WW2" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Madjuro" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "SUNDANCE WW2" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Madschero" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Mahjeruv" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Arrowsmith Atoll" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#alternateName> "Arrowsmith Island" .
+<https://n2t.net/ark:/27023/64e7054f9cf923cd72a1db5fa704db46> <https://colonialcollections.nl/schema#countryCreated> "Marshall Islands" .

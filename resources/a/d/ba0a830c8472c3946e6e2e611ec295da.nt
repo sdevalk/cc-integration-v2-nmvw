@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#inscription> "河洛七文字體壽星圖碑\r\n壽星圖云：道通天地有形外\r\n借彼無極偶爾單厚引此道詩 （...） 介眉壽子子孫孫如松柏之茂董子右醇自今伊始嵗其有\r\n翰林院檢討席梧貴題\r\n龍門西山主持僧人普棟徒侄通汴\r\n源 容書丹董策三圖筆 劉高桂(金雋)石\r\n仝建（？）\r\n丁巳菊月之吉" .
 <https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#yearCreatedStart> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#locationCreated> "Henan" .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#alternateName> "河南省" .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#alternateName> "Honan Province" .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#alternateName> "Henan Sheng" .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#alternateName> "Ho-nan Sheng" .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#alternateName> "Ho-nan" .
+<https://n2t.net/ark:/27023/c816b9b02d2392c4f8f371b1e08b5db2> <https://colonialcollections.nl/schema#countryCreated> "China" .

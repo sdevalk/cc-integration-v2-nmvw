@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#inscription> "Met opschrift 'cha' (thee) en xx en zegel" .
 <https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#yearCreatedStart> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/5c771932d597a19597a532d3faf42e6a> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

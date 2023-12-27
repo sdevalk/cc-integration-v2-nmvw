@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/644ed2e3149a73f184da082f2bfa541d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/644ed2e3149a73f184da082f2bfa541d> <https://colonialcollections.nl/schema#yearCreatedStart> "1100"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/644ed2e3149a73f184da082f2bfa541d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/644ed2e3149a73f184da082f2bfa541d> <https://colonialcollections.nl/schema#locationCreated> "Ancón" .

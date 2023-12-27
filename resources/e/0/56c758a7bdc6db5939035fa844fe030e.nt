@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/5f479cdf3a9b623cb2ce3d0d417ddab5> <https://colonialcollections.nl/schema#creator> "Lily Nungarrayi Hargraves" .
 <https://n2t.net/ark:/27023/5f479cdf3a9b623cb2ce3d0d417ddab5> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f479cdf3a9b623cb2ce3d0d417ddab5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5f479cdf3a9b623cb2ce3d0d417ddab5> <https://colonialcollections.nl/schema#locationCreated> "Lajamanu" .
+<https://n2t.net/ark:/27023/5f479cdf3a9b623cb2ce3d0d417ddab5> <https://colonialcollections.nl/schema#alternateName> "Lajamanu"@en .
+<https://n2t.net/ark:/27023/5f479cdf3a9b623cb2ce3d0d417ddab5> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

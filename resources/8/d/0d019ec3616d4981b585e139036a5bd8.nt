@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/5fa20154e635d9b294aa6f7e15b5c6fe> <https://colonialcollections.nl/schema#creator> "Wittick, G.B." .
 <https://n2t.net/ark:/27023/5fa20154e635d9b294aa6f7e15b5c6fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5fa20154e635d9b294aa6f7e15b5c6fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5fa20154e635d9b294aa6f7e15b5c6fe> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/5fa20154e635d9b294aa6f7e15b5c6fe> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/5fa20154e635d9b294aa6f7e15b5c6fe> <https://colonialcollections.nl/schema#countryCreated> "United States" .

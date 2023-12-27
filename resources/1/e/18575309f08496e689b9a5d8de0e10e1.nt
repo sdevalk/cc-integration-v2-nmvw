@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#inscription> "(in vertaling)\r\nAandenken\r\nIRC75-TOKYO\r\nStichting Japanse Rubber Associatie\r\n\r\n24K [24 karaats]\r\nGP [Gold plated]" .
 <https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/c9661859809af59aa24b296a8dc8bbf4> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

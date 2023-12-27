@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/5f9796af69b64368647c0462000719e7> <https://colonialcollections.nl/schema#creator> "Roger Tsiniginnie" .
 <https://n2t.net/ark:/27023/5f9796af69b64368647c0462000719e7> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f9796af69b64368647c0462000719e7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5f9796af69b64368647c0462000719e7> <https://colonialcollections.nl/schema#locationCreated> "Tuba City" .
-<https://n2t.net/ark:/27023/5f9796af69b64368647c0462000719e7> <https://colonialcollections.nl/schema#alternateName> "Tuba" .

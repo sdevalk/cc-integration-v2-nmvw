@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#creator> "Marcelino" .
 <https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#locationCreated> "Magdalena Peñasco" .
+<https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#alternateName> "Penasco" .
+<https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#alternateName> "Magdalena Peñasco" .
+<https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#alternateName> "Magdalena" .
+<https://n2t.net/ark:/27023/5ddc495f6575e5d44c337e66da3d399d> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

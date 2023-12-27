@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/5f4baac7782f5106cb13ad249a4afadf> <https://colonialcollections.nl/schema#creator> "Mahtab Nobakhti" .
 <https://n2t.net/ark:/27023/5f4baac7782f5106cb13ad249a4afadf> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f4baac7782f5106cb13ad249a4afadf> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5f4baac7782f5106cb13ad249a4afadf> <https://colonialcollections.nl/schema#locationCreated> "Khorasan Province" .
-<https://n2t.net/ark:/27023/5f4baac7782f5106cb13ad249a4afadf> <https://colonialcollections.nl/schema#alternateName> "Khorasan Province"@en .

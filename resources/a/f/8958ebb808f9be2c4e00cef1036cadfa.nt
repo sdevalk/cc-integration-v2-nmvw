@@ -10,3 +10,7 @@
 <https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#inscription> "titel gedrukt op voorzijde" .
 <https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#locationCreated> "Paraguay" .
+<https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#alternateName> "Republic of Paraguay"@en .
+<https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#alternateName> "El Paraguay" .
+<https://n2t.net/ark:/27023/5fd4f0aff41563c18edd12c778cc3a35> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

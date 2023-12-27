@@ -7,3 +7,11 @@
 <https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#creator> "E. (Erika) Taeang" .
 <https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#yearCreatedStart> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#yearCreatedEnd> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#locationCreated> "Kiribati" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#alternateName> "Gilbert Islands" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#alternateName> "Republic of Kiribati" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#alternateName> "Kiribasi" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/65323063bd776867a3559108f8337357> <https://colonialcollections.nl/schema#countryCreated> "Kiribati" .

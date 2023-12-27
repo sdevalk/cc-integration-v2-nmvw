@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/ca711f5da407765d28fbc9b9399124e8> <https://colonialcollections.nl/schema#creator> "Fukumoto Shihoko" .
 <https://n2t.net/ark:/27023/ca711f5da407765d28fbc9b9399124e8> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ca711f5da407765d28fbc9b9399124e8> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ca711f5da407765d28fbc9b9399124e8> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/ca711f5da407765d28fbc9b9399124e8> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

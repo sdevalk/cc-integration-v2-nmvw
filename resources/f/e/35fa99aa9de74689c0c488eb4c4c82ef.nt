@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#material> "hout ; snijden" .
 <https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#locationCreated> "Tonga" .
+<https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Tonga" .
+<https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#alternateName> "Tonga" .
+<https://n2t.net/ark:/27023/ca4ea2a48d8e64ee5c8807f8ca16aad9> <https://colonialcollections.nl/schema#countryCreated> "Tonga" .

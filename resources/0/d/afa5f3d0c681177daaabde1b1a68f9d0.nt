@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#creator> "P.H. (Pieter Hendrik) Pott" .
 <https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#yearCreatedStart> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/66269a13b4f48d99ac7a0c2122a74d30> <https://colonialcollections.nl/schema#countryCreated> "India" .

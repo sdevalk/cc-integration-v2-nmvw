@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
 <https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#locationCreated> "Nigeria" .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#alternateName> "Naija"@en .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Nigeria" .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#alternateName> "Federation of Nigeria" .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#alternateName> "Nigeria" .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#alternateName> "Republic of Songhai" .
+<https://n2t.net/ark:/27023/65500c3b8767aa744ba0f2b425986fb9> <https://colonialcollections.nl/schema#countryCreated> "Nigeria" .

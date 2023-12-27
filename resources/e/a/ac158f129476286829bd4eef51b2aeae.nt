@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#creator> "Drs. F.M. (Frits) Cowan" .
 <https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#locationCreated> "Bhopal" .
-<https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#alternateName> "Bhopal" .
-<https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#alternateName> "Bhojpal" .
-<https://n2t.net/ark:/27023/5d66f830bc513026833bbd5e8aac977c> <https://colonialcollections.nl/schema#alternateName> "Bhopāl" .

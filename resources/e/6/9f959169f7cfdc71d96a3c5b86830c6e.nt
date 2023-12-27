@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/5eafd57109bd1f6695c05f09b9c2ffc7> <https://colonialcollections.nl/schema#creator> "Vernon Ah Kee" .
 <https://n2t.net/ark:/27023/5eafd57109bd1f6695c05f09b9c2ffc7> <https://colonialcollections.nl/schema#yearCreatedStart> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5eafd57109bd1f6695c05f09b9c2ffc7> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5eafd57109bd1f6695c05f09b9c2ffc7> <https://colonialcollections.nl/schema#locationCreated> "Brisbane" .
+<https://n2t.net/ark:/27023/5eafd57109bd1f6695c05f09b9c2ffc7> <https://colonialcollections.nl/schema#alternateName> "Brisbane City"@en .
+<https://n2t.net/ark:/27023/5eafd57109bd1f6695c05f09b9c2ffc7> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -8,3 +8,14 @@
 <https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#inscription> "titel linksonder in het negatief geschreven in een zwarte tekstbalk" .
 <https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#locationCreated> "Fuji-Hakone-Izu-kokuritsu-kōen" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#locationCreated> "Mount Fuji" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Huzi San" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fusiyama" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fujiyama"@en .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fuji-san" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fuji-no-Yama" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fuji-Hakone-Izu-kokuritsu-kōen" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fuji-Hakone-Izu National Park" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#alternateName> "Fuji Mountain" .
+<https://n2t.net/ark:/27023/c7865b3649d05e64a78ec89c3a1ebea5> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

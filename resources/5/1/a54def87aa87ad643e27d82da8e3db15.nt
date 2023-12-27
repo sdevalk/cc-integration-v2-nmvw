@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#creator> "Osama Esid" .
 <https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#locationCreated> "Minnesota" .
+<https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#alternateName> "North Star State"@en .
+<https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#alternateName> "State of Minnesota"@en .
+<https://n2t.net/ark:/27023/5f3157e9faebff1a2ffa8f91054279ea> <https://colonialcollections.nl/schema#countryCreated> "United States" .

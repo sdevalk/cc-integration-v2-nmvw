@@ -8,10 +8,3 @@
 <https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#inscription> "'I 42028' met potlood achterop foto geschreven & '3-10' achterop foto getypt" .
 <https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#locationCreated> "South Sulawesi" .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Selatan" .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Selatan" .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#alternateName> "South Sulawesi" .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#alternateName> "South Sulawesi"@en .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#alternateName> "Provinsi Sulawesi Selatan" .
-<https://n2t.net/ark:/27023/64afd61211a90bfc448b87f07a688b3f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

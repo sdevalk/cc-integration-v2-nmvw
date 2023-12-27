@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/6484e058a4668514109a71ba14af2b50> <https://colonialcollections.nl/schema#creator> "Lars Kristensen" .
 <https://n2t.net/ark:/27023/6484e058a4668514109a71ba14af2b50> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6484e058a4668514109a71ba14af2b50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6484e058a4668514109a71ba14af2b50> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
-<https://n2t.net/ark:/27023/6484e058a4668514109a71ba14af2b50> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .

@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#inscription> "tekst in nagari-schrift beschrijft de scene, identificeert Yama en  de helleput" .
 <https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#yearCreatedEnd> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/650e0c24f144f4af9fb547d3641b3b86> <https://colonialcollections.nl/schema#countryCreated> "India" .

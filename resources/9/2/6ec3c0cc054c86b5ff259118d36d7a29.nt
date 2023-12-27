@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/6756de19bb7fc9c05d5ca3a0b0a77177> <https://colonialcollections.nl/schema#inscription> "titel met potlood op achterzijde karton geschreven door H.F.C. ten Kate" .
 <https://n2t.net/ark:/27023/6756de19bb7fc9c05d5ca3a0b0a77177> <https://colonialcollections.nl/schema#yearCreatedStart> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6756de19bb7fc9c05d5ca3a0b0a77177> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6756de19bb7fc9c05d5ca3a0b0a77177> <https://colonialcollections.nl/schema#locationCreated> "Fort Sill" .
+<https://n2t.net/ark:/27023/6756de19bb7fc9c05d5ca3a0b0a77177> <https://colonialcollections.nl/schema#alternateName> "Fort Sill"@en .
+<https://n2t.net/ark:/27023/6756de19bb7fc9c05d5ca3a0b0a77177> <https://colonialcollections.nl/schema#countryCreated> "United States" .

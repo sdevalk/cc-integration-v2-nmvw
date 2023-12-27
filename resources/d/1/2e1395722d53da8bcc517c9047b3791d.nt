@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#material> "geweven ; geverfd ; gebatikt ; katoen ; zijde ; verf ; zilver" .
 <https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#locationCreated> "Gresik Regency" .
-<https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#alternateName> "Gresik Regency"@en .
-<https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#alternateName> "Gresik" .
-<https://n2t.net/ark:/27023/c9c295121f2327acf2fd57aa556a79d2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

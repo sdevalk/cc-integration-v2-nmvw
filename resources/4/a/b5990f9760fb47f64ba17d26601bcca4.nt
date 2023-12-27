@@ -4,5 +4,3 @@
 <https://n2t.net/ark:/27023/5f3b0a333090644285852524c5b41a77> <https://colonialcollections.nl/schema#creator> "Noortje Nooter" .
 <https://n2t.net/ark:/27023/5f3b0a333090644285852524c5b41a77> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5f3b0a333090644285852524c5b41a77> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5f3b0a333090644285852524c5b41a77> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
-<https://n2t.net/ark:/27023/5f3b0a333090644285852524c5b41a77> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .

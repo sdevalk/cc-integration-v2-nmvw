@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#creator> "Isidore van Kinsbergen" .
 <https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
-<https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
-<https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
-<https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
-<https://n2t.net/ark:/27023/6669444c6b7fb2000bb4a33383c88774> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

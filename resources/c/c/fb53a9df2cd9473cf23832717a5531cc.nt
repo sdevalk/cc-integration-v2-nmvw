@@ -5,3 +5,10 @@
 <https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#creator> "Topografische Dienst" .
 <https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#locationCreated> "Teluk Seleman" .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#alternateName> "Teluk Seleman" .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#alternateName> "Sawaii Bay" .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#alternateName> "Teluk Sawai" .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#alternateName> "Baai van Seleman" .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#alternateName> "Baai van Sawai" .
+<https://n2t.net/ark:/27023/c814d2f14100aa404c77be92abebf480> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

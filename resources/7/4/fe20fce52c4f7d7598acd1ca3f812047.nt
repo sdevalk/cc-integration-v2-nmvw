@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#locationCreated> "Shūshtar" .
-<https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#alternateName> "شوشتر" .
-<https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#alternateName> "Shūstar" .
-<https://n2t.net/ark:/27023/6416f5e1151b7a914f94b5cbf6656138> <https://colonialcollections.nl/schema#alternateName> "Shooshtar" .

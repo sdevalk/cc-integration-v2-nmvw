@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/e5988b00fbd6f898e869ec6b1eee26c8> <https://colonialcollections.nl/schema#creator> "Mitchell, E.H." .
 <https://n2t.net/ark:/27023/e5988b00fbd6f898e869ec6b1eee26c8> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e5988b00fbd6f898e869ec6b1eee26c8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e5988b00fbd6f898e869ec6b1eee26c8> <https://colonialcollections.nl/schema#locationCreated> "North America" .

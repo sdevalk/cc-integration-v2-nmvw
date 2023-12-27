@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/67545f656a6eabb7064e79d1bc76aa51> <https://colonialcollections.nl/schema#creator> "J.R. (Johan Rudolf) Bonnet" .
 <https://n2t.net/ark:/27023/67545f656a6eabb7064e79d1bc76aa51> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/67545f656a6eabb7064e79d1bc76aa51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/67545f656a6eabb7064e79d1bc76aa51> <https://colonialcollections.nl/schema#locationCreated> "Tozeur" .
-<https://n2t.net/ark:/27023/67545f656a6eabb7064e79d1bc76aa51> <https://colonialcollections.nl/schema#alternateName> "Tozeur" .
-<https://n2t.net/ark:/27023/67545f656a6eabb7064e79d1bc76aa51> <https://colonialcollections.nl/schema#alternateName> "Tawzar" .

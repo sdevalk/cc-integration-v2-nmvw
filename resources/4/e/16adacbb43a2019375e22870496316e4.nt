@@ -4,6 +4,3 @@
 <https://n2t.net/ark:/27023/e5e3dc291004ff046499265adf4361e2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/e5e3dc291004ff046499265adf4361e2> <https://colonialcollections.nl/schema#creator> "Gyokuko" .
 <https://n2t.net/ark:/27023/e5e3dc291004ff046499265adf4361e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e5e3dc291004ff046499265adf4361e2> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/e5e3dc291004ff046499265adf4361e2> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/e5e3dc291004ff046499265adf4361e2> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
