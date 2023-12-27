@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#material> "hout ; kleurstof" .
 <https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#locationCreated> "Sungai Omba" .
+<https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#alternateName> "Omba-rivier" .
+<https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#alternateName> "Omba" .
+<https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#alternateName> "Wai Omba" .
+<https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#alternateName> "Omba Aru" .
+<https://n2t.net/ark:/27023/30d0726bd8463773c32de4a714550afb> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

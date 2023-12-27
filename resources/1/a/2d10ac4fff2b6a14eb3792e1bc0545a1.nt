@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/46c2283b1f7379b1d7833c2f589a5fe6> <https://colonialcollections.nl/schema#creator> "Mori Shunkei 森春渓" .
 <https://n2t.net/ark:/27023/46c2283b1f7379b1d7833c2f589a5fe6> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/46c2283b1f7379b1d7833c2f589a5fe6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/46c2283b1f7379b1d7833c2f589a5fe6> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/46c2283b1f7379b1d7833c2f589a5fe6> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/46c2283b1f7379b1d7833c2f589a5fe6> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/3dcbc67d0f7077cba03dc67f4cad7755> <https://colonialcollections.nl/schema#creator> "William T. Brigham" .
 <https://n2t.net/ark:/27023/3dcbc67d0f7077cba03dc67f4cad7755> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3dcbc67d0f7077cba03dc67f4cad7755> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3dcbc67d0f7077cba03dc67f4cad7755> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/3dcbc67d0f7077cba03dc67f4cad7755> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/3dcbc67d0f7077cba03dc67f4cad7755> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

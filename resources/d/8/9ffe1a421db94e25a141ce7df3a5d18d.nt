@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/405c2ef72123285a7f4d134dc666d53f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/405c2ef72123285a7f4d134dc666d53f> <https://colonialcollections.nl/schema#yearCreatedStart> "1200"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/405c2ef72123285a7f4d134dc666d53f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/405c2ef72123285a7f4d134dc666d53f> <https://colonialcollections.nl/schema#locationCreated> "Nicaragua" .
-<https://n2t.net/ark:/27023/405c2ef72123285a7f4d134dc666d53f> <https://colonialcollections.nl/schema#alternateName> "Republic of Nicaragua"@en .
-<https://n2t.net/ark:/27023/405c2ef72123285a7f4d134dc666d53f> <https://colonialcollections.nl/schema#countryCreated> "Nicaragua" .

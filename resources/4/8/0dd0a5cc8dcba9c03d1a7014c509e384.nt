@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/401ca0415fd46fc6440e863739bc6b36> <https://colonialcollections.nl/schema#creator> "Que, Gebroeders" .
 <https://n2t.net/ark:/27023/401ca0415fd46fc6440e863739bc6b36> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/401ca0415fd46fc6440e863739bc6b36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/401ca0415fd46fc6440e863739bc6b36> <https://colonialcollections.nl/schema#locationCreated> "Tondano" .
-<https://n2t.net/ark:/27023/401ca0415fd46fc6440e863739bc6b36> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

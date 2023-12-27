@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/453f75d2d19dcb613379a5b8fd9a409a> <https://colonialcollections.nl/schema#inscription> "achterzijde ; in aardewerk ; Made in Japan / voorzijde ; Ashes ; Cigarettes ; Matches" .
 <https://n2t.net/ark:/27023/453f75d2d19dcb613379a5b8fd9a409a> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/453f75d2d19dcb613379a5b8fd9a409a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/453f75d2d19dcb613379a5b8fd9a409a> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/453f75d2d19dcb613379a5b8fd9a409a> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/453f75d2d19dcb613379a5b8fd9a409a> <https://colonialcollections.nl/schema#countryCreated> "United States" .

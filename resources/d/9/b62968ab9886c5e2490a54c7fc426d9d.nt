@@ -5,3 +5,5 @@
 <https://n2t.net/ark:/27023/455d4b2f8c48afb9af454d3a732d6eea> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/455d4b2f8c48afb9af454d3a732d6eea> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/455d4b2f8c48afb9af454d3a732d6eea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/455d4b2f8c48afb9af454d3a732d6eea> <https://colonialcollections.nl/schema#locationCreated> "Androka" .
+<https://n2t.net/ark:/27023/455d4b2f8c48afb9af454d3a732d6eea> <https://colonialcollections.nl/schema#countryCreated> "Madagascar" .

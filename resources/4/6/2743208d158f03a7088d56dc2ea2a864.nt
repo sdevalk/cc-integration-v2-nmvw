@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/37cc45c195d708941480660c083c19a5> <https://colonialcollections.nl/schema#creator> "Detroit Publishing Compagny" .
 <https://n2t.net/ark:/27023/37cc45c195d708941480660c083c19a5> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37cc45c195d708941480660c083c19a5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37cc45c195d708941480660c083c19a5> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/37cc45c195d708941480660c083c19a5> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/37cc45c195d708941480660c083c19a5> <https://colonialcollections.nl/schema#countryCreated> "United States" .

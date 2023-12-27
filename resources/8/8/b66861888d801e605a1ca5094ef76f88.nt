@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#inscription> "nummer met inkt geschreven op foto /\r\n(1) titel met inkt geschreven op voorzijde karton /\r\n(2) titel en nummer met inkt geschreven op etiket op achterzijde karton" .
 <https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#locationCreated> "Shūshtar" .
-<https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#alternateName> "Shūstar" .
-<https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#alternateName> "شوشتر" .
-<https://n2t.net/ark:/27023/3efb26879f2c6c76c8ae755aa0753a47> <https://colonialcollections.nl/schema#alternateName> "Shooshtar" .

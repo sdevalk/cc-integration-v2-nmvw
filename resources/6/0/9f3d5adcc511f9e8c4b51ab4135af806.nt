@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#inscription> "[T] Zeshin (1807-1891)" .
 <https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#yearCreatedStart> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/3dbc99b4f236a5501a102abf14f5f525> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#creator> "Ir. T.W. (Theodore Willem) van Schaïk" .
 <https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#locationCreated> "Colombo" .
-<https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#alternateName> "Colombo"@en .
-<https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#alternateName> "Columbo" .
-<https://n2t.net/ark:/27023/3f57e06233c377188c593aba35ea778a> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

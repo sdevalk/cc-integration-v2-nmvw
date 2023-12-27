@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/40994ce61cb4346487c7a44636a5bb7c> <https://colonialcollections.nl/schema#creator> "Maud Begau" .
 <https://n2t.net/ark:/27023/40994ce61cb4346487c7a44636a5bb7c> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/40994ce61cb4346487c7a44636a5bb7c> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/40994ce61cb4346487c7a44636a5bb7c> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/40994ce61cb4346487c7a44636a5bb7c> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

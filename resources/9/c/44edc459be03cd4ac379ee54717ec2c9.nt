@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/37950e5073177940db0b2f5a191ab623> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/37950e5073177940db0b2f5a191ab623> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37950e5073177940db0b2f5a191ab623> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37950e5073177940db0b2f5a191ab623> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/37950e5073177940db0b2f5a191ab623> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/37950e5073177940db0b2f5a191ab623> <https://colonialcollections.nl/schema#countryCreated> "United States" .

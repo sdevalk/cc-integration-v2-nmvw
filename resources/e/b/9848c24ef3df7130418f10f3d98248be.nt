@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/36912e1054d7e749d57e552a29783ba0> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/36912e1054d7e749d57e552a29783ba0> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/36912e1054d7e749d57e552a29783ba0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/36912e1054d7e749d57e552a29783ba0> <https://colonialcollections.nl/schema#locationCreated> "Panama" .
+<https://n2t.net/ark:/27023/36912e1054d7e749d57e552a29783ba0> <https://colonialcollections.nl/schema#alternateName> "Republic of Panama"@en .
+<https://n2t.net/ark:/27023/36912e1054d7e749d57e552a29783ba0> <https://colonialcollections.nl/schema#countryCreated> "Panama" .

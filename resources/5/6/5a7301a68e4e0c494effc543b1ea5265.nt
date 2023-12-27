@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/3ed96e5b8c31644c1498d5cdc55ae8ee> <https://colonialcollections.nl/schema#creator> "Isoda Koryûsai" .
 <https://n2t.net/ark:/27023/3ed96e5b8c31644c1498d5cdc55ae8ee> <https://colonialcollections.nl/schema#yearCreatedStart> "1777"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3ed96e5b8c31644c1498d5cdc55ae8ee> <https://colonialcollections.nl/schema#yearCreatedEnd> "1777"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3ed96e5b8c31644c1498d5cdc55ae8ee> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/3ed96e5b8c31644c1498d5cdc55ae8ee> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/3ed96e5b8c31644c1498d5cdc55ae8ee> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

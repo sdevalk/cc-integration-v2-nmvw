@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/40514edf08894e029e03dca9d0624f8a> <https://colonialcollections.nl/schema#creator> "J.W. (John) Cleary" .
 <https://n2t.net/ark:/27023/40514edf08894e029e03dca9d0624f8a> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/40514edf08894e029e03dca9d0624f8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/40514edf08894e029e03dca9d0624f8a> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/40514edf08894e029e03dca9d0624f8a> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/40514edf08894e029e03dca9d0624f8a> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

@@ -5,3 +5,11 @@
 <https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#creator> "museumfotograaf" .
 <https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#locationCreated> "Ivory Coast" .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#alternateName> "Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#alternateName> "Elfenbein-Küste" .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#alternateName> "Côte d'Ivoire"@en .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#alternateName> "Republic of Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#alternateName> "Costa de Marfil" .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#alternateName> "Ivory Coast" .
+<https://n2t.net/ark:/27023/371d5ccf62ff5e05750bf9bc43304547> <https://colonialcollections.nl/schema#countryCreated> "Ivory Coast" .

@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/3faa2a83b8b6babe3dd484e7b409e4f0> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/3faa2a83b8b6babe3dd484e7b409e4f0> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3faa2a83b8b6babe3dd484e7b409e4f0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3faa2a83b8b6babe3dd484e7b409e4f0> <https://colonialcollections.nl/schema#locationCreated> "Midelt" .
+<https://n2t.net/ark:/27023/3faa2a83b8b6babe3dd484e7b409e4f0> <https://colonialcollections.nl/schema#alternateName> "Midelt" .
+<https://n2t.net/ark:/27023/3faa2a83b8b6babe3dd484e7b409e4f0> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

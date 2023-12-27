@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#creator> "T. (Tassilo) Adam" .
 <https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#yearCreatedStart> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Tapanuli Utara" .
-<https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#alternateName> "North Tapanuli Regency" .
-<https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#alternateName> "Tapanuli Utara" .
-<https://n2t.net/ark:/27023/31aec2849ebd412abe9c3f0cb8c6cfc7> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

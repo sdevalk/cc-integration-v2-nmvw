@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#creator> "Terry Ngamandara" .
 <https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/3099e178e8d006723fb9a50734deb0db> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

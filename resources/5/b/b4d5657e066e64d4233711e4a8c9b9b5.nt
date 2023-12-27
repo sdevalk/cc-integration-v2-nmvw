@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#inscription> "1983 Tertu" .
 <https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/3047b033cb463509bf13a07b7b4249f4> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

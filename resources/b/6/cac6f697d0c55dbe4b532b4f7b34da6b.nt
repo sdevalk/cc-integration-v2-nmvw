@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#inscription> "titel en nummer linksonder geschreven in negatief" .
 <https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/3f20b12eb0905ed9eb6c1ca3c92a121c> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

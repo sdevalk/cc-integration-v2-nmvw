@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#creator> "Sapra Studio" .
 <https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#locationCreated> "Zambia" .
+<https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia"@en .
+<https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia" .
+<https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#alternateName> "Republic of Zambia"@en .
+<https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#alternateName> "Zambia" .
+<https://n2t.net/ark:/27023/41379898d416961e965a7b7ff7b93ad0> <https://colonialcollections.nl/schema#countryCreated> "Zambia" .

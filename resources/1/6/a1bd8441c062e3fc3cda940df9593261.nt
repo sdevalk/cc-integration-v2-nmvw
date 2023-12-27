@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/3fe66935601f728a744304f4505541a1> <https://colonialcollections.nl/schema#creator> "Thrift Novelty Co." .
 <https://n2t.net/ark:/27023/3fe66935601f728a744304f4505541a1> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3fe66935601f728a744304f4505541a1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3fe66935601f728a744304f4505541a1> <https://colonialcollections.nl/schema#locationCreated> "Mesa Verde National Park" .

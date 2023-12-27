@@ -3,6 +3,3 @@
 <https://n2t.net/ark:/27023/3ef4c14a4bd7563b3b10222a5105f550> <https://colonialcollections.nl/schema#name> "BAMBOE HAARSPELD" .
 <https://n2t.net/ark:/27023/3ef4c14a4bd7563b3b10222a5105f550> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3ef4c14a4bd7563b3b10222a5105f550> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3ef4c14a4bd7563b3b10222a5105f550> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/3ef4c14a4bd7563b3b10222a5105f550> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/3ef4c14a4bd7563b3b10222a5105f550> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

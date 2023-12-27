@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#creator> "Isidore van Kinsbergen" .
 <https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#yearCreatedStart> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#locationCreated> "Banyumas Regency" .
-<https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#alternateName> "Banyumas Regency"@en .
-<https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Banjumas" .
-<https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Banjumas" .
-<https://n2t.net/ark:/27023/39ab9e7b8b1973cebd213fd9d5867e5a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

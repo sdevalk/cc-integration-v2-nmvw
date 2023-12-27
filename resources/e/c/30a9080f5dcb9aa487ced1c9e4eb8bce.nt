@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#creator> "Hubertus Nicolaas Sieburgh" .
 <https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#yearCreatedStart> "1841"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1841"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Karanganyar" .
+<https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Karanganjar" .
+<https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Karanganjar" .
+<https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Karanganyar" .
+<https://n2t.net/ark:/27023/37491da714d917c4d8c8219e28adce67> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

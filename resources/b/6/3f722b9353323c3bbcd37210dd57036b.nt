@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
 <https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#yearCreatedStart> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/3139d0e18e4a079d26b2703c2dea3d9c> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

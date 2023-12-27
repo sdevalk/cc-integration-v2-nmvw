@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#creator> "Lucy Yukenbarri Napanangka" .
 <https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#yearCreatedEnd> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/45c30122cbf452392d42eb2f25f3cc21> <https://colonialcollections.nl/schema#countryCreated> "Australia" .
