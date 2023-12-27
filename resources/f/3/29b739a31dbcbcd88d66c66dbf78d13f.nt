@@ -7,3 +7,17 @@
 <https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#yearCreatedStart> "1873"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#locationCreated> "Yemen" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Yaman" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Republic of Yemen"@en .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Al Jumhūrīyah al Yamanīyah" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Arabia Felix / Arabia eudaímōn"@en .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Al Yaman" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#countryCreated> "Yemen" .
+<https://n2t.net/ark:/27023/cf512aaad069fde1db067d6985bbe36d> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

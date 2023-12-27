@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#creator> "Het National Institute for Zorig Chusum" .
 <https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#locationCreated> "Bhutan" .
-<https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#alternateName> "Druk-yul" .
-<https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#alternateName> "Bhutan" .
-<https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Bhutan" .
-<https://n2t.net/ark:/27023/a6fbd79d7e36955cd5705dfc0469d340> <https://colonialcollections.nl/schema#countryCreated> "Bhutan" .

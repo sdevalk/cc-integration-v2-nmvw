@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/a503799393e03e4d3683e94fd099c49f> <https://colonialcollections.nl/schema#creator> "Albert Artwell" .
 <https://n2t.net/ark:/27023/a503799393e03e4d3683e94fd099c49f> <https://colonialcollections.nl/schema#yearCreatedStart> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a503799393e03e4d3683e94fd099c49f> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a503799393e03e4d3683e94fd099c49f> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/a503799393e03e4d3683e94fd099c49f> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/a503799393e03e4d3683e94fd099c49f> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

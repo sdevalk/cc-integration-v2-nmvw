@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#locationCreated> "Russia" .
-<https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#alternateName> "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#alternateName> "Russian Soviet Federative Socialist Republic"@en .
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#alternateName> "Rossiya" .
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#alternateName> "Russian Federation"@en .
 <https://n2t.net/ark:/27023/a73d558c5c76da6201d6901bb47f0801> <https://colonialcollections.nl/schema#alternateName> "Russian Socialist Federative Soviet Republic" .

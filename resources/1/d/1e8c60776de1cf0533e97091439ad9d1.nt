@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#creator> "Ida Bagus Anom" .
 <https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/a5e1dad55d47ffa50ab4f6cf0feb74f6> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

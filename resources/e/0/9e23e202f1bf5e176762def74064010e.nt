@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#name> "LEREN BOVENARMBAND, ONDERDEEL VAN KOSTUUM KEBYARDANSER" .
 <https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/9ea61d93503ea6ef8db2346a9ed568aa> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

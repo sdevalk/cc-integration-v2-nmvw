@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#inscription> "[T] spear can never conquer gun\r\n     man no more the horse outrun\r\n     by the ... last tossed\r\n     still in death lies everyone\r\n     and the battle’s lost\r\n[T] KALKADOON AND MITA KOODI MEMORIALS\r\n      KKK\r\n[B] KKK over het bord gespoten\r\n[T] the layer of hate\r\n      since 1788\r\n      is still hoveling\r\n      waiting\r\n      in 1995" .
 <https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/9faef8bd5fd160b5f5222f46f09d122a> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

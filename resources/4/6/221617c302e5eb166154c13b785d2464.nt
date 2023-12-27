@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/d1defc29c7c51a834d99320ac327b77c> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op voorzijde karton [handschrift H.F.C. ten Kate]" .
 <https://n2t.net/ark:/27023/d1defc29c7c51a834d99320ac327b77c> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d1defc29c7c51a834d99320ac327b77c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d1defc29c7c51a834d99320ac327b77c> <https://colonialcollections.nl/schema#locationCreated> "Mescalero Reservation" .
+<https://n2t.net/ark:/27023/d1defc29c7c51a834d99320ac327b77c> <https://colonialcollections.nl/schema#alternateName> "Mescalero Apache Indian Reservation" .
+<https://n2t.net/ark:/27023/d1defc29c7c51a834d99320ac327b77c> <https://colonialcollections.nl/schema#countryCreated> "United States" .

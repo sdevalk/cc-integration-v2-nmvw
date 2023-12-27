@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#name> "VIER VISSERS" .
 <https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/a5229dba3e7bf8784a51d1ea0d0f02ef> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

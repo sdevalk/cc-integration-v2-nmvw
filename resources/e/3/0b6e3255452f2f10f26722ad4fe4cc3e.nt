@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#creator> "Museum Volkenkunde" .
 <https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#yearCreatedStart> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/d1eaf7c81bacf2ae6d58d9d48f741871> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

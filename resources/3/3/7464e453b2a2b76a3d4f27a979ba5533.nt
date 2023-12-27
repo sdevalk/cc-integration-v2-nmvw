@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/d213d01ff49de5d82ae5cbc32d432adc> <https://colonialcollections.nl/schema#inscription> "Voorzijde:\r\nwapen van de Verenigde Staten; rondschrift \"Nuietd Satase of Aemrica\" (ipv United States of America); \"2 1/2 D.\"\r\nKeerzijde:\r\nvrouwenhoofd naar links gewend; 13 vijfpuntige sterren; \"1906\"; sporen van waar een oogje heeft gezeten\r\nZijkant:\r\ngeribbeld" .
 <https://n2t.net/ark:/27023/d213d01ff49de5d82ae5cbc32d432adc> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d213d01ff49de5d82ae5cbc32d432adc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d213d01ff49de5d82ae5cbc32d432adc> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/d213d01ff49de5d82ae5cbc32d432adc> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/d213d01ff49de5d82ae5cbc32d432adc> <https://colonialcollections.nl/schema#countryCreated> "United States" .

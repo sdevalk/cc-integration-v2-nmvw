@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/a746283dc52339237598c4c15a7f9b15> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a746283dc52339237598c4c15a7f9b15> <https://colonialcollections.nl/schema#creator> "Z. Prévost" .
 <https://n2t.net/ark:/27023/a746283dc52339237598c4c15a7f9b15> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a746283dc52339237598c4c15a7f9b15> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/a746283dc52339237598c4c15a7f9b15> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/a746283dc52339237598c4c15a7f9b15> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#material> "hout ; huid (slang); rotan" .
 <https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#locationCreated> "Supiori" .
-<https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#alternateName> "Soepiori Island" .
-<https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#alternateName> "Soepiori" .
-<https://n2t.net/ark:/27023/d0f56c0ccaad538bf43dd3c47c70a5f5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

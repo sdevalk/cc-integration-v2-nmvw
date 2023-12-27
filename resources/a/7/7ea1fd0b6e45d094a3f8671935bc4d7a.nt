@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/9e8802ed8dad0eddb43916e9c522f428> <https://colonialcollections.nl/schema#creator> "A. (Arnannguaq) Høegh" .
 <https://n2t.net/ark:/27023/9e8802ed8dad0eddb43916e9c522f428> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9e8802ed8dad0eddb43916e9c522f428> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9e8802ed8dad0eddb43916e9c522f428> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

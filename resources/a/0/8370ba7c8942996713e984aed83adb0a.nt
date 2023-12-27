@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#creator> "Twins Seven Seven" .
 <https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#locationCreated> "Osogbo" .
+<https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#alternateName> "Eshogbo" .
+<https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#alternateName> "Osogbo"@en .
+<https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#alternateName> "Osogbo" .
+<https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#alternateName> "Oshogbo" .
+<https://n2t.net/ark:/27023/d014fca2a868017c5f542e9505421861> <https://colonialcollections.nl/schema#countryCreated> "Nigeria" .

@@ -9,3 +9,11 @@
 <https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#inscription> "titel en merk gedrukt op achterzijde" .
 <https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#locationCreated> "Ivory Coast" .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#alternateName> "Côte d'Ivoire"@en .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#alternateName> "Elfenbein-Küste" .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#alternateName> "Republic of Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#alternateName> "Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#alternateName> "Ivory Coast" .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#alternateName> "Costa de Marfil" .
+<https://n2t.net/ark:/27023/a77014777bd2ed32ea4cd03f2298536b> <https://colonialcollections.nl/schema#countryCreated> "Ivory Coast" .

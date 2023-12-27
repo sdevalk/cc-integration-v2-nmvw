@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/cf7083d5c83473c3b8bb52467c9f9adf> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/cf7083d5c83473c3b8bb52467c9f9adf> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cf7083d5c83473c3b8bb52467c9f9adf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cf7083d5c83473c3b8bb52467c9f9adf> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/cf7083d5c83473c3b8bb52467c9f9adf> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/cf7083d5c83473c3b8bb52467c9f9adf> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

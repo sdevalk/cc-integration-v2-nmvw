@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/9d7a6b95ece334f36ec0ad070cc4e0bc> <https://colonialcollections.nl/schema#creator> "W.O.J. (Wijnand Otto Jan) Nieuwenkamp" .
 <https://n2t.net/ark:/27023/9d7a6b95ece334f36ec0ad070cc4e0bc> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9d7a6b95ece334f36ec0ad070cc4e0bc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9d7a6b95ece334f36ec0ad070cc4e0bc> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/9d7a6b95ece334f36ec0ad070cc4e0bc> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/9d7a6b95ece334f36ec0ad070cc4e0bc> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

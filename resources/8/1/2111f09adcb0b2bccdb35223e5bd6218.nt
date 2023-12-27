@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#creator> "Dunlop, A.C." .
 <https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/9fdd04f2182099a52e10a78dbb17cf36> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

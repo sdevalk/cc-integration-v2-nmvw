@@ -8,4 +8,3 @@
 <https://n2t.net/ark:/27023/a6c47445cfac2c2e7f505f219d49e32e> <https://colonialcollections.nl/schema#creator> "J.M. (Joseph Marquerite) Montano" .
 <https://n2t.net/ark:/27023/a6c47445cfac2c2e7f505f219d49e32e> <https://colonialcollections.nl/schema#yearCreatedStart> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a6c47445cfac2c2e7f505f219d49e32e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a6c47445cfac2c2e7f505f219d49e32e> <https://colonialcollections.nl/schema#locationCreated> "Sulu Archipelago" .

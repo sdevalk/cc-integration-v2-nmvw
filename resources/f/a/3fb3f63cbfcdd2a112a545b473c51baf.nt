@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#creator> "Bodil Christensen" .
 <https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#locationCreated> "Nayarit" .
-<https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#alternateName> "Tepic" .
-<https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#alternateName> "Nayarit"@en .
-<https://n2t.net/ark:/27023/a59734da5ccbe4654480c166a7da5c19> <https://colonialcollections.nl/schema#alternateName> "Estado de Nayarit" .

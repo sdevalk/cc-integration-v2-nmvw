@@ -5,3 +5,5 @@
 <https://n2t.net/ark:/27023/a7f947c6573b548adc7751b83a582cfc> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/a7f947c6573b548adc7751b83a582cfc> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a7f947c6573b548adc7751b83a582cfc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a7f947c6573b548adc7751b83a582cfc> <https://colonialcollections.nl/schema#locationCreated> "Tomohon" .
+<https://n2t.net/ark:/27023/a7f947c6573b548adc7751b83a582cfc> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

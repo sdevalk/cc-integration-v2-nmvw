@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/cf3217d200bbd51ae7a5e56347c758f1> <https://colonialcollections.nl/schema#creator> "diverse" .
 <https://n2t.net/ark:/27023/cf3217d200bbd51ae7a5e56347c758f1> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cf3217d200bbd51ae7a5e56347c758f1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cf3217d200bbd51ae7a5e56347c758f1> <https://colonialcollections.nl/schema#locationCreated> "North America" .

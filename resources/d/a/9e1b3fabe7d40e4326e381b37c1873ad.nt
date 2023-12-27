@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#creator> "Inge Drijfhout-Geijteman" .
 <https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#yearCreatedStart> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/d01cd46d8ee8679bbdc5e4b8265e5743> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

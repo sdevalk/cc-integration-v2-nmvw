@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#name> "ZIJDEN SLUIER MET ZILVERDRAAD IN SUPPLETOIRE INSLAG" .
 <https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/9d4682a7456d8a92f4332b1bdd3bd4dd> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

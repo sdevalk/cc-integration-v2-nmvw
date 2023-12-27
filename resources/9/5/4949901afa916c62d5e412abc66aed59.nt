@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/a5ba3d30cb137b40bd20ae6b5d76aace> <https://colonialcollections.nl/schema#material> "been (walvis)" .
 <https://n2t.net/ark:/27023/a5ba3d30cb137b40bd20ae6b5d76aace> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a5ba3d30cb137b40bd20ae6b5d76aace> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a5ba3d30cb137b40bd20ae6b5d76aace> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/a5ba3d30cb137b40bd20ae6b5d76aace> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/a5ba3d30cb137b40bd20ae6b5d76aace> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

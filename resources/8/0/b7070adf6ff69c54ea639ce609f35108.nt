@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#locationCreated> "Madurai" .
-<https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#alternateName> "Mathurai" .
-<https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#alternateName> "Madurai"@en .
-<https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#alternateName> "Madura" .
-<https://n2t.net/ark:/27023/9da4e9cadb508f0adf1b2b8a45501a4f> <https://colonialcollections.nl/schema#alternateName> "Madurai" .

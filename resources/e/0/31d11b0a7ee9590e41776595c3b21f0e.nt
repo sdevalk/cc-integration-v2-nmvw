@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/d0310b915bff7c3c9233ef418e7bf8db> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt onder foto" .
 <https://n2t.net/ark:/27023/d0310b915bff7c3c9233ef418e7bf8db> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d0310b915bff7c3c9233ef418e7bf8db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d0310b915bff7c3c9233ef418e7bf8db> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/d0310b915bff7c3c9233ef418e7bf8db> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/d0310b915bff7c3c9233ef418e7bf8db> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

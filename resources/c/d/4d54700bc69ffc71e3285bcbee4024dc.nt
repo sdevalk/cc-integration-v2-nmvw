@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#creator> "Soi" .
 <https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/d270cd73f1662f6917cda62389f97be3> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

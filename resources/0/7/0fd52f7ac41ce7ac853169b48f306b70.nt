@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#inscription> "Titel gechreven in negatief in tekstblak. Achterop karton geschreven met inkt : Patagonië. Van P.A. de Bruyne Punta Arenas IX - 06." .
 <https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#locationCreated> "Punta Arenas" .
+<https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#alternateName> "Punta Arenas" .
+<https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#alternateName> "Punta Arena" .
+<https://n2t.net/ark:/27023/a55c30384e4d7261d4ac4e4dbfc803e6> <https://colonialcollections.nl/schema#countryCreated> "Chile" .

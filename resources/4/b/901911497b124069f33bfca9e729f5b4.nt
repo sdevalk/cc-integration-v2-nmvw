@@ -4,7 +4,6 @@
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#locationCreated> "Sri Lanka" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Taprobane" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Dominion of Ceylon" .
@@ -12,10 +11,7 @@
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Democratic Socialist Republic of Sri Lanka" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Sri Lankā Janarajaya" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Serendib" .
-<https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Ceylon" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Sri Lanka" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#alternateName> "Lanka" .
-<https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
 <https://n2t.net/ark:/27023/a0d7851baa60d6f15b707353eb43f474> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

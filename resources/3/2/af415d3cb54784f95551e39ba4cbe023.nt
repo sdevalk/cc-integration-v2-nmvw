@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#inscription> "titel gedrukt op voorzijde papier" .
 <https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/a6f63f7aa26024cb61933e50d587aa3a> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

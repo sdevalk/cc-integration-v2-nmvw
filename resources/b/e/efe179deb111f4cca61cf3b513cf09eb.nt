@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#inscription> "titel geschreven op achterzijde karton [handschrift H.F.C. ten Kate]" .
 <https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#locationCreated> "Sweden" .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Sweden"@en .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#alternateName> "Suède" .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#alternateName> "Schweden" .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#alternateName> "Svezia" .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#alternateName> "Ruotsi" .
+<https://n2t.net/ark:/27023/9e7e953d76869b96c7a88f8fdc9a9bc5> <https://colonialcollections.nl/schema#countryCreated> "Sweden" .

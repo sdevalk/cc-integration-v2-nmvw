@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#yearCreatedStart> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#locationCreated> "Tétouan" .
+<https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#alternateName> "Tétouan" .
+<https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#alternateName> "Tetuán" .
+<https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#alternateName> "Tetouan" .
+<https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#alternateName> "Tétouan"@en .
+<https://n2t.net/ark:/27023/9f52e0a75d8fe967d55ab40e27892863> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

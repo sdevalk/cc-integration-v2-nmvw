@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/a696ade23ea6dca19d0adbfa7ae0085d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a696ade23ea6dca19d0adbfa7ae0085d> <https://colonialcollections.nl/schema#yearCreatedStart> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a696ade23ea6dca19d0adbfa7ae0085d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a696ade23ea6dca19d0adbfa7ae0085d> <https://colonialcollections.nl/schema#locationCreated> "Loango" .

@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/d2460c584a547a6bc7660bebd4faaaff> <https://colonialcollections.nl/schema#creator> "Pilavia Kristiansen" .
 <https://n2t.net/ark:/27023/d2460c584a547a6bc7660bebd4faaaff> <https://colonialcollections.nl/schema#yearCreatedStart> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d2460c584a547a6bc7660bebd4faaaff> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d2460c584a547a6bc7660bebd4faaaff> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

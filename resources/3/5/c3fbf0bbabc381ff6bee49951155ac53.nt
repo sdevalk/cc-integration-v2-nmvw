@@ -4,8 +4,8 @@
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#locationCreated> "Ethiopia" .
-<https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#alternateName> "Abissinia" .
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#alternateName> "Hibreteseb’āwīt Ītyop’iya" .
+<https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#alternateName> "Abissinia" .
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#alternateName> "El Habesha" .
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#alternateName> "Ye’ Etiyop’iya Niguse Negast Mengist" .
 <https://n2t.net/ark:/27023/d25eaee54cbfc716db6f5be62015e91e> <https://colonialcollections.nl/schema#alternateName> "Abyssinie" .

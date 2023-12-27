@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#inscription> "Notitie op achterzijde montering:\r\nHet einde van een publieke vrouw door Kiosai.\r\nDen 20sten Maart 1886 door Kiosai in mijne tegenwoordigheid geschilderd. \r\nTen 3 uur nm. kreeg hij een rol wit papier en ten 5 uur 40 min. nm. was de tekening voltooid.\r\nP.S." .
 <https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/63a6b8e4878810427787344cd5397c5f> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

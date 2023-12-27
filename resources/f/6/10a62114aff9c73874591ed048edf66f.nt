@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#inscription> "'rode .. steen' (aka magaseki); 'paarse inktsteen steen' (murasaki suzuri isi), in inkt op de onderkant geschreven" .
 <https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1826"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/d24aabe9392a024cc9b5301fbde70fd0> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

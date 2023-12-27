@@ -7,15 +7,21 @@
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#locationCreated> "Israel" .
-<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#locationCreated> "Thailand" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Dawlat Isrā’īl" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Isrā’īl" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Thailand" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Prathet Thai" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Israel" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Ereẕ Yisra’el" .
-<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Yisra’el" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "State of Israel"@en .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Ratcha Anachak Thai" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Eretz Yisrael" .
-<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Prades Thai" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Muang-Thai" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Thailand"@en .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Siam" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#alternateName> "Sayam" .
+<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#countryCreated> "Thailand" .
 <https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#countryCreated> "Israel" .
-<https://n2t.net/ark:/27023/9dcd698f03964c74fe31e1ecc320eec1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

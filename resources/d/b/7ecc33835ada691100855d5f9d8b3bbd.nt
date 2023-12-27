@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#creator> "Fibo" .
 <https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/63b3855c05c459178a38e7c983cb116e> <https://colonialcollections.nl/schema#countryCreated> "India" .

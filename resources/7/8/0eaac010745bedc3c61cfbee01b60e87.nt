@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/a70208eeaf6b44e80800c3c8ce520cc2> <https://colonialcollections.nl/schema#creator> "Harvey, F., Corp." .
 <https://n2t.net/ark:/27023/a70208eeaf6b44e80800c3c8ce520cc2> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a70208eeaf6b44e80800c3c8ce520cc2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a70208eeaf6b44e80800c3c8ce520cc2> <https://colonialcollections.nl/schema#locationCreated> "North America" .

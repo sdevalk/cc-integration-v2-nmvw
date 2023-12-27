@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/d0a4d7c06805f93fe602c5dba452f1ea> <https://colonialcollections.nl/schema#inscription> "'XIX 32/720' met potlood geschreven op achterzijde foto" .
 <https://n2t.net/ark:/27023/d0a4d7c06805f93fe602c5dba452f1ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d0a4d7c06805f93fe602c5dba452f1ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d0a4d7c06805f93fe602c5dba452f1ea> <https://colonialcollections.nl/schema#locationCreated> "Trobriand Islands" .
-<https://n2t.net/ark:/27023/d0a4d7c06805f93fe602c5dba452f1ea> <https://colonialcollections.nl/schema#alternateName> "Trobriand Islands" .
-<https://n2t.net/ark:/27023/d0a4d7c06805f93fe602c5dba452f1ea> <https://colonialcollections.nl/schema#alternateName> "Kiriwina Islands" .

@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/d153f426e12d56bb2490376e70d7ad33> <https://colonialcollections.nl/schema#creator> "Bernard Matemera" .
 <https://n2t.net/ark:/27023/d153f426e12d56bb2490376e70d7ad33> <https://colonialcollections.nl/schema#yearCreatedStart> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d153f426e12d56bb2490376e70d7ad33> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d153f426e12d56bb2490376e70d7ad33> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/d153f426e12d56bb2490376e70d7ad33> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/d153f426e12d56bb2490376e70d7ad33> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

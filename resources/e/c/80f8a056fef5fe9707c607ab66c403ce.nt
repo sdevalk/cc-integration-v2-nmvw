@@ -8,4 +8,3 @@
 <https://n2t.net/ark:/27023/a6a3e28f30e04d61d687e34c99122b01> <https://colonialcollections.nl/schema#inscription> "titel door W. Schüller geschreven op achterzijde karton met potlood" .
 <https://n2t.net/ark:/27023/a6a3e28f30e04d61d687e34c99122b01> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a6a3e28f30e04d61d687e34c99122b01> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a6a3e28f30e04d61d687e34c99122b01> <https://colonialcollections.nl/schema#locationCreated> "North America" .

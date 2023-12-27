@@ -5,6 +5,6 @@
 <https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
-<https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
 <https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
+<https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
 <https://n2t.net/ark:/27023/a6abd1782b3c2877e12172000b2ad351> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .

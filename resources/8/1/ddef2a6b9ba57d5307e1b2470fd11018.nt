@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#creator> "Rhoda Parker" .
 <https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/cf919101394670be656ff1554754fa0e> <https://colonialcollections.nl/schema#countryCreated> "Canada" .
