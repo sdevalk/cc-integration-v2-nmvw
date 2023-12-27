@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/c262896b4ccae509406f0f98f44adb30> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
 <https://n2t.net/ark:/27023/c262896b4ccae509406f0f98f44adb30> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c262896b4ccae509406f0f98f44adb30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c262896b4ccae509406f0f98f44adb30> <https://colonialcollections.nl/schema#locationCreated> "Kabanjahe" .
-<https://n2t.net/ark:/27023/c262896b4ccae509406f0f98f44adb30> <https://colonialcollections.nl/schema#alternateName> "Kabandjahe" .
-<https://n2t.net/ark:/27023/c262896b4ccae509406f0f98f44adb30> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

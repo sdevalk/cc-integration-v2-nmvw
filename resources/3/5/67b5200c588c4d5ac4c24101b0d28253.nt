@@ -6,3 +6,13 @@
 <https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#yearCreatedStart> "1176"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1176"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#locationCreated> "Tunis Governorate" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Gouvernorat de Tunis et Banlieue" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Tunis Banlieue" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Gouvernorat de Tunis" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Wilāyat Tūnis" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Tunis" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Tunis Governorate"@en .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Wilāyat Tūnis wa al Aḩwāz" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#alternateName> "Tunis and Banlieue" .
+<https://n2t.net/ark:/27023/e49437e6454cf41aef8cbc2897c0652e> <https://colonialcollections.nl/schema#countryCreated> "Tunisia" .

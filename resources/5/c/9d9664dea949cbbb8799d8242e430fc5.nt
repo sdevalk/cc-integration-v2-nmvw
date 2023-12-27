@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#creator> "Teuku Mansur Leupeung" .
 <https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#locationCreated> "Lhoknga" .
-<https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#alternateName> "Lho'nga" .
-<https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#alternateName> "Lho’nga" .
-<https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#alternateName> "Lho’gna" .
-<https://n2t.net/ark:/27023/485484555199c665c2eec5e1edd442f7> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

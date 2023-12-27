@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#inscription> "5 regels tekst in Takri en Dogri schriften en 1 regel in Nagari op schutblad" .
 <https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#yearCreatedEnd> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/c253e6d3359f0c13d9645cfec936db55> <https://colonialcollections.nl/schema#countryCreated> "India" .

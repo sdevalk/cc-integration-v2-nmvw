@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#creator> "Prof. A. (Albert) Grubauer" .
 <https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#locationCreated> "Southeast Sulawesi" .
-<https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Tenggara" .
-<https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#alternateName> "Southeast Sulawesi" .
-<https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Tenggara" .
-<https://n2t.net/ark:/27023/dc585c9e5009251cf499752ff3f1fc90> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

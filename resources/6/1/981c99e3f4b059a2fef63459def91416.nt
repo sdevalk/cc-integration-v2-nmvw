@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#creator> "Kozaburo Tamamura" .
 <https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#locationCreated> "Hatsukaichi" .
+<https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#alternateName> "Hatsukaichi" .
+<https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#alternateName> "Hatsukaichi"@en .
+<https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#alternateName> "Hatukaiti" .
+<https://n2t.net/ark:/27023/daf48764e9bcf1407a2b882f96d8bc4b> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

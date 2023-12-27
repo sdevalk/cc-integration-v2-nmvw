@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/dd30a32979a981fc0b20eaa2d91c5151> <https://colonialcollections.nl/schema#creator> "Verenigde Filmdiensten VNFI" .
 <https://n2t.net/ark:/27023/dd30a32979a981fc0b20eaa2d91c5151> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dd30a32979a981fc0b20eaa2d91c5151> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dd30a32979a981fc0b20eaa2d91c5151> <https://colonialcollections.nl/schema#locationCreated> "Pakistan" .
+<https://n2t.net/ark:/27023/dd30a32979a981fc0b20eaa2d91c5151> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Pakistan"@en .
+<https://n2t.net/ark:/27023/dd30a32979a981fc0b20eaa2d91c5151> <https://colonialcollections.nl/schema#countryCreated> "Pakistan" .

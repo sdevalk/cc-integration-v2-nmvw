@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#locationCreated> "Brazil" .
-<https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#alternateName> "Federative Republic of Brazil"@en .
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#alternateName> "Brésil" .
+<https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#alternateName> "Federative Republic of Brazil"@en .
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#alternateName> "República dos Estados Unidos do Brasil" .
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#alternateName> "Brazil" .
 <https://n2t.net/ark:/27023/dae5995a0cf47b030d212908a67f383b> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos do Brasil" .

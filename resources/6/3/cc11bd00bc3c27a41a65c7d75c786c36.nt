@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#yearCreatedStart> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#locationCreated> "Kota Medan" .
-<https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Medan" .
-<https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Medan" .
-<https://n2t.net/ark:/27023/db0400c1ef1ff26f723c4c2cd509752a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

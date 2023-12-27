@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/de31780c5ffc18e5bd3b94f63b03951d> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/de31780c5ffc18e5bd3b94f63b03951d> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/de31780c5ffc18e5bd3b94f63b03951d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/de31780c5ffc18e5bd3b94f63b03951d> <https://colonialcollections.nl/schema#locationCreated> "Caribbean" .
-<https://n2t.net/ark:/27023/de31780c5ffc18e5bd3b94f63b03951d> <https://colonialcollections.nl/schema#alternateName> "Caribbean"@en .

@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#inscription> "titel geschreven op achterzijde karton [handschrift Ten Kate],\r\n'omg. Encarnacio' achterop karton geschreven" .
 <https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#yearCreatedStart> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#locationCreated> "Encarnación" .
+<https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#alternateName> "Encarnación"@en .
+<https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#alternateName> "Encarnación" .
+<https://n2t.net/ark:/27023/e4c0be5644d1484cc8cb77d43135ba7d> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

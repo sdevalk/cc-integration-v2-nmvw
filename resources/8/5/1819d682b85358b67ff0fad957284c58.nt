@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#inscription> "op de voorkant van de inktstaaf staat waarschijnlijk de handelsnaam van de maker: 'ambitieus huis' (haka dai); de tekst op de achterkant van de inktstaaf is waarschijnlijk een poetische tekst; op de sticker staat 'tsuchi kadai'; de vertaling hiervan is niet duidelijk." .
 <https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/e28a44a9268ee680889f25ea11cd8852> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

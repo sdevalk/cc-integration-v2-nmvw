@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/c0a1be83044dcf8dbc300a333656ec0a> <https://colonialcollections.nl/schema#creator> "C.H. (Claudius Henricus) de Goeje" .
 <https://n2t.net/ark:/27023/c0a1be83044dcf8dbc300a333656ec0a> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c0a1be83044dcf8dbc300a333656ec0a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c0a1be83044dcf8dbc300a333656ec0a> <https://colonialcollections.nl/schema#locationCreated> "Sipaliwini District" .
-<https://n2t.net/ark:/27023/c0a1be83044dcf8dbc300a333656ec0a> <https://colonialcollections.nl/schema#alternateName> "Distrikt Sipaliwini" .
-<https://n2t.net/ark:/27023/c0a1be83044dcf8dbc300a333656ec0a> <https://colonialcollections.nl/schema#alternateName> "Sipaliwini District"@en .

@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#material> "katoen ; leer ; palmblad" .
 <https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/dd740c5b757e4eca83c8b81ea9bab493> <https://colonialcollections.nl/schema#countryCreated> "India" .

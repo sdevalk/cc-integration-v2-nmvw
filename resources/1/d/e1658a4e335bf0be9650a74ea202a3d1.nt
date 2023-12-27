@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/c304ad8d1e22876e673013401992a18f> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/c304ad8d1e22876e673013401992a18f> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c304ad8d1e22876e673013401992a18f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c304ad8d1e22876e673013401992a18f> <https://colonialcollections.nl/schema#locationCreated> "Santa María Ocotlán" .
-<https://n2t.net/ark:/27023/c304ad8d1e22876e673013401992a18f> <https://colonialcollections.nl/schema#alternateName> "Santa María Ocotlán" .

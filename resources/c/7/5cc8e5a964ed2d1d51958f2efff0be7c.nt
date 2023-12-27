@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/c0b45d15490f718b38c5f5ba93f030ad> <https://colonialcollections.nl/schema#creator> "Eila Hiltunen" .
 <https://n2t.net/ark:/27023/c0b45d15490f718b38c5f5ba93f030ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c0b45d15490f718b38c5f5ba93f030ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c0b45d15490f718b38c5f5ba93f030ad> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#locationCreated> "Kaimo" .
-<https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#alternateName> "Kaima" .
-<https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#alternateName> "Kaino" .
-<https://n2t.net/ark:/27023/bfeb1d093a916536e06d3a725038d75a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

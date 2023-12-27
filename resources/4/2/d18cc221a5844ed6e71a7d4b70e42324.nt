@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/c1bca689c03cb15869e17d47db37eb3e> <https://colonialcollections.nl/schema#creator> "Nat. Art Views Co." .
 <https://n2t.net/ark:/27023/c1bca689c03cb15869e17d47db37eb3e> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c1bca689c03cb15869e17d47db37eb3e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c1bca689c03cb15869e17d47db37eb3e> <https://colonialcollections.nl/schema#locationCreated> "North America" .

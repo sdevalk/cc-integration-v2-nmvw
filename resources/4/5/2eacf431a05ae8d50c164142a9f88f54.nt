@@ -7,3 +7,11 @@
 <https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#inscription> "boven midden: Sufi\r\nLinks- en rechtsonder de namen van de bloemen" .
 <https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#locationCreated> "Türkiye" .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#alternateName> "Tourkía" .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#alternateName> "Republic of Turkey"@en .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#alternateName> "Turquie" .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#alternateName> "Turchia" .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#alternateName> "Türkei" .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#alternateName> "Turkey"@en .
+<https://n2t.net/ark:/27023/e4b3de5418b1b618ff551dd52296e4fa> <https://colonialcollections.nl/schema#countryCreated> "Türkiye" .

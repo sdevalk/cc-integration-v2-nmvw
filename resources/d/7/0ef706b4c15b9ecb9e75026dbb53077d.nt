@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/dadd162bfde3a7bc5fe22bda72d436ea> <https://colonialcollections.nl/schema#creator> "Jones, W." .
 <https://n2t.net/ark:/27023/dadd162bfde3a7bc5fe22bda72d436ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dadd162bfde3a7bc5fe22bda72d436ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dadd162bfde3a7bc5fe22bda72d436ea> <https://colonialcollections.nl/schema#locationCreated> "Penang" .
-<https://n2t.net/ark:/27023/dadd162bfde3a7bc5fe22bda72d436ea> <https://colonialcollections.nl/schema#alternateName> "Penang"@en .

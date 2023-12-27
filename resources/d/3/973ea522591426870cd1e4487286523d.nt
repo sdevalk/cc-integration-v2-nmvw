@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#inscription> "datum; 1277" .
 <https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#yearCreatedEnd> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/db359812fcf470cc7102e658db564316> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

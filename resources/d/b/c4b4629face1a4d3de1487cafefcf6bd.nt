@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#creator> "Jimmy Njiminjuma" .
 <https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#yearCreatedStart> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/dd62329a8f508c9264e06077842bfe5e> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

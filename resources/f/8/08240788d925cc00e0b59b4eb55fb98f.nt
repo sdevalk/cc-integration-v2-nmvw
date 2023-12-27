@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/c345f53b25226488a41f32dfd89dc7df> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/c345f53b25226488a41f32dfd89dc7df> <https://colonialcollections.nl/schema#yearCreatedStart> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c345f53b25226488a41f32dfd89dc7df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c345f53b25226488a41f32dfd89dc7df> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Nias Selatan" .
-<https://n2t.net/ark:/27023/c345f53b25226488a41f32dfd89dc7df> <https://colonialcollections.nl/schema#alternateName> "Nias Regency" .
-<https://n2t.net/ark:/27023/c345f53b25226488a41f32dfd89dc7df> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

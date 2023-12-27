@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/c26253a5f3aba42ff091958875e09258> <https://colonialcollections.nl/schema#creator> "Y. Asada" .
 <https://n2t.net/ark:/27023/c26253a5f3aba42ff091958875e09258> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c26253a5f3aba42ff091958875e09258> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c26253a5f3aba42ff091958875e09258> <https://colonialcollections.nl/schema#locationCreated> "Berastagi" .
-<https://n2t.net/ark:/27023/c26253a5f3aba42ff091958875e09258> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

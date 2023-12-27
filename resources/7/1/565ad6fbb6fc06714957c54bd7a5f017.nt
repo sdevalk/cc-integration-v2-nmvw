@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#creator> "G. (George) Tjapanangka" .
 <https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/dc3ba752e96e644f2e2b222d8bdc9c24> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

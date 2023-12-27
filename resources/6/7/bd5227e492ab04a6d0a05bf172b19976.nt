@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/c1cd07727a4de5447b85aa929b381452> <https://colonialcollections.nl/schema#creator> "Mohamed (Siera Leone)" .
 <https://n2t.net/ark:/27023/c1cd07727a4de5447b85aa929b381452> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c1cd07727a4de5447b85aa929b381452> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c1cd07727a4de5447b85aa929b381452> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
-<https://n2t.net/ark:/27023/c1cd07727a4de5447b85aa929b381452> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
-<https://n2t.net/ark:/27023/c1cd07727a4de5447b85aa929b381452> <https://colonialcollections.nl/schema#alternateName> "Saint George" .

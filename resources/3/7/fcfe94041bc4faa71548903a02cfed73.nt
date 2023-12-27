@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#creator> "R. (Robert) Lehmann-Nitsche" .
 <https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#locationCreated> "Paraguay" .
+<https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#alternateName> "El Paraguay" .
+<https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#alternateName> "Republic of Paraguay"@en .
+<https://n2t.net/ark:/27023/e4ce036641d2d886e048e01fad22c207> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

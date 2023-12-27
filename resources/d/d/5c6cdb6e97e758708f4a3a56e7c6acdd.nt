@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#inscription> "titel met inkt op achterzijde karton gschreven" .
 <https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#locationCreated> "South Africa" .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#alternateName> "iRiphabliki ye Sewula Afrika" .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#alternateName> "Riphabuliki ya Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#alternateName> "Union of South Africa"@en .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#alternateName> "Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#alternateName> "iSewula Afrika" .
+<https://n2t.net/ark:/27023/dc691383d0fe286fe6c9e6e1651bcbf9> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

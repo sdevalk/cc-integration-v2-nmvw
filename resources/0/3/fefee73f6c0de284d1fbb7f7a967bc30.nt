@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#locationCreated> "Lucknow" .
+<https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#alternateName> "Lucknow"@en .
+<https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#alternateName> "Lakhnau" .
+<https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#alternateName> "Lucknow" .
+<https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#alternateName> "Lucknow City" .
+<https://n2t.net/ark:/27023/e44a7c3f74807cd8e2a965ed0e0d7317> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -7,10 +7,3 @@
 <https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#inscription> "光復香港 時代革命 (Liberate Hong Kong the revolution of our times)" .
 <https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
-<https://n2t.net/ark:/27023/e3c2145a2d20521ff10c84af48e774b0> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .

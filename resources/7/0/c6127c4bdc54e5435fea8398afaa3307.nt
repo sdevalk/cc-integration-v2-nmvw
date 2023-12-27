@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#inscription> "op de sticker aan de rechter zijkant van de inktstaaf: 'de twintigste'; op de sticker aan de linker zijkant staat 'shoju' (zz) of 'kusunoki', wat 'kamferboom' betekent; aan de achterkant een lange tekst waarin deze kamferboom terugkomt." .
 <https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/dc1d3533ba9414beebf341a3e8a797c1> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

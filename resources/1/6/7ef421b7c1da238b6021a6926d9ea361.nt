@@ -9,3 +9,6 @@
 <https://n2t.net/ark:/27023/c3322b0de4beba034eee2d939a309b32> <https://colonialcollections.nl/schema#inscription> "beschrijving met pen op achterzijde karton" .
 <https://n2t.net/ark:/27023/c3322b0de4beba034eee2d939a309b32> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c3322b0de4beba034eee2d939a309b32> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c3322b0de4beba034eee2d939a309b32> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/c3322b0de4beba034eee2d939a309b32> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/c3322b0de4beba034eee2d939a309b32> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

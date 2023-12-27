@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/de20ef74d986a0c97bbee7ecf32973f5> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/de20ef74d986a0c97bbee7ecf32973f5> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/de20ef74d986a0c97bbee7ecf32973f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/de20ef74d986a0c97bbee7ecf32973f5> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/de20ef74d986a0c97bbee7ecf32973f5> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/de20ef74d986a0c97bbee7ecf32973f5> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

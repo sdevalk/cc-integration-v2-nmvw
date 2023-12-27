@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/ddc5776f65161a339ccff7c17791b902> <https://colonialcollections.nl/schema#creator> "Samuel Bourne" .
 <https://n2t.net/ark:/27023/ddc5776f65161a339ccff7c17791b902> <https://colonialcollections.nl/schema#yearCreatedStart> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ddc5776f65161a339ccff7c17791b902> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ddc5776f65161a339ccff7c17791b902> <https://colonialcollections.nl/schema#locationCreated> "Fatehpur Sikri" .
-<https://n2t.net/ark:/27023/ddc5776f65161a339ccff7c17791b902> <https://colonialcollections.nl/schema#alternateName> "Fatehpur Sīkri" .
-<https://n2t.net/ark:/27023/ddc5776f65161a339ccff7c17791b902> <https://colonialcollections.nl/schema#alternateName> "Fatehpur Sikri"@en .

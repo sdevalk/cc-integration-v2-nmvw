@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#creator> "Willy Bester" .
 <https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#locationCreated> "South Africa" .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#alternateName> "iRiphabliki ye Sewula Afrika" .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#alternateName> "iSewula Afrika" .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#alternateName> "Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#alternateName> "Riphabuliki ya Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#alternateName> "Union of South Africa"@en .
+<https://n2t.net/ark:/27023/48309b680d38e2bfa7ae3681c50a6c9a> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

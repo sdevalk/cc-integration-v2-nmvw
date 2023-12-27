@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#material> "hout ; kleurstof ; kalk" .
 <https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#locationCreated> "Aumo" .
+<https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#alternateName> "Aumo"@en .
+<https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#alternateName> "Aumo" .
+<https://n2t.net/ark:/27023/dad1cf5979b00bdddf60327a23cfd35f> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

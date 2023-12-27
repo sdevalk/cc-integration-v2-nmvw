@@ -7,9 +7,3 @@
 <https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#creator> "Pater P. (Petrus) Vertenten M.S.C." .
 <https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#locationCreated> "Kumbe River" .
-<https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#alternateName> "Kumbe River"@en .
-<https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#alternateName> "Kumbe River" .
-<https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#alternateName> "Koembe-rivier" .
-<https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#alternateName> "Sungai Kumbe" .
-<https://n2t.net/ark:/27023/dd60e8b78f070895779e79ad44c2c973> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

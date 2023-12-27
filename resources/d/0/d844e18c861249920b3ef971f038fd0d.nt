@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#creator> "Tatali Nangali" .
 <https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/c21a9dfe48422541775f3363ba32f0e6> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

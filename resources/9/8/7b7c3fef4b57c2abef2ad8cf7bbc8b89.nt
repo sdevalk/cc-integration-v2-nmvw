@@ -6,3 +6,14 @@
 <https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#creator> "Mahtab Nobakhti" .
 <https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#locationCreated> "Iran" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Iran (Islamic Republic of)" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Iran" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran"@en .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Īrān" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Iran"@en .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Keshvar-e Shāhanshāhī-ye Īrān" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Iran, Islamic Republic Of"@en .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#alternateName> "Persia" .
+<https://n2t.net/ark:/27023/e3702eabc1364430063e9c473e86b5fe> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

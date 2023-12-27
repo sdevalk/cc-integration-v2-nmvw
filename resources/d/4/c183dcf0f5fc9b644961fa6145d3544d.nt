@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#inscription> "Big Boss Hat" .
 <https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/bffafda95143212aeeb9f5173f51fccd> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

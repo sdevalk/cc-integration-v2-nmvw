@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#inscription> "aan het einde van de lange tekst op de achterkant van de inktstaaf: 'inkt zoals meester Oko (zz) die gebruikte' (Oko sensei yo sumi); op de voorkant 'Hoge Berg' (Takayama): de wijk waar de maker van de inktstaaf woonde" .
 <https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/48750c4af5f76a75bc3a804b86ad31a6> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

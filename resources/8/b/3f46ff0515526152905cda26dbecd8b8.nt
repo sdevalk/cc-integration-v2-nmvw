@@ -5,3 +5,16 @@
 <https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#yearCreatedStart> "1958"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#locationCreated> "Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Guinean People’s Republic" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Revolutionary People’s Republic of Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Guinea-Conakry"@en .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Guinée" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Guinée Française" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Französisch-Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Popular and Revolutionary Republic of Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "People’s Revolutionary Republic of Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "French Guinea" .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#alternateName> "Republic of Guinea"@en .
+<https://n2t.net/ark:/27023/48d8e373d88863f3ff90c0c0f2d7c4c4> <https://colonialcollections.nl/schema#countryCreated> "Guinea" .

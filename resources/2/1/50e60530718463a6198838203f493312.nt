@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#creator> "Prof. A. (Albert) Grubauer" .
 <https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#locationCreated> "Kuala Kangsar" .
+<https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#alternateName> "Kuala Kangsar" .
+<https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#alternateName> "Kuala Kangsa" .
+<https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#alternateName> "Kangsar" .
+<https://n2t.net/ark:/27023/e2a8569d90bbdffa554bfecab80a261d> <https://colonialcollections.nl/schema#countryCreated> "Malaysia" .

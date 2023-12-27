@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#creator> "J.B. Khanna  & Co." .
 <https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/e4e91faad1ca9fb6b922eb4fd97fd713> <https://colonialcollections.nl/schema#countryCreated> "India" .

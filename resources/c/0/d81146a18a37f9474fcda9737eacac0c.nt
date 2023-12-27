@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/e4f375a1a4c565c0a10677eb600ce883> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

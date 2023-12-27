@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#locationCreated> "Chennai" .
-<https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#alternateName> "Tamulinadu" .
-<https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#alternateName> "Tamizhagam" .
-<https://n2t.net/ark:/27023/e48aacaebd4caffeff8c808e098fc5a1> <https://colonialcollections.nl/schema#alternateName> "Madras"@en .

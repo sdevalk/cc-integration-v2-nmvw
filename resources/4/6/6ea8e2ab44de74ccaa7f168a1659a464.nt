@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#inscription> "'ANANA PLANTATION. FIJI' geschreven in negatief; inscriptie is incompleet zie materiaal en techniek" .
 <https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#locationCreated> "Fiji" .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#alternateName> "Viti" .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#alternateName> "Republic of Fiji" .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#alternateName> "Fiji" .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#alternateName> "Feeje" .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#alternateName> "Republic of the Fiji Islands" .
+<https://n2t.net/ark:/27023/c27ccb8964cdf78a2388e43ca3a00eab> <https://colonialcollections.nl/schema#countryCreated> "Fiji" .
