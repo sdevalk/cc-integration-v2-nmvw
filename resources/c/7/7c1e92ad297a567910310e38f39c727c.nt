@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#creator> "Kobori Sôkei" .
 <https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/bdc51c9bf42a658d050b439ba3236b62> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

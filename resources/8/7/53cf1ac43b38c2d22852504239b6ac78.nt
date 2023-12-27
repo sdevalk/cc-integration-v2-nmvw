@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/bfa22a19f29ae487f70b6186fa0a8328> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/bfa22a19f29ae487f70b6186fa0a8328> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bfa22a19f29ae487f70b6186fa0a8328> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bfa22a19f29ae487f70b6186fa0a8328> <https://colonialcollections.nl/schema#locationCreated> "First Mesa" .
+<https://n2t.net/ark:/27023/bfa22a19f29ae487f70b6186fa0a8328> <https://colonialcollections.nl/schema#countryCreated> "United States" .

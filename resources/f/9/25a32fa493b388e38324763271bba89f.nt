@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/bf2b482b20f99791ea25ce0acb88b84f> <https://colonialcollections.nl/schema#creator> "Bitirosi (Petros)" .
 <https://n2t.net/ark:/27023/bf2b482b20f99791ea25ce0acb88b84f> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bf2b482b20f99791ea25ce0acb88b84f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bf2b482b20f99791ea25ce0acb88b84f> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/bf2b482b20f99791ea25ce0acb88b84f> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/bf2b482b20f99791ea25ce0acb88b84f> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

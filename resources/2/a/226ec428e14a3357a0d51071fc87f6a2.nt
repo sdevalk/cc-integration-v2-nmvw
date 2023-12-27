@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/bc65abb490c1a9e17bf8206de27959d2> <https://colonialcollections.nl/schema#material> "brons" .
 <https://n2t.net/ark:/27023/bc65abb490c1a9e17bf8206de27959d2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/bc65abb490c1a9e17bf8206de27959d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bc65abb490c1a9e17bf8206de27959d2> <https://colonialcollections.nl/schema#locationCreated> "Vietnam" .
+<https://n2t.net/ark:/27023/bc65abb490c1a9e17bf8206de27959d2> <https://colonialcollections.nl/schema#alternateName> "Socialist Republic of Vietnam"@en .
+<https://n2t.net/ark:/27023/bc65abb490c1a9e17bf8206de27959d2> <https://colonialcollections.nl/schema#countryCreated> "Vietnam" .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/cc004d5b117651da6dfd8bd04d1b39b1> <https://colonialcollections.nl/schema#creator> "Vinolia Bogea" .
 <https://n2t.net/ark:/27023/cc004d5b117651da6dfd8bd04d1b39b1> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cc004d5b117651da6dfd8bd04d1b39b1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cc004d5b117651da6dfd8bd04d1b39b1> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/cc004d5b117651da6dfd8bd04d1b39b1> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

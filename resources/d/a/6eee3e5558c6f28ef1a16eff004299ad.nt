@@ -4,4 +4,3 @@
 <https://n2t.net/ark:/27023/cbc0701a82e2b29d9d2ca8641eb57d4b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/cbc0701a82e2b29d9d2ca8641eb57d4b> <https://colonialcollections.nl/schema#yearCreatedStart> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cbc0701a82e2b29d9d2ca8641eb57d4b> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cbc0701a82e2b29d9d2ca8641eb57d4b> <https://colonialcollections.nl/schema#locationCreated> "Middle America" .

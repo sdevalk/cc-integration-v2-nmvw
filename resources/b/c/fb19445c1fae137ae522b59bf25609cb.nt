@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/c53f525b5e27a7e2efa7e8b034ed13d1> <https://colonialcollections.nl/schema#creator> "Marianne Jessen" .
 <https://n2t.net/ark:/27023/c53f525b5e27a7e2efa7e8b034ed13d1> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c53f525b5e27a7e2efa7e8b034ed13d1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c53f525b5e27a7e2efa7e8b034ed13d1> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

@@ -6,9 +6,3 @@
 <https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#locationCreated> "Nīlgiri Hills" .
-<https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#alternateName> "Neilgherry Hills" .
-<https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#alternateName> "Nilgiris Hills" .
-<https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#alternateName> "Blue Mountains" .
-<https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#alternateName> "Nīlgiri Hills" .
-<https://n2t.net/ark:/27023/c3ddaf529a937a54645eebd48d280f84> <https://colonialcollections.nl/schema#alternateName> "The Nīlgiris" .

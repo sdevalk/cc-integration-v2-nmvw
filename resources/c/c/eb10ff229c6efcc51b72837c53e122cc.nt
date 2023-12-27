@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/be7fe0fbc99a64bdefa1d83091d983e0> <https://colonialcollections.nl/schema#creator> "Munehiro" .
 <https://n2t.net/ark:/27023/be7fe0fbc99a64bdefa1d83091d983e0> <https://colonialcollections.nl/schema#yearCreatedStart> "1848"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be7fe0fbc99a64bdefa1d83091d983e0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/be7fe0fbc99a64bdefa1d83091d983e0> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/be7fe0fbc99a64bdefa1d83091d983e0> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/be7fe0fbc99a64bdefa1d83091d983e0> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

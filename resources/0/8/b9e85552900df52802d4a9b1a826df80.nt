@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/cc50c709b8ee38d2d3d078826201e712> <https://colonialcollections.nl/schema#creator> "Kadiato Kamara" .
 <https://n2t.net/ark:/27023/cc50c709b8ee38d2d3d078826201e712> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cc50c709b8ee38d2d3d078826201e712> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cc50c709b8ee38d2d3d078826201e712> <https://colonialcollections.nl/schema#locationCreated> "Freetown" .
-<https://n2t.net/ark:/27023/cc50c709b8ee38d2d3d078826201e712> <https://colonialcollections.nl/schema#alternateName> "Freetown"@en .
-<https://n2t.net/ark:/27023/cc50c709b8ee38d2d3d078826201e712> <https://colonialcollections.nl/schema#alternateName> "Saint George" .

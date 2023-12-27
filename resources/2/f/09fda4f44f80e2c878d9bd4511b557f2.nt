@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/c74ca6be4ec895de195d2472a96f5f53> <https://colonialcollections.nl/schema#material> "hout (palm) ; tand (haai) ; vezel (blad)" .
 <https://n2t.net/ark:/27023/c74ca6be4ec895de195d2472a96f5f53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/c74ca6be4ec895de195d2472a96f5f53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c74ca6be4ec895de195d2472a96f5f53> <https://colonialcollections.nl/schema#locationCreated> "Gilbert Islands" .
-<https://n2t.net/ark:/27023/c74ca6be4ec895de195d2472a96f5f53> <https://colonialcollections.nl/schema#alternateName> "Gilbert Islands"@en .

@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#creator> "Dr. J.H. (Joop) Jager Gerlings" .
 <https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/cef88803c458180a2e5d23db7a72fb55> <https://colonialcollections.nl/schema#countryCreated> "India" .

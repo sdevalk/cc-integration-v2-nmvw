@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#locationCreated> "Kepulauan Lingga" .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#alternateName> "Lingga-Archipel" .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#alternateName> "Kepulauan Lingga" .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#alternateName> "Pulau-pulau Lingga" .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#alternateName> "Lingga Islands" .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#alternateName> "Lingga Archipelago" .
+<https://n2t.net/ark:/27023/cd693499bd86665e41905f574c5ee823> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

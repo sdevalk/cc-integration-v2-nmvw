@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#inscription> "cjfer 35 in nagari-schrift boven tekening" .
 <https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#yearCreatedStart> "1780"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/c65902521075729cf23462280d3be389> <https://colonialcollections.nl/schema#countryCreated> "India" .

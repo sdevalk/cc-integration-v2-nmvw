@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/be9f148e0f9e2f9fc49b8d57da7be984> <https://colonialcollections.nl/schema#inscription> "titel gedrukt in negatief, r.o." .
 <https://n2t.net/ark:/27023/be9f148e0f9e2f9fc49b8d57da7be984> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be9f148e0f9e2f9fc49b8d57da7be984> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/be9f148e0f9e2f9fc49b8d57da7be984> <https://colonialcollections.nl/schema#locationCreated> "Yangon" .
-<https://n2t.net/ark:/27023/be9f148e0f9e2f9fc49b8d57da7be984> <https://colonialcollections.nl/schema#alternateName> "Dagon" .
-<https://n2t.net/ark:/27023/be9f148e0f9e2f9fc49b8d57da7be984> <https://colonialcollections.nl/schema#alternateName> "Rangoon"@en .

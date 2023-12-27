@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/c60b8ffc43d2654ffcc4f372b55a78c5> <https://colonialcollections.nl/schema#creator> "J. O. (John, Orry) Kelly" .
 <https://n2t.net/ark:/27023/c60b8ffc43d2654ffcc4f372b55a78c5> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c60b8ffc43d2654ffcc4f372b55a78c5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c60b8ffc43d2654ffcc4f372b55a78c5> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/c60b8ffc43d2654ffcc4f372b55a78c5> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/c60b8ffc43d2654ffcc4f372b55a78c5> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/be422ea1a5a4120cbb2e403dc15c1568> <https://colonialcollections.nl/schema#creator> "Louisa Joke" .
 <https://n2t.net/ark:/27023/be422ea1a5a4120cbb2e403dc15c1568> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be422ea1a5a4120cbb2e403dc15c1568> <https://colonialcollections.nl/schema#yearCreatedEnd> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/be422ea1a5a4120cbb2e403dc15c1568> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/be422ea1a5a4120cbb2e403dc15c1568> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

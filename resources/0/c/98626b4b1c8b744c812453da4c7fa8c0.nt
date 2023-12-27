@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#inscription> "nummer linksonder geschreven in negatief" .
 <https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#yearCreatedStart> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/c5f9a01a0235a5a993ec9822d07b8460> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

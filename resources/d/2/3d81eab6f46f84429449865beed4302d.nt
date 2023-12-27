@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#creator> "Lt-Kol Theodoor van Ardenne" .
 <https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#locationCreated> "Kota Palu" .
+<https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#alternateName> "Palu" .
+<https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#alternateName> "Kota administratip Palu" .
+<https://n2t.net/ark:/27023/c59d939e83c23607db3d0814a6bf6ab2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

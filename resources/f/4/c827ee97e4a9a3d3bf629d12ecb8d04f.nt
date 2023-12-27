@@ -5,4 +5,3 @@
 <https://n2t.net/ark:/27023/be65c8856ada067e8418393c346e7bfb> <https://colonialcollections.nl/schema#creator> "Fred Kabotie" .
 <https://n2t.net/ark:/27023/be65c8856ada067e8418393c346e7bfb> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be65c8856ada067e8418393c346e7bfb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/be65c8856ada067e8418393c346e7bfb> <https://colonialcollections.nl/schema#locationCreated> "North America" .

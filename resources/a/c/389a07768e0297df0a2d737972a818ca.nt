@@ -8,3 +8,14 @@
 <https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#creator> "H. (Hamid) Ghadirian" .
 <https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#locationCreated> "Iran" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Iran, Islamic Republic Of"@en .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Iran"@en .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Iran" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Persia" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Empire of Iran"@en .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Keshvar-e Shāhanshāhī-ye Īrān" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Īrān" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#alternateName> "Iran (Islamic Republic of)" .
+<https://n2t.net/ark:/27023/be34291a5b17be073864c57983e7e56c> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

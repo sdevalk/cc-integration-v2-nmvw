@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/c735cb2ec443ce5a64d50cfe7ebf619c> <https://colonialcollections.nl/schema#creator> "Carillon-Films" .
 <https://n2t.net/ark:/27023/c735cb2ec443ce5a64d50cfe7ebf619c> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c735cb2ec443ce5a64d50cfe7ebf619c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c735cb2ec443ce5a64d50cfe7ebf619c> <https://colonialcollections.nl/schema#locationCreated> "Caribbean" .
-<https://n2t.net/ark:/27023/c735cb2ec443ce5a64d50cfe7ebf619c> <https://colonialcollections.nl/schema#alternateName> "Caribbean"@en .

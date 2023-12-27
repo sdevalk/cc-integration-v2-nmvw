@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/be8737e8342856ccb3e91fee617932cf> <https://colonialcollections.nl/schema#creator> "Blanche Bogea" .
 <https://n2t.net/ark:/27023/be8737e8342856ccb3e91fee617932cf> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be8737e8342856ccb3e91fee617932cf> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/be8737e8342856ccb3e91fee617932cf> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/be8737e8342856ccb3e91fee617932cf> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

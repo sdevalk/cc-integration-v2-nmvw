@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/bdc65a4ff09c62d89f790fe7c6cc9cf7> <https://colonialcollections.nl/schema#creator> "Kropp Co., E.C." .
 <https://n2t.net/ark:/27023/bdc65a4ff09c62d89f790fe7c6cc9cf7> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bdc65a4ff09c62d89f790fe7c6cc9cf7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bdc65a4ff09c62d89f790fe7c6cc9cf7> <https://colonialcollections.nl/schema#locationCreated> "North America" .

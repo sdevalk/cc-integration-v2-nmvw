@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/b79ea324c9a563bcbb3b113ae475fdf6> <https://colonialcollections.nl/schema#material> "hout ; katoen ; been ; glaskralen" .
 <https://n2t.net/ark:/27023/b79ea324c9a563bcbb3b113ae475fdf6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/b79ea324c9a563bcbb3b113ae475fdf6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b79ea324c9a563bcbb3b113ae475fdf6> <https://colonialcollections.nl/schema#locationCreated> "Sarawak" .
-<https://n2t.net/ark:/27023/b79ea324c9a563bcbb3b113ae475fdf6> <https://colonialcollections.nl/schema#alternateName> "Sarawak Negeri" .
-<https://n2t.net/ark:/27023/b79ea324c9a563bcbb3b113ae475fdf6> <https://colonialcollections.nl/schema#alternateName> "Serawak" .

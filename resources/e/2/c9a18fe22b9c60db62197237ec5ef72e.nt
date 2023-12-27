@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#creator> "K. (Karim) Adduchi" .
 <https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#yearCreatedStart> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#yearCreatedEnd> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#locationCreated> "Moyen Atlas" .
+<https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#alternateName> "Moyen Atlas" .
+<https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#alternateName> "Middle Atlas" .
+<https://n2t.net/ark:/27023/bf88216c496dc5cf363107d6917d26e9> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#creator> "Australian Print Workshop" .
 <https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/b77e3fd03e40c4d4675a7f2dd87661e9> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

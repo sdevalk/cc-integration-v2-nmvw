@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#creator> "P.R.M. Oosterchrist en J.M. Oosterchrist-Zwaan" .
 <https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#locationCreated> "Uganda" .
+<https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#alternateName> "Ouganda" .
+<https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#alternateName> "Republic of Uganda" .
+<https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#alternateName> "Uganda" .
+<https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#alternateName> "Uganda Protectorate" .
+<https://n2t.net/ark:/27023/bf657bb0e77e42494e9dd7e719c18c04> <https://colonialcollections.nl/schema#countryCreated> "Uganda" .

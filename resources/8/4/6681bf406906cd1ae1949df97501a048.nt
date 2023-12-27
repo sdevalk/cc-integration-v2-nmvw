@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/c4bf07721c87b1693a64e0eef021668a> <https://colonialcollections.nl/schema#creator> "John Takawira" .
 <https://n2t.net/ark:/27023/c4bf07721c87b1693a64e0eef021668a> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c4bf07721c87b1693a64e0eef021668a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c4bf07721c87b1693a64e0eef021668a> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/c4bf07721c87b1693a64e0eef021668a> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/c4bf07721c87b1693a64e0eef021668a> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

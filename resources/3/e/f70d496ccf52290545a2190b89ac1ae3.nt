@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/b7cf0172e64f3179b4187b5359f63061> <https://colonialcollections.nl/schema#creator> "Aigilo" .
 <https://n2t.net/ark:/27023/b7cf0172e64f3179b4187b5359f63061> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b7cf0172e64f3179b4187b5359f63061> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b7cf0172e64f3179b4187b5359f63061> <https://colonialcollections.nl/schema#locationCreated> "Ongaia" .

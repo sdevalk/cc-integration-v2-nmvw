@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#creator> "I Made Awan" .
 <https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#yearCreatedStart> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#yearCreatedEnd> "2009"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/bd8aecb008b4f107200e65a43212a12f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

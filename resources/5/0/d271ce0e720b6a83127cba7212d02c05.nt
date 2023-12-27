@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#creator> "H. R. (Hasan Raza) Raja" .
 <https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/b7fc94801ac64dc702c6bc266e4ec1da> <https://colonialcollections.nl/schema#countryCreated> "India" .

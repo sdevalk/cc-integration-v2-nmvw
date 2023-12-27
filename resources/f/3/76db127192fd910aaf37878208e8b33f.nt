@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#creator> "R. Parkinson" .
 <https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#yearCreatedStart> "1876"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#locationCreated> "Saint Matthias Group" .
+<https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#alternateName> "Saint Matthias Group" .
+<https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#alternateName> "Saint Matthias Islands" .
+<https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#alternateName> "Saint Mathias Islands" .
+<https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#alternateName> "Matthias Gruppe" .
+<https://n2t.net/ark:/27023/cd48b321f4887ec031fbab4e37c4f123> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

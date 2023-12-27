@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/bd11f525055d2260ca32a5b8b5f3df73> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/bd11f525055d2260ca32a5b8b5f3df73> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bd11f525055d2260ca32a5b8b5f3df73> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/bd11f525055d2260ca32a5b8b5f3df73> <https://colonialcollections.nl/schema#locationCreated> "North America" .

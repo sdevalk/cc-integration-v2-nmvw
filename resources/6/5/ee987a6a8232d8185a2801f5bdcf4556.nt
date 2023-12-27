@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/c71160b38ec3251b1b037316fa866ff8> <https://colonialcollections.nl/schema#material> "katoen ; borduursel" .
 <https://n2t.net/ark:/27023/c71160b38ec3251b1b037316fa866ff8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/c71160b38ec3251b1b037316fa866ff8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c71160b38ec3251b1b037316fa866ff8> <https://colonialcollections.nl/schema#locationCreated> "Zacualpa" .
+<https://n2t.net/ark:/27023/c71160b38ec3251b1b037316fa866ff8> <https://colonialcollections.nl/schema#alternateName> "Zacualpa" .
+<https://n2t.net/ark:/27023/c71160b38ec3251b1b037316fa866ff8> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

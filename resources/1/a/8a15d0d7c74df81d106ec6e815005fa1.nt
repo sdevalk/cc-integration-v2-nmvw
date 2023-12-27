@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/c5ed57e632f87491a5bdeff95f24e749> <https://colonialcollections.nl/schema#creator> "Bacari Manzi" .
 <https://n2t.net/ark:/27023/c5ed57e632f87491a5bdeff95f24e749> <https://colonialcollections.nl/schema#yearCreatedStart> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c5ed57e632f87491a5bdeff95f24e749> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c5ed57e632f87491a5bdeff95f24e749> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/c5ed57e632f87491a5bdeff95f24e749> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/c5ed57e632f87491a5bdeff95f24e749> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

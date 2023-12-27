@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/c678badcbcdd241c758c01afbbf23b9b> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/c678badcbcdd241c758c01afbbf23b9b> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c678badcbcdd241c758c01afbbf23b9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c678badcbcdd241c758c01afbbf23b9b> <https://colonialcollections.nl/schema#locationCreated> "Galibi" .
+<https://n2t.net/ark:/27023/c678badcbcdd241c758c01afbbf23b9b> <https://colonialcollections.nl/schema#alternateName> "Galibi" .
+<https://n2t.net/ark:/27023/c678badcbcdd241c758c01afbbf23b9b> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

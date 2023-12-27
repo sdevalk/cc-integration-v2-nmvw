@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#creator> "René Flores" .
 <https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#locationCreated> "Bolivia" .
+<https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#alternateName> "Republic of Bolivia"@en .
+<https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#alternateName> "Plurinational State of Bolivia"@en .
+<https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#alternateName> "Bolivia, Plurinational State Of"@en .
+<https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#alternateName> "Bolivia (Plurinational State of)"@en .
+<https://n2t.net/ark:/27023/be305a8f7f9563955b2f2868173b39a9> <https://colonialcollections.nl/schema#countryCreated> "Bolivia" .

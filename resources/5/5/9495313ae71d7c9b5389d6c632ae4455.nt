@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/c5f0c7275361ec631e83c10134a04575> <https://colonialcollections.nl/schema#inscription> "niet leesbaar (1) & prayer candle co.(c);brooklyn, n.y. 11211; paraffin in wax candle;net wt. 18 oz.(l lb.20z.) (2) & 25 (3)" .
 <https://n2t.net/ark:/27023/c5f0c7275361ec631e83c10134a04575> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c5f0c7275361ec631e83c10134a04575> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/c5f0c7275361ec631e83c10134a04575> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/c5f0c7275361ec631e83c10134a04575> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/c5f0c7275361ec631e83c10134a04575> <https://colonialcollections.nl/schema#countryCreated> "United States" .

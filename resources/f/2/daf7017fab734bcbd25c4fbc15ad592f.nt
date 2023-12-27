@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#creator> "Thilly Weissenborn" .
 <https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/cea0019a92c8d8877980cb4aab493778> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

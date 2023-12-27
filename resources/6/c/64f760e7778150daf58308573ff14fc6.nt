@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#creator> "A.B. (Ada Bird) Petyarre" .
 <https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/bec7cd09c386764b460d4f9d9b181384> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

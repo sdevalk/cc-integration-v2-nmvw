@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#locationCreated> "Baghdad" .
-<https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#alternateName> "Bagdad" .
-<https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#alternateName> "Baghdad"@en .
-<https://n2t.net/ark:/27023/c654a2109d3acc41002db432c302475e> <https://colonialcollections.nl/schema#alternateName> "Baghdād" .

@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#material> "hout" .
 <https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#locationCreated> "Banks Islands" .
+<https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#alternateName> "Banks Islands" .
+<https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#alternateName> "Iles Banka" .
+<https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#alternateName> "Banks Group" .
+<https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#alternateName> "Îles Banks" .
+<https://n2t.net/ark:/27023/bd18462afc42f622a91ecca9729b931b> <https://colonialcollections.nl/schema#countryCreated> "Vanuatu" .

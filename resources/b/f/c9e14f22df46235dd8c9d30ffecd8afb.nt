@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/ccc35c85a9658bc9de344b7eb1ab0924> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ccc35c85a9658bc9de344b7eb1ab0924> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ccc35c85a9658bc9de344b7eb1ab0924> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ccc35c85a9658bc9de344b7eb1ab0924> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/ccc35c85a9658bc9de344b7eb1ab0924> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/ccc35c85a9658bc9de344b7eb1ab0924> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

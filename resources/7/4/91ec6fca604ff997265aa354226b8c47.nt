@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#creator> "Grivel & Co." .
 <https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#yearCreatedStart> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#yearCreatedEnd> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/cb69250adc12c946574f72c65166f317> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#creator> "L.M. Ghose" .
 <https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#yearCreatedStart> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/bed3803eeef6b1c6e8926b63bc20e42e> <https://colonialcollections.nl/schema#countryCreated> "India" .
