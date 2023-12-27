@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#creator> "Musée d'Ethnographie du Trocadéro" .
 <https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#locationCreated> "Colombia" .
+<https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#alternateName> "Colombié" .
+<https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#alternateName> "Columbien" .
+<https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#alternateName> "Republic of Colombia"@en .
+<https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#alternateName> "República de Colombia" .
+<https://n2t.net/ark:/27023/d5f8cd595aae4a298287373f2c4a52a9> <https://colonialcollections.nl/schema#countryCreated> "Colombia" .

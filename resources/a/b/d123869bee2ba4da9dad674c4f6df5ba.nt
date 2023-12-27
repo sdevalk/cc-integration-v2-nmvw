@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/d5f267e274636cab8f62e4e422c18a3c> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
 <https://n2t.net/ark:/27023/d5f267e274636cab8f62e4e422c18a3c> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d5f267e274636cab8f62e4e422c18a3c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d5f267e274636cab8f62e4e422c18a3c> <https://colonialcollections.nl/schema#locationCreated> "Tomohon" .
+<https://n2t.net/ark:/27023/d5f267e274636cab8f62e4e422c18a3c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/e81cebf01aeb4b833437cb13c2cfad70> <https://colonialcollections.nl/schema#inscription> "vlg. bijschrift rechts: Adams yama (Adams Berg), hoogte 12 ri; een lang bijschrift onder, eindigend met de vermelding dat deze prent werd gemaakt naar een afbeelding in het Nederlandse boek van Harentin (François Valentijn, Oud en Nieuw Oost-Indiën. 1726, Pl. XIII.I)." .
 <https://n2t.net/ark:/27023/e81cebf01aeb4b833437cb13c2cfad70> <https://colonialcollections.nl/schema#yearCreatedStart> "1836"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e81cebf01aeb4b833437cb13c2cfad70> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e81cebf01aeb4b833437cb13c2cfad70> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/e81cebf01aeb4b833437cb13c2cfad70> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

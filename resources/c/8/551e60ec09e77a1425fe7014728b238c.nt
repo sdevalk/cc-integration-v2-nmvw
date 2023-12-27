@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/e8023c1782426b8d084fecacbbdcb1c7> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/e8023c1782426b8d084fecacbbdcb1c7> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e8023c1782426b8d084fecacbbdcb1c7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e8023c1782426b8d084fecacbbdcb1c7> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/e8023c1782426b8d084fecacbbdcb1c7> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/e8023c1782426b8d084fecacbbdcb1c7> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

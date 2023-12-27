@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#creator> "Joko Mullono" .
 <https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/f02e1b0f119041a3f718d619885173e1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

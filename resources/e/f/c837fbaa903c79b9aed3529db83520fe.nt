@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/f1910a054a13d8710b727a25dea3a830> <https://colonialcollections.nl/schema#inscription> "titel in negatief geschreven, linksonder" .
 <https://n2t.net/ark:/27023/f1910a054a13d8710b727a25dea3a830> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f1910a054a13d8710b727a25dea3a830> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f1910a054a13d8710b727a25dea3a830> <https://colonialcollections.nl/schema#locationCreated> "Pago Pago" .
-<https://n2t.net/ark:/27023/f1910a054a13d8710b727a25dea3a830> <https://colonialcollections.nl/schema#alternateName> "Pago Pago"@en .

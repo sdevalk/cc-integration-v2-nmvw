@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#creator> "E.C.H. (Lily) Eversdijk Smulders" .
 <https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#locationCreated> "Rwanda" .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#alternateName> "Résidence du Ruanda" .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#alternateName> "Republic of Rwanda"@en .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#alternateName> "Ruanda" .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#alternateName> "République Rwandaise" .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#alternateName> "Rwandese Republic" .
+<https://n2t.net/ark:/27023/e8e3512abd09ee3e644ec75529cdae2a> <https://colonialcollections.nl/schema#countryCreated> "Rwanda" .

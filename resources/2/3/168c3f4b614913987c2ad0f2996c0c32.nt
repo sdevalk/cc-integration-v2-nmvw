@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/d5997816297ba219667ca58eff9437da> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/d5997816297ba219667ca58eff9437da> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d5997816297ba219667ca58eff9437da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d5997816297ba219667ca58eff9437da> <https://colonialcollections.nl/schema#locationCreated> "Oued Ziz" .
+<https://n2t.net/ark:/27023/d5997816297ba219667ca58eff9437da> <https://colonialcollections.nl/schema#alternateName> "Oued Ziz" .
+<https://n2t.net/ark:/27023/d5997816297ba219667ca58eff9437da> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

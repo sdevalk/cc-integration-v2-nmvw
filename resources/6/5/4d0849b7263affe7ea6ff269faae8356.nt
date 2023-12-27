@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/e86e1da857b0b46d509fcb3f1049046e> <https://colonialcollections.nl/schema#creator> "McGarrigle, J." .
 <https://n2t.net/ark:/27023/e86e1da857b0b46d509fcb3f1049046e> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e86e1da857b0b46d509fcb3f1049046e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e86e1da857b0b46d509fcb3f1049046e> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/e86e1da857b0b46d509fcb3f1049046e> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/e86e1da857b0b46d509fcb3f1049046e> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

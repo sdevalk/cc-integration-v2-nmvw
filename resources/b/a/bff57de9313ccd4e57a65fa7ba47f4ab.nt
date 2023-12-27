@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/d4c9c7b0fb7b65c3e9836b55d0285a17> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/d4c9c7b0fb7b65c3e9836b55d0285a17> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d4c9c7b0fb7b65c3e9836b55d0285a17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d4c9c7b0fb7b65c3e9836b55d0285a17> <https://colonialcollections.nl/schema#locationCreated> "Mocorito" .
+<https://n2t.net/ark:/27023/d4c9c7b0fb7b65c3e9836b55d0285a17> <https://colonialcollections.nl/schema#alternateName> "Mocorito" .
+<https://n2t.net/ark:/27023/d4c9c7b0fb7b65c3e9836b55d0285a17> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

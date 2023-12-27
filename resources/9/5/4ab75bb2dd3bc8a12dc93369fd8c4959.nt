@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#creator> "Elja Lintsen" .
 <https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/f0cb817d8551c626f58eb66962f8833e> <https://colonialcollections.nl/schema#countryCreated> "India" .

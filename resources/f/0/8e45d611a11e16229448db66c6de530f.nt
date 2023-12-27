@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#creator> "National Museum of Tanzania" .
 <https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#locationCreated> "Tanzania" .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#alternateName> "Tansania" .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#alternateName> "Tanzanie" .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#alternateName> "Tanzania" .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanzania" .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanganyika and Zanzibar" .
+<https://n2t.net/ark:/27023/feadcf12826a7c8321fd46c268ed13f3> <https://colonialcollections.nl/schema#countryCreated> "Tanzania" .

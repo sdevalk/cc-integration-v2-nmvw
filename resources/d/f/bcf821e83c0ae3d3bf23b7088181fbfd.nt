@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#inscription> "'7' met potlood rechtsonder op foto geschreven, titel met inkt op achterzijde karton geschreven" .
 <https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#locationCreated> "Malaysia" .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#alternateName> "Malaysia" .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#alternateName> "Federation of Malaysia" .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#alternateName> "Persekutuan Tanah Malaysia" .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#alternateName> "Federation of Malaya" .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#alternateName> "Persekutuan Tanah Melayu" .
+<https://n2t.net/ark:/27023/eea659b6db7f484de55d3f977b59a542> <https://colonialcollections.nl/schema#countryCreated> "Malaysia" .

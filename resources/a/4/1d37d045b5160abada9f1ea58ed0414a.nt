@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#material> "aardewerk" .
 <https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#locationCreated> "Colombia" .
+<https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#alternateName> "República de Colombia" .
+<https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#alternateName> "Columbien" .
+<https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#alternateName> "Republic of Colombia"@en .
+<https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#alternateName> "Colombié" .
+<https://n2t.net/ark:/27023/ee3b5eab57929d0bfea1cc5459a1fd96> <https://colonialcollections.nl/schema#countryCreated> "Colombia" .

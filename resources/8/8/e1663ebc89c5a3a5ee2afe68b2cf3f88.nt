@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#locationCreated> "Tonga" .
+<https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#alternateName> "Tonga" .
+<https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Tonga" .
+<https://n2t.net/ark:/27023/d4e76b63d8d49d8b7429707f1ad0103d> <https://colonialcollections.nl/schema#countryCreated> "Tonga" .

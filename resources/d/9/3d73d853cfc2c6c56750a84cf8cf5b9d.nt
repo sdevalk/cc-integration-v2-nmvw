@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/e62ffcfdc9c3f45f7e8fd37a6108ee27> <https://colonialcollections.nl/schema#creator> "Cruzada Nacional de Alfabetización" .
 <https://n2t.net/ark:/27023/e62ffcfdc9c3f45f7e8fd37a6108ee27> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e62ffcfdc9c3f45f7e8fd37a6108ee27> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e62ffcfdc9c3f45f7e8fd37a6108ee27> <https://colonialcollections.nl/schema#locationCreated> "Nicaragua" .
-<https://n2t.net/ark:/27023/e62ffcfdc9c3f45f7e8fd37a6108ee27> <https://colonialcollections.nl/schema#alternateName> "Republic of Nicaragua"@en .
-<https://n2t.net/ark:/27023/e62ffcfdc9c3f45f7e8fd37a6108ee27> <https://colonialcollections.nl/schema#countryCreated> "Nicaragua" .

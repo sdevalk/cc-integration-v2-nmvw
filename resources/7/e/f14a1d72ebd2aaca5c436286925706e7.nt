@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#creator> "Hori Take" .
 <https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#yearCreatedStart> "1856"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1856"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/f1155b0d4d41fa3d6b0ad3b637a468c8> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

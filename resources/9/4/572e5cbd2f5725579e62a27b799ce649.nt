@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/ede35b7af4fbe00958156a1fe36c751d> <https://colonialcollections.nl/schema#creator> "Ngirazi" .
 <https://n2t.net/ark:/27023/ede35b7af4fbe00958156a1fe36c751d> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ede35b7af4fbe00958156a1fe36c751d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ede35b7af4fbe00958156a1fe36c751d> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/ede35b7af4fbe00958156a1fe36c751d> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/ede35b7af4fbe00958156a1fe36c751d> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

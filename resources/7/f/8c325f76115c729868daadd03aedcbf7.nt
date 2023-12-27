@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#material> "boombast ; sandelhout" .
 <https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#locationCreated> "Tonga" .
+<https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Tonga" .
+<https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#alternateName> "Tonga" .
+<https://n2t.net/ark:/27023/d5bdad5773dfd9104a2eb10d5f6a2857> <https://colonialcollections.nl/schema#countryCreated> "Tonga" .

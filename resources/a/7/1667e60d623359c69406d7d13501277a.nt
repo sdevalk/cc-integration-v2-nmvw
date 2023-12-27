@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/e62460172fed2ea29ce3515b87bc5b3a> <https://colonialcollections.nl/schema#creator> "John David White Eagle" .
 <https://n2t.net/ark:/27023/e62460172fed2ea29ce3515b87bc5b3a> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e62460172fed2ea29ce3515b87bc5b3a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e62460172fed2ea29ce3515b87bc5b3a> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/e62460172fed2ea29ce3515b87bc5b3a> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/e62460172fed2ea29ce3515b87bc5b3a> <https://colonialcollections.nl/schema#countryCreated> "United States" .

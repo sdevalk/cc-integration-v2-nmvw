@@ -9,11 +9,3 @@
 <https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#inscription> "titel op schutblad, jaartal met witte inkt geschreven op eerste albumpagina" .
 <https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/effe7e5d17355fc72f6ca4862b85615f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

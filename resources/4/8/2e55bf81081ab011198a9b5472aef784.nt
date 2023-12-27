@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#creator> "Hannah Kigusiuq" .
 <https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/d632cab8ae8dad37ae8bce988a1b3b5f> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

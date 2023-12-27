@@ -4,5 +4,3 @@
 <https://n2t.net/ark:/27023/e98e5677f3b96d8a319d94d747e6efd0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/e98e5677f3b96d8a319d94d747e6efd0> <https://colonialcollections.nl/schema#creator> "C. Mamani" .
 <https://n2t.net/ark:/27023/e98e5677f3b96d8a319d94d747e6efd0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e98e5677f3b96d8a319d94d747e6efd0> <https://colonialcollections.nl/schema#locationCreated> "Lima" .
-<https://n2t.net/ark:/27023/e98e5677f3b96d8a319d94d747e6efd0> <https://colonialcollections.nl/schema#alternateName> "Lima"@en .

@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#creator> "Maningrida Arts & Culture" .
 <https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/d5b32fb1b91dcfe5fc79ea5a87edf8fa> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

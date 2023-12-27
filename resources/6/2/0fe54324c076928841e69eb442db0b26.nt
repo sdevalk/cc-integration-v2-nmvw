@@ -6,3 +6,4 @@
 <https://n2t.net/ark:/27023/f15405d4d3ab53ef51fb22d0c8f1c502> <https://colonialcollections.nl/schema#creator> "Kavkajik Kârale Andreassen" .
 <https://n2t.net/ark:/27023/f15405d4d3ab53ef51fb22d0c8f1c502> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f15405d4d3ab53ef51fb22d0c8f1c502> <https://colonialcollections.nl/schema#yearCreatedEnd> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f15405d4d3ab53ef51fb22d0c8f1c502> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

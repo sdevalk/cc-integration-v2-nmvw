@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/d6616f8a9e043acaec7b13acaa530f9a> <https://colonialcollections.nl/schema#inscription> "titel met inkt op voorzijde karton geschreven" .
 <https://n2t.net/ark:/27023/d6616f8a9e043acaec7b13acaa530f9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d6616f8a9e043acaec7b13acaa530f9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d6616f8a9e043acaec7b13acaa530f9a> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
-<https://n2t.net/ark:/27023/d6616f8a9e043acaec7b13acaa530f9a> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#yearCreatedStart> "761"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "761"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#locationCreated> "Campeche" .
+<https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#alternateName> "Campeche"@en .
+<https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#alternateName> "Estado de Campeche" .
+<https://n2t.net/ark:/27023/d54e689662485c6113ec843f144ca7f5> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

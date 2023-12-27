@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#creator> "I Gusti Agung Ngurah KK" .
 <https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/e732517406d6b2496a5fa0c58e98a607> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

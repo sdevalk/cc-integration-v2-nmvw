@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#inscription> "titel en nummer met inkt op aachterzijde foto geschreven" .
 <https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#yearCreatedStart> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#yearCreatedEnd> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/e99def0a9c4f1c0acb8127f7cf1d1497> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

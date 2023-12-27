@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#creator> "Mohamedi Wasia Charinda" .
 <https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#locationCreated> "Tanzania" .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#alternateName> "Tanzania" .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanzania" .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#alternateName> "Tanzanie" .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#alternateName> "United Republic of Tanganyika and Zanzibar" .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#alternateName> "Tansania" .
+<https://n2t.net/ark:/27023/d6853890ad5a6fd8e7a0d3c98a5d66d3> <https://colonialcollections.nl/schema#countryCreated> "Tanzania" .

@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#creator> "Pasteur, J.D." .
 <https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/d45c0276575af71693e61d20ee3868d0> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

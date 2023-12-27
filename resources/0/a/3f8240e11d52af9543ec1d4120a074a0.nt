@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#inscription> "Verzen in Gurmukhi-schrift op schutblad omvat de naam van de schilder en beschrijft  de scene" .
 <https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/e75d84a1582658018379b8306ab744fd> <https://colonialcollections.nl/schema#countryCreated> "India" .

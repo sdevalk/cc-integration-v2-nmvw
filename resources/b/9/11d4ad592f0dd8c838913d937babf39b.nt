@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#creator> "M.F.(Maqbool Fida) Husain" .
 <https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/e89b31c5f038de030d31d35d7c708b60> <https://colonialcollections.nl/schema#countryCreated> "India" .

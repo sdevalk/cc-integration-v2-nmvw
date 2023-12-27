@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/efe883fc66a1c52d77204285b5fab9db> <https://colonialcollections.nl/schema#creator> "Dolores 'Little Eagle' Anderson" .
 <https://n2t.net/ark:/27023/efe883fc66a1c52d77204285b5fab9db> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/efe883fc66a1c52d77204285b5fab9db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/efe883fc66a1c52d77204285b5fab9db> <https://colonialcollections.nl/schema#locationCreated> "South Dakota" .
-<https://n2t.net/ark:/27023/efe883fc66a1c52d77204285b5fab9db> <https://colonialcollections.nl/schema#alternateName> "Coyote State"@en .
-<https://n2t.net/ark:/27023/efe883fc66a1c52d77204285b5fab9db> <https://colonialcollections.nl/schema#alternateName> "State of South Dakota"@en .

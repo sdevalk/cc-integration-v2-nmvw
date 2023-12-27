@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/e6ab3e84e10e61a79a8a42a5ab552b08> <https://colonialcollections.nl/schema#inscription> "titel achterop foto geschreven met inkt" .
 <https://n2t.net/ark:/27023/e6ab3e84e10e61a79a8a42a5ab552b08> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e6ab3e84e10e61a79a8a42a5ab552b08> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e6ab3e84e10e61a79a8a42a5ab552b08> <https://colonialcollections.nl/schema#locationCreated> "Swart Vallei" .
-<https://n2t.net/ark:/27023/e6ab3e84e10e61a79a8a42a5ab552b08> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

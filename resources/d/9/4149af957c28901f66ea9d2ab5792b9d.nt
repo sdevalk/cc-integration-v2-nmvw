@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#material> "katoen ; borduursel" .
 <https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#locationCreated> "Santa María Cauqué" .
+<https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#alternateName> "Santa María Cauqué" .
+<https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#alternateName> "Santa María" .
+<https://n2t.net/ark:/27023/ef7c1e0664e760e2e77d633fd15bf5d5> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

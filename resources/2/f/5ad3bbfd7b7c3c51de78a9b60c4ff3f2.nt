@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/d6549afbf9feb256ba3432d2a140bc2e> <https://colonialcollections.nl/schema#creator> "Suzuki Harunobu" .
 <https://n2t.net/ark:/27023/d6549afbf9feb256ba3432d2a140bc2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1770"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d6549afbf9feb256ba3432d2a140bc2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1770"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d6549afbf9feb256ba3432d2a140bc2e> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/d6549afbf9feb256ba3432d2a140bc2e> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/d6549afbf9feb256ba3432d2a140bc2e> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

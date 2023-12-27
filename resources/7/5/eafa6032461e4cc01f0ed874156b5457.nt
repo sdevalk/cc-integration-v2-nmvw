@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/e87816498332e05516953b11fcc927be> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/e87816498332e05516953b11fcc927be> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e87816498332e05516953b11fcc927be> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e87816498332e05516953b11fcc927be> <https://colonialcollections.nl/schema#locationCreated> "Ilamatlán" .
-<https://n2t.net/ark:/27023/e87816498332e05516953b11fcc927be> <https://colonialcollections.nl/schema#alternateName> "Ilamatlán" .

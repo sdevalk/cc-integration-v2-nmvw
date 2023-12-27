@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#creator> "Elvira Artemia Bautista Aguilar" .
 <https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#locationCreated> "San Agustín Tlacotepec" .
+<https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#alternateName> "Tlacotepec" .
+<https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#alternateName> "San Agustín" .
+<https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#alternateName> "Tlacotepec San Agustin" .
+<https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#alternateName> "San Agustín Tlacotepec" .
+<https://n2t.net/ark:/27023/f0ff772d99ffca12d0a77ad4978599e7> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

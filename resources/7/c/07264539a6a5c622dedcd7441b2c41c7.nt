@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/fe4e1e4a2b392af3f0abbd9346dd8d28> <https://colonialcollections.nl/schema#creator> "Helen Lonetree" .
 <https://n2t.net/ark:/27023/fe4e1e4a2b392af3f0abbd9346dd8d28> <https://colonialcollections.nl/schema#yearCreatedStart> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fe4e1e4a2b392af3f0abbd9346dd8d28> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fe4e1e4a2b392af3f0abbd9346dd8d28> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/fe4e1e4a2b392af3f0abbd9346dd8d28> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/fe4e1e4a2b392af3f0abbd9346dd8d28> <https://colonialcollections.nl/schema#countryCreated> "United States" .

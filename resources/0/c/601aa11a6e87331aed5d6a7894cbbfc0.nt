@@ -5,3 +5,4 @@
 <https://n2t.net/ark:/27023/ef0066adad7670fb2149f48c6d58b55d> <https://colonialcollections.nl/schema#creator> "Beatrice Dear" .
 <https://n2t.net/ark:/27023/ef0066adad7670fb2149f48c6d58b55d> <https://colonialcollections.nl/schema#yearCreatedStart> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ef0066adad7670fb2149f48c6d58b55d> <https://colonialcollections.nl/schema#yearCreatedEnd> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ef0066adad7670fb2149f48c6d58b55d> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

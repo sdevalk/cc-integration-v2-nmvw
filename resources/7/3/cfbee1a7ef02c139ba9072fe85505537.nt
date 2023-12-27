@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#inscription> "titel;geschreven in negatief /\r\ntitel met geschreven op karton aan de voorzijde door G. Verschuur" .
 <https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#locationCreated> "Chợ Lớn" .
+<https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#alternateName> "Chợ Lớn" .
+<https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#alternateName> "Sholon" .
+<https://n2t.net/ark:/27023/f0c05aa2aa55f61ff7fb9f5b3258dc56> <https://colonialcollections.nl/schema#countryCreated> "Vietnam" .

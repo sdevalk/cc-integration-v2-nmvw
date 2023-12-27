@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/d6337155c93086e3a5c52e8b791583fc> <https://colonialcollections.nl/schema#creator> "Elly van Creveld" .
 <https://n2t.net/ark:/27023/d6337155c93086e3a5c52e8b791583fc> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d6337155c93086e3a5c52e8b791583fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d6337155c93086e3a5c52e8b791583fc> <https://colonialcollections.nl/schema#locationCreated> "Victoria" .
+<https://n2t.net/ark:/27023/d6337155c93086e3a5c52e8b791583fc> <https://colonialcollections.nl/schema#alternateName> "Victoria"@en .
+<https://n2t.net/ark:/27023/d6337155c93086e3a5c52e8b791583fc> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

@@ -9,3 +9,10 @@
 <https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#inscription> "昭和三年作 Gemaakt in het derde jaar van Showa.\r\n姫路城夕 Het kasteel van Himeji in de avondschemering" .
 <https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/ee67f1ca8427cb30e829b16ec11fa841> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

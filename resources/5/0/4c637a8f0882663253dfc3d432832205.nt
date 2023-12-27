@@ -7,13 +7,3 @@
 <https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
 <https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#locationCreated> "Yerevan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Ayrivan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Erevan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Ereun" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Iravan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Revan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Yerevan"@en .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Yervandavan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Erewan" .
-<https://n2t.net/ark:/27023/e81d85716954d66042ccd82ec5bfb91a> <https://colonialcollections.nl/schema#alternateName> "Erivan" .

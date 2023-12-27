@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/d55f8dc6e7205d23c3c99c50312c8e6a> <https://colonialcollections.nl/schema#countryCreated> "India" .

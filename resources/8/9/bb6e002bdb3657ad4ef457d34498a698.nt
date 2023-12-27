@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#inscription> "titel geschreven op achterzijde karton [handschrift Ten Kate], opschrift met inkt achterop foto 'December 1913, vergroot afgedrukt door Miedema'." .
 <https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#locationCreated> "Asunción" .
+<https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#alternateName> "La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción" .
+<https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#alternateName> "Nuestra Señora Santa María de la Asunción" .
+<https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#alternateName> "Asunción"@en .
+<https://n2t.net/ark:/27023/e9d475cc71eddfc1ab49612bd4500b1a> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

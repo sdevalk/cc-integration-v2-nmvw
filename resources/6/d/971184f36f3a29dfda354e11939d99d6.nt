@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#creator> "Joel Reyes López" .
 <https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#locationCreated> "San Andrés Chicahuaxtla" .
-<https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla San Andres" .
-<https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#alternateName> "San Andres" .
-<https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla" .
-<https://n2t.net/ark:/27023/e798ebe1fd967cd1dbefc01db31283c3> <https://colonialcollections.nl/schema#alternateName> "San Andrés Chicahuaxtla" .

@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/ef8fcf4597f6d536002c4d5600b0780a> <https://colonialcollections.nl/schema#creator> "Elly van Creveld" .
 <https://n2t.net/ark:/27023/ef8fcf4597f6d536002c4d5600b0780a> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ef8fcf4597f6d536002c4d5600b0780a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ef8fcf4597f6d536002c4d5600b0780a> <https://colonialcollections.nl/schema#locationCreated> "Yukon" .
-<https://n2t.net/ark:/27023/ef8fcf4597f6d536002c4d5600b0780a> <https://colonialcollections.nl/schema#alternateName> "Yukon Territory"@en .
-<https://n2t.net/ark:/27023/ef8fcf4597f6d536002c4d5600b0780a> <https://colonialcollections.nl/schema#countryCreated> "Canada" .
