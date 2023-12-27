@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#creator> "Museum der Kulturen Basel" .
 <https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/9515553d77081053d5938f56afc2935a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

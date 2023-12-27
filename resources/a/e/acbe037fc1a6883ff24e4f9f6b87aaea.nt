@@ -8,3 +8,5 @@
 <https://n2t.net/ark:/27023/8b1990bc8c7a9d08394b87a0f45bf1fb> <https://colonialcollections.nl/schema#inscription> "titel; voorzijde; geschreven" .
 <https://n2t.net/ark:/27023/8b1990bc8c7a9d08394b87a0f45bf1fb> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8b1990bc8c7a9d08394b87a0f45bf1fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8b1990bc8c7a9d08394b87a0f45bf1fb> <https://colonialcollections.nl/schema#locationCreated> "Tomohon" .
+<https://n2t.net/ark:/27023/8b1990bc8c7a9d08394b87a0f45bf1fb> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

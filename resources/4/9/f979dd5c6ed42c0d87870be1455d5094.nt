@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/7fead83c45a5eacdb8a4f8a8726bda2e> <https://colonialcollections.nl/schema#creator> "Anna Williams" .
 <https://n2t.net/ark:/27023/7fead83c45a5eacdb8a4f8a8726bda2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7fead83c45a5eacdb8a4f8a8726bda2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7fead83c45a5eacdb8a4f8a8726bda2e> <https://colonialcollections.nl/schema#locationCreated> "Tuba City" .
-<https://n2t.net/ark:/27023/7fead83c45a5eacdb8a4f8a8726bda2e> <https://colonialcollections.nl/schema#alternateName> "Tuba" .

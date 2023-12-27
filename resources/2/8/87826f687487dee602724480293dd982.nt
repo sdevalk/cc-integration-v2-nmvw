@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/815a446fa684abc00c4ecd6dc69e6d34> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau" .
 <https://n2t.net/ark:/27023/815a446fa684abc00c4ecd6dc69e6d34> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/815a446fa684abc00c4ecd6dc69e6d34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/815a446fa684abc00c4ecd6dc69e6d34> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/815a446fa684abc00c4ecd6dc69e6d34> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/815a446fa684abc00c4ecd6dc69e6d34> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

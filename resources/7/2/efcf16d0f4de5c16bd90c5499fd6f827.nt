@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/80e16da44efde3698d3d44789cbd5c34> <https://colonialcollections.nl/schema#creator> "Palm, W.A." .
 <https://n2t.net/ark:/27023/80e16da44efde3698d3d44789cbd5c34> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/80e16da44efde3698d3d44789cbd5c34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/80e16da44efde3698d3d44789cbd5c34> <https://colonialcollections.nl/schema#locationCreated> "Penang" .
-<https://n2t.net/ark:/27023/80e16da44efde3698d3d44789cbd5c34> <https://colonialcollections.nl/schema#alternateName> "Penang"@en .

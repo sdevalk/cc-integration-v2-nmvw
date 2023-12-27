@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/7fdc42237eb333b8b9f0de4828f0106e> <https://colonialcollections.nl/schema#material> "noot (kokos) ; kalk" .
 <https://n2t.net/ark:/27023/7fdc42237eb333b8b9f0de4828f0106e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/7fdc42237eb333b8b9f0de4828f0106e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7fdc42237eb333b8b9f0de4828f0106e> <https://colonialcollections.nl/schema#locationCreated> "Cape Possession" .
+<https://n2t.net/ark:/27023/7fdc42237eb333b8b9f0de4828f0106e> <https://colonialcollections.nl/schema#alternateName> "Cape Possession" .
+<https://n2t.net/ark:/27023/7fdc42237eb333b8b9f0de4828f0106e> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

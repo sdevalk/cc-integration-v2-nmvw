@@ -7,7 +7,6 @@
 <https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#locationCreated> "Congo Republic" .
-<https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#locationCreated> "Western Africa" .
 <https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#alternateName> "Middle Congo" .
 <https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#alternateName> "Congo-Brazzaville"@en .
 <https://n2t.net/ark:/27023/9365e7f2345c9f8a9ca7bcedbea87e08> <https://colonialcollections.nl/schema#alternateName> "République Populaire du Congo" .

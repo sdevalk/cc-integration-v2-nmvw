@@ -4,7 +4,3 @@
 <https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#description> "Deze tas vormt een onderdeel van een bruidsschat." .
 <https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#locationCreated> "Kutch" .
-<https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#alternateName> "Kutch district"@en .
-<https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#alternateName> "Kachchh" .
-<https://n2t.net/ark:/27023/811e1534aea5b247d86e867c6b00dd68> <https://colonialcollections.nl/schema#alternateName> "Kachchh"@en .

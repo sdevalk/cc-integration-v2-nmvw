@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#creator> "Pitchai" .
 <https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/8236e54f82b2634f6588140c568e883b> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#creator> "Charles Sayers" .
 <https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/94a5970c58ceb7f08ac4e9dd34857182> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

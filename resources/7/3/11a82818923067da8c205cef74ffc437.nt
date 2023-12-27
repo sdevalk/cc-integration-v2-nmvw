@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#locationCreated> "Tepalcingo" .
+<https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#alternateName> "Tepalcingo" .
+<https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#alternateName> "Tepaltzingo" .
+<https://n2t.net/ark:/27023/93cfa6dd08fe8940caa62bd3592e983b> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

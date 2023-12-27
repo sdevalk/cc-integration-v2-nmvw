@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#inscription> "censorzegel 29: 1847-1850" .
 <https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#yearCreatedStart> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/8052a920abc829f7d490c3f7888a0f1d> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

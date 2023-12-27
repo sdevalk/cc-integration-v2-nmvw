@@ -4,8 +4,8 @@
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#locationCreated> "Ethiopia" .
-<https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#alternateName> "Ye’ Etiyop’iya Niguse Negast Mengist" .
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#alternateName> "Abyssinie" .
+<https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#alternateName> "Ye’ Etiyop’iya Niguse Negast Mengist" .
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#alternateName> "Abessinien" .
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#alternateName> "Socialist Ethiopia" .
 <https://n2t.net/ark:/27023/920a484b7fdeb81b2b614e847ae61b71> <https://colonialcollections.nl/schema#alternateName> "Federal Democratic Republic of Ethiopia"@en .

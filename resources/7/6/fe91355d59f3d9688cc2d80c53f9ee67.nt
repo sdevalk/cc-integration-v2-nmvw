@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#inscription> "Dit is het verhaal van de nasleep van de strijd van Widasari, de trouw van de echtgenote van de koning van Lasem bij de terugkeer van rituele zelfmoord" .
 <https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
-<https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
-<https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
-<https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
-<https://n2t.net/ark:/27023/7fc0c7f955778cf2fb53829465649eff> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

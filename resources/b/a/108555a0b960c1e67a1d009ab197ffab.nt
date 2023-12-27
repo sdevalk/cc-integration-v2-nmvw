@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#locationCreated> "Sonora" .
+<https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#alternateName> "Estado de Sonora" .
+<https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#alternateName> "Sonora"@en .
+<https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#alternateName> "altar, sonora" .
+<https://n2t.net/ark:/27023/93b595f6e8666c8f3c462527efefdff4> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

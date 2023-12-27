@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#yearCreatedStart> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#locationCreated> "Togo" .
+<https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#alternateName> "Togolese Republic"@en .
+<https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#alternateName> "French Togoland" .
+<https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#alternateName> "Republic of Togo" .
+<https://n2t.net/ark:/27023/9560255e6705349ebb0e71a42871ce4b> <https://colonialcollections.nl/schema#countryCreated> "Togo" .

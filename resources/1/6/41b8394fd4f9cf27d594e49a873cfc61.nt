@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#inscription> "Boven op de rand van de voet bevindt zich inscripties. Deze zijn afgesleten en slecht leesbaar. Eén van de inscripties lijkt een rondje te zijn." .
 <https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/8a6381f7809ed42d28532f02f62ab2b2> <https://colonialcollections.nl/schema#countryCreated> "India" .

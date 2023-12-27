@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/9447a70806f085dddcb5e0865198d1fb> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/9447a70806f085dddcb5e0865198d1fb> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9447a70806f085dddcb5e0865198d1fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9447a70806f085dddcb5e0865198d1fb> <https://colonialcollections.nl/schema#locationCreated> "Kabah" .
+<https://n2t.net/ark:/27023/9447a70806f085dddcb5e0865198d1fb> <https://colonialcollections.nl/schema#alternateName> "Zona Arqueológica Kabah" .
+<https://n2t.net/ark:/27023/9447a70806f085dddcb5e0865198d1fb> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

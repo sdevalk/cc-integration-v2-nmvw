@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/8d74935ae5e0d7fb9725d217e9aceb75> <https://colonialcollections.nl/schema#inscription> "titel & nr. geschreven in negatief" .
 <https://n2t.net/ark:/27023/8d74935ae5e0d7fb9725d217e9aceb75> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8d74935ae5e0d7fb9725d217e9aceb75> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8d74935ae5e0d7fb9725d217e9aceb75> <https://colonialcollections.nl/schema#locationCreated> "Rotorua" .
+<https://n2t.net/ark:/27023/8d74935ae5e0d7fb9725d217e9aceb75> <https://colonialcollections.nl/schema#alternateName> "Rotorua"@en .
+<https://n2t.net/ark:/27023/8d74935ae5e0d7fb9725d217e9aceb75> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

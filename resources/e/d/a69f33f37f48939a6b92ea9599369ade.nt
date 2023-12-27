@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau" .
 <https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Sampang" .
+<https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#alternateName> "Sampang Regency" .
+<https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#alternateName> "Sampang" .
+<https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Sampang" .
+<https://n2t.net/ark:/27023/7f9bf42b4028275d1f1d74fa3103e4de> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

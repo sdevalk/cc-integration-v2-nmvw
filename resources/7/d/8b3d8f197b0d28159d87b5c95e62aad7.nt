@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#creator> "J.R. (Johan Rudolf) Bonnet" .
 <https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/8dafacdac74c989dfdd2a632f236233c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

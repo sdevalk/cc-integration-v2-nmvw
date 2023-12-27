@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/99790afcba9d06c4436b06a2222d4853> <https://colonialcollections.nl/schema#creator> "Wilfred Walker" .
 <https://n2t.net/ark:/27023/99790afcba9d06c4436b06a2222d4853> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/99790afcba9d06c4436b06a2222d4853> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/99790afcba9d06c4436b06a2222d4853> <https://colonialcollections.nl/schema#locationCreated> "Peach Springs" .
+<https://n2t.net/ark:/27023/99790afcba9d06c4436b06a2222d4853> <https://colonialcollections.nl/schema#countryCreated> "United States" .

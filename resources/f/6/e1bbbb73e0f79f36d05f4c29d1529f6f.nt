@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/943a3e0c77975043d4fff927b6c02d61> <https://colonialcollections.nl/schema#inscription> "titel gedrukt op voorzijde karton,\r\nnummers 1 t/m 7 met inkt geschreven op voorzijde karton,\r\nnamen personen1 t/m 7 met inkt geschreven op achterzijde karton,\r\ndatum en plaats met inkt geschreven op achterzijde karton" .
 <https://n2t.net/ark:/27023/943a3e0c77975043d4fff927b6c02d61> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/943a3e0c77975043d4fff927b6c02d61> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/943a3e0c77975043d4fff927b6c02d61> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/943a3e0c77975043d4fff927b6c02d61> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/943a3e0c77975043d4fff927b6c02d61> <https://colonialcollections.nl/schema#countryCreated> "United States" .

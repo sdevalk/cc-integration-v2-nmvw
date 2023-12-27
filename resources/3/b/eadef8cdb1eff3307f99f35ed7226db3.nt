@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/8bce8a19d58ca31a3b37ba773fc82dfa> <https://colonialcollections.nl/schema#creator> "Mo. McGrew Color Graphics. K.C." .
 <https://n2t.net/ark:/27023/8bce8a19d58ca31a3b37ba773fc82dfa> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8bce8a19d58ca31a3b37ba773fc82dfa> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8bce8a19d58ca31a3b37ba773fc82dfa> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/8bce8a19d58ca31a3b37ba773fc82dfa> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/8bce8a19d58ca31a3b37ba773fc82dfa> <https://colonialcollections.nl/schema#countryCreated> "United States" .

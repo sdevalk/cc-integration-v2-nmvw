@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/8b7bc8f078b466fec0884242a736f2aa> <https://colonialcollections.nl/schema#creator> "Damian Manuhwa" .
 <https://n2t.net/ark:/27023/8b7bc8f078b466fec0884242a736f2aa> <https://colonialcollections.nl/schema#yearCreatedStart> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8b7bc8f078b466fec0884242a736f2aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8b7bc8f078b466fec0884242a736f2aa> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/8b7bc8f078b466fec0884242a736f2aa> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/8b7bc8f078b466fec0884242a736f2aa> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

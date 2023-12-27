@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/998083bed0105a5feefbe01a1bff059e> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
 <https://n2t.net/ark:/27023/998083bed0105a5feefbe01a1bff059e> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/998083bed0105a5feefbe01a1bff059e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/998083bed0105a5feefbe01a1bff059e> <https://colonialcollections.nl/schema#locationCreated> "Berastagi" .
-<https://n2t.net/ark:/27023/998083bed0105a5feefbe01a1bff059e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

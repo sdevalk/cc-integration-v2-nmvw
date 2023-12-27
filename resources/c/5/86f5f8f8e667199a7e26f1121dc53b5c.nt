@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#material> "ijzer ; hout ; verf ; goud ; vezels" .
 <https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/92d58a40ed6de8e25c25955d7ec9d7cc> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

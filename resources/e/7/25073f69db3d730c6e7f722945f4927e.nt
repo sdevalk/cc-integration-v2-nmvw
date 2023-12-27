@@ -3,3 +3,7 @@
 <https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#name> "SATIJNEN VROUWENBLOUSE MET BORDUURWERK VERSIERD" .
 <https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#locationCreated> "Cuenca" .
+<https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#alternateName> "Cuenca"@en .
+<https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#alternateName> "Santa Ana de los cuatro ríos de Cuenca" .
+<https://n2t.net/ark:/27023/9a58f7111897b6eb581c2626827dd39e> <https://colonialcollections.nl/schema#countryCreated> "Ecuador" .

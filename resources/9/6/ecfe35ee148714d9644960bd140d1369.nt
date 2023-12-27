@@ -5,3 +5,4 @@
 <https://n2t.net/ark:/27023/7f95b1cc103a5c07b8b551d1e1242dd1> <https://colonialcollections.nl/schema#creator> "Mary K. Okheena" .
 <https://n2t.net/ark:/27023/7f95b1cc103a5c07b8b551d1e1242dd1> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7f95b1cc103a5c07b8b551d1e1242dd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7f95b1cc103a5c07b8b551d1e1242dd1> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

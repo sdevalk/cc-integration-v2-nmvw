@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#creator> "Paddy Fordham Wainburranga" .
 <https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/9519148e4d57212cf30322d8f523a705> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

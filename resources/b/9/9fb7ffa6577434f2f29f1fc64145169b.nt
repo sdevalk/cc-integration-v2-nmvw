@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#creator> "Simon Tookoome" .
 <https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#yearCreatedStart> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/80f53dbd5fca94beb5fc70d847965e5c> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

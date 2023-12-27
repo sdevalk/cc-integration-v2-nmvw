@@ -5,3 +5,14 @@
 <https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#locationCreated> "Syracuse" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Na-ta-dunk" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Ken-tue-ho-ne" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Kah-ya-hoo-neh" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Milan" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Cossitts Corners" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "South Salina" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Bogardus Corners" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Sy-kuse" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#alternateName> "Tu-na-ten-tonk" .
+<https://n2t.net/ark:/27023/93acae2caf378b7caa4eef5727a0f03e> <https://colonialcollections.nl/schema#countryCreated> "United States" .

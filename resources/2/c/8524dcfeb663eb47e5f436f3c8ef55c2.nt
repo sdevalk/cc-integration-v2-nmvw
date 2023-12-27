@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#creator> "The Gandhi National Memorial Fund" .
 <https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/8d93de629bbca6a290f139c3abbdedb9> <https://colonialcollections.nl/schema#countryCreated> "India" .

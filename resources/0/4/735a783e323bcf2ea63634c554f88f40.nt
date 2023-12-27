@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#locationCreated> "Honduras" .
+<https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#alternateName> "Republic of Honduras"@en .
+<https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#countryCreated> "Honduras" .
+<https://n2t.net/ark:/27023/81478748e72c73d1e2c8fc59226c2836> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

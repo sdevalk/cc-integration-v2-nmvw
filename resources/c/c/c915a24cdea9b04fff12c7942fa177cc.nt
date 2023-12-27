@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#creator> "Ohannes Kurkdjian" .
 <https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/9a07fd5da6f58556f6b8b63dc12c5caa> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

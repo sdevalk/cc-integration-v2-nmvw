@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#creator> "Topografisch Bureau" .
 <https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Sumenep" .
+<https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#alternateName> "Sumenep Regency" .
+<https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#alternateName> "Sumenep" .
+<https://n2t.net/ark:/27023/8c471e63385f338a983869a0ce14a58f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

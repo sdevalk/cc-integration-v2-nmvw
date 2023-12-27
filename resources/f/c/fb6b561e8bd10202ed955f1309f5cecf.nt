@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/80f471ca40e8330f5cb815efdc05eebe> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/80f471ca40e8330f5cb815efdc05eebe> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/80f471ca40e8330f5cb815efdc05eebe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/80f471ca40e8330f5cb815efdc05eebe> <https://colonialcollections.nl/schema#locationCreated> "Stockholm" .

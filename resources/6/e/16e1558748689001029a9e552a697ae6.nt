@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/93b4c391df628abd497fbb831624a04b> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/93b4c391df628abd497fbb831624a04b> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/93b4c391df628abd497fbb831624a04b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/93b4c391df628abd497fbb831624a04b> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
-<https://n2t.net/ark:/27023/93b4c391df628abd497fbb831624a04b> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

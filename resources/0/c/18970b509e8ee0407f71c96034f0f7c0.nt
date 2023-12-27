@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/80f0f06089add34f54e387b00b1d7553> <https://colonialcollections.nl/schema#creator> "Kodachrome Reproduction" .
 <https://n2t.net/ark:/27023/80f0f06089add34f54e387b00b1d7553> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/80f0f06089add34f54e387b00b1d7553> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/80f0f06089add34f54e387b00b1d7553> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/80f0f06089add34f54e387b00b1d7553> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/80f0f06089add34f54e387b00b1d7553> <https://colonialcollections.nl/schema#countryCreated> "United States" .

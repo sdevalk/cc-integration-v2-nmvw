@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#inscription> "kleurenindicaties in nagari-schrift" .
 <https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/8c31d2cea7b52f5d6c821f66c0a48a2e> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/8a1dde0da9c128a02c3247c30851da07> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/8a1dde0da9c128a02c3247c30851da07> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8a1dde0da9c128a02c3247c30851da07> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8a1dde0da9c128a02c3247c30851da07> <https://colonialcollections.nl/schema#locationCreated> "Berastagi" .
-<https://n2t.net/ark:/27023/8a1dde0da9c128a02c3247c30851da07> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

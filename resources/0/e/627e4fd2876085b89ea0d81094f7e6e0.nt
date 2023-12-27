@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#locationCreated> "Cuilapan de Guerrero" .
+<https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#alternateName> "Cuilápam de Guerrero" .
+<https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#alternateName> "Cuilápam" .
+<https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#alternateName> "Cuilapan de Guerrero" .
+<https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#alternateName> "Cuilapan" .
+<https://n2t.net/ark:/27023/811a811b1902a609c0330325eebcd44d> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

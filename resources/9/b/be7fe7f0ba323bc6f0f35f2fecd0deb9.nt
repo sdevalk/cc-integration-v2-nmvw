@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/93dc1321911532e26751a6d199755932> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/93dc1321911532e26751a6d199755932> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/93dc1321911532e26751a6d199755932> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/93dc1321911532e26751a6d199755932> <https://colonialcollections.nl/schema#locationCreated> "Rustenburg" .
-<https://n2t.net/ark:/27023/93dc1321911532e26751a6d199755932> <https://colonialcollections.nl/schema#alternateName> "Rustenburg" .
-<https://n2t.net/ark:/27023/93dc1321911532e26751a6d199755932> <https://colonialcollections.nl/schema#alternateName> "Rustenburg"@en .

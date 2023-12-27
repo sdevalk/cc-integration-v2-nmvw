@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#creator> "Government Printing Office [Australian]" .
 <https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#locationCreated> "Perth" .
+<https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#alternateName> "Perth City" .
+<https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#alternateName> "Perth" .
+<https://n2t.net/ark:/27023/94ebda29ab1ccbe4c43a8d60eabc2ce9> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/95488dc9272ee123b6c53e341a829472> <https://colonialcollections.nl/schema#creator> "J.P. Kleiweg de Zwaan" .
 <https://n2t.net/ark:/27023/95488dc9272ee123b6c53e341a829472> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/95488dc9272ee123b6c53e341a829472> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/95488dc9272ee123b6c53e341a829472> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/95488dc9272ee123b6c53e341a829472> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/95488dc9272ee123b6c53e341a829472> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

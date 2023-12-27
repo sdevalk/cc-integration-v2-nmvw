@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/814c1f6c22ea4f25f7cd8f6efb00e084> <https://colonialcollections.nl/schema#inscription> "I-397" .
 <https://n2t.net/ark:/27023/814c1f6c22ea4f25f7cd8f6efb00e084> <https://colonialcollections.nl/schema#yearCreatedStart> "1808"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/814c1f6c22ea4f25f7cd8f6efb00e084> <https://colonialcollections.nl/schema#yearCreatedEnd> "1831"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/814c1f6c22ea4f25f7cd8f6efb00e084> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/814c1f6c22ea4f25f7cd8f6efb00e084> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/814c1f6c22ea4f25f7cd8f6efb00e084> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

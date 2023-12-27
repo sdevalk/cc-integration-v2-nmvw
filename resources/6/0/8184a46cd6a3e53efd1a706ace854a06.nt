@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op voorzijde" .
 <https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#locationCreated> "Belize" .
+<https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#alternateName> "Belice" .
+<https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#alternateName> "Belize" .
+<https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#alternateName> "British Honduras" .
+<https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#alternateName> "Balize" .
+<https://n2t.net/ark:/27023/91f71651a1bc2584f961ab67454d896b> <https://colonialcollections.nl/schema#countryCreated> "Belize" .
