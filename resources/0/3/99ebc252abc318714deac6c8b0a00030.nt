@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/fc0e3b9572166b062eb2ba3905391c3b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/fc0e3b9572166b062eb2ba3905391c3b> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fc0e3b9572166b062eb2ba3905391c3b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/fc0e3b9572166b062eb2ba3905391c3b> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
-<https://n2t.net/ark:/27023/fc0e3b9572166b062eb2ba3905391c3b> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
-<https://n2t.net/ark:/27023/fc0e3b9572166b062eb2ba3905391c3b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

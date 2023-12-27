@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#creator> "Emma Lynge" .
 <https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#yearCreatedStart> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#locationCreated> "North Greenland" .
-<https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#alternateName> "North Greenland"@en .
-<https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#alternateName> "Avanersuaq" .
-<https://n2t.net/ark:/27023/faf24742310f5a5ca4d3b3279e536d38> <https://colonialcollections.nl/schema#alternateName> "Avannaa" .

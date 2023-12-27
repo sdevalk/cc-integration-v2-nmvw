@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#yearCreatedStart> "-250"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#yearCreatedEnd> "-100"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#locationCreated> "Nayarit" .
-<https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#alternateName> "Nayarit"@en .
-<https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#alternateName> "Estado de Nayarit" .
-<https://n2t.net/ark:/27023/fb4bad738d8ff4932f6303897a7ab583> <https://colonialcollections.nl/schema#alternateName> "Tepic" .

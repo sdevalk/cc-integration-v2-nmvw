@@ -6,3 +6,11 @@
 <https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#creator> "Halim al-Karim" .
 <https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#yearCreatedStart> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#yearCreatedEnd> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#locationCreated> "Iraq" .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#alternateName> "Republic of Iraq"@en .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#alternateName> "Al ‘Irāq" .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#alternateName> "Iraq" .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#alternateName> "Irak" .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#alternateName> "Al Jumhūrīyah al ‘Irāqīyah" .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#alternateName> "Jumhūrīyat al ‘Irāq" .
+<https://n2t.net/ark:/27023/f3e21b3ae94b5efc8265c5468e0d7667> <https://colonialcollections.nl/schema#countryCreated> "Iraq" .

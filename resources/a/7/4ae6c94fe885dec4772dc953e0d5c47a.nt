@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#creator> "Solvyns, F.B." .
 <https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#yearCreatedStart> "1808"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1808"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/f4867ae22e597a7f32b4d248632f96a3> <https://colonialcollections.nl/schema#countryCreated> "India" .

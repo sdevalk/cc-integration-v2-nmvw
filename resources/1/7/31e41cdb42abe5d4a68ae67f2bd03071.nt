@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#locationCreated> "Meureudu District" .
+<https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#locationCreated> "Meureudu" .
+<https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#alternateName> "Meureudu District"@en .
+<https://n2t.net/ark:/27023/f94696a3192e2dba0f127ec9e86b8973> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

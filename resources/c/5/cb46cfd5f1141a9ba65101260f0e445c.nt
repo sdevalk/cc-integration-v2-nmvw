@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#creator> "Guido Boggiani" .
 <https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#locationCreated> "Asunción" .
+<https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#alternateName> "Asunción"@en .
+<https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#alternateName> "La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción" .
+<https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#alternateName> "Nuestra Señora Santa María de la Asunción" .
+<https://n2t.net/ark:/27023/ec2b120677dc2891f8de5dce3144b1b4> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

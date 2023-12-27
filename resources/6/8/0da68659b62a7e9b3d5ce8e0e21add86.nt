@@ -3,6 +3,3 @@
 <https://n2t.net/ark:/27023/ea470c2a86cf2d02e3091e8a6ff258d1> <https://colonialcollections.nl/schema#name> "VLECHTPATROON" .
 <https://n2t.net/ark:/27023/ea470c2a86cf2d02e3091e8a6ff258d1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ea470c2a86cf2d02e3091e8a6ff258d1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ea470c2a86cf2d02e3091e8a6ff258d1> <https://colonialcollections.nl/schema#locationCreated> "Talaud Islands Regency" .
-<https://n2t.net/ark:/27023/ea470c2a86cf2d02e3091e8a6ff258d1> <https://colonialcollections.nl/schema#alternateName> "Talaud Islands Regency"@en .
-<https://n2t.net/ark:/27023/ea470c2a86cf2d02e3091e8a6ff258d1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

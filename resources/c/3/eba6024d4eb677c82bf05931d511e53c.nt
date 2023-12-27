@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#yearCreatedStart> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#yearCreatedEnd> "1750"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#locationCreated> "Guler" .
+<https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#alternateName> "Guler" .
+<https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#alternateName> "Goler" .
+<https://n2t.net/ark:/27023/edb9a9bd7fcdb5b2e5af4944be6f7279> <https://colonialcollections.nl/schema#countryCreated> "India" .

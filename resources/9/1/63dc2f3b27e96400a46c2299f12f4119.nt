@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/f50653a05fee173ad70521b593b060af> <https://colonialcollections.nl/schema#creator> "Shunkôsai Hokuei" .
 <https://n2t.net/ark:/27023/f50653a05fee173ad70521b593b060af> <https://colonialcollections.nl/schema#yearCreatedStart> "1828"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f50653a05fee173ad70521b593b060af> <https://colonialcollections.nl/schema#yearCreatedEnd> "1837"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f50653a05fee173ad70521b593b060af> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/f50653a05fee173ad70521b593b060af> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/f50653a05fee173ad70521b593b060af> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

@@ -8,11 +8,3 @@
 <https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#inscription> "nummer met inkt geschreven op foto /\r\ntitel en nummer met inkt geschreven op etiket op achterzijde karton" .
 <https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#locationCreated> "Shūshtar" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#locationCreated> "Rūdkhāneh-ye Khersān" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#alternateName> "Rūd-e-Khersān" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#alternateName> "Ab-i-Khīrsān" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#alternateName> "Shūstar" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#alternateName> "Āb-e Kārūn" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#alternateName> "Shooshtar" .
-<https://n2t.net/ark:/27023/fb29ad63d3109d84f3988baaf649101b> <https://colonialcollections.nl/schema#alternateName> "شوشتر" .

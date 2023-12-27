@@ -4,3 +4,6 @@
 <https://n2t.net/ark:/27023/fb1601cb0dcf12cca8a4bc84b3ad563b> <https://colonialcollections.nl/schema#material> "zilverlegering & papier& glas\r\n(spiraal-) gedraaid & gegoten & gegraveerd & gezet & gesoldeerd & vuurverguld" .
 <https://n2t.net/ark:/27023/fb1601cb0dcf12cca8a4bc84b3ad563b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/fb1601cb0dcf12cca8a4bc84b3ad563b> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fb1601cb0dcf12cca8a4bc84b3ad563b> <https://colonialcollections.nl/schema#locationCreated> "Pakistan" .
+<https://n2t.net/ark:/27023/fb1601cb0dcf12cca8a4bc84b3ad563b> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Pakistan"@en .
+<https://n2t.net/ark:/27023/fb1601cb0dcf12cca8a4bc84b3ad563b> <https://colonialcollections.nl/schema#countryCreated> "Pakistan" .

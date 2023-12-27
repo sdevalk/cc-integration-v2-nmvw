@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/fd00ae7c988be72b8c1ffef7385747b0> <https://colonialcollections.nl/schema#creator> "Manus van der Kamp" .
 <https://n2t.net/ark:/27023/fd00ae7c988be72b8c1ffef7385747b0> <https://colonialcollections.nl/schema#yearCreatedStart> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fd00ae7c988be72b8c1ffef7385747b0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/fd00ae7c988be72b8c1ffef7385747b0> <https://colonialcollections.nl/schema#locationCreated> "Lambayeque" .
-<https://n2t.net/ark:/27023/fd00ae7c988be72b8c1ffef7385747b0> <https://colonialcollections.nl/schema#alternateName> "Lambayeque" .

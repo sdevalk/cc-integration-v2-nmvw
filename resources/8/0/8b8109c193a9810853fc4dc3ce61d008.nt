@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/eb1001502ca192dc24f3bbde96017151> <https://colonialcollections.nl/schema#inscription> "Chocolá" .
 <https://n2t.net/ark:/27023/eb1001502ca192dc24f3bbde96017151> <https://colonialcollections.nl/schema#yearCreatedStart> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/eb1001502ca192dc24f3bbde96017151> <https://colonialcollections.nl/schema#yearCreatedEnd> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/eb1001502ca192dc24f3bbde96017151> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/eb1001502ca192dc24f3bbde96017151> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/eb1001502ca192dc24f3bbde96017151> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

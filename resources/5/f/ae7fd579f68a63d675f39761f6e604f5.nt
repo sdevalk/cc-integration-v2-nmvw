@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/f552ac39807086f26b4d49c172fad62b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

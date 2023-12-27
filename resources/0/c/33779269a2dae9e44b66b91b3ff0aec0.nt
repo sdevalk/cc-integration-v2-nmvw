@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#inscription> "naam Raja  Ram Saran Haduriya in Nagari-schrift op achterkant" .
 <https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#yearCreatedStart> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/fac3cc64151b2c84aa9bdc79f689bce5> <https://colonialcollections.nl/schema#countryCreated> "India" .

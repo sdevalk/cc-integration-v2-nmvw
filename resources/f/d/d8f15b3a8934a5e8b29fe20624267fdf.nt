@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/ebf04a79eb4b57ec64fa420c25717c1d> <https://colonialcollections.nl/schema#material> "veren ; metallische draad ; fluweel ; spiegel ; zilverplastic" .
 <https://n2t.net/ark:/27023/ebf04a79eb4b57ec64fa420c25717c1d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ebf04a79eb4b57ec64fa420c25717c1d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ebf04a79eb4b57ec64fa420c25717c1d> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/ebf04a79eb4b57ec64fa420c25717c1d> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/ebf04a79eb4b57ec64fa420c25717c1d> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

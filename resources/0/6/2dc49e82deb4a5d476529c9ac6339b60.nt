@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#creator> "J. (Jacques) Belin" .
 <https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#locationCreated> "Moyen Atlas" .
+<https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#alternateName> "Middle Atlas" .
+<https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#alternateName> "Moyen Atlas" .
+<https://n2t.net/ark:/27023/f326fe1bddb05e736e767252b725138d> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

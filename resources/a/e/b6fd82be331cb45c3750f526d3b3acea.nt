@@ -5,3 +5,5 @@
 <https://n2t.net/ark:/27023/fd0366102f2b9b9776a1c2b22440ffd1> <https://colonialcollections.nl/schema#material> "katoen ; acrylische stof ; brokaat" .
 <https://n2t.net/ark:/27023/fd0366102f2b9b9776a1c2b22440ffd1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/fd0366102f2b9b9776a1c2b22440ffd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fd0366102f2b9b9776a1c2b22440ffd1> <https://colonialcollections.nl/schema#locationCreated> "Comalapa" .
+<https://n2t.net/ark:/27023/fd0366102f2b9b9776a1c2b22440ffd1> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

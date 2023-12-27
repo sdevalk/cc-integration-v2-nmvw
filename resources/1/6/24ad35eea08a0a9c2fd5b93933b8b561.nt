@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#locationCreated> "Santa Cruz Nundaco" .
+<https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#alternateName> "Nundaco" .
+<https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#alternateName> "Santa Cruz Nundaco" .
+<https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#alternateName> "Santa Cruz" .
+<https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#alternateName> "Mundaco" .
+<https://n2t.net/ark:/27023/ed3dc1f3f2bf11e966f538a8c69fc0da> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

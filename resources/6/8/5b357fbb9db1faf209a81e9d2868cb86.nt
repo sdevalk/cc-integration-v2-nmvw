@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#creator> "Kreeda" .
 <https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/f533ef1f1fa3b12c95f4916e37ea9bd1> <https://colonialcollections.nl/schema#countryCreated> "India" .

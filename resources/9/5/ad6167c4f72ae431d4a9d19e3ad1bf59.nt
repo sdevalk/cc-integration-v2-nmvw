@@ -5,3 +5,16 @@
 <https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#material> "Het beeld is uit steen gehouwen. Uit onderzoek in het Mineralogisch Instituut te Basel blijkt dat deze beelden meestal bestaan uit steatiet: talk met mengsels van erts, chloorkalk en anthophylliet. Het is een zachte steensoort om te bewerken." .
 <https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#locationCreated> "Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Guinea-Conakry"@en .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "French Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Guinean People’s Republic" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "People’s Revolutionary Republic of Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Popular and Revolutionary Republic of Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Französisch-Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Guinée Française" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Republic of Guinea"@en .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Guinée" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#alternateName> "Revolutionary People’s Republic of Guinea" .
+<https://n2t.net/ark:/27023/ecc90c511ebf58338feebfc08d580964> <https://colonialcollections.nl/schema#countryCreated> "Guinea" .

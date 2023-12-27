@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/ec4c619523ca175ad9d9526a4681de39> <https://colonialcollections.nl/schema#inscription> "titel gedrukt onder foto" .
 <https://n2t.net/ark:/27023/ec4c619523ca175ad9d9526a4681de39> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ec4c619523ca175ad9d9526a4681de39> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ec4c619523ca175ad9d9526a4681de39> <https://colonialcollections.nl/schema#locationCreated> "Mayumbe" .
+<https://n2t.net/ark:/27023/ec4c619523ca175ad9d9526a4681de39> <https://colonialcollections.nl/schema#countryCreated> "DR Congo" .

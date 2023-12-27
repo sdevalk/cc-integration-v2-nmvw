@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/fc5e050fc7695569fd846d9d5a57424b> <https://colonialcollections.nl/schema#creator> "Matsumoto Yasuoki" .
 <https://n2t.net/ark:/27023/fc5e050fc7695569fd846d9d5a57424b> <https://colonialcollections.nl/schema#yearCreatedStart> "1836"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fc5e050fc7695569fd846d9d5a57424b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/fc5e050fc7695569fd846d9d5a57424b> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/fc5e050fc7695569fd846d9d5a57424b> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

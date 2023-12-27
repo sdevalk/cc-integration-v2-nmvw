@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#creator> "Mahtab Nobakhti" .
 <https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#locationCreated> "East Azerbaijan" .
+<https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#alternateName> "The 3rd Province"@en .
+<https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#alternateName> "East Azarbaijan"@en .
+<https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#alternateName> "Āz̄ārbāyjān-e Shārqī" .
+<https://n2t.net/ark:/27023/f29ce4139f223245c8401d933bde3c3b> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

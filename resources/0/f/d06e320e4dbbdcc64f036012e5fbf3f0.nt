@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/eca3464abc163547ecfc2be5828af05a> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/eca3464abc163547ecfc2be5828af05a> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/eca3464abc163547ecfc2be5828af05a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/eca3464abc163547ecfc2be5828af05a> <https://colonialcollections.nl/schema#locationCreated> "French Guiana" .
+<https://n2t.net/ark:/27023/eca3464abc163547ecfc2be5828af05a> <https://colonialcollections.nl/schema#alternateName> "La Guyane" .
+<https://n2t.net/ark:/27023/eca3464abc163547ecfc2be5828af05a> <https://colonialcollections.nl/schema#alternateName> "La Guyane Française" .

@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/f1acd0206196ecd3e7e34ecdadbd4ade> <https://colonialcollections.nl/schema#creator> "Dobbelmann zeepfabrikant" .
 <https://n2t.net/ark:/27023/f1acd0206196ecd3e7e34ecdadbd4ade> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f1acd0206196ecd3e7e34ecdadbd4ade> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f1acd0206196ecd3e7e34ecdadbd4ade> <https://colonialcollections.nl/schema#locationCreated> "Besuki" .
-<https://n2t.net/ark:/27023/f1acd0206196ecd3e7e34ecdadbd4ade> <https://colonialcollections.nl/schema#alternateName> "Besoeki" .
-<https://n2t.net/ark:/27023/f1acd0206196ecd3e7e34ecdadbd4ade> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#creator> "Luke Anguhadluq" .
 <https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/f4046bcfface9ab33fb2d05a0e473022> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

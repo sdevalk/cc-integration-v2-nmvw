@@ -4,6 +4,3 @@
 <https://n2t.net/ark:/27023/f21e383da8d70e2724ca28827ac8ebf1> <https://colonialcollections.nl/schema#description> "Vermoedelijk hoofddoek" .
 <https://n2t.net/ark:/27023/f21e383da8d70e2724ca28827ac8ebf1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/f21e383da8d70e2724ca28827ac8ebf1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f21e383da8d70e2724ca28827ac8ebf1> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
-<https://n2t.net/ark:/27023/f21e383da8d70e2724ca28827ac8ebf1> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
-<https://n2t.net/ark:/27023/f21e383da8d70e2724ca28827ac8ebf1> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

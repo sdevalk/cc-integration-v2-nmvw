@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/f9d589d55be2234c31ad13d36ea83a14> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/f9d589d55be2234c31ad13d36ea83a14> <https://colonialcollections.nl/schema#yearCreatedStart> "700"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f9d589d55be2234c31ad13d36ea83a14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1470"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f9d589d55be2234c31ad13d36ea83a14> <https://colonialcollections.nl/schema#locationCreated> "Lambayeque" .
-<https://n2t.net/ark:/27023/f9d589d55be2234c31ad13d36ea83a14> <https://colonialcollections.nl/schema#alternateName> "Lambayeque" .

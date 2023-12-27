@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#creator> "Mona Napaljarri Rockman" .
 <https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/f2b6574f40d1fd4b7a6e51c1263b0309> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

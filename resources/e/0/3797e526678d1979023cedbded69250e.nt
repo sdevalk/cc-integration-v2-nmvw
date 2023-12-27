@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#creator> "Tirto" .
 <https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#locationCreated> "Gresik Regency" .
-<https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#alternateName> "Gresik Regency"@en .
-<https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#alternateName> "Gresik" .
-<https://n2t.net/ark:/27023/ed00f0d587d7cb93a28e3797b13fa946> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

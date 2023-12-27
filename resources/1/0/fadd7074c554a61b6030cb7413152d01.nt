@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/f3935a2d1360a1d0d2028266cfde9f88> <https://colonialcollections.nl/schema#creator> "Hasegawa Sadanobu" .
 <https://n2t.net/ark:/27023/f3935a2d1360a1d0d2028266cfde9f88> <https://colonialcollections.nl/schema#yearCreatedStart> "1834"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f3935a2d1360a1d0d2028266cfde9f88> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f3935a2d1360a1d0d2028266cfde9f88> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/f3935a2d1360a1d0d2028266cfde9f88> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/f3935a2d1360a1d0d2028266cfde9f88> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

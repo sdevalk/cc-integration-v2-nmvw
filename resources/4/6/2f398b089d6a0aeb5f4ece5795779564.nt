@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/eb172b94d76e0ccfbd0ad31c885ccacc> <https://colonialcollections.nl/schema#creator> "Dhr. J. (Jean) Demmeni" .
 <https://n2t.net/ark:/27023/eb172b94d76e0ccfbd0ad31c885ccacc> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/eb172b94d76e0ccfbd0ad31c885ccacc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/eb172b94d76e0ccfbd0ad31c885ccacc> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
-<https://n2t.net/ark:/27023/eb172b94d76e0ccfbd0ad31c885ccacc> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/fc567205db7eef26b72f2972f051d834> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/fc567205db7eef26b72f2972f051d834> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fc567205db7eef26b72f2972f051d834> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/fc567205db7eef26b72f2972f051d834> <https://colonialcollections.nl/schema#locationCreated> "Rotorua" .
+<https://n2t.net/ark:/27023/fc567205db7eef26b72f2972f051d834> <https://colonialcollections.nl/schema#alternateName> "Rotorua"@en .
+<https://n2t.net/ark:/27023/fc567205db7eef26b72f2972f051d834> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

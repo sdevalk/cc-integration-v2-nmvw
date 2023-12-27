@@ -6,9 +6,3 @@
 <https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#locationCreated> "Kumbe River" .
-<https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#alternateName> "Koembe-rivier" .
-<https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#alternateName> "Kumbe River" .
-<https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#alternateName> "Kumbe River"@en .
-<https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#alternateName> "Sungai Kumbe" .
-<https://n2t.net/ark:/27023/ec7e97ed460e28a913e30c06ceb5d6ac> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

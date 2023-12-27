@@ -7,3 +7,11 @@
 <https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#creator> "Aboudramane" .
 <https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#locationCreated> "Ivory Coast" .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#alternateName> "Ivory Coast" .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#alternateName> "Republic of Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#alternateName> "Elfenbein-Küste" .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#alternateName> "Côte d'Ivoire"@en .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#alternateName> "Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#alternateName> "Costa de Marfil" .
+<https://n2t.net/ark:/27023/f56a5959f9a34352908ceff5f485e89b> <https://colonialcollections.nl/schema#countryCreated> "Ivory Coast" .

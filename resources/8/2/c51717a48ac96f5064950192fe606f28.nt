@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#creator> "Klein & Peyerl" .
 <https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#locationCreated> "Chennai" .
-<https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#alternateName> "Madras"@en .
-<https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#alternateName> "Tamizhagam" .
-<https://n2t.net/ark:/27023/fa292008c637cdae04c1e2cab530460e> <https://colonialcollections.nl/schema#alternateName> "Tamulinadu" .

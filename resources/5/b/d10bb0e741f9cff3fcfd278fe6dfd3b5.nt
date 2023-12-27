@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/ecf4757e373a1c77e1e3d975c0ee8d7c> <https://colonialcollections.nl/schema#material> "bamboe (?)" .
 <https://n2t.net/ark:/27023/ecf4757e373a1c77e1e3d975c0ee8d7c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ecf4757e373a1c77e1e3d975c0ee8d7c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ecf4757e373a1c77e1e3d975c0ee8d7c> <https://colonialcollections.nl/schema#locationCreated> "Cape Possession" .
+<https://n2t.net/ark:/27023/ecf4757e373a1c77e1e3d975c0ee8d7c> <https://colonialcollections.nl/schema#alternateName> "Cape Possession" .
+<https://n2t.net/ark:/27023/ecf4757e373a1c77e1e3d975c0ee8d7c> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .
