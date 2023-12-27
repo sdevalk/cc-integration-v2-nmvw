@@ -10,3 +10,8 @@
 <https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#creator> "Drs. F.M. (Frits) Cowan" .
 <https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#yearCreatedStart> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/ae3ad2fc44029099654b371e4f2a79af> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#creator> "Dhr. J. (Jean) Demmeni" .
 <https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#locationCreated> "Gunung Tangkubanperahu" .
+<https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#alternateName> "Gunung Tangkubanprahu" .
+<https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#alternateName> "Gunung Tangkubanparahu" .
+<https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#alternateName> "Goenoeng Tangkoebanprahoe" .
+<https://n2t.net/ark:/27023/7d7faa1d1abdf6809801ff4e7c1b9da7> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

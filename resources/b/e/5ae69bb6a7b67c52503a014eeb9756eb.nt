@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#inscription> "Aan de bovenzijde van de centrale houder is een Engelse inscriptie in Latijns schrift aangebracht. Er staat: From Mr. V. G. Sukhatankar. B.A. 12 May 1937." .
 <https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/ded2605969f9315075fd6cfef48dfcbd> <https://colonialcollections.nl/schema#countryCreated> "India" .

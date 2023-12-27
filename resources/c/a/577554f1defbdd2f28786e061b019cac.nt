@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#creator> "J.P. Kleiweg de Zwaan" .
 <https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/df76255304f79212477a354e4e90ef0a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

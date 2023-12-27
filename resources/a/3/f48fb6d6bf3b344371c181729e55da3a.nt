@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/ae396061bff1875b067c6a388df31b3d> <https://colonialcollections.nl/schema#creator> "museumfotograaf" .
 <https://n2t.net/ark:/27023/ae396061bff1875b067c6a388df31b3d> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ae396061bff1875b067c6a388df31b3d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ae396061bff1875b067c6a388df31b3d> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/ae396061bff1875b067c6a388df31b3d> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/ae396061bff1875b067c6a388df31b3d> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/af4cdf394cfdd667defb41dd7b182041> <https://colonialcollections.nl/schema#creator> "A. Sonrel" .
 <https://n2t.net/ark:/27023/af4cdf394cfdd667defb41dd7b182041> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/af4cdf394cfdd667defb41dd7b182041> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/af4cdf394cfdd667defb41dd7b182041> <https://colonialcollections.nl/schema#locationCreated> "North America" .

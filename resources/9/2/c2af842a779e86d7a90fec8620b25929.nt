@@ -8,12 +8,3 @@
 <https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#creator> "Gaitai" .
 <https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#locationCreated> "Kinki Chihō" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Kansai" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Kinki District" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Kinki" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Kinki-chihō" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Kinki Chihō" .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/dfb2ba0634870e1ba9c0a27f3053d56a> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

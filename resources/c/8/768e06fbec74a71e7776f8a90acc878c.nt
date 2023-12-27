@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/afa72ea03ce18b73c4b706bab96d2b56> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/afa72ea03ce18b73c4b706bab96d2b56> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/afa72ea03ce18b73c4b706bab96d2b56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/afa72ea03ce18b73c4b706bab96d2b56> <https://colonialcollections.nl/schema#locationCreated> "Ruins of Palenque" .
-<https://n2t.net/ark:/27023/afa72ea03ce18b73c4b706bab96d2b56> <https://colonialcollections.nl/schema#alternateName> "Ruinas de Palenque" .

@@ -9,3 +9,6 @@
 <https://n2t.net/ark:/27023/ada2613db86fab9c7bb23dae88bb1347> <https://colonialcollections.nl/schema#inscription> "nummer & titel met inkt op achterzijde karton geschreven ;\r\nnummer met inkt rechtsonder op voorzijde karton geschreven en rechtsboven in negatief geschreven in spiegelbeeld" .
 <https://n2t.net/ark:/27023/ada2613db86fab9c7bb23dae88bb1347> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ada2613db86fab9c7bb23dae88bb1347> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ada2613db86fab9c7bb23dae88bb1347> <https://colonialcollections.nl/schema#locationCreated> "Brisbane" .
+<https://n2t.net/ark:/27023/ada2613db86fab9c7bb23dae88bb1347> <https://colonialcollections.nl/schema#alternateName> "Brisbane City"@en .
+<https://n2t.net/ark:/27023/ada2613db86fab9c7bb23dae88bb1347> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

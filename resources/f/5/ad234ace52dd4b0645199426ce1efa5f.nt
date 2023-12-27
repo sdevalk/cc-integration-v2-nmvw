@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#locationCreated> "Gansee" .
+<https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#alternateName> "Gansee" .
+<https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#alternateName> "Gansé" .
+<https://n2t.net/ark:/27023/7db47bc87350e9e10f1cd33fd804801c> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

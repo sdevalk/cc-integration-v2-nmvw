@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/ded8531aa4dd83af05fceb9e6fc4da5a> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/ded8531aa4dd83af05fceb9e6fc4da5a> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ded8531aa4dd83af05fceb9e6fc4da5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ded8531aa4dd83af05fceb9e6fc4da5a> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/ded8531aa4dd83af05fceb9e6fc4da5a> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/ded8531aa4dd83af05fceb9e6fc4da5a> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

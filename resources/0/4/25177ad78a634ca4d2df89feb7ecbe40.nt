@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#creator> "Kubo Shunman" .
 <https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#yearCreatedStart> "1780"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/afc234ce1558763aca93525f5b9a66b6> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/aecd9d3ded5da89d3d86e56d65bb309f> <https://colonialcollections.nl/schema#creator> "Musée de L'Homme" .
 <https://n2t.net/ark:/27023/aecd9d3ded5da89d3d86e56d65bb309f> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/aecd9d3ded5da89d3d86e56d65bb309f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/aecd9d3ded5da89d3d86e56d65bb309f> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/aecd9d3ded5da89d3d86e56d65bb309f> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/aecd9d3ded5da89d3d86e56d65bb309f> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

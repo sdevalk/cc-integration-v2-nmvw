@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/89b1682d7b168fa110802212e470b82a> <https://colonialcollections.nl/schema#creator> "H.M. (Henricus Martinus) Neeb" .
 <https://n2t.net/ark:/27023/89b1682d7b168fa110802212e470b82a> <https://colonialcollections.nl/schema#yearCreatedStart> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/89b1682d7b168fa110802212e470b82a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/89b1682d7b168fa110802212e470b82a> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/89b1682d7b168fa110802212e470b82a> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/89b1682d7b168fa110802212e470b82a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

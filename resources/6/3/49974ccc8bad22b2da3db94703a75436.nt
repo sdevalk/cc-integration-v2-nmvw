@@ -7,16 +7,16 @@
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#locationCreated> "Cambodia" .
-<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Democratic Cambodia" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Preah Reach Ana Chak Kampuchea" .
+<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Democratic Cambodia" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Camboja" .
-<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "République Khmère" .
-<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Preăhréachéanachâkr Kâmpŭchéa" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Khmer Republic" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Democratic Cambodia"@en .
+<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "République Khmère" .
+<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Preăhréachéanachâkr Kâmpŭchéa" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Democratic Kampuchea" .
-<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Khmer Republic"@en .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Cambodia"@en .
+<https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Khmer Republic"@en .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Kampuchea Démocratique" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Cambotja" .
 <https://n2t.net/ark:/27023/7e30c860eac502c6789050dff512a372> <https://colonialcollections.nl/schema#alternateName> "Democratic Kampuchea"@en .

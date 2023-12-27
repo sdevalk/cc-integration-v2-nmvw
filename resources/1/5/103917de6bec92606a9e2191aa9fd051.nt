@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#name> "LICHTGRIJS TUFSTENEN BEELD VAN EEN ZITTEND VARKEN" .
 <https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/acc1ff31772afa936b990df5f76c04c9> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

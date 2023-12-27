@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#creator> "dhr. I. (Isaac) Okyere Azey" .
 <https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#yearCreatedStart> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/89baef5e900a5a89ab90f44c2809b2fb> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

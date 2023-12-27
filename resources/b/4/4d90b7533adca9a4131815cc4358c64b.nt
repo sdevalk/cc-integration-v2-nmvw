@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/dfa0cde3483f125bd96bf4f03a8d6050> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
 <https://n2t.net/ark:/27023/dfa0cde3483f125bd96bf4f03a8d6050> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dfa0cde3483f125bd96bf4f03a8d6050> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dfa0cde3483f125bd96bf4f03a8d6050> <https://colonialcollections.nl/schema#locationCreated> "Inuvik" .
-<https://n2t.net/ark:/27023/dfa0cde3483f125bd96bf4f03a8d6050> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

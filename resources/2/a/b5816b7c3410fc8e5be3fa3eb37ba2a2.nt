@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/e0ee5cb8c7db950270568f1f118434d9> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/e0ee5cb8c7db950270568f1f118434d9> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e0ee5cb8c7db950270568f1f118434d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e0ee5cb8c7db950270568f1f118434d9> <https://colonialcollections.nl/schema#locationCreated> "Ruins of Palenque" .
-<https://n2t.net/ark:/27023/e0ee5cb8c7db950270568f1f118434d9> <https://colonialcollections.nl/schema#alternateName> "Ruinas de Palenque" .

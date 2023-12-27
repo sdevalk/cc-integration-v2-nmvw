@@ -6,8 +6,8 @@
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#yearCreatedStart> "1744"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1744"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#locationCreated> "Sri Lanka" .
-<https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#alternateName> "Lanka" .
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#alternateName> "Dominion of Ceylon" .
+<https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#alternateName> "Lanka" .
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#alternateName> "Selan" .
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#alternateName> "Taprobane" .
 <https://n2t.net/ark:/27023/866c7e468b7ce63cba2ac995e1f5edb0> <https://colonialcollections.nl/schema#alternateName> "Sri Lankā Janarajaya" .

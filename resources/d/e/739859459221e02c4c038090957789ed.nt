@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#creator> "Joshua Nuilaalik" .
 <https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/88887da12a6054b9391a6e3abf374c65> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

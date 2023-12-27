@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#inscription> "3 regels tekst in nagari op schutblad bevat de Nayika's toespraak" .
 <https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/acaca5c4e0ad40294cdacf4131904753> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/ae0c82dae777106903fc62f7dff6f1db> <https://colonialcollections.nl/schema#material> "blad (pandanus)" .
 <https://n2t.net/ark:/27023/ae0c82dae777106903fc62f7dff6f1db> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ae0c82dae777106903fc62f7dff6f1db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ae0c82dae777106903fc62f7dff6f1db> <https://colonialcollections.nl/schema#locationCreated> "Gilbert Islands" .
-<https://n2t.net/ark:/27023/ae0c82dae777106903fc62f7dff6f1db> <https://colonialcollections.nl/schema#alternateName> "Gilbert Islands"@en .

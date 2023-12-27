@@ -6,13 +6,3 @@
 <https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#creator> "Dr. H.F. (Hendrik Freerk) Tillema" .
 <https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#locationCreated> "Jeddah" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Jaddah" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Gedda" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Djidda" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Jeddah" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Jidda" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Jeddah"@en .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Jiddah" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Juddah" .
-<https://n2t.net/ark:/27023/dfc6644c5c0c1566681bef58c8e1e24f> <https://colonialcollections.nl/schema#alternateName> "Jedda" .

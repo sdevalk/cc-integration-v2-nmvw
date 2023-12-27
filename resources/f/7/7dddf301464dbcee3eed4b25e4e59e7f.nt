@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#creator> "Engelbregt, P.M." .
 <https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#yearCreatedStart> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#yearCreatedEnd> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/afd84647b8de9dd245e3e8f21d4ea2ed> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

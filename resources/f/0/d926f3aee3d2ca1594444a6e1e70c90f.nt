@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#locationCreated> "Novaya Zemlya" .
+<https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#alternateName> "Novaya Zemlya"@en .
+<https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#alternateName> "Novaja Zemlja" .
+<https://n2t.net/ark:/27023/8863da0da16f600a0afc46a275e424b3> <https://colonialcollections.nl/schema#countryCreated> "Russia" .

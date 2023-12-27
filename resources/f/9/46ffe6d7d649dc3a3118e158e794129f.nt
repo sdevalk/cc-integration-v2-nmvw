@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#inscription> "Methali\r\nMtaka cha mvunguni sharti\r\nMtulivu hula bivu\r\nCha mlevi huliwa\r\nAsiyekuwako na lake haliko\r\nKawia ufike\r\n\r\nHesabu\r\n2.2.1981. \r\nMwalimu Njaaga\r\n\r\nMasomo Kwa Wote\r\n\r\nae iou" .
 <https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/872b5b6f596270d407aae24d2195e306> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

@@ -8,3 +8,5 @@
 <https://n2t.net/ark:/27023/8747fefe269bcd9eb6e8e79ac6646384> <https://colonialcollections.nl/schema#inscription> "'1208' geschreven in negatief" .
 <https://n2t.net/ark:/27023/8747fefe269bcd9eb6e8e79ac6646384> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8747fefe269bcd9eb6e8e79ac6646384> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8747fefe269bcd9eb6e8e79ac6646384> <https://colonialcollections.nl/schema#locationCreated> "Ganges" .
+<https://n2t.net/ark:/27023/8747fefe269bcd9eb6e8e79ac6646384> <https://colonialcollections.nl/schema#countryCreated> "India" .

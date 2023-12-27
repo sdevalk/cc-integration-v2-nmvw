@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#creator> "J. (James) Iyuna" .
 <https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/87cf3c54740f231dc13cc7ad1d0a594e> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

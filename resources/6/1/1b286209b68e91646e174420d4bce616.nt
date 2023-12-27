@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#creator> "Dorp & Co N.V." .
 <https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Jember" .
-<https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Djember" .
-<https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#alternateName> "Jember Regency" .
-<https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#alternateName> "Jember" .
-<https://n2t.net/ark:/27023/87e8e056cc0143ec743ad9f3d659e8d5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

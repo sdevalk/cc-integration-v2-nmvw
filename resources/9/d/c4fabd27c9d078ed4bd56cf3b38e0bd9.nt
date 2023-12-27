@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#creator> "G. T. (George Tjangala) Yapa Yapa" .
 <https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/7d5f0d001a9988d5614d2b0f105fb5ef> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

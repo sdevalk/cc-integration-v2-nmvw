@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/e09700129d65d6b5d20d86c5404f2f81> <https://colonialcollections.nl/schema#inscription> "titel met inkt op voorzijde karton geschreven" .
 <https://n2t.net/ark:/27023/e09700129d65d6b5d20d86c5404f2f81> <https://colonialcollections.nl/schema#yearCreatedStart> "1858"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e09700129d65d6b5d20d86c5404f2f81> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e09700129d65d6b5d20d86c5404f2f81> <https://colonialcollections.nl/schema#locationCreated> "Vietnam" .
+<https://n2t.net/ark:/27023/e09700129d65d6b5d20d86c5404f2f81> <https://colonialcollections.nl/schema#alternateName> "Socialist Republic of Vietnam"@en .
+<https://n2t.net/ark:/27023/e09700129d65d6b5d20d86c5404f2f81> <https://colonialcollections.nl/schema#countryCreated> "Vietnam" .

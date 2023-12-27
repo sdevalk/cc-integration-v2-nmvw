@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#creator> "J.B. Khanna  & Co." .
 <https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#locationCreated> "Chennai" .
-<https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#alternateName> "Tamizhagam" .
-<https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#alternateName> "Madras"@en .
-<https://n2t.net/ark:/27023/acd3a93b9958440129bbd16bb65d64c2> <https://colonialcollections.nl/schema#alternateName> "Tamulinadu" .

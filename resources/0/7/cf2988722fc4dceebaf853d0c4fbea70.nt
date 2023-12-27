@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#creator> "Lily Sandover Kngwarreye" .
 <https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/ad91f590f0b18ae5db2174e8b9c4205c> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

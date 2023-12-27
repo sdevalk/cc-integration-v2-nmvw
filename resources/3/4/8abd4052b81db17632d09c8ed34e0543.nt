@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#creator> "J.C. (Johannes Cornelis) Wienecke" .
 <https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/87723624d2ce3dd18c63b0fec1b1d5bb> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

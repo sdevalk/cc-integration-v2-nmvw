@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#inscription> "onleesbaar opschrift in Takri op de miniatuur" .
 <https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#yearCreatedStart> "1782"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/879a5cc838e8d87f06c50223ff7783e3> <https://colonialcollections.nl/schema#countryCreated> "India" .

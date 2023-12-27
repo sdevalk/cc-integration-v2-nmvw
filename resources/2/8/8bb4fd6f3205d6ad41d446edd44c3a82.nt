@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#material> "blik ; blikbewerking" .
 <https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/86d3a8bffd37279fb8461f6c753e2f94> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

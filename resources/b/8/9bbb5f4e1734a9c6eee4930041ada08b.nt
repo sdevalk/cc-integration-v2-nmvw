@@ -7,13 +7,3 @@
 <https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#creator> "C. (Christiaan) Snouck Hurgronje" .
 <https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#locationCreated> "Jeddah" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Gedda" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Juddah" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Jeddah" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Jidda" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Jiddah" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Jeddah"@en .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Jedda" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Djidda" .
-<https://n2t.net/ark:/27023/de779f85a491d1633d298512071f299f> <https://colonialcollections.nl/schema#alternateName> "Jaddah" .

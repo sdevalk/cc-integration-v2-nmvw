@@ -5,3 +5,4 @@
 <https://n2t.net/ark:/27023/7d99fa7e253948e61f40b4dcac6a4e49> <https://colonialcollections.nl/schema#creator> "drs. Gert Nooter" .
 <https://n2t.net/ark:/27023/7d99fa7e253948e61f40b4dcac6a4e49> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7d99fa7e253948e61f40b4dcac6a4e49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7d99fa7e253948e61f40b4dcac6a4e49> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

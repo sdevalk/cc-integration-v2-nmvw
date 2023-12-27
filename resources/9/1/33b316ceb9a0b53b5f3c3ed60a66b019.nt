@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/dea90cc0b9d1fcc2c6e0f807e36e085d> <https://colonialcollections.nl/schema#creator> "Dofe Agnes Khoreya" .
 <https://n2t.net/ark:/27023/dea90cc0b9d1fcc2c6e0f807e36e085d> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dea90cc0b9d1fcc2c6e0f807e36e085d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/dea90cc0b9d1fcc2c6e0f807e36e085d> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/dea90cc0b9d1fcc2c6e0f807e36e085d> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/dea90cc0b9d1fcc2c6e0f807e36e085d> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

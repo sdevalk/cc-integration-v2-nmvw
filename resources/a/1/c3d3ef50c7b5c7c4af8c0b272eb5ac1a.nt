@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/86791f9a8e78c8a70aef1cf4049d02bc> <https://colonialcollections.nl/schema#creator> "Mary Dave" .
 <https://n2t.net/ark:/27023/86791f9a8e78c8a70aef1cf4049d02bc> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/86791f9a8e78c8a70aef1cf4049d02bc> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/86791f9a8e78c8a70aef1cf4049d02bc> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/86791f9a8e78c8a70aef1cf4049d02bc> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

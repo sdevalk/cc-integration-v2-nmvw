@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/ad6b30e2980ad0450e1456423bafd8a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/ad6b30e2980ad0450e1456423bafd8a0> <https://colonialcollections.nl/schema#yearCreatedStart> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/ad6b30e2980ad0450e1456423bafd8a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1300"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ad6b30e2980ad0450e1456423bafd8a0> <https://colonialcollections.nl/schema#locationCreated> "Chancay" .

@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/acdf4bf187553b7e7b4ffd298d9538a8> <https://colonialcollections.nl/schema#creator> "Gulf Stream Card & Distribution Co." .
 <https://n2t.net/ark:/27023/acdf4bf187553b7e7b4ffd298d9538a8> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/acdf4bf187553b7e7b4ffd298d9538a8> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/acdf4bf187553b7e7b4ffd298d9538a8> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/acdf4bf187553b7e7b4ffd298d9538a8> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/acdf4bf187553b7e7b4ffd298d9538a8> <https://colonialcollections.nl/schema#countryCreated> "United States" .

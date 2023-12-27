@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
 <https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#locationCreated> "Majoli Twee" .
+<https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#alternateName> "Majoli Twee" .
+<https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#alternateName> "Majoli" .
+<https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#alternateName> "Magali" .
+<https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#alternateName> "Majoli 2" .
+<https://n2t.net/ark:/27023/b026c3b3fd9c83171359c7c71a94f6df> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

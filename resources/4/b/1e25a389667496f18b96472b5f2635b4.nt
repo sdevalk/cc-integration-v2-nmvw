@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/878229e2d14ca2b3f33d7711d65dc353> <https://colonialcollections.nl/schema#creator> "M. (Michael) Cook" .
 <https://n2t.net/ark:/27023/878229e2d14ca2b3f33d7711d65dc353> <https://colonialcollections.nl/schema#yearCreatedStart> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/878229e2d14ca2b3f33d7711d65dc353> <https://colonialcollections.nl/schema#yearCreatedEnd> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/878229e2d14ca2b3f33d7711d65dc353> <https://colonialcollections.nl/schema#locationCreated> "Brisbane" .
+<https://n2t.net/ark:/27023/878229e2d14ca2b3f33d7711d65dc353> <https://colonialcollections.nl/schema#alternateName> "Brisbane City"@en .
+<https://n2t.net/ark:/27023/878229e2d14ca2b3f33d7711d65dc353> <https://colonialcollections.nl/schema#countryCreated> "Australia" .
