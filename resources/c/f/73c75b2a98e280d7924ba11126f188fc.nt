@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op voorzijde karton [handschrift H.F.C. ten Kate]" .
 <https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#locationCreated> "Sierra Blanca" .
+<https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#alternateName> "Sierra Blanca Mountains" .
+<https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#alternateName> "Sierra Blanco" .
+<https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#alternateName> "Blanco Mountains" .
+<https://n2t.net/ark:/27023/75b2c4f22c3ad402582477663b4922b6> <https://colonialcollections.nl/schema#countryCreated> "United States" .

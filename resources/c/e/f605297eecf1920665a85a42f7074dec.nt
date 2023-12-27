@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/73bbe5c0509f8d68d0042f6a017983ed> <https://colonialcollections.nl/schema#creator> "Biddy Long Nungarrayi" .
 <https://n2t.net/ark:/27023/73bbe5c0509f8d68d0042f6a017983ed> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/73bbe5c0509f8d68d0042f6a017983ed> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/73bbe5c0509f8d68d0042f6a017983ed> <https://colonialcollections.nl/schema#locationCreated> "Lajamanu" .
+<https://n2t.net/ark:/27023/73bbe5c0509f8d68d0042f6a017983ed> <https://colonialcollections.nl/schema#alternateName> "Lajamanu"@en .
+<https://n2t.net/ark:/27023/73bbe5c0509f8d68d0042f6a017983ed> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

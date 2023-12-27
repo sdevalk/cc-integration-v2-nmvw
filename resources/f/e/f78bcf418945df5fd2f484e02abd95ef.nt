@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/750115e04b51f4f67a253d1707852039> <https://colonialcollections.nl/schema#creator> "Ndalo Wilo" .
 <https://n2t.net/ark:/27023/750115e04b51f4f67a253d1707852039> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/750115e04b51f4f67a253d1707852039> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/750115e04b51f4f67a253d1707852039> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/750115e04b51f4f67a253d1707852039> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/750115e04b51f4f67a253d1707852039> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/5124bc167e1ce6801c3de151cb60856a> <https://colonialcollections.nl/schema#creator> "Inoue Kyūkō" .
 <https://n2t.net/ark:/27023/5124bc167e1ce6801c3de151cb60856a> <https://colonialcollections.nl/schema#yearCreatedStart> "1814"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5124bc167e1ce6801c3de151cb60856a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1830"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5124bc167e1ce6801c3de151cb60856a> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/5124bc167e1ce6801c3de151cb60856a> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

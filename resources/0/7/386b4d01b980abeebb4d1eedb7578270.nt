@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#locationCreated> "Huahuaxtla" .
+<https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#alternateName> "Huahuaxtla" .
+<https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#alternateName> "Huaxtla" .
+<https://n2t.net/ark:/27023/52a42e16c198a9b247286831a51049ad> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

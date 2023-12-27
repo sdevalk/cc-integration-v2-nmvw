@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#creator> "Bourne & Shepherd" .
 <https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/74ed7ee9c36282cb318e9c40959f82a0> <https://colonialcollections.nl/schema#countryCreated> "India" .

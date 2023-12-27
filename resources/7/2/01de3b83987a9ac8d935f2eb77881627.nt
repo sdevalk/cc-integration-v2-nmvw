@@ -7,3 +7,17 @@
 <https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#creator> "O.M. Norzunov" .
 <https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#locationCreated> "Xigazê" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Jih-k’a-tse" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Jih-k’e-tze" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Shigatze" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Jih-k’o-tse" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Zhikatse" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Sh’i-ka-tse" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Shigatse" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Gigatze" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Hsi-ko-tzü" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Samzhubzê District"@en .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Xigazê" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#alternateName> "Siketze" .
+<https://n2t.net/ark:/27023/75289674ac02d701b4ef537adcdb4242> <https://colonialcollections.nl/schema#countryCreated> "China" .

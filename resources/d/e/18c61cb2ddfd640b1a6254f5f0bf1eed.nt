@@ -6,11 +6,3 @@
 <https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#creator> "P. Famin et Cie." .
 <https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#locationCreated> "Kairouan" .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Kairouan"@en .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Al-Kayrawān" .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Kairwan" .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Al Qayrawān" .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Qairwan" .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Qairouan" .
-<https://n2t.net/ark:/27023/745522c88acf72ca9513d83c1c57aa27> <https://colonialcollections.nl/schema#alternateName> "Kairouan" .

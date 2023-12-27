@@ -7,3 +7,14 @@
 <https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#inscription> "S. Ana" .
 <https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#locationCreated> "Santa Ana Pueblo" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Sharege'ongwi *" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Tu'-na'ji-i' *" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Ta-ma-ya" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Tan-a-ya" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Tamaiya *" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Hweroi *" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Tamaja" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Tydagi'i *" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#alternateName> "Patutha *" .
+<https://n2t.net/ark:/27023/52e5d465b06814e2f53eef68b5b13adf> <https://colonialcollections.nl/schema#countryCreated> "United States" .

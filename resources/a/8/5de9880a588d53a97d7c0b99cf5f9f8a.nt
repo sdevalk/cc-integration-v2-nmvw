@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/510e5e4fca6332778fc52ab6da819c6f> <https://colonialcollections.nl/schema#inscription> "titel met inkt onder foto geschreven" .
 <https://n2t.net/ark:/27023/510e5e4fca6332778fc52ab6da819c6f> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/510e5e4fca6332778fc52ab6da819c6f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/510e5e4fca6332778fc52ab6da819c6f> <https://colonialcollections.nl/schema#locationCreated> "Batang Anai" .
+<https://n2t.net/ark:/27023/510e5e4fca6332778fc52ab6da819c6f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

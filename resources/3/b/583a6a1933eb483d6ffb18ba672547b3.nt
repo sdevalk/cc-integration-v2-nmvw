@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#creator> "Auke C. Sonnega" .
 <https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/6d1350e7b48774598456d04d734ff38d> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

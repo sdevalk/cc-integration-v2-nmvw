@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#material> "hout ; textiel (katoen) ; kralen ; vezelsnoer" .
 <https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#locationCreated> "Pulau Ambai" .
+<https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#alternateName> "Pulau Ambai" .
+<https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#alternateName> "Ambai Eiland" .
+<https://n2t.net/ark:/27023/52107ee2ad1312992c5ae9df8475405f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

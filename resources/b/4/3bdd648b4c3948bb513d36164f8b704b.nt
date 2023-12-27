@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#creator> "O. (Oscar) Motuloh" .
 <https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#yearCreatedStart> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#locationCreated> "Lhoknga" .
-<https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#alternateName> "Lho’nga" .
-<https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#alternateName> "Lho’gna" .
-<https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#alternateName> "Lho'nga" .
-<https://n2t.net/ark:/27023/6f4a4170f7b7c18ddd4fb38c00723271> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

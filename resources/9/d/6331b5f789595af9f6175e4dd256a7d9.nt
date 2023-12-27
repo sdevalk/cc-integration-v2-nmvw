@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#creator> "Christiaan Benjamin Nieuwenhuis" .
 <https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#locationCreated> "Solok Regency" .
-<https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#alternateName> "Solok Regency"@en .
-<https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Solok" .
-<https://n2t.net/ark:/27023/5461f9aaa1fe7e4271374a76bc982b9a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

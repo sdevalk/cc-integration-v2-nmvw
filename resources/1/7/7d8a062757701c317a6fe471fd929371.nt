@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#creator> "Twins Seven Seven" .
 <https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#locationCreated> "Nigeria" .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#alternateName> "Nigeria" .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#alternateName> "Naija"@en .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#alternateName> "Federation of Nigeria" .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#alternateName> "Republic of Songhai" .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Nigeria" .
+<https://n2t.net/ark:/27023/76a7b1851f7845078ce4b829a83a87df> <https://colonialcollections.nl/schema#countryCreated> "Nigeria" .

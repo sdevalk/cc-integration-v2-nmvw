@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/4cd9ef18e7251d27065939cabdd91062> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/4cd9ef18e7251d27065939cabdd91062> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4cd9ef18e7251d27065939cabdd91062> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4cd9ef18e7251d27065939cabdd91062> <https://colonialcollections.nl/schema#locationCreated> "Sarmi Regency" .
+<https://n2t.net/ark:/27023/4cd9ef18e7251d27065939cabdd91062> <https://colonialcollections.nl/schema#alternateName> "Sarmi Regency"@en .
+<https://n2t.net/ark:/27023/4cd9ef18e7251d27065939cabdd91062> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

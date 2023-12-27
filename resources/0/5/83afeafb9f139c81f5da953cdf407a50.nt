@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#creator> "Mousavizadeh/paradis co." .
 <https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .
-<https://n2t.net/ark:/27023/74b370ed8accca9fc5e28ce5069c2a18> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .

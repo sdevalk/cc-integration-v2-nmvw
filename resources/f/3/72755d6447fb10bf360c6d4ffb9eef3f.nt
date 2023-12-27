@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/525fd692e19f5d2fa6720d9d451a2756> <https://colonialcollections.nl/schema#creator> "Goulds Manufacturing Company" .
 <https://n2t.net/ark:/27023/525fd692e19f5d2fa6720d9d451a2756> <https://colonialcollections.nl/schema#yearCreatedStart> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/525fd692e19f5d2fa6720d9d451a2756> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/525fd692e19f5d2fa6720d9d451a2756> <https://colonialcollections.nl/schema#locationCreated> "North America" .

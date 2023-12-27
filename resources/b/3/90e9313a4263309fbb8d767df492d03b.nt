@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#inscription> "zie beschrijving" .
 <https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/6cb348ea6e5e20f5b3cd55530a05a09c> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

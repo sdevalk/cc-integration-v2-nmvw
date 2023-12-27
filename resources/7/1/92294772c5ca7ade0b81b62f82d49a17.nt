@@ -8,13 +8,3 @@
 <https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#locationCreated> "Yerevan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Ayrivan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Yerevan"@en .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Iravan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Erevan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Ereun" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Revan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Erivan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Erewan" .
-<https://n2t.net/ark:/27023/6c693a8470513a9e41a9d73c50065424> <https://colonialcollections.nl/schema#alternateName> "Yervandavan" .

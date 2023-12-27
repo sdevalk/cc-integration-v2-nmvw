@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/53a9fb4b48f70d655d9555d6044113da> <https://colonialcollections.nl/schema#creator> "Utagawa Kunisada II" .
 <https://n2t.net/ark:/27023/53a9fb4b48f70d655d9555d6044113da> <https://colonialcollections.nl/schema#yearCreatedStart> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/53a9fb4b48f70d655d9555d6044113da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/53a9fb4b48f70d655d9555d6044113da> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/53a9fb4b48f70d655d9555d6044113da> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/53a9fb4b48f70d655d9555d6044113da> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/53404597dcf14335d1e86e42f9f18c2d> <https://colonialcollections.nl/schema#creator> "United Nations Television Film" .
 <https://n2t.net/ark:/27023/53404597dcf14335d1e86e42f9f18c2d> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/53404597dcf14335d1e86e42f9f18c2d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/53404597dcf14335d1e86e42f9f18c2d> <https://colonialcollections.nl/schema#locationCreated> "South America" .

@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/6d18d4766f5cd5cfa39805f5189929b7> <https://colonialcollections.nl/schema#creator> "Lucy Tasseor-Tutsweetok" .
 <https://n2t.net/ark:/27023/6d18d4766f5cd5cfa39805f5189929b7> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6d18d4766f5cd5cfa39805f5189929b7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6d18d4766f5cd5cfa39805f5189929b7> <https://colonialcollections.nl/schema#locationCreated> "Eskimo Point" .
+<https://n2t.net/ark:/27023/6d18d4766f5cd5cfa39805f5189929b7> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/6d6e71b13ca2b834ab2d6264b1cd9c81> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/6d6e71b13ca2b834ab2d6264b1cd9c81> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6d6e71b13ca2b834ab2d6264b1cd9c81> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6d6e71b13ca2b834ab2d6264b1cd9c81> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/6d6e71b13ca2b834ab2d6264b1cd9c81> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/6d6e71b13ca2b834ab2d6264b1cd9c81> <https://colonialcollections.nl/schema#countryCreated> "United States" .

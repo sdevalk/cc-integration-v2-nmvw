@@ -4,3 +4,6 @@
 <https://n2t.net/ark:/27023/516895dcc64fb835a57b3068f0f32996> <https://colonialcollections.nl/schema#material> "geweven" .
 <https://n2t.net/ark:/27023/516895dcc64fb835a57b3068f0f32996> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/516895dcc64fb835a57b3068f0f32996> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/516895dcc64fb835a57b3068f0f32996> <https://colonialcollections.nl/schema#locationCreated> "Masarete" .
+<https://n2t.net/ark:/27023/516895dcc64fb835a57b3068f0f32996> <https://colonialcollections.nl/schema#alternateName> "Masaréte" .
+<https://n2t.net/ark:/27023/516895dcc64fb835a57b3068f0f32996> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

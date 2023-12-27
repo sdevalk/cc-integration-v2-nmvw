@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/7660267d54718fe268a6237b1a0ec4d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/7660267d54718fe268a6237b1a0ec4d4> <https://colonialcollections.nl/schema#yearCreatedStart> "1908"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7660267d54718fe268a6237b1a0ec4d4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7660267d54718fe268a6237b1a0ec4d4> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Seulimeum" .
-<https://n2t.net/ark:/27023/7660267d54718fe268a6237b1a0ec4d4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

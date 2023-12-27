@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#creator> "I Made Rangkus" .
 <https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/741fcdcddf4fa66cb53cef012b82dba5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

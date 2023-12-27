@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/6bbc709d17d6f7815471ba7e1fff2938> <https://colonialcollections.nl/schema#material> "zilver ; filigraanwerk" .
 <https://n2t.net/ark:/27023/6bbc709d17d6f7815471ba7e1fff2938> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/6bbc709d17d6f7815471ba7e1fff2938> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6bbc709d17d6f7815471ba7e1fff2938> <https://colonialcollections.nl/schema#locationCreated> "Kota Bukittinggi" .
-<https://n2t.net/ark:/27023/6bbc709d17d6f7815471ba7e1fff2938> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Bukittinggi" .
-<https://n2t.net/ark:/27023/6bbc709d17d6f7815471ba7e1fff2938> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

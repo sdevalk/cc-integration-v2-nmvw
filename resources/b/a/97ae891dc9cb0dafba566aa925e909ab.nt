@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#locationCreated> "New Georgia Islands" .
-<https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#alternateName> "New Georgia Islands" .
-<https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#alternateName> "New Georgia Archipelago" .
-<https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#alternateName> "New Georgian Archipelago" .
-<https://n2t.net/ark:/27023/6c6cdb488c4718f97852c91bb5cbf87f> <https://colonialcollections.nl/schema#alternateName> "New Georgia Group" .

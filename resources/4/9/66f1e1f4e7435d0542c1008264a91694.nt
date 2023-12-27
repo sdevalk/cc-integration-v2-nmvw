@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#inscription> "Aan de onderkant van de voet zijn cijfers geciseleerd: 9066110. <BR>\r\n<BR><BR>\r\nAan de zijkant van de hals staat een inscriptie: ACME THREAD CO. Dit verwijst naar een bedrijf in stoffen draden. Het bedrijf is in 1896 opgericht in Mumbai en bestaat op dit moment (februari 2018), nog steeds.<BR>" .
 <https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/6e0d0477efe340fdab000f647b8846fb> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -5,9 +5,3 @@
 <https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#material> "ijzer ; messing ; hout ; riet" .
 <https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#locationCreated> "Central Sulawesi" .
-<https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#alternateName> "Propinsi Sulawesi Tengah" .
-<https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi" .
-<https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#alternateName> "Central Sulawesi"@en .
-<https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Sulawesi Tengah" .
-<https://n2t.net/ark:/27023/6ddb1eca4e3aec5e62146a12c13fdc11> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

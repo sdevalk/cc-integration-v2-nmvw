@@ -8,3 +8,47 @@
 <https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#creator> "Pro-Vobis Film, Berlijn" .
 <https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Argentina" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Panama" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Venezuela" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Colombia" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Mexico" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Paraguay" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#locationCreated> "Guyana" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republic of Panama"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Mexique" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "La Argentina" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "United States of Venezuela"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "República Méjico" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Mexiko" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Estados Unidos de Venezuela" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republic of Paraguay"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Venezuela, Bolivarian Republic Of"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Co-operative Republic of Guyana" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republic of Venezuela" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Colombié" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "British Guiana" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "El Paraguay" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republic of Colombia"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republic of Venezuela"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Republica Mexicana" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "República Bolivariana de Venezuela" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Bolivarian Republic of Venezuela"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Guyana" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Columbien" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Mèssico" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "United States of Venezuela" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "República de Colombia" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#alternateName> "Argentine Republic"@en .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Panama" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Venezuela" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Colombia" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .
+<https://n2t.net/ark:/27023/755c90811a45f8daa3d461f8e43834cc> <https://colonialcollections.nl/schema#countryCreated> "Guyana" .

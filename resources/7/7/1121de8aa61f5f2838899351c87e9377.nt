@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#creator> "Roelofsz-Dunlop, H." .
 <https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#yearCreatedStart> "1919"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#locationCreated> "Colombo" .
-<https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#alternateName> "Colombo"@en .
-<https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#alternateName> "Columbo" .
-<https://n2t.net/ark:/27023/6c2493287f81752fdb04235134679e17> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

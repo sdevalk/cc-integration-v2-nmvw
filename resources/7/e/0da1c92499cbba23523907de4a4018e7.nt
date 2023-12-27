@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#creator> "M. B. (Mary Brown) Napangati" .
 <https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/6f090c1685f84fd57b477914c15204ca> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

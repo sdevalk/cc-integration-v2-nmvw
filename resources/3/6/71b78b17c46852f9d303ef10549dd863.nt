@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#name> "TEKST OP LONTARBLAD, MET HOUTEN SCHUTBLADEN, VERMOEDELIJK EEN BARONG-KEKETVOORSTELLING" .
 <https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/5155f9652698f742ff857f14bc3e70f5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

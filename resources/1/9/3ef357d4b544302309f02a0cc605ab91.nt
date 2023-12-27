@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/6d0c9f7ae4fdaf57b64b858c32a1b63e> <https://colonialcollections.nl/schema#creator> "Peter Hilz" .
 <https://n2t.net/ark:/27023/6d0c9f7ae4fdaf57b64b858c32a1b63e> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6d0c9f7ae4fdaf57b64b858c32a1b63e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6d0c9f7ae4fdaf57b64b858c32a1b63e> <https://colonialcollections.nl/schema#locationCreated> "North America" .

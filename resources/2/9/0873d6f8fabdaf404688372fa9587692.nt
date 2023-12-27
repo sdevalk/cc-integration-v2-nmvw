@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#inscription> "titel achterop karton foto geschreven [handschrift Ten Kate],\r\nachterop karton geschreven ''Zuid omg. Encarnacion'" .
 <https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#yearCreatedStart> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#locationCreated> "Encarnación" .
+<https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#alternateName> "Encarnación"@en .
+<https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#alternateName> "Encarnación" .
+<https://n2t.net/ark:/27023/6e5635f124240dfbea20772a39a05f6b> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

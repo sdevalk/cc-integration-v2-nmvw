@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#inscription> "Bifu Kanagi [no] minami Futagozan no sumi, woonachtig in Futagozan ten zuiden van Kanagi in de Provincie Owari" .
 <https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/6c04bf5d0136d3f3fccc2d759856067f> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

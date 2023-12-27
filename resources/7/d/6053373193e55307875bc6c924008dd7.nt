@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#creator> "P. O. (Patrick Olodoodi) Tjungurrayi" .
 <https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/5159b2b4dd6664055b6f27cade517e19> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#creator> "Charls & Co." .
 <https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/5185aafa8ca97af0598503289b78120f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

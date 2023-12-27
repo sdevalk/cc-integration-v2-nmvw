@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/74fae9ce2464d43411d5aa8d9a5084cc> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/74fae9ce2464d43411d5aa8d9a5084cc> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/74fae9ce2464d43411d5aa8d9a5084cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/74fae9ce2464d43411d5aa8d9a5084cc> <https://colonialcollections.nl/schema#locationCreated> "Mesa Verde National Park" .

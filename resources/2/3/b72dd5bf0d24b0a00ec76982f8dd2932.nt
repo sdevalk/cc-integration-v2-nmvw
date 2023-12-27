@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/6da6507c1156596521b31e06043ad847> <https://colonialcollections.nl/schema#material> "katoen ; kleurstof (candlenuttree, Bischoffia javanica)" .
 <https://n2t.net/ark:/27023/6da6507c1156596521b31e06043ad847> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/6da6507c1156596521b31e06043ad847> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6da6507c1156596521b31e06043ad847> <https://colonialcollections.nl/schema#locationCreated> "Asau" .
+<https://n2t.net/ark:/27023/6da6507c1156596521b31e06043ad847> <https://colonialcollections.nl/schema#alternateName> "Asau" .
+<https://n2t.net/ark:/27023/6da6507c1156596521b31e06043ad847> <https://colonialcollections.nl/schema#countryCreated> "Samoa" .

@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/6ecd3ce1c2095fcfb527ba49d9dbbea1> <https://colonialcollections.nl/schema#creator> "Sophie Sanchez" .
 <https://n2t.net/ark:/27023/6ecd3ce1c2095fcfb527ba49d9dbbea1> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6ecd3ce1c2095fcfb527ba49d9dbbea1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6ecd3ce1c2095fcfb527ba49d9dbbea1> <https://colonialcollections.nl/schema#locationCreated> "Acomita" .
+<https://n2t.net/ark:/27023/6ecd3ce1c2095fcfb527ba49d9dbbea1> <https://colonialcollections.nl/schema#countryCreated> "United States" .

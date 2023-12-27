@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#creator> "dhr. D.A. (Daniel Anum) Jasper" .
 <https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/51d29fca16a09a9d6577e5af9ad5868c> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

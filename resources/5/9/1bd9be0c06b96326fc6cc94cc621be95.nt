@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#material> "hout ; bamboe ; rotan" .
 <https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/6e90c4b026df1451c14bf90f668a3ded> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .
