@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/3d08fdce87b86450fee36c4cf2701b4e> <https://colonialcollections.nl/schema#creator> "Theresa Sivanertoq" .
 <https://n2t.net/ark:/27023/3d08fdce87b86450fee36c4cf2701b4e> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3d08fdce87b86450fee36c4cf2701b4e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3d08fdce87b86450fee36c4cf2701b4e> <https://colonialcollections.nl/schema#locationCreated> "Manitoba" .
+<https://n2t.net/ark:/27023/3d08fdce87b86450fee36c4cf2701b4e> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

@@ -5,4 +5,3 @@
 <https://n2t.net/ark:/27023/3aec03c07c7fc77ba82905c853cbfdf6> <https://colonialcollections.nl/schema#creator> "Tomás Vigil" .
 <https://n2t.net/ark:/27023/3aec03c07c7fc77ba82905c853cbfdf6> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3aec03c07c7fc77ba82905c853cbfdf6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3aec03c07c7fc77ba82905c853cbfdf6> <https://colonialcollections.nl/schema#locationCreated> "North America" .

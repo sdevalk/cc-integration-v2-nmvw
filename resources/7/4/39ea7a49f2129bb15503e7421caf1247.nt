@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#locationCreated> "Chile" .
+<https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#alternateName> "Republic of Chile"@en .
+<https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#alternateName> "República de Chile" .
+<https://n2t.net/ark:/27023/499000d6d4f1323fa4c2959646a002a0> <https://colonialcollections.nl/schema#countryCreated> "Chile" .

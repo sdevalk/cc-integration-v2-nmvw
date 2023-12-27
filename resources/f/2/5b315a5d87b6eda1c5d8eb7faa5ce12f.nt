@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#creator> "Kusakabe, Kimbei" .
 <https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#locationCreated> "Fuji-Hakone-Izu-kokuritsu-kōen" .
+<https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#alternateName> "Fuji-Hakone-Izu-kokuritsu-kōen" .
+<https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#alternateName> "Fuji-Hakone-Izu National Park" .
+<https://n2t.net/ark:/27023/426185d0bae94cd31d9af7709fc48312> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

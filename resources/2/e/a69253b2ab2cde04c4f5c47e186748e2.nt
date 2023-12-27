@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/4372c232f4f93f123ba83b41f7b265d4> <https://colonialcollections.nl/schema#material> "bladvezel ; vezeltouw" .
 <https://n2t.net/ark:/27023/4372c232f4f93f123ba83b41f7b265d4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/4372c232f4f93f123ba83b41f7b265d4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4372c232f4f93f123ba83b41f7b265d4> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/4372c232f4f93f123ba83b41f7b265d4> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/4372c232f4f93f123ba83b41f7b265d4> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

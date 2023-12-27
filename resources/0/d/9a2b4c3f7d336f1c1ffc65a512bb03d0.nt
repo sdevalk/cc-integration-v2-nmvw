@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/e13f9ccb3b4ede55ddf103ef0714bc04> <https://colonialcollections.nl/schema#creator> "American Sugar Cane Leage" .
 <https://n2t.net/ark:/27023/e13f9ccb3b4ede55ddf103ef0714bc04> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e13f9ccb3b4ede55ddf103ef0714bc04> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e13f9ccb3b4ede55ddf103ef0714bc04> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/e13f9ccb3b4ede55ddf103ef0714bc04> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/e13f9ccb3b4ede55ddf103ef0714bc04> <https://colonialcollections.nl/schema#countryCreated> "United States" .

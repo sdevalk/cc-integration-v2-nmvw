@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/422df7415ee9268eadbc274d3424791d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/422df7415ee9268eadbc274d3424791d> <https://colonialcollections.nl/schema#yearCreatedStart> "957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/422df7415ee9268eadbc274d3424791d> <https://colonialcollections.nl/schema#yearCreatedEnd> "957"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/422df7415ee9268eadbc274d3424791d> <https://colonialcollections.nl/schema#locationCreated> "Khorasan Province" .
-<https://n2t.net/ark:/27023/422df7415ee9268eadbc274d3424791d> <https://colonialcollections.nl/schema#alternateName> "Khorasan Province"@en .

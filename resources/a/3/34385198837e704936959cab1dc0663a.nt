@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#material> "Het beeld bestaat uit bros materiaal, vermoedelijk gips, en is beschilderd." .
 <https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/3d833347e6bfb93c0024820aae97b04c> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#material> "katoen" .
 <https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1964"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#locationCreated> "Chennai" .
-<https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#alternateName> "Madras"@en .
-<https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#alternateName> "Tamizhagam" .
-<https://n2t.net/ark:/27023/3b6b9f79db8686c3b239e7dd30c075e0> <https://colonialcollections.nl/schema#alternateName> "Tamulinadu" .

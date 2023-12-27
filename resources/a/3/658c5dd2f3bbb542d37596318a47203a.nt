@@ -3,3 +3,8 @@
 <https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#name> "MODEL VAN EEN EMMER, KINDERSPEELGOED" .
 <https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/4be7260122ffb134cdcd8b59c20f9f7b> <https://colonialcollections.nl/schema#countryCreated> "India" .

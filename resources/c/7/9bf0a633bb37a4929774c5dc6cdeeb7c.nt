@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/4ae0ed8e74e33103b0057f052538f777> <https://colonialcollections.nl/schema#material> "veren ; fluweel ; metallische draad ; commerciële stof ; zilverplastic" .
 <https://n2t.net/ark:/27023/4ae0ed8e74e33103b0057f052538f777> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/4ae0ed8e74e33103b0057f052538f777> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4ae0ed8e74e33103b0057f052538f777> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/4ae0ed8e74e33103b0057f052538f777> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/4ae0ed8e74e33103b0057f052538f777> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

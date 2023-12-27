@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#creator> "Paa Joe" .
 <https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/4335c5256c8ebee9f0b1a4d01673f1ea> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

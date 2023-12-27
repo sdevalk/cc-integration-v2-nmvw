@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/3d2080e1108ccf85031beae82d854a77> <https://colonialcollections.nl/schema#creator> "Museum of the American Indian, Heye Foundation" .
 <https://n2t.net/ark:/27023/3d2080e1108ccf85031beae82d854a77> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3d2080e1108ccf85031beae82d854a77> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3d2080e1108ccf85031beae82d854a77> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/3d2080e1108ccf85031beae82d854a77> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/3d2080e1108ccf85031beae82d854a77> <https://colonialcollections.nl/schema#countryCreated> "United States" .

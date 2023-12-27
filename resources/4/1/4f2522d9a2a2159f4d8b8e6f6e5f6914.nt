@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#creator> "Mw. P. (Parvathy) Baul" .
 <https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#yearCreatedStart> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/3a4459edf45e322d719f630c1ddcc776> <https://colonialcollections.nl/schema#countryCreated> "India" .

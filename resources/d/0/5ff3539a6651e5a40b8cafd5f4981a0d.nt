@@ -6,10 +6,3 @@
 <https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#locationCreated> "Nakhichevan" .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#alternateName> "Nakhichevanskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika" .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#alternateName> "Nakhichevanskaya ASSR" .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#alternateName> "Nakhichevan A.S.S.R." .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#alternateName> "Nakhichevan"@en .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#alternateName> "Nakhchyvan MSSR" .
-<https://n2t.net/ark:/27023/3a143de1ec96e44001d1ff680975f745> <https://colonialcollections.nl/schema#alternateName> "Nakhichevan" .

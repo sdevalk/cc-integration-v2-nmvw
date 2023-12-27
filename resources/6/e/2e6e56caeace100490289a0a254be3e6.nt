@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/4336d4c3df55c286eab5a1cffcc2fddc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/4336d4c3df55c286eab5a1cffcc2fddc> <https://colonialcollections.nl/schema#yearCreatedStart> "1644"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4336d4c3df55c286eab5a1cffcc2fddc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4336d4c3df55c286eab5a1cffcc2fddc> <https://colonialcollections.nl/schema#locationCreated> "Vietnam" .
+<https://n2t.net/ark:/27023/4336d4c3df55c286eab5a1cffcc2fddc> <https://colonialcollections.nl/schema#alternateName> "Socialist Republic of Vietnam"@en .
+<https://n2t.net/ark:/27023/4336d4c3df55c286eab5a1cffcc2fddc> <https://colonialcollections.nl/schema#countryCreated> "Vietnam" .

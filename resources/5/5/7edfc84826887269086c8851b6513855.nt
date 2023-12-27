@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/44a53cc6a1fedea409aed77c39fe2b05> <https://colonialcollections.nl/schema#inscription> "Houtsnijder: surimono hangishi ('de houtsnijder van luxe drukwerk') Kasuke" .
 <https://n2t.net/ark:/27023/44a53cc6a1fedea409aed77c39fe2b05> <https://colonialcollections.nl/schema#yearCreatedStart> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/44a53cc6a1fedea409aed77c39fe2b05> <https://colonialcollections.nl/schema#yearCreatedEnd> "1832"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/44a53cc6a1fedea409aed77c39fe2b05> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/44a53cc6a1fedea409aed77c39fe2b05> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/44a53cc6a1fedea409aed77c39fe2b05> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

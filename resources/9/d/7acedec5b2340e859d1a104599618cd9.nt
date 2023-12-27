@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/42ce35689830c4817959d658cf499c66> <https://colonialcollections.nl/schema#creator> "Thayer Publishing Co., the" .
 <https://n2t.net/ark:/27023/42ce35689830c4817959d658cf499c66> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/42ce35689830c4817959d658cf499c66> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/42ce35689830c4817959d658cf499c66> <https://colonialcollections.nl/schema#locationCreated> "North America" .

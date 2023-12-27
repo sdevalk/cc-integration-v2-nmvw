@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/e1299e85d20fe2d0a17757f9dc56fa3c> <https://colonialcollections.nl/schema#creator> "H.F.C. (Herman Frederik Carel) ten Kate sr." .
 <https://n2t.net/ark:/27023/e1299e85d20fe2d0a17757f9dc56fa3c> <https://colonialcollections.nl/schema#yearCreatedStart> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e1299e85d20fe2d0a17757f9dc56fa3c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e1299e85d20fe2d0a17757f9dc56fa3c> <https://colonialcollections.nl/schema#locationCreated> "North America" .

@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#locationCreated> "Santa María Teopoxco" .
+<https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#alternateName> "Santa María" .
+<https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#alternateName> "Santa María Teopoxco" .
+<https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#alternateName> "Tepoxco" .
+<https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#alternateName> "Teopoxco" .
+<https://n2t.net/ark:/27023/4944ee8e2a0306ed5c3339473a21840b> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

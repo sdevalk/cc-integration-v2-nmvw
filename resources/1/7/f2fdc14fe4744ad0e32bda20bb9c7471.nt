@@ -8,4 +8,6 @@
 <https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#creator> "Lost Nation Films" .
 <https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#locationCreated> "Middle America" .
+<https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/4517450f779f883e75254f3da564f881> <https://colonialcollections.nl/schema#countryCreated> "United States" .

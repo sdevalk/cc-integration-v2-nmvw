@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#creator> "I Dewa Kompiang Ketut Kandel" .
 <https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
-<https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
-<https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
-<https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
-<https://n2t.net/ark:/27023/42ea132ac940e524a9d77b354e348997> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

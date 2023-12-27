@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/43714ea6e5bdf8aed60e47be3a94a9c6> <https://colonialcollections.nl/schema#inscription> "titel onder foto geschreven" .
 <https://n2t.net/ark:/27023/43714ea6e5bdf8aed60e47be3a94a9c6> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/43714ea6e5bdf8aed60e47be3a94a9c6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/43714ea6e5bdf8aed60e47be3a94a9c6> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/43714ea6e5bdf8aed60e47be3a94a9c6> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/43714ea6e5bdf8aed60e47be3a94a9c6> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

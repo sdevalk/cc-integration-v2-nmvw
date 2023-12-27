@@ -5,3 +5,12 @@
 <https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#material> "rotan" .
 <https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#locationCreated> "Arawe Islands" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Lieblich Islands" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Liebliche Inseln" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Iles Gracieuses" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Arawe Islands" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Gracious Isles" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Gracieuse Archipelago" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#alternateName> "Liebliche Islands" .
+<https://n2t.net/ark:/27023/3aa9e4303584305f734c86388b953827> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

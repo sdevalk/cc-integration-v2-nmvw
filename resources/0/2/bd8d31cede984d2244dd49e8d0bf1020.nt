@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#inscription> "titel en nummer (2) geschreven in negatief" .
 <https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#yearCreatedStart> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#yearCreatedEnd> "1878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#locationCreated> "Palestine" .
+<https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territories"@en .
+<https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#alternateName> "the Occupied Palestinian Territory"@en .
+<https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory"@en .
+<https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory, Occupied"@en .
+<https://n2t.net/ark:/27023/4238a046bc56b6d24ff0cf2016665991> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory (the Occupied)"@en .

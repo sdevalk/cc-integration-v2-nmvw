@@ -3,7 +3,3 @@
 <https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#name> "ZIJDEN SCHOUDERDOEK" .
 <https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/3c93e11b9d8617565b1dcbf511db67a4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

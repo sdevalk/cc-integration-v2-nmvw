@@ -8,3 +8,11 @@
 <https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#inscription> "titel met inkt op voorzijde karton geschreven" .
 <https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#yearCreatedStart> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#locationCreated> "Türkiye" .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#alternateName> "Tourkía" .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#alternateName> "Turkey"@en .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#alternateName> "Turchia" .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#alternateName> "Republic of Turkey"@en .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#alternateName> "Türkei" .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#alternateName> "Turquie" .
+<https://n2t.net/ark:/27023/e198e276b693325198d39a4c083675f7> <https://colonialcollections.nl/schema#countryCreated> "Türkiye" .

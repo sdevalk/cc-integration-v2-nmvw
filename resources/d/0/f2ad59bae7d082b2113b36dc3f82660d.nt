@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#yearCreatedStart> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/43db165b6e500e0306aced82338fdfbc> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/41a73789cfc78385076c2ab72441eb98> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/41a73789cfc78385076c2ab72441eb98> <https://colonialcollections.nl/schema#yearCreatedStart> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/41a73789cfc78385076c2ab72441eb98> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/41a73789cfc78385076c2ab72441eb98> <https://colonialcollections.nl/schema#locationCreated> "Caribbean" .
-<https://n2t.net/ark:/27023/41a73789cfc78385076c2ab72441eb98> <https://colonialcollections.nl/schema#alternateName> "Caribbean"@en .

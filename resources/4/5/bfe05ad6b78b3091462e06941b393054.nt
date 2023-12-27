@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#creator> "Trappisten Missie Mariannhill" .
 <https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#locationCreated> "Soutpansberg" .
+<https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#alternateName> "Zoutpans Berg" .
+<https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#alternateName> "Soutpansberg" .
+<https://n2t.net/ark:/27023/43c86c55d679d009e7915b675cf92e07> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

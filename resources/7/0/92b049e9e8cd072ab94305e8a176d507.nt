@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#inscription> "qualamkar\r\ndatum; 1280 / 1212" .
 <https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#yearCreatedStart> "1797"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#yearCreatedEnd> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/e1b0c81aad67a2e6b3396009199e6389> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

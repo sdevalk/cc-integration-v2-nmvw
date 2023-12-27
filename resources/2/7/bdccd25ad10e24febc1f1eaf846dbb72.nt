@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/44eff07300204aa18e3167170e0abc0f> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/44eff07300204aa18e3167170e0abc0f> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/44eff07300204aa18e3167170e0abc0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/44eff07300204aa18e3167170e0abc0f> <https://colonialcollections.nl/schema#locationCreated> "Tondano" .
-<https://n2t.net/ark:/27023/44eff07300204aa18e3167170e0abc0f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

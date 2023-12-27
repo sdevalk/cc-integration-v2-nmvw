@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#inscription> "The verso shows the following inscritions perhaps written by Vogel himself : ‘’Khwaja Khizar, presides over the Oceans, is mentioned in the Quran to teaches Moses’’ + Khwaja Khijar written in Persian script." .
 <https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/39e329b77ac15c67d42f95779db71ed0> <https://colonialcollections.nl/schema#countryCreated> "India" .

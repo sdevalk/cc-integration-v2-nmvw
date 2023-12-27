@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/4a830ddb9f6dd6d66d5e8b0c7e3179d3> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

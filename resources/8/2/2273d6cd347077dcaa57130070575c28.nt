@@ -8,8 +8,3 @@
 <https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#inscription> "titel (1) met potlood op achterzijde foto geschreven,\r\ntitel (2) geschreven op etiket op glasdia,\r\n'neg.: A767' geschreven op etiket op glasdia" .
 <https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#locationCreated> "Sahara" .
-<https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#alternateName> "Great Desert"@en .
-<https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#alternateName> "Sahara" .
-<https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#alternateName> "Sahra" .
-<https://n2t.net/ark:/27023/3b3cc8e8cddef8412094b3cf6460ce2e> <https://colonialcollections.nl/schema#alternateName> "Sahara Desert"@en .

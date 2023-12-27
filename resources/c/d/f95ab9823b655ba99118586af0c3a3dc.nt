@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/3b88406afa7cfeef03ab0748b547976c> <https://colonialcollections.nl/schema#material> "Bedrukt katoen." .
 <https://n2t.net/ark:/27023/3b88406afa7cfeef03ab0748b547976c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3b88406afa7cfeef03ab0748b547976c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3b88406afa7cfeef03ab0748b547976c> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
-<https://n2t.net/ark:/27023/3b88406afa7cfeef03ab0748b547976c> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

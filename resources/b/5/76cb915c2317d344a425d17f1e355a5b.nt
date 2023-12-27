@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/3c1975c6d08def4d9d471485d182e461> <https://colonialcollections.nl/schema#creator> "J.B. Valdez Jr." .
 <https://n2t.net/ark:/27023/3c1975c6d08def4d9d471485d182e461> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3c1975c6d08def4d9d471485d182e461> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3c1975c6d08def4d9d471485d182e461> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/3c1975c6d08def4d9d471485d182e461> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/3c1975c6d08def4d9d471485d182e461> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

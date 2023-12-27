@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#inscription> "nummer met inkt geschreven op foto /\r\n(1) titel met inkt geschreven op voorzijde karton /\r\n(2) titel en nummer met inkt geschreven op etiket op achterzijde karton" .
 <https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .
-<https://n2t.net/ark:/27023/4c56cb00826db3dc425bf0942267c9ac> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .

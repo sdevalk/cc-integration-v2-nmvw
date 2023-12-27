@@ -3,3 +3,7 @@
 <https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#name> "KOPEREN TABAKSPIJP MET EEN HOUTEN STEEL OMWONDEN MET LEER" .
 <https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/3cc7a45c56bc6e9111f305e3bdb2efa9> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

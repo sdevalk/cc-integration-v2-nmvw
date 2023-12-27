@@ -7,11 +7,3 @@
 <https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#inscription> "titel ; voorzijde ; gedrukt / nummer ; voorzijde ; gedrukt / bijschrift ; achterzijde ; handgeschreven ; inkt" .
 <https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#locationCreated> "Kairouan" .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Kairouan"@en .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Kairouan" .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Al-Kayrawān" .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Qairouan" .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Al Qayrawān" .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Kairwan" .
-<https://n2t.net/ark:/27023/3a8c8277afdbc175f33a55dce29b5442> <https://colonialcollections.nl/schema#alternateName> "Qairwan" .

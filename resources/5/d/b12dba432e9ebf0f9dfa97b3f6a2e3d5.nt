@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/3b88a319d527f5ce44f3bf8c4835635c> <https://colonialcollections.nl/schema#creator> "Kojpëtë" .
 <https://n2t.net/ark:/27023/3b88a319d527f5ce44f3bf8c4835635c> <https://colonialcollections.nl/schema#yearCreatedStart> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/3b88a319d527f5ce44f3bf8c4835635c> <https://colonialcollections.nl/schema#yearCreatedEnd> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/3b88a319d527f5ce44f3bf8c4835635c> <https://colonialcollections.nl/schema#locationCreated> "Santa María Tlahuitoltepec" .
+<https://n2t.net/ark:/27023/3b88a319d527f5ce44f3bf8c4835635c> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .
