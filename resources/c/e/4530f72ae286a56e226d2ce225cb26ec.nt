@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#creator> "Uemura Yasu" .
 <https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#yearCreatedStart> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#yearCreatedEnd> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/6a78ac549a2448b77d5cfe87e9a42d11> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

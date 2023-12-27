@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#creator> "H. Danel" .
 <https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#yearCreatedStart> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/f5ba988cfa9587935f0026e14f7c81e1> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

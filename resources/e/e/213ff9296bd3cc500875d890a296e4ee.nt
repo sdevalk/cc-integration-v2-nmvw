@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/f8b56e817487c3e743a204200a76f359> <https://colonialcollections.nl/schema#creator> "E. Courret" .
 <https://n2t.net/ark:/27023/f8b56e817487c3e743a204200a76f359> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f8b56e817487c3e743a204200a76f359> <https://colonialcollections.nl/schema#yearCreatedEnd> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f8b56e817487c3e743a204200a76f359> <https://colonialcollections.nl/schema#locationCreated> "Lima" .
-<https://n2t.net/ark:/27023/f8b56e817487c3e743a204200a76f359> <https://colonialcollections.nl/schema#alternateName> "Lima"@en .

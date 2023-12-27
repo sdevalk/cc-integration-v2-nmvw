@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/5532008e3357048b335fe84a73548342> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/5532008e3357048b335fe84a73548342> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5532008e3357048b335fe84a73548342> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5532008e3357048b335fe84a73548342> <https://colonialcollections.nl/schema#locationCreated> "Shahrestān-e Jolfā" .
+<https://n2t.net/ark:/27023/5532008e3357048b335fe84a73548342> <https://colonialcollections.nl/schema#alternateName> "Jolfā" .
+<https://n2t.net/ark:/27023/5532008e3357048b335fe84a73548342> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/5830ab82610dc4cb76dc34aa9bda0dfd> <https://colonialcollections.nl/schema#creator> "Richard Mteki." .
 <https://n2t.net/ark:/27023/5830ab82610dc4cb76dc34aa9bda0dfd> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5830ab82610dc4cb76dc34aa9bda0dfd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5830ab82610dc4cb76dc34aa9bda0dfd> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/5830ab82610dc4cb76dc34aa9bda0dfd> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/5830ab82610dc4cb76dc34aa9bda0dfd> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/55f8a672fe5ffcae6209f3ff5a059aab> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

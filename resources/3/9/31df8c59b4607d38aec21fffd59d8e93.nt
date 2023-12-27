@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#inscription> "cijfer  7 in nagari-schrift" .
 <https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/6a495f81a035ba5268c1ae3454c99fb9> <https://colonialcollections.nl/schema#countryCreated> "India" .

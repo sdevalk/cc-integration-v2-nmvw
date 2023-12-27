@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#creator> "Zulu" .
 <https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#yearCreatedStart> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/5542dd85a877931784d8d1eed4257865> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

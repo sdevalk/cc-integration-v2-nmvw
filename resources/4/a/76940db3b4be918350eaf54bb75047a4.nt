@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/54b5e17c70b9b7586a7b11fd9f7a58ff> <https://colonialcollections.nl/schema#material> "geklopte boombast (papiermoerbeiboom) ; kleurstof (candlenuttree)" .
 <https://n2t.net/ark:/27023/54b5e17c70b9b7586a7b11fd9f7a58ff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/54b5e17c70b9b7586a7b11fd9f7a58ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/54b5e17c70b9b7586a7b11fd9f7a58ff> <https://colonialcollections.nl/schema#locationCreated> "Asau" .
+<https://n2t.net/ark:/27023/54b5e17c70b9b7586a7b11fd9f7a58ff> <https://colonialcollections.nl/schema#alternateName> "Asau" .
+<https://n2t.net/ark:/27023/54b5e17c70b9b7586a7b11fd9f7a58ff> <https://colonialcollections.nl/schema#countryCreated> "Samoa" .

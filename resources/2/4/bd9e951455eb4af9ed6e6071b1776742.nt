@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#creator> "Molly Nampijinpa Langdon" .
 <https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#yearCreatedStart> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/f91bb8b3c92760d33e34d809243753e5> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/f8da1d175320eb6355452ab4db605186> <https://colonialcollections.nl/schema#creator> "A.J. (Albertus Johannes) Bauduin" .
 <https://n2t.net/ark:/27023/f8da1d175320eb6355452ab4db605186> <https://colonialcollections.nl/schema#yearCreatedStart> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f8da1d175320eb6355452ab4db605186> <https://colonialcollections.nl/schema#yearCreatedEnd> "1869"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f8da1d175320eb6355452ab4db605186> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/f8da1d175320eb6355452ab4db605186> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/f8da1d175320eb6355452ab4db605186> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

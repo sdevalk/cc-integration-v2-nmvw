@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#inscription> "Un decade for women conference July 1985, Nairobi / Kenya" .
 <https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/6942f485e2bb5b98900d9c6e410402d2> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

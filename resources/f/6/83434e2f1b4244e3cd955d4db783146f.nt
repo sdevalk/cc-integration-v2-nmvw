@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#creator> "Kitao Masayoshi" .
 <https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#yearCreatedStart> "1785"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1785"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/6972f3cf8e6e41625a63b4cacc6c5eff> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

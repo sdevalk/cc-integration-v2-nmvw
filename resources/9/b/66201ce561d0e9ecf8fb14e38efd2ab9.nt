@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#material> "been (dierlijk) ; plantenvezel ; nassaschelp" .
 <https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/6a3c009d13f99b312360b03ecb309b2e> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

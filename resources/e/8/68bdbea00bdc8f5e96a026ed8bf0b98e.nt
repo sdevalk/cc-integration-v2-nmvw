@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#creator> "Alfred Lobo" .
 <https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#locationCreated> "Uganda" .
+<https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#alternateName> "Uganda" .
+<https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#alternateName> "Ouganda" .
+<https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#alternateName> "Uganda Protectorate" .
+<https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#alternateName> "Republic of Uganda" .
+<https://n2t.net/ark:/27023/570ea806b1375ab44d09008d589e6e42> <https://colonialcollections.nl/schema#countryCreated> "Uganda" .

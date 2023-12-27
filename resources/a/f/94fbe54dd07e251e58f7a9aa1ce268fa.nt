@@ -6,9 +6,15 @@
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#locationCreated> "Israel" .
+<https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#locationCreated> "Palestine" .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Yisra’el" .
+<https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory"@en .
+<https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territories"@en .
+<https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory (the Occupied)"@en .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Ereẕ Yisra’el" .
+<https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Palestinian Territory, Occupied"@en .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "State of Israel"@en .
+<https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "the Occupied Palestinian Territory"@en .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Eretz Yisrael" .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Dawlat Isrā’īl" .
 <https://n2t.net/ark:/27023/f665718b0a1cb892baf880262f859e54> <https://colonialcollections.nl/schema#alternateName> "Isrā’īl" .

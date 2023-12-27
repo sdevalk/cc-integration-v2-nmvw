@@ -8,3 +8,20 @@
 <https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#inscription> "nummer met inkt geschreven op foto /\r\n(1) titel met inkt geschreven op voorzijde karton /\r\n(2) titel en nummer met inkt geschreven op etiket op achterzijde karton" .
 <https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#locationCreated> "Zagros Mountains" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#locationCreated> "Pasargadae" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Passargad" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Pāsārgade" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Pāzārgād" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Manţaqeh-ye Bāstānī-ye Pāsārgād" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Pāsārgādā" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Zagros Mountains"@en .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "کوههای زاگرس" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Kūhhā-ye Zāgros" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Pārsehgarda" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "رشته کوههای زاگرس" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Pasargadae"@en .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Parsa Garda" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Shahr-e Pāzārgād" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#alternateName> "Reshteh Kūhhā-ye Zāgros" .
+<https://n2t.net/ark:/27023/f757a0cb0aeebcdd804f72afdc2ebb14> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

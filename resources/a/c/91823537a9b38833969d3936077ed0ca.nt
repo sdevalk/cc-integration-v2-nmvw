@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#yearCreatedStart> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#locationCreated> "San Agustín Tlacotepec" .
+<https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#alternateName> "Tlacotepec" .
+<https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#alternateName> "Tlacotepec San Agustin" .
+<https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#alternateName> "San Agustín" .
+<https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#alternateName> "San Agustín Tlacotepec" .
+<https://n2t.net/ark:/27023/f8b7bdfb0bf556a9930112d180da644b> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/559c88226a665b139f91b6172b475575> <https://colonialcollections.nl/schema#creator> "Liberation Publishing House" .
 <https://n2t.net/ark:/27023/559c88226a665b139f91b6172b475575> <https://colonialcollections.nl/schema#yearCreatedStart> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/559c88226a665b139f91b6172b475575> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/559c88226a665b139f91b6172b475575> <https://colonialcollections.nl/schema#locationCreated> "Vietnam" .
+<https://n2t.net/ark:/27023/559c88226a665b139f91b6172b475575> <https://colonialcollections.nl/schema#alternateName> "Socialist Republic of Vietnam"@en .
+<https://n2t.net/ark:/27023/559c88226a665b139f91b6172b475575> <https://colonialcollections.nl/schema#countryCreated> "Vietnam" .

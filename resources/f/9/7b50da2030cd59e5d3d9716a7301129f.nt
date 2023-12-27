@@ -3,6 +3,3 @@
 <https://n2t.net/ark:/27023/000d84bd338bf75f41f7f11f7b7982da> <https://colonialcollections.nl/schema#name> "HOUTEN MASKER VOORSTELLENDE SEGARE WINOTAN LAWÉ" .
 <https://n2t.net/ark:/27023/000d84bd338bf75f41f7f11f7b7982da> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/000d84bd338bf75f41f7f11f7b7982da> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/000d84bd338bf75f41f7f11f7b7982da> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/000d84bd338bf75f41f7f11f7b7982da> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/000d84bd338bf75f41f7f11f7b7982da> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

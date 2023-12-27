@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#creator> "Walter Dickson" .
 <https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/55e18d6d5e992e7d96c286b02de4720f> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

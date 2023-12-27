@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#inscription> "[T] AII No 4" .
 <https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#yearCreatedStart> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/6a405879c903edc0c15cbd5d278e6e1e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

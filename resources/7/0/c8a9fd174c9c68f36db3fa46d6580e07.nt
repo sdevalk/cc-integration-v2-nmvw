@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
 <https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#locationCreated> "Poeloegoedoe" .
+<https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#alternateName> "Poeloegoedoe" .
+<https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#alternateName> "Poligoudou" .
+<https://n2t.net/ark:/27023/55376c4204ed72d866481846facd435e> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

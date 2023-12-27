@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/6b3cffd183c79f9821e80b63e042e367> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/6b3cffd183c79f9821e80b63e042e367> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6b3cffd183c79f9821e80b63e042e367> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6b3cffd183c79f9821e80b63e042e367> <https://colonialcollections.nl/schema#locationCreated> "Olinalá" .
-<https://n2t.net/ark:/27023/6b3cffd183c79f9821e80b63e042e367> <https://colonialcollections.nl/schema#alternateName> "Olinalá" .

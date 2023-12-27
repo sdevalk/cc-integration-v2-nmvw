@@ -8,4 +8,3 @@
 <https://n2t.net/ark:/27023/54f81cc93990a8b8c3ce55ec4f087266> <https://colonialcollections.nl/schema#inscription> "Manoel Andre" .
 <https://n2t.net/ark:/27023/54f81cc93990a8b8c3ce55ec4f087266> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/54f81cc93990a8b8c3ce55ec4f087266> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/54f81cc93990a8b8c3ce55ec4f087266> <https://colonialcollections.nl/schema#locationCreated> "Loango" .

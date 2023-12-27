@@ -8,8 +8,8 @@
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#locationCreated> "Israel" .
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "Isrā’īl" .
-<https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "State of Israel"@en .
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "Ereẕ Yisra’el" .
+<https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "State of Israel"@en .
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "Israel" .
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "Dawlat Isrā’īl" .
 <https://n2t.net/ark:/27023/54f22d7fcc6f69a1b10e4ba7d1796916> <https://colonialcollections.nl/schema#alternateName> "Yisra’el" .

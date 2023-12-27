@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#creator> "P. (Paulus) Najoan" .
 <https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/55a5a5a132dd358c8e0c3867ac5ea630> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

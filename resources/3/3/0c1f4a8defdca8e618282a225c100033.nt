@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#creator> "Agbagli Kossi" .
 <https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#locationCreated> "Togo" .
+<https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#alternateName> "Togolese Republic"@en .
+<https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#alternateName> "Republic of Togo" .
+<https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#alternateName> "French Togoland" .
+<https://n2t.net/ark:/27023/f87858d3c74a0010bf5712ec8a561f90> <https://colonialcollections.nl/schema#countryCreated> "Togo" .

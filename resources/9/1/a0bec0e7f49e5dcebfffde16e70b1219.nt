@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#creator> "Moḥammad Saneʿi" .
 <https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#locationCreated> "Mashhad" .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#alternateName> "Mashad" .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#alternateName> "Mashhad"@en .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#alternateName> "مشهد" .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#alternateName> "Mashhad" .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#alternateName> "Meshed" .
+<https://n2t.net/ark:/27023/f76d7b87ccd4f3b2a04c405c87f95eeb> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

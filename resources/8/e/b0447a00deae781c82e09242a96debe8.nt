@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/68d02eb5aa16970ce069bc0eaa4193d1> <https://colonialcollections.nl/schema#inscription> "'3885- KUIRAU.(SPRING)- NGONGOTAHA-(HILL) OHINEMUTU.' geschreven op negatief" .
 <https://n2t.net/ark:/27023/68d02eb5aa16970ce069bc0eaa4193d1> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/68d02eb5aa16970ce069bc0eaa4193d1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/68d02eb5aa16970ce069bc0eaa4193d1> <https://colonialcollections.nl/schema#locationCreated> "Rotorua" .
+<https://n2t.net/ark:/27023/68d02eb5aa16970ce069bc0eaa4193d1> <https://colonialcollections.nl/schema#alternateName> "Rotorua"@en .
+<https://n2t.net/ark:/27023/68d02eb5aa16970ce069bc0eaa4193d1> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

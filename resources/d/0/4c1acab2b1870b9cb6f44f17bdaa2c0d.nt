@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/5528216970c96e261ae3f1c5ef7db796> <https://colonialcollections.nl/schema#creator> "A. Nielen" .
 <https://n2t.net/ark:/27023/5528216970c96e261ae3f1c5ef7db796> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5528216970c96e261ae3f1c5ef7db796> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5528216970c96e261ae3f1c5ef7db796> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/5528216970c96e261ae3f1c5ef7db796> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/5528216970c96e261ae3f1c5ef7db796> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

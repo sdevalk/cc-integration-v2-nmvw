@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/55cec3e50d3ab38a97a4ea3146d8053a> <https://colonialcollections.nl/schema#inscription> "Aanwezig onderop." .
 <https://n2t.net/ark:/27023/55cec3e50d3ab38a97a4ea3146d8053a> <https://colonialcollections.nl/schema#yearCreatedStart> "1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/55cec3e50d3ab38a97a4ea3146d8053a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/55cec3e50d3ab38a97a4ea3146d8053a> <https://colonialcollections.nl/schema#locationCreated> "Vietnam" .
+<https://n2t.net/ark:/27023/55cec3e50d3ab38a97a4ea3146d8053a> <https://colonialcollections.nl/schema#alternateName> "Socialist Republic of Vietnam"@en .
+<https://n2t.net/ark:/27023/55cec3e50d3ab38a97a4ea3146d8053a> <https://colonialcollections.nl/schema#countryCreated> "Vietnam" .

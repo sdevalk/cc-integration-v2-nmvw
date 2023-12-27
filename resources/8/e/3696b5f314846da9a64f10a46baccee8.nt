@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#inscription> "numerals at verso from an art dealer: 3, no. 7 and letters in Landa script." .
 <https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#yearCreatedStart> "1785"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1799"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/55bc3e17ae879f299a88bb8a8b8d9de0> <https://colonialcollections.nl/schema#countryCreated> "India" .

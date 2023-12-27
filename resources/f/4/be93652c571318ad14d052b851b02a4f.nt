@@ -8,8 +8,3 @@
 <https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Jember" .
-<https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Djember" .
-<https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#alternateName> "Jember" .
-<https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#alternateName> "Jember Regency" .
-<https://n2t.net/ark:/27023/f703b495615f1b6d214873d3be0c638f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#inscription> "censor: kiwame-zegel" .
 <https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#yearCreatedStart> "1790"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/551f7d3cab4101e897830df8d651931f> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

@@ -5,3 +5,13 @@
 <https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#locationCreated> "Draa River" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Uad Dra Maader Sellam" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Uad Draa" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Oued Drâa" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Oued Dr’a" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Draa River"@en .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Ued Dra" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Wadi Draa" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#alternateName> "Río Draa" .
+<https://n2t.net/ark:/27023/69f6052c2ca6f0fc49f6b9c2d5539c1a> <https://colonialcollections.nl/schema#countryCreated> "Algeria" .
