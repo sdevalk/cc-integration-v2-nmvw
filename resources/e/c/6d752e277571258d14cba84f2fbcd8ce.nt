@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#material> "hout ; snijden" .
 <https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#locationCreated> "Bolivia" .
+<https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#alternateName> "Republic of Bolivia"@en .
+<https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#alternateName> "Bolivia (Plurinational State of)"@en .
+<https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#alternateName> "Bolivia, Plurinational State Of"@en .
+<https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#alternateName> "Plurinational State of Bolivia"@en .
+<https://n2t.net/ark:/27023/27f5a054d0d238f1b57eba92a0e16265> <https://colonialcollections.nl/schema#countryCreated> "Bolivia" .

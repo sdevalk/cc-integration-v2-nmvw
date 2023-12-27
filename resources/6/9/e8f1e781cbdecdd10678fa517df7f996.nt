@@ -5,3 +5,10 @@
 <https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#material> "Het beeld is uit hard hout vervaardigd, waarschijnlijk van Iroko (Chlorophora excelsa), zie Cole 1984, pagina 25. Het is gesneden in de zogenaamde 'chipped style' (Leyten 1975: 43), vrij ruw. Ikenga's worden door beroepssnijders vervaardigd en verkocht op de vrije markt." .
 <https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#locationCreated> "Nigeria" .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#alternateName> "Republic of Songhai" .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Nigeria" .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#alternateName> "Nigeria" .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#alternateName> "Naija"@en .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#alternateName> "Federation of Nigeria" .
+<https://n2t.net/ark:/27023/20c8feb931754018c062adceaee2866d> <https://colonialcollections.nl/schema#countryCreated> "Nigeria" .

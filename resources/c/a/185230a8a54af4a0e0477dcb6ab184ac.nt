@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#creator> "Anak Agung Gede Sobrat" .
 <https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#yearCreatedStart> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/27fe7ccecd6e185918a1e9fd72697dec> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

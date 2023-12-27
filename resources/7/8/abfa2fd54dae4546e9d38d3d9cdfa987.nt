@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#inscription> "titel rechtsonder geschreven in negatief, in zwarte tekstbalk" .
 <https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#locationCreated> "Fuji-Hakone-Izu-kokuritsu-kōen" .
+<https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#alternateName> "Fuji-Hakone-Izu National Park" .
+<https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#alternateName> "Fuji-Hakone-Izu-kokuritsu-kōen" .
+<https://n2t.net/ark:/27023/207702c36462ed4ce3f99b9ee419c097> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

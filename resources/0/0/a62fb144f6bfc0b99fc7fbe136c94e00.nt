@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/185daedade3108fa46d2368db4b8b687> <https://colonialcollections.nl/schema#creator> "Nampeyo" .
 <https://n2t.net/ark:/27023/185daedade3108fa46d2368db4b8b687> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/185daedade3108fa46d2368db4b8b687> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/185daedade3108fa46d2368db4b8b687> <https://colonialcollections.nl/schema#locationCreated> "First Mesa" .
+<https://n2t.net/ark:/27023/185daedade3108fa46d2368db4b8b687> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -8,8 +8,8 @@
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#locationCreated> "Cameroon" .
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "Cameroun" .
-<https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "Republic of Cameroon"@en .
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "Federation of the Camerouns" .
+<https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "Republic of Cameroon"@en .
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Cameroon" .
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "Cameroon" .
 <https://n2t.net/ark:/27023/280a699af58cf68148cba2f4440b9dcc> <https://colonialcollections.nl/schema#alternateName> "République Unie du Cameroun" .

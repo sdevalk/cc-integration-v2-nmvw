@@ -8,3 +8,14 @@
 <https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#locationCreated> "Pasargadae" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Pāsārgādā" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Shahr-e Pāzārgād" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Parsa Garda" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Pāzārgād" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Passargad" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Pasargadae"@en .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Pāsārgade" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Manţaqeh-ye Bāstānī-ye Pāsārgād" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#alternateName> "Pārsehgarda" .
+<https://n2t.net/ark:/27023/2a5b67360f5fd643b4cb023628c0c58b> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

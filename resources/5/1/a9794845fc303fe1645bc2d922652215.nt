@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/18f5080afb0b7c33f2c2c6a04f03a5a6> <https://colonialcollections.nl/schema#creator> "Colourpicture Publishers Inc." .
 <https://n2t.net/ark:/27023/18f5080afb0b7c33f2c2c6a04f03a5a6> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/18f5080afb0b7c33f2c2c6a04f03a5a6> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/18f5080afb0b7c33f2c2c6a04f03a5a6> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/18f5080afb0b7c33f2c2c6a04f03a5a6> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/18f5080afb0b7c33f2c2c6a04f03a5a6> <https://colonialcollections.nl/schema#countryCreated> "United States" .

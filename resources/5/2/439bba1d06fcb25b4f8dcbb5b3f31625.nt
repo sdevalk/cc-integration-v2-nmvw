@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/1f2d2ad541b4adb5fd709a858e93cff0> <https://colonialcollections.nl/schema#creator> "Burton Brothers" .
 <https://n2t.net/ark:/27023/1f2d2ad541b4adb5fd709a858e93cff0> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1f2d2ad541b4adb5fd709a858e93cff0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1f2d2ad541b4adb5fd709a858e93cff0> <https://colonialcollections.nl/schema#locationCreated> "North Island" .
-<https://n2t.net/ark:/27023/1f2d2ad541b4adb5fd709a858e93cff0> <https://colonialcollections.nl/schema#alternateName> "North Island"@en .

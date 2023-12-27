@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#creator> "3 Studio" .
 <https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#yearCreatedStart> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#yearCreatedEnd> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/26d1dbfc583792aa0591bdbf3bc33858> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

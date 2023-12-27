@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#material> "kokosnoot ; hout" .
 <https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#locationCreated> "Toli-Toli" .
+<https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#alternateName> "Toli-Toli" .
+<https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#alternateName> "Baru" .
+<https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#alternateName> "Kampungbaru" .
+<https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#alternateName> "Kampoengbaroe" .
+<https://n2t.net/ark:/27023/2285a11df1ce5ba56d9cbf84424f82be> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -6,3 +6,11 @@
 <https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#inscription> "Kwa Moshi" .
 <https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#locationCreated> "Mwanza" .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#alternateName> "Mwanza" .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#alternateName> "Mwansa" .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#alternateName> "Mwamza" .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#alternateName> "Muansa" .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#alternateName> "Mwanza"@en .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#alternateName> "Muanza" .
+<https://n2t.net/ark:/27023/27e7c97cb8526dd6349b1fdc0930f7f3> <https://colonialcollections.nl/schema#countryCreated> "Tanzania" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#locationCreated> "Kutch" .
-<https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#alternateName> "Kachchh"@en .
-<https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#alternateName> "Kutch district"@en .
-<https://n2t.net/ark:/27023/19dc0bbed9711f374433bb5dfbdedb79> <https://colonialcollections.nl/schema#alternateName> "Kachchh" .

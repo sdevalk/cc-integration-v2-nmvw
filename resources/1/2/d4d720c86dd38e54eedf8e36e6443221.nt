@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/20f04021780a552b6fed9bb0914ef85d> <https://colonialcollections.nl/schema#creator> "Sven Havsten Mikkelsen" .
 <https://n2t.net/ark:/27023/20f04021780a552b6fed9bb0914ef85d> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/20f04021780a552b6fed9bb0914ef85d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/20f04021780a552b6fed9bb0914ef85d> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

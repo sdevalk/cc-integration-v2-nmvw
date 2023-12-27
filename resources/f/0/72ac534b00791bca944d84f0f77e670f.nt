@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#inscription> "titel gedrukt op achterzijde /\r\ntekst gedrukt op achterzijde : Photo courtesy Government Information Service /\r\nnummer gedrukt op achterzijde : 66197" .
 <https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#locationCreated> "Cayo District" .
+<https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#alternateName> "Distrito del Cayo" .
+<https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#alternateName> "Cayo District" .
+<https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#alternateName> "Western District" .
+<https://n2t.net/ark:/27023/27c320a24c9f3e49ef010346abb47c3c> <https://colonialcollections.nl/schema#countryCreated> "Belize" .

@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/20abced39521bcae767ec39e4dc21dff> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/20abced39521bcae767ec39e4dc21dff> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/20abced39521bcae767ec39e4dc21dff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/20abced39521bcae767ec39e4dc21dff> <https://colonialcollections.nl/schema#locationCreated> "Ciudad Satélite" .
-<https://n2t.net/ark:/27023/20abced39521bcae767ec39e4dc21dff> <https://colonialcollections.nl/schema#alternateName> "Ciudad Satélite" .

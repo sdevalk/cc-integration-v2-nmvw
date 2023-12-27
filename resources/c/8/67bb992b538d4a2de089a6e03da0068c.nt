@@ -8,3 +8,15 @@
 <https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#creator> "Wafrica" .
 <https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#yearCreatedStart> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#yearCreatedEnd> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#countryCreated> "Japan" .
+<https://n2t.net/ark:/27023/1ff1247c0de014fafd310985d03246de> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

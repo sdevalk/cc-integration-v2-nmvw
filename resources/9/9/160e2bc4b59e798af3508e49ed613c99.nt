@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/28f298803781c94f2e68b3e73a631b8b> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/28f298803781c94f2e68b3e73a631b8b> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/28f298803781c94f2e68b3e73a631b8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/28f298803781c94f2e68b3e73a631b8b> <https://colonialcollections.nl/schema#locationCreated> "Flores Island" .
-<https://n2t.net/ark:/27023/28f298803781c94f2e68b3e73a631b8b> <https://colonialcollections.nl/schema#alternateName> "Flores Island"@en .
-<https://n2t.net/ark:/27023/28f298803781c94f2e68b3e73a631b8b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

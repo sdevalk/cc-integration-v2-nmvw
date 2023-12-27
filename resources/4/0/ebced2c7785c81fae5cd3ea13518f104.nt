@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/1b1383ca8913282f068091ee63227daf> <https://colonialcollections.nl/schema#creator> "Publisher Fred Harvey" .
 <https://n2t.net/ark:/27023/1b1383ca8913282f068091ee63227daf> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1b1383ca8913282f068091ee63227daf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1b1383ca8913282f068091ee63227daf> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/1b1383ca8913282f068091ee63227daf> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/1b1383ca8913282f068091ee63227daf> <https://colonialcollections.nl/schema#countryCreated> "United States" .

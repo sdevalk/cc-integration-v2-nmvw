@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/2823f59c6d1d43c93ad6e00f6914e316> <https://colonialcollections.nl/schema#inscription> "titel geschreven op voorzijde karton" .
 <https://n2t.net/ark:/27023/2823f59c6d1d43c93ad6e00f6914e316> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2823f59c6d1d43c93ad6e00f6914e316> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2823f59c6d1d43c93ad6e00f6914e316> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/2823f59c6d1d43c93ad6e00f6914e316> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/2823f59c6d1d43c93ad6e00f6914e316> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

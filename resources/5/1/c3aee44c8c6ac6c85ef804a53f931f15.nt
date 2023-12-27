@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/21a8a36088f5f2f56a5ba8d09d94dd5e> <https://colonialcollections.nl/schema#inscription> "'44' geschreven in negatief l.o." .
 <https://n2t.net/ark:/27023/21a8a36088f5f2f56a5ba8d09d94dd5e> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/21a8a36088f5f2f56a5ba8d09d94dd5e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/21a8a36088f5f2f56a5ba8d09d94dd5e> <https://colonialcollections.nl/schema#locationCreated> "Machu Picchu" .
+<https://n2t.net/ark:/27023/21a8a36088f5f2f56a5ba8d09d94dd5e> <https://colonialcollections.nl/schema#alternateName> "Machupiccho" .
+<https://n2t.net/ark:/27023/21a8a36088f5f2f56a5ba8d09d94dd5e> <https://colonialcollections.nl/schema#countryCreated> "Peru" .

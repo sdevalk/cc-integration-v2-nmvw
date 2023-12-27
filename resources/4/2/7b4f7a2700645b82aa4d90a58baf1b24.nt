@@ -8,3 +8,4 @@
 <https://n2t.net/ark:/27023/227e8f35efd0b157fac4134b25cf388b> <https://colonialcollections.nl/schema#creator> "Karl Olsen" .
 <https://n2t.net/ark:/27023/227e8f35efd0b157fac4134b25cf388b> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/227e8f35efd0b157fac4134b25cf388b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/227e8f35efd0b157fac4134b25cf388b> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

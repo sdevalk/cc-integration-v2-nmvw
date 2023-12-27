@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#creator> "Shunkosai Hokuyei" .
 <https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#yearCreatedStart> "1810"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1844"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/29fa93e985351b91c68342c28f8c69ab> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

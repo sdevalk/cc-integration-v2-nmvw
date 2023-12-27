@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#creator> "Joh. A. F. Schut" .
 <https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#locationCreated> "Tifu" .
+<https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#alternateName> "Tifu" .
+<https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#alternateName> "Tifoe" .
+<https://n2t.net/ark:/27023/1866717b59a62d93306dc6e0d850c26b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

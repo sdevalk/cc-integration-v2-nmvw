@@ -8,10 +8,3 @@
 <https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#inscription> "做乜諗嘢  (literally ‘What are you doing?’)" .
 <https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
-<https://n2t.net/ark:/27023/19fec23c6d0fedaacf2f08b1e956efef> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .

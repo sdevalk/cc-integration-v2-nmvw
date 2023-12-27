@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#inscription> "titel met inkt op achterzijde karton geschreven" .
 <https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#yearCreatedStart> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#locationCreated> "Luanda" .
-<https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#alternateName> "Distrito de Luanda" .
-<https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#alternateName> "Província de Luanda" .
-<https://n2t.net/ark:/27023/1a1af0335f5bb1fcb7fc44f5d2de9f10> <https://colonialcollections.nl/schema#alternateName> "Loanda" .

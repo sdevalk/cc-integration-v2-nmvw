@@ -8,3 +8,4 @@
 <https://n2t.net/ark:/27023/28b9ba67a9382dfa94b28aa04a49d560> <https://colonialcollections.nl/schema#creator> "Harald Salomon" .
 <https://n2t.net/ark:/27023/28b9ba67a9382dfa94b28aa04a49d560> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/28b9ba67a9382dfa94b28aa04a49d560> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/28b9ba67a9382dfa94b28aa04a49d560> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

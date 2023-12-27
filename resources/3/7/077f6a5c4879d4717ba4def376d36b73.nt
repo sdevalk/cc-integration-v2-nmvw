@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/22bfadaa1accd29b251d21e4f1785aca> <https://colonialcollections.nl/schema#creator> "Que, Gebroeders" .
 <https://n2t.net/ark:/27023/22bfadaa1accd29b251d21e4f1785aca> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/22bfadaa1accd29b251d21e4f1785aca> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/22bfadaa1accd29b251d21e4f1785aca> <https://colonialcollections.nl/schema#locationCreated> "Tomohon" .
+<https://n2t.net/ark:/27023/22bfadaa1accd29b251d21e4f1785aca> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

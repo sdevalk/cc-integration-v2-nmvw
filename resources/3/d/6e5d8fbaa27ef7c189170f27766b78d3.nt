@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#yearCreatedStart> "1872"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#locationCreated> "Bengkalis Regency" .
+<https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#alternateName> "Bengkalis" .
+<https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#alternateName> "Bengkalis Regency"@en .
+<https://n2t.net/ark:/27023/208990ec8841ff84ac86441ca1badbf2> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

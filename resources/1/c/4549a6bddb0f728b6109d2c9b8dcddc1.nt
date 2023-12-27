@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#creator> "Hubertus Nicolaas Sieburgh" .
 <https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#yearCreatedEnd> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#locationCreated> "Prambanan" .
+<https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#alternateName> "Tjandi Prambanan" .
+<https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#alternateName> "Prambanan"@en .
+<https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#alternateName> "Candi Prambanan" .
+<https://n2t.net/ark:/27023/18a05003100e9833fe98a308cee48d23> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

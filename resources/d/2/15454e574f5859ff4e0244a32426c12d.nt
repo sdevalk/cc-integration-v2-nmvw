@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#creator> "Boas Jonathansen" .
 <https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#locationCreated> "Isortoq" .
+<https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#alternateName> "Isotoq" .
+<https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#alternateName> "Isortoq" .
+<https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#alternateName> "Isertoq" .
+<https://n2t.net/ark:/27023/29bc22526c968340064c79c053fdda07> <https://colonialcollections.nl/schema#countryCreated> "Greenland" .

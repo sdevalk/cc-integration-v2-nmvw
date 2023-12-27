@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#creator> "Encarnaciön Ortiz" .
 <https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#yearCreatedStart> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#locationCreated> "Santiago Ixtayutla" .
+<https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#alternateName> "Santiago Ixtayutla" .
+<https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#alternateName> "Ixtayutla" .
+<https://n2t.net/ark:/27023/2167ec3105b34bcdf99d85d6d7e06dd0> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

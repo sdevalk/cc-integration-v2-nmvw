@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/1f4ce5f9ced0984fb6760edb67d62b0f> <https://colonialcollections.nl/schema#creator> "C.H. (Claudius Henricus) de Goeje" .
 <https://n2t.net/ark:/27023/1f4ce5f9ced0984fb6760edb67d62b0f> <https://colonialcollections.nl/schema#yearCreatedStart> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1f4ce5f9ced0984fb6760edb67d62b0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1f4ce5f9ced0984fb6760edb67d62b0f> <https://colonialcollections.nl/schema#locationCreated> "Tenggarong" .
+<https://n2t.net/ark:/27023/1f4ce5f9ced0984fb6760edb67d62b0f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#creator> "Stuart, M." .
 <https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#yearCreatedStart> "1818"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1818"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#locationCreated> "Guyana" .
+<https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#alternateName> "Co-operative Republic of Guyana" .
+<https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#alternateName> "British Guiana" .
+<https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#alternateName> "Guyana" .
+<https://n2t.net/ark:/27023/28f0a19647df460e35f97c973ebebbc1> <https://colonialcollections.nl/schema#countryCreated> "Guyana" .

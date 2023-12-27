@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/19d5ce1388260be1259c9702573858f7> <https://colonialcollections.nl/schema#creator> "Biri (Bile)" .
 <https://n2t.net/ark:/27023/19d5ce1388260be1259c9702573858f7> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/19d5ce1388260be1259c9702573858f7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/19d5ce1388260be1259c9702573858f7> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/19d5ce1388260be1259c9702573858f7> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/19d5ce1388260be1259c9702573858f7> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

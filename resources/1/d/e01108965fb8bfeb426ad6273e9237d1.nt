@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#yearCreatedStart> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1921"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#locationCreated> "Colombo" .
-<https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#alternateName> "Columbo" .
-<https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#alternateName> "Colombo"@en .
-<https://n2t.net/ark:/27023/2eda1e265f18fbcf3941f13399390ed8> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

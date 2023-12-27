@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#inscription> "titel (1) geschreven met inkt onder foto, titel (2) in publicatie van J.A. Loebèr, Timoreesch Snijwerk en Ornament, 1903." .
 <https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#yearCreatedStart> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#locationCreated> "Babau" .
+<https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#alternateName> "Babaoe" .
+<https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#alternateName> "Babau" .
+<https://n2t.net/ark:/27023/2a4304be9237794771adefd288b818ff> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

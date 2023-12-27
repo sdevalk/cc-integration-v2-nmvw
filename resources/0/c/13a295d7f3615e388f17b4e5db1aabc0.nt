@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/28d09832ff67a1dee70c2a116a6b1304> <https://colonialcollections.nl/schema#creator> "Shibata Zeshin" .
 <https://n2t.net/ark:/27023/28d09832ff67a1dee70c2a116a6b1304> <https://colonialcollections.nl/schema#yearCreatedStart> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/28d09832ff67a1dee70c2a116a6b1304> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/28d09832ff67a1dee70c2a116a6b1304> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/28d09832ff67a1dee70c2a116a6b1304> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/28d09832ff67a1dee70c2a116a6b1304> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

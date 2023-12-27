@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#material> "katoen ; brokaat ; borduursel" .
 <https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#locationCreated> "Quetzaltenango" .
+<https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#alternateName> "Quexaltenango" .
+<https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#alternateName> "Quetzaltenango"@en .
+<https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#alternateName> "Quezaltenango" .
+<https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#alternateName> "Quetzaltenango" .
+<https://n2t.net/ark:/27023/2f596521a784d9a6007a4b6c531ac9cc> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

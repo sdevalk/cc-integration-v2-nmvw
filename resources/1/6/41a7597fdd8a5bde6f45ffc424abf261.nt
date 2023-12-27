@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/18a8a9a5bbb9b8cd021a2fdeabf1941c> <https://colonialcollections.nl/schema#creator> "Anaf" .
 <https://n2t.net/ark:/27023/18a8a9a5bbb9b8cd021a2fdeabf1941c> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/18a8a9a5bbb9b8cd021a2fdeabf1941c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/18a8a9a5bbb9b8cd021a2fdeabf1941c> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/18a8a9a5bbb9b8cd021a2fdeabf1941c> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/18a8a9a5bbb9b8cd021a2fdeabf1941c> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

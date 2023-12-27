@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/1fb30b1f31df9ead70cbb5bf68aeb9f2> <https://colonialcollections.nl/schema#creator> "A.G.I." .
 <https://n2t.net/ark:/27023/1fb30b1f31df9ead70cbb5bf68aeb9f2> <https://colonialcollections.nl/schema#yearCreatedStart> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1fb30b1f31df9ead70cbb5bf68aeb9f2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1fb30b1f31df9ead70cbb5bf68aeb9f2> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/1fb30b1f31df9ead70cbb5bf68aeb9f2> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/1fb30b1f31df9ead70cbb5bf68aeb9f2> <https://colonialcollections.nl/schema#countryCreated> "United States" .

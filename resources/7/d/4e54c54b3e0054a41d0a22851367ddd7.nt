@@ -9,3 +9,10 @@
 <https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#inscription> "昭和十一年二月 Het elfde jaar van Showa en de tweede maand\r\n湊川神社" .
 <https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#yearCreatedStart> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/22a4233e5c2fc21ce8b4b2bd9f663fd9> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

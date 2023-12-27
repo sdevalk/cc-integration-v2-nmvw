@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/288c3a4d5727db7e7a7da6570a4e6cdd> <https://colonialcollections.nl/schema#creator> "Natural Color Productions Ltd." .
 <https://n2t.net/ark:/27023/288c3a4d5727db7e7a7da6570a4e6cdd> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/288c3a4d5727db7e7a7da6570a4e6cdd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/288c3a4d5727db7e7a7da6570a4e6cdd> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/288c3a4d5727db7e7a7da6570a4e6cdd> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/288c3a4d5727db7e7a7da6570a4e6cdd> <https://colonialcollections.nl/schema#countryCreated> "United States" .

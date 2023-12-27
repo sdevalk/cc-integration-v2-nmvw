@@ -7,3 +7,13 @@
 <https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#creator> "Dhr. Simon Bontekoning" .
 <https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#locationCreated> "Burkina Faso" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "Volta Superior" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "République de Haute-Volta" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "Burkina Faso" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "Voltaic Republic" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "Volta Republic" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "République Voltaïque" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "Burkina" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#alternateName> "Republic of Upper Volta" .
+<https://n2t.net/ark:/27023/28fd8e0907cff7e47f27ac0e29dd2299> <https://colonialcollections.nl/schema#countryCreated> "Burkina Faso" .

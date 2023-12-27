@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#inscription> "verso: The main room of every Japanese house is provided with a tokonoma, or alcove, in which a hanging scroll and a flower vase are displayed. This picture shows the cordial greetings of a Japanese hostess." .
 <https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/299b3b00ed4a58ae61edc6f3633d790e> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

@@ -9,6 +9,3 @@
 <https://n2t.net/ark:/27023/1ac476ddc097570a4ba5218ce131e844> <https://colonialcollections.nl/schema#creator> "Katsushika Hokusai 葛飾 北斎" .
 <https://n2t.net/ark:/27023/1ac476ddc097570a4ba5218ce131e844> <https://colonialcollections.nl/schema#yearCreatedStart> "1805"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1ac476ddc097570a4ba5218ce131e844> <https://colonialcollections.nl/schema#yearCreatedEnd> "1807"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1ac476ddc097570a4ba5218ce131e844> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/1ac476ddc097570a4ba5218ce131e844> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/1ac476ddc097570a4ba5218ce131e844> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

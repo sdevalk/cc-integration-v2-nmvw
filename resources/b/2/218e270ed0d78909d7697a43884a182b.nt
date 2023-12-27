@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/1faa4a4763703cf205b37812cac15e94> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/1faa4a4763703cf205b37812cac15e94> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1faa4a4763703cf205b37812cac15e94> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1faa4a4763703cf205b37812cac15e94> <https://colonialcollections.nl/schema#locationCreated> "Basim" .
-<https://n2t.net/ark:/27023/1faa4a4763703cf205b37812cac15e94> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

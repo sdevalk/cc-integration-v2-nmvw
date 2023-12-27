@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#locationCreated> "Chicontepec" .
+<https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#alternateName> "Chicontepec" .
+<https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#alternateName> "Chicontepec de Tejada" .
+<https://n2t.net/ark:/27023/204528f9eb8d6c7fc12e371ce2fbac54> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

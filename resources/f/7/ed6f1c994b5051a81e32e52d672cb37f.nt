@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/2256d36b72030e6f000bd2c7f0da2539> <https://colonialcollections.nl/schema#material> "[TK] *" .
 <https://n2t.net/ark:/27023/2256d36b72030e6f000bd2c7f0da2539> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2256d36b72030e6f000bd2c7f0da2539> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://n2t.net/ark:/27023/2256d36b72030e6f000bd2c7f0da2539> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/2256d36b72030e6f000bd2c7f0da2539> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/2256d36b72030e6f000bd2c7f0da2539> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#creator> "Peuser BS AS., J." .
 <https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#locationCreated> "Argentina" .
+<https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#alternateName> "Argentine Republic"@en .
+<https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#alternateName> "La Argentina" .
+<https://n2t.net/ark:/27023/273c50d07328d8f08b2cc3039e33891a> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .

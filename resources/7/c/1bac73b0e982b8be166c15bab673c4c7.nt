@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#creator> "V.F.P.M. van Amelsvoort" .
 <https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#yearCreatedStart> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#locationCreated> "Agats" .
+<https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#alternateName> "Agatz" .
+<https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#alternateName> "Agats" .
+<https://n2t.net/ark:/27023/1949ea6f2e96a7f12a685f9aa678824d> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

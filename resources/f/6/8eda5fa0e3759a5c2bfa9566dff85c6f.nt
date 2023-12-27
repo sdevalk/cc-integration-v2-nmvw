@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/1add6f23c90748c38ac79e99b2c7a8a2> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/1add6f23c90748c38ac79e99b2c7a8a2> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1add6f23c90748c38ac79e99b2c7a8a2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1add6f23c90748c38ac79e99b2c7a8a2> <https://colonialcollections.nl/schema#locationCreated> "Durango" .
-<https://n2t.net/ark:/27023/1add6f23c90748c38ac79e99b2c7a8a2> <https://colonialcollections.nl/schema#alternateName> "Durango"@en .
-<https://n2t.net/ark:/27023/1add6f23c90748c38ac79e99b2c7a8a2> <https://colonialcollections.nl/schema#alternateName> "Estado de Durango" .

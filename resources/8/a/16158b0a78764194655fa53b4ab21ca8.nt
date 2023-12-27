@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#locationCreated> "Tecpán Guatemala" .
+<https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#alternateName> "Tecpam" .
+<https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#alternateName> "Tecpán Guatemala" .
+<https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#alternateName> "Tecpán" .
+<https://n2t.net/ark:/27023/2e9a850026b6215c6584acd1b554d3a3> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

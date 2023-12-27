@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/212c4ee68d8f4678d0682c4432cd8a7f> <https://colonialcollections.nl/schema#creator> "Bernard Takawira" .
 <https://n2t.net/ark:/27023/212c4ee68d8f4678d0682c4432cd8a7f> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/212c4ee68d8f4678d0682c4432cd8a7f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/212c4ee68d8f4678d0682c4432cd8a7f> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/212c4ee68d8f4678d0682c4432cd8a7f> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/212c4ee68d8f4678d0682c4432cd8a7f> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

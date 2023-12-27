@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#inscription> "'8' en titel met inkt geschreven op achterzijde foto, etiket over deelname aan Indische Fototentoonstelling, Kol. Instituut - A'dam, Juni 1941 op achterzijde foto" .
 <https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#yearCreatedStart> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/2ec7d2f0167434f0428cf57ce0b7b4b0> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

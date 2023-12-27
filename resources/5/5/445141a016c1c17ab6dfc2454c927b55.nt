@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#creator> "Utrechtse Zendingsvereeniging (UZV)" .
 <https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#locationCreated> "Tifu" .
+<https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#alternateName> "Tifu" .
+<https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#alternateName> "Tifoe" .
+<https://n2t.net/ark:/27023/2727e8b4d7b840787fc9f2fca57329ae> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

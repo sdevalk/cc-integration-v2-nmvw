@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/2a77be2cb091aace8d42884a94153da1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2a77be2cb091aace8d42884a94153da1> <https://colonialcollections.nl/schema#yearCreatedStart> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2a77be2cb091aace8d42884a94153da1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2a77be2cb091aace8d42884a94153da1> <https://colonialcollections.nl/schema#locationCreated> "Trobriand Islands" .
-<https://n2t.net/ark:/27023/2a77be2cb091aace8d42884a94153da1> <https://colonialcollections.nl/schema#alternateName> "Trobriand Islands" .
-<https://n2t.net/ark:/27023/2a77be2cb091aace8d42884a94153da1> <https://colonialcollections.nl/schema#alternateName> "Kiriwina Islands" .

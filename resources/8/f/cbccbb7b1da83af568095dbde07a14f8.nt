@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#creator> "I Soekarja" .
 <https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#yearCreatedStart> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/18a5aa11cebb3e2b33808a9fd186f0fc> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

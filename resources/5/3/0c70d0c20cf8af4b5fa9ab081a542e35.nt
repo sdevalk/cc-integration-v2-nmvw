@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/206677ff2fe1eafad44484550e2c2bb6> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/206677ff2fe1eafad44484550e2c2bb6> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/206677ff2fe1eafad44484550e2c2bb6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/206677ff2fe1eafad44484550e2c2bb6> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Nias Selatan" .
-<https://n2t.net/ark:/27023/206677ff2fe1eafad44484550e2c2bb6> <https://colonialcollections.nl/schema#alternateName> "Nias Regency" .
-<https://n2t.net/ark:/27023/206677ff2fe1eafad44484550e2c2bb6> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

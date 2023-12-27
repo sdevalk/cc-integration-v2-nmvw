@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#inscription> "titel achterop karton geschreven [handschrift Ten Kate]" .
 <https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#locationCreated> "Paraguay" .
+<https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#alternateName> "El Paraguay" .
+<https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#alternateName> "Republic of Paraguay"@en .
+<https://n2t.net/ark:/27023/1fe9cf37712c157864787b373ccabe24> <https://colonialcollections.nl/schema#countryCreated> "Paraguay" .

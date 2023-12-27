@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#creator> "Chambi, M." .
 <https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#yearCreatedStart> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#locationCreated> "Puno" .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#alternateName> "Puno" .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#alternateName> "Puno Department"@en .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#alternateName> "Departamento de Puno" .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#alternateName> "Departamento Puno" .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#alternateName> "Región de Puno" .
+<https://n2t.net/ark:/27023/1a72e6d9456656d024a2900f07b30b1a> <https://colonialcollections.nl/schema#countryCreated> "Peru" .

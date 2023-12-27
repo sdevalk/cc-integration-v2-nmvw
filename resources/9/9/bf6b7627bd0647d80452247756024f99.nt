@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#creator> "ANWB Toeristenbond voor Nederland" .
 <https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#yearCreatedStart> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#locationCreated> "Kota Payakumbuh" .
-<https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#alternateName> "Kotamadya Pajakumbuh" .
-<https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Pajakumbuh" .
-<https://n2t.net/ark:/27023/2e6d2f79077a20d72211dacceaca839c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

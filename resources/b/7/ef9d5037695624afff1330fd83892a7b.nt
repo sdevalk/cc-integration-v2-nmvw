@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/27d5266de94a92e152c760363df1e037> <https://colonialcollections.nl/schema#creator> "Per Ung" .
 <https://n2t.net/ark:/27023/27d5266de94a92e152c760363df1e037> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/27d5266de94a92e152c760363df1e037> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/27d5266de94a92e152c760363df1e037> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

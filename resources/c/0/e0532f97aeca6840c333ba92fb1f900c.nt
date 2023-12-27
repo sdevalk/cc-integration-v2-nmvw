@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/1889a2df8ba442245b0626de8dce4d9b> <https://colonialcollections.nl/schema#creator> "A. (Alan) Zion" .
 <https://n2t.net/ark:/27023/1889a2df8ba442245b0626de8dce4d9b> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1889a2df8ba442245b0626de8dce4d9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1889a2df8ba442245b0626de8dce4d9b> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/1889a2df8ba442245b0626de8dce4d9b> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/1889a2df8ba442245b0626de8dce4d9b> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

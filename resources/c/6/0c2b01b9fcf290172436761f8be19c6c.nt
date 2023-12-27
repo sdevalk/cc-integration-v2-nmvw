@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#creator> "Martina López Ortega" .
 <https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#locationCreated> "San Andrés Chicahuaxtla" .
-<https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla" .
-<https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#alternateName> "San Andres" .
-<https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#alternateName> "Chicahuaxtla San Andres" .
-<https://n2t.net/ark:/27023/22847d030d2c6f310a650573e6762e70> <https://colonialcollections.nl/schema#alternateName> "San Andrés Chicahuaxtla" .
