@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#inscription> "Voorzijde: VOANIA\r\nAchterzijde: MUBA" .
 <https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
-<https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .
-<https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .
-<https://n2t.net/ark:/27023/8285e2b31e483f31aece1c6d9ed14d53> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .

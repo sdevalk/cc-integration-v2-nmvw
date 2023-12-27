@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#creator> "Margareth Toodlik Amarook" .
 <https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#yearCreatedStart> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/84b10e9dc7b2138d851a4c3c7cb8ab77> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

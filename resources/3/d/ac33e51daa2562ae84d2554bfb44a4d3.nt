@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/7042cec7ff27b4d3a58f532c707c4648> <https://colonialcollections.nl/schema#inscription> "'The fight goes on', 'Ilizwe lethu', 'Umkonto we sizwe', 'Amandla Awethu', 'Now or never', 'Africa Unite'. 'The Akt Mandela speaks: I cherish my freedom dearly, but I care even more for your freedom. I cannot sell my birthright nor am I prepared to sell the birthright of the people to be free...' (nog één tekst die ik niet kan lezen, wachten tot beeld wordt weggehaald)" .
 <https://n2t.net/ark:/27023/7042cec7ff27b4d3a58f532c707c4648> <https://colonialcollections.nl/schema#yearCreatedStart> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7042cec7ff27b4d3a58f532c707c4648> <https://colonialcollections.nl/schema#yearCreatedEnd> "1987"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7042cec7ff27b4d3a58f532c707c4648> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/7042cec7ff27b4d3a58f532c707c4648> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/7042cec7ff27b4d3a58f532c707c4648> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

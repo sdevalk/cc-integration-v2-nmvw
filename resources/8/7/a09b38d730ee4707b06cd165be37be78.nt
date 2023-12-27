@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#creator> "Jacob Ernest Tulleken" .
 <https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#locationCreated> "Commewijne Rivier" .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#alternateName> "De Commwijne" .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#alternateName> "Commewijne Rivier" .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#alternateName> "Commewijne Kreek" .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#alternateName> "Commewyne River" .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#alternateName> "Commewijne River" .
+<https://n2t.net/ark:/27023/72b89eeb2ba0b17c1c5627c99a3e2b9b> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

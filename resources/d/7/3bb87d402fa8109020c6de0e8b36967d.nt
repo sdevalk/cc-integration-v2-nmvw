@@ -4,3 +4,8 @@
 <https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#yearCreatedStart> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#yearCreatedEnd> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/d398e4a4996ed2f23f8e549b220bfa07> <https://colonialcollections.nl/schema#countryCreated> "India" .

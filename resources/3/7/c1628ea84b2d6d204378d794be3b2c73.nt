@@ -4,3 +4,8 @@
 <https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/84c5af1b2f50fc17af3216a38e31d7ae> <https://colonialcollections.nl/schema#countryCreated> "India" .

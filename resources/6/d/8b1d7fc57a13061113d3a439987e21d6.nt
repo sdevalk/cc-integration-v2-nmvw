@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/73397653431643ba438b1a37ca30a4b1> <https://colonialcollections.nl/schema#inscription> "雪舟図探幽斎申傅「寫」\r\n丙午末秋 雪堤再模" .
 <https://n2t.net/ark:/27023/73397653431643ba438b1a37ca30a4b1> <https://colonialcollections.nl/schema#yearCreatedStart> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/73397653431643ba438b1a37ca30a4b1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1846"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/73397653431643ba438b1a37ca30a4b1> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/73397653431643ba438b1a37ca30a4b1> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/73397653431643ba438b1a37ca30a4b1> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

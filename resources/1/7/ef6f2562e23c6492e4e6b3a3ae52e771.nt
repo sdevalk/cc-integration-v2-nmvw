@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#yearCreatedStart> "1835"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#locationCreated> "Kouilou" .
+<https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#alternateName> "Ouilou" .
+<https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#alternateName> "Région du Kouilou" .
+<https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#alternateName> "Region de Kouilou-niari" .
+<https://n2t.net/ark:/27023/79d31e62126a62871b155f1f0aed892e> <https://colonialcollections.nl/schema#countryCreated> "Congo Republic" .

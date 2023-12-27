@@ -7,9 +7,3 @@
 <https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#creator> "Thilly Weissenborn" .
 <https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#locationCreated> "Garut Regency" .
-<https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Garut" .
-<https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Garut" .
-<https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#alternateName> "Garut" .
-<https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#alternateName> "Garut Regency"@en .
-<https://n2t.net/ark:/27023/d3f3f470908bb179abc98d8dcfaa3a09> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

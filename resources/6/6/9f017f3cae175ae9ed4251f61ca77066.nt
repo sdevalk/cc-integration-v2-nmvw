@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/712b0f7831dcb2983a5a41876177e9f1> <https://colonialcollections.nl/schema#creator> "Angas, G.F." .
 <https://n2t.net/ark:/27023/712b0f7831dcb2983a5a41876177e9f1> <https://colonialcollections.nl/schema#yearCreatedStart> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/712b0f7831dcb2983a5a41876177e9f1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/712b0f7831dcb2983a5a41876177e9f1> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/712b0f7831dcb2983a5a41876177e9f1> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/712b0f7831dcb2983a5a41876177e9f1> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

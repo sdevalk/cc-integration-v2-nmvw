@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#inscription> "Op de zijkant van de voet zit een inscriptie van cijfers in het Gujarati schrift:<BR>\r\n<BR><BR>\r\n૯ of ૮. ૮. ૫<BR>\r\n<BR><BR>\r\nDit vertaald als 9 of 8. 8. 5. en verwijst naar de puurheid van het zilver dat is gebruikt voor de sprenkelaar. Dit is vaak te vinden op Kutch-stijl werk dat gemaakt is tussen 1900-1930 (Wilkinson 1999, 92).<BR>" .
 <https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#locationCreated> "Kutch" .
-<https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#alternateName> "Kutch district"@en .
-<https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#alternateName> "Kachchh"@en .
-<https://n2t.net/ark:/27023/7a91c3e9ee5f1dfb0b2821d6b69d0127> <https://colonialcollections.nl/schema#alternateName> "Kachchh" .

@@ -8,3 +8,12 @@
 <https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#locationCreated> "Ahvāz" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "Nāsiri" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "Bandar-e Nāşer" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "Bandar Nāsirī" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "Ahvaz"@en .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "Nāşerī" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "اهواز" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#alternateName> "Ahwāz" .
+<https://n2t.net/ark:/27023/79d7b571c0d85e2f6758423773403895> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

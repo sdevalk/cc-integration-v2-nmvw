@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#creator> "Bisschoff y Spencer" .
 <https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#locationCreated> "Chile" .
+<https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#alternateName> "Republic of Chile"@en .
+<https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#alternateName> "República de Chile" .
+<https://n2t.net/ark:/27023/783818f532d6e3935077e1d387a5060f> <https://colonialcollections.nl/schema#countryCreated> "Chile" .

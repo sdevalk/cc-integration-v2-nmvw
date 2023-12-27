@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/7187f79c3f08d8ce22293b8ae7ef9a49> <https://colonialcollections.nl/schema#creator> "Simoko" .
 <https://n2t.net/ark:/27023/7187f79c3f08d8ce22293b8ae7ef9a49> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7187f79c3f08d8ce22293b8ae7ef9a49> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7187f79c3f08d8ce22293b8ae7ef9a49> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/7187f79c3f08d8ce22293b8ae7ef9a49> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/7187f79c3f08d8ce22293b8ae7ef9a49> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

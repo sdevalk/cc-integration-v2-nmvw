@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#creator> "P. (Pascal) Sébah" .
 <https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#locationCreated> "Jabal as Silsilah" .
+<https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#alternateName> "Gebel es Silsila" .
+<https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#alternateName> "Gebel el Silsila" .
+<https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#alternateName> "Jabal as Silsilah" .
+<https://n2t.net/ark:/27023/79b33776280de9523e16cd86c3d8ec9d> <https://colonialcollections.nl/schema#countryCreated> "Egypt" .

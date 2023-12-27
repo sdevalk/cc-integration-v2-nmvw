@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/787dea1e38d614a1e0e14400609c5367> <https://colonialcollections.nl/schema#creator> "Azusa" .
 <https://n2t.net/ark:/27023/787dea1e38d614a1e0e14400609c5367> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/787dea1e38d614a1e0e14400609c5367> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/787dea1e38d614a1e0e14400609c5367> <https://colonialcollections.nl/schema#locationCreated> "North America" .

@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/82abbb8398e2f8a5bec8ef62d789aaad> <https://colonialcollections.nl/schema#creator> "Ducasse" .
 <https://n2t.net/ark:/27023/82abbb8398e2f8a5bec8ef62d789aaad> <https://colonialcollections.nl/schema#creator> "Doherty" .
 <https://n2t.net/ark:/27023/82abbb8398e2f8a5bec8ef62d789aaad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/82abbb8398e2f8a5bec8ef62d789aaad> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/82abbb8398e2f8a5bec8ef62d789aaad> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/82abbb8398e2f8a5bec8ef62d789aaad> <https://colonialcollections.nl/schema#countryCreated> "United States" .

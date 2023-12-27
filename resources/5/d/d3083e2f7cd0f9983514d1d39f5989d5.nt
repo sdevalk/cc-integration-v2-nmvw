@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/70a3ba358447a1d5330604a11bb5ddd4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/70a3ba358447a1d5330604a11bb5ddd4> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/70a3ba358447a1d5330604a11bb5ddd4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/70a3ba358447a1d5330604a11bb5ddd4> <https://colonialcollections.nl/schema#locationCreated> "Fos" .
+<https://n2t.net/ark:/27023/70a3ba358447a1d5330604a11bb5ddd4> <https://colonialcollections.nl/schema#alternateName> "Fes" .
+<https://n2t.net/ark:/27023/70a3ba358447a1d5330604a11bb5ddd4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

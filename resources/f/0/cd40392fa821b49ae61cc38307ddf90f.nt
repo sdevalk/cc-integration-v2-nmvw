@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/6fe2670b1d7b01205f6e1268f88f0b48> <https://colonialcollections.nl/schema#creator> "José Vara Comacho" .
 <https://n2t.net/ark:/27023/6fe2670b1d7b01205f6e1268f88f0b48> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6fe2670b1d7b01205f6e1268f88f0b48> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/6fe2670b1d7b01205f6e1268f88f0b48> <https://colonialcollections.nl/schema#locationCreated> "Metepec" .
-<https://n2t.net/ark:/27023/6fe2670b1d7b01205f6e1268f88f0b48> <https://colonialcollections.nl/schema#alternateName> "Metepec" .

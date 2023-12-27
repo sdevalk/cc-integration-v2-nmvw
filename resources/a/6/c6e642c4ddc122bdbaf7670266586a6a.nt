@@ -8,3 +8,6 @@
 <https://n2t.net/ark:/27023/d2df0737afeb1c3bae9ace2124defb66> <https://colonialcollections.nl/schema#creator> "Curt Teich Compagny" .
 <https://n2t.net/ark:/27023/d2df0737afeb1c3bae9ace2124defb66> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d2df0737afeb1c3bae9ace2124defb66> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d2df0737afeb1c3bae9ace2124defb66> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/d2df0737afeb1c3bae9ace2124defb66> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/d2df0737afeb1c3bae9ace2124defb66> <https://colonialcollections.nl/schema#countryCreated> "United States" .

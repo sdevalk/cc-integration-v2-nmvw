@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/7731c336b93e545a89c37edb548d9078> <https://colonialcollections.nl/schema#creator> "W.G. Morais" .
 <https://n2t.net/ark:/27023/7731c336b93e545a89c37edb548d9078> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7731c336b93e545a89c37edb548d9078> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7731c336b93e545a89c37edb548d9078> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/7731c336b93e545a89c37edb548d9078> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/7731c336b93e545a89c37edb548d9078> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

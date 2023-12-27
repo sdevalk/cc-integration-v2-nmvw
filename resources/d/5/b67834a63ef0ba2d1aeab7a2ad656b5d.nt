@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/77f28b5ec52b5136c8bc833c5debf7a9> <https://colonialcollections.nl/schema#creator> "Verenigde Filmdiensten VNFI" .
 <https://n2t.net/ark:/27023/77f28b5ec52b5136c8bc833c5debf7a9> <https://colonialcollections.nl/schema#yearCreatedStart> "1945"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/77f28b5ec52b5136c8bc833c5debf7a9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/77f28b5ec52b5136c8bc833c5debf7a9> <https://colonialcollections.nl/schema#locationCreated> "Guatemala" .
+<https://n2t.net/ark:/27023/77f28b5ec52b5136c8bc833c5debf7a9> <https://colonialcollections.nl/schema#alternateName> "Republic of Guatemala"@en .
+<https://n2t.net/ark:/27023/77f28b5ec52b5136c8bc833c5debf7a9> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#inscription> "'Indië-serie in Sparo-Lux uitvoering' achterop gedrukt" .
 <https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#yearCreatedStart> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/793a7f1f55b85b04092e7c0c497976a9> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

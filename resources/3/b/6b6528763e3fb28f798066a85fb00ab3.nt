@@ -4,3 +4,6 @@
 <https://n2t.net/ark:/27023/d3510508fafbb429e3e9d7b6b3adb3e4> <https://colonialcollections.nl/schema#creator> "J.H. (Josephus Hubertus) Vos" .
 <https://n2t.net/ark:/27023/d3510508fafbb429e3e9d7b6b3adb3e4> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d3510508fafbb429e3e9d7b6b3adb3e4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d3510508fafbb429e3e9d7b6b3adb3e4> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/d3510508fafbb429e3e9d7b6b3adb3e4> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/d3510508fafbb429e3e9d7b6b3adb3e4> <https://colonialcollections.nl/schema#countryCreated> "United States" .

@@ -9,3 +9,6 @@
 <https://n2t.net/ark:/27023/724843c6a9b83e2cba2469e4e9f5b4f3> <https://colonialcollections.nl/schema#inscription> "'C.' op foto gedrukt, titel geschreven op karton, achterzijde, middenboven" .
 <https://n2t.net/ark:/27023/724843c6a9b83e2cba2469e4e9f5b4f3> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/724843c6a9b83e2cba2469e4e9f5b4f3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/724843c6a9b83e2cba2469e4e9f5b4f3> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/724843c6a9b83e2cba2469e4e9f5b4f3> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/724843c6a9b83e2cba2469e4e9f5b4f3> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

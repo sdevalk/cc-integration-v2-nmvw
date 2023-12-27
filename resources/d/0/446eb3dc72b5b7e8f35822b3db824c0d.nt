@@ -6,3 +6,4 @@
 <https://n2t.net/ark:/27023/84fd913b7748843732f6c1ef153d7f1d> <https://colonialcollections.nl/schema#creator> "J. (Jacob) van Zuijlen" .
 <https://n2t.net/ark:/27023/84fd913b7748843732f6c1ef153d7f1d> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84fd913b7748843732f6c1ef153d7f1d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/84fd913b7748843732f6c1ef153d7f1d> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

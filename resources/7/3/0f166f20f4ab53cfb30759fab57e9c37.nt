@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#inscription> "L'As de la Peinture\r\nEbapi Depinceaux (= penselen)\r\nArtiste-peintre\r\nLa joie et la Beauté avec moi" .
 <https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#yearCreatedStart> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#locationCreated> "Akom II" .
+<https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#alternateName> "Akom" .
+<https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#alternateName> "Akom II" .
+<https://n2t.net/ark:/27023/83efb8a646e010f1addb7a18e8806a02> <https://colonialcollections.nl/schema#countryCreated> "Cameroon" .

@@ -8,8 +8,3 @@
 <https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#inscription> "titel geschreven met inkt onder foto\r\nop achterzijde karton geschreven met inkt 'Eigendom v[an] [Jhr. O.] von [Schmidt auf Altenstadt Den Haag]." .
 <https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#yearCreatedEnd> "1866"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
-<https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
-<https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
-<https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
-<https://n2t.net/ark:/27023/84eae45a8dac78671dea8eb20971d197> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

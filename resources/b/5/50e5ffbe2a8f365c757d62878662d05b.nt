@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/790cc739bece4b3b720d2a4017efad51> <https://colonialcollections.nl/schema#creator> "Edith Jabusowa" .
 <https://n2t.net/ark:/27023/790cc739bece4b3b720d2a4017efad51> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/790cc739bece4b3b720d2a4017efad51> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/790cc739bece4b3b720d2a4017efad51> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/790cc739bece4b3b720d2a4017efad51> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

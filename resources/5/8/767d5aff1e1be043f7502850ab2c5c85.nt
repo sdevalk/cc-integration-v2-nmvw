@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#description> "Dit soort armbanden (gelang karo) wordt gedragen door mannen met een hoge status. Twee met goud belegde, halfronde ringen glijden over een holle zilveren ring." .
 <https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
-<https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
-<https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
-<https://n2t.net/ark:/27023/70d870bb0a30f9ff4f3c973672b423ec> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

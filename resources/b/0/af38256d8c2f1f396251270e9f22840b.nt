@@ -9,3 +9,10 @@
 <https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#inscription> "島原秩父ヶ浦\r\nより眉山を望む \r\n昭和七年初夏\r\n深水写 (印：深)\r\n\r\nDe berg Bizan gezien vanuit Chichibu-ga-ura in Shimabara.\r\nVroege zomer van het zevende jaar van Shôwa.\r\nAfgebeeld door Shinsui. (+ zegel Shin)" .
 <https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#yearCreatedStart> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/84f8a1eecb83c7e469a441c1ada1aee2> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

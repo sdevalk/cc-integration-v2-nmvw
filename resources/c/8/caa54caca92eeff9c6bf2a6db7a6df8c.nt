@@ -5,4 +5,3 @@
 <https://n2t.net/ark:/27023/82fe2b273025728aae62781609e52eb4> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/82fe2b273025728aae62781609e52eb4> <https://colonialcollections.nl/schema#yearCreatedStart> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/82fe2b273025728aae62781609e52eb4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/82fe2b273025728aae62781609e52eb4> <https://colonialcollections.nl/schema#locationCreated> "South America" .

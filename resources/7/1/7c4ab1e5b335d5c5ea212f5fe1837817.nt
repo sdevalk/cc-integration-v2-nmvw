@@ -6,5 +6,3 @@
 <https://n2t.net/ark:/27023/d33559baeb534978aa23139759ebe2ae> <https://colonialcollections.nl/schema#creator> "Hiroyuki Shindo" .
 <https://n2t.net/ark:/27023/d33559baeb534978aa23139759ebe2ae> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d33559baeb534978aa23139759ebe2ae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/d33559baeb534978aa23139759ebe2ae> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/d33559baeb534978aa23139759ebe2ae> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/8382b2ac1aecb46bb8a846adee3688e5> <https://colonialcollections.nl/schema#creator> "Frances ?" .
 <https://n2t.net/ark:/27023/8382b2ac1aecb46bb8a846adee3688e5> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8382b2ac1aecb46bb8a846adee3688e5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8382b2ac1aecb46bb8a846adee3688e5> <https://colonialcollections.nl/schema#locationCreated> "Tuba City" .
-<https://n2t.net/ark:/27023/8382b2ac1aecb46bb8a846adee3688e5> <https://colonialcollections.nl/schema#alternateName> "Tuba" .

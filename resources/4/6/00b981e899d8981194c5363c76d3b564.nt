@@ -3,8 +3,3 @@
 <https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#name> "HOUTEN HAK" .
 <https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#locationCreated> "Madurai" .
-<https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#alternateName> "Madurai"@en .
-<https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#alternateName> "Mathurai" .
-<https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#alternateName> "Madura" .
-<https://n2t.net/ark:/27023/77eba6348d240923d1fc0d8349d96784> <https://colonialcollections.nl/schema#alternateName> "Madurai" .

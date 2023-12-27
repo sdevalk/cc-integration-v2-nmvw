@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#locationCreated> "Rūdkhāneh-ye Khersān" .
-<https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#alternateName> "Ab-i-Khīrsān" .
-<https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#alternateName> "Rūd-e-Khersān" .
-<https://n2t.net/ark:/27023/7903729964c8d319104c3b4129d453dc> <https://colonialcollections.nl/schema#alternateName> "Āb-e Kārūn" .

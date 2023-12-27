@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#inscription> "opschrift in Nasta'liq, Nagari, en Takri op a.  'kurari', 'karari', 'nilgar'; op b.  'dhimg..', 'dhing' ." .
 <https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/7051b6d05272bbde3d55a15ad61646e2> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#creator> "Julia Tuluqtuq" .
 <https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#locationCreated> "Baker Lake" .
+<https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#alternateName> "Baker Lake"@en .
+<https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#alternateName> "Baker Lake" .
+<https://n2t.net/ark:/27023/d2e5fa39ca329c985a280259cd958a9f> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

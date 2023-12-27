@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/797a12cbacbf590fae1ead26d925639e> <https://colonialcollections.nl/schema#creator> "Dhr. J.H.G. Herrebrugh" .
 <https://n2t.net/ark:/27023/797a12cbacbf590fae1ead26d925639e> <https://colonialcollections.nl/schema#yearCreatedStart> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/797a12cbacbf590fae1ead26d925639e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/797a12cbacbf590fae1ead26d925639e> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/797a12cbacbf590fae1ead26d925639e> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/797a12cbacbf590fae1ead26d925639e> <https://colonialcollections.nl/schema#countryCreated> "United States" .

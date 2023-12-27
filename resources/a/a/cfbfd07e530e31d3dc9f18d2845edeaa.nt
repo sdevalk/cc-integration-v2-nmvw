@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#material> "parelmoer ; vezel (kokos) ; boombast ; veer" .
 <https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#locationCreated> "State of Kosrae" .
+<https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#alternateName> "TTPI Ponape District" .
+<https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#alternateName> "Kosrae State" .
+<https://n2t.net/ark:/27023/71b3e0534071fd116b59205524e4826b> <https://colonialcollections.nl/schema#countryCreated> "FSM" .

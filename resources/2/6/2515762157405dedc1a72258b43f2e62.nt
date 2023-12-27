@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#material> "Zijde, West-India, Choli. kettingsteek, met in rood een Russische blockprint ontwerp eronder, shisha." .
 <https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1917"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#locationCreated> "Kutch" .
-<https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#alternateName> "Kachchh"@en .
-<https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#alternateName> "Kachchh" .
-<https://n2t.net/ark:/27023/7785db3977d214c429c673f5a1077eaf> <https://colonialcollections.nl/schema#alternateName> "Kutch district"@en .

@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#creator> "Samuel Bourne" .
 <https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#yearCreatedStart> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#yearCreatedEnd> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#locationCreated> "Lucknow" .
+<https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#alternateName> "Lakhnau" .
+<https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#alternateName> "Lucknow"@en .
+<https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#alternateName> "Lucknow City" .
+<https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#alternateName> "Lucknow" .
+<https://n2t.net/ark:/27023/84c8d41de2297a8662e9d6597743d862> <https://colonialcollections.nl/schema#countryCreated> "India" .

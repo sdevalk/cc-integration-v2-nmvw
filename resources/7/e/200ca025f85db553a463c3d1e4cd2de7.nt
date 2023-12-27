@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#inscription> "[T] W.G. Hofker & \r\n[T] Premie-ets 1944\r\n[T] Bali\r\n[T] Vereeniging tot Bevordering van Beelden Kunsten" .
 <https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#yearCreatedStart> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/831236b55d67206b9ce067bf3c8956fa> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

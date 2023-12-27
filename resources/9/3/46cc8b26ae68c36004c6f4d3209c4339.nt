@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/72974ccfc718c0e32eab5e6de72fe5ed> <https://colonialcollections.nl/schema#inscription> "titel ; voorzijde ; gedrukt" .
 <https://n2t.net/ark:/27023/72974ccfc718c0e32eab5e6de72fe5ed> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/72974ccfc718c0e32eab5e6de72fe5ed> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/72974ccfc718c0e32eab5e6de72fe5ed> <https://colonialcollections.nl/schema#locationCreated> "Maracaibo" .
-<https://n2t.net/ark:/27023/72974ccfc718c0e32eab5e6de72fe5ed> <https://colonialcollections.nl/schema#alternateName> "Maracaibo"@en .

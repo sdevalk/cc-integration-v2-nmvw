@@ -4,7 +4,3 @@
 <https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#description> "Wordt aan de overledene in het hiernamaals meegegeven, en geplaatst bij het hoofd." .
 <https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/7913c45a7f6f2818e6613759db18ced4> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/6ffe0e486926eb707bee5274bb7589b4> <https://colonialcollections.nl/schema#creator> "Naval Photographic center" .
 <https://n2t.net/ark:/27023/6ffe0e486926eb707bee5274bb7589b4> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/6ffe0e486926eb707bee5274bb7589b4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/6ffe0e486926eb707bee5274bb7589b4> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/6ffe0e486926eb707bee5274bb7589b4> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/6ffe0e486926eb707bee5274bb7589b4> <https://colonialcollections.nl/schema#countryCreated> "United States" .

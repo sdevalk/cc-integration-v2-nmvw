@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/83c8087b884823f8033eb43208662b4a> <https://colonialcollections.nl/schema#creator> "Elly van Creveld" .
 <https://n2t.net/ark:/27023/83c8087b884823f8033eb43208662b4a> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/83c8087b884823f8033eb43208662b4a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/83c8087b884823f8033eb43208662b4a> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/83c8087b884823f8033eb43208662b4a> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/83c8087b884823f8033eb43208662b4a> <https://colonialcollections.nl/schema#countryCreated> "United States" .

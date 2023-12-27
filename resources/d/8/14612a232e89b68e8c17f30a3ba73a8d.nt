@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#inscription> "Mrs Rababeh owner 1302" .
 <https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#yearCreatedStart> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/7aa135aa50c178d30b53b900331dd4bb> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

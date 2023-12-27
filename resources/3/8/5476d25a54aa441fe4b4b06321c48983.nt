@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#inscription> "41/50 Massacre Mountain Kevin Gilbert '65 printed 1992" .
 <https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/718ba21c1c5ca32da4df886dc92feded> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

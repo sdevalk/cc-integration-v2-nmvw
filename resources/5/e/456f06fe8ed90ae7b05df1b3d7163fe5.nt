@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
-<https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
-<https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
-<https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
-<https://n2t.net/ark:/27023/71fc22a46dcdd2adaf7c5f17715d1314> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

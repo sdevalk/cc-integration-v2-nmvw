@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/842f53c725d509debbebe7016eb3e4db> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/842f53c725d509debbebe7016eb3e4db> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/842f53c725d509debbebe7016eb3e4db> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/842f53c725d509debbebe7016eb3e4db> <https://colonialcollections.nl/schema#locationCreated> "Kota Manado" .
-<https://n2t.net/ark:/27023/842f53c725d509debbebe7016eb3e4db> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Manado" .
-<https://n2t.net/ark:/27023/842f53c725d509debbebe7016eb3e4db> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

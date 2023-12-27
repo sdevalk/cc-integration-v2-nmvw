@@ -8,8 +8,3 @@
 <https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#inscription> "titel met potlood achterop foto geschreven" .
 <https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#yearCreatedStart> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#locationCreated> "Madurai" .
-<https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#alternateName> "Madurai"@en .
-<https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#alternateName> "Mathurai" .
-<https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#alternateName> "Madurai" .
-<https://n2t.net/ark:/27023/84b565b91f624a3559cf507bf87944ec> <https://colonialcollections.nl/schema#alternateName> "Madura" .

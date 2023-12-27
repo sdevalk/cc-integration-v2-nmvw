@@ -4,7 +4,3 @@
 <https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/8448a33f7a33d8d2066f9d221c30e271> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .
