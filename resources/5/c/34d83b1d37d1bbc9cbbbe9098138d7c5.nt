@@ -5,4 +5,3 @@
 <https://n2t.net/ark:/27023/0fa430548a9cce59be73e289ddf52d3a> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/0fa430548a9cce59be73e289ddf52d3a> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0fa430548a9cce59be73e289ddf52d3a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0fa430548a9cce59be73e289ddf52d3a> <https://colonialcollections.nl/schema#locationCreated> "Yagul" .

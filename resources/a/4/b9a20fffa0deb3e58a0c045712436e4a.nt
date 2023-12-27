@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/05f4d249a5d540d117753a24b106b39b> <https://colonialcollections.nl/schema#creator> "M.D. King" .
 <https://n2t.net/ark:/27023/05f4d249a5d540d117753a24b106b39b> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/05f4d249a5d540d117753a24b106b39b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/05f4d249a5d540d117753a24b106b39b> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/05f4d249a5d540d117753a24b106b39b> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/05f4d249a5d540d117753a24b106b39b> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

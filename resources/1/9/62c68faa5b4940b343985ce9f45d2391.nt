@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#creator> "Kathleen Petyarre" .
 <https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#yearCreatedStart> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/1697c8efe08104f57c1426ffc3d01429> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

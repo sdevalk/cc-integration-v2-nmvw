@@ -5,4 +5,3 @@
 <https://n2t.net/ark:/27023/15e28c42793c1f1faf767343a456d660> <https://colonialcollections.nl/schema#inscription> "geen" .
 <https://n2t.net/ark:/27023/15e28c42793c1f1faf767343a456d660> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/15e28c42793c1f1faf767343a456d660> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/15e28c42793c1f1faf767343a456d660> <https://colonialcollections.nl/schema#locationCreated> "North America" .

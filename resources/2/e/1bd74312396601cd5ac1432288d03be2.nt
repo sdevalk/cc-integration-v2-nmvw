@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#creator> "Wechel, P. te" .
 <https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#locationCreated> "Central Kalimantan" .
-<https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat I Kalimantan Tengah" .
-<https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#alternateName> "Propinsi Kalimantan Tengah" .
-<https://n2t.net/ark:/27023/0da5130feef06e2b5a6014e3cf5f107b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

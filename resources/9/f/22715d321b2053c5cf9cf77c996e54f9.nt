@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/0f3960fcf5909501e7d14332732b70f2> <https://colonialcollections.nl/schema#creator> "Arts Graphiques" .
 <https://n2t.net/ark:/27023/0f3960fcf5909501e7d14332732b70f2> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0f3960fcf5909501e7d14332732b70f2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0f3960fcf5909501e7d14332732b70f2> <https://colonialcollections.nl/schema#locationCreated> "Tozeur" .
-<https://n2t.net/ark:/27023/0f3960fcf5909501e7d14332732b70f2> <https://colonialcollections.nl/schema#alternateName> "Tawzar" .
-<https://n2t.net/ark:/27023/0f3960fcf5909501e7d14332732b70f2> <https://colonialcollections.nl/schema#alternateName> "Tozeur" .

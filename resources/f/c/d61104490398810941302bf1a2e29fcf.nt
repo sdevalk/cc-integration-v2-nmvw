@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/0c559b3dfa453b0f47dbd735b92fb024> <https://colonialcollections.nl/schema#creator> "J.A. (José Augusto) da Cunha Moraes" .
 <https://n2t.net/ark:/27023/0c559b3dfa453b0f47dbd735b92fb024> <https://colonialcollections.nl/schema#yearCreatedStart> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0c559b3dfa453b0f47dbd735b92fb024> <https://colonialcollections.nl/schema#yearCreatedEnd> "1870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0c559b3dfa453b0f47dbd735b92fb024> <https://colonialcollections.nl/schema#locationCreated> "Alfândega" .
+<https://n2t.net/ark:/27023/0c559b3dfa453b0f47dbd735b92fb024> <https://colonialcollections.nl/schema#countryCreated> "Angola" .

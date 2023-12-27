@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/140b67762e541c95518ee8d2e1250d4b> <https://colonialcollections.nl/schema#inscription> "(inscripties checken als afdeling wordt afgebroken)" .
 <https://n2t.net/ark:/27023/140b67762e541c95518ee8d2e1250d4b> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/140b67762e541c95518ee8d2e1250d4b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/140b67762e541c95518ee8d2e1250d4b> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/140b67762e541c95518ee8d2e1250d4b> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .
-<https://n2t.net/ark:/27023/140b67762e541c95518ee8d2e1250d4b> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .

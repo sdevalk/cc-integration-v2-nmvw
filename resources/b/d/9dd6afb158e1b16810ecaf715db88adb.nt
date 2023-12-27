@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#creator> "I. (Inyuwa) Nampitjinpa" .
 <https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/16e7a0d8c8d772ce40b160615ddb20bc> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

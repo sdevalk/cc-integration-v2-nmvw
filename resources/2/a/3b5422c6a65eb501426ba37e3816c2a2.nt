@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#creator> "I Ketut Soki" .
 <https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/06db038ea3486d69c287998faf409dee> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

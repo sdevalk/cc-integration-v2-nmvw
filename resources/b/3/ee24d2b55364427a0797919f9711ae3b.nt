@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/070a89357a92cedb860892737e35261e> <https://colonialcollections.nl/schema#creator> "Hoshi" .
 <https://n2t.net/ark:/27023/070a89357a92cedb860892737e35261e> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/070a89357a92cedb860892737e35261e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/070a89357a92cedb860892737e35261e> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/070a89357a92cedb860892737e35261e> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/070a89357a92cedb860892737e35261e> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

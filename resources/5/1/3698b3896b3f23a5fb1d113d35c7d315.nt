@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#creator> "J. Thomson" .
 <https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#locationCreated> "Shūshtar" .
-<https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#alternateName> "شوشتر" .
-<https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#alternateName> "Shooshtar" .
-<https://n2t.net/ark:/27023/064e8d7e70fe4be120cd59e997c13f72> <https://colonialcollections.nl/schema#alternateName> "Shūstar" .

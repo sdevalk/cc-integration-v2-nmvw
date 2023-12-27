@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/04d20d953cc7fdb67ac297259a6758f4> <https://colonialcollections.nl/schema#creator> "Renée Stout" .
 <https://n2t.net/ark:/27023/04d20d953cc7fdb67ac297259a6758f4> <https://colonialcollections.nl/schema#yearCreatedStart> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/04d20d953cc7fdb67ac297259a6758f4> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/04d20d953cc7fdb67ac297259a6758f4> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/04d20d953cc7fdb67ac297259a6758f4> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/04d20d953cc7fdb67ac297259a6758f4> <https://colonialcollections.nl/schema#countryCreated> "United States" .

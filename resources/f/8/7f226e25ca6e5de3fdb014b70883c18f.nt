@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#creator> "Utopia Batik and Arts" .
 <https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/06da837f1bbd1df1c57d4f0e8ee8a9de> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

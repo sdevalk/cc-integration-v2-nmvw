@@ -6,9 +6,3 @@
 <https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#locationCreated> "Nangen" .
-<https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#alternateName> "Namwŏn" .
-<https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#alternateName> "Mangen" .
-<https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#alternateName> "Namwŭn" .
-<https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#alternateName> "Namweon" .
-<https://n2t.net/ark:/27023/073c95e18d4a8f1cc10c07473ccdfee2> <https://colonialcollections.nl/schema#alternateName> "Nangen" .

@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#material> "sagobast ; bastvezel" .
 <https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/0efb92bebd23c65739b93e3db64ece8e> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

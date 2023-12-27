@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#creator> "Gus Arnold" .
 <https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#locationCreated> "Fiji" .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#alternateName> "Republic of Fiji" .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#alternateName> "Republic of the Fiji Islands" .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#alternateName> "Feeje" .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#alternateName> "Fiji" .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#alternateName> "Viti" .
+<https://n2t.net/ark:/27023/1405b60259602e128c9893c35fbd9eb6> <https://colonialcollections.nl/schema#countryCreated> "Fiji" .

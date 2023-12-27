@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#inscription> "In bottom left corner of the sheet of paper in black ink:\r\n'No. 69'" .
 <https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#locationCreated> "South Africa" .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#alternateName> "iRiphabliki ye Sewula Afrika" .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#alternateName> "Union of South Africa"@en .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#alternateName> "Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#alternateName> "iSewula Afrika" .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#alternateName> "Riphabuliki ya Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/06e220f98d79eec8f90ba4e98e96cc8b> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

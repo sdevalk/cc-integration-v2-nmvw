@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/0588fd1bfb5f9526666477cf186bb739> <https://colonialcollections.nl/schema#material> "noot (kokos) ; vezel" .
 <https://n2t.net/ark:/27023/0588fd1bfb5f9526666477cf186bb739> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0588fd1bfb5f9526666477cf186bb739> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0588fd1bfb5f9526666477cf186bb739> <https://colonialcollections.nl/schema#locationCreated> "Gilbert Islands" .
-<https://n2t.net/ark:/27023/0588fd1bfb5f9526666477cf186bb739> <https://colonialcollections.nl/schema#alternateName> "Gilbert Islands"@en .

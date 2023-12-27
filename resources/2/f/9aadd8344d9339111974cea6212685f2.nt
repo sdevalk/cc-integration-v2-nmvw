@@ -5,10 +5,3 @@
 <https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#locationCreated> "Mysuru" .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#alternateName> "Mysooru" .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#alternateName> "Maisūr" .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#alternateName> "Maisūru" .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#alternateName> "Mysuru"@en .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#alternateName> "Mahisūr" .
-<https://n2t.net/ark:/27023/076f31a147f3a0d03912370ea59795a3> <https://colonialcollections.nl/schema#alternateName> "Mysore"@en .

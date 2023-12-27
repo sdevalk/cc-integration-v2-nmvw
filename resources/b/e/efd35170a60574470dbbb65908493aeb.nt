@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/1449726437b0b3601142ee64446bb7d9> <https://colonialcollections.nl/schema#creator> "Detroit Publishing Co." .
 <https://n2t.net/ark:/27023/1449726437b0b3601142ee64446bb7d9> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1449726437b0b3601142ee64446bb7d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1449726437b0b3601142ee64446bb7d9> <https://colonialcollections.nl/schema#locationCreated> "North America" .

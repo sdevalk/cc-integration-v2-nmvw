@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#creator> "Saturnino Ibañez" .
 <https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#locationCreated> "La Paz" .
-<https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#alternateName> "La Paz" .
-<https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#alternateName> "Nuestra Señora de La Paz" .
-<https://n2t.net/ark:/27023/054ef14e3979a72e8653917434af1b30> <https://colonialcollections.nl/schema#alternateName> "Ciudad La Paz" .

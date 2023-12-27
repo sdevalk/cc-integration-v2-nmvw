@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#creator> "Carolina Josephina von Franquemont" .
 <https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1867"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/1568bf7ad2e57190ce351bda705e37c3> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

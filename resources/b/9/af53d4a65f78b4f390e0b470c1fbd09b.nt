@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#inscription> "titel en nummer geschreven in negatief" .
 <https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#locationCreated> "Ramesseum" .
+<https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#alternateName> "Ramesseum" .
+<https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#alternateName> "Ramisiyūm" .
+<https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#alternateName> "Ramesseum"@en .
+<https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#alternateName> "Tomb of Osymandyas" .
+<https://n2t.net/ark:/27023/0d78ec5067f07a59593a932b5f19b4cc> <https://colonialcollections.nl/schema#countryCreated> "Egypt" .

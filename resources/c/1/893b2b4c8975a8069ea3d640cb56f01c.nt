@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#creator> "Jaap de Jonge" .
 <https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/080e08dcc6720f78f6b247caa1f0a5be> <https://colonialcollections.nl/schema#countryCreated> "India" .

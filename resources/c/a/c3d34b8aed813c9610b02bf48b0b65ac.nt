@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#inscription> "titel en datum achterop karton geschreven met inkt" .
 <https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#locationCreated> "Argentina" .
+<https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#alternateName> "La Argentina" .
+<https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#alternateName> "Argentine Republic"@en .
+<https://n2t.net/ark:/27023/0da4e47a4384b74c0618110e836e9575> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .

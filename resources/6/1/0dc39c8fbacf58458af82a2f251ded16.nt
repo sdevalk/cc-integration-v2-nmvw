@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#creator> "Rosie Ross" .
 <https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#yearCreatedStart> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/16b656ae968699bc04b7b7c3bed698b3> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

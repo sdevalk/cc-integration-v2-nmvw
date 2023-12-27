@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/07b5386dc6e7083673063ca70426f3e2> <https://colonialcollections.nl/schema#creator> "Sara Kristoffersen" .
 <https://n2t.net/ark:/27023/07b5386dc6e7083673063ca70426f3e2> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/07b5386dc6e7083673063ca70426f3e2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/07b5386dc6e7083673063ca70426f3e2> <https://colonialcollections.nl/schema#locationCreated> "West Greenland" .
-<https://n2t.net/ark:/27023/07b5386dc6e7083673063ca70426f3e2> <https://colonialcollections.nl/schema#alternateName> "West Greenland"@en .

@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#inscription> "titel geschreven op karton" .
 <https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#locationCreated> "Colombo" .
-<https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#alternateName> "Columbo" .
-<https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#alternateName> "Colombo"@en .
-<https://n2t.net/ark:/27023/06c0351728299b73a9b14a98dfa45c27> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

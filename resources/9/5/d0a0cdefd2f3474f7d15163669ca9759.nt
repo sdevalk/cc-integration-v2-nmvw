@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#inscription> "op de achterkant van de inktstaaf staat de naam van de maker -'Fujihara Sogen' (zz)-, en de plaats waar hij woonde: de wijk Takayama (Takayama naiku Fujihara Sogen) (zz)." .
 <https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1829"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/072b01b4984dd5a049b2e7ccfd44353d> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

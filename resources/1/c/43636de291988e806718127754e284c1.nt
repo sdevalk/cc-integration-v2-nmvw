@@ -6,3 +6,10 @@
 <https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#locationCreated> "Fiji" .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#alternateName> "Fiji" .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#alternateName> "Viti" .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#alternateName> "Republic of Fiji" .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#alternateName> "Republic of the Fiji Islands" .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#alternateName> "Feeje" .
+<https://n2t.net/ark:/27023/1399a3fe470860d5d3dc41d68b61e931> <https://colonialcollections.nl/schema#countryCreated> "Fiji" .

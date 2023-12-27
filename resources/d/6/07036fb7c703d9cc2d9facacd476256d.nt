@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#locationCreated> "Cambodia" .
-<https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Royaume du Cambodge" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Kampuchea Démocratique" .
+<https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Royaume du Cambodge" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Kingdom of Cambodia"@en .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Cambodge" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "République Khmère" .
@@ -17,9 +17,9 @@
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Kâmpŭchéa" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Camboja" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Khmer Republic"@en .
-<https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Democratic Cambodia" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Cam Bot" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Kambuja" .
+<https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Democratic Cambodia" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Kâmpŭchéa Prâchéathĭpâtéyy" .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "Democratic Cambodia"@en .
 <https://n2t.net/ark:/27023/170677d78e1b7e44927e4b422155e140> <https://colonialcollections.nl/schema#alternateName> "République du Cambodge" .

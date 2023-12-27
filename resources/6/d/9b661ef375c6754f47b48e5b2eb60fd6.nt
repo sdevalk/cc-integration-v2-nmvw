@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#inscription> "kanhaipālāl mohanalāl upādhye <BR>\r\n<BR><BR>\r\n1/3/78<BR>\r\n<BR><BR>\r\nDe inscriptie wijst op een naam, waarvan ’upādhye’ erop duidt dat het een brahmaan is. Het jaartal geeft aan dat de sprenkelaar mogelijk rond 1878 is gemaakt. <BR>" .
 <https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/13f121dd1d92fab0ddf90a3f07323547> <https://colonialcollections.nl/schema#countryCreated> "India" .

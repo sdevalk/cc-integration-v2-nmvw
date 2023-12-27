@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#creator> "Sy, D." .
 <https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/0eab48255fe6e27624fa1b49dbb5bf5a> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

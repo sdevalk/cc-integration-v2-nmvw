@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/0ed80c27e6c7a9440615409157f408b8> <https://colonialcollections.nl/schema#material> "hout ; vezel" .
 <https://n2t.net/ark:/27023/0ed80c27e6c7a9440615409157f408b8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0ed80c27e6c7a9440615409157f408b8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1884"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0ed80c27e6c7a9440615409157f408b8> <https://colonialcollections.nl/schema#locationCreated> "Gilbert Islands" .
-<https://n2t.net/ark:/27023/0ed80c27e6c7a9440615409157f408b8> <https://colonialcollections.nl/schema#alternateName> "Gilbert Islands"@en .

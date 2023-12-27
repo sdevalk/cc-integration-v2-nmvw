@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/0eda4a151d9f8b260e29dc3d3dab322f> <https://colonialcollections.nl/schema#inscription> "titel linksonder geschreven in negatief en in zwarte tekstbalk" .
 <https://n2t.net/ark:/27023/0eda4a151d9f8b260e29dc3d3dab322f> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eda4a151d9f8b260e29dc3d3dab322f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0eda4a151d9f8b260e29dc3d3dab322f> <https://colonialcollections.nl/schema#locationCreated> "Kyoto" .
-<https://n2t.net/ark:/27023/0eda4a151d9f8b260e29dc3d3dab322f> <https://colonialcollections.nl/schema#alternateName> "Kyoto Prefecture"@en .

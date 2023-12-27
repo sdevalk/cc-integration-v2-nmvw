@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#inscription> "Harogalli 85" .
 <https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#yearCreatedStart> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#locationCreated> "Bolivia" .
+<https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#alternateName> "Bolivia (Plurinational State of)"@en .
+<https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#alternateName> "Bolivia, Plurinational State Of"@en .
+<https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#alternateName> "Plurinational State of Bolivia"@en .
+<https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#alternateName> "Republic of Bolivia"@en .
+<https://n2t.net/ark:/27023/0eb31b3d32f24d0734c5424b77e17377> <https://colonialcollections.nl/schema#countryCreated> "Bolivia" .

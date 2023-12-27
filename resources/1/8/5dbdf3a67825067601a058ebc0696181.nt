@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/175f48ea113eacfe86ab7e3eed9cb6eb> <https://colonialcollections.nl/schema#creator> "Ashitomo" .
 <https://n2t.net/ark:/27023/175f48ea113eacfe86ab7e3eed9cb6eb> <https://colonialcollections.nl/schema#yearCreatedStart> "1814"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/175f48ea113eacfe86ab7e3eed9cb6eb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1816"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/175f48ea113eacfe86ab7e3eed9cb6eb> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/175f48ea113eacfe86ab7e3eed9cb6eb> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/175f48ea113eacfe86ab7e3eed9cb6eb> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

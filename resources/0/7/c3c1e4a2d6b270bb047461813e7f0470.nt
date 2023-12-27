@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#inscription> "datum en titel achterop karton geschreven [handschrift Ten Kate]" .
 <https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#locationCreated> "Niagara Falls" .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#alternateName> "Canadian Falls" .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#alternateName> "American Falls" .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#alternateName> "Niagara Falls"@en .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#alternateName> "Bridal Veil Falls" .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#alternateName> "Niagra Falls, New York, US"@en .
+<https://n2t.net/ark:/27023/14c9cd2a5dd631b11ee67ef2b6bd17de> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

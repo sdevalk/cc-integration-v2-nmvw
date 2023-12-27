@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/0d0b3b7b2a374683ae22f6aa3c9e577e> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/0d0b3b7b2a374683ae22f6aa3c9e577e> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0d0b3b7b2a374683ae22f6aa3c9e577e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0d0b3b7b2a374683ae22f6aa3c9e577e> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/0d0b3b7b2a374683ae22f6aa3c9e577e> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/0d0b3b7b2a374683ae22f6aa3c9e577e> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

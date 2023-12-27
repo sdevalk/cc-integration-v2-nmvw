@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/14118f504310def2c9fc62c6ae8f59dc> <https://colonialcollections.nl/schema#inscription> "titel met inkt geschreven op achterzijde op karton [handschrift H.F.C. ten Kate]" .
 <https://n2t.net/ark:/27023/14118f504310def2c9fc62c6ae8f59dc> <https://colonialcollections.nl/schema#yearCreatedStart> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/14118f504310def2c9fc62c6ae8f59dc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/14118f504310def2c9fc62c6ae8f59dc> <https://colonialcollections.nl/schema#locationCreated> "Paramaribo" .
-<https://n2t.net/ark:/27023/14118f504310def2c9fc62c6ae8f59dc> <https://colonialcollections.nl/schema#alternateName> "Paramaribo"@en .

@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/1676b564cdce532b59c181505b940e38> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/1676b564cdce532b59c181505b940e38> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1676b564cdce532b59c181505b940e38> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1676b564cdce532b59c181505b940e38> <https://colonialcollections.nl/schema#locationCreated> "Kota Singkawang" .
-<https://n2t.net/ark:/27023/1676b564cdce532b59c181505b940e38> <https://colonialcollections.nl/schema#alternateName> "San Keuw Jong" .
-<https://n2t.net/ark:/27023/1676b564cdce532b59c181505b940e38> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

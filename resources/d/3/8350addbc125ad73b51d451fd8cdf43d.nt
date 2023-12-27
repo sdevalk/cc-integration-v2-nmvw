@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/073c27d7e3c576c51f1f22aa005951bf> <https://colonialcollections.nl/schema#material> "papier; tekenkunst" .
 <https://n2t.net/ark:/27023/073c27d7e3c576c51f1f22aa005951bf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/073c27d7e3c576c51f1f22aa005951bf> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
+<https://n2t.net/ark:/27023/073c27d7e3c576c51f1f22aa005951bf> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/073c27d7e3c576c51f1f22aa005951bf> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/073c27d7e3c576c51f1f22aa005951bf> <https://colonialcollections.nl/schema#countryCreated> "United States" .

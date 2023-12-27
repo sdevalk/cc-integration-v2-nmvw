@@ -7,3 +7,9 @@
 <https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#creator> "Dhr. J. (Jorge) Silva" .
 <https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#yearCreatedStart> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#locationCreated> "Colombia" .
+<https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#alternateName> "Colombié" .
+<https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#alternateName> "República de Colombia" .
+<https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#alternateName> "Republic of Colombia"@en .
+<https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#alternateName> "Columbien" .
+<https://n2t.net/ark:/27023/16dc64e046dcbd5d29bd7b93fabf4433> <https://colonialcollections.nl/schema#countryCreated> "Colombia" .

@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/0dde57ddbf3a55259eeb0e58f84cc95a> <https://colonialcollections.nl/schema#creator> "van Dijk" .
 <https://n2t.net/ark:/27023/0dde57ddbf3a55259eeb0e58f84cc95a> <https://colonialcollections.nl/schema#yearCreatedStart> "1924"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0dde57ddbf3a55259eeb0e58f84cc95a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1932"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0dde57ddbf3a55259eeb0e58f84cc95a> <https://colonialcollections.nl/schema#locationCreated> "Lombok Island" .
-<https://n2t.net/ark:/27023/0dde57ddbf3a55259eeb0e58f84cc95a> <https://colonialcollections.nl/schema#alternateName> "Lombok Island"@en .
-<https://n2t.net/ark:/27023/0dde57ddbf3a55259eeb0e58f84cc95a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

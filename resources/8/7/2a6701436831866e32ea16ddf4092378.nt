@@ -5,8 +5,3 @@
 <https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#locationCreated> "Ahmedabad" .
-<https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#alternateName> "Ahmedabad"@en .
-<https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#alternateName> "Amadavad" .
-<https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#alternateName> "Ahmedabad" .
-<https://n2t.net/ark:/27023/0cd73f19ae395c9adc3404c2018c7ca5> <https://colonialcollections.nl/schema#alternateName> "Ahmadābād" .

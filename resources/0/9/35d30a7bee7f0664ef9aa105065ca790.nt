@@ -7,3 +7,10 @@
 <https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#creator> "Josiah Onemu" .
 <https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#yearCreatedStart> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#locationCreated> "Nigeria" .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#alternateName> "Federal Republic of Nigeria" .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#alternateName> "Naija"@en .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#alternateName> "Nigeria" .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#alternateName> "Federation of Nigeria" .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#alternateName> "Republic of Songhai" .
+<https://n2t.net/ark:/27023/07ff1b581d8e93751031700fff92df7d> <https://colonialcollections.nl/schema#countryCreated> "Nigeria" .

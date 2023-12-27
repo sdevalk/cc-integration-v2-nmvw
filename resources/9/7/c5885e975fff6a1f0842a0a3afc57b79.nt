@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#locationCreated> "Khajuraho" .
-<https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#alternateName> "Khajrāho" .
-<https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#alternateName> "Khajuraho"@en .
-<https://n2t.net/ark:/27023/0767e1c4bfa88be7693f6e019b9e6556> <https://colonialcollections.nl/schema#alternateName> "Khajurāho" .

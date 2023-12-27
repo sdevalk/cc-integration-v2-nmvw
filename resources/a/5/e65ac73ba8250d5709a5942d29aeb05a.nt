@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#creator> "The modern picture publishers of India" .
 <https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#creator> "T.B. Vathy" .
 <https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/16512b00fde8a2dde07dab8c9018c3b8> <https://colonialcollections.nl/schema#countryCreated> "India" .

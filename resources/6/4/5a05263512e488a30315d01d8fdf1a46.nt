@@ -8,3 +8,13 @@
 <https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#inscription> "'Reproductierecht toegestaan voor een onbeperkt aantal afdrukken door 't atelier Eigen Klein. Afz. Wed. Eugen Klein, A. (?) Klein'met inkt achterop foto geschreven" .
 <https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#yearCreatedStart> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#locationCreated> "Suriname" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Dutch Guiana" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Nederlandisch Guyana" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Netherlands Guiana" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Surinam" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Nederlandsch Guyana" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Republic of Surinam" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Republic of Suriname"@en .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#alternateName> "Republiek van Suriname" .
+<https://n2t.net/ark:/27023/1551900cac7ab3a8c1364707b7a6a93f> <https://colonialcollections.nl/schema#countryCreated> "Suriname" .

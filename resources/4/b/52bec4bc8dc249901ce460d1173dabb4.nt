@@ -8,8 +8,8 @@
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#yearCreatedStart> "-1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#yearCreatedEnd> "-1200"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#locationCreated> "China" .
-<https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
+<https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#alternateName> "Zhonghua Renmin Gongheguo" .
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .
 <https://n2t.net/ark:/27023/0c457c61beb6a4f75f20864ef0e8d721> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .

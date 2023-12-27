@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/16e353bb8bf00777ff07f09cfd3275ab> <https://colonialcollections.nl/schema#inscription> "titel bij foto geschreven" .
 <https://n2t.net/ark:/27023/16e353bb8bf00777ff07f09cfd3275ab> <https://colonialcollections.nl/schema#yearCreatedStart> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/16e353bb8bf00777ff07f09cfd3275ab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1922"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/16e353bb8bf00777ff07f09cfd3275ab> <https://colonialcollections.nl/schema#locationCreated> "Kota Mataram" .
-<https://n2t.net/ark:/27023/16e353bb8bf00777ff07f09cfd3275ab> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

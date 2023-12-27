@@ -9,3 +9,6 @@
 <https://n2t.net/ark:/27023/0f526d2ee87fd008f092e7e01b0fadc4> <https://colonialcollections.nl/schema#inscription> "titel op etiket achterzijde\r\nnaam fotograaf 'by Powell and A.H. Thompson' en serie 'U.S. Topographical and Geologial Survey of the Colorado River of the West' gedrukt op karton" .
 <https://n2t.net/ark:/27023/0f526d2ee87fd008f092e7e01b0fadc4> <https://colonialcollections.nl/schema#yearCreatedStart> "1871"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0f526d2ee87fd008f092e7e01b0fadc4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/0f526d2ee87fd008f092e7e01b0fadc4> <https://colonialcollections.nl/schema#locationCreated> "Uinta Valley" .
+<https://n2t.net/ark:/27023/0f526d2ee87fd008f092e7e01b0fadc4> <https://colonialcollections.nl/schema#alternateName> "Uintah" .
+<https://n2t.net/ark:/27023/0f526d2ee87fd008f092e7e01b0fadc4> <https://colonialcollections.nl/schema#countryCreated> "United States" .
