@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#material> "katoen (met indigo geverfd); zijde; geborduurd" .
 <https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#locationCreated> "Gaza Strip" .
+<https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#alternateName> "Gaza Strip"@en .
+<https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#alternateName> "Qiţā` Ghazzah" .
+<https://n2t.net/ark:/27023/977be4b69cfa33d99b4be6414cf0420a> <https://colonialcollections.nl/schema#countryCreated> "Palestine" .

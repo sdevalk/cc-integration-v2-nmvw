@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#inscription> "2 regels inscriptie in nagari-schrift op sokkel" .
 <https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#yearCreatedStart> "800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#yearCreatedEnd> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/b568c2bdbeca30d2af327b276020d362> <https://colonialcollections.nl/schema#countryCreated> "India" .

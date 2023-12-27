@@ -6,8 +6,3 @@
 <https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#creator> "Multifilm, Batavia" .
 <https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#yearCreatedStart> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#locationCreated> "Borneo" .
-<https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#alternateName> "Borneo" .
-<https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#alternateName> "Kalimantan" .
-<https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#alternateName> "Kalimanten" .
-<https://n2t.net/ark:/27023/8ed96bbf5718f2db364bad37a053f7ad> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

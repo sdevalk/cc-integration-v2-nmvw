@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
 <https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#yearCreatedStart> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .
-<https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/960bf1428fe00843adf56803d3a2f6e6> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .

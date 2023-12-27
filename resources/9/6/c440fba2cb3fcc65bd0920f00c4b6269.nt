@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#creator> "Iba N'Diaye" .
 <https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/962c6944faa21173d1920f1a908a1842> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

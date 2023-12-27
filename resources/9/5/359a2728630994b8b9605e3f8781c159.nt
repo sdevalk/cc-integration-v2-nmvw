@@ -6,3 +6,11 @@
 <https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#creator> "A.P.H. (Albertus Paulus Hermanus) Hotz" .
 <https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#locationCreated> "Türkiye" .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#alternateName> "Türkei" .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#alternateName> "Turkey"@en .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#alternateName> "Turchia" .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#alternateName> "Tourkía" .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#alternateName> "Republic of Turkey"@en .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#alternateName> "Turquie" .
+<https://n2t.net/ark:/27023/8e4e34104f744b0c86bf3b6414eba174> <https://colonialcollections.nl/schema#countryCreated> "Türkiye" .

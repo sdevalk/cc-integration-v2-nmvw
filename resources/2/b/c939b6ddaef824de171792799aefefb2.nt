@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/96d0948508a9e33e12fddad0ee5b3040> <https://colonialcollections.nl/schema#creator> "Samson" .
 <https://n2t.net/ark:/27023/96d0948508a9e33e12fddad0ee5b3040> <https://colonialcollections.nl/schema#yearCreatedStart> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/96d0948508a9e33e12fddad0ee5b3040> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/96d0948508a9e33e12fddad0ee5b3040> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/96d0948508a9e33e12fddad0ee5b3040> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/96d0948508a9e33e12fddad0ee5b3040> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

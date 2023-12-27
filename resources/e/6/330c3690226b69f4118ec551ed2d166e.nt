@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#inscription> "naam in Nasta'liq- schrift op miniatuur\r\nOn the verso, vogel's annotation: ''Jagat Singh of Jaypur''." .
 <https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/9098534f88240dd55c107a5b927242e0> <https://colonialcollections.nl/schema#countryCreated> "India" .

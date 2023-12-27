@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#creator> "Ida Bagus Wiri" .
 <https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/8e78ce17eda65ceb4d8a4ea2a9efbb71> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

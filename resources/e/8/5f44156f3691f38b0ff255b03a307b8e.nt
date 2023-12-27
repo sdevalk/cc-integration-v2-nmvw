@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#yearCreatedStart> "1818"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#locationCreated> "Anantnag" .
+<https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#alternateName> "Anantnāg" .
+<https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#alternateName> "Islāmābād" .
+<https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#alternateName> "Islamabad" .
+<https://n2t.net/ark:/27023/5b4f21af772e1373c326299b6758f3f9> <https://colonialcollections.nl/schema#countryCreated> "India" .

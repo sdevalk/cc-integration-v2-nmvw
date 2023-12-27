@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/8ebc1bae3101c81018559d8467c7c650> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/8ebc1bae3101c81018559d8467c7c650> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8ebc1bae3101c81018559d8467c7c650> <https://colonialcollections.nl/schema#yearCreatedEnd> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8ebc1bae3101c81018559d8467c7c650> <https://colonialcollections.nl/schema#locationCreated> "Pakistan" .
+<https://n2t.net/ark:/27023/8ebc1bae3101c81018559d8467c7c650> <https://colonialcollections.nl/schema#alternateName> "Islamic Republic of Pakistan"@en .
+<https://n2t.net/ark:/27023/8ebc1bae3101c81018559d8467c7c650> <https://colonialcollections.nl/schema#countryCreated> "Pakistan" .

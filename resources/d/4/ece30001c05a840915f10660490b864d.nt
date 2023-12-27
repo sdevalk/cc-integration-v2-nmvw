@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/b4dda8e52b7a86b455b671816cbd739c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/b4dda8e52b7a86b455b671816cbd739c> <https://colonialcollections.nl/schema#creator> "K. ( Kanlanfei) Danaye" .
 <https://n2t.net/ark:/27023/b4dda8e52b7a86b455b671816cbd739c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b4dda8e52b7a86b455b671816cbd739c> <https://colonialcollections.nl/schema#locationCreated> "Yangon" .
-<https://n2t.net/ark:/27023/b4dda8e52b7a86b455b671816cbd739c> <https://colonialcollections.nl/schema#alternateName> "Rangoon"@en .
-<https://n2t.net/ark:/27023/b4dda8e52b7a86b455b671816cbd739c> <https://colonialcollections.nl/schema#alternateName> "Dagon" .

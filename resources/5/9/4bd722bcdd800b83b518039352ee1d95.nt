@@ -7,7 +7,3 @@
 <https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#creator> "Van Oosterom" .
 <https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#yearCreatedStart> "1855"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#locationCreated> "Semarang Regency" .
-<https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#alternateName> "Semarang" .
-<https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#alternateName> "Semarang Regency"@en .
-<https://n2t.net/ark:/27023/989b16b763890992b46fa3efaacc4fd0> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

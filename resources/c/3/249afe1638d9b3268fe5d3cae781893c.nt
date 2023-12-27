@@ -10,8 +10,3 @@
 <https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#inscription> "titel en plaatnummer 'Taf. 6.' resp. onder en rechtsboven gedrukt" .
 <https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#locationCreated> "Borneo" .
-<https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#alternateName> "Kalimanten" .
-<https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#alternateName> "Borneo" .
-<https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#alternateName> "Kalimantan" .
-<https://n2t.net/ark:/27023/9655ffccb9114f7159f4744772e8b1a5> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

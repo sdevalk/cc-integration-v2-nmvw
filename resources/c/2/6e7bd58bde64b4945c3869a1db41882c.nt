@@ -7,3 +7,5 @@
 <https://n2t.net/ark:/27023/8f730d8ae45160e38a7a893dbb9a7a4e> <https://colonialcollections.nl/schema#creator> "Moussa Kante" .
 <https://n2t.net/ark:/27023/8f730d8ae45160e38a7a893dbb9a7a4e> <https://colonialcollections.nl/schema#yearCreatedStart> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8f730d8ae45160e38a7a893dbb9a7a4e> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8f730d8ae45160e38a7a893dbb9a7a4e> <https://colonialcollections.nl/schema#locationCreated> "Farabako" .
+<https://n2t.net/ark:/27023/8f730d8ae45160e38a7a893dbb9a7a4e> <https://colonialcollections.nl/schema#countryCreated> "Mali" .

@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#creator> "Turkey Tolson Tjupurrula" .
 <https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/8ef092f9070d1eb1865d6d5151c535cb> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -8,3 +8,9 @@
 <https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#inscription> "'780' geschreven in negatief" .
 <https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#yearCreatedEnd> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#locationCreated> "Anuradhapura" .
+<https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#alternateName> "Anuradhapur" .
+<https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#alternateName> "Aneuradhapura" .
+<https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#alternateName> "Anuradhapura Town" .
+<https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#alternateName> "Anuradhapura"@en .
+<https://n2t.net/ark:/27023/90053d10970876b5748f341a0e8b6127> <https://colonialcollections.nl/schema#countryCreated> "Sri Lanka" .

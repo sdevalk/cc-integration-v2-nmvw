@@ -5,3 +5,6 @@
 <https://n2t.net/ark:/27023/b450a8e6f4753efdedbd880b988b3e9c> <https://colonialcollections.nl/schema#creator> "Ans Westra" .
 <https://n2t.net/ark:/27023/b450a8e6f4753efdedbd880b988b3e9c> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b450a8e6f4753efdedbd880b988b3e9c> <https://colonialcollections.nl/schema#yearCreatedEnd> "2004"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b450a8e6f4753efdedbd880b988b3e9c> <https://colonialcollections.nl/schema#locationCreated> "Rotorua" .
+<https://n2t.net/ark:/27023/b450a8e6f4753efdedbd880b988b3e9c> <https://colonialcollections.nl/schema#alternateName> "Rotorua"@en .
+<https://n2t.net/ark:/27023/b450a8e6f4753efdedbd880b988b3e9c> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

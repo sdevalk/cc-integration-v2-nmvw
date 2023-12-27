@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/919b2af6923893508c73b7fdbb33ff0c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/919b2af6923893508c73b7fdbb33ff0c> <https://colonialcollections.nl/schema#yearCreatedStart> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/919b2af6923893508c73b7fdbb33ff0c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1888"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/919b2af6923893508c73b7fdbb33ff0c> <https://colonialcollections.nl/schema#locationCreated> "Kashan" .
-<https://n2t.net/ark:/27023/919b2af6923893508c73b7fdbb33ff0c> <https://colonialcollections.nl/schema#alternateName> "Kashan" .
-<https://n2t.net/ark:/27023/919b2af6923893508c73b7fdbb33ff0c> <https://colonialcollections.nl/schema#alternateName> "Kashan"@en .

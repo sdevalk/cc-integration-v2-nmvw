@@ -6,3 +6,13 @@
 <https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#yearCreatedStart> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#locationCreated> "Pulau Numfoor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Poelau Noemfoor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Pulau Numfoor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Noemfor Eiland" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Numfoor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Pulau Numfor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Noemfoor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Numfor" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#alternateName> "Noemfoer" .
+<https://n2t.net/ark:/27023/968e3595bb422ce33c5ea83a36b84009> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

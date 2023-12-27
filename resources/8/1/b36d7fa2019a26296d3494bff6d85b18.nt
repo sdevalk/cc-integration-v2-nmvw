@@ -5,9 +5,3 @@
 <https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#material> "katoen ; brokaat" .
 <https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#locationCreated> "Ixtahuacán" .
-<https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#alternateName> "San Ildefonso Ixtahuacán" .
-<https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#alternateName> "San Ildefonso" .
-<https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#alternateName> "Ixtahuacán" .
-<https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#alternateName> "Itzal" .
-<https://n2t.net/ark:/27023/8e885078dd36d0c005ec5f6de329dc7c> <https://colonialcollections.nl/schema#alternateName> "Istaguacán" .

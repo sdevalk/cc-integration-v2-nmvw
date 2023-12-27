@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#material> "hout ; koper" .
 <https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
-<https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
-<https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
-<https://n2t.net/ark:/27023/b4fa7ecc0ca7f2c7c0537abbde7b5c7a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

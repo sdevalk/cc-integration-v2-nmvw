@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#yearCreatedStart> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#locationCreated> "Aurangabad" .
+<https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#alternateName> "Aurangabad"@en .
+<https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#alternateName> "Aurangābād" .
+<https://n2t.net/ark:/27023/b5bd5debe776f4f1f08f01e73b46905b> <https://colonialcollections.nl/schema#countryCreated> "India" .

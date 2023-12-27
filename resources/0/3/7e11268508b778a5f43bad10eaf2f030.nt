@@ -6,3 +6,5 @@
 <https://n2t.net/ark:/27023/91058ea055057ecc1cd77fa75b09ed9a> <https://colonialcollections.nl/schema#creator> "Dijkstra-Viruly Verbrugge, E. W." .
 <https://n2t.net/ark:/27023/91058ea055057ecc1cd77fa75b09ed9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/91058ea055057ecc1cd77fa75b09ed9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/91058ea055057ecc1cd77fa75b09ed9a> <https://colonialcollections.nl/schema#locationCreated> "Kota Pagar Alam" .
+<https://n2t.net/ark:/27023/91058ea055057ecc1cd77fa75b09ed9a> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -5,9 +5,3 @@
 <https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#creator> "Uitgeversmaatschappij Weenink & Snel N.V." .
 <https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#locationCreated> "Garut Regency" .
-<https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#alternateName> "Garut Regency"@en .
-<https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Garut" .
-<https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Garut" .
-<https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#alternateName> "Garut" .
-<https://n2t.net/ark:/27023/9884ff9d9164825dbf08a8d4e66b97fd> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

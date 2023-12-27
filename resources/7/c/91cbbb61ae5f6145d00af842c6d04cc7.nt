@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#creator> "J. M. Chs. Nijland" .
 <https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Sumenep" .
+<https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#alternateName> "Sumenep" .
+<https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#alternateName> "Sumenep Regency" .
+<https://n2t.net/ark:/27023/b604534cd4df385220fdbc1321da8708> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

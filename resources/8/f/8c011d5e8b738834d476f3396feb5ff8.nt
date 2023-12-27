@@ -6,6 +6,14 @@
 <https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#yearCreatedStart> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1909"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#locationCreated> "Liberia" .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#locationCreated> "Ivory Coast" .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Côte d'Ivoire"@en .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Côte d’Ivoire"@en .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Costa de Marfil" .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Ivory Coast" .
 <https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Republic of Liberia" .
 <https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Liberia" .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Elfenbein-Küste" .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#alternateName> "Republic of Côte d’Ivoire"@en .
 <https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#countryCreated> "Liberia" .
+<https://n2t.net/ark:/27023/b5b08dcfeab957d4bfe656d58e7a47fc> <https://colonialcollections.nl/schema#countryCreated> "Ivory Coast" .

@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/b5687c7e5e63a22268c2a236c0eec096> <https://colonialcollections.nl/schema#creator> "Rusty Lowe" .
 <https://n2t.net/ark:/27023/b5687c7e5e63a22268c2a236c0eec096> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b5687c7e5e63a22268c2a236c0eec096> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b5687c7e5e63a22268c2a236c0eec096> <https://colonialcollections.nl/schema#locationCreated> "South Dakota" .
-<https://n2t.net/ark:/27023/b5687c7e5e63a22268c2a236c0eec096> <https://colonialcollections.nl/schema#alternateName> "State of South Dakota"@en .
-<https://n2t.net/ark:/27023/b5687c7e5e63a22268c2a236c0eec096> <https://colonialcollections.nl/schema#alternateName> "Coyote State"@en .

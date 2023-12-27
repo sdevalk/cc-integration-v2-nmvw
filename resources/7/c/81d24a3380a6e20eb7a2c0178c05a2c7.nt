@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#material> "vrucht (waaierpalm)" .
 <https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#locationCreated> "Zambia" .
+<https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#alternateName> "Zambia" .
+<https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia"@en .
+<https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#alternateName> "Republic of Zambia"@en .
+<https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#alternateName> "Northern Rhodesia" .
+<https://n2t.net/ark:/27023/993b0a230563778eafaf3590da10c49e> <https://colonialcollections.nl/schema#countryCreated> "Zambia" .

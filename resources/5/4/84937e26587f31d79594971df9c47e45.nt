@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#inscription> "van boven naar beneden : ibn Bahwani Dars ;\r\nHadrat Mir Muhyi d-Din" .
 <https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/b5dedb8b63610eb2628bc03be2ffdbcc> <https://colonialcollections.nl/schema#countryCreated> "India" .

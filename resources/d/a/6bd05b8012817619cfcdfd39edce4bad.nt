@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#creator> "Rerrkirrwanga Mununggurr" .
 <https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/992229b63e4b5bca5d9e43d388b8f076> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

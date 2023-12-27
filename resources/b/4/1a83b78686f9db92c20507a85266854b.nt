@@ -5,3 +5,12 @@
 <https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#creator> "museumfotograaf" .
 <https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#yearCreatedStart> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#yearCreatedEnd> "1980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#locationCreated> "Mexico" .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "Mèssico" .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "United Mexican States"@en .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "Republica Mexicana" .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "Mexican Republic"@en .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "Mexique" .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "República Méjico" .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#alternateName> "Mexiko" .
+<https://n2t.net/ark:/27023/98ba7756424ddb9604fa130040874940> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

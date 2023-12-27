@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#inscription> "\"With best wishes for the New Year 1913. Hirananda Sastri 18.XII.1913" .
 <https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/96dcba7d5a30b2a83b5d5e0551aa61ec> <https://colonialcollections.nl/schema#countryCreated> "India" .

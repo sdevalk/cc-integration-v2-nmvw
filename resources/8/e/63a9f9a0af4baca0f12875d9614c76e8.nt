@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/97c77f886cca56d31a8b69d7b232f21d> <https://colonialcollections.nl/schema#creator> "G.J. Verbeek" .
 <https://n2t.net/ark:/27023/97c77f886cca56d31a8b69d7b232f21d> <https://colonialcollections.nl/schema#yearCreatedStart> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/97c77f886cca56d31a8b69d7b232f21d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/97c77f886cca56d31a8b69d7b232f21d> <https://colonialcollections.nl/schema#locationCreated> "Jamaica" .
+<https://n2t.net/ark:/27023/97c77f886cca56d31a8b69d7b232f21d> <https://colonialcollections.nl/schema#alternateName> "Jamaica" .
+<https://n2t.net/ark:/27023/97c77f886cca56d31a8b69d7b232f21d> <https://colonialcollections.nl/schema#countryCreated> "Jamaica" .

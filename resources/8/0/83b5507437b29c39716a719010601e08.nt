@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#locationCreated> "Guyana" .
+<https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#alternateName> "Guyana" .
+<https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#alternateName> "British Guiana" .
+<https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#alternateName> "Co-operative Republic of Guyana" .
+<https://n2t.net/ark:/27023/8e907b3bd1ff835f70e616a4e829d4d7> <https://colonialcollections.nl/schema#countryCreated> "Guyana" .

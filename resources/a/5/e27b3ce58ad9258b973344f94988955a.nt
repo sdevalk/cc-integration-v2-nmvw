@@ -5,3 +5,10 @@
 <https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#yearCreatedStart> "1981"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#yearCreatedEnd> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#locationCreated> "Malaysia" .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#alternateName> "Federation of Malaysia" .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#alternateName> "Malaysia" .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#alternateName> "Federation of Malaya" .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#alternateName> "Persekutuan Tanah Melayu" .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#alternateName> "Persekutuan Tanah Malaysia" .
+<https://n2t.net/ark:/27023/906a664da1983387c10f80ca4159fa06> <https://colonialcollections.nl/schema#countryCreated> "Malaysia" .

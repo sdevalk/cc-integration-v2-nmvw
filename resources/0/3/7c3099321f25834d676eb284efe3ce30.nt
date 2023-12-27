@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#creator> "Amrapali Jewels" .
 <https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#yearCreatedStart> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#yearCreatedEnd> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/8e4353ad984d0d2c952a9fcdda15448a> <https://colonialcollections.nl/schema#countryCreated> "India" .

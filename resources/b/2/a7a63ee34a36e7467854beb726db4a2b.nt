@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/9173889dc0c165cfa8ade00c9530f5bf> <https://colonialcollections.nl/schema#creator> "Hanae Mori" .
 <https://n2t.net/ark:/27023/9173889dc0c165cfa8ade00c9530f5bf> <https://colonialcollections.nl/schema#yearCreatedStart> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9173889dc0c165cfa8ade00c9530f5bf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9173889dc0c165cfa8ade00c9530f5bf> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/9173889dc0c165cfa8ade00c9530f5bf> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/9173889dc0c165cfa8ade00c9530f5bf> <https://colonialcollections.nl/schema#countryCreated> "United States" .

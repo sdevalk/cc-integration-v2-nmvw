@@ -8,10 +8,3 @@
 <https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#inscription> "多舊魚 (literally ‘many old fish’)" .
 <https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#locationCreated> "Taiwan" .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#alternateName> "Republic of China" .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Republic of China"@en .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#alternateName> "Chung-hua Min-kuo" .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#alternateName> "Taiwan, Province of China" .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#alternateName> "Taiwan ROC"@en .
-<https://n2t.net/ark:/27023/5b8487a4ee5b16fd852d7a6deb81dae4> <https://colonialcollections.nl/schema#countryCreated> "Taiwan" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#material> "wol ; spiegelglas ; katoen ; kunststof ; metaal ; borduren ; met de hand vervaardigen" .
 <https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#locationCreated> "Kutch" .
-<https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#alternateName> "Kutch district"@en .
-<https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#alternateName> "Kachchh"@en .
-<https://n2t.net/ark:/27023/9026b6e224d65042088f3f63f7d2c3ec> <https://colonialcollections.nl/schema#alternateName> "Kachchh" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#creator> "Dolf Breetvelt" .
 <https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#yearCreatedEnd> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/90d236d252ebf85c1f6671c22d01b186> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

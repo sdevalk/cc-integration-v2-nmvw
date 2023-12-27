@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#creator> "M. (Michael) Cook" .
 <https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#yearCreatedStart> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#yearCreatedEnd> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/9815a3bb2076ad63cb2b99dec1959aa9> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

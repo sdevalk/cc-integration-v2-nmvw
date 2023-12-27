@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/b519117e65b634e9f608b795adc3c23b> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/b519117e65b634e9f608b795adc3c23b> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b519117e65b634e9f608b795adc3c23b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b519117e65b634e9f608b795adc3c23b> <https://colonialcollections.nl/schema#locationCreated> "Huixtán" .
-<https://n2t.net/ark:/27023/b519117e65b634e9f608b795adc3c23b> <https://colonialcollections.nl/schema#alternateName> "Huistán" .
-<https://n2t.net/ark:/27023/b519117e65b634e9f608b795adc3c23b> <https://colonialcollections.nl/schema#alternateName> "Huixtán" .

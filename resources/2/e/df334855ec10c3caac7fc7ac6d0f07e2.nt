@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#creator> "Batikkerij van Oosterom" .
 <https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#yearCreatedStart> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1883"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#locationCreated> "Banyumas Regency" .
-<https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Banjumas" .
-<https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#alternateName> "Banyumas Regency"@en .
-<https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Banjumas" .
-<https://n2t.net/ark:/27023/5b4766a809a9ae3c58c523ea77dd154f> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

@@ -5,9 +5,3 @@
 <https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#yearCreatedStart> "1905"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#locationCreated> "Kabupaten Indramayu" .
-<https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#alternateName> "Indramayu Regency" .
-<https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Indramaju" .
-<https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Indramaju" .
-<https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#alternateName> "Indramayu" .
-<https://n2t.net/ark:/27023/8fe649aa67da31a43a95141723cde47c> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

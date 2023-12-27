@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/8e1321579d08010c2cfef623bab7c1ba> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/8e1321579d08010c2cfef623bab7c1ba> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/8e1321579d08010c2cfef623bab7c1ba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8e1321579d08010c2cfef623bab7c1ba> <https://colonialcollections.nl/schema#locationCreated> "Pahuatlán de Valle" .
-<https://n2t.net/ark:/27023/8e1321579d08010c2cfef623bab7c1ba> <https://colonialcollections.nl/schema#alternateName> "Pahuatlán del Valle" .
-<https://n2t.net/ark:/27023/8e1321579d08010c2cfef623bab7c1ba> <https://colonialcollections.nl/schema#alternateName> "Pahuatlan" .

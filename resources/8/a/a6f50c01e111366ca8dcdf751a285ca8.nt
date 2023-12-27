@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/b6856316665b691c9e626562c8966241> <https://colonialcollections.nl/schema#countryCreated> "India" .

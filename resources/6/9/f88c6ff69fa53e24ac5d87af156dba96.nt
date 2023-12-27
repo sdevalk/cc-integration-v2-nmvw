@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#creator> "Gerard Weijers" .
 <https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#yearCreatedStart> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#yearCreatedEnd> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#locationCreated> "Pattan" .
+<https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#alternateName> "Pattan" .
+<https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#alternateName> "Patan" .
+<https://n2t.net/ark:/27023/991ab7a8ad6c198de780c2211e94a164> <https://colonialcollections.nl/schema#countryCreated> "India" .

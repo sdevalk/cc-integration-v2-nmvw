@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#yearCreatedStart> "1852"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#yearCreatedEnd> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#locationCreated> "North Sumatra" .
-<https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#alternateName> "Andalas Utara" .
-<https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#alternateName> "North Sumatra"@en .
-<https://n2t.net/ark:/27023/97bb29d75be05cf6254536aaa123b936> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

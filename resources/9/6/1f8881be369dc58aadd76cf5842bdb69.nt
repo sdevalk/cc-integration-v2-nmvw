@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/97a84811114c96b24dd39ce135a93e9d> <https://colonialcollections.nl/schema#creator> "Handah Garcia" .
 <https://n2t.net/ark:/27023/97a84811114c96b24dd39ce135a93e9d> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/97a84811114c96b24dd39ce135a93e9d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/97a84811114c96b24dd39ce135a93e9d> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/97a84811114c96b24dd39ce135a93e9d> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/97a84811114c96b24dd39ce135a93e9d> <https://colonialcollections.nl/schema#countryCreated> "United States" .
