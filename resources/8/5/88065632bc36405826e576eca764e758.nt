@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#creator> "Freddy Timms (Nagarrmaliny)" .
 <https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/1c8b7a6df2cef4238ac2ee5416791889> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -4,7 +4,3 @@
 <https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#description> "Vermoedelijk greep van een waaier." .
 <https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/2d1f61a7cf2ac85d35df2b38b9771992> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

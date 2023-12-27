@@ -7,3 +7,13 @@
 <https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#creator> "Hanae Mori" .
 <https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#countryCreated> "United States" .
+<https://n2t.net/ark:/27023/2369f67fb27634a47263d59532ce1a6b> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

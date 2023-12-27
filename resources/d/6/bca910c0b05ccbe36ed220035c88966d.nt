@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/7c3adee8edc29cc8deac5fa9c5624010> <https://colonialcollections.nl/schema#creator> "Darling Kero" .
 <https://n2t.net/ark:/27023/7c3adee8edc29cc8deac5fa9c5624010> <https://colonialcollections.nl/schema#yearCreatedStart> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7c3adee8edc29cc8deac5fa9c5624010> <https://colonialcollections.nl/schema#yearCreatedEnd> "2002"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7c3adee8edc29cc8deac5fa9c5624010> <https://colonialcollections.nl/schema#locationCreated> "Collingwood Bay" .
-<https://n2t.net/ark:/27023/7c3adee8edc29cc8deac5fa9c5624010> <https://colonialcollections.nl/schema#alternateName> "Collingwood Bay" .

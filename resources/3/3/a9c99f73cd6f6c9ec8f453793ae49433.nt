@@ -8,8 +8,8 @@
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#locationCreated> "China" .
-<https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#alternateName> "中国" .
+<https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#alternateName> "People’s Republic of China"@en .
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#alternateName> "People's Republic of China"@en .
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#alternateName> "中华人民共和国" .
 <https://n2t.net/ark:/27023/7bdc199db843d8607db0fbd00c5ba627> <https://colonialcollections.nl/schema#alternateName> "Zhongguo" .

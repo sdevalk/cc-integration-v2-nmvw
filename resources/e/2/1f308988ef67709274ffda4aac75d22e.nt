@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/2c49b189751b632df110b29ce65f11c8> <https://colonialcollections.nl/schema#material> "katoen" .
 <https://n2t.net/ark:/27023/2c49b189751b632df110b29ce65f11c8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2c49b189751b632df110b29ce65f11c8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2c49b189751b632df110b29ce65f11c8> <https://colonialcollections.nl/schema#locationCreated> "San Sebastián Huehuetenango" .
-<https://n2t.net/ark:/27023/2c49b189751b632df110b29ce65f11c8> <https://colonialcollections.nl/schema#alternateName> "San Sebastián Huehuetenango" .
-<https://n2t.net/ark:/27023/2c49b189751b632df110b29ce65f11c8> <https://colonialcollections.nl/schema#alternateName> "San Sebastián" .

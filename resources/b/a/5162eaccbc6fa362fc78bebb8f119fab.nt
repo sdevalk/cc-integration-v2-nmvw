@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#inscription> "2 regels in nagari / Takri schrift aan voorzijde geven een korte beschrijving van de scene; drie regels tekst aan achterzijde  omvat de naam van Lala Naturam" .
 <https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#yearCreatedStart> "1790"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#yearCreatedEnd> "1820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/24ce0f47e752f0ec3e3459ad5b0f4672> <https://colonialcollections.nl/schema#countryCreated> "India" .

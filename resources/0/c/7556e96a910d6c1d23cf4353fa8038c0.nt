@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/7c01c7cbbc947ac5499c409cef96825c> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

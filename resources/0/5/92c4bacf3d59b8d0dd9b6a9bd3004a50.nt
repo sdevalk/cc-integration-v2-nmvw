@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#inscription> "[T] RNG & RA" .
 <https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#locationCreated> "Cabinda" .
-<https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#alternateName> "Província de Cabinda" .
-<https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#alternateName> "Distrito de Cabinda" .
-<https://n2t.net/ark:/27023/266608974848a51c08523adc893e6585> <https://colonialcollections.nl/schema#alternateName> "Kabinda" .

@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#material> "messing ; verlorenwasgietprocedé" .
 <https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#locationCreated> "Bobo-Dioulasso" .
-<https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#alternateName> "Bobo-Diulasso" .
-<https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#alternateName> "Bobo-Dioulasso"@en .
-<https://n2t.net/ark:/27023/2afdbc8d639f7cff13ed2171eafa579c> <https://colonialcollections.nl/schema#alternateName> "Bobo-Dioulasso" .

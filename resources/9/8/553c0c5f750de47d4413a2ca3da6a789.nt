@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#creator> "G.J. (Gerhardus Jacobus) Pretorius" .
 <https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#locationCreated> "Pretoria" .
+<https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#alternateName> "Pretoria"@en .
+<https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#alternateName> "Tshwane" .
+<https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#alternateName> "Pta" .
+<https://n2t.net/ark:/27023/2e4c9dd60a58502842f7aefcfce42b95> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

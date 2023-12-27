@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#creator> "J. (John) Davis" .
 <https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#yearCreatedStart> "1898"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#locationCreated> "Manuae" .
+<https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#alternateName> "Manuae Island" .
+<https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#alternateName> "Manuae"@en .
+<https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#alternateName> "Manuae" .
+<https://n2t.net/ark:/27023/7bbc782193553cc526295b8bde73262d> <https://colonialcollections.nl/schema#countryCreated> "Cook Islands" .

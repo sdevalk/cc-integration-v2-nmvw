@@ -6,6 +6,3 @@
 <https://n2t.net/ark:/27023/7af4b96fb818f3ed4889a3dc8bf35110> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/7af4b96fb818f3ed4889a3dc8bf35110> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7af4b96fb818f3ed4889a3dc8bf35110> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7af4b96fb818f3ed4889a3dc8bf35110> <https://colonialcollections.nl/schema#locationCreated> "Pahuatlán de Valle" .
-<https://n2t.net/ark:/27023/7af4b96fb818f3ed4889a3dc8bf35110> <https://colonialcollections.nl/schema#alternateName> "Pahuatlán del Valle" .
-<https://n2t.net/ark:/27023/7af4b96fb818f3ed4889a3dc8bf35110> <https://colonialcollections.nl/schema#alternateName> "Pahuatlan" .

@@ -8,7 +8,3 @@
 <https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#inscription> "titel & nummer & signering & datering met inkt geschreven op achterzijde karton: \"reproductie Miedema maart 1915 & foto Hotz 27/6 1885\"" .
 <https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#locationCreated> "Isfahan" .
-<https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#alternateName> "Isfahan"@en .
-<https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#alternateName> "Isfahan" .
-<https://n2t.net/ark:/27023/23078fc2177a55aef4b17fa97b53e4c0> <https://colonialcollections.nl/schema#alternateName> "Aspadana" .

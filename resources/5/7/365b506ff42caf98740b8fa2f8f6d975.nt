@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#creator> "Oumar Ly" .
 <https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#yearCreatedStart> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/1e6fea89f9fa4094c3aab034850f7a2e> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

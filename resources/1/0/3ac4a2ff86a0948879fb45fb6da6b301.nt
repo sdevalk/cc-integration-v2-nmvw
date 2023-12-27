@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#creator> "Dhr. H. (Harm) Thijssen" .
 <https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#yearCreatedStart> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#yearCreatedEnd> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/7cac181bde9c713c8ed2a17409cb5b26> <https://colonialcollections.nl/schema#countryCreated> "India" .

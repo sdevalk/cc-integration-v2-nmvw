@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#creator> "Gustavo Milet" .
 <https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#locationCreated> "Chile" .
+<https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#alternateName> "Republic of Chile"@en .
+<https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#alternateName> "República de Chile" .
+<https://n2t.net/ark:/27023/7b4eb2a5d564da16637a4cd8652feb0f> <https://colonialcollections.nl/schema#countryCreated> "Chile" .

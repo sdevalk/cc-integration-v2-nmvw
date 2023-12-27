@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#creator> "T. J. (Tjupurrula Johnny) Yungut" .
 <https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#yearCreatedStart> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/2d024127d9d98d55fc86e260e3052a3b> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#creator> "Woodbury & Page" .
 <https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#yearCreatedStart> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/7b84e7c890113e9bdf03301a4081ea1c> <https://colonialcollections.nl/schema#countryCreated> "India" .

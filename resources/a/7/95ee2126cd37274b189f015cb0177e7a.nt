@@ -8,3 +8,8 @@
 <https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#inscription> "titel en nummer gedrukt op karton, serietitel gedrukt op titelblad" .
 <https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#yearCreatedStart> "1874"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#locationCreated> "Masjed Soleymān" .
+<https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#alternateName> "Masjid-i-Sulaiman" .
+<https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#alternateName> "Masjed Soleymān" .
+<https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#alternateName> "Masjed Soleiman" .
+<https://n2t.net/ark:/27023/1deda147dad0acc78b1fbafeeb600881> <https://colonialcollections.nl/schema#countryCreated> "Iran" .

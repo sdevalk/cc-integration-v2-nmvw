@@ -6,3 +6,11 @@
 <https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#locationCreated> "Mount Fuji" .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#alternateName> "Huzi San" .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#alternateName> "Fujiyama"@en .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#alternateName> "Fusiyama" .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#alternateName> "Fuji-no-Yama" .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#alternateName> "Fuji-san" .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#alternateName> "Fuji Mountain" .
+<https://n2t.net/ark:/27023/25457af4c8d638ca53020b72bce4bb91> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

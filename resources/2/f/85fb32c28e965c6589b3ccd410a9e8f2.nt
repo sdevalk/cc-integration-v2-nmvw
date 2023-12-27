@@ -8,8 +8,3 @@
 <https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#inscription> "titel gedrukt op voorzijde, postscriptie in inkt achterzijde, postscriptie in inkt; achterzijde, aan J.J. van Leeuwen, Rotterdam van Pau Praugjeu, Singapore" .
 <https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#locationCreated> "Borneo" .
-<https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#alternateName> "Borneo" .
-<https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#alternateName> "Kalimanten" .
-<https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#alternateName> "Kalimantan" .
-<https://n2t.net/ark:/27023/2c9dac4e913049e21ee86547eff105fe> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

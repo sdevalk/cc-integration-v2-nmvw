@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#inscription> "titel en datum met inkt achterop karton geschreven" .
 <https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#yearCreatedStart> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#yearCreatedEnd> "1893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#locationCreated> "Quilmes" .
+<https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#alternateName> "Quilmes"@en .
+<https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#alternateName> "Quilmes" .
+<https://n2t.net/ark:/27023/2627dba0252e2c8b8df272c1769d0844> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .

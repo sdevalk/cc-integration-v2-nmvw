@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#inscription> "titel geschreven op achterzijde foto [handschrift Ten Kate], nu als kopie bewaard bij foto" .
 <https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#locationCreated> "Argentina" .
+<https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#alternateName> "La Argentina" .
+<https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#alternateName> "Argentine Republic"@en .
+<https://n2t.net/ark:/27023/25d5cf40cca1b36dc68aa05354f361d9> <https://colonialcollections.nl/schema#countryCreated> "Argentina" .

@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/2cb30d55a6286a340bf8b0172046c014> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

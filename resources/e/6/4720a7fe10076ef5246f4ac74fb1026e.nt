@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#creator> "Guo Moruo (郭沫若)" .
 <https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#inscription> "無限蕭迹意\r\n亭亭尺幅中\r\n嚴陵今世少\r\n難怪釣臺空\r\n\r\nOneindig zijn de plechtige sporen van het verleden\r\nVerheven staan zij hier op deze schildering\r\nMaar zoals Yan Guang zijn er nu maar weinig\r\nGeen wonder dat de vissersplaats leeg is\r\n\r\n癸酉夏日晴靄女史作此畫成囑題賦此以應沫若\r\nOp een zomerdag in het guiyou jaar (1933) maakte mevrouw Seigei deze schildering. Als antwoord schreef ik deze inscriptie. Moruo." .
 <https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#yearCreatedStart> "1933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/7b69024b8acf94aabf1365b951c3f41b> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

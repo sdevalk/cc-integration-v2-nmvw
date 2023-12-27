@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/1cfe829fc2a38ccd1d528fa5c8d44712> <https://colonialcollections.nl/schema#inscription> "titel ; voorzijde ; gedrukt / nummer ; voorzijde ; rechterboven hoek" .
 <https://n2t.net/ark:/27023/1cfe829fc2a38ccd1d528fa5c8d44712> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1cfe829fc2a38ccd1d528fa5c8d44712> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1cfe829fc2a38ccd1d528fa5c8d44712> <https://colonialcollections.nl/schema#locationCreated> "Tozeur" .
-<https://n2t.net/ark:/27023/1cfe829fc2a38ccd1d528fa5c8d44712> <https://colonialcollections.nl/schema#alternateName> "Tozeur" .
-<https://n2t.net/ark:/27023/1cfe829fc2a38ccd1d528fa5c8d44712> <https://colonialcollections.nl/schema#alternateName> "Tawzar" .

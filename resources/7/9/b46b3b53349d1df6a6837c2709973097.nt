@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#inscription> "naam van Nihal Singh en jaar 1901 op achterzijde" .
 <https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#yearCreatedEnd> "1850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/2d6234ee58b5e01ff12eb07b17b5c355> <https://colonialcollections.nl/schema#countryCreated> "India" .

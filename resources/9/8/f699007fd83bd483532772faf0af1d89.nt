@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#creator> "Leroux, A." .
 <https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#yearCreatedStart> "1875"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#locationCreated> "Constantine" .
+<https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#alternateName> "Constantine"@en .
+<https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#alternateName> "Constantine" .
+<https://n2t.net/ark:/27023/1e1b50c3b04af578cd0dbc19ef2d0adb> <https://colonialcollections.nl/schema#countryCreated> "Algeria" .

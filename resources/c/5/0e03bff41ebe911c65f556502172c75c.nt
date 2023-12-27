@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/265b57be12d53752539572d302cc21e0> <https://colonialcollections.nl/schema#creator> "Colleen Waata Urlich" .
 <https://n2t.net/ark:/27023/265b57be12d53752539572d302cc21e0> <https://colonialcollections.nl/schema#yearCreatedStart> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/265b57be12d53752539572d302cc21e0> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/265b57be12d53752539572d302cc21e0> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/265b57be12d53752539572d302cc21e0> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/265b57be12d53752539572d302cc21e0> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

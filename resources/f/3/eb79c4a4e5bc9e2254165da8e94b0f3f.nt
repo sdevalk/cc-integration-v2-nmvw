@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#material> "messing ; tin ; vertinnen ; metaalbewerken ; pointillé" .
 <https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/2e3cbd260db771b324ba75cbfd90f8d5> <https://colonialcollections.nl/schema#countryCreated> "India" .

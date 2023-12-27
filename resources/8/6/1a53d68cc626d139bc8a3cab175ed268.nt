@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#inscription> "Mkutano wa 43 wa ekaristi 1985 Pope John Paul II" .
 <https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#yearCreatedStart> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/2c32ff3ae4ddc0b24393c2080dc0f820> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .

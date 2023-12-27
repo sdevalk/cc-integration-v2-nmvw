@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/1e618b55be75b83871ac614918a009cd> <https://colonialcollections.nl/schema#creator> "Per D. Brodersen" .
 <https://n2t.net/ark:/27023/1e618b55be75b83871ac614918a009cd> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1e618b55be75b83871ac614918a009cd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1e618b55be75b83871ac614918a009cd> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

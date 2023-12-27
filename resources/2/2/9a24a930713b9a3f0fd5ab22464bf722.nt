@@ -8,6 +8,3 @@
 <https://n2t.net/ark:/27023/7cab53d9a2861f998e170a794a909093> <https://colonialcollections.nl/schema#inscription> "plaatsnaam van titel geschreven in negatief, rest van titel en debeschrijving met inkt geschreven op achterzijde" .
 <https://n2t.net/ark:/27023/7cab53d9a2861f998e170a794a909093> <https://colonialcollections.nl/schema#yearCreatedStart> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7cab53d9a2861f998e170a794a909093> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7cab53d9a2861f998e170a794a909093> <https://colonialcollections.nl/schema#locationCreated> "Kota Bukittinggi" .
-<https://n2t.net/ark:/27023/7cab53d9a2861f998e170a794a909093> <https://colonialcollections.nl/schema#alternateName> "Kotapradja Bukittinggi" .
-<https://n2t.net/ark:/27023/7cab53d9a2861f998e170a794a909093> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

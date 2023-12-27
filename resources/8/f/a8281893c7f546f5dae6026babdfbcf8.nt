@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#creator> "Jacky Narwilil" .
 <https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/2bde437666503ef9c12d2bbab7e7a147> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -5,6 +5,3 @@
 <https://n2t.net/ark:/27023/2ada8a74e07e61db7dce293023882d17> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/2ada8a74e07e61db7dce293023882d17> <https://colonialcollections.nl/schema#creator> "Yoshishige" .
 <https://n2t.net/ark:/27023/2ada8a74e07e61db7dce293023882d17> <https://colonialcollections.nl/schema#yearCreatedStart> "1847"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2ada8a74e07e61db7dce293023882d17> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/2ada8a74e07e61db7dce293023882d17> <https://colonialcollections.nl/schema#alternateName> "Osaka" .
-<https://n2t.net/ark:/27023/2ada8a74e07e61db7dce293023882d17> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .

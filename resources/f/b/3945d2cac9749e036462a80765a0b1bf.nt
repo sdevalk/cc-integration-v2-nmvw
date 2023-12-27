@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#creator> "Chambi, M." .
 <https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#locationCreated> "Santiago de Pupuja" .
+<https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#alternateName> "Santiago de Pupuja" .
+<https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#alternateName> "Pupuja" .
+<https://n2t.net/ark:/27023/1c74f146f4e5b943c931fd03939d44e4> <https://colonialcollections.nl/schema#countryCreated> "Peru" .

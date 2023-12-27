@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#yearCreatedStart> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#locationCreated> "Uzbekistan" .
+<https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#alternateName> "Republic of Uzbekistan"@en .
+<https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#alternateName> "Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika" .
+<https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#alternateName> "Uzbek Soviet Socialist Republic" .
+<https://n2t.net/ark:/27023/25663e12443453f6f239d31cc83ac73c> <https://colonialcollections.nl/schema#countryCreated> "Uzbekistan" .

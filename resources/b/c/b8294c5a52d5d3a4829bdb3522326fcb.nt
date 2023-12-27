@@ -5,3 +5,4 @@
 <https://n2t.net/ark:/27023/2383d2b704c927d659fd942fe6fb8a2b> <https://colonialcollections.nl/schema#creator> "Nukardleq Najâraq Eva Høegh" .
 <https://n2t.net/ark:/27023/2383d2b704c927d659fd942fe6fb8a2b> <https://colonialcollections.nl/schema#yearCreatedStart> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2383d2b704c927d659fd942fe6fb8a2b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2383d2b704c927d659fd942fe6fb8a2b> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

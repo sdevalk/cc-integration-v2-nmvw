@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/2e0876c2218d4493026f7c4e65a18549> <https://colonialcollections.nl/schema#creator> "S. (Shona) Tawhiao" .
 <https://n2t.net/ark:/27023/2e0876c2218d4493026f7c4e65a18549> <https://colonialcollections.nl/schema#yearCreatedStart> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2e0876c2218d4493026f7c4e65a18549> <https://colonialcollections.nl/schema#yearCreatedEnd> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/2e0876c2218d4493026f7c4e65a18549> <https://colonialcollections.nl/schema#locationCreated> "New Zealand" .
+<https://n2t.net/ark:/27023/2e0876c2218d4493026f7c4e65a18549> <https://colonialcollections.nl/schema#alternateName> "Dominion of New Zealand" .
+<https://n2t.net/ark:/27023/2e0876c2218d4493026f7c4e65a18549> <https://colonialcollections.nl/schema#countryCreated> "New Zealand" .

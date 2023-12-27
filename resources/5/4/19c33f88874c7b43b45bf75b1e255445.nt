@@ -6,4 +6,3 @@
 <https://n2t.net/ark:/27023/2ab0eeec4a382a4b0173115fb86eed6f> <https://colonialcollections.nl/schema#creator> "HOA-QUI" .
 <https://n2t.net/ark:/27023/2ab0eeec4a382a4b0173115fb86eed6f> <https://colonialcollections.nl/schema#yearCreatedStart> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/2ab0eeec4a382a4b0173115fb86eed6f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/2ab0eeec4a382a4b0173115fb86eed6f> <https://colonialcollections.nl/schema#locationCreated> "Western Africa" .

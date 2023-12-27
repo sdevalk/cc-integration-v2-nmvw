@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#creator> "dhr. A. A. (Asgar Ali) Khan" .
 <https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#locationCreated> "Kara" .
+<https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#alternateName> "Karā" .
+<https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#alternateName> "Kara" .
+<https://n2t.net/ark:/27023/7bec95c3e47afd7a0a74aa96fe1d3e20> <https://colonialcollections.nl/schema#countryCreated> "India" .

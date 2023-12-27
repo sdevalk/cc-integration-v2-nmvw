@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#locationCreated> "San José" .
+<https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#alternateName> "San José"@en .
+<https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#alternateName> "San José" .
+<https://n2t.net/ark:/27023/7cbae1cb4e680c79dd91a160ef9db45e> <https://colonialcollections.nl/schema#countryCreated> "Costa Rica" .

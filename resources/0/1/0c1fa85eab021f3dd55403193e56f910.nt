@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/1d4983bfbefee8921657a49fe9180fe8> <https://colonialcollections.nl/schema#creator> "Newman Post Card Co." .
 <https://n2t.net/ark:/27023/1d4983bfbefee8921657a49fe9180fe8> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1d4983bfbefee8921657a49fe9180fe8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1d4983bfbefee8921657a49fe9180fe8> <https://colonialcollections.nl/schema#locationCreated> "North America" .

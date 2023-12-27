@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#creator> "Hubertus Nicolaas Sieburgh" .
 <https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#yearCreatedStart> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#locationCreated> "Banjarnegara Regency" .
+<https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#alternateName> "Banjarnegara Regency"@en .
+<https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#alternateName> "Banjarnegara" .
+<https://n2t.net/ark:/27023/7c2186337a0ab0fd2edb186218fea7f7> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

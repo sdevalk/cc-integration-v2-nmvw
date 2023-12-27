@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#creator> "Irene Mungatopi" .
 <https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#yearCreatedStart> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#yearCreatedEnd> "1997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/7c8d2bd06672d9b63995d792e833b266> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

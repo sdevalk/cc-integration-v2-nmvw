@@ -5,3 +5,9 @@
 <https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#yearCreatedStart> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#locationCreated> "Kenya" .
+<https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#alternateName> "Jamhuri ya Kenya" .
+<https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#alternateName> "Kenia" .
+<https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#alternateName> "Kenya" .
+<https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#alternateName> "Republic of Kenya" .
+<https://n2t.net/ark:/27023/7af6fb9523484aa5f67dd151da154741> <https://colonialcollections.nl/schema#countryCreated> "Kenya" .
