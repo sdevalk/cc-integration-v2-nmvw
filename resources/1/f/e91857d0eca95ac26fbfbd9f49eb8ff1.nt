@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#creator> "Missiehuis Heilig Hart, Tilburg" .
 <https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#yearCreatedStart> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#locationCreated> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#alternateName> "Papua New Guinea" .
+<https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#alternateName> "Independent State of Papua New Guinea" .
+<https://n2t.net/ark:/27023/a2c3c7b215fdc5e37cd596f650bd8205> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

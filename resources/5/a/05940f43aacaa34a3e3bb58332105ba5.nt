@@ -6,3 +6,9 @@
 <https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#yearCreatedStart> "1860"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#locationCreated> "Jabalpur" .
+<https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#alternateName> "Jabalpur"@en .
+<https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#alternateName> "Jabalpur district"@en .
+<https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#alternateName> "Jabalpur" .
+<https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#alternateName> "Jubbulpore District" .
+<https://n2t.net/ark:/27023/9b55954be47a6a5d77a0cdda67bedada> <https://colonialcollections.nl/schema#countryCreated> "India" .

@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#locationCreated> "El Tajín" .
+<https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#alternateName> "El Tajín"@en .
+<https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#alternateName> "El Tajín" .
+<https://n2t.net/ark:/27023/a46b33fc262e2afc8d5178172234ff0d> <https://colonialcollections.nl/schema#countryCreated> "Mexico" .

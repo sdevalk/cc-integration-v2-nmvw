@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#inscription> "cijfer 2 in nagari-schrift, op voorkant van miniatuur." .
 <https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#yearCreatedStart> "1775"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/a8f98d55e79be3878ae657a265986097> <https://colonialcollections.nl/schema#countryCreated> "India" .

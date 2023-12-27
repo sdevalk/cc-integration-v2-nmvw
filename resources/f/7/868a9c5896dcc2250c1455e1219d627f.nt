@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/9b7d3dadb218a771d9487f25cb73d4ab> <https://colonialcollections.nl/schema#creator> "Kenneth Miles" .
 <https://n2t.net/ark:/27023/9b7d3dadb218a771d9487f25cb73d4ab> <https://colonialcollections.nl/schema#yearCreatedStart> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9b7d3dadb218a771d9487f25cb73d4ab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1954"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9b7d3dadb218a771d9487f25cb73d4ab> <https://colonialcollections.nl/schema#locationCreated> "Tuba City" .
-<https://n2t.net/ark:/27023/9b7d3dadb218a771d9487f25cb73d4ab> <https://colonialcollections.nl/schema#alternateName> "Tuba" .

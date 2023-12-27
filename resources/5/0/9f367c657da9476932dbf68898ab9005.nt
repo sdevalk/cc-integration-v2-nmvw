@@ -5,3 +5,8 @@
 <https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#yearCreatedStart> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#locationCreated> "Tahla" .
+<https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#alternateName> "Tahla" .
+<https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#alternateName> "Tahala" .
+<https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#alternateName> "El Ayba Tahalla" .
+<https://n2t.net/ark:/27023/aa574c2f3fdc49c866616dfbde1e6bcc> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

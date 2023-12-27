@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/9cfe6698cea9e691eb85f08b60f156fa> <https://colonialcollections.nl/schema#inscription> "I-509" .
 <https://n2t.net/ark:/27023/9cfe6698cea9e691eb85f08b60f156fa> <https://colonialcollections.nl/schema#yearCreatedStart> "1803"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9cfe6698cea9e691eb85f08b60f156fa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1803"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9cfe6698cea9e691eb85f08b60f156fa> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/9cfe6698cea9e691eb85f08b60f156fa> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/9cfe6698cea9e691eb85f08b60f156fa> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

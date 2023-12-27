@@ -5,5 +5,3 @@
 <https://n2t.net/ark:/27023/a1da66b4e2475ae4dec9ac66a0c28931> <https://colonialcollections.nl/schema#creator> "Th.J.J. Leyenaar" .
 <https://n2t.net/ark:/27023/a1da66b4e2475ae4dec9ac66a0c28931> <https://colonialcollections.nl/schema#yearCreatedStart> "1969"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a1da66b4e2475ae4dec9ac66a0c28931> <https://colonialcollections.nl/schema#yearCreatedEnd> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a1da66b4e2475ae4dec9ac66a0c28931> <https://colonialcollections.nl/schema#locationCreated> "Metepec" .
-<https://n2t.net/ark:/27023/a1da66b4e2475ae4dec9ac66a0c28931> <https://colonialcollections.nl/schema#alternateName> "Metepec" .

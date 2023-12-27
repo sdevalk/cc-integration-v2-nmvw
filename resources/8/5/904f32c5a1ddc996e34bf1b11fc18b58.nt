@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#creator> "I Gerembuang" .
 <https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#yearCreatedStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#locationCreated> "Bali" .
-<https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#alternateName> "Bali"@en .
-<https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#alternateName> "Pulau Bali" .
-<https://n2t.net/ark:/27023/a47dc551fcc20c8edbb830d42e58792b> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

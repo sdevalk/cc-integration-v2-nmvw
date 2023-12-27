@@ -6,7 +6,3 @@
 <https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#creator> "Fotostudio Iman" .
 <https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#yearCreatedStart> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#yearCreatedEnd> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#locationCreated> "Baghdad" .
-<https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#alternateName> "Baghdad"@en .
-<https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#alternateName> "Bagdad" .
-<https://n2t.net/ark:/27023/a2b319bda7d747286d0d17f49166a4c2> <https://colonialcollections.nl/schema#alternateName> "Baghdād" .

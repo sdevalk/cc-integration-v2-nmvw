@@ -6,3 +6,8 @@
 <https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#creator> "Dhr. A. (Asit) Sen" .
 <https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#yearCreatedStart> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/a96363b4aa63d6f504aca3abdcdc29d5> <https://colonialcollections.nl/schema#countryCreated> "India" .

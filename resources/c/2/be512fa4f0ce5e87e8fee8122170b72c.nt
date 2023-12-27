@@ -6,9 +6,3 @@
 <https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#yearCreatedStart> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#locationCreated> "Garut Regency" .
-<https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#alternateName> "Daerah Tingkat II Garut" .
-<https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#alternateName> "Kabupaten Garut" .
-<https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#alternateName> "Garut" .
-<https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#alternateName> "Garut Regency"@en .
-<https://n2t.net/ark:/27023/9a6d8c4af44ecaffb9a9e497bcc7e4ab> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

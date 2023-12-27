@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/9af3f11cb985b9f0adbc4d2a952fb77d> <https://colonialcollections.nl/schema#inscription> "titels onder de foto's met inkt geschreven op de bladzijden" .
 <https://n2t.net/ark:/27023/9af3f11cb985b9f0adbc4d2a952fb77d> <https://colonialcollections.nl/schema#yearCreatedStart> "1896"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9af3f11cb985b9f0adbc4d2a952fb77d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1897"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9af3f11cb985b9f0adbc4d2a952fb77d> <https://colonialcollections.nl/schema#locationCreated> "Penang" .
-<https://n2t.net/ark:/27023/9af3f11cb985b9f0adbc4d2a952fb77d> <https://colonialcollections.nl/schema#alternateName> "Penang"@en .

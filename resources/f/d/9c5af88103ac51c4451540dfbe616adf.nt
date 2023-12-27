@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/b1492aa736fd897e36cfeb3cca971475> <https://colonialcollections.nl/schema#creator> "Crispen Chakanyuka" .
 <https://n2t.net/ark:/27023/b1492aa736fd897e36cfeb3cca971475> <https://colonialcollections.nl/schema#yearCreatedStart> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b1492aa736fd897e36cfeb3cca971475> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b1492aa736fd897e36cfeb3cca971475> <https://colonialcollections.nl/schema#locationCreated> "Tengenenge" .
-<https://n2t.net/ark:/27023/b1492aa736fd897e36cfeb3cca971475> <https://colonialcollections.nl/schema#alternateName> "Tengenenge"@en .
-<https://n2t.net/ark:/27023/b1492aa736fd897e36cfeb3cca971475> <https://colonialcollections.nl/schema#alternateName> "Tengenenge Art Community" .

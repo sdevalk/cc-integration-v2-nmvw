@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#creator> "Reintjes van Veerssen" .
 <https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#yearCreatedStart> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#yearCreatedEnd> "1894"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/aa2dd89097b889d0974765faf88c5594> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

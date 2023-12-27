@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/b0adcb87ca2545c5174029dc818b1d8e> <https://colonialcollections.nl/schema#creator> "Soil conservation service" .
 <https://n2t.net/ark:/27023/b0adcb87ca2545c5174029dc818b1d8e> <https://colonialcollections.nl/schema#yearCreatedStart> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b0adcb87ca2545c5174029dc818b1d8e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b0adcb87ca2545c5174029dc818b1d8e> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/b0adcb87ca2545c5174029dc818b1d8e> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/b0adcb87ca2545c5174029dc818b1d8e> <https://colonialcollections.nl/schema#countryCreated> "United States" .

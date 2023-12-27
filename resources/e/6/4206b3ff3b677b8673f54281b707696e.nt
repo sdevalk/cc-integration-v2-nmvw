@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/a2dffcdb98c18f9ed92bcf0b8e1162d7> <https://colonialcollections.nl/schema#inscription> "prentbriefkaart, linksonder: onleesbaar" .
 <https://n2t.net/ark:/27023/a2dffcdb98c18f9ed92bcf0b8e1162d7> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a2dffcdb98c18f9ed92bcf0b8e1162d7> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a2dffcdb98c18f9ed92bcf0b8e1162d7> <https://colonialcollections.nl/schema#locationCreated> "North America" .

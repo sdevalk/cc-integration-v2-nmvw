@@ -6,3 +6,7 @@
 <https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#inscription> "r.r.b.: MR. KOFI ANNAN" .
 <https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#locationCreated> "Ghana" .
+<https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#alternateName> "Gold Coast" .
+<https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#alternateName> "Republic of Ghana" .
+<https://n2t.net/ark:/27023/a8c2e6d14a8e60ae1f2793d855e001fc> <https://colonialcollections.nl/schema#countryCreated> "Ghana" .

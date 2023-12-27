@@ -7,8 +7,3 @@
 <https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#creator> "Jero Dalang Diah" .
 <https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#yearCreatedEnd> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#locationCreated> "Kecamatan Buleleng" .
-<https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#alternateName> "Pabean Buleleng" .
-<https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#alternateName> "Buleleng" .
-<https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#alternateName> "Boeleleng" .
-<https://n2t.net/ark:/27023/a2dac719fe856b71e0d9e0e656204b78> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

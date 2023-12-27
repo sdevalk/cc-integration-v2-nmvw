@@ -5,7 +5,3 @@
 <https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#yearCreatedStart> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#locationCreated> "Nazca" .
-<https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#alternateName> "Nasca" .
-<https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#alternateName> "Nazca" .
-<https://n2t.net/ark:/27023/9b2c105fcaf8d4ba26e50d3101497bfa> <https://colonialcollections.nl/schema#alternateName> "Nazca"@en .

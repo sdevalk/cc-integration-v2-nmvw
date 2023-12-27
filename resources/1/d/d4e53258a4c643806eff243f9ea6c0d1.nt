@@ -7,5 +7,3 @@
 <https://n2t.net/ark:/27023/a3b7f01dc232cf7bd089416e6a39097a> <https://colonialcollections.nl/schema#creator> "Euteq Koomvut" .
 <https://n2t.net/ark:/27023/a3b7f01dc232cf7bd089416e6a39097a> <https://colonialcollections.nl/schema#yearCreatedStart> "1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a3b7f01dc232cf7bd089416e6a39097a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a3b7f01dc232cf7bd089416e6a39097a> <https://colonialcollections.nl/schema#locationCreated> "Pelly Bay" .
-<https://n2t.net/ark:/27023/a3b7f01dc232cf7bd089416e6a39097a> <https://colonialcollections.nl/schema#countryCreated> "Canada" .

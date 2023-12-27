@@ -8,3 +8,10 @@
 <https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#inscription> "In pencil below the painting, in English (text is difficult to make out):\r\n'Gonakwa half-Hottentot-Kaffer probably a stephen [?]'\r\n\r\nIn bottom left corner of the sheet of paper in black ink:\r\n'No. 70'" .
 <https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#yearCreatedStart> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#locationCreated> "South Africa" .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#alternateName> "iRiphabliki ye Sewula Afrika" .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#alternateName> "Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#alternateName> "Riphabuliki ya Afurika Tshipembe" .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#alternateName> "Union of South Africa"@en .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#alternateName> "iSewula Afrika" .
+<https://n2t.net/ark:/27023/a4990046016c844967e877edb99f60e1> <https://colonialcollections.nl/schema#countryCreated> "South Africa" .

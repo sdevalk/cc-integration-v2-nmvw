@@ -7,4 +7,3 @@
 <https://n2t.net/ark:/27023/9b0775ce4eef17fe23f109d63586710f> <https://colonialcollections.nl/schema#creator> "R.L. Balke Indian Trading Co." .
 <https://n2t.net/ark:/27023/9b0775ce4eef17fe23f109d63586710f> <https://colonialcollections.nl/schema#yearCreatedStart> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9b0775ce4eef17fe23f109d63586710f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/9b0775ce4eef17fe23f109d63586710f> <https://colonialcollections.nl/schema#locationCreated> "North America" .

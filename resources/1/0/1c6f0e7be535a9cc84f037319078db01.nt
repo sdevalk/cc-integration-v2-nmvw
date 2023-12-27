@@ -8,3 +8,7 @@
 <https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#creator> "L. (Leonie) Pootchemunka" .
 <https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#yearCreatedStart> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#yearCreatedEnd> "2006"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/9be4ad188adc4639f5963710f5755163> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

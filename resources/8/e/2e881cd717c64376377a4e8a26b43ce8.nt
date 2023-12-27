@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#creator> "Bocar Pathé Diong" .
 <https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#yearCreatedStart> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#locationCreated> "Senegal" .
+<https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#alternateName> "Senegal" .
+<https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#alternateName> "Sénégal" .
+<https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#alternateName> "Republic of Senegal"@en .
+<https://n2t.net/ark:/27023/a1fee4eb7da18f7b011fe4455c4f6049> <https://colonialcollections.nl/schema#countryCreated> "Senegal" .

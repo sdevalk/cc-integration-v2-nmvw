@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/a96a68daa93f8592628d233579156402> <https://colonialcollections.nl/schema#creator> "Kikugawa Eizan" .
 <https://n2t.net/ark:/27023/a96a68daa93f8592628d233579156402> <https://colonialcollections.nl/schema#inscription> "I-583" .
 <https://n2t.net/ark:/27023/a96a68daa93f8592628d233579156402> <https://colonialcollections.nl/schema#yearCreatedEnd> "1822"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a96a68daa93f8592628d233579156402> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/a96a68daa93f8592628d233579156402> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/a96a68daa93f8592628d233579156402> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .

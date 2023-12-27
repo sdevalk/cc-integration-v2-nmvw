@@ -7,3 +7,4 @@
 <https://n2t.net/ark:/27023/9c3e26ff267859dfd27a73fc5cc61afb> <https://colonialcollections.nl/schema#creator> "Frederik Martinsen" .
 <https://n2t.net/ark:/27023/9c3e26ff267859dfd27a73fc5cc61afb> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9c3e26ff267859dfd27a73fc5cc61afb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9c3e26ff267859dfd27a73fc5cc61afb> <https://colonialcollections.nl/schema#locationCreated> "Greenland" .

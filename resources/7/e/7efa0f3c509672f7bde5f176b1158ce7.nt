@@ -5,3 +5,7 @@
 <https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#material> "katoen ; brokaat" .
 <https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#locationCreated> "Santiago Chimaltenango" .
+<https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#alternateName> "Chimaltenango" .
+<https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#alternateName> "Santiago Chimaltenango" .
+<https://n2t.net/ark:/27023/a97d91686a05b99d5bdbd954ba2268f2> <https://colonialcollections.nl/schema#countryCreated> "Guatemala" .

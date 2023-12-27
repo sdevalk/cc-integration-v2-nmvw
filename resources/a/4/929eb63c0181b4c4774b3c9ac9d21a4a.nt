@@ -7,3 +7,6 @@
 <https://n2t.net/ark:/27023/a38638f599a5d0e65158096b3a8290f3> <https://colonialcollections.nl/schema#creator> "The Berryhill Company" .
 <https://n2t.net/ark:/27023/a38638f599a5d0e65158096b3a8290f3> <https://colonialcollections.nl/schema#yearCreatedStart> "1930"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a38638f599a5d0e65158096b3a8290f3> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a38638f599a5d0e65158096b3a8290f3> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/a38638f599a5d0e65158096b3a8290f3> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/a38638f599a5d0e65158096b3a8290f3> <https://colonialcollections.nl/schema#countryCreated> "United States" .

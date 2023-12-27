@@ -6,3 +6,6 @@
 <https://n2t.net/ark:/27023/9bec6a0e90539e4e2c1cd2d1fdd3b6aa> <https://colonialcollections.nl/schema#creator> "Johann Hurlimann" .
 <https://n2t.net/ark:/27023/9bec6a0e90539e4e2c1cd2d1fdd3b6aa> <https://colonialcollections.nl/schema#creator> "A. Zschocke" .
 <https://n2t.net/ark:/27023/9bec6a0e90539e4e2c1cd2d1fdd3b6aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9bec6a0e90539e4e2c1cd2d1fdd3b6aa> <https://colonialcollections.nl/schema#locationCreated> "United States" .
+<https://n2t.net/ark:/27023/9bec6a0e90539e4e2c1cd2d1fdd3b6aa> <https://colonialcollections.nl/schema#alternateName> "America"@en .
+<https://n2t.net/ark:/27023/9bec6a0e90539e4e2c1cd2d1fdd3b6aa> <https://colonialcollections.nl/schema#countryCreated> "United States" .

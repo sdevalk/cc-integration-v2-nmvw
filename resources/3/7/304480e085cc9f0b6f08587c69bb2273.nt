@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#creator> "Louis Pwerle" .
 <https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#yearCreatedStart> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/b0d900642e3d2cfe3ad60a45ae0e2b7f> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#creator> "Gary Marjibarralay" .
 <https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#yearCreatedStart> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/9c6bc6d660b4dba80bb096489a8a0abc> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

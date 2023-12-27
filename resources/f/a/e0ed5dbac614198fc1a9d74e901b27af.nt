@@ -8,10 +8,3 @@
 <https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#creator> "Dhr. J. (Jules) Bosgraaf" .
 <https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#yearCreatedStart> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1962"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#locationCreated> "Bonaire Island" .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#alternateName> "Bonaire" .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#alternateName> "Papiamentu" .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#alternateName> "Boneiru" .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#alternateName> "Bonaire Island"@en .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#alternateName> "Buon Ayre"@en .
-<https://n2t.net/ark:/27023/aaf7cc64ed3fd5072dd6b761ad8142de> <https://colonialcollections.nl/schema#alternateName> "Buen Ayre" .

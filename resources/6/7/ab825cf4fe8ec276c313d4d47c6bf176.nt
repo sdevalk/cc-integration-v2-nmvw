@@ -7,3 +7,7 @@
 <https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#inscription> "\"Keepers\" Lilla F. Watson" .
 <https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#yearCreatedStart> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#locationCreated> "Australia" .
+<https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#alternateName> "Australia" .
+<https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#alternateName> "Commonwealth of Australia" .
+<https://n2t.net/ark:/27023/9b203bbf586a1cf67a0e14aa820fdbdc> <https://colonialcollections.nl/schema#countryCreated> "Australia" .

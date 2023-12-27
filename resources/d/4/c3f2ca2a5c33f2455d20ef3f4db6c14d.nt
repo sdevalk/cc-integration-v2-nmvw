@@ -7,3 +7,8 @@
 <https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#inscription> "Op de voorkant in de onderrand van de prent staat van links naar rechts:\r\nPrinted at the Kansaripara Art Studio    (sit)aharana    26, Kristo Dass Palis Lane Cal...\r\n\r\nOp de voorkant in de linkeronder hoek van de prent staat de handtekening van de artiest:\r\nA. Cghase\r\n\r\nOp de achterkant in de rechter onderhoek van de prent staat met potlood geschreven:\r\nmus nr V 10\r\n04-70" .
 <https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#yearCreatedStart> "1900"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/a32b5fdfd4eb7052707919143e18a71b> <https://colonialcollections.nl/schema#countryCreated> "India" .

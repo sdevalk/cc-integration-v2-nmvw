@@ -8,5 +8,3 @@
 <https://n2t.net/ark:/27023/a13ed7b8420bd67c6afdcd234439c5cb> <https://colonialcollections.nl/schema#inscription> "titel geschreven in negatief" .
 <https://n2t.net/ark:/27023/a13ed7b8420bd67c6afdcd234439c5cb> <https://colonialcollections.nl/schema#yearCreatedStart> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a13ed7b8420bd67c6afdcd234439c5cb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1885"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a13ed7b8420bd67c6afdcd234439c5cb> <https://colonialcollections.nl/schema#locationCreated> "North Island" .
-<https://n2t.net/ark:/27023/a13ed7b8420bd67c6afdcd234439c5cb> <https://colonialcollections.nl/schema#alternateName> "North Island"@en .

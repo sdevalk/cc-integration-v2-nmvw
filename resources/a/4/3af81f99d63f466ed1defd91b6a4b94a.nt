@@ -9,3 +9,10 @@
 <https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#inscription> "日本八景 Nihon Hakkei\r\n上高地 Kamikōchi" .
 <https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#yearCreatedStart> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#locationCreated> "Japan" .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#alternateName> "Nihon" .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#alternateName> "Yaponiya" .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#alternateName> "Japon" .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#alternateName> "Giappone" .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#alternateName> "Nippon" .
+<https://n2t.net/ark:/27023/a475d9a1223f87a6a182ac7207157d42> <https://colonialcollections.nl/schema#countryCreated> "Japan" .

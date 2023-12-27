@@ -3,3 +3,6 @@
 <https://n2t.net/ark:/27023/a9ff82c2bd63575cfd3c8a23c408eeba> <https://colonialcollections.nl/schema#name> "VIJZEL VAN HOUT MET STAMPER VOOR HET FIJNMAKEN VAN AMANDELEN" .
 <https://n2t.net/ark:/27023/a9ff82c2bd63575cfd3c8a23c408eeba> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a9ff82c2bd63575cfd3c8a23c408eeba> <https://colonialcollections.nl/schema#yearCreatedEnd> "1965"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a9ff82c2bd63575cfd3c8a23c408eeba> <https://colonialcollections.nl/schema#locationCreated> "Mhamid" .
+<https://n2t.net/ark:/27023/a9ff82c2bd63575cfd3c8a23c408eeba> <https://colonialcollections.nl/schema#alternateName> "Mhamid" .
+<https://n2t.net/ark:/27023/a9ff82c2bd63575cfd3c8a23c408eeba> <https://colonialcollections.nl/schema#countryCreated> "Morocco" .

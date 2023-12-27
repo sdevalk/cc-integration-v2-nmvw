@@ -3,3 +3,8 @@
 <https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#name> "MESSINGEN ONDERDEEL MET ZEVENTIEN GAATJES VAN HOUTEN DRAAIPERSJE, VOOR KRUIDEN" .
 <https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#locationCreated> "India" .
+<https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#alternateName> "Bharat" .
+<https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#alternateName> "Republic of India" .
+<https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#alternateName> "India" .
+<https://n2t.net/ark:/27023/a99bef1b51096bee4de1a3a4c71ab863> <https://colonialcollections.nl/schema#countryCreated> "India" .

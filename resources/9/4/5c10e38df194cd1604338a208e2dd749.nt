@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/a277e1356dbd512c21038d44929680a2> <https://colonialcollections.nl/schema#inscription> "geen" .
 <https://n2t.net/ark:/27023/a277e1356dbd512c21038d44929680a2> <https://colonialcollections.nl/schema#yearCreatedStart> "1840"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a277e1356dbd512c21038d44929680a2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1880"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a277e1356dbd512c21038d44929680a2> <https://colonialcollections.nl/schema#locationCreated> "Osaka" .
-<https://n2t.net/ark:/27023/a277e1356dbd512c21038d44929680a2> <https://colonialcollections.nl/schema#alternateName> "Osaka"@en .
-<https://n2t.net/ark:/27023/a277e1356dbd512c21038d44929680a2> <https://colonialcollections.nl/schema#alternateName> "Osaka" .

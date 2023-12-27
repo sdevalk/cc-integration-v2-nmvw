@@ -7,6 +7,3 @@
 <https://n2t.net/ark:/27023/a98971f5d7a7062004c7aa61afd05103> <https://colonialcollections.nl/schema#creator> "Keisai Eisen" .
 <https://n2t.net/ark:/27023/a98971f5d7a7062004c7aa61afd05103> <https://colonialcollections.nl/schema#yearCreatedStart> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/a98971f5d7a7062004c7aa61afd05103> <https://colonialcollections.nl/schema#yearCreatedEnd> "1825"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/a98971f5d7a7062004c7aa61afd05103> <https://colonialcollections.nl/schema#locationCreated> "Tokyo" .
-<https://n2t.net/ark:/27023/a98971f5d7a7062004c7aa61afd05103> <https://colonialcollections.nl/schema#alternateName> "Tokyo Prefecture"@en .
-<https://n2t.net/ark:/27023/a98971f5d7a7062004c7aa61afd05103> <https://colonialcollections.nl/schema#alternateName> "Tokyo Metropolis"@en .
