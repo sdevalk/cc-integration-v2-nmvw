@@ -4,7 +4,7 @@
 <https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#material> "papier, lichtdruk" .
 <https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#creator> "Kantoorboekhandel Maks & v.d. Klits, Bandoeng" .
-<https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#creator> "Weenenk & Snel, La Haye" .
+<https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#creator> "Onbekend / Unknown" .
 <https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#yearCreatedStart> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/dd1840ac201da960e7536816f4849a9a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .
