@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/6fe2380db7d9f355e243f0bde25bcd1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6fe2380db7d9f355e243f0bde25bcd1f> <https://colonialcollections.nl/schema#identifier> "TM-3014-4" .
-<https://n2t.net/ark:/27023/6fe2380db7d9f355e243f0bde25bcd1f> <https://colonialcollections.nl/schema#name> "PLUIM VAN CASUARISVEREN ALS ARMVERSIERING" .
-<https://n2t.net/ark:/27023/6fe2380db7d9f355e243f0bde25bcd1f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/6fe2380db7d9f355e243f0bde25bcd1f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

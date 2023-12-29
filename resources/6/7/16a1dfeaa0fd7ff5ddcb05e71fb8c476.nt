@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/bda9ec246cf6e78097d919c7484c7b5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bda9ec246cf6e78097d919c7484c7b5b> <https://colonialcollections.nl/schema#identifier> "TM-A-5767" .
-<https://n2t.net/ark:/27023/bda9ec246cf6e78097d919c7484c7b5b> <https://colonialcollections.nl/schema#name> "GETANDE RUGKRABBER VAN DE SCHAAL VAN EEN KOKOSNOOT" .
-<https://n2t.net/ark:/27023/bda9ec246cf6e78097d919c7484c7b5b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/bda9ec246cf6e78097d919c7484c7b5b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

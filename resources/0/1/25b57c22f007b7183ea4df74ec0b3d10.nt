@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/456053522cd16b2de65baf8e7535d33d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/456053522cd16b2de65baf8e7535d33d> <https://colonialcollections.nl/schema#identifier> "TM-1322-123" .
-<https://n2t.net/ark:/27023/456053522cd16b2de65baf8e7535d33d> <https://colonialcollections.nl/schema#name> "BANDFLUIT VAN BAMBOE MET ZES VINGERGATEN" .
-<https://n2t.net/ark:/27023/456053522cd16b2de65baf8e7535d33d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/456053522cd16b2de65baf8e7535d33d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

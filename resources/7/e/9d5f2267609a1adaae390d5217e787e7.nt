@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/69ae6fe8a484c3d2e13a03a49844a46b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/69ae6fe8a484c3d2e13a03a49844a46b> <https://colonialcollections.nl/schema#identifier> "TM-3317-18c" .
-<https://n2t.net/ark:/27023/69ae6fe8a484c3d2e13a03a49844a46b> <https://colonialcollections.nl/schema#name> "GLAZEN KRALEN" .
-<https://n2t.net/ark:/27023/69ae6fe8a484c3d2e13a03a49844a46b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/69ae6fe8a484c3d2e13a03a49844a46b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

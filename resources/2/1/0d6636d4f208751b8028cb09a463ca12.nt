@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <https://colonialcollections.nl/schema#identifier> "TM-A-1703" .
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <https://colonialcollections.nl/schema#name> "ZES HOUTEN LANSEN EN EEN BAMBOE SCHACHT" .
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <https://colonialcollections.nl/schema#description> "Op sommige lansen is een casuarisnagel aan de lans bevestigd. Deze nagel is met plantenvezel en met hars aan de lans vastgezet." .
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <https://colonialcollections.nl/schema#material> "hout ; bamboe ; hars ; nagel ; plantenvezel ; snijden ; omwinden ; lijmen" .
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/db96470ed0b1bab81ef218878d385f97> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

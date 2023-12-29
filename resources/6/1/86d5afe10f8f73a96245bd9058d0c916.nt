@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/0e9380e478656d5bbbd711a53e7137a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e9380e478656d5bbbd711a53e7137a8> <https://colonialcollections.nl/schema#identifier> "TM-2761-520" .
-<https://n2t.net/ark:/27023/0e9380e478656d5bbbd711a53e7137a8> <https://colonialcollections.nl/schema#name> "HOUDER VAN EEN KRUITKOKER" .
-<https://n2t.net/ark:/27023/0e9380e478656d5bbbd711a53e7137a8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/0e9380e478656d5bbbd711a53e7137a8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

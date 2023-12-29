@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/e316c38f6b8f654a9a1cc6e1b63c86fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e316c38f6b8f654a9a1cc6e1b63c86fc> <https://colonialcollections.nl/schema#identifier> "TM-2203-49g" .
-<https://n2t.net/ark:/27023/e316c38f6b8f654a9a1cc6e1b63c86fc> <https://colonialcollections.nl/schema#name> "HOOFDVERSIERING, BESTAANDE UIT BOSJES VEREN" .
-<https://n2t.net/ark:/27023/e316c38f6b8f654a9a1cc6e1b63c86fc> <https://colonialcollections.nl/schema#description> "Zie zettel 2203-49a" .
-<https://n2t.net/ark:/27023/e316c38f6b8f654a9a1cc6e1b63c86fc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/e316c38f6b8f654a9a1cc6e1b63c86fc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

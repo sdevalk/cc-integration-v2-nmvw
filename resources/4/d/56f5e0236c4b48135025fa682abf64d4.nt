@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/4b6e031d4cdcfcad23f36b3d1dce7359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4b6e031d4cdcfcad23f36b3d1dce7359> <https://colonialcollections.nl/schema#identifier> "TM-H-3110p" .
-<https://n2t.net/ark:/27023/4b6e031d4cdcfcad23f36b3d1dce7359> <https://colonialcollections.nl/schema#name> "STAAL VAN KANTWERK" .
-<https://n2t.net/ark:/27023/4b6e031d4cdcfcad23f36b3d1dce7359> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4b6e031d4cdcfcad23f36b3d1dce7359> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/e95e3288c21e316d3485de75a65e99e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e95e3288c21e316d3485de75a65e99e9> <https://colonialcollections.nl/schema#identifier> "TM-3067-7b" .
-<https://n2t.net/ark:/27023/e95e3288c21e316d3485de75a65e99e9> <https://colonialcollections.nl/schema#name> "DEKSEL BEHORENDE BIJ AARDEWERKEN KRUIK" .
-<https://n2t.net/ark:/27023/e95e3288c21e316d3485de75a65e99e9> <https://colonialcollections.nl/schema#description> "Fijngestampte verkoolde bast van de kwepi-boom wordt als bindmiddel in een verhouding 1:1 met de klei vermengd, waarna het geheel in de juiste vorm wordt gebracht. Het stuk kan dan worden gedroogd en gebakken." .
-<https://n2t.net/ark:/27023/e95e3288c21e316d3485de75a65e99e9> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/e95e3288c21e316d3485de75a65e99e9> <https://colonialcollections.nl/schema#yearCreatedEnd> "1961"^^<http://www.w3.org/2001/XMLSchema#integer> .

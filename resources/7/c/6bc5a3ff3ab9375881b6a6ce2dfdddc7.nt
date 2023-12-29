@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/4ae7d52210c9ed9ef52f46ea0daa88b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4ae7d52210c9ed9ef52f46ea0daa88b6> <https://colonialcollections.nl/schema#identifier> "TM-A-64" .
-<https://n2t.net/ark:/27023/4ae7d52210c9ed9ef52f46ea0daa88b6> <https://colonialcollections.nl/schema#name> "HOOFDVERSIERING VAN CASUARISVEREN" .
-<https://n2t.net/ark:/27023/4ae7d52210c9ed9ef52f46ea0daa88b6> <https://colonialcollections.nl/schema#description> "Deze versiering wordt alleen door mannen gedragen tijdens feestelijkheden." .
-<https://n2t.net/ark:/27023/4ae7d52210c9ed9ef52f46ea0daa88b6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4ae7d52210c9ed9ef52f46ea0daa88b6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

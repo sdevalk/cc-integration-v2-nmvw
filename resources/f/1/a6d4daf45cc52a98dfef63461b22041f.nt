@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/41fb7c8ce5b5fbe7d4f0160f19c79e6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/41fb7c8ce5b5fbe7d4f0160f19c79e6d> <https://colonialcollections.nl/schema#identifier> "TM-H-356-4" .
-<https://n2t.net/ark:/27023/41fb7c8ce5b5fbe7d4f0160f19c79e6d> <https://colonialcollections.nl/schema#name> "LEREN KINDERWAJANGPOP, VOORSTELLENDE PENORAN" .
-<https://n2t.net/ark:/27023/41fb7c8ce5b5fbe7d4f0160f19c79e6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/41fb7c8ce5b5fbe7d4f0160f19c79e6d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

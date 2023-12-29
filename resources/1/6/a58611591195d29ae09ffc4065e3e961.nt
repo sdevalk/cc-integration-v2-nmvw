@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/982904c78b85d2ec711e0b22a315b5ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/982904c78b85d2ec711e0b22a315b5ed> <https://colonialcollections.nl/schema#identifier> "TM-A-384" .
-<https://n2t.net/ark:/27023/982904c78b85d2ec711e0b22a315b5ed> <https://colonialcollections.nl/schema#name> "BUNDEL VAN TWAALF PIJLEN MET WEERHAKEN" .
-<https://n2t.net/ark:/27023/982904c78b85d2ec711e0b22a315b5ed> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/982904c78b85d2ec711e0b22a315b5ed> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

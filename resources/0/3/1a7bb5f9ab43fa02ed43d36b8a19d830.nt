@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/f2f9e67ada0b9216a0659691cb0c291e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f2f9e67ada0b9216a0659691cb0c291e> <https://colonialcollections.nl/schema#identifier> "TM-6436-2" .
-<https://n2t.net/ark:/27023/f2f9e67ada0b9216a0659691cb0c291e> <https://colonialcollections.nl/schema#name> "SPIJSDEKSEL" .
-<https://n2t.net/ark:/27023/f2f9e67ada0b9216a0659691cb0c291e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/f2f9e67ada0b9216a0659691cb0c291e> <https://colonialcollections.nl/schema#yearCreatedEnd> "2011"^^<http://www.w3.org/2001/XMLSchema#integer> .

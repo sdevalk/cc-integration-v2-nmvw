@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/328d40a4eb0e5aec262e51f402c6efb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/328d40a4eb0e5aec262e51f402c6efb2> <https://colonialcollections.nl/schema#identifier> "TM-4382-5a" .
-<https://n2t.net/ark:/27023/328d40a4eb0e5aec262e51f402c6efb2> <https://colonialcollections.nl/schema#name> "AARDEWERK TUITKAN MET DEKSEL" .
-<https://n2t.net/ark:/27023/328d40a4eb0e5aec262e51f402c6efb2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/328d40a4eb0e5aec262e51f402c6efb2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

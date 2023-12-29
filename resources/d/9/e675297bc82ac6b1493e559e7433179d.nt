@@ -1,9 +1,0 @@
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#identifier> "IB2016-72-6" .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#name> "VILLAGE PROTECTOR 2" .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#description> "Gemaakt in samenwerking met Ronal Guy James, Trinidad en Tobago. Gebruikt in een performance in 2005, 2007 en 2008." .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#material> "Papier-maché, karton, aluminium, glasvezel, touw, verf, textiel en kralen" .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#creator> "Laura Anderson Barbata" .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#yearCreatedStart> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0b2108a5706538f4c99e800e7b652aef> <https://colonialcollections.nl/schema#yearCreatedEnd> "2005"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/11900b57841be48452df7aa99d220214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/11900b57841be48452df7aa99d220214> <https://colonialcollections.nl/schema#identifier> "TM-brl-1050-21" .
-<https://n2t.net/ark:/27023/11900b57841be48452df7aa99d220214> <https://colonialcollections.nl/schema#name> "TEKENING: \"FIGHT FOR A WOMAN\"" .
-<https://n2t.net/ark:/27023/11900b57841be48452df7aa99d220214> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/11900b57841be48452df7aa99d220214> <https://colonialcollections.nl/schema#creator> "Orkhan Huseynov" .
-<https://n2t.net/ark:/27023/11900b57841be48452df7aa99d220214> <https://colonialcollections.nl/schema#yearCreatedEnd> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .

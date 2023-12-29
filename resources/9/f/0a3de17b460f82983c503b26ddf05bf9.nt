@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/ad453081194c0ef831b2b2ee453453aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ad453081194c0ef831b2b2ee453453aa> <https://colonialcollections.nl/schema#identifier> "TM-2482-19" .
-<https://n2t.net/ark:/27023/ad453081194c0ef831b2b2ee453453aa> <https://colonialcollections.nl/schema#name> "ERETEKEN VOOR EEN MAN DIE MEER DAN ÉÉN KOP HEEFT GESNELD" .
-<https://n2t.net/ark:/27023/ad453081194c0ef831b2b2ee453453aa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/ad453081194c0ef831b2b2ee453453aa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

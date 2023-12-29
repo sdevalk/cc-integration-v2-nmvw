@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/4884cc43a93a06f1b3188dff5dfc9bd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4884cc43a93a06f1b3188dff5dfc9bd0> <https://colonialcollections.nl/schema#identifier> "TM-403-185g" .
-<https://n2t.net/ark:/27023/4884cc43a93a06f1b3188dff5dfc9bd0> <https://colonialcollections.nl/schema#name> "GLAZEN BUISJE MET EEN HARSSOORT, DIE GEBRUIKT WORDT BIJ DE VERVAARDIGING VAN INDIAANS AARDEWERK" .
-<https://n2t.net/ark:/27023/4884cc43a93a06f1b3188dff5dfc9bd0> <https://colonialcollections.nl/schema#description> "Dit staaltje zit in een glazen buisje in een sigarenblik. Dit object is verzameld tijdens de Toemoekhoemak Expeditie van 1907." .
-<https://n2t.net/ark:/27023/4884cc43a93a06f1b3188dff5dfc9bd0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4884cc43a93a06f1b3188dff5dfc9bd0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/4a25e1c678e16d38856ec3b2d306bfa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4a25e1c678e16d38856ec3b2d306bfa8> <https://colonialcollections.nl/schema#identifier> "TM-4308-49" .
-<https://n2t.net/ark:/27023/4a25e1c678e16d38856ec3b2d306bfa8> <https://colonialcollections.nl/schema#name> "MEDICIJNTASJE MET HOUTEN LABEL WAARUIT LETTERSYMBOLEN ZIJN GESNEDEN" .
-<https://n2t.net/ark:/27023/4a25e1c678e16d38856ec3b2d306bfa8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4a25e1c678e16d38856ec3b2d306bfa8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

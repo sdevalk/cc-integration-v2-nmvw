@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/be301eb2648c533df126e008c8621fde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/be301eb2648c533df126e008c8621fde> <https://colonialcollections.nl/schema#identifier> "RV-2120-126" .
-<https://n2t.net/ark:/27023/be301eb2648c533df126e008c8621fde> <https://colonialcollections.nl/schema#name> "BOOG" .
-<https://n2t.net/ark:/27023/be301eb2648c533df126e008c8621fde> <https://colonialcollections.nl/schema#material> "hout ; rotan" .
-<https://n2t.net/ark:/27023/be301eb2648c533df126e008c8621fde> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/be301eb2648c533df126e008c8621fde> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

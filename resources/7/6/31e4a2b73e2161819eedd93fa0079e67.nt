@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/3bbc0d643a13b64c0a011ade0cf86af6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3bbc0d643a13b64c0a011ade0cf86af6> <https://colonialcollections.nl/schema#identifier> "TM-A-4163" .
-<https://n2t.net/ark:/27023/3bbc0d643a13b64c0a011ade0cf86af6> <https://colonialcollections.nl/schema#name> "MALEIS-LAMPUNGSE WOORDENLIJST OP GEKLOPTE BOOMBAST" .
-<https://n2t.net/ark:/27023/3bbc0d643a13b64c0a011ade0cf86af6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3bbc0d643a13b64c0a011ade0cf86af6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

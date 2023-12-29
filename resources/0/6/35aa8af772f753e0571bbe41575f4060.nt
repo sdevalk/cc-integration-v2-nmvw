@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <https://colonialcollections.nl/schema#identifier> "RV-3696-67" .
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <https://colonialcollections.nl/schema#name> "PIJL" .
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <https://colonialcollections.nl/schema#description> "Pijl gebruikt voor het schieten van varkens." .
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <https://colonialcollections.nl/schema#material> "bamboe ; rotan ; schilreep" .
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/000dcb74a1c45d63589abb050f4d6977> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/2b48ae1a0bdf88c7461ee22206075bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2b48ae1a0bdf88c7461ee22206075bf0> <https://colonialcollections.nl/schema#identifier> "TM-1770-2455" .
-<https://n2t.net/ark:/27023/2b48ae1a0bdf88c7461ee22206075bf0> <https://colonialcollections.nl/schema#name> "WAJANGPOP" .
-<https://n2t.net/ark:/27023/2b48ae1a0bdf88c7461ee22206075bf0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/2b48ae1a0bdf88c7461ee22206075bf0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

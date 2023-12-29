@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <https://colonialcollections.nl/schema#identifier> "RV-1889-447" .
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <https://colonialcollections.nl/schema#name> "PIJL" .
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <https://colonialcollections.nl/schema#material> "hout" .
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <https://colonialcollections.nl/schema#yearCreatedStart> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7746cf0a2b81e761c2cee29690e0fc47> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

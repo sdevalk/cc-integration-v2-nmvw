@@ -1,9 +1,0 @@
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#identifier> "7205-11" .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#name> "`Liberate Hong Kong the revolution of our times' (光復香港 時代革命)" .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#material> "metaal ; verf ; slaan" .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#creator> "Kit Da Sketch" .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#inscription> "光復香港 時代革命 (Liberate Hong Kong the revolution of our times)" .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/02d6f1353671f054ef184fd5dc860581> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .

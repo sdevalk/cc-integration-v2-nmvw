@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/79b9d47804d89d2d48e6b8bb9fc49f8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/79b9d47804d89d2d48e6b8bb9fc49f8a> <https://colonialcollections.nl/schema#identifier> "TM-34-131" .
-<https://n2t.net/ark:/27023/79b9d47804d89d2d48e6b8bb9fc49f8a> <https://colonialcollections.nl/schema#name> "DEKSEL VAN GEVLOCHTEN PANDANBLADEREN, VOOR HET AFHOUDEN VAN VLIEGEN" .
-<https://n2t.net/ark:/27023/79b9d47804d89d2d48e6b8bb9fc49f8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/79b9d47804d89d2d48e6b8bb9fc49f8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

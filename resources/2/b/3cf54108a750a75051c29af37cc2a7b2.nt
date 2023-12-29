@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/72e7017fa25a2227b6e5fb9155c9fcdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/72e7017fa25a2227b6e5fb9155c9fcdc> <https://colonialcollections.nl/schema#identifier> "TM-3219-91" .
-<https://n2t.net/ark:/27023/72e7017fa25a2227b6e5fb9155c9fcdc> <https://colonialcollections.nl/schema#name> "LE VILLAGE D'ANDAE" .
-<https://n2t.net/ark:/27023/72e7017fa25a2227b6e5fb9155c9fcdc> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/72e7017fa25a2227b6e5fb9155c9fcdc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1963"^^<http://www.w3.org/2001/XMLSchema#integer> .

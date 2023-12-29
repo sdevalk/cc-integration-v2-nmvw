@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/6fd860c3d85247398a165473d203e607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6fd860c3d85247398a165473d203e607> <https://colonialcollections.nl/schema#identifier> "RV-884-8" .
-<https://n2t.net/ark:/27023/6fd860c3d85247398a165473d203e607> <https://colonialcollections.nl/schema#name> "Hoornen (snuif)doosje" .
-<https://n2t.net/ark:/27023/6fd860c3d85247398a165473d203e607> <https://colonialcollections.nl/schema#material> "Hoorn" .
-<https://n2t.net/ark:/27023/6fd860c3d85247398a165473d203e607> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/6fd860c3d85247398a165473d203e607> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

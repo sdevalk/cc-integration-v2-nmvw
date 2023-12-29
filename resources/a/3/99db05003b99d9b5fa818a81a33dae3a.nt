@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/0c72ca9b342b3e0c3f90c32b995c4f2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0c72ca9b342b3e0c3f90c32b995c4f2a> <https://colonialcollections.nl/schema#identifier> "TM-17-215" .
-<https://n2t.net/ark:/27023/0c72ca9b342b3e0c3f90c32b995c4f2a> <https://colonialcollections.nl/schema#name> "RIETEN PIJL MET PUNT EN BENEN SPITS MET VIJF DOORNVORMIGE WEERHAKEN" .
-<https://n2t.net/ark:/27023/0c72ca9b342b3e0c3f90c32b995c4f2a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/0c72ca9b342b3e0c3f90c32b995c4f2a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

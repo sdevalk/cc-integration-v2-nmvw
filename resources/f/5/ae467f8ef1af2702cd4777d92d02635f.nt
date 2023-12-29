@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/9482ec3c96b9336b32897a79a26d55c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9482ec3c96b9336b32897a79a26d55c4> <https://colonialcollections.nl/schema#identifier> "TM-1537-1j" .
-<https://n2t.net/ark:/27023/9482ec3c96b9336b32897a79a26d55c4> <https://colonialcollections.nl/schema#name> "ZILVEREN TABAKS- OF KALKDOOS" .
-<https://n2t.net/ark:/27023/9482ec3c96b9336b32897a79a26d55c4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/9482ec3c96b9336b32897a79a26d55c4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

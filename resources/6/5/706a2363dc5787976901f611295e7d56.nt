@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/d5fd0d3751f3cd552554c423ffc59907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d5fd0d3751f3cd552554c423ffc59907> <https://colonialcollections.nl/schema#identifier> "TM-1416-66" .
-<https://n2t.net/ark:/27023/d5fd0d3751f3cd552554c423ffc59907> <https://colonialcollections.nl/schema#name> "SIGARENKOKER VAN GEVLOCHTEN BLADREPEN" .
-<https://n2t.net/ark:/27023/d5fd0d3751f3cd552554c423ffc59907> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/d5fd0d3751f3cd552554c423ffc59907> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

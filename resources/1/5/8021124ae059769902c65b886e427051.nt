@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <https://colonialcollections.nl/schema#identifier> "TM-2659-16" .
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <https://colonialcollections.nl/schema#name> "EEN IJSVERKOPER" .
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <https://colonialcollections.nl/schema#description> "Litho naar een aquarel van J. van der Heyden." .
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <https://colonialcollections.nl/schema#material> "papier" .
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/9189829aabc0e91a76eb3d276a87701c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

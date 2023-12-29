@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/f263c03238505bb71355858123f2af29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f263c03238505bb71355858123f2af29> <https://colonialcollections.nl/schema#identifier> "TM-1387-157" .
-<https://n2t.net/ark:/27023/f263c03238505bb71355858123f2af29> <https://colonialcollections.nl/schema#name> "TERRACOTTA MANNENTORSO MET HOOFD" .
-<https://n2t.net/ark:/27023/f263c03238505bb71355858123f2af29> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/f263c03238505bb71355858123f2af29> <https://colonialcollections.nl/schema#yearCreatedStart> "750"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/f263c03238505bb71355858123f2af29> <https://colonialcollections.nl/schema#yearCreatedEnd> "1550"^^<http://www.w3.org/2001/XMLSchema#integer> .

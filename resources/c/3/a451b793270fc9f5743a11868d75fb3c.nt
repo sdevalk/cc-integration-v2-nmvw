@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/b7e9052887fe6aec914492f7d278f026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b7e9052887fe6aec914492f7d278f026> <https://colonialcollections.nl/schema#identifier> "TM-666-315" .
-<https://n2t.net/ark:/27023/b7e9052887fe6aec914492f7d278f026> <https://colonialcollections.nl/schema#name> "SCHELPHOORN" .
-<https://n2t.net/ark:/27023/b7e9052887fe6aec914492f7d278f026> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/b7e9052887fe6aec914492f7d278f026> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/8f5fe135929a7f5dbcb4295a472adb3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8f5fe135929a7f5dbcb4295a472adb3e> <https://colonialcollections.nl/schema#identifier> "TM-H-2900" .
-<https://n2t.net/ark:/27023/8f5fe135929a7f5dbcb4295a472adb3e> <https://colonialcollections.nl/schema#name> "DANSKNOTS" .
-<https://n2t.net/ark:/27023/8f5fe135929a7f5dbcb4295a472adb3e> <https://colonialcollections.nl/schema#description> "Volgens literatuur een dansknots van de Ojana's, dit exemplaar is gemerkt 'P'." .
-<https://n2t.net/ark:/27023/8f5fe135929a7f5dbcb4295a472adb3e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/8f5fe135929a7f5dbcb4295a472adb3e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

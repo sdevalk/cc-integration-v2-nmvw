@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/ce59705f14450fa0b1d912fbac5c77cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ce59705f14450fa0b1d912fbac5c77cf> <https://colonialcollections.nl/schema#identifier> "TM-A-3067" .
-<https://n2t.net/ark:/27023/ce59705f14450fa0b1d912fbac5c77cf> <https://colonialcollections.nl/schema#name> "SLEEPNET MET HOUTEN DRIJVERS EN SCHELPEN ALS GEWICHTEN" .
-<https://n2t.net/ark:/27023/ce59705f14450fa0b1d912fbac5c77cf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/ce59705f14450fa0b1d912fbac5c77cf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

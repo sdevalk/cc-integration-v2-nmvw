@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/8166fc25a0e3a028f59f0fc3ab9433c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8166fc25a0e3a028f59f0fc3ab9433c6> <https://colonialcollections.nl/schema#identifier> "TM-1772-574" .
-<https://n2t.net/ark:/27023/8166fc25a0e3a028f59f0fc3ab9433c6> <https://colonialcollections.nl/schema#name> "HOORNEN KAM IN DE VORM VAN DE MYTHISCHE VIS-OLIFANT, GAJAH MINA" .
-<https://n2t.net/ark:/27023/8166fc25a0e3a028f59f0fc3ab9433c6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/8166fc25a0e3a028f59f0fc3ab9433c6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

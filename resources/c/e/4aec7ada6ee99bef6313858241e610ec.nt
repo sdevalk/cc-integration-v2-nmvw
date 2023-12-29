@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/c7786f7cf54b9be2d02e2d004835adbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c7786f7cf54b9be2d02e2d004835adbd> <https://colonialcollections.nl/schema#identifier> "TM-3357-86" .
-<https://n2t.net/ark:/27023/c7786f7cf54b9be2d02e2d004835adbd> <https://colonialcollections.nl/schema#name> "STENEN BEELD, VERMOEDELIJK EEN LIGGENDE FIGUUR" .
-<https://n2t.net/ark:/27023/c7786f7cf54b9be2d02e2d004835adbd> <https://colonialcollections.nl/schema#description> "Stenen beeld van een liggende figuur. Mogelijk vals\r\nOude kaart: pre-Columbiaans Nocutzepo Michoacan." .
-<https://n2t.net/ark:/27023/c7786f7cf54b9be2d02e2d004835adbd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/c7786f7cf54b9be2d02e2d004835adbd> <https://colonialcollections.nl/schema#yearCreatedEnd> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .

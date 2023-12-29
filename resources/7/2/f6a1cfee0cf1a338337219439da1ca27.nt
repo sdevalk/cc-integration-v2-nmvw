@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/35539fb4bdf575dd7be6a6bb8728fe36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/35539fb4bdf575dd7be6a6bb8728fe36> <https://colonialcollections.nl/schema#identifier> "TM-1155-4c" .
-<https://n2t.net/ark:/27023/35539fb4bdf575dd7be6a6bb8728fe36> <https://colonialcollections.nl/schema#name> "Sagobak" .
-<https://n2t.net/ark:/27023/35539fb4bdf575dd7be6a6bb8728fe36> <https://colonialcollections.nl/schema#description> "Herk: Ned. West Nieuw Guinea, Arguni Baai en Binduni Golf" .
-<https://n2t.net/ark:/27023/35539fb4bdf575dd7be6a6bb8728fe36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/35539fb4bdf575dd7be6a6bb8728fe36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1937"^^<http://www.w3.org/2001/XMLSchema#integer> .

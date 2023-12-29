@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <https://colonialcollections.nl/schema#identifier> "TM-A-1973" .
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <https://colonialcollections.nl/schema#name> "BAMBOE KOKER MET UITGESNEDEN VERSIERING" .
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <https://colonialcollections.nl/schema#description> "De koker bestaat uit één geleding waarvan de epidermis verwijderd is. De bodem wordt op natuurlijke gevormd door het tussenschot. De deksel is eveneens gemaakt van een tussenschot." .
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <https://colonialcollections.nl/schema#material> "bamboe ; krassen" .
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/bf8d81c2a8583c8dd0f2c33f0cceefc6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

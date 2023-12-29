@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/952dc62cecd6b86bf78b5bc1c48713d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/952dc62cecd6b86bf78b5bc1c48713d8> <https://colonialcollections.nl/schema#identifier> "TM-465-14" .
-<https://n2t.net/ark:/27023/952dc62cecd6b86bf78b5bc1c48713d8> <https://colonialcollections.nl/schema#name> "HOUTSNIJWERK" .
-<https://n2t.net/ark:/27023/952dc62cecd6b86bf78b5bc1c48713d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/952dc62cecd6b86bf78b5bc1c48713d8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .

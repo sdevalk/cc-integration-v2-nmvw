@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <https://colonialcollections.nl/schema#identifier> "RV-882-2" .
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <https://colonialcollections.nl/schema#name> "ROK" .
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <https://colonialcollections.nl/schema#description> "In Micronesië werden veel kledingstukken geweven, met name de gordels die door de vrouwen om de heupen werden gewikkeld en door de mannen als een tanga werden gedragen. Per regio waren kleine verschillen in dracht. In Pohnpei droegen de vrouwen een wikkelrok van boombast en de mannen een rok van kokos- of hibiscusvezels. Alleen de hoofdman droeg een geweven gordel." .
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <https://colonialcollections.nl/schema#material> "blad ; wol" .
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/5038248be1e7c80c35ec44f2af266aaa> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

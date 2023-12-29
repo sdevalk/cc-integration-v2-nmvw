@@ -1,9 +1,0 @@
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#identifier> "7205-25a1" .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#name> "`Glory to Hong Kong' (願榮光歸香港)" .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#material> "kunststof ; verf ; drukken" .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#creator> "Kit Da Sketch" .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#inscription> "願榮光歸香港 (Glory to Hong Kong)" .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#yearCreatedStart> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/628b2705676d307988904af9bbcf6101> <https://colonialcollections.nl/schema#yearCreatedEnd> "2019"^^<http://www.w3.org/2001/XMLSchema#integer> .

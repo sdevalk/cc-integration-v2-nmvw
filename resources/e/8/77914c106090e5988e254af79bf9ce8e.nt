@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/c67a560a69e55b3cecb5ff021b7b32de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c67a560a69e55b3cecb5ff021b7b32de> <https://colonialcollections.nl/schema#identifier> "TM-2135-20d" .
-<https://n2t.net/ark:/27023/c67a560a69e55b3cecb5ff021b7b32de> <https://colonialcollections.nl/schema#name> "PIJL MET CASUARISNAGEL" .
-<https://n2t.net/ark:/27023/c67a560a69e55b3cecb5ff021b7b32de> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/c67a560a69e55b3cecb5ff021b7b32de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1952"^^<http://www.w3.org/2001/XMLSchema#integer> .

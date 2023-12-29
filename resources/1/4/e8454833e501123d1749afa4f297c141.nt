@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/497f459f8838592f71f254ac73589f5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/497f459f8838592f71f254ac73589f5b> <https://colonialcollections.nl/schema#identifier> "TM-A-4473a" .
-<https://n2t.net/ark:/27023/497f459f8838592f71f254ac73589f5b> <https://colonialcollections.nl/schema#name> "RECHTE VROUWENKRIS MET HOUTEN GREEP EN HOUTEN SCHEDE" .
-<https://n2t.net/ark:/27023/497f459f8838592f71f254ac73589f5b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/497f459f8838592f71f254ac73589f5b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

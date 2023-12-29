@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <https://colonialcollections.nl/schema#identifier> "TM-4754-64" .
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <https://colonialcollections.nl/schema#name> "TEMPELINGANG" .
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <https://colonialcollections.nl/schema#material> "Crayon op papier" .
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <https://colonialcollections.nl/schema#creator> "J.C. (Jan Christiaan) Poortenaar" .
-<https://n2t.net/ark:/27023/ad5020362623f67bfd4ca75050502a56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .

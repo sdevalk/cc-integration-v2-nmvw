@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/3ce053a18fae44c2d1e0a6e29e53564c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3ce053a18fae44c2d1e0a6e29e53564c> <https://colonialcollections.nl/schema#identifier> "TM-4142-14a" .
-<https://n2t.net/ark:/27023/3ce053a18fae44c2d1e0a6e29e53564c> <https://colonialcollections.nl/schema#name> "WOLLEN HANDSCHOEN, ONDERDEEL VAN EEN PAAR" .
-<https://n2t.net/ark:/27023/3ce053a18fae44c2d1e0a6e29e53564c> <https://colonialcollections.nl/schema#material> "Mohair (vermoedelijk) ; breien" .
-<https://n2t.net/ark:/27023/3ce053a18fae44c2d1e0a6e29e53564c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3ce053a18fae44c2d1e0a6e29e53564c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

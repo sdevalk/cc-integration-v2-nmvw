@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/657d8d1137f2c016ef3fc97ce387028b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/657d8d1137f2c016ef3fc97ce387028b> <https://colonialcollections.nl/schema#identifier> "TM-1772-491b" .
-<https://n2t.net/ark:/27023/657d8d1137f2c016ef3fc97ce387028b> <https://colonialcollections.nl/schema#name> "VEREN HOOFDTOOI VOOR KORWAR" .
-<https://n2t.net/ark:/27023/657d8d1137f2c016ef3fc97ce387028b> <https://colonialcollections.nl/schema#description> "Band van vezelvlechtwerk, waarin kasaurisveren zijn gestoken. Deze tooi wordt alleen opgezet bij bepaalde ceremoniën." .
-<https://n2t.net/ark:/27023/657d8d1137f2c016ef3fc97ce387028b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/657d8d1137f2c016ef3fc97ce387028b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

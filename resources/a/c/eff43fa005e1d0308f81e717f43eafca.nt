@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/2f16e234b679bb084cdb92b97cf79689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2f16e234b679bb084cdb92b97cf79689> <https://colonialcollections.nl/schema#identifier> "TM-A-4901" .
-<https://n2t.net/ark:/27023/2f16e234b679bb084cdb92b97cf79689> <https://colonialcollections.nl/schema#name> "ZITMAT VAN GEVLOCHTEN ROTAN" .
-<https://n2t.net/ark:/27023/2f16e234b679bb084cdb92b97cf79689> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/2f16e234b679bb084cdb92b97cf79689> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

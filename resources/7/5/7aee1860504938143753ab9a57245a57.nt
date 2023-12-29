@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <https://colonialcollections.nl/schema#identifier> "RV-B175-51" .
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <https://colonialcollections.nl/schema#name> "TAS" .
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <https://colonialcollections.nl/schema#description> "Tas gemaakt van bladrepen en katoenen band.\r\n\r\nHet maken van manden en andersoortig vlechtwerk werd door vrouwen gedaan, hoewel mannen soms snel een mandje voor tijdelijk of persoonlijk gebruik maakten. Gebruikelijke materialen zijn bladeren van de kokospalm en pandanus." .
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <https://colonialcollections.nl/schema#material> "pandanblad ; katoen" .
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/b5a248c67adb0a5169f5119e8562c9e5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1967"^^<http://www.w3.org/2001/XMLSchema#integer> .

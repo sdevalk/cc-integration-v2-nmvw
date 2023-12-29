@@ -1,8 +1,0 @@
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#identifier> "WM-429461" .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#description> "Klaslokaal van een meisjesschool. Kinderen zitten achter hun lessenaar. Eén meisje staat achter haar lessenaar en het meisje naast haar steekt haar vinger op.  Voor in het klaslokaal ligt op een tafel een opengeslagen boek." .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#material> "dia : kleur" .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#creator> "Kleeff, H. van & Houwen, P. van der" .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#yearCreatedStart> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3203f66a5009fd9d6001ed2c71b9ad88> <https://colonialcollections.nl/schema#yearCreatedEnd> "1991"^^<http://www.w3.org/2001/XMLSchema#integer> .

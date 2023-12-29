@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/fdff6029df7fdd6233853c89b69902d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fdff6029df7fdd6233853c89b69902d8> <https://colonialcollections.nl/schema#identifier> "TM-251-4" .
-<https://n2t.net/ark:/27023/fdff6029df7fdd6233853c89b69902d8> <https://colonialcollections.nl/schema#name> "DOLK MET EEN GEBOGEN GEVEST VAN HOORN EN MET HOUTEN SCHEDE" .
-<https://n2t.net/ark:/27023/fdff6029df7fdd6233853c89b69902d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/fdff6029df7fdd6233853c89b69902d8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/9224a9d7a567718c9f39c21d20c4c0de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9224a9d7a567718c9f39c21d20c4c0de> <https://colonialcollections.nl/schema#identifier> "TM-3782-520a-1" .
-<https://n2t.net/ark:/27023/9224a9d7a567718c9f39c21d20c4c0de> <https://colonialcollections.nl/schema#name> "HOUTEN STANDAARD VOOR WIEL, ONDERDEEL VAN HET TOUWTWIJNAPPARAAT" .
-<https://n2t.net/ark:/27023/9224a9d7a567718c9f39c21d20c4c0de> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/9224a9d7a567718c9f39c21d20c4c0de> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

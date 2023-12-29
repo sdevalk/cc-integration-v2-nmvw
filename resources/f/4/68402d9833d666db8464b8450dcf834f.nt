@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/52486c3bfa71f753c2611768c16b935c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/52486c3bfa71f753c2611768c16b935c> <https://colonialcollections.nl/schema#identifier> "TM-1772-282" .
-<https://n2t.net/ark:/27023/52486c3bfa71f753c2611768c16b935c> <https://colonialcollections.nl/schema#name> "ZILVEREN AMULET IN DE VORM VAN EEN DOOSJE, DE VOORZIJDE VERSIERD MET BLADRANKENEN VOGELTJES" .
-<https://n2t.net/ark:/27023/52486c3bfa71f753c2611768c16b935c> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/52486c3bfa71f753c2611768c16b935c> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

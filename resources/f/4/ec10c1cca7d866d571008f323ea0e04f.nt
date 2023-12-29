@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/77fad333b569a9329bdf3309b7cb8dc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/77fad333b569a9329bdf3309b7cb8dc8> <https://colonialcollections.nl/schema#identifier> "RV-870-15" .
-<https://n2t.net/ark:/27023/77fad333b569a9329bdf3309b7cb8dc8> <https://colonialcollections.nl/schema#name> "Houten rijgpen" .
-<https://n2t.net/ark:/27023/77fad333b569a9329bdf3309b7cb8dc8> <https://colonialcollections.nl/schema#material> "Hout ; lak" .
-<https://n2t.net/ark:/27023/77fad333b569a9329bdf3309b7cb8dc8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/77fad333b569a9329bdf3309b7cb8dc8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1892"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/bc2d26cd9e35187d28bcc3bdd2f96225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bc2d26cd9e35187d28bcc3bdd2f96225> <https://colonialcollections.nl/schema#identifier> "TM-2658-108" .
-<https://n2t.net/ark:/27023/bc2d26cd9e35187d28bcc3bdd2f96225> <https://colonialcollections.nl/schema#name> "KATOENEN KOKERROK, VERSIERD MET GOBELIN-TECHNIEK" .
-<https://n2t.net/ark:/27023/bc2d26cd9e35187d28bcc3bdd2f96225> <https://colonialcollections.nl/schema#material> "katoen" .
-<https://n2t.net/ark:/27023/bc2d26cd9e35187d28bcc3bdd2f96225> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/bc2d26cd9e35187d28bcc3bdd2f96225> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/3c5a98a434e07f7c3ca3a8888b008a44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3c5a98a434e07f7c3ca3a8888b008a44> <https://colonialcollections.nl/schema#identifier> "TM-2003-107" .
-<https://n2t.net/ark:/27023/3c5a98a434e07f7c3ca3a8888b008a44> <https://colonialcollections.nl/schema#name> "HOUTEN STOP VAN EEN BAMBOE KOKER, VERSIERD MET EEN MENSELIJKE FIGUUR MET OPGEHEVEN HANDEN" .
-<https://n2t.net/ark:/27023/3c5a98a434e07f7c3ca3a8888b008a44> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3c5a98a434e07f7c3ca3a8888b008a44> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

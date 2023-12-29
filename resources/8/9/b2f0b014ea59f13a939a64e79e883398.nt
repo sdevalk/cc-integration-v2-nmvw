@@ -1,8 +1,0 @@
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#identifier> "RV-A102-1-334" .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#name> "\"DE WICHMANN\"" .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: daglichtgelatinezilverdruk\r\nMontage: in album" .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#creator> "G. M. (Gerard Martinus) Versteeg" .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#yearCreatedStart> "1907"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/7ee5f44066c0eaeefc2d344f0921dc8b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1913"^^<http://www.w3.org/2001/XMLSchema#integer> .

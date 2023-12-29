@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/433450b5a6c5a34e64af3d89a6b79811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/433450b5a6c5a34e64af3d89a6b79811> <https://colonialcollections.nl/schema#identifier> "TM-5815-2" .
-<https://n2t.net/ark:/27023/433450b5a6c5a34e64af3d89a6b79811> <https://colonialcollections.nl/schema#name> "WANDELSTOK" .
-<https://n2t.net/ark:/27023/433450b5a6c5a34e64af3d89a6b79811> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Indonesie zuidkust Irian Jaya Mimika kust" .
-<https://n2t.net/ark:/27023/433450b5a6c5a34e64af3d89a6b79811> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/433450b5a6c5a34e64af3d89a6b79811> <https://colonialcollections.nl/schema#yearCreatedEnd> "1999"^^<http://www.w3.org/2001/XMLSchema#integer> .

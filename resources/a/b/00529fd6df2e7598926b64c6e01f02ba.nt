@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/143523f891ff3cf084e7d6c99a71eae2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/143523f891ff3cf084e7d6c99a71eae2> <https://colonialcollections.nl/schema#identifier> "TM-336-2" .
-<https://n2t.net/ark:/27023/143523f891ff3cf084e7d6c99a71eae2> <https://colonialcollections.nl/schema#name> "LAPJESGELD" .
-<https://n2t.net/ark:/27023/143523f891ff3cf084e7d6c99a71eae2> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/143523f891ff3cf084e7d6c99a71eae2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

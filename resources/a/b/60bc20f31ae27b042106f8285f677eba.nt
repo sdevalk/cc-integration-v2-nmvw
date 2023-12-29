@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/58ac436eb02455a43f5e39dc909b5666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/58ac436eb02455a43f5e39dc909b5666> <https://colonialcollections.nl/schema#identifier> "TM-4318-258" .
-<https://n2t.net/ark:/27023/58ac436eb02455a43f5e39dc909b5666> <https://colonialcollections.nl/schema#name> "ENKELVELLIGE BEKERTROM" .
-<https://n2t.net/ark:/27023/58ac436eb02455a43f5e39dc909b5666> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/58ac436eb02455a43f5e39dc909b5666> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

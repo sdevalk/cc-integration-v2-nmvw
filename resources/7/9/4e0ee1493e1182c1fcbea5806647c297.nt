@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/a5927de55f0ad25649b0e33461e4594b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a5927de55f0ad25649b0e33461e4594b> <https://colonialcollections.nl/schema#identifier> "TM-694-1" .
-<https://n2t.net/ark:/27023/a5927de55f0ad25649b0e33461e4594b> <https://colonialcollections.nl/schema#name> "VROUWENHOOFDDOEK DONKERBLAUWE ZIJDE ORNAMENT VAN SUPPL.ZILVERDRAAD" .
-<https://n2t.net/ark:/27023/a5927de55f0ad25649b0e33461e4594b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/a5927de55f0ad25649b0e33461e4594b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

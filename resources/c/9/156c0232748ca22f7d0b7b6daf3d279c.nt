@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/52922cdeb5e2f0fa74b96268d847c530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/52922cdeb5e2f0fa74b96268d847c530> <https://colonialcollections.nl/schema#identifier> "TM-A-4535a" .
-<https://n2t.net/ark:/27023/52922cdeb5e2f0fa74b96268d847c530> <https://colonialcollections.nl/schema#name> "ZAK VAN GEVLOCHTEN PANDANBLAD" .
-<https://n2t.net/ark:/27023/52922cdeb5e2f0fa74b96268d847c530> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/52922cdeb5e2f0fa74b96268d847c530> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/0766923c5205f44ca13a1538c30cf1ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0766923c5205f44ca13a1538c30cf1ec> <https://colonialcollections.nl/schema#identifier> "TM-1055-2b" .
-<https://n2t.net/ark:/27023/0766923c5205f44ca13a1538c30cf1ec> <https://colonialcollections.nl/schema#name> "SLAGHOUT" .
-<https://n2t.net/ark:/27023/0766923c5205f44ca13a1538c30cf1ec> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/0766923c5205f44ca13a1538c30cf1ec> <https://colonialcollections.nl/schema#yearCreatedEnd> "1936"^^<http://www.w3.org/2001/XMLSchema#integer> .

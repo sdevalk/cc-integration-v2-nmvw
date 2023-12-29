@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/6fd909399168c95dc9053c0d48586a50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6fd909399168c95dc9053c0d48586a50> <https://colonialcollections.nl/schema#identifier> "TM-5790-5" .
-<https://n2t.net/ark:/27023/6fd909399168c95dc9053c0d48586a50> <https://colonialcollections.nl/schema#name> "ZILVEREN KOM OP VOET" .
-<https://n2t.net/ark:/27023/6fd909399168c95dc9053c0d48586a50> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/6fd909399168c95dc9053c0d48586a50> <https://colonialcollections.nl/schema#yearCreatedEnd> "1998"^^<http://www.w3.org/2001/XMLSchema#integer> .

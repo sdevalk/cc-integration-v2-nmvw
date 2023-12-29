@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/39fd89ca822f389e8c3be802f72441ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/39fd89ca822f389e8c3be802f72441ae> <https://colonialcollections.nl/schema#identifier> "TM-A-2397" .
-<https://n2t.net/ark:/27023/39fd89ca822f389e8c3be802f72441ae> <https://colonialcollections.nl/schema#name> "TABAK IN EEN BAMBOEKOKER OMWIKKELD MET MAÏSBLAD" .
-<https://n2t.net/ark:/27023/39fd89ca822f389e8c3be802f72441ae> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/39fd89ca822f389e8c3be802f72441ae> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

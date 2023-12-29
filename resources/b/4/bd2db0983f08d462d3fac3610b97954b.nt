@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/4284cf03564aa9b4929a90020a219966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4284cf03564aa9b4929a90020a219966> <https://colonialcollections.nl/schema#identifier> "TM-555-48" .
-<https://n2t.net/ark:/27023/4284cf03564aa9b4929a90020a219966> <https://colonialcollections.nl/schema#name> "BUGINESE RECHTE KRIS MET HOUTEN GREEP EN HOUTEN SCHEDE MET ZILVEREN OVERSCHEDE" .
-<https://n2t.net/ark:/27023/4284cf03564aa9b4929a90020a219966> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4284cf03564aa9b4929a90020a219966> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

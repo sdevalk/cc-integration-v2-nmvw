@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/53b314648cdcab07c74f8de0cfdce6c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/53b314648cdcab07c74f8de0cfdce6c5> <https://colonialcollections.nl/schema#identifier> "TM-2003-105" .
-<https://n2t.net/ark:/27023/53b314648cdcab07c74f8de0cfdce6c5> <https://colonialcollections.nl/schema#name> "LANGWERPIG HOUTEN AMULET MET OOGMOTIEF, AAN EEN EINDE GEVORKT" .
-<https://n2t.net/ark:/27023/53b314648cdcab07c74f8de0cfdce6c5> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/53b314648cdcab07c74f8de0cfdce6c5> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

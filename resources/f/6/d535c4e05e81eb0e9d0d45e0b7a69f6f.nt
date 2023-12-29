@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/8074c9572c50512d041f1f569653caa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8074c9572c50512d041f1f569653caa3> <https://colonialcollections.nl/schema#identifier> "TM-1772-275" .
-<https://n2t.net/ark:/27023/8074c9572c50512d041f1f569653caa3> <https://colonialcollections.nl/schema#name> "HAARKAM VAN VERGULD ZILVER MET LILA STEENTJESVERSIERING" .
-<https://n2t.net/ark:/27023/8074c9572c50512d041f1f569653caa3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/8074c9572c50512d041f1f569653caa3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

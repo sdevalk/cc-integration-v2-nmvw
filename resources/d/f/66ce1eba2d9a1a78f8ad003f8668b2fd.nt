@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <https://colonialcollections.nl/schema#identifier> "TM-5505-54b" .
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <https://colonialcollections.nl/schema#name> "VERKLARING VAN INSTITUUT SCHOEVERS IN JAKARTA" .
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <https://colonialcollections.nl/schema#description> "Verklaring dat Th. Kampmeinert op 6-3-1951 een beknopte opleiding machineschrijven met goed gevolg heeft gevolgd." .
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <https://colonialcollections.nl/schema#yearCreatedStart> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/67117fbd68a239a6665ebb274c93b030> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/f1e7fd2fde1eb623010f88bfad621597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f1e7fd2fde1eb623010f88bfad621597> <https://colonialcollections.nl/schema#identifier> "TM-3715-25" .
-<https://n2t.net/ark:/27023/f1e7fd2fde1eb623010f88bfad621597> <https://colonialcollections.nl/schema#name> "SCHILD VAN HOUT EN ROTAN" .
-<https://n2t.net/ark:/27023/f1e7fd2fde1eb623010f88bfad621597> <https://colonialcollections.nl/schema#description> "Herk: Nieuw Guinea Geelvinkbaaigebied Biak" .
-<https://n2t.net/ark:/27023/f1e7fd2fde1eb623010f88bfad621597> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/f1e7fd2fde1eb623010f88bfad621597> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

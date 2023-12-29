@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <https://colonialcollections.nl/schema#identifier> "TM-45-167c" .
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <https://colonialcollections.nl/schema#name> "MONSTER JAVAANSE TABAK" .
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <https://colonialcollections.nl/schema#description> "Volgens bijgeleverde informatie wordt deze, als dichtgevouwen vellen verhandelde, Javaanse tabak vooral als rooktabak gebruikt." .
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <https://colonialcollections.nl/schema#material> "Tabak ; drogen" .
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/9642cdbc59b2a4bcb09737e60575046f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1916"^^<http://www.w3.org/2001/XMLSchema#integer> .

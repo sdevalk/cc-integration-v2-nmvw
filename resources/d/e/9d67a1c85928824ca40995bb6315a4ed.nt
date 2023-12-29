@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <https://colonialcollections.nl/schema#identifier> "TM-2229-47" .
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <https://colonialcollections.nl/schema#name> "DOEK VAN GEKLOPT EN BESCHILDERDE BOOMBAST" .
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <https://colonialcollections.nl/schema#description> "Het doek is beschilderd met groene, gele en rode figuren en bladmotieven." .
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <https://colonialcollections.nl/schema#material> "boombast ; kleurstof" .
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/63bc488bcb6f6a1e522bde6208bdaa82> <https://colonialcollections.nl/schema#yearCreatedEnd> "1953"^^<http://www.w3.org/2001/XMLSchema#integer> .

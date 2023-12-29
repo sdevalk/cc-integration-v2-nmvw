@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/af6f7cdea55387ec8cacaeb0356e2771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/af6f7cdea55387ec8cacaeb0356e2771> <https://colonialcollections.nl/schema#identifier> "TM-23-57b" .
-<https://n2t.net/ark:/27023/af6f7cdea55387ec8cacaeb0356e2771> <https://colonialcollections.nl/schema#name> "ZILVEREN OORSIERAAD" .
-<https://n2t.net/ark:/27023/af6f7cdea55387ec8cacaeb0356e2771> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/af6f7cdea55387ec8cacaeb0356e2771> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

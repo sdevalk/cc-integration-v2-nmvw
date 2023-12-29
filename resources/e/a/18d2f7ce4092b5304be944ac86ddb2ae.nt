@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/a7f88be83057e469fc7f4b0a3c6d82c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a7f88be83057e469fc7f4b0a3c6d82c3> <https://colonialcollections.nl/schema#identifier> "TM-702-158-324" .
-<https://n2t.net/ark:/27023/a7f88be83057e469fc7f4b0a3c6d82c3> <https://colonialcollections.nl/schema#name> "MUNT VAN LOOD OF ZINK" .
-<https://n2t.net/ark:/27023/a7f88be83057e469fc7f4b0a3c6d82c3> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/a7f88be83057e469fc7f4b0a3c6d82c3> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

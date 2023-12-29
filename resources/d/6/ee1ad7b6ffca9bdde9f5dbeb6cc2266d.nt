@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/3d6201ca4aa41d4b3d79e362bf63794d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3d6201ca4aa41d4b3d79e362bf63794d> <https://colonialcollections.nl/schema#identifier> "TM-932-39" .
-<https://n2t.net/ark:/27023/3d6201ca4aa41d4b3d79e362bf63794d> <https://colonialcollections.nl/schema#name> "HOOFDDOEKJE VAN PSEUDO GOUDDRAADWEEFSEL SOENGKOE MATO" .
-<https://n2t.net/ark:/27023/3d6201ca4aa41d4b3d79e362bf63794d> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Indonesie Sumatra's Westkust" .
-<https://n2t.net/ark:/27023/3d6201ca4aa41d4b3d79e362bf63794d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3d6201ca4aa41d4b3d79e362bf63794d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

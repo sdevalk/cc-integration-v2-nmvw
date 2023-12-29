@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/1bfc38a1085048abd60ffdcb8438c313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1bfc38a1085048abd60ffdcb8438c313> <https://colonialcollections.nl/schema#identifier> "TM-2432-2" .
-<https://n2t.net/ark:/27023/1bfc38a1085048abd60ffdcb8438c313> <https://colonialcollections.nl/schema#name> "KABAJASPELD BESTAANDE UIT DRIE MET EEN KETTING VERBONDEN SPELDEN MET ELK EEN STEEN" .
-<https://n2t.net/ark:/27023/1bfc38a1085048abd60ffdcb8438c313> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/1bfc38a1085048abd60ffdcb8438c313> <https://colonialcollections.nl/schema#yearCreatedEnd> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .

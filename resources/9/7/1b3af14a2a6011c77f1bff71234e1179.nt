@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/6ca0309189f9d8a4da7790e4ac4ea516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6ca0309189f9d8a4da7790e4ac4ea516> <https://colonialcollections.nl/schema#identifier> "TM-2761-534a" .
-<https://n2t.net/ark:/27023/6ca0309189f9d8a4da7790e4ac4ea516> <https://colonialcollections.nl/schema#name> "KOKER" .
-<https://n2t.net/ark:/27023/6ca0309189f9d8a4da7790e4ac4ea516> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/6ca0309189f9d8a4da7790e4ac4ea516> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/758b816a0672ff3391f7ae49606d0f18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/758b816a0672ff3391f7ae49606d0f18> <https://colonialcollections.nl/schema#identifier> "TM-1772-280" .
-<https://n2t.net/ark:/27023/758b816a0672ff3391f7ae49606d0f18> <https://colonialcollections.nl/schema#name> "HANGER MET VIJF VERGULD ZILVEREN KNOOPJES" .
-<https://n2t.net/ark:/27023/758b816a0672ff3391f7ae49606d0f18> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/758b816a0672ff3391f7ae49606d0f18> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

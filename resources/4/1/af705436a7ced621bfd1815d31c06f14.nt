@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/531edc99e41e7685e5e62bd8ef3a3cd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/531edc99e41e7685e5e62bd8ef3a3cd1> <https://colonialcollections.nl/schema#identifier> "TM-8-6" .
-<https://n2t.net/ark:/27023/531edc99e41e7685e5e62bd8ef3a3cd1> <https://colonialcollections.nl/schema#name> "HOUTEN POP VAN EEN CHINESE VENTER" .
-<https://n2t.net/ark:/27023/531edc99e41e7685e5e62bd8ef3a3cd1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/531edc99e41e7685e5e62bd8ef3a3cd1> <https://colonialcollections.nl/schema#yearCreatedEnd> "1914"^^<http://www.w3.org/2001/XMLSchema#integer> .

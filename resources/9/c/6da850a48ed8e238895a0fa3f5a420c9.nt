@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/24d1754f4e39f47263d0a77e0f362a40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/24d1754f4e39f47263d0a77e0f362a40> <https://colonialcollections.nl/schema#identifier> "TM-1468-40" .
-<https://n2t.net/ark:/27023/24d1754f4e39f47263d0a77e0f362a40> <https://colonialcollections.nl/schema#name> "SPATEL VAN BEEN VOOR HET ROEREN VAN SAGOPAP" .
-<https://n2t.net/ark:/27023/24d1754f4e39f47263d0a77e0f362a40> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/24d1754f4e39f47263d0a77e0f362a40> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

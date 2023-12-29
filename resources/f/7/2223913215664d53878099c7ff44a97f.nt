@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/91741e634610433b5a8a642463e5a505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/91741e634610433b5a8a642463e5a505> <https://colonialcollections.nl/schema#identifier> "TM-16-444" .
-<https://n2t.net/ark:/27023/91741e634610433b5a8a642463e5a505> <https://colonialcollections.nl/schema#name> "GORDEL, VAN DIVERS KLEURIGE VEZELS GEVLOCHTEN" .
-<https://n2t.net/ark:/27023/91741e634610433b5a8a642463e5a505> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/91741e634610433b5a8a642463e5a505> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

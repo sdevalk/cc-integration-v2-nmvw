@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/0dca596d0e4b0c82582aaae8d94b9f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0dca596d0e4b0c82582aaae8d94b9f6d> <https://colonialcollections.nl/schema#identifier> "TM-4318-326" .
-<https://n2t.net/ark:/27023/0dca596d0e4b0c82582aaae8d94b9f6d> <https://colonialcollections.nl/schema#name> "KATOENEN HEMD" .
-<https://n2t.net/ark:/27023/0dca596d0e4b0c82582aaae8d94b9f6d> <https://colonialcollections.nl/schema#description> "Vermoedelijk vrouwendracht." .
-<https://n2t.net/ark:/27023/0dca596d0e4b0c82582aaae8d94b9f6d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/0dca596d0e4b0c82582aaae8d94b9f6d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

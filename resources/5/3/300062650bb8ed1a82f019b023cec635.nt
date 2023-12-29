@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/e58778199baa659a305c72d95d49cdff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e58778199baa659a305c72d95d49cdff> <https://colonialcollections.nl/schema#identifier> "TM-A-109b" .
-<https://n2t.net/ark:/27023/e58778199baa659a305c72d95d49cdff> <https://colonialcollections.nl/schema#name> "VROUWENSCHORT VAN GEREGEN KRALEN" .
-<https://n2t.net/ark:/27023/e58778199baa659a305c72d95d49cdff> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/e58778199baa659a305c72d95d49cdff> <https://colonialcollections.nl/schema#yearCreatedEnd> "1906"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/5297ef3dc82c922f49e50dff9def6578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5297ef3dc82c922f49e50dff9def6578> <https://colonialcollections.nl/schema#identifier> "TM-5612-1e" .
-<https://n2t.net/ark:/27023/5297ef3dc82c922f49e50dff9def6578> <https://colonialcollections.nl/schema#name> "ZILVERKLEURIGE DOP, ONDERDEEL VAN EEN BEELD VAN DURGA DIE MET MAHISHASURA VECHT" .
-<https://n2t.net/ark:/27023/5297ef3dc82c922f49e50dff9def6578> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/5297ef3dc82c922f49e50dff9def6578> <https://colonialcollections.nl/schema#yearCreatedEnd> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .

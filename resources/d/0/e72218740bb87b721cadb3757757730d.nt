@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/3ab0d6d7336c2bd58b02e02cb0c69e0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3ab0d6d7336c2bd58b02e02cb0c69e0f> <https://colonialcollections.nl/schema#identifier> "TM-A-5468" .
-<https://n2t.net/ark:/27023/3ab0d6d7336c2bd58b02e02cb0c69e0f> <https://colonialcollections.nl/schema#name> "RUGKRABBER IN DE VORM VAN EEN GETANDE SCHIJF" .
-<https://n2t.net/ark:/27023/3ab0d6d7336c2bd58b02e02cb0c69e0f> <https://colonialcollections.nl/schema#description> "Waarschijnlijk ontbreekt de steel" .
-<https://n2t.net/ark:/27023/3ab0d6d7336c2bd58b02e02cb0c69e0f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3ab0d6d7336c2bd58b02e02cb0c69e0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

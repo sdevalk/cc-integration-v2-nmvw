@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/cba613b893ea9db055e8f4bb94f398a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cba613b893ea9db055e8f4bb94f398a0> <https://colonialcollections.nl/schema#identifier> "TM-H-2070" .
-<https://n2t.net/ark:/27023/cba613b893ea9db055e8f4bb94f398a0> <https://colonialcollections.nl/schema#name> "KOPPENSNELLERSZWAARD, VERSIERD MET EEN BOSJE MENSENHAAR" .
-<https://n2t.net/ark:/27023/cba613b893ea9db055e8f4bb94f398a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/cba613b893ea9db055e8f4bb94f398a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .

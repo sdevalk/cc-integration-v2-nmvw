@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/2ae4bb80bb694c89846a857a1e884837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2ae4bb80bb694c89846a857a1e884837> <https://colonialcollections.nl/schema#identifier> "TM-1498-1" .
-<https://n2t.net/ark:/27023/2ae4bb80bb694c89846a857a1e884837> <https://colonialcollections.nl/schema#name> "KWISPEDOOR VAN MESSING" .
-<https://n2t.net/ark:/27023/2ae4bb80bb694c89846a857a1e884837> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/2ae4bb80bb694c89846a857a1e884837> <https://colonialcollections.nl/schema#yearCreatedEnd> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .

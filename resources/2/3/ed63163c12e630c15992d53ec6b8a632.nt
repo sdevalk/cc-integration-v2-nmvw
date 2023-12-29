@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/cbeda7a5eef9b373bb412c0952589b0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cbeda7a5eef9b373bb412c0952589b0d> <https://colonialcollections.nl/schema#identifier> "TM-10033695" .
-<https://n2t.net/ark:/27023/cbeda7a5eef9b373bb412c0952589b0d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/cbeda7a5eef9b373bb412c0952589b0d> <https://colonialcollections.nl/schema#creator> "D. (Daniel) van der Meulen" .
-<https://n2t.net/ark:/27023/cbeda7a5eef9b373bb412c0952589b0d> <https://colonialcollections.nl/schema#yearCreatedStart> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/cbeda7a5eef9b373bb412c0952589b0d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1944"^^<http://www.w3.org/2001/XMLSchema#integer> .

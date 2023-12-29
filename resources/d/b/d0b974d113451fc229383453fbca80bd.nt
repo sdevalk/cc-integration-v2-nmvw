@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/95f4a238d6999aa20125262bca8c7a09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/95f4a238d6999aa20125262bca8c7a09> <https://colonialcollections.nl/schema#identifier> "TM-16-209" .
-<https://n2t.net/ark:/27023/95f4a238d6999aa20125262bca8c7a09> <https://colonialcollections.nl/schema#name> "HOUTEN VOOROUDERBEELD" .
-<https://n2t.net/ark:/27023/95f4a238d6999aa20125262bca8c7a09> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/95f4a238d6999aa20125262bca8c7a09> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .

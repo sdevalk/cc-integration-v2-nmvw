@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/e804cee44f8f8101248298b1a87d8f53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e804cee44f8f8101248298b1a87d8f53> <https://colonialcollections.nl/schema#identifier> "TM-2003-230" .
-<https://n2t.net/ark:/27023/e804cee44f8f8101248298b1a87d8f53> <https://colonialcollections.nl/schema#name> "ROTAN BUIKBAND MET NASSASCHELPJES" .
-<https://n2t.net/ark:/27023/e804cee44f8f8101248298b1a87d8f53> <https://colonialcollections.nl/schema#description> "Herk: West Nieuw Guinea, Noordkust" .
-<https://n2t.net/ark:/27023/e804cee44f8f8101248298b1a87d8f53> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/e804cee44f8f8101248298b1a87d8f53> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

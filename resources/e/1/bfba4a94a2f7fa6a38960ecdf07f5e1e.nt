@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/8785a67a45396ce720624d1b753f224a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8785a67a45396ce720624d1b753f224a> <https://colonialcollections.nl/schema#identifier> "TM-674-550" .
-<https://n2t.net/ark:/27023/8785a67a45396ce720624d1b753f224a> <https://colonialcollections.nl/schema#name> "MESSINGEN KANON" .
-<https://n2t.net/ark:/27023/8785a67a45396ce720624d1b753f224a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/8785a67a45396ce720624d1b753f224a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

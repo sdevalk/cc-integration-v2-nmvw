@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <https://colonialcollections.nl/schema#identifier> "RV-981-12" .
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <https://colonialcollections.nl/schema#description> "Marionet, Tshang Han ... ..., Chiang  Han, licht vleeskleurig gelaat met zwarte knevel van natuurlijk haar;  zwart  hoofddeksel  met een rood vierkant boven het voorhoofd en geelkoperen  opengewerkte  versiering  langs  de randen; blauw katoenen bovenkleed   met  lange  mouwen;  de  spleten  breed  met  rood  katoen afgezet.\r\nLit.: Catalogue de Groot, blz.47, nr.12" .
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <https://colonialcollections.nl/schema#material> "Hout; katoen; zijde; natuurlijk haar." .
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/0e7b03784a641530e1bf3d33438774d8> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

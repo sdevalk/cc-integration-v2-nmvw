@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <https://colonialcollections.nl/schema#identifier> "WM-435547" .
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <https://colonialcollections.nl/schema#material> "glasdia" .
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <https://colonialcollections.nl/schema#creator> "Sturler-Raemaekers, M.M. de" .
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <https://colonialcollections.nl/schema#yearCreatedStart> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/3af04a277cb61cb9a54430d03b49c787> <https://colonialcollections.nl/schema#yearCreatedEnd> "1951"^^<http://www.w3.org/2001/XMLSchema#integer> .

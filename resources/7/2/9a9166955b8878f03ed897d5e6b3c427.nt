@@ -1,8 +1,0 @@
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#identifier> "WM-V-974" .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#name> "JIZO" .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#description> "Tafel voor V-436, V-548 en V-549." .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#material> "beschilderd hout" .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#yearCreatedStart> "1700"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/796b370bacaec39a02af5bd3314aa38d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .

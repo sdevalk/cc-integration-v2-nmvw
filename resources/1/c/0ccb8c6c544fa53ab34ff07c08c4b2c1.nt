@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/8ca5f22b1fccf1ac7434d8b24441634f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8ca5f22b1fccf1ac7434d8b24441634f> <https://colonialcollections.nl/schema#identifier> "TM-3725-74" .
-<https://n2t.net/ark:/27023/8ca5f22b1fccf1ac7434d8b24441634f> <https://colonialcollections.nl/schema#name> "HOUTEN ZITBANK IN DE VORM VAN EEN KAAIMAN" .
-<https://n2t.net/ark:/27023/8ca5f22b1fccf1ac7434d8b24441634f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/8ca5f22b1fccf1ac7434d8b24441634f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

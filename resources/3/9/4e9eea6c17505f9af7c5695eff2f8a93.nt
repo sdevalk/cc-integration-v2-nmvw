@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/cea3c98a0af8cd2a131b5449164be28f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cea3c98a0af8cd2a131b5449164be28f> <https://colonialcollections.nl/schema#identifier> "TM-3792-1" .
-<https://n2t.net/ark:/27023/cea3c98a0af8cd2a131b5449164be28f> <https://colonialcollections.nl/schema#name> "STUKJE MICA" .
-<https://n2t.net/ark:/27023/cea3c98a0af8cd2a131b5449164be28f> <https://colonialcollections.nl/schema#description> "Herk: Zuidoost Azie Indonesie Zuid Sumatra" .
-<https://n2t.net/ark:/27023/cea3c98a0af8cd2a131b5449164be28f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/cea3c98a0af8cd2a131b5449164be28f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

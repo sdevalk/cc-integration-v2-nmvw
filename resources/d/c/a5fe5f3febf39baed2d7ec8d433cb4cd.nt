@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/7245ff0c1d8a9b3277adbbf6c22b2dfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7245ff0c1d8a9b3277adbbf6c22b2dfb> <https://colonialcollections.nl/schema#identifier> "TM-1772-2183" .
-<https://n2t.net/ark:/27023/7245ff0c1d8a9b3277adbbf6c22b2dfb> <https://colonialcollections.nl/schema#name> "KRALENTAS VOOR SIRIH EN TABAK" .
-<https://n2t.net/ark:/27023/7245ff0c1d8a9b3277adbbf6c22b2dfb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/7245ff0c1d8a9b3277adbbf6c22b2dfb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/1b79d9589511bb60f73fbcf59745aadb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1b79d9589511bb60f73fbcf59745aadb> <https://colonialcollections.nl/schema#identifier> "TM-H-356-9" .
-<https://n2t.net/ark:/27023/1b79d9589511bb60f73fbcf59745aadb> <https://colonialcollections.nl/schema#name> "LEREN KINDERWAJANGPOP, VOORSTELLENDE BIBISANA" .
-<https://n2t.net/ark:/27023/1b79d9589511bb60f73fbcf59745aadb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/1b79d9589511bb60f73fbcf59745aadb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

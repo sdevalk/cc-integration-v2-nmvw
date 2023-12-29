@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/6340c664d71fd0c57e663382ddc1bc9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6340c664d71fd0c57e663382ddc1bc9e> <https://colonialcollections.nl/schema#identifier> "TM-2552-10" .
-<https://n2t.net/ark:/27023/6340c664d71fd0c57e663382ddc1bc9e> <https://colonialcollections.nl/schema#name> "BAMBOE OORVERSIERING VOOR VROUWEN" .
-<https://n2t.net/ark:/27023/6340c664d71fd0c57e663382ddc1bc9e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/6340c664d71fd0c57e663382ddc1bc9e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

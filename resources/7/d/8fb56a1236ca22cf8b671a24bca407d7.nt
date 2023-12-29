@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/b7a3e0c1137fe5d45af06739a375ec34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b7a3e0c1137fe5d45af06739a375ec34> <https://colonialcollections.nl/schema#identifier> "TM-2003-241" .
-<https://n2t.net/ark:/27023/b7a3e0c1137fe5d45af06739a375ec34> <https://colonialcollections.nl/schema#name> "SCHUB VAN HET SCHILD VAN EEN ZEESCHILDPAD" .
-<https://n2t.net/ark:/27023/b7a3e0c1137fe5d45af06739a375ec34> <https://colonialcollections.nl/schema#description> "Vermoedelijk gebruikt als een werktuig," .
-<https://n2t.net/ark:/27023/b7a3e0c1137fe5d45af06739a375ec34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/b7a3e0c1137fe5d45af06739a375ec34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1950"^^<http://www.w3.org/2001/XMLSchema#integer> .

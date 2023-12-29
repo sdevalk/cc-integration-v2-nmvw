@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/4a78a070357ce26f52f0af5fd48f048b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4a78a070357ce26f52f0af5fd48f048b> <https://colonialcollections.nl/schema#identifier> "PL-032-LP" .
-<https://n2t.net/ark:/27023/4a78a070357ce26f52f0af5fd48f048b> <https://colonialcollections.nl/schema#material> "Kanvas & Acrylic" .
-<https://n2t.net/ark:/27023/4a78a070357ce26f52f0af5fd48f048b> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4a78a070357ce26f52f0af5fd48f048b> <https://colonialcollections.nl/schema#yearCreatedStart> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4a78a070357ce26f52f0af5fd48f048b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1994"^^<http://www.w3.org/2001/XMLSchema#integer> .

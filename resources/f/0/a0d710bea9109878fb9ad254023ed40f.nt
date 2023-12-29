@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/b6f545bdc11beb5b5561b46f46db1905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b6f545bdc11beb5b5561b46f46db1905> <https://colonialcollections.nl/schema#identifier> "TM-1144-185" .
-<https://n2t.net/ark:/27023/b6f545bdc11beb5b5561b46f46db1905> <https://colonialcollections.nl/schema#name> "MUNT MET VIERKANT GAT VAN TINKIN, 1794-1801, GEWOON SCHRIFT" .
-<https://n2t.net/ark:/27023/b6f545bdc11beb5b5561b46f46db1905> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/b6f545bdc11beb5b5561b46f46db1905> <https://colonialcollections.nl/schema#yearCreatedStart> "1094"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/b6f545bdc11beb5b5561b46f46db1905> <https://colonialcollections.nl/schema#yearCreatedEnd> "1098"^^<http://www.w3.org/2001/XMLSchema#integer> .

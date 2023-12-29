@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/b59941ce066522fd7d16987934758442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b59941ce066522fd7d16987934758442> <https://colonialcollections.nl/schema#identifier> "TM-674-573" .
-<https://n2t.net/ark:/27023/b59941ce066522fd7d16987934758442> <https://colonialcollections.nl/schema#name> "WERPLANS MET ROTAN STEEL EN BLADVORMIG LEMMET" .
-<https://n2t.net/ark:/27023/b59941ce066522fd7d16987934758442> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/b59941ce066522fd7d16987934758442> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .

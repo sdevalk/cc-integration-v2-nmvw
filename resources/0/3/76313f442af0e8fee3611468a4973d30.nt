@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/d6c0ad530b1d43de8ed7216b524e1818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/d6c0ad530b1d43de8ed7216b524e1818> <https://colonialcollections.nl/schema#identifier> "WM-6807" .
-<https://n2t.net/ark:/27023/d6c0ad530b1d43de8ed7216b524e1818> <https://colonialcollections.nl/schema#name> "BOOMBASTDOEK" .
-<https://n2t.net/ark:/27023/d6c0ad530b1d43de8ed7216b524e1818> <https://colonialcollections.nl/schema#material> "boombast (beschilderd)" .
-<https://n2t.net/ark:/27023/d6c0ad530b1d43de8ed7216b524e1818> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/d6c0ad530b1d43de8ed7216b524e1818> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

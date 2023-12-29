@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/5b8bb8a341d2f55353f62c5cfa20d3be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/5b8bb8a341d2f55353f62c5cfa20d3be> <https://colonialcollections.nl/schema#identifier> "TM-4956-293d" .
-<https://n2t.net/ark:/27023/5b8bb8a341d2f55353f62c5cfa20d3be> <https://colonialcollections.nl/schema#name> "CHROMEN AFSLUITER" .
-<https://n2t.net/ark:/27023/5b8bb8a341d2f55353f62c5cfa20d3be> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/5b8bb8a341d2f55353f62c5cfa20d3be> <https://colonialcollections.nl/schema#yearCreatedEnd> "1985"^^<http://www.w3.org/2001/XMLSchema#integer> .

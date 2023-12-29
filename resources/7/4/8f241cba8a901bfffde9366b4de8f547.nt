@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/eae29fe47058d7b13da16d551775f541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/eae29fe47058d7b13da16d551775f541> <https://colonialcollections.nl/schema#identifier> "TM-519-1" .
-<https://n2t.net/ark:/27023/eae29fe47058d7b13da16d551775f541> <https://colonialcollections.nl/schema#name> "JAVAANS EPOS IN HET BALINEES OP 52 VELLEN LONTARBLAD, MET HOUTEN KNEVELTJE" .
-<https://n2t.net/ark:/27023/eae29fe47058d7b13da16d551775f541> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/eae29fe47058d7b13da16d551775f541> <https://colonialcollections.nl/schema#yearCreatedEnd> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .

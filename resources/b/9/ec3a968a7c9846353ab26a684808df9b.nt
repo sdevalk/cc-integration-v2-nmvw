@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/41c12bd2754f1ee3cbc5eb53c42ca7c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/41c12bd2754f1ee3cbc5eb53c42ca7c6> <https://colonialcollections.nl/schema#identifier> "TM-brl-1050-16" .
-<https://n2t.net/ark:/27023/41c12bd2754f1ee3cbc5eb53c42ca7c6> <https://colonialcollections.nl/schema#name> "TEKENING: \"BAKU BOULEVARD\"" .
-<https://n2t.net/ark:/27023/41c12bd2754f1ee3cbc5eb53c42ca7c6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/41c12bd2754f1ee3cbc5eb53c42ca7c6> <https://colonialcollections.nl/schema#creator> "Orkhan Huseynov" .
-<https://n2t.net/ark:/27023/41c12bd2754f1ee3cbc5eb53c42ca7c6> <https://colonialcollections.nl/schema#yearCreatedEnd> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .

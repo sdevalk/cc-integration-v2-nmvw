@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/cef54e7e07a34a7adf835db72f931ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cef54e7e07a34a7adf835db72f931ccd> <https://colonialcollections.nl/schema#identifier> "TM-2970-70" .
-<https://n2t.net/ark:/27023/cef54e7e07a34a7adf835db72f931ccd> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN BAND" .
-<https://n2t.net/ark:/27023/cef54e7e07a34a7adf835db72f931ccd> <https://colonialcollections.nl/schema#description> "Herk: Vogelkopgebied West Nieuw Guinea" .
-<https://n2t.net/ark:/27023/cef54e7e07a34a7adf835db72f931ccd> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/cef54e7e07a34a7adf835db72f931ccd> <https://colonialcollections.nl/schema#yearCreatedEnd> "1960"^^<http://www.w3.org/2001/XMLSchema#integer> .

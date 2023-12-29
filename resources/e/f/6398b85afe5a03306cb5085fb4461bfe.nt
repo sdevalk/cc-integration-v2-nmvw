@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/7e60174058d02d6b5c5d32e43a822f8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7e60174058d02d6b5c5d32e43a822f8a> <https://colonialcollections.nl/schema#identifier> "TM-1772-212" .
-<https://n2t.net/ark:/27023/7e60174058d02d6b5c5d32e43a822f8a> <https://colonialcollections.nl/schema#name> "MES MET ZILVEREN SCHEDE" .
-<https://n2t.net/ark:/27023/7e60174058d02d6b5c5d32e43a822f8a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/7e60174058d02d6b5c5d32e43a822f8a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

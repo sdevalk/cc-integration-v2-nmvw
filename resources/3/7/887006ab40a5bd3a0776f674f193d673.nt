@@ -1,8 +1,0 @@
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#identifier> "RV-A208-4" .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#name> "KLEDING EN SIERADEN" .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#material> "Materiaal: papier ; karton\r\nTechniek: albuminedruk\r\nMontage: op registratiekaart geplakt" .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#creator> "Hernsheim" .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#yearCreatedStart> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1d94d88e3a5db491f43bc4bfdafac367> <https://colonialcollections.nl/schema#yearCreatedEnd> "1882"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/a8ba600d6f43afd06f52bd0ac8c93c25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a8ba600d6f43afd06f52bd0ac8c93c25> <https://colonialcollections.nl/schema#identifier> "TM-2478-36a" .
-<https://n2t.net/ark:/27023/a8ba600d6f43afd06f52bd0ac8c93c25> <https://colonialcollections.nl/schema#name> "KIES V.E. VARKEN" .
-<https://n2t.net/ark:/27023/a8ba600d6f43afd06f52bd0ac8c93c25> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/a8ba600d6f43afd06f52bd0ac8c93c25> <https://colonialcollections.nl/schema#yearCreatedEnd> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .

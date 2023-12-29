@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/ea32d49b0fd0f018a92f76ca711a4149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ea32d49b0fd0f018a92f76ca711a4149> <https://colonialcollections.nl/schema#identifier> "TM-A-11212a" .
-<https://n2t.net/ark:/27023/ea32d49b0fd0f018a92f76ca711a4149> <https://colonialcollections.nl/schema#name> "DEKSEL, BEHORENDE BIJ HET MANDJE MET EEN WRIJFSTEEN" .
-<https://n2t.net/ark:/27023/ea32d49b0fd0f018a92f76ca711a4149> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/ea32d49b0fd0f018a92f76ca711a4149> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

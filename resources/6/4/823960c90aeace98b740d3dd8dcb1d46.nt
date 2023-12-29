@@ -1,9 +1,0 @@
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#identifier> "WM-902623" .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#name> "AMIROÉ" .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#description> "Antropologische fotografie, documentaire, amateurfotografie. \r\nDodenprauw of zieleprauw voor de 'overtocht'. De prauw bevat allerlei eigendommen van de overledene." .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#material> "papier, ontwikkelgelatinezilverdruk, PE" .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#creator> "Wechel, P. te" .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#yearCreatedStart> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/166d0e38757d1d9abc3dab559c938326> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

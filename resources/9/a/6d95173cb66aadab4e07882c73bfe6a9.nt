@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/13d7eb27a1715e0644c4dec82a4a9602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/13d7eb27a1715e0644c4dec82a4a9602> <https://colonialcollections.nl/schema#identifier> "TM-3725-76c" .
-<https://n2t.net/ark:/27023/13d7eb27a1715e0644c4dec82a4a9602> <https://colonialcollections.nl/schema#name> "SIGAAR GEROLD IN ULEMALI-BAST DOOR DE SJAMAAN GEBRUIKT BIJ HET GENEZEN VAN ZIEKEN" .
-<https://n2t.net/ark:/27023/13d7eb27a1715e0644c4dec82a4a9602> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/13d7eb27a1715e0644c4dec82a4a9602> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .

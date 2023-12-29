@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/f19f4975595ac8c13001a0a064c281e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/f19f4975595ac8c13001a0a064c281e6> <https://colonialcollections.nl/schema#identifier> "TM-5051-20b" .
-<https://n2t.net/ark:/27023/f19f4975595ac8c13001a0a064c281e6> <https://colonialcollections.nl/schema#name> "HOUTEN ONDERDEEL VAN EEN KRANTENHANGER" .
-<https://n2t.net/ark:/27023/f19f4975595ac8c13001a0a064c281e6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/f19f4975595ac8c13001a0a064c281e6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .

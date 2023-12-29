@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/671e15e767cb71ebb6e7c86441e64e92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/671e15e767cb71ebb6e7c86441e64e92> <https://colonialcollections.nl/schema#identifier> "TM-1770-228" .
-<https://n2t.net/ark:/27023/671e15e767cb71ebb6e7c86441e64e92> <https://colonialcollections.nl/schema#name> "BRONZEN BEELDJE VOORSTELLENDE BUDDHA MET KROON" .
-<https://n2t.net/ark:/27023/671e15e767cb71ebb6e7c86441e64e92> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/671e15e767cb71ebb6e7c86441e64e92> <https://colonialcollections.nl/schema#yearCreatedEnd> "1947"^^<http://www.w3.org/2001/XMLSchema#integer> .

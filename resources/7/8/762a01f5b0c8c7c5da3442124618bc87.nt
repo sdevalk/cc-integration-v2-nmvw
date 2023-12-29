@@ -1,8 +1,0 @@
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#identifier> "RV-4683-1" .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#name> "ZWAARDGREEP" .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#description> "Een greep van een zwaard gemaakt van hoorn." .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#material> "hoorn ; haar ; rotan" .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#yearCreatedStart> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/1e13dc0380787128abc2d1056de1d09a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .

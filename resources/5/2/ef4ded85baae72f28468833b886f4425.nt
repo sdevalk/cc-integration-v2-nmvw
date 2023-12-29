@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/cdee28eaa425d84d50125f5a8909d306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/cdee28eaa425d84d50125f5a8909d306> <https://colonialcollections.nl/schema#identifier> "TM-4345-102" .
-<https://n2t.net/ark:/27023/cdee28eaa425d84d50125f5a8909d306> <https://colonialcollections.nl/schema#name> "GEWICHT VAN VIJF KILOGRAM VOOR GEBRUIK IN WINKELS EN OP MARKTEN" .
-<https://n2t.net/ark:/27023/cdee28eaa425d84d50125f5a8909d306> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/cdee28eaa425d84d50125f5a8909d306> <https://colonialcollections.nl/schema#yearCreatedEnd> "1977"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/a6678870df5d1ab8e7727756f6743799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a6678870df5d1ab8e7727756f6743799> <https://colonialcollections.nl/schema#identifier> "TM-2600-10b" .
-<https://n2t.net/ark:/27023/a6678870df5d1ab8e7727756f6743799> <https://colonialcollections.nl/schema#name> "ONDERKAAK VAN EEN PERSOON BEHOREND TOT DE PAPOEA" .
-<https://n2t.net/ark:/27023/a6678870df5d1ab8e7727756f6743799> <https://colonialcollections.nl/schema#material> "Kaakbeen (menselijk)" .
-<https://n2t.net/ark:/27023/a6678870df5d1ab8e7727756f6743799> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/a6678870df5d1ab8e7727756f6743799> <https://colonialcollections.nl/schema#yearCreatedEnd> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .

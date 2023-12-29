@@ -1,9 +1,0 @@
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#identifier> "7082-S-857-92" .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#name> "Tekening" .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#description> "Tekening van een landkaart van West Sumatra" .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#material> "pen op papier" .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#creator> "J.G. (Johan Gerard) Sinia" .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#yearCreatedStart> "1904"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/8efd629c41487a0abf17b2cb5dcb5ccf> <https://colonialcollections.nl/schema#yearCreatedEnd> "1925"^^<http://www.w3.org/2001/XMLSchema#integer> .

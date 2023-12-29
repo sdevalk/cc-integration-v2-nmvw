@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/12c94b1fd63c5c7a26715a8b3737f737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/12c94b1fd63c5c7a26715a8b3737f737> <https://colonialcollections.nl/schema#identifier> "TM-391-94" .
-<https://n2t.net/ark:/27023/12c94b1fd63c5c7a26715a8b3737f737> <https://colonialcollections.nl/schema#name> "BUNDEL BOOMBASTVEZELS" .
-<https://n2t.net/ark:/27023/12c94b1fd63c5c7a26715a8b3737f737> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/12c94b1fd63c5c7a26715a8b3737f737> <https://colonialcollections.nl/schema#yearCreatedEnd> "1927"^^<http://www.w3.org/2001/XMLSchema#integer> .

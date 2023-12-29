@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/b4cffb3cc4dc0103d73832d899293694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/b4cffb3cc4dc0103d73832d899293694> <https://colonialcollections.nl/schema#identifier> "TM-A-2196" .
-<https://n2t.net/ark:/27023/b4cffb3cc4dc0103d73832d899293694> <https://colonialcollections.nl/schema#name> "ARMBAND GEMAAKT VAN SCHELP" .
-<https://n2t.net/ark:/27023/b4cffb3cc4dc0103d73832d899293694> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/b4cffb3cc4dc0103d73832d899293694> <https://colonialcollections.nl/schema#yearCreatedEnd> "1889"^^<http://www.w3.org/2001/XMLSchema#integer> .

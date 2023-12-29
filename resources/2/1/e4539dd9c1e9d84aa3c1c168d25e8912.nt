@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/081b529287b63e3c6d9e0baefb9d531a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/081b529287b63e3c6d9e0baefb9d531a> <https://colonialcollections.nl/schema#identifier> "TM-1772-843b" .
-<https://n2t.net/ark:/27023/081b529287b63e3c6d9e0baefb9d531a> <https://colonialcollections.nl/schema#name> "RONDE DEKSEL, GEGRAVEERD MET 8-PUNTIG ORNAMENT" .
-<https://n2t.net/ark:/27023/081b529287b63e3c6d9e0baefb9d531a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/081b529287b63e3c6d9e0baefb9d531a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1940"^^<http://www.w3.org/2001/XMLSchema#integer> .

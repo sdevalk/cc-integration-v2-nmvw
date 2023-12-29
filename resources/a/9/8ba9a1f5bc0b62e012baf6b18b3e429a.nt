@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <https://colonialcollections.nl/schema#identifier> "TM-2760-172a" .
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAND MET DEKSEL" .
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <https://colonialcollections.nl/schema#description> "De mand is voorzien van een dubbelgevlochten leren draagriem." .
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <https://colonialcollections.nl/schema#material> "palmblad ; leer" .
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/323bcbf24836a04a8a0b94de92b0ce98> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .

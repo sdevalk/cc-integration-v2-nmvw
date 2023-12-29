@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <https://colonialcollections.nl/schema#identifier> "TM-3993-5" .
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <https://colonialcollections.nl/schema#name> "OPENGEWERKTE GOUDEN ARMBAND GEDRAGEN DOOR VROUWEN VAN EEN RADJA FAMILIE" .
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <https://colonialcollections.nl/schema#description> "De oranjerode kleur van de armband is het gevolg van beitsen, een procedé dat op verscheidene plaatsen in Indonesië wordt toegepast. Het sieraad wordt ondergedompeld in een kokend mengsel van salpeter, aluin en zout." .
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <https://colonialcollections.nl/schema#material> "goudlegering ; metaalbewerken ; smeden ; granuleren" .
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/76e9a85a92c4073feeb91e61b581eb21> <https://colonialcollections.nl/schema#yearCreatedEnd> "1971"^^<http://www.w3.org/2001/XMLSchema#integer> .

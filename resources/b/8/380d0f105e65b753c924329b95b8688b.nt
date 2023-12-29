@@ -1,8 +1,0 @@
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#identifier> "RV-962-99" .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#name> "BEKKEN (BO)" .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#description> "Poáh ¹Y, ou ts`îm á, »petites cymbales\". (catalogue De Groot, p. 36 B12)]\r\nEen paar  geel koperen bekkens, vlak aan de rand, met enigszins toelopende halfronde bult met een rood lint. Aan binnen- en buitenzijde gemerkt." .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#material> "messing ; katoen" .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/4d4f710c3f2a6389284db6894507f8bb> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

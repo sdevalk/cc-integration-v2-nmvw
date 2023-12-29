@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/fe0180d95875558fd0de923a4da6b93d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/fe0180d95875558fd0de923a4da6b93d> <https://colonialcollections.nl/schema#identifier> "TM-A-4554" .
-<https://n2t.net/ark:/27023/fe0180d95875558fd0de923a4da6b93d> <https://colonialcollections.nl/schema#name> "AARDEWERKEN BORD VOOR HET FIJNWRIJVEN VAN SAMBAL" .
-<https://n2t.net/ark:/27023/fe0180d95875558fd0de923a4da6b93d> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/fe0180d95875558fd0de923a4da6b93d> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

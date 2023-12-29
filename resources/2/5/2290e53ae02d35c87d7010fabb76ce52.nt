@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/e52cbc17a5e89ca2a1244671f27dc2a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/e52cbc17a5e89ca2a1244671f27dc2a6> <https://colonialcollections.nl/schema#identifier> "TM-989-31" .
-<https://n2t.net/ark:/27023/e52cbc17a5e89ca2a1244671f27dc2a6> <https://colonialcollections.nl/schema#name> "MESSING STANDAARD IN DE VORM VAN EEN DUBBELE NAGA MET DAAROP EEN NAUTILIUSSCHELP" .
-<https://n2t.net/ark:/27023/e52cbc17a5e89ca2a1244671f27dc2a6> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/e52cbc17a5e89ca2a1244671f27dc2a6> <https://colonialcollections.nl/schema#yearCreatedEnd> "1935"^^<http://www.w3.org/2001/XMLSchema#integer> .

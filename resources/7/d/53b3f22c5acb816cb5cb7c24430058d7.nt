@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/16b363e11339210a7a95ace1c5566e34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/16b363e11339210a7a95ace1c5566e34> <https://colonialcollections.nl/schema#identifier> "TM-4411-2e" .
-<https://n2t.net/ark:/27023/16b363e11339210a7a95ace1c5566e34> <https://colonialcollections.nl/schema#name> "DOOS MET RITUELE VOORWERPEN (A TM L)" .
-<https://n2t.net/ark:/27023/16b363e11339210a7a95ace1c5566e34> <https://colonialcollections.nl/schema#description> "Herk: Centraal Azie Tibet" .
-<https://n2t.net/ark:/27023/16b363e11339210a7a95ace1c5566e34> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/16b363e11339210a7a95ace1c5566e34> <https://colonialcollections.nl/schema#yearCreatedEnd> "1978"^^<http://www.w3.org/2001/XMLSchema#integer> .

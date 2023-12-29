@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <https://colonialcollections.nl/schema#identifier> "RV-828-61" .
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <https://colonialcollections.nl/schema#name> "VOORSCHORT" .
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <https://colonialcollections.nl/schema#description> "Drie voorschorten voor vrouwen. \r\nIn Micronesië werden veel kledingstukken geweven, met name de gordels die door de vrouwen om de heupen werden gewikkeld en door de mannen als een tanga werden gedragen. Per regio waren kleine verschillen in dracht. In Pohnpei droegen de vrouwen een wikkelrok van boombast en de mannen een rok van kokos- of hibiscusvezels. Alleen de hoofdman droeg een geweven gordel." .
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <https://colonialcollections.nl/schema#material> "vezel (gras) ; reep (blad)" .
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/c8fc5a3313ae6f9249feb3c0e909464a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .

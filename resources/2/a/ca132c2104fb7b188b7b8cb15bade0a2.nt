@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/2cd473b5cdab55600b9d57796fdfdc67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/2cd473b5cdab55600b9d57796fdfdc67> <https://colonialcollections.nl/schema#identifier> "TM-4294-235" .
-<https://n2t.net/ark:/27023/2cd473b5cdab55600b9d57796fdfdc67> <https://colonialcollections.nl/schema#name> "WOLLEN GEBREIDE MUTS MET OORFLAPPEN" .
-<https://n2t.net/ark:/27023/2cd473b5cdab55600b9d57796fdfdc67> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/2cd473b5cdab55600b9d57796fdfdc67> <https://colonialcollections.nl/schema#yearCreatedEnd> "1976"^^<http://www.w3.org/2001/XMLSchema#integer> .

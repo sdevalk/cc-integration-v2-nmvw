@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/89bbd345c801b214119d6157b763a20e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/89bbd345c801b214119d6157b763a20e> <https://colonialcollections.nl/schema#identifier> "TM-H-2082" .
-<https://n2t.net/ark:/27023/89bbd345c801b214119d6157b763a20e> <https://colonialcollections.nl/schema#name> "GEVLOCHTEN MAND OP POTEN VAN BAMBOE" .
-<https://n2t.net/ark:/27023/89bbd345c801b214119d6157b763a20e> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/89bbd345c801b214119d6157b763a20e> <https://colonialcollections.nl/schema#yearCreatedEnd> "1912"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/9e6bebcfce61c5bbb6c4d57dce95c065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9e6bebcfce61c5bbb6c4d57dce95c065> <https://colonialcollections.nl/schema#identifier> "TM-A-4602e" .
-<https://n2t.net/ark:/27023/9e6bebcfce61c5bbb6c4d57dce95c065> <https://colonialcollections.nl/schema#name> "WAJANG PURWAPOP  BAGONG ZOON VAN SEMAR" .
-<https://n2t.net/ark:/27023/9e6bebcfce61c5bbb6c4d57dce95c065> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/9e6bebcfce61c5bbb6c4d57dce95c065> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

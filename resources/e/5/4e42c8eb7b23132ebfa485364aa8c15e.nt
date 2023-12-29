@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/7a9a75339b5d6e14876209e5edcff555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/7a9a75339b5d6e14876209e5edcff555> <https://colonialcollections.nl/schema#identifier> "TM-48-307" .
-<https://n2t.net/ark:/27023/7a9a75339b5d6e14876209e5edcff555> <https://colonialcollections.nl/schema#name> "GEBATIKTE KATOENEN DOEK" .
-<https://n2t.net/ark:/27023/7a9a75339b5d6e14876209e5edcff555> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/7a9a75339b5d6e14876209e5edcff555> <https://colonialcollections.nl/schema#yearCreatedEnd> "1910"^^<http://www.w3.org/2001/XMLSchema#integer> .

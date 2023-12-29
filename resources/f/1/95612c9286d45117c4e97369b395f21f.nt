@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/bd0ae8d3985bef35b1b3b32d91dfffa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/bd0ae8d3985bef35b1b3b32d91dfffa1> <https://colonialcollections.nl/schema#identifier> "TM-90000399" .
-<https://n2t.net/ark:/27023/bd0ae8d3985bef35b1b3b32d91dfffa1> <https://colonialcollections.nl/schema#name> "FILM GETITELD \"BOOTJES MOLUKKEN, ASMAT - SEPIK IN PRAUWEN\"" .
-<https://n2t.net/ark:/27023/bd0ae8d3985bef35b1b3b32d91dfffa1> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/bd0ae8d3985bef35b1b3b32d91dfffa1> <https://colonialcollections.nl/schema#yearCreatedEnd> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .

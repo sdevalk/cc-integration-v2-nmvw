@@ -1,7 +1,0 @@
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <https://colonialcollections.nl/schema#identifier> "RV-981-40" .
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <https://colonialcollections.nl/schema#name> "Viool" .
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <https://colonialcollections.nl/schema#description> "(geschreven): dzi hien, viool met twee snaren en met boog dzi  \nhien-king = \"boog voor twee koorden\", overeenstemmend met  \ncatalogue blz.45, letter B\r\nLit.: Catalogue de Groot, blz.49" .
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://n2t.net/ark:/27023/ad71a8a86610c16c8458d5789d0e727a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .

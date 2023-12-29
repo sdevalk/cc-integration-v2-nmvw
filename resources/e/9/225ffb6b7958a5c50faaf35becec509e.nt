@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/a6d7fe0d32ad64d802094d7621577d0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/a6d7fe0d32ad64d802094d7621577d0f> <https://colonialcollections.nl/schema#identifier> "TM-A-6994" .
-<https://n2t.net/ark:/27023/a6d7fe0d32ad64d802094d7621577d0f> <https://colonialcollections.nl/schema#name> "KLEINE TAFEL MET MARMEREN PLAAT EN INGELEGDE HOUTEN POTEN" .
-<https://n2t.net/ark:/27023/a6d7fe0d32ad64d802094d7621577d0f> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/a6d7fe0d32ad64d802094d7621577d0f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1920"^^<http://www.w3.org/2001/XMLSchema#integer> .

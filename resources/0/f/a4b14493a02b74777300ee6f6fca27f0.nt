@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/9f7ce6c7f356a3dbf38f53c14297b7f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/9f7ce6c7f356a3dbf38f53c14297b7f4> <https://colonialcollections.nl/schema#identifier> "TM-889-20" .
-<https://n2t.net/ark:/27023/9f7ce6c7f356a3dbf38f53c14297b7f4> <https://colonialcollections.nl/schema#name> "RECHTE KRIS MET HOUTEN GREEP EN HOUTEN SCHEDE" .
-<https://n2t.net/ark:/27023/9f7ce6c7f356a3dbf38f53c14297b7f4> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/9f7ce6c7f356a3dbf38f53c14297b7f4> <https://colonialcollections.nl/schema#yearCreatedEnd> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .

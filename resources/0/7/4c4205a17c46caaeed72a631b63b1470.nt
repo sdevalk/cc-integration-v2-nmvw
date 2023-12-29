@@ -1,6 +1,0 @@
-<https://n2t.net/ark:/27023/245310f54f28cf8a73dd4876e5398c36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/245310f54f28cf8a73dd4876e5398c36> <https://colonialcollections.nl/schema#identifier> "TM-5990-3g" .
-<https://n2t.net/ark:/27023/245310f54f28cf8a73dd4876e5398c36> <https://colonialcollections.nl/schema#name> "HOUTEN BEELDJE" .
-<https://n2t.net/ark:/27023/245310f54f28cf8a73dd4876e5398c36> <https://colonialcollections.nl/schema#description> "Dit voorwerp is onderdeel van een beeldengroep die als geheel een tafereel van stierenrennen weergeeft." .
-<https://n2t.net/ark:/27023/245310f54f28cf8a73dd4876e5398c36> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/245310f54f28cf8a73dd4876e5398c36> <https://colonialcollections.nl/schema#yearCreatedEnd> "1902"^^<http://www.w3.org/2001/XMLSchema#integer> .

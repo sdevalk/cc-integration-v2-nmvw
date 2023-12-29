@@ -1,5 +1,0 @@
-<https://n2t.net/ark:/27023/6d99d8fd5283eaa07a27bbd98d62ca56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://colonialcollections.nl/schema#HeritageObject> .
-<https://n2t.net/ark:/27023/6d99d8fd5283eaa07a27bbd98d62ca56> <https://colonialcollections.nl/schema#identifier> "TM-2761-151" .
-<https://n2t.net/ark:/27023/6d99d8fd5283eaa07a27bbd98d62ca56> <https://colonialcollections.nl/schema#name> "MONDHARP VAN IJZER" .
-<https://n2t.net/ark:/27023/6d99d8fd5283eaa07a27bbd98d62ca56> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
-<https://n2t.net/ark:/27023/6d99d8fd5283eaa07a27bbd98d62ca56> <https://colonialcollections.nl/schema#yearCreatedEnd> "1959"^^<http://www.w3.org/2001/XMLSchema#integer> .
